@@ -7,6 +7,7 @@ from openpyxl.utils.dataframe import dataframe_to_rows
 from openpyxl.utils import get_column_letter
 
 from streamlit_app.helpers.API_helpers import get_financial_statement
+from streamlit_app.helpers.base_formatting import formatting_page
 
 # -------------------------
 # Helper Functions
@@ -177,6 +178,10 @@ if st.button("Build DCF Model"):
                 forecast_ws[f"{col_letter}{row_mapping['Income Tax']}"] = f"={col_letter}{row_mapping['Operating Income']}*Assumptions!B5"
                 forecast_ws[f"{col_letter}{row_mapping['Net Income']}"] = f"={col_letter}{row_mapping['Operating Income']}-{col_letter}{row_mapping['Income Tax']}"
                 forecast_ws[f"{col_letter}{row_mapping['Free Cash Flow']}"] = f"={col_letter}{row_mapping['Net Income']}+(Assumptions!B6*{col_letter}{row_mapping['Revenue']})-(Assumptions!B7*{col_letter}{row_mapping['Revenue']})"
+            
+            for sheet in wb.worksheets:
+                formatting_page(sheet)
+            
             # Save and Streamlit Download
             output = BytesIO()
             wb.save(output)
