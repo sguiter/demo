@@ -1,0 +1,190 @@
+import streamlit as st
+import pandas as pd
+from io import BytesIO
+from openpyxl import Workbook
+from openpyxl.utils.dataframe import dataframe_to_rows
+from openpyxl.utils import get_column_letter
+
+from streamlit_app.helpers.API_helpers import get_financial_statement
+
+# Configure the app to use full width
+st.set_page_config(page_title="DCF Analysis", layout="wide")
+
+# -------------------------
+# Helper Functions
+# -------------------------
+def transform_income_statement(df):
+    df = df.set_index('date')
+    df = df.drop(columns=[
+        'symbol', 'reportedCurrency', 'cik', 'fillingDate', 'acceptedDate',
+        'calendarYear', 'period', 'link', 'finalLink'
+    ], errors='ignore')
+    df = df.transpose()
+    return df[df.columns[::-1]]
+
+def transform_balance_sheet(df):
+    df = df.set_index('date')
+    df = df.drop(columns=[
+        'symbol', 'reportedCurrency', 'cik', 'fillingDate', 'acceptedDate',
+        'calendarYear', 'period', 'link', 'finalLink'
+    ], errors='ignore')
+    df = df.transpose()
+    return df[df.columns[::-1]]
+
+def transform_cash_flow(df):
+    df = df.set_index('date')
+    df = df.drop(columns=[
+        'symbol', 'reportedCurrency', 'cik', 'fillingDate', 'acceptedDate',
+        'calendarYear', 'period', 'link', 'finalLink'
+    ], errors='ignore')
+    df = df.transpose()
+    return df[df.columns[::-1]]
+
+def pull_historical_data(ticker):
+    inc = get_financial_statement(ticker, "income-statement")
+    bs = get_financial_statement(ticker, "balance-sheet-statement")
+    cf = get_financial_statement(ticker, "cash-flow-statement")
+    return (
+        transform_income_statement(inc),
+        transform_balance_sheet(bs),
+        transform_cash_flow(cf)
+    )
+
+# -------------------------
+# Streamlit Layout & State
+# -------------------------
+if 'show_next' not in st.session_state:
+    st.session_state.show_next = False
+if 'prev_ticker' not in st.session_state:
+    st.session_state.prev_ticker = None
+
+# Row 1: Title
+st.markdown(
+    "<h1 style='text-align: center;'>DCF Analysis</h1>",
+    unsafe_allow_html=True
+)
+
+# Row 1: Ticker Input
+ticker = st.text_input(
+    "Enter a stock ticker (e.g., AAPL, MSFT)",
+    key='ticker_input'
+)
+
+# Reset flow if ticker changes
+if ticker and ticker != st.session_state.prev_ticker:
+    st.session_state.show_next = False
+    st.session_state.prev_ticker = ticker
+
+if ticker:
+    # Pull historicals
+    income_df, balance_df, cashflow_df = pull_historical_data(ticker)
+
+    # Row 3: Display the last 5 years of historicals across full width
+    st.markdown("### Historical Financial Statements")
+    col1, col2, col3 = st.columns([1,1,1], gap="large")
+    with col1:
+        st.subheader("Income Statement")
+        st.dataframe(
+            income_df,
+            height=400,
+            use_container_width=True
+        )
+    with col2:
+        st.subheader("Balance Sheet")
+        st.dataframe(
+            balance_df,
+            height=400,
+            use_container_width=True
+        )
+    with col3:
+        st.subheader("Cash Flow Statement")
+        st.dataframe(
+            cashflow_df,
+            height=400,
+            use_container_width=True
+        )
+
+    # Row 4: Forecast setup with full-width columns
+    st.markdown("---")
+    c1, c2, c3, c4 = st.columns([1,1,1,0.5], gap="medium")
+    with c1:
+        forecast_years = st.number_input(
+            "Forecast Period (years)", min_value=1, max_value=10, value=5,
+            key='forecast_years'
+        )
+    with c2:
+        lt_growth = st.number_input(
+            "Long-Term Growth Rate (%)", value=2.0,
+            key='lt_growth'
+        ) / 100
+    with c3:
+        forecast_metrics = st.multiselect(
+            "Variables to forecast",
+            options=[
+                "revenue", "gross_margin",
+                "operating_margin", "tax_rate"
+            ],
+            default=["revenue"],
+            key='forecast_metrics'
+        )
+    with c4:
+        if st.button("Next", key='next_button'):
+            st.session_state.show_next = True
+
+    # Row 5: Assumptions Input (only if Next clicked)
+    if st.session_state.show_next:
+        st.markdown("### Assumptions & Inputs")
+        a1, a2 = st.columns(2, gap="large")
+        with a1:
+            if 'revenue' in forecast_metrics:
+                rev_growth = st.number_input(
+                    "Revenue YoY Growth (%)", value=8.0, key='rev_growth'
+                ) / 100
+            else:
+                rev_growth = None
+            if 'gross_margin' in forecast_metrics:
+                gross_margin = st.number_input(
+                    "Gross Margin (%)",
+                    value=float(
+                        income_df.loc['grossProfit'].iloc[-1] /
+                        income_df.loc['revenue'].iloc[-1] * 100
+                    ), key='gross_margin'
+                ) / 100
+            else:
+                gross_margin = None
+            if 'operating_margin' in forecast_metrics:
+                operating_margin = st.number_input(
+                    "Operating Margin (%)",
+                    value=float(
+                        income_df.loc['operatingIncome'].iloc[-1] /
+                        income_df.loc['revenue'].iloc[-1] * 100
+                    ), key='operating_margin'
+                ) / 100
+            else:
+                operating_margin = None
+            if 'tax_rate' in forecast_metrics:
+                tax_rate = st.number_input(
+                    "Tax Rate (%)", value=21.0,
+                    key='tax_rate'
+                ) / 100
+            else:
+                tax_rate = None
+        with a2:
+            da_pct = st.number_input(
+                "D&A (% of Revenue)", value=3.0,
+                key='da_pct'
+            ) / 100
+            capex_pct = st.number_input(
+                "CapEx (% of Revenue)", value=5.0,
+                key='capex_pct'
+            ) / 100
+            disc_rate = st.number_input(
+                "Discount Rate (Cost of Equity%)", value=10.0,
+                key='disc_rate'
+            ) / 100
+
+        # Row 6: Generate DCF Button
+        st.markdown("---")
+        if st.button("Generate DCF", key='generate_dcf'):
+            # ... DCF building logic unchanged ...
+            pass
