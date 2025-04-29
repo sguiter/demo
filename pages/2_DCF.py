@@ -1,200 +1,217 @@
 import streamlit as st
 import pandas as pd
-import requests
 from io import BytesIO
 from openpyxl import Workbook
 from openpyxl.utils.dataframe import dataframe_to_rows
 from openpyxl.utils import get_column_letter
+from openpyxl.styles import Font, Border, Side, Alignment
 
 from streamlit_app.helpers.API_helpers import get_financial_statement
 from streamlit_app.helpers.base_formatting import formatting_page
+
+# -------------------------
+# Constants
+# -------------------------
+
+RATIO_ITEMS = {
+    "grossProfitRatio",
+    "ebitdaratio",
+    "operatingIncomeRatio",
+    "incomeBeforeTaxRatio",
+    "netIncomeRatio",
+    "eps",
+    "epsdiluted"
+}
+
+SEPARATOR_BORDER = Border(
+    top=Side(style="thin", color="000000"),
+    bottom=Side(style="thin", color="000000")
+)
 
 # -------------------------
 # Helper Functions
 # -------------------------
 
 def transform_income_statement(df):
-    df = df.set_index('date')
-    df = df.drop(columns=[
-        'symbol', 'reportedCurrency', 'cik', 'fillingDate', 'acceptedDate',
-        'calendarYear', 'period', 'link', 'finalLink'
-    ], errors='ignore')
-    df = df.transpose()
-    df = df[df.columns[::-1]]
-    return df
+    df = df.set_index('date').drop(columns=[
+        'symbol','reportedCurrency','cik','fillingDate','acceptedDate',
+        'calendarYear','period','link','finalLink'
+    ], errors='ignore').transpose()
+    return df[df.columns[::-1]]
 
 def transform_balance_sheet(df):
-    df = df.set_index('date')
-    df = df.drop(columns=[
-        'symbol', 'reportedCurrency', 'cik', 'fillingDate', 'acceptedDate',
-        'calendarYear', 'period', 'link', 'finalLink'
-    ], errors='ignore')
-    df = df.transpose()
-    df = df[df.columns[::-1]]
-    return df
+    df = df.set_index('date').drop(columns=[
+        'symbol','reportedCurrency','cik','fillingDate','acceptedDate',
+        'calendarYear','period','link','finalLink'
+    ], errors='ignore').transpose()
+    return df[df.columns[::-1]]
 
 def transform_cash_flow(df):
-    df = df.set_index('date')
-    df = df.drop(columns=[
-        'symbol', 'reportedCurrency', 'cik', 'fillingDate', 'acceptedDate',
-        'calendarYear', 'period', 'link', 'finalLink'
-    ], errors='ignore')
-    df = df.transpose()
-    df = df[df.columns[::-1]]
-    return df
+    df = df.set_index('date').drop(columns=[
+        'symbol','reportedCurrency','cik','fillingDate','acceptedDate',
+        'calendarYear','period','link','finalLink'
+    ], errors='ignore').transpose()
+    return df[df.columns[::-1]]
 
 def pull_historical_data(ticker):
-    income_statement = get_financial_statement(ticker, "income-statement")
-    balance_sheet = get_financial_statement(ticker, "balance-sheet-statement")
-    cash_flow = get_financial_statement(ticker, "cash-flow-statement")
+    inc = get_financial_statement(ticker, "income-statement")
+    bal = get_financial_statement(ticker, "balance-sheet-statement")
+    cf  = get_financial_statement(ticker, "cash-flow-statement")
+    return (
+        transform_income_statement(inc),
+        transform_balance_sheet(bal),
+        transform_cash_flow(cf)
+    )
 
-    income_statement = transform_income_statement(income_statement)
-    balance_sheet = transform_balance_sheet(balance_sheet)
-    cash_flow = transform_cash_flow(cash_flow)
+def create_historical_combined_sheet(wb, dfs, titles):
+    ws = wb.create_sheet("Historical")
+    start_row = 1
+    for df, title in zip(dfs, titles):
+        # Title + separator
+        ws.cell(row=start_row, column=1, value=title)
+        for col_idx in range(1, df.shape[1] + 2):
+            ws.cell(row=start_row, column=col_idx).border = SEPARATOR_BORDER
 
-    return income_statement, balance_sheet, cash_flow
+        # Data rows (bold ratios)
+        for r_idx, row in enumerate(dataframe_to_rows(df, index=True, header=True), start=start_row+1):
+            for c_idx, val in enumerate(row, start=1):
+                cell = ws.cell(row=r_idx, column=c_idx, value=val)
+                if r_idx > start_row+1 and row[0] in RATIO_ITEMS:
+                    cell.font = Font(bold=True, name=cell.font.name, size=cell.font.size)
+        start_row += df.shape[0] + 1 + 5
 
 # -------------------------
-# Streamlit Inputs
+# Streamlit UI
 # -------------------------
 
 st.title("💸 Discounted Cash Flow (DCF) Calculator")
 
-# Ticker input
 ticker = st.text_input("Enter a stock ticker (e.g., AAPL, MSFT)")
+forecast_years = st.slider("How many years to forecast?", 1, 10, 5)
 
-# Forecast horizon
-forecast_years = st.slider("How many years would you like to forecast?", min_value=1, max_value=10, value=5)
-
-# Financial assumptions
 st.subheader("Financial Assumptions")
-revenue_growth = st.number_input("Revenue Growth Rate (%)", value=8.0) / 100
-gross_margin = st.number_input("Gross Margin (%)", value=60.0) / 100
-operating_costs_percent = st.number_input("Operating Costs (% of Revenue)", value=30.0) / 100
-tax_rate = st.number_input("Tax Rate (%)", value=21.0) / 100
-da_percent = st.number_input("D&A (% of Revenue)", value=3.0) / 100
-capex_percent = st.number_input("CapEx (% of Revenue)", value=5.0) / 100
-
-# -------------------------
-# Main Build Button
-# -------------------------
+revenue_growth          = st.number_input("Revenue Growth Rate (%)", 8.0)    / 100
+gross_margin            = st.number_input("Gross Margin (%)", 60.0)         / 100
+operating_costs_percent = st.number_input("Operating Costs (% of Revenue)", 30.0) / 100
+tax_rate                = st.number_input("Tax Rate (%)", 21.0)             / 100
+da_percent              = st.number_input("D&A (% of Revenue)", 3.0)        / 100
+capex_percent           = st.number_input("CapEx (% of Revenue)", 5.0)      / 100
 
 if st.button("Build DCF Model"):
-    if ticker:
+    if not ticker:
+        st.warning("Please enter a valid ticker.")
+    else:
         with st.spinner("Building your DCF model..."):
-            income_df, balance_df, cashflow_df = pull_historical_data(ticker)
+            inc_df, bal_df, cf_df = pull_historical_data(ticker)
+            inc_df.columns = pd.to_datetime(inc_df.columns).date
+            bal_df.columns = pd.to_datetime(bal_df.columns).date
+            cf_df.columns  = pd.to_datetime(cf_df.columns).date
 
-            # Create Excel Workbook
+            # Convert non-ratio items to millions
+            for df in (inc_df, bal_df, cf_df):
+                mask = [idx not in RATIO_ITEMS for idx in df.index]
+                df.loc[mask] = df.loc[mask] / 1_000_000
+
+            # Historical sheet
             wb = Workbook()
             wb.remove(wb.active)
+            create_historical_combined_sheet(
+                wb,
+                dfs=[inc_df, bal_df, cf_df],
+                titles=["Income Statement", "Balance Sheet", "Statement of Cash Flows"]
+            )
 
-            # Create Historical Sheets
-            def create_historical_sheet(wb, df, sheet_name):
-                ws = wb.create_sheet(title=sheet_name)
-                for r in dataframe_to_rows(df, index=True, header=True):
-                    ws.append(r)
+            # Assumptions sheet
+            asum = wb.create_sheet("Assumptions")
+            asum.append(["Input", "Value"])
+            asum.append(["Revenue Growth Rate (%)", revenue_growth])
+            asum.append(["Gross Margin (%)", gross_margin])
+            asum.append(["Operating Costs (% of Revenue)", operating_costs_percent])
+            asum.append(["Tax Rate (%)", tax_rate])
+            asum.append(["D&A (% of Revenue)", da_percent])
+            asum.append(["CapEx (% of Revenue)", capex_percent])
 
-            create_historical_sheet(wb, income_df, "Income Statement")
-            create_historical_sheet(wb, balance_df, "Balance Sheet")
-            create_historical_sheet(wb, cashflow_df, "Cash Flow Statement")
-
-            # Create Assumptions Sheet
-            assumptions_ws = wb.create_sheet(title="Assumptions")
-            assumptions_ws.append(["Input", "Value"])
-            assumptions_ws.append(["Revenue Growth Rate (%)", revenue_growth])
-            assumptions_ws.append(["Gross Margin (%)", gross_margin])
-            assumptions_ws.append(["Operating Costs (% of Revenue)", operating_costs_percent])
-            assumptions_ws.append(["Tax Rate (%)", tax_rate])
-            assumptions_ws.append(["D&A (% of Revenue)", da_percent])
-            assumptions_ws.append(["CapEx (% of Revenue)", capex_percent])
-
-            # Create DCF Forecast Sheet
-            forecast_ws = wb.create_sheet(title="DCF Forecast")
-
+            # DCF Forecast sheet
+            forecast_ws = wb.create_sheet("DCF Forecast")
             lines = [
                 "Revenue", "COGS", "Gross Profit", "Gross Margin %",
                 "Operating Costs", "Operating Income", "Operating Margin %",
                 "Income Tax", "Net Income", "Net Income Margin %", "Free Cash Flow"
             ]
-
-            years = list(income_df.columns) + [f"Forecast {i+1}" for i in range(forecast_years)]
+            # Headers: historical dates + next years
+            historical_headers = inc_df.columns.tolist()
+            last_year = historical_headers[-1].year
+            forecast_headers = [last_year + i + 1 for i in range(forecast_years)]
+            years = historical_headers + forecast_headers
             forecast_ws.append(["Variable"] + years)
 
-            row_mapping = {}
+            # Bold the forecast year header cells
+            num_hist = len(historical_headers)
+            for col_idx in range(2 + num_hist, 2 + num_hist + forecast_years):
+                cell = forecast_ws.cell(row=1, column=col_idx)
+                cell.font = Font(bold=True, name=cell.font.name, size=cell.font.size)
+
+            # Build rows and formulas
+            row_map = {}
             for line in lines:
                 forecast_ws.append([line] + [""] * len(years))
-                row_mapping[line] = forecast_ws.max_row
+                row_map[line] = forecast_ws.max_row
 
-            # 🔥 Correctly find real rows
-            lookup_rows = {
-                "revenue": None,
-                "costOfRevenue": None,
-                "grossProfit": None,
-                "operatingIncome": None,
-                "incomeTaxExpense": None,
-                "netIncome": None
-            }
+            # Populate historical formulas
+            for col_idx in range(2, 2 + len(inc_df.columns)):
+                col = get_column_letter(col_idx)
+                forecast_ws[f"{col}{row_map['Revenue']}"] = f"='Historical'!{col}4"
+                lookup = {
+                    "COGS":"costOfRevenue", "Gross Profit":"grossProfit",
+                    "Operating Income":"operatingIncome", "Income Tax":"incomeTaxExpense",
+                    "Net Income":"netIncome"
+                }
+                for var, key in lookup.items():
+                    r = next(r for r,v in enumerate(inc_df.index, start=3) if v==key)
+                    forecast_ws[f"{col}{row_map[var]}"] = f"='Historical'!{col}{r}"
+                forecast_ws[f"{col}{row_map['Gross Margin %']}"]      = f"={col}{row_map['Gross Profit']}/{col}{row_map['Revenue']}"
+                forecast_ws[f"{col}{row_map['Operating Margin %']}"]  = f"={col}{row_map['Operating Income']}/{col}{row_map['Revenue']}"
+                forecast_ws[f"{col}{row_map['Net Income Margin %']}"] = f"={col}{row_map['Net Income']}/{col}{row_map['Revenue']}"
 
-            # Find correct row numbers
-            for row_idx, row in enumerate(income_df.index, start=3):
-                name = str(row).strip()
-                if name in lookup_rows:
-                    lookup_rows[name] = row_idx
-
-            # Fill Historical Data
-            for idx, year in enumerate(income_df.columns):
-                col_letter = get_column_letter(idx + 2)
-
-                # Revenue
-                forecast_ws[f"{col_letter}{row_mapping['Revenue']}"] = f"='Income Statement'!{col_letter}{lookup_rows['revenue']}"
-                # COGS
-                forecast_ws[f"{col_letter}{row_mapping['COGS']}"] = f"='Income Statement'!{col_letter}{lookup_rows['costOfRevenue']}"
-                # Gross Profit
-                forecast_ws[f"{col_letter}{row_mapping['Gross Profit']}"] = f"='Income Statement'!{col_letter}{lookup_rows['grossProfit']}"
-                # Gross Margin %
-                forecast_ws[f"{col_letter}{row_mapping['Gross Margin %']}"] = f"={col_letter}{row_mapping['Gross Profit']}/{col_letter}{row_mapping['Revenue']}"
-                # Operating Income
-                forecast_ws[f"{col_letter}{row_mapping['Operating Income']}"] = f"='Income Statement'!{col_letter}{lookup_rows['operatingIncome']}"
-                # Operating Margin %
-                forecast_ws[f"{col_letter}{row_mapping['Operating Margin %']}"] = f"={col_letter}{row_mapping['Operating Income']}/{col_letter}{row_mapping['Revenue']}"
-                # Income Tax
-                forecast_ws[f"{col_letter}{row_mapping['Income Tax']}"] = f"='Income Statement'!{col_letter}{lookup_rows['incomeTaxExpense']}"
-                # Net Income
-                forecast_ws[f"{col_letter}{row_mapping['Net Income']}"] = f"='Income Statement'!{col_letter}{lookup_rows['netIncome']}"
-                # Net Income Margin %
-                forecast_ws[f"{col_letter}{row_mapping['Net Income Margin %']}"] = f"={col_letter}{row_mapping['Net Income']}/{col_letter}{row_mapping['Revenue']}"
-
-            # Fill Forecast Formulas
+            # Populate forecast formulas
             for i in range(forecast_years):
-                idx = len(income_df.columns) + i
-                col_letter = get_column_letter(idx + 2)
-                prev_col = get_column_letter(idx + 1)
+                idx = 2 + len(inc_df.columns) + i
+                col = get_column_letter(idx)
+                prev = get_column_letter(idx - 1)
+                forecast_ws[f"{col}{row_map['Revenue']}"]         = f"={prev}{row_map['Revenue']}*(1+Assumptions!B2)"
+                forecast_ws[f"{col}{row_map['COGS']}"]            = f"={col}{row_map['Revenue']}*(1-Assumptions!B3)"
+                forecast_ws[f"{col}{row_map['Gross Profit']}"]    = f"={col}{row_map['Revenue']}-{col}{row_map['COGS']}"
+                forecast_ws[f"{col}{row_map['Operating Costs']}"] = f"={col}{row_map['Revenue']}*Assumptions!B4"
+                forecast_ws[f"{col}{row_map['Operating Income']}"] = f"={col}{row_map['Gross Profit']}-{col}{row_map['Operating Costs']}"
+                forecast_ws[f"{col}{row_map['Income Tax']}"]      = f"={col}{row_map['Operating Income']}*Assumptions!B5"
+                forecast_ws[f"{col}{row_map['Net Income']}"]      = f"={col}{row_map['Operating Income']}-{col}{row_map['Income Tax']}"
+                forecast_ws[f"{col}{row_map['Free Cash Flow']}"]  = (
+                    f"={col}{row_map['Net Income']}+"
+                    f"(Assumptions!B6*{col}{row_map['Revenue']})-"
+                    f"(Assumptions!B7*{col}{row_map['Revenue']})"
+                )
 
-                forecast_ws[f"{col_letter}{row_mapping['Revenue']}"] = f"={prev_col}{row_mapping['Revenue']}*(1+Assumptions!B2)"
-                forecast_ws[f"{col_letter}{row_mapping['COGS']}"] = f"={col_letter}{row_mapping['Revenue']}*(1-Assumptions!B3)"
-                forecast_ws[f"{col_letter}{row_mapping['Gross Profit']}"] = f"={col_letter}{row_mapping['Revenue']}-{col_letter}{row_mapping['COGS']}"
-                forecast_ws[f"{col_letter}{row_mapping['Operating Costs']}"] = f"={col_letter}{row_mapping['Revenue']}*Assumptions!B4"
-                forecast_ws[f"{col_letter}{row_mapping['Operating Income']}"] = f"={col_letter}{row_mapping['Gross Profit']}-{col_letter}{row_mapping['Operating Costs']}"
-                forecast_ws[f"{col_letter}{row_mapping['Income Tax']}"] = f"={col_letter}{row_mapping['Operating Income']}*Assumptions!B5"
-                forecast_ws[f"{col_letter}{row_mapping['Net Income']}"] = f"={col_letter}{row_mapping['Operating Income']}-{col_letter}{row_mapping['Income Tax']}"
-                forecast_ws[f"{col_letter}{row_mapping['Free Cash Flow']}"] = f"={col_letter}{row_mapping['Net Income']}+(Assumptions!B6*{col_letter}{row_mapping['Revenue']})-(Assumptions!B7*{col_letter}{row_mapping['Revenue']})"
-            
+            # Formatting + dynamic sizing + left align
             for sheet in wb.worksheets:
                 formatting_page(sheet)
-            
-            # Save and Streamlit Download
-            output = BytesIO()
-            wb.save(output)
-            output.seek(0)
+                for ci in range(1, sheet.max_column + 1):
+                    letter = get_column_letter(ci)
+                    max_len = max(
+                        (len(str(cell.value).rstrip()) for cell in sheet[letter] if cell.value),
+                        default=0
+                    )
+                    sheet.column_dimensions[letter].width = max_len + 1
+                    for cell in sheet[letter]:
+                        cell.alignment = Alignment(horizontal="left", vertical=cell.alignment.vertical)
 
+            # Output
+            buf = BytesIO()
+            wb.save(buf)
+            buf.seek(0)
             st.success(f"DCF Model for {ticker.upper()} built successfully!")
-
             st.download_button(
-                label="📥 Download DCF Excel File",
-                data=output,
+                "📥 Download DCF Excel File",
+                data=buf,
                 file_name=f"{ticker.upper()}_DCF_Model.xlsx",
                 mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
             )
-
-    else:
-        st.warning("Please enter a valid ticker.")
