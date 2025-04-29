@@ -2,7 +2,8 @@
 
 import requests
 import pandas as pd
-from config import FMP_API_KEY
+
+FMP_API_KEY = "nao1qDh05pmGVeJBDFeSezf0t81h9MuY"
 
 def get_financial_statement(ticker, statement_type):
     url = f"https://financialmodelingprep.com/api/v3/{statement_type}/{ticker.upper()}?limit=5&apikey={FMP_API_KEY}"

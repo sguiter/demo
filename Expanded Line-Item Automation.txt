@@ -1,0 +1,55 @@
+ Expanded Line-Item Automation
+Operating Income & Margins: Extract tags like OperatingIncomeLoss to calculate historic and implied EBIT margins.
+
+Depreciation & Amortization: Pull DepreciationAndAmortization for non-cash adjustments.
+
+Capital Expenditures: Use CapitalExpenditures series to differentiate maintenance vs. growth capex.
+
+Working Capital Dynamics: Fetch receivables, inventory and payables to compute Δ Working Capital automatically.
+
+2. Automated WACC Calculation
+Cost of Equity: Pull company beta (via XBRL’s Beta tag or an external finance API) and apply CAPM using a live risk-free rate.
+
+Cost of Debt: Derive from tags like LongTermDebtInterestExpense and current debt balances.
+
+Capital Structure Weights: Use Liabilities and StockholdersEquity to compute target debt/equity mix.
+
+3. Scenario & Sensitivity Analysis
+Multi-Scenario Forecasts: Allow users to define “Base,” “Upside,” and “Downside” case assumptions side-by-side.
+
+Tornado Charts: Visualize how changes in key drivers (growth rate, margin, WACC) impact fair value.
+
+Monte Carlo Simulation: Run randomized draws around input distributions to quantify valuation ranges.
+
+4. Terminal Value Methods
+Multiple Approaches: Support both Gordon Growth and Exit Multiple methods.
+
+Live Multiples: Pull peer group EV/EBITDA or P/E multiples via an external API for benchmarking.
+
+5. Per-Share & Relative Metrics
+Share Count Integration: Pull WeightedAverageNumberOfSharesOutstandingBasic for per-share valuation.
+
+Peer Comparison: On-the-fly peer-group multiples and valuation multiples table.
+
+6. Interactive Data Visualization
+Time-Series Charts: Plot revenue, EBITDA, free cash flow and WACC over historical and forecast periods.
+
+Waterfall Plots: Illustrate step-by-step contributor analysis to valuation (e.g., growth vs. margin).
+
+7. Model Management & Export
+Template Selection: Offer different DCF templates (e.g., “High-Growth Tech” vs. “Mature Industrials”).
+
+Versioning: Save and compare previous model runs.
+
+Advanced Exports: Generate a fully-formatted Excel workbook (with assumption tabs, growth schedules, charts).
+
+8. Custom Assumption Libraries
+Assumption Presets: Preload industry-specific default growth/margin profiles.
+
+User Profiles: Save and recall custom assumption sets across sessions.
+
+9. Alerts & Reporting
+Valuation Alerts: Notify when fair value falls outside a user-defined range.
+
+Email/PDF Reports: Automate delivery of key outputs and charts.
+
