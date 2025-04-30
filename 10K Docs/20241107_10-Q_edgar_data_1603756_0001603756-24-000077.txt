@@ -1,0 +1,848 @@
+<Header>
+<FileStats>
+    <FileName>20241107_10-Q_edgar_data_1603756_0001603756-24-000077.txt</FileName>
+    <GrossFileSize>6741888</GrossFileSize>
+    <NetFileSize>117063</NetFileSize>
+    <NonText_DocumentType_Chars>1187991</NonText_DocumentType_Chars>
+    <HTML_Chars>2327587</HTML_Chars>
+    <XBRL_Chars>1499028</XBRL_Chars>
+    <XML_Chars>1485371</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001603756-24-000077.hdr.sgml : 20241107
+<ACCEPTANCE-DATETIME>20241107160853
+ACCESSION NUMBER:		0001603756-24-000077
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		59
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241107
+DATE AS OF CHANGE:		20241107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Axonics, Inc.
+		CENTRAL INDEX KEY:			0001603756
+		STANDARD INDUSTRIAL CLASSIFICATION:	SURGICAL & MEDICAL INSTRUMENTS & APPARATUS [3841]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				454744083
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38721
+		FILM NUMBER:		241435665
+
+	BUSINESS ADDRESS:	
+		STREET 1:		26 TECHNOLOGY DRIVE
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+		BUSINESS PHONE:		949-396-6322
+
+	MAIL ADDRESS:	
+		STREET 1:		26 TECHNOLOGY DRIVE
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92618
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Axonics Modulation Technologies, Inc.
+		DATE OF NAME CHANGE:	20140326
+
+</SEC-Header>
+</Header>
+
+ 0001603756-24-000077.txt : 20241107
+
+10-Q
+ 1
+ axnx-20240930.htm
+ 10-Q
+
+axnx-20240930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ _________________________________________________________________ 
+ FORM 
+ _________________________________________________________________ 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from ___________ to ___________ 
+ Commission File Number: 
+ _________________________________________________________________ 
+ 
+ (Exact name of registrant as specified in its charter) 
+ _________________________________________________________________ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification Number) (Address of principal executive offices) (Zip Code) (Registrant s telephone number, including area code) 
+ Securities registered pursuant to Section 12(b) of the Exchange Act: 
+ Title of class Trading symbol Name of exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ As of November 5, 2024, shares of the registrant s common stock, par value 0.0001 per share, were outstanding. 
+
+TABLE OF CONTENTS 
+ Page Special Note Regarding Forward-Looking Statements 
+ PART I FINANCIAL INFORMATION 
+ Item 1. 
+ Condensed Consolidated Financial Statements (unaudited) 
+ 1 
+ Condensed Consolidated Balance Sheets 
+ 1 
+ Condensed Consolidated Statements of Comprehensive Income (Loss) 
+ 2 
+ Condensed Consolidated Statements of Stockholders Equity 
+ 3 
+ Condensed Consolidated Statements of Cash Flows 
+ 5 
+ Notes to Condensed Consolidated Financial Statements 
+ 6 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 28 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 38 
+ Item 4. 
+ Controls and Procedures 
+ 38 
+ PART II OTHER INFORMATION 
+ Item 1. 
+ Legal Proceedings 
+ 41 
+ Item 1A. 
+ Risk Factors 
+ 41 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 41 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 41 
+ Item 4. 
+ Mine Safety Disclosures 
+ 41 
+ Item 5. 
+ Other Information 
+ 41 
+ Item 6. 
+ Exhibits 
+ 42 
+ Signatures 
+ 43 
+
+Table of Contents 
+
+ Special Note Regarding Forward-Looking Statements 
+ This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act), that involve risks and uncertainties, including statements based on our current expectations, assumptions, estimates and projections about future events, our business, financial condition, results of operations and prospects, our industry and the regulatory environment in which we operate. Any statements contained herein that are not statements of historical facts may be deemed to be forward-looking statements. In some cases, you can identify forward-looking statements by terms such as anticipate, believe, could, estimate, expect, intend, may, plan, potential, predict, project, should, will, would or the negative of those terms, or other comparable terms intended to identify statements about the future. Forward-looking statements include, but are not limited to, statements about: 
+ our ability to consummate the merger (the Merger) contemplated by the Agreement and Plan of Merger (the Merger Agreement) with Boston Scientific Corporation, a Delaware corporation (Boston Scientific) announced on January 8, 2024, in a timely manner or at all; 
+ the risk that the Merger Agreement may be terminated in circumstances that require us to pay a 75 million termination fee to Boston Scientific; 
+ the satisfaction (or waiver) of the conditions to the closing of the Merger, including with respect to approvals under applicable antitrust laws; 
+ potential delays in consummating the Merger; 
+ our ability to timely and successfully achieve the anticipated benefits of the Merger; 
+ the risk related to the diversion of management s attention from our ongoing business operations as a result of the Merger; 
+ the occurrence of any event, change or other circumstance or condition that could give rise to the termination of the Merger Agreement; 
+ the effect of the announcement or pendency of the Merger on our business relationships, operating results and business generally; 
+ the risk that the Merger disrupts our current plans and operations or affects our ability to retain or recruit key employees; 
+ costs related to the Merger; 
+ the effect of limitations that the Merger Agreement places on our ability to operate our business or engage in an alternate transaction; 
+ the risk that our stock price may decline significantly if the Merger is not completed; 
+ unanticipated safety concerns related to the use of our products; 
+ U.S. Food and Drug Administration (FDA) or other U.S. or foreign regulatory or legal actions or changes affecting us or our industry; 
+ the results of any ongoing or future legal proceedings, including, but not limited to, in relation to the Merger or Merger Agreement, intellectual property, or product liability or other litigation against us, our third-party manufacturers or other parties on which we rely or litigation against our general industry; 
+ any termination or loss of intellectual property rights, including as a result of the Medtronic ITC Investigation or the Medtronic Delaware Litigation (as defined in Note 3 to our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q); 
+ a termination of the AMF License Agreement, as a result of the arbitration with AMF (as each such capitalized term is defined in Note 1 to our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q); 
+
+Table of Contents 
+
+ any voluntary or regulatory mandated product recalls; 
+ adverse developments concerning our manufacturers or suppliers or any future strategic partnerships; 
+ reduction or interruption in our supply chain and other possible inventory constraints or challenges; 
+ introductions and announcements of new technologies by us, any commercialization partners or our competitors, and the timing of these introductions and announcements; 
+ successful integration of acquired operations into our ongoing business; 
+ announcements of regulatory approval or disapproval of our products and any future enhancements to our products; 
+ adverse results from or delays in clinical studies of our products; 
+ variations in our financial results or those of companies that are perceived to be similar to us; 
+ success or failure of competitive products or therapies in the markets in which we do business; 
+ changes in the structure of healthcare payments for our products; 
+ announcements by us or our competitors of significant acquisitions, licenses, strategic partnerships, joint ventures or capital commitments; 
+ changes in macroeconomic and market conditions and volatility, including the risk of recession, inflation, supply chain constraints or disruptions and high interest rates; 
+ economic and market conditions in the medical technology industry, including the size and growth, if any, of our markets, and the issuance of securities analysts reports or recommendations; 
+ rumors and market speculation involving us or other companies in our industry; 
+ sales of substantial amounts of our stock by directors, officers or significant stockholders, or the expectation that such sales might occur; 
+ additions or departures of key personnel; and 
+ changes in our capital structure, such as future issuances of securities and the incurrence of additional debt. 
+ The forward-looking statements included herein are based on current expectations of our management based on available information and involve a number of risks and uncertainties, all of which are difficult or impossible to predict accurately and many of which are beyond our control. As such, our actual results may differ significantly from those expressed in any forward-looking statements. Factors that may cause or contribute to such differences include, but are not limited to, those discussed in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 and discussed more detail in Item 2 Management s Discussion and Analysis of Financial Condition and Results of Operations of Part I. Readers should carefully review these risks, as well as the additional risks described in other documents we file from time to time with the Securities and Exchange Commission (SEC). In light of the significant risks and uncertainties inherent in the forward-looking statements included herein, the inclusion of such information should not be regarded as a representation by us or any other person that such results will be achieved, and readers are cautioned not to place undue reliance on such forward-looking statements. Except as required by law, we undertake no obligation to revise the forward-looking statements contained herein to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events. You should read this Quarterly Report on Form 10-Q and the documents we file with the SEC, with the understanding that our actual future results, levels of activity, performance and achievements may be materially different from what we expect. We qualify all of our forward-looking statements by these cautionary statements. 
+ Unless the context indicates otherwise, as used in this Quarterly Report on Form 10-Q, the terms Axonics, our company, we, us and our refer to Axonics, Inc. and our consolidated subsidiaries. 
+ This Quarterly Report on Form 10-Q includes our trademarks and trade names, including, without limitation, Axonics , Axonics R20 , Axonics F15 and Bulkamid , which are our property and are protected 
+
+Table of Contents 
+
+ under applicable intellectual property laws. This Quarterly Report on Form 10-Q also includes trademarks and trade names that are the property of other organizations. Solely for convenience, trademarks and trade names referred to in this Quarterly Report on Form 10-Q appear without the and symbols, but those references are not intended to indicate that we will not assert, to the fullest extent under applicable law, our rights, or that the applicable owner will not assert its rights, to these trademarks and trade names. We do not intend our use or display of other companies trade names or trademarks to imply a relationship with, or endorsement or sponsorship of us by, any other companies. 
+
+Table of Contents 
+
+ Part I Financial Information 
+ 
+ Item 1. Condensed Consolidated Financial Statements (unaudited) 
+ 
+ Axonics, Inc. 
+ Condensed Consolidated Balance Sheets 
+ (in thousands, except share and per share data) 
+ September 30, December 31, 2024 2023 (unaudited) ASSETS Current assets Cash and cash equivalents Short-term investments Accounts receivable, net of allowance for credit losses of and at September 30, 2024 and December 31, 2023, respectively 
+ Inventory, net Prepaid expenses and other current assets Total current assets Restricted cash Property and equipment, net Intangible assets, net Other assets Goodwill Total assets LIABILITIES AND STOCKHOLDERS EQUITY Current liabilities Accounts payable Accrued liabilities Accrued compensation and benefits Operating lease liabilities, current portion Total current liabilities Operating lease liabilities, net of current portion Deferred tax liabilities, net Total liabilities Commitments and contingencies (Note 3) per share; shares authorized, shares issued and outstanding at September 30, 2024 and December 31, 2023 
+ Common stock, par value , shares authorized at September 30, 2024 and December 31, 2023; and shares issued and outstanding at September 30, 2024 and December 31, 2023, respectively 
+ Additional paid-in capital Accumulated deficit ) ) Accumulated other comprehensive loss ) ) Total stockholders equity Total liabilities and stockholders equity 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+ 1 
+
+Table of Contents 
+
+ Axonics, Inc. 
+ Condensed Consolidated Statements of Comprehensive Income (Loss) 
+ (in thousands, except share and per share data) 
+ (unaudited) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net revenue Cost of goods sold Gross profit Operating expenses Research and development General and administrative Sales and marketing Amortization of intangible assets Acquisition-related costs Acquired in-process research development Total operating expenses Loss from operations ) ) ) ) Other income (expense) Interest and other income Interest and other expense ) ) Other income, net (Loss) income before income tax (benefit) expense ) ) ) Income tax (benefit) expense ) ) ) Net (loss) income ) ) ) Foreign currency translation adjustment ) Comprehensive income (loss) ) ) ) Net (loss) income per share, basic (see Note 1) ) ) ) Weighted-average shares used to compute basic net (loss) income per share (see Note 1) Net (loss) income per share, diluted (see Note 1) ) ) ) Weighted-average shares used to compute diluted net (loss) income per share (see Note 1) 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+ 2 
+
+Table of Contents 
+
+ Axonics, Inc. 
+ Condensed Consolidated Statements of Stockholders Equity 
+ (in thousands, except share and per share data) 
+ (unaudited) 
+ Accumulated Additional Other Common Stock Paid-in Accumulated Comprehensive Shares Amount Capital Deficit Loss Total Balance at December 31, 2023 
+ ) ) Issuance of common stock for employee stock option exercises for cash Restricted Shares Award (RSA) issuances and forfeitures for terminations, net and stock-based compensation Issuance of common stock for vesting of Restricted Stock Units (RSU) and stock-based compensation Foreign currency translation adjustment ) ) Net loss ) ) Balance at March 31, 2024 
+ ) ) Issuance of common stock for employee stock option exercises for cash RSA forfeitures for terminations, net and stock-based compensation ) Issuance of common stock for vesting of RSU and stock-based compensation Foreign currency translation adjustment Net income Balance at June 30, 2024 
+ ) ) Issuance of common stock for employee stock option exercises for cash RSA forfeitures for terminations, net and stock-based compensation ) Issuance of common stock for vesting of RSU and stock-based compensation Foreign currency translation adjustment Net loss ) ) Balance at September 30, 2024 
+ ) ) 
+ 
+ 3 
+
+Table of Contents 
+
+ Accumulated Additional Other Common Stock Paid-in Accumulated Comprehensive Shares Amount Capital Deficit Loss Total Balance at December 31, 2022 
+ ) ) Issuance of common stock for employee stock option exercises for cash RSA issuances and forfeitures for terminations, net and stock-based compensation Issuance of common stock for vesting of RSU and stock-based compensation Foreign currency translation adjustment Net loss ) ) Balance at March 31, 2023 
+ ) ) Issuance of common stock for employee stock option exercises for cash RSA issuances and forfeitures for terminations, net and stock-based compensation Issuance of common stock for vesting of RSU and stock-based compensation Issuance of common stock for acquisition of in-process research development Foreign currency translation adjustment Net loss ) ) Balance at June 30, 2023 
+ ) ) Issuance of common stock for employee stock option exercises for cash RSA issuances and forfeitures for terminations, net and stock-based compensation Issuance of common stock for vesting of RSU and stock-based compensation Foreign currency translation adjustment ) ) Net income Balance at September 30, 2023 
+ ) ) 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+ 4 
+
+Table of Contents 
+
+ Axonics, Inc. 
+ Condensed Consolidated Statements of Cash Flows 
+ (in thousands) 
+ (unaudited) 
+ Nine Months Ended September 30, 2024 2023 Cash Flows from Operating Activities Net loss ) ) Adjustments to reconcile net loss to net cash provided by (used in) operating activities Depreciation and amortization Stock-based compensation Acquired in-process research development Provision for allowance of credit losses Change in fair value of contingent consideration Deferred income taxes ) Other items, net Changes in operating assets and liabilities Accounts receivable ) ) Inventory ) ) Prepaid expenses and other current assets ) Other assets ) ) Accounts payable Accrued liabilities ) ) Accrued compensation and benefits ) Operating lease liabilities ) Other liabilities ) Net cash provided by (used in) operating activities ) Cash Flows from Investing Activities Purchases of property and equipment ) ) Purchases of short-term investments ) ) Proceeds from sales and maturities of short-term investments Net cash provided by (used in) investing activities ) Cash Flows from Financing Activities Payment of contingent consideration recognized at acquisition ) Proceeds from exercise of stock options Net cash provided by (used in) financing activities ) Effect of exchange rate changes on cash, cash equivalents, and restricted cash ) Net increase (decrease) in cash, cash equivalents, and restricted cash ) Cash, cash equivalents and restricted cash, beginning of year Cash, cash equivalents and restricted cash, end of period Supplemental Disclosure of Cash Flow Information Cash paid for interest Cash paid for taxes Noncash Investing and Financing Activities Property and equipment acquired but not yet paid Property and equipment acquired from tenant improvement allowance Common stock issuance for acquired in-process research development 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+ 5 
+
+Table of Contents 
+ AXONICS, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+Note 1. 
+ per share, of the Company issued and outstanding immediately prior to the Effective Time (each, a Share and collectively, the Shares), other than Shares (i) held in the treasury of the Company or owned by any direct or indirect wholly owned subsidiary of the Company, (ii) owned by Merger Sub, Boston Scientific or any direct or indirect wholly owned subsidiary of Boston Scientific or (iii) held by holders who are entitled to and have properly exercised and not waived, withdrawn, failed to perfect or otherwise lost their appraisal rights, will be automatically canceled and converted into the right to receive in cash, without interest. 
+ 6 
+
+Table of Contents 
+
+ shares of the Company s common stock and a potential future milestone payment of up to million (the Radian acquisition). 
+ The Company evaluated this acquisition in accordance with Accounting Standards Codification (ASC) 805, Business Combinations, to determine whether the asset acquired met the definition of a business. Included in the IPR D is the historical know-how, software, formula protocols, designs, and procedures expected to be needed to complete the technology asset and receive regulatory approval. The Company concluded that the IPR D is an identifiable intangible asset that would be accounted for as a single asset in a business combination. The Company also qualitatively concluded that there is no fair value associated with any other assets included in the acquisition. Therefore, all of the consideration in the transaction was allocated to the IPR D. As such, the Company concluded that substantially all of the fair value of the gross assets acquired was concentrated in the single IPR D asset and the asset was not a business. 
+ The Company is planning to use the acquired IPR D technology to provide a solution to make peripheral nerve evaluation lead placement easier, faster, and more accurate. Although the acquired technology may have utility in other medical procedures, future development decisions for the acquired technology will be contingent upon the receipt of required regulatory approvals. As such, the acquired technology does not have an alternative future use at the acquisition date. In accordance with ASC 730, Research and Development, the Company concluded the entire purchase price for the asset acquisition was an expense on the acquisition date. 
+ The consideration transferred at closing had an acquisition date fair value of million based on a per share value of on the acquisition date and was recognized immediately as IPR D expense in the unaudited condensed consolidated statements of comprehensive income for the year ended December 31, 2023. The potential future milestone payment of million, payable in either cash or shares of the Company s common stock, will become payable if the Company receives the FDA 510(k) clearance for the acquired IPR D technology. 
+ 7 
+
+Table of Contents 
+
+ The Company incurred net losses of million and million for the nine months ended September 30, 2024 and 2023, respectively, and had an accumulated deficit of million as of September 30, 2024 compared to million at December 31, 2023. The Company expects to continue to spend a significant amount of its existing resources on sales and marketing activities as the Company continues to invest in commercializing and marketing its products in the United States and internationally. 
+ As of September 30, 2024, the Company had cash, cash equivalents, short-term investments, and restricted cash of million compared to million at December 31, 2023. The Company expects that its cash, cash equivalents, short-term investments, and restricted cash on hand will be sufficient to fund its operations through at least the next 12 months. The Company funds its operations through a combination of proceeds from public offerings of its common stock and cash receipts from sales of its products. As of September 30, 2024, the Company had outstanding borrowings. 
+ The Company may need to raise additional financing in the future to facilitate its business operations. If the Company raises additional funds by issuing equity securities, its stockholders could experience dilution. Debt financing, if available, may involve covenants further restricting its operations or its ability to incur additional debt. Any debt financing or additional equity that the Company raises may contain terms that are not favorable to the Company or its stockholders. Additional financing may not be available at all, or in amounts or on terms acceptable to the Company. If the Company is unable to obtain additional financing when needed to satisfy its liquidity requirements, the Company may be required to scale back its operations. 
+ 8 
+
+Table of Contents 
+
+ million and million at September 30, 2024 and December 31, 2023, respectively, and is recorded as a reduction of gross revenue in its unaudited condensed consolidated statements of comprehensive income (loss). Damaged or defective products are replaced at no charge under the Company s standard warranty. For the three and nine months ended September 30, 2024, the replacement costs were minimal and million, respectively. For the three and nine months ended September 30, 2023, the replacement costs were minimal and million, respectively. The replacement costs are recorded within the sales and marketing expenses in its unaudited condensed consolidated statements of comprehensive income (loss). 
+ The Company offers its standard warranty to all customers. The Company does not sell any warranties on a standalone basis. The Company s warranty provides that its products are free of material defects and conform to specifications, and includes an offer to repair, replace or refund the purchase price of defective products. This assurance does not constitute a service and is not considered a separate performance obligation. The Company estimates warranty liability at the time of revenue recognition and records it as a charge to sales and marketing expense. The warranty liability as of September 30, 2024 and December 31, 2023 was million and million, respectively. 
+ Shipping and handling costs incurred for the delivery of goods to customers and distributors are included in cost of goods sold. Amounts billed to customers and distributors for shipping and handling are included in net revenue. 
+ International markets Bulkamid net revenue United States International markets Total net revenue 
+ 9 
+
+Table of Contents 
+
+ Write-offs ) ) Bad debt expense Balance at end of period 
+ 10 
+
+Table of Contents 
+
+ of the net revenues previously received for sales of the Company s F15 product that are the subject of dispute. As of September 30, 2024 and December 31, 2023, the Company has deposited approximately million and million, respectively, in the escrow account, and will continue to deposit the disputed of net revenues of the Company s F15 product with interest into the escrow account during the pendency of the arbitration proceedings. The Company has paid and, under this interim agreement, will continue to pay royalties on rechargeable products. While the Company believes that it has meritorious defenses against AMF s claims and intends to vigorously defend against those claims, there can be no assurance as to the outcome of the arbitration. For additional information, see Note 3. 
+ Restricted cash Total cash, cash equivalents, and restricted cash shown in the condensed consolidated statements of cash flows 
+ 11 
+
+Table of Contents 
+
+ million in cash and issued shares of our common stock. The agreement also provided that the Company may pay an additional million in the event Bulkamid sales in any consecutive period exceed million (the Milestone) before December 31, 2024, with payment due within business days following the quarter in which the Milestone has been met. 
+ At March 31, 2023, the Milestone was met and payment was made during the three months ended June 30, 2023. 
+ Change in fair value included in earnings Payment made ) Balance at end of period 
+ There were no transfers between Levels 1, 2 or 3 for the periods presented. 
+ unrealized gains or losses during the three and nine months ended September 30, 2024 and 2023. 
+ A decline in the fair value of any security below cost that is deemed other than temporary results in a charge to net income (loss) and the corresponding establishment of a credit loss allowance for the security. Premiums (discounts) are amortized (accreted) over the life of the related security as an adjustment to yield using the straight-line interest method. Dividend, accretion and interest income are recognized when earned. Realized gains or losses are included in net loss and are derived using the specific identification method for determining the cost of securities sold. 
+ 12 
+
+Table of Contents 
+
+ Corporate notes U.S. government and agency securities 
+ _____________________________________________ 
+ (1) As of September 30, 2024, commercial paper investments of million, U.S. government and agency securities of million, and corporate notes of million are included in cash and cash equivalents on the unaudited condensed consolidated balance sheets, as the investments had a maturity of three months or less from the date of purchase . 
+ Fair Value Measurements at December 31, 2023 
+ Assets: Level 1 Level 2 Level 3 Total Commercial paper Corporate notes U.S. government and agency securities 
+ _____________________________________________ 
+ (1) As of December 31, 2023, commercial paper investments of million are included in cash and cash equivalents on the condensed consolidated balance sheets, as the investments had a maturity of three months or less from the date of purchase . 
+ 13 
+
+Table of Contents 
+
+Corporate notes U.S. government and agency securities Total cash equivalents Short-term investments: Commercial paper Corporate notes U.S. government and agency securities Total short-term investments Total 
+ December 31, 2023 Cost Unrealized gains Unrealized losses Fair value Cash equivalents: Commercial paper Total cash equivalents Short-term investments: Commercial paper ) Corporate notes ) U.S. government and agency securities ) Total short-term investments ) Total ) 
+ 14 
+
+Table of Contents 
+
+ to months and based on sales forecasts, the Company expects to realize the carrying value of the product inventory. In the future, reduced demand, quality issues, or excess supply beyond those anticipated by management may result in a material adjustment to inventory levels, which would be recorded as an increase to cost of sales. 
+ The determination of whether inventory costs will be realizable or not requires estimates by the Company s management. A critical input in this determination is future expected inventory requirements based on internal sales forecasts. Management then compares these requirements to the expiry dates of inventory on hand. To the extent that inventory is expected to expire prior to being sold, management will write down the value of inventory. 
+ As of September 30, 2024, the Company had million, million and million of finished goods inventory, work-in-process inventory and raw materials inventory, respectively, net of reserves of million. As of December 31, 2023, the Company had million, million and million of finished goods inventory, work-in-process inventory and raw materials inventory, respectively, net of reserves of million. 
+ Customer and Vendor Concentration 
+ As of September 30, 2024 and December 31, 2023, there were no customers who accounted for over 10 of the Company s consolidated accounts receivable. As of September 30, 2024 and December 31, 2023, no vendors and three vendors, respectively, accounted for over 10 of the Company s consolidated accounts payable. During the three and nine months ended September 30, 2024 and 2023, no customers accounted for over 10 of the Company s consolidated net revenue. During the three and nine months ended September 30, 2024, three vendors and three vendors, respectively, accounted for over 10 of the Company s inventory-related purchases. During the three and nine months ended September 30, 2023, three vendors and three vendors, respectively, accounted for over 10 of the Company s inventory-related purchases. 
+ 15 
+
+Table of Contents 
+
+ . Leasehold improvements are amortized over the lesser of the life of the lease or the useful life of the improvements. Maintenance and repairs are charged to expense as incurred. When assets are retired or otherwise disposed of, the cost and accumulated depreciation are removed from the balance sheet and any resulting gain or loss is reflected in operations. 
+ goodwill impairment charges during the nine months ended September 30, 2024 and 2023. 
+ shares of Series A preferred stock, the fair value of which was million in 2013. The intangible asset was recorded at its fair value of million at the date contributed. In connection with the initial public offering, such shares of Series A preferred stock were converted into common stock. Amortization of this asset is recorded over the shorter of the patent or legal life on a straight-line basis. The weighted-average amortization period was years. The asset has been fully amortized as of December 31, 2022. 
+ Exclusive license asset 
+ The intangible asset represents exclusive rights to existing technologies and development services from Micro Systems Engineering, Inc. pursuant to an agreement entered into on March 2, 2021. The rights and services were provided in exchange for shares of common stock, the fair value of which was million upon transfer. The intangible asset was recorded at its fair value of million at the date of the agreement, with the difference of million recorded as a vendor credit in accounts payable in the unaudited condensed consolidated balance sheets. Amortization of this asset is recorded over the term of the agreement on a straight-line basis. The Company recorded expense for the amortization of the exclusive license asset of million and million during the three and nine months ended September 30, 2024. The Company recorded expense for the amortization of the exclusive license asset of million and million during the three and nine months ended September 30, 2023. The Company will review the intangible asset for impairment whenever an impairment indicator exists. There has been intangible asset impairment charges during the nine months ended September 30, 2024 and 2023. 
+ Contura acquisition 
+ The intangible assets represent technology, trade names and trademarks, and customer relationships acquired from Contura on February 25, 2021. The trade names and trademarks have an indefinite life. The straight-line method over the period of estimated benefit is used to amortize technology. ASC 350-30-35-3, General Intangibles other than Goodwill, states that customer relationships generally dissipate at a more rapid rate in the 
+ 16 
+
+Table of Contents 
+
+ million and million during the three and nine months ended September 30, 2024, respectively. The Company recorded expense for the amortization of Contura acquisition intangible assets of million and million during the three and nine months ended September 30, 2023, respectively. The Company will review the intangible asset for impairment whenever an impairment indicator exists. There has been intangible asset impairment charges during the nine months ended September 30, 2024 and 2023. 
+ intangible asset impairment charges during the nine months ended September 30, 2024 and 2023. 
+ Indefinite-lived intangible assets are tested for impairment annually in the fourth quarter of the fiscal year and whenever events or changes in circumstances indicate that the carrying amount may be impaired. Impairment is calculated as the excess of the asset s carrying value over its fair value. Fair value is generally determined using a discounted future cash flow analysis. There has been impairment charges to indefinite-lived intangible assets during the nine months ended September 30, 2024 and 2023. 
+ 17 
+
+Table of Contents 
+
+ million and million, respectively, and are recorded within the sales and marketing expenses in its unaudited condensed consolidated statements of comprehensive income (loss). During the three and nine months ended September 30, 2023, advertising expense totaled million and million, respectively, and are recorded within the sales and marketing expenses in the Company s unaudited condensed consolidated statements of comprehensive income (loss). 
+ . Forfeitures are estimated at the time of the grant and revised in subsequent periods to reflect differences between the estimates and the number of shares that actually become exercisable. 
+ The Company uses the Black-Scholes option pricing model to determine the fair value of stock options (as of the date of grant) that have service conditions for vesting. Stock options and restricted shares awards vest based on service conditions, typically over three or . 
+ The Company also grants shares of performance-based restricted stock units that typically vest after only if the Company has also achieved certain performance objectives as defined and approved by the Company s board of directors. The fair value of performance awards is determined based on the Company s stock price at the date of grant and expensed over the performance period based on the probability of achieving the performance objectives. If such targets are not met or service is not rendered for the requisite service period, no compensation cost is recognized, and any recognized compensation cost in prior periods will be reversed. In addition, the Company also grants market-based RSUs that have combined market conditions and service conditions for vesting, for which the Company uses the Monte Carlo valuation model to value equity awards (as of the date of grant). Compensation cost is not adjusted if the market condition is not met, as long as the requisite service is provided. 
+ 18 
+
+Table of Contents 
+
+ For the three and nine months ended September 30, 2024, there were and potentially dilutive weighted-average shares that were not included in the computation of diluted weighted-average shares of common stock and common stock equivalent shares outstanding because their effect would have been antidilutive given the Company s net loss. For the nine months ended September 30, 2023, there were potentially dilutive weighted-average shares that were not included in the computation of diluted weighted-average shares of common stock and common stock equivalent shares outstanding because their effect would have been antidilutive given the Company s net loss. 
+ segment, the development and commercialization of innovative and minimally invasive products to treat bladder and bowel dysfunction. Geographically, the Company sells over of its products to customers in the United States. Segment information is consistent with how management reviews the business, makes investing and resource allocation decisions and assesses operating performance. 
+ 19 
+
+Table of Contents 
+
+Note 2. 
+ Computer hardware and software Tools and molds Leasehold improvements Furniture and fixtures Construction in progress Less: accumulated depreciation ) ) 
+ Depreciation expense of property and equipment was million and million for the three and nine months ended September 30, 2024, respectively. Depreciation expense of property and equipment was million and million for the three and nine months ended September 30, 2023, respectively. The leasehold improvements balance primarily relates to the completed construction costs for the new principal executive offices and for general office, manufacturing, and warehousing space under an operating lease entered into in April 2023. 
+ 
+ Note 3. 
+ operating lease for approximately square feet of office space beginning on November 1, 2014, and expiring on October 31, 2019. In June 2019, the lease was amended to extend the expiration date to October 31, 2020. In September 2020, the lease was amended to extend the expiration date to July 31, 2022. In December 2021, the lease was amended to extend the expiration date to January 31, 2028, and in April 2023, the lease was amended to reduce the expiration date to March 31, 2024, at which time the lease expired in accordance with its terms. Upon the execution of the amendments, which were deemed to be a lease modification, the Company reassessed the lease liability using the incremental borrowing rate for a collateralized asset of the same remaining term at the modification date and adjusted the carrying amount of ROU assets by the amount of the remeasurement of the liability. The Company also reassessed the lease classification and concluded that the lease continued to be an operating lease through its expiration. Under the terms of the lease, the Company was responsible for taxes, insurance, and maintenance expense. The lease contained certain scheduled rent increases. Rent expense was recognized on a straight-line basis over the expected lease term. 
+ The Company entered into an operating lease for approximately square feet of office space beginning on August 1, 2018, and expiring on October 31, 2027. In April 2023, the lease was amended to reduce the expiration date to December 31, 2024 and in September 2023, the lease was amended to extend the expiration date to July 1, 2025. Upon the execution of the amendment, which was deemed to be a lease modification, the Company 
+ 20 
+
+Table of Contents 
+
+ operating lease for approximately square feet of office space beginning on January 15, 2020 and expiring on January 31, 2028. In April 2023, the lease was amended to reduce the expiration date to March 31, 2024 and in September 2023, the lease was amended to extend the expiration date to December 31, 2024. Upon the execution of the amendment, which was deemed to be a lease modification, the Company reassessed the lease liability using the incremental borrowing rate for a collateralized asset of the same remaining term at the modification date and adjusted the carrying amount of ROU assets by the amount of the remeasurement of the liability. The Company also reassessed the lease classification and concluded that the lease continues to be an operating lease. The Company uses these premises as its new principal executive offices and for general office space. The Company is utilizing its other currently-leased spaces to conduct the training of its sales team and for manufacturing purposes. Under the terms of the lease, the Company is responsible for taxes, insurance, and maintenance expense. The lease contains certain scheduled rent increases. Under the terms of the lease, the base rent payable with respect to each renewal term will be equal to the prevailing market rental rent as of the commencement of the applicable renewal term. In the event of a default of certain of the Company s obligations under the lease, the Company s landlord would have the right to terminate the lease. 
+ In August 2020, the Company entered into a -month operating lease for approximately square feet of warehouse space beginning on October 15, 2020 and expiring on December 31, 2023. In April 2023, the lease was amended to extend the expiration date to December 31, 2024 and in September 2023, the lease was amended to extend the expiration date to July 1, 2025. Upon the execution of the amendment, which was deemed to be a lease modification, the Company reassessed the lease liability using the incremental borrowing rate for a collateralized asset of the same remaining term at the modification date and adjusted the carrying amount of ROU assets by the amount of the remeasurement of the liability. The Company also reassessed the lease classification and concluded that the lease continues to be an operating lease. The Company uses these premises for general warehouse space. 
+ In March 2022, the Company entered into an -month operating lease for approximately square feet of warehouse space beginning on July 1, 2022 and expiring on December 31, 2023. In April 2023, the lease was amended to extend the expiration date to December 31, 2024 and in September 2023, the lease was amended to extend the expiration date to July 1, 2025. Upon the execution of the amendment, which was deemed to be a lease modification, the Company reassessed the lease liability using the incremental borrowing rate for a collateralized asset of the same remaining term at the modification date and adjusted the carrying amount of ROU assets by the amount of the remeasurement of the liability. The Company also reassessed the lease classification and concluded that the lease continues to be an operating lease. The Company uses these premises for general warehouse space. 
+ In April 2023, the Company entered into a operating lease for approximately square feet of office and warehouse space beginning on April 1, 2024 and expiring on March 31, 2034. The Company uses these premises as its new principal executive offices and for general office, manufacturing, and warehousing space. Under the terms of the lease, the Company is responsible for taxes, insurance, and maintenance expense. The lease contains certain scheduled rent increases. The Company has a renewal option to extend the term of the lease for a period of beyond the initial term. Under the terms of the lease, the base rent payable with respect to each renewal term will be equal to the prevailing market rental rent as of the commencement of the applicable renewal term. In the event of a default of certain of the Company s obligations under the lease, the Company s landlord would have the right to terminate the lease. The lease commenced on November 1, 2023, which was the date the Company was provided access to the leased property and control over its use. Therefore, the Company recorded million of ROU assets and million of operating lease liabilities related to this lease. 
+ During the three and nine months ended September 30, 2024 and 2023, there were ROU assets obtained in exchange for new operating lease liabilities. As of September 30, 2024 and December 31, 2023, the ROU assets 
+ 21 
+
+Table of Contents 
+
+ million and million, respectively. The operating lease ROU assets are included within the Company s non-current other assets, and lease liabilities are included in current or noncurrent liabilities in the Company s unaudited condensed consolidated balance sheets. During the three and nine months ended September 30, 2024, cash paid for amounts included in operating lease liabilities was million and million, respectively. During the three and nine months ended September 30, 2023, cash paid for amounts included in operating lease liabilities was million and million, respectively. Amortization of the ROU assets was million and million for the three and nine months ended September 30, 2024, respectively. Amortization of the ROU assets was million and million for the three and nine months ended September 30, 2023, respectively. 
+ As of September 30, 2024, the weighted-average remaining lease term for the Company s operating leases was years. The weighted-average incremental borrowing rate for a collateralized asset of the same remaining term used to determine the present value of the Company s operating leases future payments was . 
+ Short-term lease cost Variable lease cost ) Amortization of net lease liabilities ) ) ) Total lease cost 
+ License Agreement 
+ In October 2013, the Company entered into the AMF License Agreement, pursuant to which AMF, a Company stockholder, licensed the Company certain patents and know-how (collectively, the AMF IP) relating to, in relevant part, an implantable pulse generator and related system components in development by AMF as of that date, in addition to any peripheral or auxiliary devices, including all components, that when assembled, comprise such device, excluding certain implantable pulse generators (collectively, the AMF Licensed Products). Under the AMF License Agreement, for each calendar year beginning in 2018, the Company is obligated to pay AMF a royalty on an AMF Licensed Product-by-AMF Licensed Product basis if one of the following conditions applies: (i) one or more valid claims within any of the patents licensed to the Company by AMF covers such AMF Licensed Products or the manufacture of such AMF Licensed Products or (ii) for a period of years from the first commercial sale anywhere in the world of such AMF Licensed Product, in each case. The foregoing royalty is calculated as the greater of (a) of all net revenue derived from the AMF Licensed Products, and (b) the Minimum Royalty, payable quarterly. The Minimum Royalty automatically increases each year after 2018, subject to a maximum amount of per year. The Company recorded related royalties of million and million during the three and nine months ended September 30, 2024, respectively. The Company recorded related royalties of million and million during the three and nine months ended September 30, 2023, respectively. Royalty expense is included in operating expenses in the unaudited condensed consolidated statements of comprehensive income (loss). Accrued royalties of million and million as of September 30, 2024 and December 31, 2023, respectively, are included within accrued liabilities in the Company s unaudited condensed consolidated balance sheets. 
+ Legal Matters 
+ In addition to the matters described below, the Company may, from time to time, become a party to legal proceedings. Such matters are subject to many uncertainties and to outcomes of which the financial impacts are not predictable with assurance and that may not be known for extended periods of time. When management has assessed that a loss is probable and an amount can be reasonably estimated, the Company records a liability. 
+ 22 
+
+Table of Contents 
+
+ of the claims of Patent No. 8,626,314 being found unpatentable. The remaining claims of these patents were not found unpatentable based on the opinion of two administrative law judges, with a dissent by the third administrative law judge, and Axonics appealed to the Federal Circuit. The claims of Patent Nos. 8,738,148 and 8,457,758 challenged on remand were not found unpatentable. Appeals to the Federal Circuit were filed on all claims challenged before the PTAB on remand. The stay of the Medtronic Litigation was lifted on April 22, 2024. On May 1, 2024, Patent Nos. 8,738,148 and 8,457,758 were dismissed from the Medtronic Litigation with prejudice. Partial summary judgment of non-infringement was granted on all asserted claims of Patent Nos. 9,821,112 and 7,774,069 on July 11, 2024. The Medtronic Litigation proceeded to a jury trial which began on September 9, 2024, on certain claims of U.S. Patent Nos. 8,036,756, 8,626,314, and 9,463,324. The jury rendered a verdict on September 18, 2024, finding that Axonics did not infringe any of the claims at issue and awarding no damages. The jury also found that the claims had not been shown to be invalid. Judgment was entered in Axonics favor on October 8, 2024. Post-trial proceedings in the U.S. District Court are scheduled through February 24, 2025. Following the conclusion of any post-trial proceedings, the parties to the Medtronic Litigation may determine to appeal the verdict. The Company continues to believe that it has meritorious defenses against the allegations of the Medtronic Affiliates and is vigorously defending itself against them. The Company is unable to predict the likelihood of success of the claims of the Medtronic Affiliates against the Company or to quantify any risk of loss. The Medtronic Litigation could last for an extended period of time and require the Company to dedicate significant financial resources and management resources to its defense. An adverse ruling against the Company could materially and adversely affect its business, financial position, results of operations or cash flows and could also result in reputational harm. Even if the Company is successful in defending against these claims, the Medtronic Litigation could result in significant costs, delays in future product developments, reputational harm or other collateral consequences. 
+ On February 28, 2024, the Medtronic Affiliates filed complaints against the Company in the U.S. International Trade Commission, now Investigation No. 337-TA-1396, and in the U.S. District Court for the Central District of Delaware, Case No. 1:24-cv-00264-JLH. The Company refers to these matters as the Medtronic ITC Investigation and the Medtronic Delaware Litigation, respectively. The complaints assert that aspects of the Company s SNM systems infringe U.S. Patent Nos. 8,712,540 and 9,174,059 held by the Medtronic Affiliates (collectively, the Medtronic ITC Patents). The Medtronic ITC Investigation and the Medtronic Delaware Litigation request customary remedies for patent infringement, including (i) a determination that acts of importation, sale for importation, and/or sale after importation violate Section 337 of the Tariff Act of 1930, as amended 19 U.S.C. 1337, (ii) a permanent exclusion order barring articles from entry into the United States, (iii) a permanent cease and desist order prohibiting domestically assembling, manufacturing, importing, selling, marketing, advertising, distributing, offering for sale, transporting (except for exportation), servicing, and soliciting U.S. agents or distributors, (iv) a bond during the Presidential review period, (v) a judgment that the Company has infringed and is infringing the Medtronic ITC Patents, (vi) damages, including treble damages for willful infringement, (vii) a permanent injunction preventing the Company from infringing the Medtronic ITC Patents, (viii) attorneys fees, and 
+ 23 
+
+Table of Contents 
+
+ of the net revenues previously received for sales of the Company s F15 product that are the subject of dispute, which the Company has determined is approximately million from January 1, 2022 through September 30, 2024, with interest, and will continue to deposit the disputed of net revenues of the Company s F15 product with interest into the escrow account during the pendency of the arbitration proceedings. The Company has paid and, under this interim agreement, will continue to pay royalties on rechargeable products. While the loss from this contingency is reasonably possible, the Company does not believe that such loss is probable. The Company believes that it has meritorious defenses against AMF s claims and intends to vigorously defend against those claims, however, there can be no assurance as to the outcome of the arbitration. 
+ 
+ Note 4. 
+ General and administrative Sales and marketing 
+ 24 
+
+Table of Contents 
+
+ stock option grants for the three and nine months ended September 30, 2024 and 2023. 
+ As of September 30, 2024, there were minimal amounts of total unrecognized compensation cost related to unvested stock options that are expected to be recognized over a weighted-average period of approximately years. 
+ Options exercised ) (1) Options forfeited ) Outstanding at September 30, 2024 
+ (2) 
+ _____________________________________________ 
+ (1) Represents the total difference between the Company s closing stock price at the time of exercise and the stock option exercise price, multiplied by the number of options exercised. 
+ (2) Represents the total difference between the Company s closing stock price on the last trading day of the third quarter of 2024 and the stock option exercise price, multiplied by the number of in-the-money options as of September 30, 2024. The amount of intrinsic value will change based on the fair market value of the Company s stock. 
+ The weighted-average remaining contractual term of options outstanding and exercisable was years at September 30, 2024. 
+ Restricted Shares Awards Activity 
+ As of September 30, 2024, there was million of total unrecognized compensation cost related to unvested restricted shares awards that is expected to be recognized over a weighted-average period of approximately years. 
+ 25 
+
+Table of Contents 
+
+ Restricted shares awards granted Restricted shares awards vested ) Restricted shares awards forfeited ) Outstanding at September 30, 2024 
+ 
+ Restricted Stock Units Activity 
+ As of September 30, 2024, there was million of total unrecognized compensation cost related to unvested restricted stock units that is expected to be recognized over a weighted-average period of approximately years. 
+ Restricted stock units granted Restricted stock units vested ) Outstanding at September 30, 2024 
+
+Note 5.) ) ) Effective tax rate ) ) 
+ The Company periodically evaluates whether a portion or all of its deferred tax assets will be recovered. The Company records a valuation allowance against deferred tax assets if and to the extent it is more likely than not that they will not be recovered. In evaluating the need for a valuation allowance, the Company weighs all relevant positive and negative evidence, including among other factors, historical financial performance, forecasts of income over the applicable carryforward periods, and the market environment, with each consideration weighted based on its reliability. The Company continues to maintain a full valuation allowance against its otherwise recognizable U.S. deferred income tax assets and a partial valuation allowance on certain foreign deferred tax assets as of September 30, 2024 and December 31, 2023. 
+ 26 
+
+Table of Contents 
+
+ million. Approximately million of U.S. federal NOLs will expire in 2037 and remaining U.S. federal NOLs will carryover indefinitely. The Company had U.S. state NOLs of million, which will expire between 2033 and 2042. 
+ Pursuant to Sections 382 and 383 of the Internal Revenue Code of 1986, as amended (the Internal Revenue Code), use of the Company s NOL carryforwards may be limited if the Company experiences a cumulative change in ownership of greater than 50 in a rolling three-year period. The Company performed an analysis of changes in ownership for purposes of these Internal Revenue Code sections. Based on the studies performed in 2023, the Company determined that an ownership change did not occur in 2023. Future ownership changes could impact the Company s ability to utilize NOL carryforwards. 
+ 
+ Note 6. 
+ million and million, respectively. During the three and nine months ended September 30, 2023, the Company contributions to the plan amounted to million and million, respectively. 
+ 
+ Note 7. 
+ Foreign currency translation adjustment September 30, 2024 
+ 27 
+
+Table of Contents 
+
+ years ) Exclusive license asset years ) Technology years ) ) Trade names and trademarks Indefinite ) Customer relationships years ) ) ) ) ) ) 
+ Intangible assets as of December 31, 2023 included the following (in thousands): 
+ December 31, 2023 Weighted-Average Amortization Period Gross Carrying Amount Accumulated Amortization Impairment Foreign currency translation adjustment Intangible Asset, Net Patent license asset years ) Exclusive license asset years ) Technology years ) ) Trade names and trademarks Indefinite ) Customer relationships years ) ) ) ) ) ) 
+ 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ The following discussion and analysis should be read in conjunction with our unaudited condensed consolidated financial statements and the related notes to those statements included elsewhere in this Quarterly Report on Form 10-Q, as well as the audited consolidated financial statements and the related notes thereto, and the discussion under Management s Discussion and Analysis of Financial Condition and Results of Operations and Business included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, as filed with the SEC on February 29, 2024. 
+ 
+ Overview 
+ We are a global medical technology company that develops and commercializes innovative and minimally invasive products to treat adults with bladder and bowel dysfunction, including: (i) implantable rechargeable sacral neuromodulation (SNM) systems to treat urinary urge incontinence (UUI) and urinary urgency frequency (UUF), together referred to as overactive bladder (OAB), as well as fecal incontinence (FI), and non-obstructive urinary retention (UR); and (ii) a urethral bulking agent (Bulkamid) to treat female stress urinary incontinence (SUI). 
+ 28 
+
+Table of Contents 
+
+ On January 8, 2024, we entered into an Agreement and Plan of Merger (the Merger Agreement) with Boston Scientific Corporation, a Delaware corporation (Boston Scientific), and Sadie Merger Sub, Inc., a Delaware corporation and wholly owned subsidiary of Boston Scientific (Merger Sub), providing for the merger of Merger Sub with and into the Company (the Merger), with the Company surviving the Merger as a wholly owned subsidiary of Boston Scientific. The consummation of the Merger is subject to certain closing conditions, including, among others, the approval of our stockholders of the adoption of the Merger Agreement, the expiration or termination of any waiting periods (and any extension thereof) applicable to the consummation of the Merger under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (the HSR Act), and any agreement with a governmental authority not to consummate the Merger, and receipt of certain additional consents, approvals, non-disapprovals and other authorizations of certain other governmental bodies applicable to the Merger. If the Merger is consummated, at the effective time of the Merger (the Effective Time), each share of common stock, par value 0.0001 per share, of the Company issued and outstanding immediately prior to the Effective Time (each, a Share and collectively, the Shares), other than Shares (i) held in the treasury of the Company or owned by any direct or indirect wholly owned subsidiary of the Company, (ii) owned by Merger Sub, Boston Scientific or any direct or indirect wholly owned subsidiary of Boston Scientific or (iii) held by holders who are entitled to and have properly exercised and not waived, withdrawn, failed to perfect or otherwise lost their appraisal rights, will be automatically canceled and converted into the right to receive 71.00 in cash, without interest. 
+ Our stockholders voted to adopt the Merger Agreement with Boston Scientific at the Company s special meeting of stockholders held on March 22, 2024. On April 3, 2024, the Company and Boston Scientific each received a request for additional information (the Second Request) from the U.S. Federal Trade Commission (the FTC) in connection with the FTC s review of the Merger. The issuance of the Second Request extended the waiting period under the HSR Act until 30 days after both the Company and Boston Scientific have substantially complied with the Second Request, unless the waiting period is extended voluntarily by the parties or terminated earlier by the FTC. The Company and Boston Scientific continue to work cooperatively with the FTC in its review of the Merger. 
+ Economic Environment 
+ Our business has been impacted by global supply chain disruptions which improved in 2023 and 2024 compared to 2022, however challenges still exist. In particular, we have experienced, and may continue to experience, increases in cost and limited availability of certain raw materials, components, and other inputs necessary to manufacture and distribute our products due to constraints and inflation within the global supply chain, as well as increases in wage costs and the cost and time to distribute our products. Uncertainty around inflationary pressures, interest rates, monetary policy and changes in tax laws could potentially cause new, or exacerbate existing, economic challenges that we may face, including the impact of foreign currency fluctuations on our results of operations, or result in an economic downtown or recession, which could negatively impact our business operations and results. Existing and future potential geopolitical dynamics, including matters related to the Russia/Ukraine war, conflict in the Middle East, as well as the tension between China/Taiwan, may create economic, supply chain, energy, and other challenges, including disruptions to business operations, which impact, and may in the future negatively impact our business. In particular, international conflicts could create instability, have and may further result in sanctions, tariffs, and other measures that restrict international trade and may negatively affect our business operations and results. 
+ SNM Systems 
+ Our recharge-free SNM system, Axonics F15, received FDA approval in March 2022 and utilizes a primary cell battery with an expected life of 15 years at typical stimulation parameters and over 20 years at lower amplitude settings and offers broad magnetic resonance imaging (MRI) access with 1.5T and 3.0T scanners. The recharge-free implantable neurostimulator (INS) is approximately 10cc in volume, utilizes constant current stimulation, an easy-to-use, intuitive recharge-free patient remote control and other related accessories. 
+ Our fourth-generation rechargeable SNM system, Axonics R20, is only 5cc in volume and is designed to last 20 or more years in the human body. R20 provides constant current stimulation and offers broad MRI access with 1.5T and 3.0T scanners. R20 utilizes an easy-to-use, intuitive patient remote control and requires recharging for only one hour every 6 to 10 months, which is the longest interval between recharging among available rechargeable SNM systems. The R20 received FDA approval in January 2023 and replaces the previous rechargeable SNM system offered by Axonics that was the first to be marketed worldwide. 
+ 29 
+
+Table of Contents 
+
+ We began U.S. commercialization in the middle of the fourth quarter of 2019 after receiving FDA premarket approval (PMA) of our first rechargeable SNM system. We also have marketing approvals from regulators in Europe, Canada, and Australia for certain SNM systems for most relevant clinical indications. 
+ SNM therapy has been commercially available in the United States for over 25 years and has been clinically proven to provide a safe, effective, reversible, and long-lasting symptom relief. We believe that our SNM systems offer therapeutic benefits and advantages compared to our competitor s SNM systems. 
+ We engineered our SNM systems to deliver constant-current stimulation, which automatically adjusts stimulation based on changes to impedance that occur as the implanted lead scars into the body, which we believe provides a more consistent therapy over time and reduces management of the therapy. Our SNM systems include an easy-to-use wireless patient remote control that does not require recharging or replacement batteries. We also designed and custom built a clinician programmer that guides the implanting physician through lead placement and stimulation programming. 
+ We focus most of our sales and marketing efforts in the United States where reimbursement for SNM therapy is well-established and covered by the vast majority of U.S. insurers and Medicare. 
+ Urethral Bulking Agent 
+ On February 25, 2021, we acquired Contura Limited (Contura) and its Bulkamid product, a urethral bulking hydrogel indicated for the treatment of female SUI. 
+ SUI is a common condition that afflicts women of all ages, with childbirth as one of the main contributing factors. SUI is caused by weakness in the pelvic floor, preventing the urethra from closing fully when sudden pressure is put on the bladder. This can allow urine to leak out during normal daily activities such as coughing, laughing, exercising, or lifting an object. 
+ Bulkamid received a Conformit Europ enne (CE) Mark in 2003 and a PMA from the FDA in 2020 and is sold through a combination of a direct sales force in the United States, Germany, United Kingdom, and the Nordic countries and distributors in certain international markets. 
+ As a next-generation bulking agent, we believe Bulkamid addresses the shortcomings of legacy particulate-based bulking agents. It is a unique and patented non-particulate hydrogel that is injected into the urethral wall to restore the natural closing pressure of the urethra. It is a simple, quick, and easy-to-learn and perform procedure that can be performed in either a physician s office or an outpatient facility. 
+ Bulkamid is biocompatible, consisting of 97.5 water, and does not induce a chronic inflammatory response. Bulkamid s bulking effect is aided by the volume of each injection being predictable, controllable, and precise. Bulkamid retains its bulking characteristics for a number of years, thereby maintaining efficacy and providing women with long lasting relief of their SUI symptoms. Bulkamid is clinically validated and generates high rates of patient satisfaction. 
+ Our Markets 
+ The market for SNM therapy is large and growing and highly underpenetrated, with approximately 19 million women in the United States having moderate to severe UUI or mixed urinary incontinence (MUI) symptoms, which is urinary incontinence related to both urgency and stress. Before treating patients with a third-line therapy such as SNM, physicians are required to prescribe first- and second-line therapies. First-line therapies include behavioral changes such as diet and exercise, and second-line therapies include drug therapy. We believe the SNM market will continue to expand for the foreseeable future driven by increased awareness and education of SNM therapy, greater expectations for quality of life, and improved patient attitudes toward receiving medical attention. In addition, market growth is anticipated due to continued innovation and the introduction of new efficacious and long-lived products for SNM therapy. We believe that this represents a compelling opportunity for our SNM systems to capture market share and grow the market for SNM therapy. 
+ The market for SUI therapy is highly underpenetrated, with approximately 22 million women in the United States having moderate to severe SUI or MUI symptoms. The first-line treatment options for SUI begin with lifestyle changes and continence pessaries. SUI lacks pharmacologic treatments, with patients next advancing to urethral bulking agents, pelvic floor sling surgery or colposuspension. We estimate that of the women who have 
+ 30 
+
+Table of Contents 
+
+ sought medical treatment, most were offered conservative therapy or opted for no treatment due to a lack of non-invasive treatment options with high efficacy. 
+ While we anticipate expanding into other geographic regions over time, we are primarily focusing on marketing our products in the United States, Europe, and Australia. 
+ In the United States, the cost required to treat each patient is reimbursed through various third-party payors, such as commercial payors and government agencies. Most large insurers have established coverage policies in place to cover SNM therapy. Certain commercial payors have a patient-by-patient prior authorization process that must be followed before they will provide reimbursement for SNM therapy. Outside the United States, reimbursement levels vary significantly by country and by region, particularly based on whether the country or region at issue maintains a single-payor system. SNM therapy is eligible for reimbursement in Canada, Australia and certain countries in Europe. Annual healthcare budgets generally determine the number of SNM systems that will be paid for by the payor in these single-payor system countries and regions. Reimbursement is obtained from a variety of sources, including government-sponsored and private health insurance plans, and combinations of both. Some countries or regions may require us to gather additional clinical data before granting coverage and reimbursement for our SNM systems. 
+ 
+ Components of Our Results of Operations 
+ Net Revenue 
+ Net revenue during the three and nine months ended September 30, 2024 and 2023 are as follows (in thousands): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 SNM net revenue United States 90,072 72,212 248,988 198,270 International markets 2,277 1,737 6,255 5,025 92,349 73,949 255,243 203,295 Bulkamid net revenue United States 19,050 15,579 52,575 41,998 International markets 4,794 3,572 14,349 11,351 23,844 19,151 66,924 53,349 Total net revenue 116,193 93,100 322,167 256,644 
+ We expect our revenue to fluctuate from quarter to quarter due to a variety of factors, including seasonality. For example, the industry generally experiences lower revenues in the first and third quarters of the year and higher revenues in the fourth quarter. Our revenue has been impacted by these industry trends. 
+ Cost of Goods Sold and Gross Margin 
+ Cost of goods sold consists primarily of costs of the components of our SNM systems, third-party contract labor costs, overhead costs, Bulkamid product costs, as well as distribution-related expenses such as logistics and shipping costs. The overhead costs include the cost of material procurement and operations supervision and management personnel. We expect overhead costs as a percentage of net revenue to decrease as our sales volume increases. Cost of goods sold also include other expenses such as scrap and inventory obsolescence. We expect cost of goods sold to increase in absolute dollars primarily as, and to the extent, our net revenue grows. We expect gross margin to vary based on manufacturing costs, regional differences in pricing, and discounts negotiated by customers. 
+ We calculate gross margin as gross profit divided by net revenue. We expect future gross margin will be affected by a variety of factors, including manufacturing costs, the average selling price of our products, the implementation of cost-reduction strategies, inventory obsolescence costs, which may occur when new generations 
+ 31 
+
+Table of Contents 
+
+ of our SNM systems are introduced, and to a lesser extent, the sales mix between the United States and international markets as our average selling price in the United States is expected to be higher than in international markets and foreign currency exchange rates. Our gross margin may increase over the long term to the extent our production volumes increase and we receive discounts on the costs charged by our contract manufacturers, thereby reducing our per unit costs. Additionally, our gross margin may fluctuate from quarter to quarter as we continue to introduce new products and adopt new manufacturing processes and technologies. 
+ Research and Development Expenses 
+ Research and development expenses consist primarily of employee compensation, including stock-based compensation, product development, including testing and engineering, royalty expense, and clinical studies to develop and support our SNM systems, including clinical study and registry management and monitoring, payments to clinical investigators, and data management. Other research and development expenses include consulting and advisory fees, royalty expense, travel expenses, and equipment-related expenses and other miscellaneous office and facilities expenses related to research and development programs. Research and development costs are expensed as incurred. We expect to continue incurring research and development expenses in the future as we develop new products and expand to new markets. 
+ The following table summarizes our research and development expenses by functional area for the three and nine months ended September 30, 2024 and 2023 (in thousands): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Personnel related 9,539 5,642 25,498 17,031 Clinical development 764 336 1,709 713 Contract R D and manufacturing 1,797 1,396 5,961 4,882 Royalty expense 731 649 1,998 1,741 Other R D expenses 660 144 2,173 805 Total R D expenses 13,491 8,167 37,339 25,172 
+ General and Administrative Expenses 
+ General and administrative expenses consist primarily of employee compensation, including stock-based compensation, and spending related to finance, information technology, human resource functions, consulting, legal, and professional service fees. Other general and administrative expenses include director and officer insurance premiums, investor relations costs, office-related expenses, facilities and equipment rentals, bad debt expense, travel expenses, and impairment expenses. We expect our general and administrative expenses will significantly increase in absolute dollars as we increase our headcount and expand administrative personnel to support our growth and operations. Additionally, we anticipate legal expenses associated with our patent infringement litigation with the Medtr onic Affiliates and the arbitration with the Alfred Mann Foundation for Scientific Research (AMF) to remain at increased levels until these matters are resolved . 
+ Sales and Marketing Expenses 
+ Sales and marketing expenses consist primarily of employee compensation, including sales personnel commissions and stock-based compensation, direct-to-consumer advertising programs, trade shows, booth exhibition costs, and the related travel for these events. Other sales and marketing expenses include consulting and advisory fees. We expect sales and marketing expenses to continue to increase in absolute dollars as we continue to expand our commercial infrastructure to both drive and support our expected growth in net revenue. 
+ Amortization of Intangible Assets 
+ Amortization of intangible assets consist primarily of amortization expense on patent license asset, manufacturing license asset, technology, and customer relationships intangible assets. We amortize finite lived intangible assets over the period of estimated benefit using the straight-line method. 
+ 32 
+
+Table of Contents 
+
+ Acquisition-Related Costs 
+ Acquisition-related costs consist of due diligence expenses incurred related to the Merger Agreement with Boston Scientific, legal costs for antitrust analysis and responding to the FTC s second request, and expenses and changes in contingent consideration related to the Contura acquisition. 
+ Other Income (Expense), Net 
+ Other income (expense), net consists primarily of interest, dividend and accretion income and realized gain (loss) earned on cash equivalents, short-term investments and restricted cash, and gains and losses on foreign currency transactions. 
+ Income Tax (Benefit) Expense 
+ Income tax (benefit) expense primarily consists of deferred tax benefit associated with amortization of intangible assets and losses in certain foreign jurisdictions, offset by current U.S. federal, state and foreign taxes. 
+ 
+ Results of Operations 
+ The following table shows our results of operations for the three and nine months ended September 30, 2024 and 2023 (in thousands, except percentages): 
+ Three Months Ended September 30, Period to Period Change 
+ Nine Months Ended September 30, Period to Period Change 
+ 2024 2023 2024 2023 Net revenue 116,193 93,100 23,093 322,167 256,644 65,523 Cost of goods sold 26,542 23,996 2,546 74,120 64,850 9,270 Gross profit 89,651 69,104 20,547 248,047 191,794 56,253 Gross Margin 77.2 74.2 77.0 74.7 Operating expenses Research and development 13,491 8,167 5,324 37,339 25,172 12,167 General and administrative 23,761 11,778 11,983 55,192 34,659 20,533 Sales and marketing 52,972 47,544 5,428 160,607 134,468 26,139 Amortization of intangible assets 2,221 2,302 (81) 6,722 6,803 (81) Acquisition-related costs 3,474 3,474 9,953 2,368 7,585 Acquired in-process research development 15,447 (15,447) Total operating expenses 95,919 69,791 26,128 269,813 218,917 50,896 Loss from operations (6,268) (687) (5,581) (21,766) (27,123) 5,357 Other income (expense) Interest and other income 4,704 4,271 433 13,379 12,149 1,230 Interest and other expense 8 (83) 91 (83) 774 (857) Other income, net 4,712 4,188 524 13,296 12,923 373 (Loss) income before income tax (benefit) expense (1,556) 3,501 (5,057) (8,470) (14,200) 5,730 Income tax (benefit) expense (1,535) (427) (1,108) 3,764 (1,538) 5,302 Net (loss) income (21) 3,928 (3,949) (12,234) (12,662) 428 Foreign currency translation adjustment 10,438 (6,185) 16,623 9,752 636 9,116 Comprehensive income (loss) 10,417 (2,257) 12,674 (2,482) (12,026) 9,544 
+ 
+ 33 
+
+Table of Contents 
+
+ Comparison of the Three Months Ended September 30, 2024 and 2023 
+ Net Revenue 
+ Net revenue was 116.2 million for the three months ended September 30, 2024, an increase of 23.1 million, or 24.8 , compared to 93.1 million for the three months ended September 30, 2023. Net revenue is primarily derived from the sale of our products to customers in the United States and certain international markets. The increase in net revenue is primarily due to increased sales of our products to new customers in the U.S. and increased sales to our existing customer base. 
+ Cost of Goods Sold and Gross Margin 
+ We incurred 26.5 million of cost of goods sold for the three months ended September 30, 2024, compared to 24.0 million for the three months ended September 30, 2023. Gross margin was 77.2 in the three months ended September 30, 2024, compared to 74.2 for the three months ended September 30, 2023. The increase in gross margin is primarily due to higher sales volumes and more favorable product mix. 
+ Research and Development Expenses 
+ Research and development expenses increased 5.3 million, or 65.2 , to 13.5 million in the three months ended September 30, 2024, compared to 8.2 million in the three months ended September 30, 2023. The increase in research and development expenses was primarily attributable to an increase of 3.9 million related to personnel costs including salaries, wages, stock-based compensation and other employee-related benefits, primarily related to support of new regulatory filings and clinical trials, and an increase of 0.4 million related to contract research and development and manufacturing. 
+ General and Administrative Expenses 
+ General and administrative expenses increased 12.0 million, or 101.7 , to 23.8 million in the three months ended September 30, 2024, compared to 11.8 million in the three months ended September 30, 2023, primarily as a result of an increase of 9.5 million in legal fees related to the one-time trial costs and success fees for the Medtronic Litigation as well as the ongoing arbitration with AMF, an increase of 1.1 million in rent expenses, and an increase of 0.8 million in personnel costs including salaries and wages, stock-based compensation and other employee-related benefits. 
+ Sales and Marketing Expenses 
+ Sales and marketing expenses increased 5.4 million, or 11.4 , to 53.0 million in the three months ended September 30, 2024, compared to 47.5 million in the three months ended September 30, 2023. The increase in sales and marketing expenses was primarily as a result of an increase of 5.3 million related to personnel costs including salaries, wages, sales personnel commissions, stock-based compensation and other employee-related benefits primarily related to increased headcount and commissions from the increase in net revenue. 
+ Amortization of Intangible Assets 
+ Amortization of intangible assets was 2.2 million in the three months ended September 30, 2024, compared to 2.3 million in the three months ended September 30, 2023. Amortization of intangible assets consisted primarily of technology and customer relationships acquired related to the Contura acquisition. 
+ Acquisition-Related Costs 
+ Acquisition-related costs were 3.5 million in the three months ended September 30, 2024, consisting primarily of legal costs for responding to the FTC s second request related to the Merger Agreement with Boston Scientific. We recorded no acquisition-related costs in the three months ended September 30, 2023. 
+ Acquired In-Process Research Development 
+ We recorded no acquired in-process research development in the three months ended September 30, 2024 and 2023. 
+ Other Income, Net 
+ Other income, net was 4.7 million in the three months ended September 30, 2024, consisting primarily of 
+ 34 
+
+Table of Contents 
+
+ interest, dividend and accretion income earned on cash equivalents, short-term investments and restricted cash. Other income, net was 4.2 million in the three months ended September 30, 2023, consisting primarily of interest income on cash equivalents and short-term investments. 
+ Income Tax Benefit 
+ Income tax benefit was 1.5 million for the three months ended September 30, 2024, primarily related to increased losses in certain foreign jurisdictions. Income tax benefit was 0.4 million for the three months ended September 30, 2023, primarily related to losses in certain foreign jurisdictions. 
+ Comparison of the Nine Months Ended September 30, 2024 and 2023 
+ Net Revenue 
+ Net revenue was 322.2 million for the nine months ended September 30, 2024, an increase of 65.5 million, or 25.5 , compared to 256.6 million for the nine months ended September 30, 2023. Net revenue is primarily derived from the sale of our products to customers in the United States and certain international markets. The increase in net revenue is primarily due to increased sales of our products to new customers in the U.S. and increased sales to our existing customer base. 
+ Cost of Goods Sold and Gross Margin 
+ We incurred 74.1 million of cost of goods sold for the nine months ended September 30, 2024, compared to 64.9 million for the nine months ended September 30, 2023. Gross margin was 77.0 in the nine months ended September 30, 2024, compared to 74.7 for the nine months ended September 30, 2023. The increase in gross margin is primarily due to higher sales volumes and more favorable product mix. 
+ Research and Development Expenses 
+ Research and development expenses increased 12.2 million, or 48.3 , to 37.3 million in the nine months ended September 30, 2024, compared to 25.2 million in the nine months ended September 30, 2023. The increase in research and development expenses was primarily attributable to an increase of 8.5 million related to personnel costs including salaries, wages, stock-based compensation and other employee-related benefits, primarily related to support of new regulatory filings and clinical trials, and an increase of 1.1 million related to contract research and development and manufacturing. 
+ General and Administrative Expenses 
+ General and administrative expenses increased 20.5 million, or 59.2 , to 55.2 million in the nine months ended September 30, 2024, compared to 34.7 million in the nine months ended September 30, 2023, primarily as a result of an increase of 12.7 million in legal fees related to the one-time trial costs and success fees for the Medtronic Litigation as well as the ongoing arbitration with AMF, an increase of 3.9 million in personnel costs including salaries and wages, stock-based compensation and other employee-related benefits, and an increase of 2.8 million in rent expense. 
+ Sales and Marketing Expenses 
+ Sales and marketing expenses increased 26.1 million, or 19.4 , to 160.6 million in the nine months ended September 30, 2024, compared to 134.5 million in the nine months ended September 30, 2023. The increase in sales and marketing expenses was primarily as a result of an increase of 22.5 million related to personnel costs including salaries, wages, sales personnel commissions, stock-based compensation and other employee-related benefits primarily related to increased headcount and commissions from the increase in net revenue, and an increase of 3.3 million related to advertising expenses. 
+ Amortization of Intangible Assets 
+ Amortization of intangible assets was 6.7 million in the nine months ended September 30, 2024, compared to 6.8 million in the nine months ended September 30, 2023. Amortization of intangible assets consisted primarily of technology and customer relationships acquired related to the Contura acquisition. 
+ 35 
+
+Table of Contents 
+
+ Acquisition-Related Costs 
+ Acquisition-related costs were 10.0 million in the nine months ended September 30, 2024, consisting primarily of legal costs for antitrust analysis and responding to the FTC s second request related to the Merger Agreement with Boston Scientific. Acquisition-related costs were 2.4 million in the nine months ended September 30, 2023, related to the change in fair value of contingent consideration. 
+ Acquired In-Process Research Development 
+ We recorded no acquired in-process research development in the nine months ended September 30, 2024. Acquired in-process research development was 15.4 million for the nine months ended September 30, 2023 which related to the Radian acquisition. 
+ Other Income, Net 
+ Other income, net was 13.3 million in the nine months ended September 30, 2024, consisting primarily of interest, dividend and accretion income earned on cash equivalents, short-term investments and restricted cash. Other income, net was 12.9 million in the nine months ended September 30, 2023, consisting primarily of interest income on cash equivalents and short-term investments. 
+ Income Tax (Benefit) Expense 
+ Income tax expense was 3.8 million for the nine months ended September 30, 2024 primarily related to increased income in the U.S. Income tax benefit was 1.5 million for the nine months ended September 30, 2023 primarily related to losses in certain foreign jurisdictions. 
+ 
+ Liquidity and Capital Resources 
+ We only began full-scale commercialization of our first rechargeable SNM system in late 2019. We have expended significant resources on research and development activities, growing our operations organization and building and training our sales organization, and sales and marketing activities to commercialize and market our line of SNM systems in the United States. We expect to continue to spend a significant amount of our existing resources on sales and marketing activities as we continue to commercialize and market our products in the United States and internationally. 
+ We incurred net losses of 12.2 million and 12.7 million for the nine months ended September 30, 2024 and 2023, respectively, and had an accumulated deficit of 392.6 million as of September 30, 2024 compared to 380.4 million at December 31, 2023. 
+ As of September 30, 2024, we had cash, cash equivalents, short-term investments and restricted cash of 367.3 million compared to 357.7 million at December 31, 2023. We expect that our cash, cash equivalents, short-term investments, and restricted cash on hand will be sufficient to fund our operations through at least the next 12 months. We fund our operations through a combination of proceeds from public offerings of our common stock and cash receipts from sales of our products. As of September 30, 2024, we had no outstanding borrowings. 
+ Beyond the next 12 months, our cash requirements will depend primarily on the amount of continued cash receipts from sales of our products, as well as our ability to develop or acquire new products, enter new markets, and compete effectively. We cannot accurately predict our long-term cash requirements at this time. We may need to raise additional financing in the future to facilitate our business operations. If we raise additional funds by issuing equity securities, our stockholders could experience dilution. Debt financing, if available, may involve covenants further restricting our operations or our ability to incur additional debt. Any debt financing or additional equity that we raise may contain terms that are not favorable to us or our stockholders. Additional financing may not be available at all, or in amounts or on terms acceptable to us. If we are unable to obtain additional financing when needed to satisfy our liquidity requirements, we may be required to scale back our operations. 
+ Contractual Obligations and Cash Requirements 
+ There have been no material changes to our contractual obligations or material cash requirements from those described in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+ 36 
+
+Table of Contents 
+
+ Cash Flows 
+ The following table presents a summary of our cash flow for the periods indicated (in thousands): 
+ Nine Months Ended September 30, 2024 2023 Net cash provided by (used in) Operating activities 8,664 (7,646) Investing activities 131,188 (78,982) Financing activities 3,014 (3,958) Effect of exchange rate changes on cash, cash equivalents, and restricted cash 1,143 (937) Net increase (decrease) in cash, cash equivalents, and restricted cash 144,009 (91,523) 
+ Net cash provided by (used in) operating activities 
+ Net cash provided by operating activities was 8.7 million for the nine months ended September 30, 2024 and consisted primarily of non-cash charges of 44.5 million, partially offset by a decrease from changes in net operating assets of 23.6 million and a net loss of 12.2 million . Net operating assets consisted primarily of inventory and accounts receivable due to the commercial growth in the United States. Non-cash charges consisted primarily of stock-based compensation and depreciation and amortization. 
+ Net cash used in operating activities was 7.6 million for the nine months ended September 30, 2023 and consisted primarily of a net loss of 12.7 million and a decrease from changes in net operating assets of 52.8 million, partially offset by non-cash charges of 57.9 million. Net operating assets consisted primarily of inventory and accounts receivable due to the commercial growth in the United States. Non-cash charges consisted primarily of stock-based compensation and acquired in-process research development. 
+ Net cash provided by (used in) investing activities 
+ Net cash provided by investing activities was 131.2 million for the nine months ended September 30, 2024 and consisted of sales and maturities of short-term investments, partially offset by purchases of short-term investments. 
+ Net cash used in investing activities was 79.0 million for the nine months ended September 30, 2023 and consisted of purchases of short-term investments and property and equipment, partially offset by sales and maturities of short-term investments. 
+ Net cash provided by (used in) financing activities 
+ Net cash provided by financing activities was 3.0 million for the nine months ended September 30, 2024 and consisted of proceeds from exercise of stock options. 
+ Net cash used in financing activities was 4.0 million for the nine months ended September 30, 2023 and consisted primarily of payment of contingent consideration recognized at acquisition, partially offset by proceeds from exercise of stock options. 
+ 
+ Critical Accounting Estimates 
+ Our critical accounting estimates are described in Management s Discussion and Analysis of Financial Condition and Results of Operations Critical Accounting Estimates in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, as filed with the SEC on February 29, 2024. We have reviewed and determined that those critical accounting estimates remain our critical accounting estimates as of and for the nine months ended September 30, 2024. 
+ 37 
+
+Table of Contents 
+
+ Recent Accounting Pronouncements 
+ We have reviewed all recently issued standards and have determined that, other than as disclosed in Note 1 to our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q, such standards will not have a significant impact on our unaudited condensed consolidated financial statements or do not otherwise apply to our operations. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk. 
+ We are exposed to market risks in the ordinary course of our business. These risks primarily include interest rate risk, foreign currency exchange rate risk and inflation risk as follows: 
+ Interest Rate Risk 
+ We had cash, cash equivalents, short-term investments, and restricted cash of 367.3 million as of September 30, 2024, which came from public offerings of our common stock and cash receipts from our product sales. The goals of our investment policy are liquidity and capital preservation and we do not enter into investments for trading or speculative purposes. We believe that we do not have any material exposure to changes in the fair value of these assets as a result of changes in interest rates due to the short-term nature of our cash, cash equivalents, short-term investments, and restricted cash. A hypothetical 10 relative change in interest rates during any of the periods presented would not have had a material impact on our unaudited condensed consolidated financial statements. We do not currently engage in hedging transactions to manage our exposure to interest rate risk. 
+ Foreign Currency Exchange Rate Risk 
+ As we expand internationally our results of operations and cash flows may become increasingly subject to fluctuations due to changes in foreign currency exchange rates. Our revenues and expenses are generally denominated in the currencies in which our operations are located, which is primarily in the United States. The effect of a 10 adverse change in exchange rates on foreign denominated cash, receivables and payables would not have been material for the periods presented. As our operations in countries outside of the United States grow, our results of operations and cash flows may be subject to fluctuations due to changes in foreign currency exchange rates, which could harm our business in the future. To date, we have not entered into any material foreign currency hedging contracts although we may do so in the future. 
+ Inflation Risk 
+ Inflationary factors, such as increases in our cost of goods sold and selling and operating expenses, may adversely affect our operating results. Although we do not believe that inflation has had a material impact on our financial position or results of operations to date, a high rate of inflation in the future may have an adverse effect on our ability to maintain and increase our gross margin and sales and marketing and operating expenses as a percentage of our revenue if the selling prices of our products do not increase as much as or more than these increased costs. 
+ 
+ Item 4. Controls and Procedures. 
+ Limitations on effectiveness of controls and procedures 
+ In designing and evaluating our disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs. 
+ Evaluation of disclosure controls and procedures 
+ Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated, as of the end of the period covered by this Quarterly Report on Form 10-Q, the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act). Based on that evaluation, our Chief Executive Officer and Chief Financial 
+ 38 
+
+Table of Contents 
+
+ Officer concluded that our disclosure controls and procedures were not effective as of September 30, 2024 due to the material weaknesses in internal control over financial reporting, as described below. 
+ Material Weaknesses in Internal Control Over Financial Reporting 
+ Management s assessment of our internal control over financial reporting as of December 31, 2023 identified material weaknesses in our internal control over financial reporting. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected on a timely basis. 
+ We did not maintain effective information technology general controls, specifically in the area of access including provisioning, user access reviews and restricted access which could lead to downstream segregation of duties issues related to certain information technology systems that support our financial reporting process, and manual controls impacting substantially all financial statement areas as well as the financial close and reporting process and preparation of financial statements and related disclosures that are dependent upon the information technology systems including evaluation and determination whether components of internal control were present and functioning. 
+ We did not design and maintain control activities related to the accounting and disclosure related to significant financial statement areas including the accounting for tenant improvements related to leases, allocation of overhead to inventory, and the accounting and disclosure related to income taxes. 
+ These control deficiencies create a reasonable possibility that a material misstatement to the consolidated financial statements would not be prevented or detected on a timely basis, and therefore, we concluded that the deficiencies represent material weaknesses in our internal control over financial reporting, and our internal control over financial reporting was not effective as of September 30, 2024. 
+ Notwithstanding such material weaknesses in internal control over financial reporting, our management, including our Chief Executive Officer and our Chief Financial Officer, has concluded that our consolidated financial statements present fairly, in all material respects, our financial position, results of our operations and our cash flows for the periods presented in this Quarterly Report, in conformity with GAAP. 
+ Remediation Plan 
+ We have identified steps, as further described below, to remediate the material weaknesses described in this Item 4 and to enhance our overall control environment. We are committed to ensuring that our internal control over financial reporting is designed and operating effectively. Our remediation process includes, but is not limited to: 
+ Enhancing the controls around user access provisioning and monitoring controls to enforce appropriate system access and segregation of duties for systems supporting the Company s internal controls processes and financial reporting 
+ Enhancing and designing controls that address the completeness and accuracy of underlying data used in the performance of certain manual controls over accounting transactions; 
+ Implementing an accounting and disclosure checklist that includes specific review attributes to ensure sufficient evidence of an effective review is documented and maintained to support management s conclusions related to significant financial statement areas; and 
+ Expanding personnel with appropriate experience to devote sufficient time and resources to our internal controls over accounting and disclosure related to significant financial statement areas. 
+ We believe that these actions will remediate the material weaknesses. The weaknesses will not be considered remediated, however, until the applicable controls operate and management has concluded, through testing, that these controls are operating effectively. 
+ As we continue to evaluate and test the remediation plan outlined above, we may also identify additional measures to address the material weaknesses or modify certain of the remediation procedures described above. We, 
+ 39 
+
+Table of Contents 
+
+ with the oversight of the Audit Committee, will continue to take steps necessary to remedy the material weaknesses to reinforce the overall design and capability of our control environment. 
+ Changes in internal control over financial reporting 
+ There were no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the three months ended September 30, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 40 
+
+Table of Contents 
+
+ PART II OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings. 
+ Except as described in Note 3 to our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report, during the quarter ended September 30, 2024, there have been no material developments in the litigation matters disclosed in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, as filed with the SEC on February 29, 2024, as such information has been updated by us pursuant to our Quarterly Report on Form 10-Q for the quarter ended March 31, 2024, as filed with the SEC on April 30, 2024. 
+ 
+ Item 1A. Risk Factors. 
+ You should carefully consider the information described in the Risk Factors section of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, as filed with the SEC on February 29, 2024. There have been no material changes from the risk factors disclosed in our recent SEC filings, including our most recently filed Form 10-K. 
+ 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 
+ None. 
+ 
+ Item 3. Defaults Upon Senior Securities. 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures. 
+ Not applicable. 
+ 
+ Item 5. Other Information. 
+ None. 
+ 41 
+
+Table of Contents 
+
+ Item 6. Exhibits. 
+ EXHIBIT INDEX 
+ Exhibit Number Exhibit Title 
+ 31.1 Certification of Principal Executive Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) of the Securities Exchange Act of 1934, as amended. 
+ 31.2 Certification of Principal Financial Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) of the Securities Exchange Act of 1934, as amended. 
+ 32.1# Certifications of Principal Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 32.2# Certifications of Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101.INS Inline XBRL Instance Document. 101.SCH Inline XBRL Taxonomy Extension Schema Document. 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document. 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document. 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document. 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. 104 Cover Page Interactive Date File (formatted as Inline XBRL and contained in Exhibit 101). 
+ # The information in Exhibits 32.1 and 32.2 shall not be deemed filed for purposes of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that section, nor shall it be deemed incorporated by reference in any filing under the Securities Act or the Exchange Act (including this Quarterly Report on Form 10-Q), unless the Company specifically incorporates the foregoing information into those documents by reference. In accordance with Rule 402 of Regulation S-T, this interactive data file is deemed not filed or part of this Quarterly Report on Form 10-Q for purposes of Sections 11 or 12 of the Securities Act or Section 18 of the Exchange Act and otherwise is not subject to liability under these sections. 
+ 42 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ AXONICS, INC. Date: November 7, 2024 
+ By: /s/ Raymond W. Cohen Raymond W. Cohen 
+ Chief Executive Officer and Director (Principal Executive Officer) Date: November 7, 2024 
+ By: /s/ Kari L. Keese Kari L. Keese 
+ Chief Financial Officer 
+ (Principal Financial and Accounting Officer) 
+ 
+ 43 
+
+<EX-31.1>
+ 2
+ a09302024-exhibit311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ I, Raymond W. Cohen, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Axonics, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 7, 2024 
+ By s Raymond W. Cohen Raymond W. Cohen 
+ Chief Executive Officer and Director (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a09302024-exhibit312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ I, Kari L. Keese, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Axonics, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 7, 2024 
+ By s Kari L. Keese Kari L. Keese 
+ Chief Financial Officer 
+ (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ a09302024-exhibit321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Axonics, Inc. (the Company on Form 10-Q for the quarterly period ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date November 7, 2024 
+ By s Raymond W. Cohen Raymond W. Cohen 
+ Chief Executive Officer and Director (Principal Executive Officer) 
+ 
+ A signed original of this written statement required by Section 906 has been provided to Axonics, Inc. and will be retained by Axonics, Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ a09302024-exhibit322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Axonics, Inc. (the Company on Form 10-Q for the quarterly period ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date November 7, 2024 
+ By s Kari L. Keese Kari L. Keese 
+ Chief Financial Officer 
+ (Principal Financial Officer) 
+
+A signed original of this written statement required by Section 906 has been provided to Axonics, Inc. and will be retained by Axonics, Inc. and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ axnx-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ axnx-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ axnx-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ axnx-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ axnx-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

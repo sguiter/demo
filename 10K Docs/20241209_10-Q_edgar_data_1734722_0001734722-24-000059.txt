@@ -1,0 +1,974 @@
+<Header>
+<FileStats>
+    <FileName>20241209_10-Q_edgar_data_1734722_0001734722-24-000059.txt</FileName>
+    <GrossFileSize>8050004</GrossFileSize>
+    <NetFileSize>122299</NetFileSize>
+    <NonText_DocumentType_Chars>1367593</NonText_DocumentType_Chars>
+    <HTML_Chars>2996925</HTML_Chars>
+    <XBRL_Chars>1784906</XBRL_Chars>
+    <XML_Chars>1620288</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001734722-24-000059.hdr.sgml : 20241209
+<ACCEPTANCE-DATETIME>20241206191335
+ACCESSION NUMBER:		0001734722-24-000059
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		83
+CONFORMED PERIOD OF REPORT:	20241031
+FILED AS OF DATE:		20241209
+DATE AS OF CHANGE:		20241206
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			UiPath, Inc.
+		CENTRAL INDEX KEY:			0001734722
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				474333187
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40348
+		FILM NUMBER:		241533527
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE VANDERBILT AVENUE
+		STREET 2:		60TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		(844) 432-0455
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE VANDERBILT AVENUE
+		STREET 2:		60TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+</SEC-Header>
+</Header>
+
+ 0001734722-24-000059.txt : 20241209
+
+10-Q
+ 1
+ path-20241031.htm
+ 10-Q
+
+path-20241031 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ ___________________________________________ 
+ FORM 
+ ___________________________________________ 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from ________ to ________ 
+ Commission File Number: 
+ ___________________________________________ 
+
+(Exact Name of Registrant as Specified in its Charter) 
+ ___________________________________________ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ , 
+ (Address of principal executive offices) (Zip Code) Registrant s telephone number, including area code: ) 
+ 
+ ___________________________________________ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ As of December 4, 2024, the registrant had shares of Class A common stock and shares of Class B common stock, each with a par value of 0.00001 per share, outstanding. 
+
+Table of Contents 
+ Page PART I. 
+ FINANCIAL INFORMATION 
+ Item 1. 
+ Financial Statements (Unaudited) 
+ 1 
+ Condensed Consolidated Balance Sheets 
+ 1 
+ Condensed Consolidated Statements of Operations 
+ 2 
+ Condensed Consolidated Statements of Comprehensive Loss 
+ 3 
+ Condensed Consolidated Statements of Stockholders Equity 
+ 4 
+ Condensed Consolidated Statements of Cash Flows 
+ 6 
+ Notes to Condensed Consolidated Financial Statements 
+ 7 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 24 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 40 
+ Item 4. 
+ Controls and Procedures 
+ 41 
+ PART II. 
+ OTHER INFORMATION 
+ Item 1. 
+ Legal Proceedings 
+ 43 
+ Item 1A. 
+ Risk Factors 
+ 43 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 45 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 45 
+ Item 4. 
+ Mine Safety Disclosures 
+ 45 
+ Item 5. 
+ Other Information 
+ 46 
+ Item 6. 
+ Exhibits 
+ 47 
+ Signatures 
+ 48 
+
+Table of Contents 
+
+ SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the "Securities Act"), and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"), about UiPath, Inc. and its consolidated subsidiaries UiPath, the Company, we, us, or our and our industry that involve substantial risks and uncertainties. All statements other than statements of historical fact contained in this Quarterly Report on Form 10-Q, including statements regarding our future results of operations or financial condition, business strategy, and plans and objectives of management for future operations, are forward-looking statements. In some cases, forward-looking statements can be identified because they contain words such as anticipate, believe, contemplate, continue, could, estimate, expect, intend, may, plan, possible, potential, predict, project, should, target, will, or would, or the negative of these words or other similar terms or expressions. These forward-looking statements include, but are not limited to, statements concerning the following: 
+ our expectations regarding our revenue, annualized renewal run-rate ("ARR"), expenses, and other operating results; 
+ our ability to effectively manage our growth and achieve or sustain profitability; 
+ our ability to acquire new customers and successfully retain existing customers; 
+ the ability of t he UiPath Platform to satisfy and adapt to customer demands and our ability to increase its adoption; 
+ our ability to grow our platform and release new functionality in a timely manner; 
+ future investments in our business, our anticipated capital expenditures, and our estimates regarding our capital requirements; 
+ the costs and success of our marketing efforts and our ability to evolve and enhance our brand; 
+ our growth strategies; 
+ the estimated addressable market opportunity for our platform and for automation in general; 
+ our reliance on key personnel and our ability to attract, integrate, and retain highly-qualified personnel and execute management transitions; 
+ our ability to obtain, maintain, and enforce our intellectual property rights and any costs associated therewith; 
+ the effect of significant events with macroeconomic impacts, including but not limited to military conflicts and other changes in geopolitical relationships and inflationary cost trends, on our business, industry, and the global economy; 
+ our reliance on third-party providers of cloud-based infrastructure; 
+ our ability to compete effectively with existing competitors and new market entrants, including new, potentially disruptive technologies; 
+ the size and growth rates of the markets in which we compete; and 
+ the price volatility of our Class A common stock. 
+ These forward-looking statements should not be unduly relied upon or regarded as predictions of future events. The forward-looking statements contained in this Quarterly Report on Form 10-Q are based on our current expectations and projections about future events and trends that we believe may affect our business, financial condition, and operating results. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties, and other factors described in the section titled " Risk Factors " and elsewhere in this Quarterly Report on Form 10-Q, and in the section titled "Risk Factors" and elsewhere in our Annual Report on Form 10-K for the fiscal year ended January 31, 2024 filed with the Securities and Exchange Commission ("SEC") on March 27, 2024 (the "2024 Form 10-K"). Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Quarterly Report on Form 10-Q. The results, events, and circumstances reflected in the forward-looking statements may not be achieved or occur, and actual results, events, or circumstances could differ materially from those described in the forward-looking statements. 
+ In addition, statements that we believe, and similar statements reflect our beliefs and opinions on the relevant subject, based on information available to us as of the date of this Quarterly Report on Form 10-Q. While we believe such information provides a reasonable basis for these statements, that information may be limited or incomplete. Our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all relevant information. Such statements are inherently uncertain, and investors are cautioned not to unduly rely on these statements. 
+ The forward-looking statements made in this Quarterly Report on Form 10-Q relate only to events as of the date on which the statements are made. We undertake no obligation to update any forward-looking statements made in this Quarterly Report on Form 10-Q to reflect events or circumstances after the date of this Quarterly Report on Form 10-Q or to reflect new information or the occurrence of unanticipated events, except as required by law. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures, or investments. 
+
+Table of Contents 
+
+ PART I FINANCIAL INFORMATION 
+ 
+ Item 1. Financial Statements (Unaudited). 
+ 
+ UiPath, Inc. 
+ Condensed Consolidated Balance Sheets 
+ Amounts in thousands except per share data 
+ (unaudited) As of October 31, 2024 January 31, 2024 ASSETS Current assets Cash and cash equivalents Restricted cash Marketable securities Accounts receivable, net of allowance for credit losses of and , respectively 
+ Contract assets Deferred contract acquisition costs Prepaid expenses and other current assets Total current assets Marketable securities, non-current Contract assets, non-current Deferred contract acquisition costs, non-current Property and equipment, net Operating lease right-of-use assets Intangible assets, net Goodwill Deferred tax assets Other assets, non-current Total assets LIABILITIES AND STOCKHOLDERS' EQUITY Current liabilities Accounts payable Accrued expenses and other current liabilities Accrued compensation and employee benefits Deferred revenue Total current liabilities Deferred revenue, non-current Operating lease liabilities, non-current Other liabilities, non-current Total liabilities Commitments and contingencies (Note 9) par value per share, shares authorized; issued and outstanding 
+ Class A common stock, par value per share, shares authorized; and shares issued; and shares outstanding, respectively 
+ Class B common stock, par value per share, shares authorized; shares issued and outstanding 
+ Treasury stock, at cost, and shares, respectively 
+ ) ) Additional paid-in capital Accumulated other comprehensive income Accumulated deficit ) ) Total stockholders equity Total liabilities and stockholders equity 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 1 
+
+Table of Contents 
+
+ UiPath, Inc. 
+ Condensed Consolidated Statements of Operations 
+ Amounts in thousands except per share data 
+ (unaudited) 
+ Three Months Ended October 31, Nine Months Ended October 31, 2024 2023 2024 2023 Revenue: Licenses Subscription services Professional services and other Total revenue Cost of revenue: Licenses Subscription services Professional services and other Total cost of revenue Gross profit Operating expenses: Sales and marketing Research and development General and administrative Total operating expenses Operating loss ) ) ) ) Interest income Other income, net Loss before income taxes ) ) ) ) (Benefit from) provision for income taxes ) ) Net loss ) ) ) ) Net loss per share, basic and diluted Weighted-average shares used in computing net loss per share, basic and diluted 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 2 
+
+Table of Contents 
+
+ UiPath, Inc. 
+ Condensed Consolidated Statements of Comprehensive Loss 
+ Amounts in thousands 
+ (unaudited) 
+ Three Months Ended October 31, Nine Months Ended October 31, 2024 2023 2024 2023 Net loss ) ) ) ) Other comprehensive income (loss), net of tax: Unrealized (loss) gain on available-for-sale marketable securities, net ) ) Foreign currency translation adjustments ) ) Other comprehensive income (loss), net ) ) Comprehensive loss ) ) ) ) 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 3 
+
+Table of Contents 
+
+ UiPath, Inc. 
+ Condensed Consolidated Statements of Stockholders Equity 
+ Amounts in thousands 
+ (unaudited) 
+ 
+ Common Stock Treasury Stock Additional Paid-in Capital Accumulated Other Comprehensive Income (Loss) Accumulated Deficit Total Stockholders Equity Class A Class B Shares Amount Shares Amount Shares Amount Amount Amount Amount Amount Balance as of January 31, 2024 ) ) ) Issuance of common stock upon exercise of stock options Issuance of common stock upon settlement of restricted stock units Tax withholdings on settlement of restricted stock units ) ) ) Charitable donation of Class A common stock Repurchase of Class A Common Stock ) ) ) Stock-based compensation Other comprehensive loss, net ) ) Net loss ) ) Balance as of April 30, 2024 ) ) ) Issuance of common stock upon exercise of stock options Issuance of common stock upon settlement of restricted stock units Vesting of early exercised stock options Tax withholdings on settlement of restricted stock units ) ) ) Repurchase of Class A Common Stock ) ) ) Issuance of common stock under employee stock purchase plan Stock-based compensation Other comprehensive income, net Net loss ) ) Balance as of July 31, 2024 ) ) ) Issuance of common stock upon exercise of stock options Issuance of common stock upon settlement of restricted stock units Vesting of early exercised stock options Tax withholdings on settlement of restricted stock units ) ) ) Repurchase of Class A Common Stock ) ) ) Stock-based compensation Other comprehensive income, net Net loss ) ) Balance as of October 31, 2024 ) ) ) 
+ 
+ 4 
+
+Table of Contents 
+
+ Common Stock Treasury Stock Additional Paid-in Capital Accumulated Other Comprehensive Income Accumulated Deficit Total Stockholders Equity Class A Class B Shares Amount Shares Amount Shares Amount Amount Amount Amount Amount Balance as of January 31, 2023 ) Issuance of common stock upon exercise of stock options Issuance of common stock upon settlement of restricted stock units Tax withholdings on settlement of restricted stock units ) ) ) Charitable donations of Class A common stock Stock-based compensation Other comprehensive income, net Net loss ) ) Balance as of Balance as of April 30, 2023 ) Issuance of common stock upon exercise of stock options Issuance of common stock upon settlement of restricted stock units Tax withholdings on settlement of restricted stock units ) ) ) Issuance of common stock under employee stock purchase plan Stock-based compensation Other comprehensive income, net Net loss ) ) Balance as of Balance as of July 31, 2023 ) Issuance of common stock upon exercise of stock options Vesting of early exercised stock options Issuance of common stock upon settlement of restricted stock units Tax withholdings on settlement of restricted stock units ) ) ) Repurchase of Class A Common Stock ) ) ) Stock-based compensation Other comprehensive loss, net ) ) Net loss ) ) Balance as of October 31, 2023 ) ) ) 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 5 
+
+Table of Contents 
+
+ UiPath, Inc. 
+ Condensed Consolidated Statements of Cash Flows 
+ Amounts in thousands 
+ (unaudited) Nine Months Ended October 31, 2024 2023 Cash flows from operating activities Net loss ) ) Adjustments to reconcile net loss to net cash provided by operating activities: Depreciation and amortization Amortization of deferred contract acquisition costs Net amortization on marketable securities ) ) Stock-based compensation expense Charitable donation of Class A common stock Non-cash operating lease expense Provision for deferred income taxes 
+ ) ) Other non-cash credits, net ) ) Changes in operating assets and liabilities: Accounts receivable ) Contract assets ) ) Deferred contract acquisition costs ) ) Prepaid expenses and other assets Accounts payable Accrued expenses and other liabilities Accrued compensation and employee benefits ) ) Operating lease liabilities, net ) ) Deferred revenue ) Net cash provided by operating activities Cash flows from investing activities Purchases of marketable securities ) ) Maturities of marketable securities Purchases of property and equipment ) ) Purchases of investments 
+ ) Other investing, net Net cash used in investing activities ) ) Cash flows from financing activities Repurchases of Class A common stock ) ) Proceeds from exercise of stock options Payments of tax withholdings on net settlement of equity awards ) ) Net receipts (payments) of tax withholdings on sell-to-cover equity award transactions ) Proceeds from employee stock purchase plan contributions Payment of deferred consideration related to business acquisition ) ) Net cash used in financing activities ) ) Effect of exchange rate changes ) ) Net decrease in cash, cash equivalents, and restricted cash ) ) Cash, cash equivalents, and restricted cash - beginning of period 
+ Cash, cash equivalents, and restricted cash - end of period 
+ Supplemental disclosure of cash flow information Cash paid for interest Cash paid for income taxes, net 
+ Supplemental disclosure of non-cash investing and financing activities Property and equipment purchases included in accounts payable Payable for marketable securities purchase Tax withholdings on net settlement of restricted stock units, accrued but not yet paid 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 6 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited) 
+
+1. 
+ 
+ 2. 
+ 7 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+ For the three months ended October 31, 2024 and 2023, we recognized foreign currency transaction (losses) gains of ) million and million, respectively. For the nine months ended October 31, 2024 and 2023, we recognized foreign currency transaction gains of million and million, respectively. 
+ and , respectively, of our cash and cash equivalents were concentrated in the U.S., European Union EU countries, and Japan. 
+ The selection of investments in marketable securities is governed by our investment policy. The policy aims to emphasize principles of safety and liquidity, with the overall objective of earning an attractive rate of return while limiting exposure to risk of loss and avoiding inappropriate concentrations. We use this policy to guide our investment decisions as it stipulates, among other things, a list of eligible investment types, minimum ratings and other restrictions for each type, and overall portfolio composition constraints. 
+ For the three and nine months ended October 31, 2024 and 2023, no single customer accounted for 10 or more of our total revenue. As of October 31, 2024 and January 31, 2024, no single customer accounted for 10 or more of our accounts receivable. 
+ 8 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+3. 
+ Europe, Middle East, and Africa Asia-Pacific (2) 
+ Total revenue 
+ (1) Revenue from the U.S. represented and of our total revenues for the three months ended October 31, 2024 and 2023, respectively. 
+ (2) Revenue from Japan represented and of our total revenues for the three months ended October 31, 2024 and 2023, respectively. 
+ Nine Months Ended October 31, 2024 2023 Amount Percentage of Revenue Amount Percentage of Revenue Americas (1) 
+ Europe, Middle East, and Africa Asia-Pacific (2) 
+ Total revenue 
+ (1) Revenue from the U.S. represented and of our total revenues for the nine months ended October 31, 2024 and 2023, respectively. 
+ (2) Revenue from Japan represented and of our total revenues for the nine months ended October 31, 2024 and 2023, respectively. 
+ Deferred Revenue 
+ During the nine months ended October 31, 2024 and 2023, we recognized million and million of revenue that was included in the deferred revenue balance as of January 31, 2024 and 2023, respectively . 
+ Remaining Performance Obligations 
+ Our remaining performance obligations are comprised of licenses, subscription services, and professional services not yet delivered. As of October 31, 2024, the aggregate amount of the transaction price allocated to remaining performance obligations was million, which consists of million of billed consideration and million of unbilled consideration. We expect to recognize of our remaining performance obligations as revenue over the next months, and the remainder thereafter. 
+ Deferred Contract Acquisition Costs 
+ Our deferred contract acquisition costs are comprised of sales commissions that represent incremental costs to obtain customer contracts, and are determined based on sales compensation plans. Amortization of deferred contract acquisition costs was million and million for the three months ended October 31, 2024, and 2023, respectively, and million and million for the nine months ended October 31, 2024 and 2023, 
+ 9 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+4. 
+ Treasury bills and U.S. government securities ) Corporate bonds 
+ Yankee bonds ) Agency bonds Total marketable securities ) 
+ As of January 31, 2024 Amortized Cost Gross Unrealized Gains Gross Unrealized Losses Estimated Fair Value Treasury bills and U.S. government securities ) Corporate bonds ) Agency bonds ) Total marketable securities ) 
+ As of October 31, 2024 and January 31, 2024, million and , respectively, of our marketable securities had remaining contractual maturities of one year or more. 
+ As of October 31, 2024 and January 31, 2024, million and million, respectively, of interest receivable was included in prepaid expenses and other current assets on the condensed consolidated balance sheets. We did not recognize an allowance for credit losses against interest receivable as of October 31, 2024 and January 31, 2024. 
+ 
+ 10 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+ 5. 
+ Total cash equivalents Commercial paper Treasury bills and U.S. government securities Corporate bonds Yankee bonds Agency bonds Total marketable securities Other investments carried at fair value 
+ Total 
+ As of January 31, 2024 Level 1 Level 2 Level 3 
+ Total Money market Total cash equivalents Treasury bills and U.S. government securities Corporate bonds Agency bonds Total marketable securities Total 
+ Our money market funds, treasury bills and U.S. government securities, and agency bonds are classified within Level 1 of the fair value hierarchy because they are valued based on quoted market prices in active markets. We classify commercial paper, Yankee bonds, and corporate bonds as Level 2 because they are valued using inputs other than quoted prices which are directly or indirectly observable in the market, including readily-available pricing sources for the identical underlying security which may not be actively traded. Other investments carried at fair value, which consist of convertible bonds of private company H.AI (the "H company") purchased during the nine months ended October 31, 2024, are classified as Level 3 because their valuation relies on significant unobservable inputs. of our financial instruments were classified in the Level 3 category as of January 31, 2024. 
+ 
+ 6. 
+ ) Customer relationships ) Trade names and trademarks ) Other intangibles ) Total ) 
+ 11 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+ ) Customer relationships ) Trade names and trademarks ) Other intangibles ) Total ) 
+ We record amortization expense associated with acquired developed technology in cost of licenses revenue and cost of subscription services revenue, trade names and trademarks in sales and marketing expense, customer relationships in sales and marketing expense, and other intangibles in general and administrative expense in the condensed consolidated statements of operations. Amortization of acquired intangible assets was million and million for the three months ended October 31, 2024 and 2023, respectively, and million and million for the nine months ended October 31, 2024 and 2023, respectively. 
+ Year ending January 31, 2026 2027 2028 2029 Thereafter Total 
+ Goodwill 
+ Effect of foreign currency translation Balance as of October 31, 2024 
+ 
+ 7. 
+ to years. F or purposes of calculating operating lease liabilities, lease terms may be deemed to include options to extend the lease when it is reasonably certain that we will exercise those options. Our operating lease arrangements do not contain any material restrictive covenants or residual value guarantees. 
+ 12 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+ Short-term lease cost Variable lease cost Sublease income (1) 
+ ) ) Total 
+ (1) Included in other income, net in the condensed consolidated statements of operations. 
+ Weighted-average discount rate 
+ Year ending January 31, 2026 2027 2028 2029 Thereafter Total operating lease payments Less: imputed interest ) Total operating lease liabilities 
+ As of October 31, 2024, we had non-cancellable commitments in the amount of million related to operating leases of real estate facilities that have not yet commenced. 
+ Current operating lease liabilities of million and million were included in accrued expenses and other current liabilities on our condensed consolidated balance sheets as of October 31, 2024 and January 31, 2024, respectively. 
+ Operating lease ROU assets obtained in exchange for new operating lease liabilities 
+ 13 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+ 8. 
+ Other current assets Prepaid expenses and other current assets 
+ Property and Equipment, Net 
+ Leasehold improvements Furniture and fixtures Construction in progress Other Property and equipment, gross Less: accumulated depreciation ) ) Property and equipment, net 
+ Depreciation expense for the three months ended October 31, 2024 and 2023 was million and million, respectively. Depreciation expense for the nine months ended October 31, 2024 and 2023 was million and million, respectively. 
+ Other Assets, Non-Current 
+ As of October 31, 2024 and January 31, 2024, other assets, non-current included million and million, respectively, related to equity investments in private companies without readily determinable fair values. As a measurement alternative, these investments are reported at cost and are assessed periodically to determine whether their carrying value must be adjusted for observable changes in price or indicators of impairment. 
+ As of October 31, 2024, other assets, non-current also included million related to private-company convertible bonds, which are carried at fair value. Refer to Note 5, Fair Value Measurement for further information. 
+ 14 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+ Withholding tax from employee equity transactions Employee stock purchase plan withholdings Payroll taxes and other benefits payable Income taxes payable 
+ Value-added taxes payable Operating lease liabilities, current Loan note related to fiscal year 2023 acquisition of Re:Infer LTD (paid July 29, 2024) 
+ Rebates payable to partners Cloud infrastructure liabilities (1) 
+ Other 
+ Accrued expenses and other current liabilities (1) Prior period amounts have been expanded to conform to current period presentation 
+
+9. 
+ million and million in letters of credit outstanding in favor of certain landlords for office space as of October 31, 2024 and January 31, 2024, respectively. These letters of credit renew annually and expire on various dates through fiscal year 2026. 
+ Indemnification 
+ In the ordinary course of business, we may provide indemnification of varying scope and terms to customers, vendors, directors, and officers with respect to certain matters, including, but not limited to, losses arising out of our breach of such agreements, services to be provided by us, or from intellectual property infringement claims made by third parties. 
+ These indemnification provisions may survive termination of the underlying agreement and the potential amount of future payments we could be required to make under these indemnification provisions may not be subject to maximum loss clauses. The maximum potential amount of future payments we could be required to make under these indemnification provisions is indeterminable. As of October 31, 2024 and January 31, 2024, we have not accrued a liability for these indemnification arrangements because the likelihood of incurring a payment obligation, if any, in connection with these indemnification arrangements was remote. 
+ 15 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+ million of expense associated with employee termination benefits in connection with these restructuring actions. 
+ Restructuring costs incurred during the nine months ended October 31, 2024 
+ Amount paid during the nine months ended October 31, 2024 
+ ) Accrued restructuring costs as of October 31, 2024 
+ (1) Opening balance relates to our fiscal year 2023 workforce restructuring actions, which were concluded during the second quarter of fiscal year 2024. 
+ Cost of professional services and other revenue Sales and marketing Research and development General and administrative Total 
+ Defined Contribution Plans 
+ We sponsor retirement plans for qualifying employees, including a 401(k) plan in the U.S. and defined contribution plans in certain other countries, to which we make matching contributions. Our total matching contributions to all defined contribution plans were million and million for the three months ended October 31, 2024 and 2023, respectively, and million and million for the nine months ended October 31, 2024 and 2023, respectively. 
+ Litigation 
+ From time to time, we may be involved in lawsuits, claims, investigations, and proceedings, consisting of intellectual property, commercial, employment, and other matters which arise in the ordinary course of business. In accordance with ASC 4 50, Contingencies , we make a provision for a liability when it is both probable that a liability has been incurred and the amount of the loss can be reasonably estimated. 
+ UiPath and certain of its officers and directors are currently parties to the following litigation matters: 
+ On September 6, 2023, a putative class action lawsuit was filed in the United States District Court for the Southern District of New York against UiPath, then Co-Chief Executive Officer ("Co-CEO") Daniel Dines, and Chief Financial Officer ("CFO") Ashim Gupta, captioned In re UiPath, Inc. Securities Litigation (the "2023 Securities Action"). The initial complaint asserted claims under Sections 10(b) and 20(a) of the Exchange Act, and alleged that defendants made material misstatements and omissions, including regarding UiPath s competitive position and its 
+ 16 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+ 17 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+ recorded any accrual related to the aforementioned litigation matters as of October 31, 2024, as we believe a loss in these matters is neither probable nor estimable at this time. 
+ Warranty 
+ We warrant to customers that our platform will operate substantially in accordance with its specifications. Historically, no significant costs have been incurred related to product warranties. Based on such historical experience, the probability of incurring such costs in the future is deemed remote. As such, accruals for product warranty costs have been made. 
+ Other Matters 
+ Our indirect tax positions are subject to audit in multiple jurisdictions globally, with a key focus on our largest operational territories, including the U.S., Romania, India, and the U.K. Our Romanian subsidiary was subjected to audits by the Agen ia Na ional de Administrare Fiscal ("ANAF") for value-added tax and corporate income tax for the periods January 2020 through January 2022 and January 2018 through January 2022, respectively, which were completed during the first quarter of fiscal year 2025. With regard to the value-added tax audit, an assessment has been issued. We disagree with this assessment and are in the process of appealing through litigation. We have recorded any reserves related to this audit as of October 31, 2024 as it is not probable that a material loss has been incurred. For additional information regarding the corporate income tax audit, refer to Note 12, Income Taxes . 
+ Non-Cancelable Purchase Obligations 
+ In the normal course of business, we enter into non-cancelable purchase commitments with various parties, mainly for hosting services, software products and services, and purchase of credits toward products and services from strategic alliance partners. 
+ Year ending January 31, 2026 2027 2028 2029 Thereafter Total 
+ 
+ 10. 
+ million of our outstanding shares of Class A common stock. This authorization was scheduled to expire on March 1, 2025. On August 30, 2024, our board of directors authorized the repurchase of an additional million of our Class A common stock. The current authorization may be suspended or discontinued at any time and does not have a specified expiration date. Repurchases under the program may be effected through open market purchases, privately-negotiated transactions, or otherwise in accordance with applicable federal securities laws, including through Rule 10b5-1 trading plans and under Rule 10b-18 of the Exchange Act. The timing and actual number of shares repurchased will depend on a variety of factors, including price, general business and market conditions, and alternate uses of capital. 
+ During the three and nine months ended October 31, 2024, we repurchased million and million shares of our Class A common stock at an average price of and per share (inclusive of brokerage commission), respectively. For the three and nine months ended October 31, 2024, we accrued million and 
+ 18 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+ million, respectively, of related excise tax pursuant to the Inflation Reduction Act of 2022, which is included in the cost of treasury stock on our condensed consolidated balance sheet as of October 31, 2024. 
+ Subsequent to October 31, 2024, between November 1, 2024 and December 4, 2024, we repurchased an additional million shares of our Class A common stock at an average price of per share. 
+ Charitable Donations of Class A Common Stock 
+ We have reserved million shares of our Class A common stock to fund our social impact and environmental, social, and governance initiatives. We contributed million shares of our Class A common stock during each of the nine-month periods ended October 31, 2024 and 2023 to a donor-advised fund in connection with our Pledge 1 commitment. The aggregate fair values of the shares on the respective contribution dates of million and million were recorded within general and administrative expense in the condensed consolidated statements of operations for the nine months ended October 31, 2024 and 2023, respectively. 
+ Accumulated Other Comprehensive Income 
+ ) Other comprehensive income (loss), net of tax ) Balance as of October 31, 2024 ) 
+ 
+ Foreign Currency Translation Adjustments Unrealized Gain (Loss) on Marketable Securities Accumulated Other Comprehensive Income 
+ Balance as of January 31, 2023 ) Other comprehensive (loss) income, net of tax ) ) Balance as of October 31, 2023 ) 
+ 
+ 11. 
+ million shares of our Class A common stock to be issued under the 2021 Plan. The number of shares of our Class A common stock reserved for issuance under the 2021 Plan will automatically increase on February 1 of each year for a period of , which began on February 1, 2022 and continues through February 1, 2031, in an amount equal to (1) of the total number of shares of our common stock (both Class A and Class B) outstanding on the preceding January 31, or (2) a lesser number of shares determined by our board of directors no later than the February 1 increase. 
+ 2021 Employee Stock Purchase Plan 
+ In April 2021, prior to and in connection with the IPO, we adopted our 2021 Employee Stock Purchase Plan (the ESPP ). As of October 31, 2024, the ESPP authorizes the issuance of million shares of our Class A common stock under purchase rights granted to our employees. The number of shares of our Class A common stock reserved for issuance will automatically increase on February 1 of each year for a period of , which began on February 1, 2022 and continues through February 1, 2031, by the lesser of (1) of the total number of shares of our common stock (both Class A and Class B) outstanding on the preceding January 31; and (2) 
+ 19 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+ of the fair market value of our Class A common stock as of the commencement of the offering period, and (b) of the fair market value of our Class A common stock on the corresponding purchase date. 
+ Stock Options 
+ Granted Exercised ) Forfeited ) Outstanding as of October 31, 2024 Vested and exercisable as of October 31, 2024 
+ The weighted-average grant date fair value of stock options granted during the nine months ended October 31, 2024 was per share. The intrinsic value of stock options exercised during the nine months ended October 31, 2024 was million. 
+ Unrecognized compensation expense associated with unvested stock options granted and outstanding as of October 31, 2024 was approximately million, which is to be recognized over a weighted-average remaining period of years. 
+ Restricted Stock Units 
+ Granted Vested ) Forfeited ) Unvested as of October 31, 2024 
+ The fair value of RSUs released during the nine months ended October 31, 2024 was million. 
+ As of October 31, 2024, total unrecognized compensation expense related to unvested RSUs was approximately million, which is to be recognized over a weighted-average remaining period of years. 
+ 20 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+ million shares were purchased under the ESPP at per share. As of October 31, 2024, total unrecognized compensation expense related to the ESPP was approximately million, which is to be recognized over a weighted-average remaining period of years. 
+ Stock-Based Compensation Associated with Business Acquisition 
+ At the closing of the acquisition of Re:infer LTD on July 29, 2022, we issued million shares of Class A common stock (outside of the 2021 Plan) to be released to certain employee sellers in equal installments on the first, second, and third anniversaries of the closing date, subject to employment-related clawback provisions. As of October 31, 2024, total unrecognized compensation expense related to these shares was million, which is to be recognized over a weighted-average remaining period of years. 
+ Stock-Based Compensation Expense 
+ Cost of professional services and other revenue Sales and marketing Research and development General and administrative Total 
+ 
+ 12. 
+ million for the three months ended October 31, 2024. We had a provision for income taxes of million, reflecting an effective tax rate of ) , for the three months ended October 31, 2023. 
+ We had a benefit from income taxes of million for the nine months ended October 31, 2024. We had a provision for income taxes of million, reflecting an effective tax rate of ) , for the nine months ended October 31, 2023. 
+ For the three and nine months ended October 31, 2024, our effective tax rate differed from the U.S. federal statutory rate primarily as a result of change in valuation allowance (as discussed below) and due to tax rate differences between the U.S. and foreign countries. For the three and nine months ended October 31, 2023, our effective tax rate differed from the U.S. federal statutory rate primarily as a result of not recognizing deferred tax assets ("DTAs") for losses due to a full valuation allowance on U.S., Romania, and U.K. DTAs and due to tax rate differences between the U.S. and foreign countries. 
+ The realization of tax benefits of net DTAs is dependent upon future levels of taxable income of an appropriate character in the periods the items are expected to be deductible or taxable. As of October 31, 2024, based on the available positive and negative evidence, including the amount of taxable income in the U.K. in recent years and our expectations of future profits in the U.K., we now believe it is more likely than not that the U.K. DTA is realizable. Therefore, during the three and nine months ended October 31, 2024, we released the million 
+ 21 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+ million related to income taxes, which would impact the effective tax rate if recognized. Of this amount, the total liability pertaining to uncertain tax positions was million, excluding interest and penalties, which are accounted for as a component of our income tax provision. Our tax positions are subject to income tax audits in multiple tax jurisdictions globally, with a currently open audit in India, and we believe that we have provided adequate reserves for our income tax uncertainties in all open tax years. Our Romanian subsidiary was subjected to a corporate income tax audit by ANAF for the period from January 2018 through January 2022, which was completed during the three months ended April 30, 2024. Certain deductions have been disallowed, resulting in a proposed reduction of net operating loss carryforwards of approximately million. We are in the process of appealing this disallowance through litigation. In addition, we have engaged in bilateral transfer pricing negotiations for our transfer pricing model, one between the U.S. and Romania, and one between Japan and Romania. These negotiations are still underway, the authorities are in the process of determining the cost sharing allocations between the respective countries, and the ultimate outcomes remain uncertain. However, after evaluating recent developments in the transfer pricing negotiation between the U.S. and Romania, we believe that it is more likely than not that our position cannot be sustained upon a tax audit. As a result, for the three and nine months ended October 31, 2024, we recorded a million decrease in the U.S. DTA and the corresponding valuation allowance. We also recorded a million increase in the Romania DTA and its related valuation allowance. 
+ As of October 31, 2024, we recorded a deferred tax liability of million associated with the undistributed earnings of our foreign subsidiaries that we no longer intend to indefinitely reinvest. 
+ In 2023, Romania adopted an alternative minimum tax that is applicable to all corporate taxpayers, including those reporting a net loss, for tax years commencing after January 1, 2024. As this tax is based on gross receipts, associated expense is included in operating expenses in our condensed consolidated statements of operations, and is not accounted for as income taxes. 
+ 22 
+
+Table of Contents 
+ UiPath, Inc. 
+ Notes to Condensed Consolidated Financial Statements (Continued) 
+ (unaudited) 
+
+ 13.) ) ) ) Denominator: Weighted-average shares used in computing net loss per share, basic and diluted Net loss per share, basic and diluted 
+ Nine Months Ended October 31, 2024 2023 Class A Class B Class A Class B Numerator: Net loss ) ) ) ) Denominator: Weighted-average shares used in computing net loss per share, basic and diluted Net loss per share, basic and diluted 
+ Outstanding stock options Shares subject to repurchase from RSAs and early exercised stock options Shares issuable under ESPP Returnable shares issued in connection with business acquisition Total 
+ 
+ Nine Months Ended October 31, 2024 2023 Class A Class B Class A Class B Unvested RSUs Outstanding stock options Shares subject to repurchase from RSAs and early exercised stock options Shares issuable under ESPP Returnable shares issued in connection with business acquisition Total 
+ 
+ 23 
+
+Table of Contents 
+
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our unaudited condensed consolidated financial statements and related notes included elsewhere in this Quarterly Report on Form 10-Q and our audited consolidated financial statements and the related notes and the discussion under the heading Management s Discussion and Analysis of Financial Condition and Results of Operations for the fiscal year ended January 31, 2024 included in our Annual Report on Form 10-K filed with the Securities and Exchange Commission ("SEC") on March 27, 2024 (the "2024 Form 10-K"). This discussion, particularly information with respect to our future results of operations or financial condition, business strategy, and plans and objectives of management for future operations, includes forward-looking statements that involve risks and uncertainties as described under the heading Special Note Regarding Forward-Looking Statements in this Quarterly Report on Form 10-Q. You should review the disclosure under the heading " Risk Factors " in this Quarterly Report on Form 10-Q and under Part I, Item 1A, "Risk Factors," in the 2024 Form 10-K for discussion of important factors that could cause our actual results to differ materially from those anticipated in these forward-looking statements. 
+ 
+ Overview 
+ First established in a Bucharest, Romania apartment in 2005, UiPath was incorporated in Delaware in 2015 as a company principally focused on building and managing automations and developing computer vision technology, which remains the foundation of our platform today. Since that time, we have evolved from our beginnings in robotic process automation ("RPA") into an end-to-end AI-powered automation platform through development and acquisitions, have launched new products, and have expanded our operations across the globe. Our vision is to enable automation across all knowledge work to accelerate human achievement. 
+ The UiPath Platform provides our customers with a robust set of capabilities that allow them to discover opportunities for automation, automate using natural language and a digital workforce that seamlessly collaborates with humans, and operate a mission critical automation program at scale. Our platform enables customers to integrate AI with automation, enabling automation to take action based on learning and experience. It enables employees to quickly build automations for both existing and new processes and to automate a vast array of actions including, but not limited to, logging into applications, extracting information from documents, moving folders, filling in forms, reading emails, and updating information fields and databases. The ability of our platform to replicate steps performed by humans in executing business processes drives operational efficiencies and enables companies to deliver on key digital initiatives with greater speed, agility, and accuracy. 
+ AI-powered automation is here, and its momentum is continuing to grow as organizations around the world begin to understand the combined power of automation and AI to drive efficiency and business outcomes. We aspire to be the defining business automation platform, advancing the evolution of automation and AI as a way of working and a catalyst for continuous reinvention. 
+ 24 
+
+Table of Contents 
+
+ Business Highlights for the Three and Nine Months Ended October 31, 2024 : 
+ Quarter-to-date revenue of 354.7 million increased 9 year-over-year. 
+ Year-to-date revenue of 1,006.0 million increased 11 year-over-year. 
+ Annualized renewal run-rate ("ARR") at October 31, 2024 of 1,606.6 million increased 17 year-over-year. 
+ Gross margin was 82 for the three months ended October 31, 2024, compared to 85 for the three months ended October 31, 2023. 
+ Gross margin was 82 for the nine months ended October 31, 2024, compared to 84 for the nine months ended October 31, 2023. 
+ Cash flow from operations was 174.5 million for the nine months ended October 31, 2024, compared to 153.5 million for the nine months ended October 31, 2023. 
+ Cash and cash equivalents, restricted cash, and marketable securities were 1,603.9 million as of October 31, 2024, compared to 1,880.3 million as of January 31, 2024. 
+ 25 
+
+Table of Contents 
+
+ Macroeconomic Environment 
+ As a corporation with a global presence, we are subject to risks and uncertainties caused by significant events with macroeconomic impacts, including, but not limited to, the impact of changes in geopolitical relationships, fluctuating inflation and interest rates, monetary policy changes, and foreign currency fluctuations. Additionally, these macroeconomic impacts have generally disrupted the operations of our customers, prospective customers, and partners. 
+ Internationally, we price our platform in currencies that may not be the functional currency. Accordingly, the heightened volatility of global markets has exposed us and will continue to expose us to foreign currency fluctuations, which may impact demand for our platform, our near-term results, the comparability of results to prior periods, and our ability to predict future results. 
+ Further, cash, cash equivalents, and marketable securities represent a significant portion of our total assets, and the return on our cash, cash equivalents, and marketable securities is sensitive to changes in interest rates. Volatility in the interest rate environment may impact the amount of interest and other income reported on our condensed consolidated statements of operations, the comparability of these amounts to prior periods, and our ability to predict future profitability. 
+ We continuously monitor the direct and indirect impacts of these circumstances on our business and financial results, as well as the overall global economy and geopolitical landscape. 
+ 26 
+
+Table of Contents 
+
+ Fiscal Year 2025 Restructuring Actions 
+ On July 8, 2024, our board of directors approved restructuring actions to manage our operating expenses. These changes reflect efforts to reshape the organization by streamlining our structure, particularly in operational and corporate functions, better prioritizing our go-to-market investments and focusing our research and development investments on artificial intelligence and driving innovation across our platform. Refer to Note 9, Commitments and Contingencies Workforce Restructuring included in Part I, Item 1 of this Quarterly Report on Form 10-Q for more information. 
+ 27 
+
+Table of Contents 
+
+ Key Performance Metric 
+ We monitor annualized renewal run-rate ("ARR") to help us measure and evaluate the effectiveness of our operations. 
+ ARR is the key performance metric we use in managing our business because it illustrates our ability to acquire new subscription customers and to maintain and expand our relationships with existing subscription customers. We define ARR as annualized invoiced amounts per solution SKU from subscription licenses and maintenance and support obligations assuming no increases or reductions in customers' subscriptions. ARR does not include the costs we may incur to obtain such subscription licenses or provide such maintenance and support. ARR also does not reflect nonrecurring rebates payable to partners (upon establishing sufficient history of their nonrecurring nature), the impact of nonrecurring incentives (such as one-time discounts provided under sales promotional programs), and any actual or anticipated reductions in invoiced value due to contract non-renewals or service cancellations other than for certain reserves (for example those for credit losses or disputed amounts). At October 31, 2024 and 2023, our ARR was 1,606.6 million and 1,378.2 million, respectively, representing a growth rate of 17 . Approximately 19 of this growth was due to new customers and 81 to existing customers. Our dollar-based net retention rate, which represents the net expansion of ARR from existing customers over the preceding 12 months, was 113 and 121 as of October 31, 2024 and 2023, respectively. We calculate dollar-based net retention rate as of a period end by starting with the ARR from the cohort of all customers as of 12 months prior to such period end ("Prior Period ARR"). We then calculate the ARR from these same customers as of the current period end ("Current Period ARR"). Current Period ARR includes any expansion and is net of contraction or attrition over the last 12 months, but does not include ARR from new customers in the current period. We then divide the total Current Period ARR by the total Prior Period ARR to arrive at the point-in-time dollar-based net retention rate. 
+ Our ARR may fluctuate as a result of a number of factors, including customers satisfaction or dissatisfaction with our platform, pricing, competitive offerings, economic conditions, overall changes in our customers spending levels, and our ability to successfully execute on our strategic goals. ARR should be viewed independently of revenue and deferred revenue as ARR is an operating metric and is not intended to be combined with or to replace these items. For clarity, we use annualized invoiced amounts per solution SKU rather than revenue calculated in accordance with U.S. GAAP to calculate our ARR. Our invoiced amounts are not matched to transfer of control of the performance obligations associated with the underlying subscription licenses and maintenance and support obligations. This can result in timing differences between our U.S. GAAP revenue and ARR calculations. Generally speaking, our ARR calculation simply takes our invoiced amounts per solution SKU under a subscription license or maintenance agreement as of the end of an invoiced period and divides that amount by the corresponding term and multiplies by 365 days to derive the annualized renewal value. In contrast, for our revenue calculated in accordance with U.S. GAAP, subscription licenses revenue derived from the sale of term-based licenses hosted on-premises is recognized at the point in time when the customer is able to use and benefit from our software, which is generally upon delivery to the customer or upon the commencement of the renewal term, and maintenance, support, and software-as-a-service ("SaaS") revenue is recognized ratably over the term of the arrangement. ARR is not a forecast of future revenue. Unlike ARR, revenue is impacted by contract start and end dates and duration. The timing of recognition of ARR is determined by contract billing structure, whereas billing structure will neither accelerate nor delay recognition of future revenue. For example, in a multi-year contract invoiced upfront, ARR is the annualized invoiced amount per solution SKU related to the final year of the contract assuming no reserve is applied, whereas revenue is determined by total contract value and timing of satisfaction of the underlying performance obligations. ARR does not include invoiced amounts associated with perpetual licenses or professional services. Investors should not place undue reliance on ARR as an indicator of our future or expected results. Moreover, our presentation of ARR may differ from similarly titled metrics presented by other companies and may not be comparable to such other metrics. 
+ 28 
+
+Table of Contents 
+
+ A summary of ARR-related data at October 31, 2024 and 2023 is as follows: 
+ At October 31, 2024 2023 (dollars in thousands) ARR 1,606,561 1,378,152 Incremental ARR (1) 
+ 228,409 268,075 Customers with ARR 1 million: Number of customers 302 264 Percent of current period revenue 49 49 Customers with ARR 100 thousand: Number of customers 2,235 1,974 Percent of current period revenue 85 84 Dollar-based net retention rate 113 121 (1) For the twelve months ended October 31, 2024 and 2023, respectively 
+
+Components of Results of Operations 
+ Revenue 
+ We derive revenue from the sale of: (1) software licenses for use of our proprietary software and related maintenance and support; (2) the right to access certain software products we host (i.e., SaaS); and (3) professional services. 
+ We have a unified commercial offering for software products with both on-premise and cloud deployment options that allows customers the choice of either deployment option throughout the term of the contract. These Flex Offerings are comprised of three types of performance obligations: term license, maintenance and support, and SaaS. 
+ Licenses 
+ Our term licenses (typically sold as a portion of Flex Offerings) provide customers the right to use software for a specified period of time. Revenue for licenses is recognized at the point in time at which the customer is able to use and benefit from the software, which is generally upon delivery to the customer or upon commencement of the renewal term. As licenses revenue is recognized at a point in time, any shift in contract start dates and duration, for example due to lengthening sales cycles and increased deal scrutiny, will have a direct impact on our licenses revenue. 
+ Subscription Services 
+ We generate subscription services revenue through the provision of: (1) maintenance and support services, which include technical support and unspecified updates and upgrades on a when-and-if-available basis for our licenses, and (2) SaaS products (typically sold as a portion of Flex Offerings). Maintenance and support and SaaS products represent stand-ready obligations for which revenue is recognized ratably over the term of the arrangements. 
+ Professional Services and Other 
+ Professional services and other revenue consists of fees associated with professional services for process automation, customer education, and training services. Our professional services contracts are structured on a time and materials or fixed price basis, and the related revenue is recognized as the services are rendered. 
+ Cost of Revenue 
+ Licenses 
+ Cost of licenses revenue consists of all direct costs to deliver our licenses to customers, amortization of software development costs related to our licenses, and amortization of acquired developed technology. 
+ 29 
+
+Table of Contents 
+
+ Subscription Services 
+ Cost of subscription services revenue primarily consists of personnel-related expenses of our customer support and technical support teams, including salaries and bonuses, stock-based compensation expense, and employee benefit costs. Cost of subscription services revenue also includes third-party consulting services, hosting costs related to our SaaS products, amortization of acquired developed technology and capitalized software development costs related to SaaS products, depreciation, and allocated overhead. Overhead is allocated based on applicable headcount. We recognize these expenses as they are incurred. We expect cost of subscription services revenue to continue to increase in absolute dollars for the foreseeable future as our SaaS business grows. In the future, we expect further expansion of our cloud-based deployments. As more of our customer base deploys our products via SaaS, we expect our gross margin to be impacted by increased hosting fees and cloud infrastructure costs. 
+ Professional Services and Other 
+ Cost of professional services and other revenue primarily consists of personnel-related expenses of our professional services team, including salaries and bonuses, stock-based compensation expense, and employee benefit costs. Cost of professional services and other revenue also includes expenses related to subcontracted third-party services, depreciation, and allocated overhead. We recognize these expenses as they are incurred. We expect cost of professional services and other revenue to increase in absolute dollars for the foreseeable future. 
+ Operating Expenses 
+ Our operating expenses consist of sales and marketing, research and development, and general and administrative expenses. Personnel-related expenses are the most significant component of operating expenses and consist of salaries and bonuses, stock-based compensation expense, and employee benefit costs. Operating expenses also include allocated overhead. 
+ Sales and Marketing 
+ Sales and marketing expenses consist primarily of personnel-related expenses associated with our sales and marketing teams and related sales support teams, including salaries and bonuses, stock-based compensation expense, and employee benefit costs. Sales and marketing expenses also include sales and partner commissions, marketing event costs, advertising costs, travel, trade shows, other marketing materials, and allocated overhead. We expect that over the longer term our sales and marketing expenses will decrease as a percentage of revenue, although this percentage may fluctuate from period to period due to timing and extent of expenses. 
+ Research and Development 
+ Research and development expenses consist primarily of personnel-related expenses, including salaries and bonuses, stock-based compensation expense, and employee benefits costs, for our research and development employees, and allocated overhead. Research and development costs are expensed as incurred, with the exception of certain software development costs which are eligible for capitalization. We expect that our research and development expenses will increase in absolute dollars for the foreseeable future as we continue to invest in efforts to develop new technology and enhance the functionality and capabilities of our existing products and platform infrastructure. Our research and development expenses may fluctuate as a percentage of revenue from period to period due to the timing and extent of expenses. 
+ General and Administrative 
+ General and administrative expenses consist primarily of personnel-related expenses, including salaries and bonuses, stock-based compensation expense, and employee benefits costs, associated with our finance, legal, human resources, compliance, and other administrative teams, as well as accounting and legal professional services fees, other corporate-related expenses, and allocated overhead. We expect that over the longer term our general and administrative expenses will decrease as a percentage of revenue, although this percentage may fluctuate from period to period due to timing and extent of expenses. 
+ Interest Income 
+ Interest income consists of interest earned on our cash and cash equivalents and marketable securities. 
+ 30 
+
+Table of Contents 
+
+ Other Income, Net 
+ Other income, net primarily consists of foreign exchange gains and losses. Other income, net also includes amortization of discounts and premiums on marketable securities. 
+ (Benefit From) Provision For Income Taxes 
+ (Benefit from) provision for income taxes consists of U.S. federal and state income taxes and income taxes in foreign jurisdictions in which we conduct business. We currently maintain a full valuation allowance on our U.S. federal and state and Romania DTAs, as we have concluded that it is more likely than not that these DTAs will not be realized. Our effective tax rate is affected by tax rates in foreign jurisdictions and the relative amounts of income we earn in those jurisdictions, as well as by non-deductible expenses as permanent differences, and by changes in our valuation allowances. 
+ 31 
+
+Table of Contents 
+
+Results of Operations 
+ The following tables set forth selected condensed consolidated statement of operations data and such data as a percentage of total revenue for each of the periods indicated: Three Months Ended October 31, Nine Months Ended October 31, 2024 2023 2024 2023 (in thousands) (in thousands) Revenue: Licenses 137,174 148,068 389,553 401,407 Subscription services 206,922 167,529 586,726 473,880 Professional services and other 10,557 10,324 29,739 27,532 Total revenue 354,653 325,921 1,006,018 902,819 Cost of revenue: Licenses (1) 
+ 2,340 2,781 7,334 8,336 Subscription services (1)(2)(3)(4) 
+ 43,487 28,647 123,770 78,502 Professional services and other (2)(3)(4) 
+ 17,936 18,492 51,304 55,736 Total cost of revenue 63,763 49,920 182,408 142,574 Gross profit 290,890 276,001 823,610 760,245 Operating expenses: Sales and marketing (1)(2)(3)(4) 
+ 187,188 191,282 561,657 521,413 Research and development (2)(3)(4) 
+ 96,976 84,514 281,012 246,462 General and administrative (1)(2)(3)(4) 
+ 50,090 56,024 177,119 172,185 Total operating expenses 334,254 331,820 1,019,788 940,060 Operating loss (43,364) (55,819) (196,178) (179,815) Interest income 10,055 14,483 37,255 41,913 Other income, net 7,810 13,725 26,199 25,491 Loss before income taxes (25,499) (27,611) (132,724) (112,411) (Benefit from) provision for income taxes (14,844) 3,926 (7,236) 11,388 Net loss (10,655) (31,537) (125,488) (123,799) (1) Includes amortization of acquired intangible assets as follows: Cost of licenses revenue 822 836 2,485 2,523 Cost of subscription services revenue 602 589 1,790 1,767 Sales and marketing 307 675 1,157 2,027 General and administrative 39 41 117 123 Total amortization of acquired intangible assets 1,770 2,141 5,549 6,440 (2) Includes stock-based compensation expense as follows: Cost of subscription services revenue 5,041 3,791 14,601 10,778 Cost of professional services and other revenue 2,953 2,764 8,438 8,546 Sales and marketing 32,688 37,760 106,377 109,890 Research and development 34,211 30,604 96,007 88,448 General and administrative 12,595 20,961 45,097 65,363 Total stock-based compensation expense 87,488 95,880 270,520 283,025 (3) Includes employer payroll tax expense related to equity transactions as follows: Cost of subscription services revenue 46 58 291 233 Cost of professional services and other revenue 24 42 117 181 Sales and marketing 356 625 2,156 2,350 Research and development 237 387 1,155 1,572 General and administrative 124 340 714 1,209 Total employer payroll tax expense related to equity transactions 787 1,452 4,433 5,545 (4) Includes restructuring expense as follows: Cost of subscription services revenue 7 (53) 325 114 Cost of professional services and other revenue (21) 105 Sales and marketing 1,956 65 9,927 1,381 Research and development 187 (7) 1,868 387 General and administrative 911 20 3,427 749 Total restructuring expense 3,040 25 15,652 2,631 
+ 32 
+
+Table of Contents 
+
+ Three Months Ended October 31, Nine Months Ended October 31, 2024 2023 2024 2023 (as a percentage of revenue) (as a percentage of revenue) Revenue: Licenses 39 46 39 44 Subscription services 58 51 58 53 Professional services and other 3 3 3 3 Total revenue 100 100 100 100 Cost of revenue: Licenses 1 1 1 1 Subscription services 12 9 12 9 Professional services and other 5 5 5 6 Total cost of revenue 18 15 18 16 Gross profit 82 85 82 84 Operating expenses: Sales and marketing 53 59 56 58 Research and development 27 26 28 27 General and administrative 14 17 18 19 Total operating expenses 94 102 102 104 Operating loss (12) (17) (20) (20) Interest income 3 4 4 5 Other income, net 2 4 3 3 Loss before income taxes (7) (9) (13) (12) (Benefit from) provision for income taxes (4) 1 (1) 2 Net loss (3) (10) (12) (14) 
+ 
+ 33 
+
+Table of Contents 
+
+ Comparison of the Three Months Ended October 31, 2024 and 2023 
+ Revenue 
+ Three Months Ended October 31, 2024 2023 Change Change (dollars in thousands) Licenses 137,174 148,068 (10,894) (7) Subscription services 206,922 167,529 39,393 24 Professional services and other 10,557 10,324 233 2 Total revenue 354,653 325,921 28,732 9 
+ Total revenue increased by 28.7 million, or 9 , for the three months ended October 31, 2024 compared to the three months ended October 31, 2023, primarily due to a 39.4 million increase in subscription services revenue, partially offset by a 10.9 million decrease in licenses revenue related in part to the transition to our Flex Offerings. As we continued to expand our sales efforts in the U.S. and internationally, total revenue grew across all regions. Of the growth in total revenue, 39 was attributable to new customers and 61 was attributable to existing customers. Subscription services revenue is recognized ratably over the subscription term; therefore, the increase in subscription services revenue is driven both by sales in prior periods for which we continue to provide maintenance and support and SaaS and by new sales in the current period. 
+ Cost of Revenue and Gross Margin 
+ Three Months Ended October 31, 2024 2023 Change Change (dollars in thousands) Licenses 2,340 2,781 (441) (16) Subscription services 43,487 28,647 14,840 52 Professional services and other 17,936 18,492 (556) (3) Total cost of revenue 63,763 49,920 13,843 28 Gross margin 
+ 82 85 
+ 
+ Total cost of revenue increased by 13.8 million, or 28 , for the three months ended October 31, 2024 compared to the three months ended October 31, 2023, primarily due to a 14.8 million increase in cost of subscription services revenue. The increase in cost of subscription services revenue was primarily driven by an 8.4 million increase in third-party hosting and software services costs as a result of increased usage of our subscription services and a 5.1 million increase in personnel-related expenses, which included a 3.4 million increase in salary-related and bonus expenses associated with both increased headcount and merit increases, a 1.3 million increase in stock-based compensation expense, and a 0.8 million aggregate increase in employee insurance costs and employer payroll taxes. Cost of subscription services revenue was also impacted by a 1.0 million increase in costs associated with the use of third-party vendors. 
+ Our gross margin decreased to 82 for the three months ended October 31, 2024 compared to 85 for the three months ended October 31, 2023 due to decrease in the proportion of higher-margin licenses revenue and the aforementioned increase in cost of subscription services revenue driven by increased hosting and personnel costs. 
+ Operating Expenses 
+ Sales and Marketing 
+ Three Months Ended October 31, 2024 2023 Change Change (dollars in thousands) Sales and marketing 187,188 191,282 (4,094) (2) Percentage of revenue 53 59 
+ Sales and marketing expense decreased by 4.1 million, or 2 , for the three months ended October 31, 2024 compared to the three months ended October 31, 2023. The decrease was primarily attributable to a 2.7 million decrease in personnel-related expenses, which included a 5.1 million decrease in stock-based compensation expense, partially offset by a 1.9 million increase in employee termination benefits related to our fiscal year 2025 
+ 34 
+
+Table of Contents 
+
+ restructuring actions, and a 0.4 million increase in employee insurance costs. Sales and marketing expense was also impacted by a 2.2 million decrease in sales commissions expense, a 1.0 million decrease in depreciation and amortization expense, a 0.9 million decrease in third-party consulting fees, and a 0.5 million decrease in sales-related software expenses, partially offset by a 3.1 million increase in marketing expenses largely related to our Forward VII conference. 
+ Research and Development 
+ Three Months Ended October 31, 2024 2023 Change Change (dollars in thousands) Research and development 96,976 84,514 12,462 15 Percentage of revenue 27 26 
+ Research and development expense increased by 12.5 million, or 15 , for the three months ended October 31, 2024 compared to the three months ended October 31, 2023. The increase was primarily attributable to a 6.2 million increase in hosting and software services costs as a result of increased usage and a 5.9 million increase in personnel-related expenses, which included a 3.6 million increase in stock-based compensation expense and a 2.2 million increase in salary-related and bonus expenses associated with both increased headcount and merit increases. 
+ General and Administrative 
+ Three Months Ended October 31, 2024 2023 Change Change (dollars in thousands) General and administrative 50,090 56,024 (5,934) (11) Percentage of revenue 14 17 
+ General and administrative expense decreased by 5.9 million, or 11 , for the three months ended October 31, 2024 compared to the three months ended October 31, 2023. The decrease was primarily attributable to a 7.4 million decrease in personnel-related expenses, which included an 8.4 million decrease in stock-based compensation expense partially offset by a 0.9 million increase in employee termination benefits related to our fiscal year 2025 restructuring actions. This decrease was partially offset by a 2.0 million increase in software service and implementation costs. 
+ Interest Income 
+ Three Months Ended October 31, 2024 2023 Change Change (dollars in thousands) Interest income 10,055 14,483 (4,428) (31) Percentage of revenue 3 4 
+ Interest income decreased by 4.4 million, or 31 , for the three months ended October 31, 2024 compared to the three months ended October 31, 2023 as a result of a period-over-period decrease in our aggregate balance of cash and cash equivalents and marketable securities, as well as decreased interest rates. 
+ Other Income, Net 
+ Three Months Ended October 31, 2024 2023 Change Change (dollars in thousands) Other income, net 7,810 13,725 (5,915) (43) Percentage of revenue 2 4 
+ 35 
+
+Table of Contents 
+
+ Other income, net decreased by 5.9 million, or 43 , for the three months ended October 31, 2024 compared to the three months ended October 31, 2023, primarily due to a 4.6 million decrease in gains from foreign currency transactions and a 1.0 million net decrease in amortization on marketable securities and cash equivalents. 
+ (Benefit From) Provision For Income Taxes 
+ Three Months Ended October 31, 2024 2023 Change Change (dollars in thousands) (Benefit from) provision for income taxes (14,844) 3,926 (18,770) NM (1) 
+ Percentage of revenue (4) 1 (1) Not meaningful 
+ 
+ Provision for income taxes decreased by 18.8 million for the three months ended October 31, 2024 compared to the three months ended October 31, 2023, mainly driven by the release of valuation allowance associated with our U.K. DTA and tax impact of changing our intent with respect to permanent reinvestment of foreign earnings. 
+ 
+ Comparison of the Nine Months Ended October 31, 2024 and October 31, 2023 
+ Revenue 
+ Nine Months Ended October 31, 2024 2023 Change Change (dollars in thousands) Licenses 389,553 401,407 (11,854) (3) Subscription services 586,726 473,880 112,846 24 Professional services and other 29,739 27,532 2,207 8 Total revenue 1,006,018 902,819 103,199 11 
+ Total revenue increased by 103.2 million, or 11 , for the nine months ended October 31, 2024 compared to the nine months ended October 31, 2023, due to a 112.8 million increase in subscription services revenue and a 2.2 million increase in professional services and other revenue, partially offset by an 11.9 million decrease in licenses revenue, related in part to the transition to our Flex Offerings. As we continued to expand our sales efforts in the U.S. and internationally, our revenue increased across all regions. Of the growth in total revenue, 27 was attributable to new customers and 73 was attributable to existing customers. Of the growth in total revenue attributable to existing customers, 8.0 million resulted from contract modifications wherein the revenue recognized originated from our existing balance of remaining performance obligations. Subscription services revenue is recognized ratably over the subscription term; therefore, the increase in subscription services revenue is driven by both sales in prior periods for which we continue to provide maintenance and support and SaaS, and by new sales in the current period. 
+ Cost of Revenue and Gross Margin 
+ Nine Months Ended October 31, 2024 2023 Change Change (dollars in thousands) Licenses 7,334 8,336 (1,002) (12) Subscription services 123,770 78,502 45,268 58 Professional services and other 51,304 55,736 (4,432) (8) Total cost of revenue 182,408 142,574 39,834 28 Gross margin 82 84 
+ Total cost of revenue increased by 39.8 million, or 28 , for the nine months ended October 31, 2024 compared to the nine months ended October 31, 2023, primarily due to a 45.3 million increase in cost of subscription services revenue, partially offset by a 4.4 million decrease in cost of professional services revenue. The increase in cost of subscription services revenue was primarily driven by a 19.6 million increase in third-party hosting and software services costs as a result of increased usage of our subscription services and a 17.9 million 
+ 36 
+
+Table of Contents 
+
+ increase in personnel-related expenses, which included a 12.2 million increase in salary-related and bonus expenses associated with both increased headcount and merit increases, a 3.8 million increase in stock-based compensation expense, and a 2.7 million aggregate increase in employee insurance costs and employer payroll taxes. Cost of subscription services revenue was also impacted by a 6.0 million increase in costs associated with the use of third-party vendors. The decrease in cost of professional services and other revenue was primarily driven by a 3.6 million decrease in personnel-related expenses, which included a 2.3 million decrease in salary-related and bonus expenses and a 0.6 million aggregate decrease in employee insurance costs and employer payroll taxes. 
+ Our gross margin decreased to 82 for the nine months ended October 31, 2024 compared to 84 for the nine months ended October 31, 2023 due to decrease in the proportion of higher-margin licenses revenue and the aforementioned increase in cost of subscription services revenue driven by increased hosting and personnel costs. 
+ Operating Expenses 
+ Sales and Marketing 
+ Nine Months Ended October 31, 2024 2023 Change Change (dollars in thousands) Sales and marketing 561,657 521,413 40,244 8 Percentage of revenue 56 58 
+ Sales and marketing expense increased by 40.2 million, or 8 , for the nine months ended October 31, 2024 compared to the nine months ended October 31, 2023. This increase was primarily attributable to a 26.9 million increase in personnel-related expenses, which included a 16.3 million increase in salary-related and bonus expenses as a result of both increased headcount and merit increases, a 8.5 million increase in employee termination benefits related to our fiscal year 2025 restructuring actions, a 3.7 million aggregate increase in payroll taxes and employee insurance costs, and a 1.3 million increase in general employee severance, partially offset by a 3.5 million decrease in stock-based compensation expense. Sales and marketing expense was also impacted by a 10.4 million increase in sales commission expenses as a result of higher amortization of capitalized contract acquisition costs and a 6.8 million aggregate increase in marketing and travel-related expenses due in part to our Forward VII conference. These increases were partially offset by a 2.3 million decrease in depreciation and amortization expense and a 1.1 million decrease in third-party consulting fees. 
+ Research and Development 
+ Nine Months Ended October 31, 2024 2023 Change Change (dollars in thousands) Research and development 281,012 246,462 34,550 14 Percentage of revenue 28 27 
+ Research and development expense increased by 34.6 million, or 14 , for the nine months ended October 31, 2024 compared to the nine months ended October 31, 2023. The increase was primarily attributable to a 17.3 million increase in third-party software services and hosting costs as a result of increased usage and a 16.1 million increase in personnel-related expenses, which included a 7.6 million increase in stock-based compensation expense, a 6.7 million increase in salary-related and bonus expenses associated with both increased headcount and merit increases, and a 1.5 million increase in employee termination benefits related to our fiscal year 2025 restructuring actions. 
+ General and Administrative 
+ Nine Months Ended October 31, 2024 2023 Change Change (dollars in thousands) General and administrative 177,119 172,185 4,934 3 Percentage of revenue 18 19 
+ 37 
+
+Table of Contents 
+
+ General and administrative expense increased by 4.9 million, or 3 , for the nine months ended October 31, 2024 compared to the nine months ended October 31, 2023. This increase was primarily attributable to a 9.9 million increase in software service and implementation costs, a 3.6 million increase in third-party consulting fees, a 2.7 million increase due to a credit loss recovery recorded in the prior comparable period, and a 2.3 million increase in charitable donations mainly driven by the increased fair value of our Class A common shares contributed to a donor-advised fund in the current year. These increases were partially offset by a 14.5 million decrease in personnel-related expenses, which included a 20.3 million decrease in stock-based compensation expense partially offset by a 2.7 million increase in employee termination benefits related to our fiscal year 2025 restructuring actions, a 2.3 million increase in employee insurance costs, and a 1.3 million increase salary-related and bonus expenses associated with both increased headcount and merit increases. 
+ Interest Income 
+ Nine Months Ended October 31, 2024 2023 Change Change (dollars in thousands) Interest income 37,255 41,913 (4,658) (11) Percentage of revenue 4 5 
+ Interest income decreased by 4.7 million, or 11 , for the nine months ended October 31, 2024 compared to the nine months ended October 31, 2023 as a result of a period-over-period decrease in our aggregate balance of cash and cash equivalents and marketable securities, as well as decreased interest rates. 
+ Other Income, Net 
+ Nine Months Ended October 31, 2024 2023 Change Change (dollars in thousands) Other income, net 26,199 25,491 708 3 Percentage of revenue 3 3 
+ Other income, net remained relatively constant for the nine months ended October 31, 2024 compared to the nine months ended October 31, 2023, primarily due to a 5.5 million net increase in amortization on marketable securities and cash equivalents partially offset by a 2.4 million decrease in legal expense related to shareholder litigation, a 1.5 million decrease in sublease income, and a 1.0 million decrease in gains from foreign currency transactions. 
+ (Benefit From) Provision For Income Taxes 
+ Nine Months Ended October 31, 2024 2023 Change Change (dollars in thousands) (Benefit from) provision for income taxes (7,236) 11,388 (18,624) NM (1) 
+ Percentage of revenue (1) 2 (1) Not meaningful 
+ 
+ Provision for income taxes decreased by 18.6 million for the nine months ended October 31, 2024 compared to the nine months ended October 31, 2023, mainly driven by the release of valuation allowance associated with our U.K. DTA and tax impact of changing our intent with respect to permanent reinvestment of foreign earnings. 
+ 
+ Liquidity and Capital Resources 
+ We have financed operations since our inception primarily through customer payments and net proceeds from sales of equity securities. Our principal uses of cash in recent periods have been to fund our operations, invest in capital expenditures, engage in various business acquisitions, and, more recently, repurchase shares of our Class A common stock. As of October 31, 2024, our principal sources of liquidity were cash, cash equivalents, and marketable securities totaling 1,603.4 million, and we had an accumulated deficit of 2,039.7 million. For the nine months ended October 31, 2024, we reported a net loss of 125.5 million and net cash provided by operating activities of 174.5 million. 
+ 38 
+
+Table of Contents 
+
+ Our future capital requirements will depend on many factors, including our revenue growth rate, sales of our products and services, license renewal activity, the timing and the amount of cash received from customers, the expansion of sales and marketing activities, the timing and extent of spending to support development efforts, the introduction of new and enhanced products, the continuing market adoption of our products, expenses associated with international expansion, the timing and extent of capital expenditures to invest in existing and new office spaces, and the timing and extent of stock repurchases. We may in the future enter into arrangements to acquire or invest in complementary businesses, products, and technologies. We may be required to seek additional equity or debt financing. In the event that we require additional financing, we may not be able to raise such financing on terms acceptable to us or at all. If we are unable to raise additional capital or generate cash flows necessary to expand our operations and invest in continued innovation, we may not be able to compete successfully, which would harm our business, operations, and financial condition. 
+ We believe that our existing cash and cash equivalents, marketable securities, and payments from customers will be sufficient to fund our anticipated cash requirements for the next twelve months and the long term. 
+ Stock Repurchase Program 
+ On September 1, 2023, our board of directors authorized a stock repurchase program, pursuant to which we may repurchase from time to time up to 500.0 million of our outstanding shares of Class A common stock. On August 30, 2024 our board of directors authorized the repurchase of an additional 500.0 million of our Class A common stock. Refer to Note 10, Stockholders' Equity Stock Repurchase Program for further details. 
+ Cash Flows 
+ The following table summarizes our cash flows for the periods presented: 
+ Nine Months Ended October 31, 2024 2023 (in thousands) Net cash provided by operating activities (1) 
+ 174,483 153,480 Net cash used in investing activities 
+ (28,807) (430,930) Net cash used in financing activities (433,530) (114,978) (1) Inclusive of: 
+ Cash paid for employer payroll taxes related to employee equity transactions 
+ (4,435) (6,183) Net payments of employee tax withholdings on stock option exercises (6) (788) Cash paid for restructuring costs (11,475) (6,072) 
+ Operating Activities 
+ Our largest source of operating cash is cash generation from sales to our customers. Our primary uses of cash from operating activities are for personnel-related expenses, direct costs to deliver licenses and provide subscription and professional services, and marketing expenses. 
+ Net cash provided by operating activities for the nine months ended October 31, 2024 of 174.5 million was driven by cash collections from our customers, which were approximately 16 higher than during the nine months ended October 31, 2023. These cash inflows were partially offset by cash payments for operating expenditures, primarily associated with the compensation of our teams, including fiscal year 2024 annual bonuses paid in the first quarter of fiscal year 2025. Other cash operating expenditures included payments related to our fiscal year 2025 workforce restructuring, and payments for professional services, software, and office rent. 
+ Net cash provided by operating activities for the nine months ended October 31, 2023 of 153.5 million was driven by cash collections from our customers, partially offset by cash payments for operating expenditures, primarily associated with the compensation of our teams, including fiscal year 2023 annual bonuses paid in the first quarter of fiscal year 2024. Other cash operating expenditures included payments related to our fiscal year 2023 workforce restructuring, which was concluded during the second quarter of fiscal year 2024, and payments for professional services, software, and office rent. 
+ 39 
+
+Table of Contents 
+
+ Investing Activities 
+ Net cash used in investing activities for the nine months ended October 31, 2024 of 28.8 million was driven by 1,162.2 million in purchases of marketable securities, a 35.8 million investment in the H company, and 7.5 million in capital expenditures, partially offset by 1,176.8 million in maturities of marketable securities. 
+ Net cash used in investing activities for the nine months ended October 31, 2023 of 430.9 million was primarily driven by 1,006.6 million in purchases of marketable securities, partially offset by 576.5 million in maturities of marketable securities. 
+ Financing Activities 
+ Net cash used in financing activities for the nine months ended October 31, 2024 of 433.5 million was primarily driven by 381.4 million in repurchases of Class A common stock under our stock repurchase program, 60.5 million in payments of tax withholdings on net settlement of equity awards, and 5.6 million in deferred cash consideration paid on the second anniversary of the acquisition of Re:infer LTD, partially offset by 12.9 million in proceeds from ESPP contributions and 0.9 million in proceeds from exercise of stock options. 
+ Net cash used in financing activities for the nine months ended October 31, 2023 of 115.0 million was primarily driven by 75.5 million in payments of tax withholdings on net settlement of equity awards, 52.6 million in repurchases of Class A common stock under our stock repurchase program, and 5.9 million in deferred cash consideration paid on the first anniversary of the acquisition of Re:infer LTD, partially offset by 14.3 million in proceeds from ESPP contributions and 5.4 million in proceeds from exercise of stock options. 
+ 
+ Material Cash Requirements 
+ Our material cash requirements predominantly relate to working capital requirements, including employee compensation, payment of employee tax withholdings on net settlement of equity awards, and employee termination benefits related to our fiscal year 2025 restructuring actions, and material contractual obligations, including leases and purchase commitments. 
+ As of October 31, 2024, accrued compensation and benefits of 88.8 million are included in current liabilities on our condensed consolidated balance sheet. Refer to Note 8, Consolidated Balance Sheet Components Accrued Expenses and Other Current Liabilities for details of additional short-term payroll-related obligations included in accrued expenses and other current liabilities. 
+ Refer to Note 7, Operating Leases for more detailed information regarding timing of future lease payments, and Note 9, Commitments and Contingencies Non-Cancelable Purchase Obligations for more detailed information regarding timing of purchase commitments. There were no significant changes during the nine months ended October 31, 2024 from the contractual obligations disclosed in the section titled Management s Discussion and Analysis of Financial Condition and Results of Operations, set forth in the 2024 Form 10-K. 
+ Our stock repurchase program may also represent a material use of cash depending upon the number of shares repurchased, which is ultimately discretionary. Refer to Note 10, Stockholders' Equity Stock Repurchase Program for further details. 
+ 
+ Critical Accounting Estimates 
+ There have been no material changes to our critical accounting estimates as compared to those disclosed in the 2024 Form 10-K. 
+ 
+ Recent Accounting Pronouncements 
+ See Note 2, Summary of Significant Accounting Policies Recently Issued Accounting Pronouncements , included in Part I, Item 1 of this Quarterly Report on Form 10-Q for more information. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk. 
+ We are exposed to market risk in the ordinary course of our business. Market risk represents the risk of loss that may impact our financial position due to adverse changes in financial market prices and rates. Our market risk exposure is principally the result of fluctuations in interest rates and foreign currency exchange rates. 
+ 40 
+
+Table of Contents 
+
+ Interest Rate Risk 
+ As of October 31, 2024, we had 773.6 million of cash and cash equivalents. Cash and cash equivalents consist of cash in banks, bank deposits, and money market accounts. In addition, we had 829.8 million of marketable securities, consisting primarily of treasury bills and U.S. government securities, corporate bonds, and commercial paper. Such interest-earning instruments carry a degree of interest rate risk. The primary objectives of our investment activities are the preservation of capital, the fulfillment of liquidity needs, and the fiduciary control of cash. We do not enter into investments for trading or speculative purposes. The effect of a hypothetical 10 change in interest rates would not have had a material impact on our condensed consolidated financial statements for the nine months ended October 31, 2024. 
+ Foreign Currency Exchange Risk 
+ The functional currency of our non-U.S. subsidiaries is the local currency. Asset and liability balances denominated in non-U.S. dollar currencies are translated into U.S. dollars using period-end exchange rates, while translation of revenue and expenses is based on average monthly rates. Translation adjustments are recorded as a component of accumulated other comprehensive income, and transaction gains and losses are recorded in other income, net on our condensed consolidated financial statements. We have from time to time used foreign currency forward contracts to reduce our potential exposure to currency fluctuations. If we are not able to successfully mitigate the risks associated with currency fluctuations, our results of operations could be adversely affected. The estimated translation impact to our condensed consolidated financial statements of a hypothetical 10 change in foreign currency exchange rates would amount to 26.3 million for the nine months ended October 31, 2024. For the nine months ended October 31, 2024, approximately 53 of our revenues and approximately 37 of our expenses were denominated in non-U.S. dollar currencies, and we recognized net foreign currency transaction gains of 1.9 million. 
+ 
+ Item 4. Controls and Procedures. 
+ Evaluation of Disclosure Controls and Procedures 
+ Our "disclosure controls and procedures" as defined in Rule 13a-15(e) and Rule 15d-15(e) of the Exchange Act, are designed to ensure that information required to be disclosed in our reports filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC s rules and forms. In addition, they are designed to ensure that such information is accumulated and communicated to our management, including our Chief Executive Officer ("CEO") and Chief Financial Officer ("CFO") as appropriate to allow timely decisions regarding required disclosure. 
+ Our management, with the participation of our CEO and CFO, performed an evaluation of the effectiveness of our disclosure controls and procedures as of the end of the period covered by this Quarterly Report on Form 10-Q. Based on such evaluation, our CEO and CFO concluded that our disclosure controls and procedures were effective at a reasonable assurance level as of October 31, 2024. 
+ Changes in Internal Control Over Financial Reporting 
+ During the three months ended October 31, 2024, no change in internal control over financial reporting was identified in connection with the evaluation required by Rule 13a-15(d) and Rule 15d-15(d) of the Exchange Act that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ Limitations on Effectiveness of Controls and Procedures 
+ Our management, including our CEO and CFO, believes that our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of achieving their objectives and are effective at a reasonable assurance level. However, any control system, no matter how well designed and operated, can only provide reasonable, not absolute, assurance that its objectives will be met. There are inherent limitations to the effectiveness of any system of disclosure controls and procedures and internal control over financial reporting, including resource constraints, errors in judgment, and the possibility that controls and procedures will be circumvented by collusion, by management override, or by mistake. Additionally, the design of any control system is based in part on management assumptions about the likelihood of future events, and there can be no assurance that the system will succeed in achieving its objectives under all potential future scenarios. As a result of these limitations, our management does not expect that our disclosure controls and procedures and 
+ 41 
+
+Table of Contents 
+
+ internal control over financial reporting will prevent all potential errors or fraud or detect all potential misstatements due to error or fraud. 
+ 42 
+
+Table of Contents 
+
+ PART II OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings. 
+ Refer to Note 9, Commitments and Contingencies Litigation , to the condensed consolidated financial statements included in this Quarterly Report on Form 10-Q for a description of current legal proceedings. 
+ 
+ Item 1A. Risk Factors. 
+ Our operations and financial results are subject to various risks and uncertainties, some of which are beyond our control. In addition to the other information set forth in this Quarterly Report on Form 10-Q, you should carefully consider the risks discussed in the 2024 Form 10-K, including the disclosure under Part I, Item 1A, "Risk Factors, which are risks we believe could materially affect our business, financial condition and future results. These are not the only risks we face. Other risks and uncertainties we are not currently aware of or that we currently consider immaterial also may materially adversely affect our business, financial condition, and future results. Risks we have identified but currently consider immaterial could still materially adversely affect our business, financial condition, and future results if our assumptions about those risks are incorrect or if circumstances change. 
+ There have been no material changes to the risk factors previously disclosed in Part I, Item 1A of the 2024 Form 10-K except as follows: 
+ We are subject to numerous risks associated with the evolving market for products with AI capabilities. 
+ The markets and use cases for products with AI capabilities have been rapidly evolving, are difficult to predict, and may impact demand for our products, our sales cycles, our ability to forecast results from sales of these products, and the preferences of our customers and potential customers. The significant investments we have made to develop products and software to address what we believe will be increasing demand for AI capabilities may be insufficient, and we face significant hurdles, including whether demand will materialize, whether third-party software providers will develop functionality that allows their software to utilize the AI capabilities of our products, and whether we will be successful in developing, pricing, and packaging products that can compete with offerings by established competitors. 
+ We have invested in an early-stage global foundation model and agentic AI company and we may continue to invest in other potentially disruptive technologies in the future, through various vehicles such as equity or debt investments, joint ventures, or strategic partnerships. Such investments may not produce the expected results, may require more financial resources than anticipated, or may otherwise be unsuccessful, and the value of the investments may decline or be impaired, or our business may be adversely impacted. 
+ Additionally, our use of AI technology in general may subject us to reputational, financial, legal, or regulatory risks. As we continue to incorporate AI technology into our products and services, any failures to address concerns relating to the responsible use of the evolving AI technology in our products and services may cause harm to our reputation or result in financial liability, and as such, may increase our costs to address or mitigate such risks and issues. AI technology may create ethical issues, generate defective algorithms, and present other risks that create challenges with respect to its adoption. In addition, evolving rules, regulations, and industry standards governing AI may require us to expend significant resources to modify, maintain, or align our business practices or products to comply with U.S. and non-U.S. rules and regulations, the nature of which cannot be determined at this time. Several jurisdictions around the globe, including the EU and certain U.S. states, have already proposed or enacted laws governing the development and use of AI, such as the EU's AI Act. U.S. federal agencies are likely to release AI regulations in the near future in light of the Biden administration's October 30, 2023 Executive Order on AI. We expect other jurisdictions will adopt similar laws. 
+ The regulatory environment surrounding the impact of the implementation of AI on our products and services may adversely affect our ability to produce and export products, and as a result, may cause harm to our reputation and result in financial liability. 
+ 43 
+
+Table of Contents 
+
+ Delays or difficulties associated with the design, implementation, or post-implementation use of our new enterprise resource planning ("ERP") system could adversely impact our business, financial condition, and results of operations. 
+ We rely on information systems, particularly ERP technology, to manage our business, summarize our operating and financial results, and provide timely information to our management. We are currently engaged in a multi-year implementation of a new ERP system. This implementation is a complex project with broad scope, in which we have invested and will continue to invest significant financial and human capital. Despite our efforts, we may experience delays, unexpected costs, or other difficulties as the implementation process continues. Further, although we plan to run our existing technology in parallel with the new ERP system for a period of time and to conduct extensive testing to ensure that the new ERP system is operating as intended, post-implementation disruptions to or difficulties in use of the new ERP could require us to incur additional costs, or could impair, among other things, our ability to record sales, process transactions, collect receivables, and produce timely and accurate historical and forecasted financial information, which could adversely impact our business, financial condition, and results of operations. Additionally, if the new ERP system does not ultimately operate as intended, the effectiveness of our internal control over financial reporting could be harmed. 
+ We have undertaken, and may in the future undertake, internal restructuring activities that could result in disruptions to our business or otherwise materially harm our results of operations or financial condition. 
+ From time to time, we have undertaken and may continue to undertake internal restructuring activities in an effort to better align our resources with our business strategy. For example, we initiated a restructuring plan in July 2024. This follows an earlier restructuring plan we initiated in fiscal year 2023 that was completed during the second quarter of fiscal year 2024. We incur substantial costs to implement restructuring plans, and our restructuring activities may subject us to reputational risks and litigation risks and expenses. There can be no assurance that any restructuring activities that we have undertaken or undertake in the future will achieve the cost savings, operating efficiencies, or other benefits that we may initially expect. In addition, restructuring activities may result in loss of institutional knowledge and expertise, attrition beyond our intended reduction in force, or a negative impact on employee morale and productivity or our ability to attract highly skilled employees. Internal restructurings can also require a significant amount of time and focus from management and other employees, which may divert attention from commercial operations. If any internal restructuring activities we have undertaken or undertake in the future fail to achieve some or all of the expected benefits, our business, financial condition, and results of operations could be materially and adversely affected. 
+ Risks associated with our use of AI (including machine learning and large language models) may result in reputational harm or liability. 
+ AI is enabled by or integrated into parts of our technology platform and may also be used directly or indirectly as part of our internal systems and processes. As such, AI remains a significant and growing element of our business and operations. As with many developing technologies, AI presents risks and challenges that could affect its further development, adoption, and use. AI algorithms and models may be flawed. Our AI-related efforts, particularly those related to generative AI, or the datasets that we use in training our systems, subject us to risks related to harmful or illegal content, accuracy, bias, intellectual property infringement or misappropriation, defamation, data privacy, cybersecurity, sanctions, and export controls, among others. Third-party AI capabilities that can be integrated with our platform or used in our internal systems and processes, including generative AI, could also produce false or "hallucinatory" inferences about customer data, enterprises, other information, or subject matter. The use of generative AI processes at scale is relatively new, and may lead to challenges, concerns, and risks that are significant, or that we may not be able to predict, especially if our direct or indirect use of these technologies in our products and internal systems and processes were to become more important to us over time. If the recommendations, forecasts, or analyses that AI applications, including AI agents, assist in producing are deficient or inaccurate, we could be subject to competitive harm or potential legal liability, including under existing and future legislation or regulations, including in the U.S. and the EU. The rapid evolution of AI may also require us to expend additional resources to help ensure that AI is implemented appropriately in order to minimize unintended or harmful impact which may adversely affect our business, financial condition, and results of operations. 
+ Some AI scenarios may present ethical issues, and the enablement or integration of AI into our platform or internal processes may subject us to new or heightened legal, regulatory, ethical, or other challenges, as this is an area of rapid development. We take into consideration these challenges when designing our technologies and implementing our business practices. For example, our platform includes data governance tools and other tools, which are intended to regulate and limit user access. In addition, we have developed internal responsible AI 
+ 44 
+
+Table of Contents 
+
+ guidelines. However, we have no assurance that these tools or guidelines, nor their implementation, will be sufficient to protect us against evolving AI-related risks. As a result, if we face any claims or litigation relating to our use of AI, including its purported or real impact to, human rights, data privacy, employment, or other societal issues, we may experience brand or reputational harm, as well as regulatory or legal scrutiny, which could have a material adverse effect on our operations, and business outlook. 
+ 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 
+ Recent Sales of Unregistered Equity Securities 
+ None. 
+ Use of Proceeds from Initial Public Offering of Class A Common Stock 
+ There has been no material change in the planned uses of proceeds from our IPO from those disclosed in the 2024 Form 10-K. 
+ Issuer Purchase of Equity Securities 
+ The following table presents our Class A common stock repurchase activity under our previously announced stock repurchase program for the three months ended October 31, 2024 (in thousands, except for per share data): 
+ Period Total Number of Shares Purchased Average Price Paid Per Share (1) Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (2) Approximate Dollar Value of Shares That May Yet Be Purchased Under the Plans or Programs (2) 
+ August 1 - 31 10,698 11.65 10,698 554,425 September 1 - 30 1,845 12.15 1,845 532,013 October 1 - 31 1,230 12.43 1,230 516,719 Total 13,773 13,773 
+ (1) Excludes brokerage commission and 1 excise tax accrued pursuant to the Inflation Reduction Act of 2022. 
+ (2) On September 1, 2023, our board of directors authorized a stock repurchase program which authorized the repurchase from time to time of up to 500.0 million of our outstanding shares of Class A common stock. This authorization was scheduled to expire on March 1, 2025. On August 30, 2024, our board of directors authorized an additional 500.0 million of repurchases under the stock repurchase program. The current authorization may be suspended or discontinued at any time and does not have a specified expiration date. Repurchases under the program may be effected through open market purchases, privately-negotiated transactions, or otherwise in accordance with applicable federal securities laws, including through Rule 10b5-1 trading plans and under Rule 10b-18 of the Exchange Act. The timing and actual number of shares repurchased will depend on a variety of factors, including price, general business and market conditions, and alternate uses of capital. 
+ 
+ Item 3. Defaults Upon Senior Securities. 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures. 
+ Not applicable. 
+ 45 
+
+Table of Contents 
+
+ Item 5. Other Information. 
+ None. 
+ 46 
+
+Table of Contents 
+
+ Item 6. Exhibits. 
+ Exhibit Number Description 31.1 
+ Certification of Chief Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 31.2 
+ Certification of Chief Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 32.1 
+ Certification of Chief Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 32.2 
+ Certification of Chief Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) The certification furnished in Exhibit 32.1 hereto is deemed to accompany this Quarterly Report on Form 10-Q and is not deemed "filed" for purposes of Section 18 of the Exchange Act, or otherwise subject to the liability of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act or the Exchange Act, irrespective of any general incorporation language contained in such filing. 
+ 
+ 47 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ UiPath, Inc. Date: December 6, 2024 By: /s/ Ashim Gupta Ashim Gupta Chief Financial Officer and Chief Operating Officer 
+ (Principal Financial Officer) 
+
+48 
+
+<EX-31.1>
+ 2
+ path-20241031xexx311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION PURSUANT TO 
+ RULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES EXCHANGE ACT OF 1934, 
+ AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Daniel Dines, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of UiPath, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date December 6, 2024 By s Daniel Dines Daniel Dines Chief Executive Officer, Founder, and Chairman 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ path-20241031xexx312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION PURSUANT TO 
+ RULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES EXCHANGE ACT OF 1934, 
+ AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Ashim Gupta, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of UiPath, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date December 6, 2024 By s Ashim Gupta Ashim Gupta Chief Financial Officer and Chief Operating Officer 
+ (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ path-20241031xexx321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of UiPath, Inc. (the Company on Form 10-Q for the quarter ended October 31, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Daniel Dines, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date December 6, 2024 By s Daniel Dines Daniel Dines Chief Executive Officer, Founder, and Chairman 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ path-20241031xexx322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of UiPath, Inc. (the Company on Form 10-Q for the quarter ended October 31, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Ashim Gupta, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date December 6, 2024 By s Ashim Gupta Ashim Gupta Chief Financial Officer and Chief Operating Officer 
+ (Principal Financial Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ path-20241031.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ path-20241031_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ path-20241031_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ path-20241031_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ path-20241031_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,945 @@
+<Header>
+<FileStats>
+    <FileName>20241112_10-Q_edgar_data_1866550_0001866550-24-000060.txt</FileName>
+    <GrossFileSize>6375908</GrossFileSize>
+    <NetFileSize>126427</NetFileSize>
+    <NonText_DocumentType_Chars>1524991</NonText_DocumentType_Chars>
+    <HTML_Chars>2013835</HTML_Chars>
+    <XBRL_Chars>1432832</XBRL_Chars>
+    <XML_Chars>1174052</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001866550-24-000060.hdr.sgml : 20241112
+<ACCEPTANCE-DATETIME>20241112073206
+ACCESSION NUMBER:		0001866550-24-000060
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		66
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241112
+DATE AS OF CHANGE:		20241112
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Thoughtworks Holding, Inc.
+		CENTRAL INDEX KEY:			0001866550
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING SERVICES [7371]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40812
+		FILM NUMBER:		241443320
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 EAST RANDOLPH STREET, 25TH FLOOR
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+		BUSINESS PHONE:		312-373-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 EAST RANDOLPH STREET, 25TH FLOOR
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60601
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Turing Holding Corp.
+		DATE OF NAME CHANGE:	20210609
+
+</SEC-Header>
+</Header>
+
+ 0001866550-24-000060.txt : 20241112
+
+10-Q
+ 1
+ twks-20240930.htm
+ 10-Q
+
+twks-20240930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For transition period from ______ to _____ 
+ Commission File Number 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of 
+ incorporation or organization) 
+ (I.R.S. Employer 
+ Identification Number) 
+
+, 
+ ) 
+ (Address, including zip code, and telephone number, including area code, of registrant s principal executive offices) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act): Yes No 
+ As of November 7, 2024, there were shares of the registrant's common stock outstanding. 
+
+Table of Contents 
+
+ THOUGHTWORKS HOLDING, INC. 
+ QUARTERLY REPORT ON FORM 10-Q 
+ TABLE OF CONTENTS 
+ Page Forward-Looking Statements 
+ 3 
+ Part I. Financial Information 
+ Item 1 
+ Condensed Consolidated Financial Statements (Unaudited) 
+ 6 
+ Condensed Consolidated Balance Sheets as of September 30, 2024 (Unaudited) and December 31, 2023 
+ 6 
+ Condensed Consolidated Statements of Loss and Comprehensive Loss for the three and nine months ended September 30, 2024 and 2023 (Unaudited) 
+ 7 
+ Condensed Consolidated Statements of Changes in Stockholders' Equity for the three and nine months ended September 30, 2024 and 2023 (Unaudited) 
+ 8 
+ Condensed Consolidated Statements of Cash Flows for the nine months ended September 30, 2024 and 2023 (Unaudited) 
+ 10 
+ Notes to the Condensed Consolidated Financial Statements (Unaudited) 
+ 11 
+ Item 2 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 21 
+ Item 3 
+ Quantitative and Qualitative Disclosure About Market Risk 
+ 39 
+ Item 4 
+ Controls and Procedures 
+ 39 
+ Part II. Other In formation 
+ Item 1 
+ Legal Proceedings 
+ 41 
+ Item 1A 
+ Risk Factors 
+ 41 
+ Item 2 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 43 
+ Item 3 
+ Defaults Upon Senior Securities 
+ 43 
+ Item 4 
+ Mine Safety Disclosures 
+ 43 
+ Item 5 
+ Other Information 
+ 43 
+ Item 6 
+ Exhibits 
+ 44 
+ Signatures 
+ 45 
+
+Table of Contents 
+
+ FORWARD-LOOKING STATEMENTS 
+ This quarterly report on Form 10-Q (the Quarterly Report contains forward-looking statements within the meaning of the U.S. Private Securities Litigation Reform Act of 1995, as amended. Forward-looking statements include statements that are not historical facts and can be identified by terms such as anticipate, believe, could, estimate, expect, intend, may, plan, potential, predict, project, seek, should, "strive," will, would or similar expressions and the negatives of those terms but the absence of these words does not mean that the statement is not forward-looking. The forward-looking statements are contained principally in the section captioned Management s Discussion and Analysis of Financial Condition and Results of Operations. Forward-looking statements may include information concerning our possible or assumed future results of operations, client demand, business strategies, technology developments, financing and investment plans, competitive position, our industry, macroeconomic and regulatory environment, potential growth opportunities and the effects of competition. 
+ Forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. Given these uncertainties, you should not place undue reliance on forward-looking statements. Also, forward-looking statements represent our management s beliefs and assumptions only as of the date of this Quarterly Report. You should read this Quarterly Report and the documents that we have filed as exhibits hereto, completely and with the understanding that our actual future results may be materially different from what we expect. 
+ Important risk factors that could cause actual results to differ materially from our expectations include: 
+ our previously announced acquisition by affiliates of certain investment funds that are advised by Apax Partners LLP Apax and such funds, the Apax Funds ), including the likelihood of the satisfaction of the conditions to the completion of the transaction, and whether and when the transaction will be consummated; 
+ the risk of significant or unanticipated costs, liabilities or delays relating to the proposed transaction with Apax Funds and Merger-related integration costs; 
+ that the parties to the Merger Agreement may modify its terms and conditions; 
+ that the anticipated benefits of the Merger are not realized as a result of such things as the weakness of the economy and competitive factors in the technology consultancy industry; 
+ the Merger s effect on the Company s relationships with its customers and suppliers, whether or not the Merger is completed; 
+ the parties ability to successfully integrate operations in the Merger; 
+ economic conditions have resulted in, and may continue to result in, client delays, reductions or cancellations and a decrease in pricing, making it more difficult to forecast client demand and effectively build a pipeline; 
+ we have, and may continue to, offer significant discounts for our services, which has, and may continue to, put pressure on our margins; 
+ we face risks associated with having a long selling and implementation cycle for our services that require us to make significant resource commitments prior to realizing revenues for those services; 
+ if we are required to write down goodwill and other intangible assets, our financial condition and results would be negatively affected; 
+ our business has been, and may continue to be, adversely affected by volatile or uncertain operational, geopolitical, regulatory, legal and economic conditions; 
+ we may be unable to implement our strategy; 
+ we may not be successful at attracting new clients or retaining and expanding our relationships with our existing clients; 
+ our ability to generate and retain business depends on our reputation in the marketplace; 
+ if we fail to adequately innovate, adapt and/or remain at the forefront of emerging technologies and related client demands, we could be materially adversely affected; 
+ we may not be successful in our emerging technology initiatives, which could adversely affect our business, reputation, or financial results; 
+ if we fail to manage our acquisition strategy, our culture and growth plans could be materially adversely affected; 
+ our business, financial condition and results of operations may be adversely affected by fluctuations in foreign currency exchange rates; 
+ 3 
+
+Table of Contents 
+
+ our cash flows and results of operations may be adversely affected if we are unable to collect on billed and unbilled receivables from clients; 
+ our effective tax rate could be materially adversely affected by several factors; 
+ we must successfully attract, hire, train and retain skilled professionals to service our clients projects and we must productively deploy our professionals to remain profitable; 
+ increases in wages, equity compensation and other compensation expenses could prevent us from sustaining our competitive advantage and increase our costs; 
+ our business and operations may be harmed if we cannot positively evolve and preserve our Thoughtworks culture; 
+ we face intense competition and operate in a rapidly evolving industry, which makes it difficult to evaluate our future prospects; 
+ our existing indebtedness could adversely affect our business and growth prospect; 
+ if we cause disruptions to our clients businesses, provide inadequate service, or breach contractual obligations, our clients may have claims against us, which our insurance may not adequately protect against, and our reputation may be damaged; 
+ we face risks associated with security breaches as well as privacy and data protection regulations, and we may incur significant liabilities if we fail to manage those risks; 
+ a significant failure in our systems, telecommunications or IT infrastructure could harm our service model, which could result in a reduction of our revenues and otherwise disrupt our business; 
+ changes in privacy and data protection regulations could expose us to risks of noncompliance and costs associated with compliance; 
+ we are subject to laws and regulations in the U.S. and other countries in which we operate, compliance with these laws requires significant resources and non-compliance may result in civil or criminal penalties and other remedial measures; 
+ we may become subject to disputes or legal or other proceedings that could involve significant expenditures by us, which could have a material adverse effect on us, including our financial results; 
+ our environmental, social and governance (ESG) commitments and disclosures may expose us to reputational risks and legal liability; 
+ we may face intellectual property infringement or misappropriation claims that could be costly to defend or if we do not protect our brand through our intellectual property rights, our business may be harmed; 
+ we may not be able to prevent unauthorized use of our client's intellectual property and our business and competitive position may be damaged as a result; 
+ our stock price may be volatile, and the value of our common stock may decline; 
+ our issuance of additional capital stock in connection with financings, acquisitions, investments, our equity incentive plans, or otherwise will dilute all other stockholders; 
+ if securities or industry analysts do not publish research or publish unfavorable or inaccurate research about our business, the market price and trading volume of our common stock could decline; 
+ we do not intend to pay dividends for the foreseeable future and, as a result, the ability of the holders of our common stock to achieve a return on their investment will depend on appreciation in the price of our common stock; 
+ Apax Funds advised by Apax control us, and such control may give rise to actual or perceived conflicts of interests; 
+ our status as a controlled company grants us exemptions from certain corporate governance requirements; 
+ as a result of being a public company, we are obligated to develop and maintain proper and effective internal control over financial reporting, and any failure to maintain the adequacy of these internal controls may adversely affect investor confidence in our company and, as a result, the value of our common stock; 
+ we may fail to comply with the rules that apply to public companies, which could result in sanctions or other penalties; 
+ provisions of our corporate governance documents could make an acquisition of us more difficult and may prevent attempts by our shareholders to replace or remove our current management, even if beneficial to our shareholders; 
+ provisions of our certificate of incorporation could limit our shareholders ability to obtain a favorable judicial forum for disputes with us; 
+ a significant portion of our total outstanding shares may be sold into the market, which could cause the market price of common stock to drop; and 
+ 4 
+
+Table of Contents 
+
+ other factors disclosed in the subsection entitled Risk Factor Summary" and the section entitled "Risk Factors in the Annual Report on Form 10-K for the fiscal year ended December 31, 2023, filed with the Securities and Exchange Commission (the SEC on February 27, 2024 (the "2023 Annual Report") and the section entitled "Risk Factors" in this Quarterly Report. 
+ We derive many of our forward-looking statements from our operating budgets and forecasts, which are based on many detailed assumptions. While we believe that our assumptions are reasonable, we caution that it is very difficult to predict the impact of known factors, and it is impossible for us to anticipate all factors that could affect our actual results. Important factors that could cause actual results to differ materially from our expectations, or cautionary statements, include, but are not limited to, those disclosed under the sections entitled Risk Factors and Management s Discussion and Analysis of Financial Condition and Results of Operations in this Quarterly Report and in our 2023 Annual Report. All written and oral forward-looking statements attributable to us, or persons acting on our behalf, are expressly qualified in their entirety by these cautionary statements as well as other cautionary statements that are made from time to time in our other SEC filings and public communications. You should evaluate all forward-looking statements made in this Quarterly Report in the context of these risks and uncertainties. 
+ We caution you that the important factors referenced above may not contain all of the factors that are important to you. In addition, we cannot assure you that we will realize the results or developments we expect or anticipate or, even if substantially realized, that they will result in the consequences or affect us or our operations in the way we expect. The forward-looking statements included in this Quarterly Report are made only as of the date hereof. We undertake no obligation to update or revise any forward-looking statement as a result of new information, future events or otherwise, except as otherwise required by law. 
+ 5 
+
+Table of Contents 
+
+ PART I. FINANCIAL INFORMATION 
+ Item 1. Condensed Consolidated Financial Statements (Unaudited) 
+ 
+ THOUGHTWORKS HOLDING, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (In thousands, except share data and per share data) 
+ September 30, 2024 December 31, 2023 (unaudited) Assets Current assets: Cash and cash equivalents Trade receivables, net of allowance of and , respectively 
+ Unbilled receivables Prepaid expenses Other current assets Total current assets Property and equipment, net Right-of-use assets Intangibles and other assets: Goodwill Trademark Other intangible assets, net Other non-current assets Total assets Liabilities and stockholders' equity Current liabilities: Accounts payable Long-term debt, current Accrued compensation Deferred revenue Accrued expenses and other current liabilities Lease liabilities, current Total current liabilities Lease liabilities, non-current Long-term debt, less current portion Deferred tax liabilities Other long-term liabilities Total liabilities Commitments and contingencies par value; shares authorized, issued and outstanding at September 30, 2024 and December 31, 2023, respectively 
+ Common stock, par value; shares authorized, and issued, and outstanding at September 30, 2024 and December 31, 2023, respectively 
+ Treasury stock, and shares at September 30, 2024 and December 31, 2023, respectively 
+ ) ) Additional paid-in capital Accumulated other comprehensive loss ) ) Retained deficit ) ) Total stockholders' equity Total liabilities and stockholders' equity 
+ The accompanying notes form an integral part of the condensed consolidated financial statements. 
+
+6 
+
+Table of Contents 
+
+ THOUGHTWORKS HOLDING, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF LOSS AND COMPREHENSIVE LOSS (unaudited) 
+ (In thousands, except share and per share data) 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenues Operating expenses: Cost of revenues Selling, general and administrative expenses Depreciation and amortization Restructuring Total operating expenses Loss from operations ) ) ) ) Other (expense) income: Interest expense ) ) ) ) Net realized and unrealized foreign currency gain (loss) ) ) ) Other (expense) income, net ) Total other income (expense) ) ) ) Loss before income taxes ) ) ) ) Income tax expense Net loss ) ) ) ) Other comprehensive (loss) income, net of tax: Foreign currency translation adjustments ) ) Comprehensive loss ) ) ) ) Net loss per common share: Basic loss per common share ) ) ) Diluted loss per common share ) ) ) ) Weighted average shares outstanding: Basic Diluted 
+ The accompanying notes form an integral part of the condensed consolidated financial statements. 
+
+7 
+
+Table of Contents 
+
+ THOUGHTWORKS HOLDING, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY (unaudited) 
+ (In thousands, except share data) 
+ Common Stock Treasury Additional Paid-In Capital Accumulated Other Comprehensive Loss Retained Deficit Shares Amount Shares Amount Total Balance as of December 31, 2022 ) ) ) Net loss ) ) Other comprehensive income, net of tax Issuance of common stock for equity incentive awards, net of withholding taxes ) ) Reissuance of treasury shares for equity incentive awards ) ) Stock-based compensation expense Balance as of March 31, 2023 ) ) ) Net loss ) ) Other comprehensive loss, net of tax ) ) Issuance of common stock for equity incentive awards, net of withholding taxes Reissuance of treasury shares for equity incentive awards ) ) Stock-based compensation expense Balance as of June 30, 2023 ) ) ) Net loss ) ) Other comprehensive loss, net of tax ) ) Issuance of common stock for equity incentive awards, net of withholding taxes Stock-based compensation expense Balance as of September 30, 2023 ) ) ) 
+
+8 
+
+Table of Contents 
+
+ Common Stock Treasury Additional Paid-In Capital Accumulated Other Comprehensive Loss Retained Deficit Shares Amount Shares Amount Total Balance as of December 31, 2023 ) ) ) Net loss ) ) Other comprehensive loss, net of tax ) ) Issuance of common stock for equity incentive awards, net of withholding taxes Reissuance of treasury shares for equity incentive awards ) ) ) ) Stock-based compensation expense Balance as of March 31, 2024 ) ) ) Net loss ) ) Other comprehensive income, net of tax Issuance of common stock for equity incentive awards, net of withholding taxes Stock-based compensation expense Balance as of June 30, 2024 ) ) ) Net loss ) ) Other comprehensive income, net of tax Issuance of common stock for equity incentive awards, net of withholding taxes Reissuance of treasury shares for equity incentive awards ) ) ) ) Stock-based compensation expense Balance as of September 30, 2024 ) ) ) 
+ The accompanying notes form an integral part of the condensed consolidated financial statements. 
+
+9 
+
+Table of Contents 
+
+THOUGHTWORKS HOLDING, INC . 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (unaudited) 
+ (In thousands) 
+ Nine Months Ended September 30, 2024 2023 Cash flows from operating activities: Net loss ) ) Adjustments to reconcile net loss to net cash (used in) provided by operating activities: Depreciation and amortization expense Bad debt expense Deferred income tax benefit ) ) Stock-based compensation expense Unrealized foreign currency exchange loss Non-cash lease expense on right-of-use assets Other operating activities, net Changes in operating assets and liabilities: Trade receivables Unbilled receivables ) ) Prepaid expenses Other assets ) Lease liabilities ) ) Accounts payable ) Accrued expenses and other liabilities ) ) Net cash (used in) provided by operating activities ) Cash flows from investing activities: Purchase of property and equipment ) ) Proceeds from disposal of fixed assets Acquisitions, net of cash acquired ) ) Net cash used in investing activities ) ) Cash flows from financing activities: Payments of obligations of long-term debt ) ) Payments of debt issuance costs ) Proceeds from issuance of common stock on exercise of options Withholding taxes paid related to net share settlement of equity awards ) ) Payment of contingent consideration ) Other financing activities, net ) Net cash used in financing activities ) ) Effect of exchange rate changes on cash, cash equivalents and restricted cash ) ) Net decrease in cash, cash equivalents and restricted cash ) ) Cash, cash equivalents and restricted cash at beginning of the period Cash, cash equivalents and restricted cash at end of the period Supplemental disclosure of cash flow information: Interest paid Income taxes paid Supplemental disclosure of non-cash activities: ROU assets obtained in exchange for new operating lease liabilities Reconciliation of cash, cash equivalents and restricted cash: Cash and cash equivalents Restricted cash included in other non-current assets Total cash, cash equivalents and restricted cash 
+ The accompanying notes form an integral part of the condensed consolidated financial statements. 
+
+10 
+
+Table of Contents 
+
+THOUGHTWORKS HOLDING, INC. 
+ Notes to the Condensed Consolidated Financial Statements (Unaudited) 
+ 
+ Note 1 
+ countries. Thoughtworks Holding, Inc. is the ultimate parent holding company of Thoughtworks, Inc. among other subsidiaries. 
+ Proposed Merger 
+ On August 5, 2024, the Company announced that it had entered into a definitive merger agreement (the Merger Agreement pursuant to which affiliates of certain investment funds advised by Apax Partners LLP Apax and such funds, the Apax Funds will purchase all of the outstanding shares of Thoughtworks common stock that they do not already own (subject to certain limited exceptions), for per share. To effectuate the transactions pursuant to the Merger Agreement, Tasmania Merger Sub, Inc., will merge (the Merger with and into the Company, with the Company surviving the Merger as a wholly owned subsidiary of an investment entity controlled by the Apax Funds. The transaction is expected to close in the fourth calendar quarter of 2024, subject to the satisfaction of customary closing conditions. The transaction has been approved by an affiliate of the Apax Funds, in its capacity as the majority stockholder of Thoughtworks, and no other stockholder approval is required. If the transaction is consummated, the shares of our common stock will be delisted from Nasdaq and deregistered under the Securities Exchange Act of 1934, as amended. Pursuant to the rules adopted by the SEC, the Company prepared and filed with the SEC on October 21, 2024, a Definitive Information Statement on Schedule 14C, containing more information about the Merger Agreement and the Merger. 
+ Transaction costs for the three and nine months ended September 30, 2024 related to the Merger were million and million, respectively, of which million is included in other current assets and million is accrued within accrued expenses and other current liabilities on the condensed consolidated balance sheet as of September 30, 2024. 
+ The Company will account for the Merger in accordance with ASC 805-50, Business Combinations Related Issues Transactions Between Entities Under Common Control. Upon closing, this will result in the Merger being accounted for as if the transaction had occurred at the beginning of the period, and the results of operations for that period will comprise those of the previously separate entities combined from the beginning of the period to the date the transfer is completed and those of the combined operations from that date forward. As the Apax Funds control the Company, controls the acquiring entity, and will continue to control the Company after the Merger, there will be no impact to the accounting basis (carrying value) of the Company s assets and liabilities. 
+ Basis of Presentation and Consolidation 
+ Preparation of Financial Statements and Use of Estimates 
+ 11 
+
+Table of Contents 
+
+to , effective January 1, 2024. The change in estimate is accounted for prospectively and resulted in an immaterial decrease to depreciation and amortization expense for the three and nine months ended September 30, 2024. Further, we expect an immaterial decrease to depreciation and amortization expense related to the change in estimated useful life for the full year. 
+ Restricted Cash 
+ Allowance for Credit Losses Current period provision ) Write-offs charged against allowance Recoveries of amounts previously written off Changes due to exchange rates ) Allowance for credit losses, ending balance ) 
+ Recently Issued Accounting Pronouncements Not Yet Adopted 
+ 12 
+
+Table of Contents 
+
+Concentration of Credit Risk and Other Risks and Uncertainties 
+ Revenue generated from the Company's operations outside of the United States for the three months ended September 30, 2024 and 2023 was and , respectively, and and for the nine months ended September 30, 2024 and 2023, respectively. 
+ As of September 30, 2024 and December 31, 2023, and , respectively, of trade receivables and unbilled receivables was due from customers located outside the United States. At September 30, 2024 and December 31, 2023, the Company had net property and equipment of million and million, respectively, outside the United States. 
+ 
+ Note 2 
+ industry verticals. Revenue contract types are differentiated by the type of pricing structure for customer contracts, which is predominantly time-and-materials but also includes fixed price contracts. 
+ During the first quarter of 2024, in connection with the Reorganization (as defined below), the Company updated the disaggregation of revenue by customer location to reflect the geographical market based on contracting location, consistent with client ownership within our geographical markets, versus billing location, as previously reported. All corresponding disclosures and historical amounts, including revenue by country noted below, have been recast to reflect the change. 
+ Disaggregation of Revenues 
+ APAC (2) Europe (3) LATAM Total revenues 
+ (1) For the three months ended September 30, 2024 and 2023, the United States represented , or million, and , or million, respectively, of the Company s total revenues. For the nine months ended September 30, 2024 and 2023, the United States represented , or million, and , or million, of the Company s total revenues, respectively. Canadian operations were 
+ 13 
+
+Table of Contents 
+
+, or million, and , or million, respectively, of the Company's total revenues. For the nine months ended September 30, 2024 and 2023, Australia represented , or million, and , or million, respectively, of the Company's total revenues. 
+ (3) For the three months ended September 30, 2024 and 2023, Germany represented , or million, and , or million, respectively, of the Company's total revenues. For the nine months ended September 30, 2024 and 2023, Germany represented , or million, and , or million, respectively, of the Company's total revenues. 
+ Other foreign countries were determined to be immaterial given the revenues as a percentage of the Company s total revenues was less than 10 for the three and nine months ended September 30, 2024 and 2023. 
+ Energy, public and health services Retail and consumer Financial services and insurance Automotive, travel and transportation Total revenues 
+ The following table presents the disaggregation of the Company s revenues by contract type (in thousands): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Time-and-materials Fixed-price Total revenues 
+ Contract Balances 
+ Contract liabilities included in deferred revenue 
+ Contract assets primarily relate to unbilled amounts on fixed-price contracts, where the right to consideration is conditional on the satisfaction of performance obligations that are measured based on hours incurred and the end deliverable to the customer. Contract assets are recorded when services have been provided but the Company does not have an unconditional right to receive consideration. Professional services performed on or prior to the balance sheet date, but invoiced thereafter, are reflected in unbilled receivables. 
+ 14 
+
+Table of Contents 
+
+million and , respectively, of revenues that were included in contract liabilities at the beginning of the period. For the nine months ended September 30, 2024 and 2023, the Company recognized million and million, respectively, of revenues that were included in contract liabilities at the prior year end. 
+ Costs to Obtain a Customer Contract 
+ The Company incurs certain incremental costs to obtain a contract that the Company expects to recover. The Company applies a practical expedient and recognizes the incremental costs of obtaining contracts as an expense when incurred if the amortization period of the assets that the Company otherwise would have recognized is one year or less. The Company capitalizes incremental costs of obtaining contracts where the contract term is greater than one year. These costs would primarily relate to commissions paid to our account executives and are included in selling, general and administrative ("SG A") expenses in the condensed consolidated statements of loss and comprehensive loss for contracts one year or less and other current assets and other non-current assets on the condensed consolidated balance sheets for contracts greater than one year. 
+ Costs to obtain contracts capitalized Amortization of capitalized costs ) ) ) ) Changes due to exchange rates Balance at end of period 
+ Transaction Price Allocated to Remaining Performance Obligations 
+ The Company had remaining performance obligations of approximately million as of September 30, 2024. Our remaining performance obligations represent the amount of transaction price for which work has not been performed and revenue has not been recognized. The Company has applied the optional exemption for contracts that have an original expected duration of one year or less. We expect to recognize our remaining performance obligations as of September 30, 2024 as revenue over the next months. 
+ 
+ Note 3) and ) , respectively, and ) and ) for the nine months ended September 30, 2024 and September 30, 2023, respectively. The effective tax rate in each period differed from the U.S. statutory rate of 21 primarily due to U.S. corporate state income taxation and the effect of foreign 
+ 15 
+
+Table of Contents 
+
+Note 4) Denominator: Weighted average shares outstanding Basic and diluted Basic and diluted loss per common share 
+
+Note 5 
+ Selling, general and administrative expenses (1) Restructuring Total stock-based compensation expense 
+ 16 
+
+Table of Contents 
+
+million expense and a net reversal of million, respectively, related to the CEO transition. 
+ Stock Options 
+ Granted Forfeited ) Exercised ) Cancelled Expired Balance at September 30, 2024 Exercisable at September 30, 2024 
+ As of September 30, 2024, total compensation cost related to time vesting options not yet recognized was million, which will be recognized over a weighted-average period of years. Unless otherwise prohibited by law in local jurisdictions, time vesting options will continue to vest according to the 2017 Stock Option Plan (the "2017 Plan") and the applicable award agreements. 
+ Restricted Stock Units 
+ Granted Forfeited ) Vested (1) ) Unvested balance at September 30, 2024 
+ (1) Includes shares that were net settled when released and returned to the share pool for future grants. 
+ As of September 30, 2024, to tal compensation cost related to RSUs not yet recognized was million, which will be recognized over a weighted-average period of years. 
+ 17 
+
+Table of Contents 
+
+Granted (1) Adjustment for PSUs expected to vest as of current period end ) Forfeited ) Vested Unvested balance at September 30, 2024 
+ (1) Reflects shares granted at 100 . 
+ For compensation expense purposes, the fair value of the non-market-based PSUs was determined using the closing stock price on the grant date and the fair value for the market-based PSUs was determined using a Monte-Carlo simulation. 
+ As of September 30, 2024, total compensation co st related to PSUs not yet recognized was million. The unamortized expense is anticipated to be recognized over a weighted-average period of years. 
+ 
+ Note 6 
+ million and a senior secured revolving credit facility (the "Revolver") of million. 
+ Borrowings under the Term Loan bear interest at a rate per annum equal to an applicable margin based on the Company s leverage ratio, plus either (a) a base rate or (b) the SOFR rate, at the Company's option, subject to interest rate floors. 
+ Borrowings under the Revolver bear interest at a rate per annum equal to an applicable margin based on the Company s leverage ratio, plus either (a) a base rate or (b) the SOFR rate at the Company's option. In addition to paying interest on outstanding borrowings under the Revolver, the Company is required to pay a commitment fee to the lenders under the Revolver in respect of unutilized commitments thereunder and customary letter of credit fees. 
+ Borrowings under Revolver Long-term debt (due March 24, 2028), including current portion (1) Interest rate 
+ 18 
+
+Table of Contents 
+
+Capitalized deferred financing fees ) ) Long-term debt Current portion of long-term debt Total debt carrying value 
+ The Company estimates the fair value of the Term Loan using current market yields. These current market yields are considered Level 2 inputs. The book value of the Company s credit facilities is considered to approximate its fair value as of September 30, 2024 as the interest rates are considered in line with current market rates. The fair value of the Term Loan was million as of December 31, 2023. 
+ 
+ Note 7 
+ Value-added tax and sales tax payable Income taxes payable Restructuring Other accrued expenses Accrued expenses and other current liabilities 
+ (1) The balance includes million related to the proposed Merger. 
+ 
+ Note 8 
+ million to million, with expected additional pre-tax cash charges of million to million. 
+ On August 2, 2024, the Company s Board of Directors approved a second increase to its Reorganization plan to capture additional savings of million to million, for a total Reorganization savings of million to million. Thoughtworks expects to incur additional pre-tax cash charges of approximately million to million, for total expected pre-tax charges of approximately million to million (the Updated 2024 Total Charges ). The Updated 2024 Total Charges include million to million in wage-related expenses, such as employee severance and related benefits, and million to million in non-wage related expenses, including costs related to reducing leased office space, vendor contract cancellations and professional fees. The Reorganization was completed in October 2024 as expected. The Company expects to record an immaterial amount of expense in the fourth quarter of 2024 due to closing out the program and the finalization of certain restructuring expenses, in addition to expense incurred in October related to restructuring actions taken. 
+ 19 
+
+Table of Contents 
+
+Non-wage related expenses Total restructuring costs 
+ The liability as of September 30, 2024 is reflected in accrued expenses and other current liabilities on the condensed consolidated balance sheet. 
+ Charges Payments ) ) ) ) ) ) Non-cash items (1) ) ) ) ) Liability at end of period (1) Non-wage related expenses includes charges related to reducing leased office space. 
+ 20 
+
+Table of Contents 
+
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our interim condensed consolidated financial statements and related notes appearing elsewhere in this Quarterly Report on Form 10-Q and with our audited consolidated financial statements and the related notes included in our 2023 Annual Report. Some of the information contained in this discussion and analysis, including information with respect to our plans and strategy for our business, includes forward-looking statements that involve risks and uncertainties. You should read the sections titled Risk Factors in our 2023 Annual Report and in this Quarterly Report on Form 10-Q and Forward-Looking Statements herein for a discussion of important factors that could cause actual results to differ materially from the results described in or implied by the forward-looking statements contained in the following discussion and analysis. Quarterly results reflected herein are not necessarily indicative of our operating results for a full year or any future period. 
+ 
+ Overview 
+ We are a global technology consultancy that integrates strategy, design and engineering to drive digital innovation. We are 10,491 Thoughtworkers strong across 48 offices in 19 countries. Over the last 30+ years, we have delivered extraordinary impact together with our clients by helping them solve complex business problems with technology as the differentiator. 
+ Our revenues are generated from providing professional services based on the mix and locations of delivery professionals involved, the pricing structure, which is predominantly time-and-materials, and the type of services, including: enterprise modernization, platforms cloud; customer experience, product design; data artificial intelligence; DAMO managed services; and digital transformation operations. 
+ Recent Developments 
+ On August 5, 2024, we announced that we had entered into the Merger Agreement (as defined below) to which affiliates of certain investment funds advised by Apax Partners LLP Apax and such funds, the Apax Funds will purchase all of the outstanding shares of Thoughtworks common stock that they do not already own (subject to certain limited exceptions), for 4.40 per share. The transaction is expected to close in the fourth calendar quarter of 2024, subject to the satisfaction of customary closing conditions. The transaction has been approved by an affiliate of the Apax Funds, in its capacity as the majority stockholder of Thoughtworks, and no other stockholder approval is required. If the transaction is consummated, the shares of our common stock will be delisted from Nasdaq and deregistered under the Securities Exchange Act of 1934, as amended. 
+ Transaction costs for the three and nine months ended September 30, 2024 related to the Merger (as defined below) were 10.2 million and 11.5 million, respectively, of which 11.2 million is included in other current assets and 11.0 million is accrued within accrued expenses and other current liabilities on the condensed consolidated balance sheet as of September 30, 2024. 
+ 21 
+
+Table of Contents 
+
+ Key Operational and Business Metrics 
+ In addition to the measures presented in our condensed consolidated financial statements, we use the following key operational and business metrics to evaluate our business, measure our performance, develop financial forecasts and make strategic decisions (in thousands, except percentages): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenues 261,393 280,159 761,657 874,430 Revenue Growth Rate as reported (1) (6.7) (15.7) (12.9) (11.3) Revenue Growth Rate at constant currency (1) (6.9) (16.6) (12.6) (10.2) Net loss (6,055) (25,852) (73,427) (46,231) Net loss margin (2.3) (9.2) (9.6) (5.3) Adjusted Net Income (Loss) (2) 9,669 11,525 (6,284) 31,697 Adjusted EBITDA (3) 30,659 33,563 43,154 97,763 Adjusted EBITDA Margin (3) 11.7 12.0 5.7 11.2 
+ (1) Revenue Growth Rate as reported is calculated by comparing to the prior year's corresponding period. Certain of our subsidiaries use functional currencies other than the U.S. dollar and the translation of these foreign currency amounts into the U.S. dollar can impact the comparability of our revenues between periods. Accordingly, we use Revenue Growth Rate at constant currency as an important indicator of our underlying performance. Revenue Growth Rate at constant currency is a Non-GAAP measure and is calculated by applying the average exchange rates in effect during the earlier comparative fiscal period to the later fiscal period. 
+ (2) We use Adjusted Net (Loss) Income as an important indicator of our performance. See Non-GAAP Financial Measures below for a definition of and reconciliation of Adjusted Net (Loss) Income to net loss, the most directly comparable GAAP measure, how we use this measure and an explanation of why we consider this non-GAAP measure to be helpful for investors. 
+ (3) We also use Adjusted EBITDA and Adjusted EBITDA Margin as important indicators of our performance. See Non-GAAP Financial Measures below for a definition of and a reconciliation of Adjusted EBITDA to net loss, the most directly comparable GAAP measure, how we use Adjusted EBITDA and Adjusted EBITDA Margin and an explanation of why we consider these non-GAAP measures to be helpful for investors. 
+ Revenue Growth Rate and Revenue Growth Rate at constant currency 
+ For the three and nine months ended September 30, 2024, revenues decreased 6.7 and 12.9 , respectively. The decrease in revenue was due to a more cautionary macroeconomic environment, particularly in the IT services market, combined with incremental project start ups, shorter contract terms, client budget caution and lower headcount. The decrease was also attributable to lower bill rates due to offshore and onshore mix as well as market dynamics, including demand headwinds as clients took actions to reduce spending. Had our consolidated revenues been expressed in constant currency terms using the exchange rates in effect for the three and nine months ended September 30, 2023, we would have reported a decrease in revenues of 6.9 and 12.6 , respectively. The positive impact to revenues from foreign currencies for the three months ended September 30, 2024 was due to the depreciation of the U.S. dollar, and the negative impact to revenues from foreign currencies for the nine months ended September 30, 2024 was due to the appreciation of the U.S. dollar, relative to certain principal functional currencies of our subsidiaries. 
+ For more detail regarding our exposure to foreign currency rate fluctuations, see Note 2, Revenue Recognition , to our condensed consolidated financial statements and Item 3. Quantitative and Qualitative Disclosures About Market Risk. 
+ 22 
+
+Table of Contents 
+
+ Net Loss, Net Loss Margin and Adjusted Net Income (Loss) 
+ For the three months ended September 30, 2024, the 19.8 million decrease in net loss as compared to the three months ended September 30, 2023 was driven by a 19.9 million increase in net realized and unrealized foreign currency gain, a decrease in payroll expense (excluding stock-based compensation) of 13.6 million resulting from a lower headcount, a 6.1 million decrease in stock-based compensation expense (excluding 0.2 million related to the CEO transition), a decrease in professional fees of 2.9 million, a 2.0 million decrease in depreciation and amortization expense (the majority of which is related to depreciation included in cost of revenues) and a 1.2 million decrease in lease expense, partially offset by a decrease in revenue of 18.8 million, as discussed above, an increase in restructuring expense of 6.9 million and an increase in income tax expense of 3.0 million. For the three months ended September 30, 2024, the 6.9 percentage point decrease in net loss margin as compared to the three months ended September 30, 2023 was primarily due to the factors driving a decrease in revenue, as discussed above, paired with net realized and unrealized foreign currency gain and stock-based compensation, partially offset by restructuring expense, as a percentage of revenues. 
+ For the nine months ended September 30, 2024, the 27.2 million increase in net loss as compared to the nine months ended September 30, 2023 was driven by a 112.8 million decrease in revenue, as discussed above, and an increase in restructuring expense of 16.2 million, partially offset by a decrease in payroll expense (excluding stock-based compensation) of 52.3 million resulting from a lower headcount, a 20.8 million decrease in stock-based compensation expense (excluding the net reversal of 0.4 million related to the CEO transition), a 7.3 million decrease in income tax expense, a 6.9 million decrease in professional fees, a 5.9 million decrease in depreciation and amortization expense (the majority of which is related to depreciation included in cost of revenues), a 3.0 million decrease in acquisition costs and a 2.7 million decrease in lease expense. For the nine months ended September 30, 2024, the 4.3 percentage point increase in net loss margin as compared to the nine months ended September 30, 2023 was primarily due to the factors driving a decrease in revenue, as discussed above, paired with payroll expense (excluding stock-based compensation) and restructuring expense, partially offset by stock-based compensation, as a percentage of revenues. 
+ For more information, see Results of Operations. We consider net loss margin as the most directly comparable GAAP measure to Adjusted EBITDA Margin. 
+ For the three months ended September 30, 2024, the decrease in Adjusted Net Income as compared to the three months ended September 30, 2023 of 1.9 million, or 16.1 , was primarily due to a decrease in revenue of 18.8 million, as discussed above, partially offset by decreases in payroll expense (excluding stock-based compensation) of 13.4 million, depreciation and amortization expense of 2.2 million (the majority of which is related to depreciation included in cost of revenues) and lease expense of 1.2 million. 
+ For the nine months ended September 30, 2024, the decrease in Adjusted Net Income as compared to the nine months ended September 30, 2023 of 38.0 million, or 119.8 , was primarily due to a decrease in revenue of 112.8 million, as discussed above, partially offset by decreases in payroll expense (excluding stock-based compensation) of 51.9 million, income tax expense (adjusted to exclude the income tax effect of adjustments) of 10.1 million, depreciation and amortization expense of 6.2 million (the majority of which is related to depreciation included in cost of revenues), professional fees of 4.5 million and lease expense of 2.7 million. 
+ Adjusted EBITDA and Adjusted EBITDA Margin 
+ For the three months ended September 30, 2024, the decrease in Adjusted EBITDA as compared to the three months ended September 30, 2023 of 2.9 million, or 8.7 , was driven by a decrease in revenue of 18.8 million, as discussed above, partially offset by decreases in payroll expense (excluding stock-based compensation) of 13.4 million resulting from a lower headcount, and lease expense of 1.2 million. For the three months ended September 30, 2024, Adjusted EBITDA Margin was relatively flat as compared to the three months ended September 30, 2023. 
+ For the nine months ended September 30, 2024, the decrease in Adjusted EBITDA as compared to the nine months ended September 30, 2023 of 54.6 million, or 55.9 , was driven by a decrease in revenue of 112.8 million, as discussed above, partially offset by decreases in payroll expense (excluding stock-based compensation) of 51.9 million resulting from a lower headcount, professional fees of 4.5 million and lease 
+ 23 
+
+Table of Contents 
+
+ expense of 2.7 million. For the nine months ended September 30, 2024, the decrease in Adjusted EBITDA Margin as compared to the nine months ended September 30, 2023 was primarily due to a decrease in revenue, as discussed above, paired with payroll expense (excluding stock-based compensation), as a percentage of revenues. 
+ 
+ Results of Operations 
+ The following table sets forth a summary of our condensed consolidated results of operations for the periods indicated (in thousands, except percentages): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenues 261,393 280,159 761,657 874,430 Operating expenses: Cost of revenues (1) 169,456 185,985 529,713 591,845 Selling, general and administrative expenses (1) 69,701 81,840 225,747 254,806 Depreciation and amortization 5,588 5,997 16,885 17,413 Restructuring (1) 22,604 15,566 31,931 15,566 Loss from operations (5,956) (9,229) (42,619) (5,200) Other (expense) income: Interest expense (7,059) (6,649) (20,282) (19,661) Net realized and unrealized foreign currency gain (loss) 11,062 (8,813) (5,251) (7,658) Other (expense) income, net 59 43 552 (545) Total other income (expense) 4,062 (15,419) (24,981) (27,864) Loss before income taxes (1,894) (24,648) (67,600) (33,064) Income tax expense 4,161 1,204 5,827 13,167 Net loss (6,055) (25,852) (73,427) (46,231) Effective tax rate (219.7) (4.9) (8.6) (39.8) 
+ (1) Includes stock-based compensation as follows (in thousands): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Cost of revenues 3,719 7,462 14,391 28,688 Selling, general and administrative expenses (1) 3,016 5,344 12,301 19,403 Restructuring 169 169 Total stock-based compensation expense 6,904 12,806 26,861 48,091 
+ (1) The three and nine months ended September 30, 2024 include 0.2 million expense and a net reversal of 0.4 million, respectively, related to the CEO transition. 
+ 24 
+
+Table of Contents 
+
+ Summary Comparison of the Three and Nine Months Ended September 30, 2024 with the Three and Nine Months Ended September 30, 2023 
+ Revenues 
+ We have a global footprint with the ability to deliver services from multiple geographic regions. While we continue to derive a substantial part of our overall revenues from existing clients, we maintain relatively low client concentration among our largest clients. We remain focused on acquiring new clients through programs designed to generate new business demand and position us as a trusted partner, and we have dedicated new business teams working with marketing using data-driven approaches to focus on client acquisition efforts. 
+ The following table presents our number of clients, number of clients generating greater than 10 million in revenues and net dollar retention rate: 
+ Trailing twelve months ended September 30, 2024 September 30, 2023 Number of clients (1) 513 466 Number of clients generating greater than 10 million in revenues 
+ 28 34 Net dollar retention rate (2) 84 94 
+ (1) We define clients as those with spend in excess of 25,000 within the preceding twelve months. 
+ (2) The net dollar retention rate is calculated by dividing (a) the current period revenue from existing clients by (b) the prior comparative period revenue from the same existing clients. We utilize the net dollar retention rate to measure revenue growth from our clients. Net dollar retention rate provides visibility into the risks associated with our revenues and expected growth, and it measures our ability to continually offer and deliver innovative services to our clients. We use this metric to appropriately manage resources and client retention and growth, such as account management and capability development of our account leadership teams. The decrease was due to the revenue drivers as discussed above. 
+ The following table presents the percentage of revenues from new and existing clients: 
+ Three Months Ended September 30, Nine Months Ended September 30, Trailing Twelve Months Ended September 30, 
+ 2024 2023 2024 2023 2024 2023 Existing clients (1) 90.1 92.3 94.1 94.6 92.2 93.3 New clients 9.9 7.7 5.9 5.4 7.8 6.7 
+ (1) For the three months ended September 30, 2024 and 2023, we define existing clients as clients for whom we have done work and generated revenues in excess of 25,000 within the preceding fiscal year. For the trailing twelve months ended September 30, 2024 and 2023, we define existing clients as clients for whom we have done work and generated revenues in excess of 25,000 within the preceding twelve months. 
+ During the three and nine months ended September 30, 2024, we contracted with 49 and 139, respectively, new logos with a higher number of new logo additions within the energy, public and health services and technology and business services industry verticals. 
+ 25 
+
+Table of Contents 
+
+ Revenues by Industry Vertical 
+ The following table presents our revenues by industry vertical and revenues as a percentage of total revenues by industry vertical for the periods indicated (in thousands, except percentages): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Technology and business services 67,203 25.7 70,612 25.2 196,692 25.8 214,440 24.5 Energy, public and health services 67,059 25.7 71,662 25.6 193,611 25.4 231,014 26.4 Retail and consumer 44,663 17.1 44,663 15.9 126,281 16.6 137,060 15.7 Financial services and insurance 35,603 13.6 46,447 16.6 111,686 14.7 154,380 17.7 Automotive, travel and transportation 46,865 17.9 46,775 16.7 133,387 17.5 137,536 15.7 Total revenues 261,393 100.0 280,159 100.0 761,657 100.0 874,430 100.0 
+ The following table presents the percentage change in our revenues by industry vertical (in thousands, except percentages): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change 2024 2023 Change Technology and business services 67,203 70,612 (4.8) 196,692 214,440 (8.3) Energy, public and health services 67,059 71,662 (6.4) 193,611 231,014 (16.2) Retail and consumer 44,663 44,663 126,281 137,060 (7.9) Financial services and insurance 35,603 46,447 (23.3) 111,686 154,380 (27.7) Automotive, travel and transportation 46,865 46,775 0.2 133,387 137,536 (3.0) Total revenues 261,393 280,159 (6.7) 761,657 874,430 (12.9) 
+ Revenues by Customer Location 
+ Our revenues are sourced from four geographic markets: North America, Asia-Pacific region ("APAC"), Europe and Latin America ("LATAM"). We present and discuss our revenues by the geographic location where the revenues are under client contract; however, the delivery of those client contracts could be supported by offshore delivery locations. 
+ During the first quarter of 2024, in connection with the Reorganization (as defined below), the Company updated the disaggregation of revenue by customer location to reflect the geographical market based on contracting location, consistent with client ownership within our geographical markets, versus billing location, as previously reported. All corresponding disclosures and historical amounts, including revenue by country noted below, have been recast to reflect the change. 
+ 26 
+
+Table of Contents 
+
+ The following table presents our revenues by customer location and revenues as a percentage of total revenues by customer location for the periods indicated (in thousands, except percentages): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 North America 92,039 35.2 105,241 37.6 269,094 35.3 327,871 37.5 APAC 91,185 34.9 97,247 34.7 266,993 35.1 293,411 33.5 Europe 66,149 25.3 63,228 22.6 191,415 25.1 207,775 23.8 LATAM 12,020 4.6 14,443 5.1 34,155 4.5 45,373 5.2 Total revenues 261,393 100.0 280,159 100.0 761,657 100.0 874,430 100.0 
+ The following table presents the percentage change in our revenues by customer location (in thousands, except percentages): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change 2024 2023 Change North America (1) 92,039 105,241 (12.5) 269,094 327,871 (17.9) APAC (2) 91,185 97,247 (6.2) 266,993 293,411 (9.0) Europe (3) 66,149 63,228 4.6 191,415 207,775 (7.9) LATAM (4) 12,020 14,443 (16.8) 34,155 45,373 (24.7) Total revenues 261,393 280,159 (6.7) 761,657 874,430 (12.9) 
+ (1) For the three and nine months ended September 30, 2024, the United States contributed revenues of 84.9 million and 247.2 million, respectively, compared to 98.2 million and 302.8 million, respectively, for the same respective periods in 2023. The largest revenue contribution in North America came from the energy, public and health services industry vertical. 
+ (2) For the three and nine months ended September 30, 2024, the top revenue contributing country was Australia with revenues of 31.6 million and 93.0 million, respectively, compared to 29.8 million and 94.2 million, respectively, for the same respective periods in 2023. The largest revenue contribution in APAC came from the technology and business services and financial services and insurance industry verticals. 
+ (3) For the three and nine months ended September 30, 2024, the top revenue contributing country was Germany with revenues of 34.0 million and 99.6 million, respectively, compared to 34.0 million and 102.8 million, respectively, for the same respective periods in 2023. The largest revenue contribution in Europe came from the automotive, travel and transportation industry vertical. 
+ (4) The top revenue contributing country was Brazil. The largest revenue contribution in LATAM came from the retail and consumer industry vertical. 
+ Revenues by Client Concentration 
+ We have long-standing relationships with many of our clients. We seek to grow revenues from our existing clients by continually increasing the value we provide and expanding the scope and size of our engagements. Revenues derived from these clients may fluctuate as these accounts mature or upon beginning or completing multi-year projects. We believe there is significant potential for future growth as we expand our capabilities and offerings within existing clients. In addition, we remain committed to diversifying our client base and adding new clients to our client mix. 
+ 27 
+
+Table of Contents 
+
+ The following table presents revenues contributed by our largest clients by amount and as a percentage of total revenues for the periods indicated (in thousands, except percentages): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Top five clients 45,901 17.6 53,533 19.1 132,151 17.4 154,817 17.7 Top ten clients 73,515 28.1 82,250 29.4 212,461 27.9 239,255 27.4 Top fifty clients 176,383 67.5 188,200 67.2 509,169 66.9 579,196 66.2 
+ People Metrics 
+ Number of employees Average revenue per employee (1) Trailing Twelve Months Voluntary Attrition As of Nine Months Ended Annualized as of As of September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 10,491 11,058 72,000 74,000 96,000 99,000 14.6 12.2 
+ (1) We define average revenue per employee as total revenues for the period divided by the average number of employees in such period. 
+ The decrease in average revenue per employee compared to the nine months ended September 30, 2023 was driven by the negative impact to revenues from client budget caution and onshore/offshore mix. We believe our low voluntary attrition reflects our ability to retain our employees due to our unique, cultivating culture, our focus on career development, our intensive training programs and our interesting work opportunities. 
+ Bookings 
+ We use Bookings ("Bookings") as a forward-looking metric that measures the value of new contracts, renewals, extensions and changes to existing contracts during the fiscal period. We believe Bookings provides a broad measure of useful trend information regarding changes in the volume of our business. We use Bookings to evaluate the results of our operations, generate future operating plans and assess the performance of our company. However, Bookings can vary significantly quarter to quarter due to both timing and demand from our clients and thus the conversion of Bookings to revenues is uncertain. The amount of Bookings involves estimates and judgments and is not a reliable predictor of revenues over time. There is no standard definition or measurement of Bookings thus our methodology may not be comparable to other companies. Bookings were 1.3 billion and 1.4 billion for the trailing twelve months ended September 30, 2024 and 2023, respectively. The 7.1 decrease is primarily a result of reduced client budgets reflecting caution around the macroeconomic environment and smaller contract sizes which reflect a shift to offshore services, where bill rates are lower compared to onshore work, and, in certain cases, discounts or pricing adjustments. 
+ Cost of Revenues 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands, except percentages) Cost of revenues 169,456 185,985 (16,529) (8.9) 529,713 591,845 (62,132) (10.5) 
+ During the three and nine months ended September 30, 2024, cost of revenues (including stock-based compensation) decreased (8.9) and (10.5) , respectively, compared to the three and nine months ended 
+ 28 
+
+Table of Contents 
+
+ September 30, 2023. The decrease for the three months ended September 30, 2024 compared to the three months ended September 30, 2023 was driven by a decrease in payroll expense (excluding stock-based compensation) of 10.9 million, a decrease in stock-based compensation expense of 3.7 million and a decrease in depreciation and amortization expense of 1.6 million. The decrease for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 was driven by a decrease in payroll expense (excluding stock-based compensation) of 42.1 million, a decrease in stock-based compensation expense 14.3 million and a decrease in depreciation and amortization expense of 5.3 million. 
+ Gross Profit and Gross Margin 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands, except percentages) Gross profit 91,937 94,174 (2,237) (2.4) 231,944 282,585 (50,641) (17.9) Gross margin 35.2 33.6 30.5 32.3 
+ Our gross margin increased by 1.6 percentage points for the three months ended September 30, 2024 compared to the three months ended September 30, 2023 primarily due to stock-based compensation expense, as a percentage of revenues. Our gross margin decreased by 1.8 percentage points for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 primarily due to payroll expense (excluding stock-based compensation), partially offset by stock-based compensation expense, as a percentage of revenues. 
+ SG A Expenses and SG A Margin 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands, except percentages) SG A expenses 69,701 81,840 (12,139) (14.8) 225,747 254,806 (29,059) (11.4) SG A margin 26.7 29.2 29.6 29.1 
+ For the three months ended September 30, 2024, SG A expenses decreased 14.8 compared to the three months ended September 30, 2023. The decrease was primarily due to decreases in professional fees of 3.8 million, payroll expense (excluding stock-based compensation) of 2.7 million, stock-based compensation expense of 2.6 million (excluding 0.2 million related to the CEO transition), lease expense of 1.2 million, office expense of 0.9 million and acquisition costs of 0.9 million. The decrease in SG A margin for the three months ended September 30, 2024 compared to the three months ended September 30, 2023 was primarily driven by professional fees and stock-based compensation, as a percentage of revenues. 
+ For the nine months ended September 30, 2024, SG A expenses decreased 11.4 compared to the nine months ended September 30, 2023. The decrease was driven by decreases in payroll expense (excluding stock-based compensation) of 10.2 million, stock-based compensation expense of 6.7 million (excluding the net reversal of 0.4 million related to the CEO transition), professional fees of 5.9 million, acquisition costs of 3.0 million, lease expense of 2.7 million and office expense of 1.8 million. The increase in SG A margin for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 was primarily driven by payroll expense (excluding stock-based compensation), partially offset by stock-based compensation, as a percentage of revenues. 
+ 29 
+
+Table of Contents 
+
+ Depreciation and Amortization 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands, except percentages) Depreciation and amortization 5,588 5,997 (409) (6.8) 16,885 17,413 (528) (3.0) 
+ There was a non-material change in depreciation and amortization for the three and nine months ended September 30, 2024 as compared to the three and nine months ended September 30, 2023, respectively. 
+ Restructuring 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands, except percentages) Restructuring 22,604 15,566 7,038 45.2 31,931 15,566 16,365 105.1 
+ Restructuring includes non-wage related expenses of 1.5 million and 3.6 million and wage-related expenses of 21.1 million and 28.3 million for the three and nine months ended September 30, 2024, respectively. Restructuring includes wage-related expenses of 15.4 million and non-wage related expenses of 0.2 million for the three and nine months ended September 30, 2023, respectively. Non-wage related expenses include costs related to reducing leased office space, vendor contract cancellations, professional fees and other reorganization costs. Wage-related expenses include employee severance and related benefits. 
+ Loss from Operations and Loss from Operations Margin 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands, except percentages) Loss from operations (5,956) (9,229) 3,273 (35.5) (42,619) (5,200) (37,419) 719.6 Loss from operations margin (2.3) (3.3) (5.6) (0.6) 
+ The decrease in loss from operations for the three months ended September 30, 2024 compared to the three months ended September 30, 2023 was primarily driven by a decrease in revenue of 18.8 million and an increase in restructuring expense of 6.9 million; partially offset by decreases in payroll expense (excluding stock-based compensation) of 13.6 million, stock-based compensation expense of 6.1 million (excluding 0.2 million related to the CEO transition), professional fees of 2.9 million and depreciation and amortization expense (the majority of which is related to depreciation included in cost of revenues) of 2.0 million. The decrease in loss from operations margin was driven by restructuring expense, partially offset by stock-based compensation expense, as a percentage of revenues. 
+ 30 
+
+Table of Contents 
+
+ The increase in loss from operations for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 was primarily driven by a decrease in revenues of 112.8 million and an increase in restructuring expense of 16.2 million; partially offset by decreases in payroll expense (excluding stock-based compensation) of 52.3 million, stock-based compensation expense of 20.8 million (excluding the net reversal of 0.4 million related to the CEO transition), professional fees of 6.9 million, depreciation and amortization expense of 5.9 million (the majority of which is related to depreciation included in cost of revenues), acquisition costs of 3.0 million and lease expense of 2.7 million. The increase in loss from operations margin was driven by payroll expense (excluding stock-based compensation) and restructuring expense, partially offset by stock-based compensation expense, as a percentage of revenues. 
+ Interest Expense 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands, except percentages) Interest expense 7,059 6,649 410 6.2 20,282 19,661 621 3.2 
+ Interest expense is primarily related to our Term Loan and Revolver. There was a non-material change in interest expense for the three and nine months ended September 30, 2024 compared to the three and nine months ended September 30, 2023, respectively. 
+ Net realized and unrealized foreign currency gain (loss) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands, except percentages) Net realized and unrealized foreign currency gain (loss) 11,062 (8,813) 19,875 (225.5) (5,251) (7,658) 2,407 (31.4) 
+ Unrealized foreign currency gains or losses arise from the remeasurement of intercompany balances related to foreign-currency transactions using the period-end exchange rate. Realized foreign currency gains or losses arise at the settlement date of foreign currency transactions and reflect the difference between the rate effective at the settlement date and the historical rate at which the transaction was originally recorded. 
+ The change for the three months ended September 30, 2024 compared to the three months ended September 30, 2023 was driven by a 20.9 million increase in unrealized foreign currency gains due to favorable changes in foreign currency exchange rates primarily in the United Kingdom, Brazil, India, Thailand, Germany and China. 
+ The change for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 was driven by a 4.7 million decrease in unrealized foreign currency loss due to favorable changes in foreign currency exchange rates primarily in India, China, Singapore, Thailand and Germany partially offset by unfavorable changes in foreign currency exchange rates in Brazil. This was partially offset by a 2.3 million increase in realized foreign currency loss primarily in the United Kingdom and India. 
+ 31 
+
+Table of Contents 
+
+ Other Expense (Income), Net 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands, except percentages) Other expense (income), net (59) (43) (16) 37.2 (552) 545 (1,097) (201.3) 
+ There was a non-material change in other expense (income), net for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The change in other expense (income), net for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 was primarily due to the write-off of deferred financing fees related to the voluntary debt prepayment in 2023. 
+ Income Tax Expense and Effective Tax Rate 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands, except percentages) Income tax expense 4,161 1,204 2,957 245.6 5,827 13,167 (7,340) (55.7) Effective tax rate (219.7) (4.9) (8.6) (39.8) 
+ See Note 3 , Income Taxes, to our condensed consolidated financial statements included in Part I, Item I of this Quarterly Report for additional discussion around forecasting uncertainties related to our income tax rate. 
+ Income tax expense increased by 3.0 million and decreased by 7.3 million for the three and nine months ended September 30, 2024 as compared to the three and nine months ended September 30, 2023, respectively, primarily due to the change in loss before income taxes. 
+ The effective tax rate in each period differed from the U.S. statutory tax rate of 21 principally due to U.S. corporate state income taxation and the effect of foreign operations which reflects the impact of different income tax rates in locations outside the United States, the unfavorable impact of valuation allowances on deferred tax assets of select foreign and U.S. operations, the unfavorable impact of providing for and settling of unrecognized tax benefits, the unfavorable impact of capitalized research and experimental costs under IRC 174 increasing the Company's net GILTI inclusion, the non-deductibility of China SAFE RSUs, the unfavorable impact of excess tax deficiencies on stock-based compensation, offset by the favorable impact of IRC 41 research credits. The change in and the negative effective tax rate for the three and nine months ended September 30, 2024 and September 30, 2023, as compared to the prior periods, is a result of the aforementioned net unfavorable items when compared to the pre-tax loss recorded for the respective periods. 
+ Foreign Currency Exchange Gains and Losses 
+ See Item 3. Quantitative and Qualitative Disclosures About Market Risk included elsewhere in this Quarterly Report as well as Item 1A. Risk Factors Risks Related to Our Global Operations Our business, financial condition and results of operations may be adversely affected by fluctuations in foreign currency exchange rates" as included in our 2023 Annual Report . 
+ 32 
+
+Table of Contents 
+
+ Non-GAAP Financial Measures 
+ We define Adjusted Net Income (Loss) as net loss adjusted for unrealized (gain) loss on foreign currency exchange, stock-based compensation expense, amortization of acquisition-related intangibles, acquisition costs, certain professional fees that are considered unrelated to our ongoing revenue-generating operations, employer payroll related expense on employee equity incentive plan, the change in fair value of contingent consideration, restructuring costs, CEO transition costs and income tax effects of adjustments. 
+ We define Adjusted EBITDA as net loss adjusted to exclude income tax expense; interest expense; other (income) expense, net, excluding an unrealized gain/loss related to the mark to market adjustment on shares received in relation to the sale and settlement of trade receivables; unrealized (gain) loss on foreign currency exchange; stock-based compensation expense; depreciation and amortization expense; acquisition costs; certain professional fees that are considered unrelated to our ongoing revenue-generating operations; employer payroll related expense on employee equity incentive plan; restructuring costs; and CEO transition costs. Adjusted EBITDA Margin is calculated by dividing Adjusted EBITDA by total revenues. 
+ We use Adjusted EBITDA, Adjusted EBITDA Margin and Adjusted Net Income (Loss) as measures of operating performance and the operating leverage in our business. We believe that these non-GAAP financial measures are useful to investors for supplemental period-to-period comparisons of our business and in understanding and evaluating our operating results for the following reasons: 
+ Our management uses Adjusted Net Income (Loss) to assess our overall performance, without regard to items that are considered to be unique or non-recurring in nature or otherwise unrelated to our ongoing revenue-generating operations, net of the income tax effect of the adjustments; 
+ Adjusted EBITDA and Adjusted EBITDA Margin are widely used by investors and securities analysts to measure a company s operating performance without regard to the aforementioned adjustments which can vary substantially from company to company depending upon their financing, capital structures, and the method by which assets were acquired or costs that are unique or non-recurring in nature or otherwise unrelated to our ongoing revenue-generating operations; 
+ Our management uses Adjusted Net Income (Loss), Adjusted EBITDA and Adjusted EBITDA Margin in conjunction with financial measures prepared in accordance with GAAP for planning purposes, including the preparation of our annual operating budget, as a measure of our core operating results and the effectiveness of our business strategy, and in evaluating our financial performance; and 
+ Adjusted Net Income (Loss), Adjusted EBITDA and Adjusted EBITDA Margin provide consistency and comparability with our past financial performance, facilitate period-to-period comparisons of our core operating results, and also facilitate comparisons with other peer companies, many of which use similar non-GAAP financial measures to supplement their GAAP results. 
+ Adjusted Net Income (Loss), Adjusted EBITDA and Adjusted EBITDA Margin have limitations as analytical tools, and you should not consider these measures in isolation or as substitutes for analysis of our financial results as reported under GAAP. Some of these limitations are, or may in the future be, as follows: 
+ Although depreciation and amortization expense is a non-cash charge, the assets being depreciated and amortized may have to be replaced in the future, and Adjusted EBITDA and Adjusted EBITDA Margin do not reflect cash capital expenditure requirements for such replacements or for new capital expenditure requirements; 
+ Adjusted Net Income (Loss), Adjusted EBITDA and Adjusted EBITDA Margin exclude stock-based compensation expense, which has recently been, and will continue to be for the foreseeable future, a significant recurring non-cash expense for our business and an important part of our compensation strategy; 
+ Adjusted Net Income (Loss), Adjusted EBITDA and Adjusted EBITDA Margin do not reflect changes in, or cash requirements for, our working capital needs; 
+ Adjusted EBITDA and Adjusted EBITDA Margin do not reflect (i) interest expense, or the cash requirements necessary to service interest or principal payments on our debt, which reduces cash available to us; or (ii) accruals or tax payments that may represent a reduction in cash available to us; 
+ Adjusted Net Income (Loss), Adjusted EBITDA and Adjusted EBITDA Margin do not reflect transaction costs related to acquisitions; and 
+ 33 
+
+Table of Contents 
+
+ The expenses and other items that we exclude in our calculations of Adjusted Net Income (Loss), Adjusted EBITDA and Adjusted EBITDA Margin may differ from the expenses and other items, if any, that other companies may exclude from similarly-titled non-GAAP measures when they report their operating results, and we may, in the future, exclude other significant, unusual or non-recurring expenses or other items from these financial measures. 
+ Because of these limitations, Adjusted Net Income (Loss), Adjusted EBITDA and Adjusted EBITDA Margin should be considered along with other financial performance measures presented in accordance with GAAP. 
+ The following tables present a reconciliation of Adjusted Net Income (Loss), Adjusted EBITDA and Adjusted EBITDA Margin to their most directly comparable financial measure prepared in accordance with GAAP, for the periods indicated (in thousands, except percentages): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net loss (6,055) (25,852) (73,427) (46,231) Unrealized foreign exchange (gain) loss (10,691) 10,223 4,814 9,488 Stock-based compensation (a) 6,503 12,806 27,109 48,091 Amortization of acquisition-related intangibles 3,829 3,656 11,268 10,916 Acquisition costs (b) 656 1,533 2,365 5,339 Certain professional fees (c) (911) 2,051 1,392 3,801 Employer payroll related expense on employee equity incentive plan (d) 89 264 353 755 Change in fair value of contingent consideration (e) 129 Restructuring (f) 22,604 15,566 31,931 15,566 CEO transition costs (g) 232 1,334 Income tax effects of adjustments (h) (6,587) (8,722) (13,423) (16,157) Adjusted Net Income (Loss) 9,669 11,525 (6,284) 31,697 
+ 34 
+
+Table of Contents 
+
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net loss (6,055) (25,852) (73,427) (46,231) Income tax expense 4,161 1,204 5,827 13,167 Interest expense 7,059 6,649 20,282 19,661 Other (income) expense, net (i) (119) (28) (334) 759 Unrealized foreign exchange (gain) loss (10,691) 10,223 4,814 9,488 Stock-based compensation (a) 6,503 12,806 27,109 48,091 Depreciation and amortization 7,131 9,147 21,508 27,367 Acquisition costs (b) 656 1,533 2,365 5,339 Certain professional fees (c) (911) 2,051 1,392 3,801 Employer payroll related expense on employee equity incentive plan (d) 89 264 353 755 Restructuring (f) 22,604 15,566 31,931 15,566 CEO transition costs (g) 232 1,334 Adjusted EBITDA 30,659 33,563 43,154 97,763 Net loss margin (2.3) (9.2) (9.6) (5.3) Adjusted EBITDA Margin 11.7 12.0 5.7 11.2 
+ (a) The three and nine months ended September 30, 2024 exclude 0.2 million expense and a net reversal of 0.4 million, respectively, related to the CEO transition which is included in the CEO transition costs line. The three and nine months ended September 30, 2024 also exclude 0.2 million related to the restructuring which is included in the restructuring line. 
+ (b) Adjusts for certain professional fees and retention wage expenses related to certain acquisitions. 
+ (c) Adjusts for certain one-time professional fees. During the third quarter of 2024, the Company capitalized 1.3 million in costs related to the proposed take-private transaction. 
+ (d) Adjusts for employer payroll related expense on employee equity incentive plan as these expenses are tied to the exercise or vesting of underlying equity awards and the price of our common stock at the time of vesting or exercise. As a result, these expenses may vary in any particular period independent of the financial and operating performance of our business. 
+ (e) Adjusts for the non-cash adjustment to the fair value of contingent consideration. 
+ (f) Adjusts for restructuring costs which include wage-related expenses, such as employee severance and related benefits, and non-wage related expenses, including costs related to reducing leased office space, vendor contract cancellations, professional fees, and other reorganization costs. 
+ (g) Adjusts for CEO transition costs which consists solely of stock compensation expense for the three months ended September 30, 2024 and includes 1.0 million of severance, 0.5 million target bonus and 0.2 million salary paid during the transition period, partially offset by a 0.4 million net reversal of stock compensation expense for the nine months ended September 30, 2024. 
+ (h) Adjusts for the income tax effects of the foregoing adjusted items, determined under the discrete method consistent with our non-GAAP measures of profitability. 
+ (i) Excludes an unrealized gain/loss related to the mark to market adjustment on shares received in relation to the sale and settlement of trade receivables which was included within other income (expense), net in the condensed consolidated statements of loss and comprehensive loss. 
+ 35 
+
+Table of Contents 
+
+ Liquidity and Capital Resources 
+ The following table summarizes certain key measures of our liquidity and capital resources (in thousands): 
+ September 30, 2024 December 31, 2023 Cash and cash equivalents 46,956 100,305 Availability under Revolver 300,000 300,000 Borrowings under Revolver Long-term debt, including current portion (1) 288,176 293,185 
+ (1) The balance includes deferred financing fees. A reconciliation of gross to net amounts is presented in Note 6, Credit Agreements . 
+ Our cash generated from operations has been our primary source of liquidity to fund operations and investments. Our capital investments focus on our technology solutions, corporate infrastructure and strategic acquisitions to further expand into new business sectors and/or expand sales in existing sectors. The Company generates sufficient cash flows for working capital and expects to do so for the foreseeable future. 
+ As of September 30, 2024, our principal sources of liquidity were cash and cash equivalents of 47.0 million and 300.0 million of available borrowings under our Revolver. 
+ In the future, we may enter into arrangements to acquire or invest in complementary businesses, services and technologies, or intellectual property rights. To fund these acquisitions or investments, we may seek to access the debt or capital markets. Our ability to obtain additional funding will be subject to various factors, including general market conditions, our operating performance, the market s perception of our growth potential, lender sentiment and our ability to incur additional debt in compliance with our contractual restrictions, including those in our Credit Agreement. 
+ Our Credit Facilities 
+ Our subsidiaries are party to the Credit Agreement. The Credit Agreement provides for a Term Loan and the Revolver. See Note 12, Credit Agreements , in the notes to our consolidated financial statements included in the 2023 Annual Report for a discussion of our Term Loan and Revolver as well as Note 6, Credit Agreements , to our condensed consolidated financial statements with respect to this Quarterly Report. As of September 30, 2024, we had 290.0 million outstanding, gross of deferred financing fees, under our Term Loan with an interest rate of 7.7 and no borrowings outstanding under the Revolver. 
+ The Credit Agreement requires compliance with certain covenants customary for agreements of this type. As of September 30, 2024, we were in compliance with our debt covenants. 
+ Cash Flows 
+ The following table shows a summary of our cash flows for the periods indicated (in thousands): 
+ Nine Months Ended September 30, 2024 2023 Net cash (used in) provided by: Operating activities (31,889) 36,598 Investing activities (11,711) (22,013) Financing activities (7,245) (118,008) Effect of exchange rate changes on cash, cash equivalents and restricted cash (2,149) (3,395) Net decrease in cash, cash equivalents and restricted cash (52,994) (106,818) 
+ 36 
+
+Table of Contents 
+
+ Operating Activities 
+ Net cash used in operating activities during the nine months ended September 30, 2024 was 31.9 million comprised of net loss of 73.4 million, adjusted for non-cash items including 26.9 million of stock-based compensation expense, 21.5 million of depreciation and amortization and 13.0 million deferred income tax benefit. Cash used in operating activities during the nine months ended September 30, 2024 was further benefited by the change in trade receivables of 4.7 million offset by the change in unbilled receivables of 5.5 million and the 7.4 million change in accrued expenses and other liabilities driven by a decrease in deferred revenue of 7.8 million. 
+ Net cash provided by operating activities during the nine months ended September 30, 2023 was 36.6 million comprised of net loss of 46.2 million, adjusted for non-cash items including 48.1 million of stock-based compensation expense and 27.4 million of depreciation and amortization. Cash provided by operating activities during the nine months ended September 30, 2023 was further benefited by the change in trade receivables of 43.8 million, offset by the change in unbilled receivables of 22.3 million and the change in accrued expenses and other liabilities of 13.2 million driven by the payment of tax installments. 
+ Cash provided by operating activities can be significantly impacted by the timing of cash receipts from customers and payments to vendors as well as vendor payment terms. 
+ Investing Activities 
+ Net cash used in investing activities during the nine months ended September 30, 2024 was 11.7 million driven primarily by the purchase of property and equipment and the acquisition of a technology asset. 
+ Net cash used in investing activities during the nine months ended September 30, 2023 was 22.0 million driven primarily by the acquisition of Itoc in the first quarter of 2023. 
+ Financing Activities 
+ Net cash used in financing activities during the nine months ended September 30, 2024 was 7.2 million driven by the payment of withholding taxes of 4.2 million related to net share settlement of equity awards and the repayment of long-term debt of 5.4 million, partially offset by 2.8 million of proceeds from the issuance of common stock on exercise of options. 
+ Net cash used in financing activities during the nine months ended September 30, 2023 was 118.0 million driven primarily by the repayment of long-term debt of 105.4 million and 14.0 million related to the contingent consideration payment. 
+ 
+ Contractual Obligations and Future Capital Requirements 
+ Contractual Obligations 
+ Refer to Note 8, Leases, of the notes to our consolidated financial statements included in Part II, Item 8 of the 2023 Annual Report for additional information related to our lease commitments. 
+ There were no material changes in our contractual obligations and commitments during the nine months ended September 30, 2024 from the contractual obligations and commitments disclosed in the 2023 Annual Report. 
+ Except as disclosed in Our Credit Facilities and those mentioned above, we did not have other material contractual obligations for cash expenditures. 
+ Future Capital Requirements 
+ We believe that our existing cash and cash equivalents combined with our expected cash flow from operations will be sufficient to meet our projected operating and capital expenditure requirements for at least the next twelve months and that we possess the financial flexibility to execute our strategic objectives, including the ability to make acquisitions and strategic investments in the foreseeable future. However, our 
+ 37 
+
+Table of Contents 
+
+ ability to generate cash is subject to our performance, general economic conditions, industry trends and other factors, and due to our global operations, the value of cash generated may be adversely affected by fluctuations in foreign currency exchange rates. To the extent that existing cash and cash equivalents and operating cash flow are insufficient to fund our future activities and requirements, we may need to raise additional funds through public or private equity or debt financing. If we incur new debt, the debt holders would have rights senior to common stockholders to make claims on our assets, and the terms of any debt could restrict our operations, including our ability to pay dividends on our common stock. If we issue additional equity or convertible debt securities, existing stockholders may experience dilution, and such new securities could have rights senior to those of our common stock. These factors may make the timing, amount, terms and conditions of additional financings unattractive. Our inability to raise capital could impede our growth or otherwise require us to forego growth opportunities and could materially adversely affect our business, financial condition and results of operations. There is no assurance that we would be able to raise additional funds on favorable terms or at all. 
+ Commitments and Contingencies 
+ Certain conditions may exist as of the date of the condensed consolidated financial statements which may result in a loss to the Company but will only be resolved when one or more future events occur or fail to occur. Such liabilities for loss contingencies arising from claims, assessments, litigation, fines, penalties and other sources, are recorded when the Company assesses that it is probable that a future liability has been incurred and the amount can be reasonably estimated. Recoveries of costs from third parties, which the Company assesses as being probable of realization, are recorded to the extent of related contingent liabilities accrued. Legal costs incurred in connection with matters relating to contingencies are expensed in the period incurred. The Company records gain contingencies when realized. 
+ 
+ Off-Balance Sheet Arrangements 
+ We did not have during any of the periods presented, and we do not currently have, any off-balance sheet financing arrangements or any relationships with unconsolidated entities or financial partnerships, including entities sometimes referred to as structured finance or special purpose entities, that were established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. 
+ 
+ Recent Accounting Pronouncements 
+ See Note 1, Business and Summary of Significant Accounting Policies , in the notes to our condensed consolidated financial statements included in Part I, Item I of this Quarterly Report for a discussion of recent accounting pronouncements. 
+ 
+ Critical Accounting Policies and Estimates 
+ Our condensed consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report are prepared in accordance with GAAP. In preparing the condensed consolidated financial statements, we make estimates and judgments that affect the reported amounts of assets, liabilities, stockholders equity, revenues, expenses and related disclosures. We re-evaluate our estimates on an on-going basis. Our estimates are based on historical experience and on various other assumptions that we believe to be reasonable under the circumstances. Because of the uncertainty inherent in these matters, actual results may differ from these estimates and could differ based upon other assumptions or conditions. 
+ Other than the items disclosed below, there have been no other material changes to our critical accounting policies and estimates as compared to those described in Management s Discussion and Analysis of Financial Condition and Results of Operations set forth in our 2023 Annual Report. 
+ Stock-Based Compensation 
+ The Company no longer considers stock-based compensation a critical accounting estimate as there is an immaterial amount of unvested awards related to grants prior to the initial public offering. 
+ 38 
+
+Table of Contents 
+
+ Goodwill 
+ Goodwill represents the excess of the aggregate of the consideration transferred and the fair value of any non-controlling interest recognized, if any, over the fair value of identifiable assets acquired and liabilities assumed in a business combination. 
+ We review goodwill for impairment annually or whenever events or changes in circumstances indicate the carrying amount of the asset may not be recoverable. In conducting our annual goodwill impairment test, we first review qualitative factors to determine whether it is more likely than not that the fair value of the asset is less than its carrying amount. If factors indicate that the fair value of the asset is less than its carrying amount, we perform a quantitative impairment assessment of the asset, analyzing the expected present value of future cash flows to quantify the amount of impairment, if any. We perform our annual impairment tests in the fourth quarter of each fiscal year. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ We are exposed to certain market risks in the ordinary course of our business. These risks primarily result from changes in concentration of credit, interest rates and foreign currency exchange rates. In addition, our international operations are subject to risks related to differing economic conditions, civil unrest, political instability or uncertainty, military activities, broad-based sanctions, differing tax structures, and other regulations and restrictions. 
+ There were no material changes to the information on market risk disclosure from our 2023 Annual Report. 
+ 
+ Item 4. Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ Our management, with the participation of our principal executive officer and principal financial officer, has evaluated the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended, the "Exchange Act"), as of the end of the period covered by this Quarterly Report. 
+ Based on such evaluation, our principal executive officer and principal financial officer have concluded that as of such date, our disclosure controls and procedures are designed to, and are effective to, provide assurance at a reasonable level that the information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in SEC rules and forms, and that such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosures. 
+ Changes in Internal Control Over Financial Reporting 
+ There were no changes in our internal control over financial reporting (identified in management's evaluation pursuant to Rules 13a-15(d) and 15d-15(d) under the Exchange Act) that occurred during the period covered by this Quarterly Report that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ Limitations on the Effectiveness of Controls and Procedures 
+ In designing and evaluating the disclosure controls and procedures and internal control over financial reporting, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures and internal control over financial reporting must reflect the fact that there are resource constraints and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Over time, controls may become inadequate because of changes in conditions, or the 
+ 39 
+
+degree of compliance with the policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+ 40 
+
+Table of Contents 
+
+ PART II. OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+ From time to time, we may be involved in litigation relating to claims arising out of our operations and businesses that cover a wide range of matters, including, among others, intellectual property, data privacy and cybersecurity, contract and employment, personal injury, product liability and warranty. Currently, there are no claims or proceedings against us that we believe will have a material adverse effect on our business, financial condition, results of operations or cash flows. However, the results of any current or future litigation cannot be predicted with certainty and, regardless of the outcome, we may incur significant costs and experience a diversion of management resources as a result of litigation. 
+ 
+ The Company has received demand letters from purported stockholders of the Company pursuant to Section 220 of the Delaware General Corporation Law, seeking to inspect books and records of the Company relating to, among other things, the Merger (defined below). The Company has also received appraisal demand letters from purported stockholders seeking a judicial proceeding to determine the fair value of their shares. Additionally, the Company has received information demand letters from purported stockholders of the Company, which generally demand the disclosure of certain additional information that was allegedly omitted from the Preliminary Information Statement on Schedule 14C filed in connection with the Merger. At this time, the matters remain unresolved. 
+
+Item 1A. Risk Factors 
+ The business, financial condition and operating results of the Company can be affected by a number of factors, whether curre ntly known or unknown, including but not limited to those described above and in the 2023 Annual Report in Part I, Item 1A. Risk Factors, any one or more of which could, directly or indirectly, cause the Company s actual financial condition and operating results to vary materially from past, or from anticipated future, financial condition and operating results. Any of these factors, in whole or in part, could materially and adversely affect the Company s business, financial condition, operating results and stock pric e. There have been no material changes to the Company's risk factors since those set forth in the 2023 Annual Report, except as set forth below: 
+ Risks Related to the Proposed Merger 
+ On August 5, 2024, Thoughtworks Holding, Inc., a Delaware corporation (the Company ), entered into an Agreement and Plan of Merger (the Merger Agreement with Tasmania Midco, LLC, a Delaware limited liability company Parent ), and Tasmania Merger Sub, Inc., a Delaware corporation and wholly owned subsidiary of Parent Merger Sub ), pursuant to which, subject to the satisfaction or waiver of certain conditions and on the terms set forth therein, Merger Sub will merge (the Merger with and into the Company, with the Company surviving the Merger. Parent and Merger Sub are affiliates of Turing EquityCo II L.P. (the Significant Company Stockholder ), the holder of a majority of the issued and outstanding shares of common stock, par value 0.001, of the Company and an affiliate of certain investment funds advised by Apax Partners LLP. 
+ The description of the Merger Agreement in these Risk Factors is not and does not purport to be complete and is subject to, and qualified in its entirety by reference to, the Merger Agreement, which is attached as Exhibit 2.1 of the Company s Current Report on Form 8-K filed on August 5, 2024 and incorporated by reference herein. 
+ We may fail to consummate the Merger, and uncertainties related to the consummation of the Merger may have a material adverse effect on our business, results of operations and financial condition and negatively impact the trading price of our common stock. 
+ The Merger is subject to the satisfaction of a number of conditions beyond our control, including customary closing conditions. Failure to satisfy the conditions to the Merger could prevent or delay the completion of the Merger. Further, regulators may impose conditions, obligations or restrictions on the Merger that may have the effect of delaying or preventing its completion. If the Merger does not close, we may suffer other 
+ 41 
+
+Table of Contents 
+
+consequences that could adversely affect our business, financial condition, operating results, and stock price, and our stockholders would be exposed to additional risks, including, but not limited to: 
+ to the extent that the current trading price of our common stock reflects an assumption that the Merger will be completed, the trading price of our common stock could decrease if the Merger is not completed; 
+ investor confidence in us could decline, stockholder litigation could be brought against us, relationships with existing and prospective customers, service providers, investors, lenders and other business partners may be adversely impacted, we may be unable to retain key personnel, and our operating results may be adversely impacted due to costs incurred in connection with the Merger; 
+ we have incurred, and will continue to incur, significant expenses for professional services in connection with the Merger for which we will have received little or no benefit if the Merger is not consummated; and 
+ any disruptions to our business resulting from the announcement and pendency of the Merger, including adverse changes in our relationships with customers, suppliers, partners and employees, may continue or intensify in the event the Merger is not consummated or is significantly delayed. 
+ In addition, the efforts and costs to satisfy the closing conditions of the Merger may place a significant burden on management and internal resources, and the Merger and related transactions, whether or not consummated, may result in a diversion of management s attention from day-to-day operations. Any significant diversion of management s attention away from ongoing business and difficulties encountered in the Merger process could have a material adverse effect on our business, results of operations and financial condition. 
+ There also is no assurance that the Merger and the other transactions contemplated by the Merger Agreement will occur on the terms and timeline currently contemplated or at all. 
+ If the proposed Merger is delayed or not completed, the trading price of our common stock may decline, including to the extent that the current trading price of our common stock reflects an assumption that the Merger and the other transactions contemplated by the Merger Agreement will be consummated without further delays, which could have a material adverse effect on our business, results of operations and financial condition. 
+ We are subject to various uncertainties while the Merger is pending, which could have a material adverse effect on our business, results of operations and financial condition. 
+ Uncertainty about the pendency of the Merger and the effect of the Merger on employees, customers and other third parties who deal with us may have a material adverse effect on our business, results of operations and financial condition. These uncertainties may impair our ability to attract, retain and motivate key personnel pending the consummation of the Merger, as such personnel may experience uncertainty about their future roles following the consummation of the Merger. Additionally, these uncertainties could cause customers and other third parties who deal with us to seek to change existing business relationships with us or fail to extend an existing relationship with us, all of which could have a material adverse effect on our business, results of operations, financial condition and trading price of our common stock. 
+ While the Merger Agreement is in effect, we are subject to certain interim covenants. 
+ The Merger Agreement generally requires us to operate our business in the ordinary course, subject to certain exceptions, including as required by applicable law, pending consummation of the Merger, and subjects us to customary interim operating covenants that restrict us from taking certain specified actions until the Merger is completed or the Merger Agreement is terminated in accordance with its terms. These restrictions could prevent us from pursuing certain business opportunities that may arise prior to the consummation of the Merger and may affect our ability to execute our business strategies and attain financial and other goals and may impact our financial condition, results of operations and cash flows. 
+ We and our directors and officers may be subject to lawsuits relating to the Merger. 
+ Litigation is very common in connection with the sale of public companies, regardless of whether the claims have any merit. One of the conditions to consummating the Merger is that no order preventing the consummation of the Merger shall have been issued by any court. Consequently, if any such lawsuit 
+ 42 
+
+Table of Contents 
+
+challenging the Merger is successful in obtaining an order preventing the consummation of the Merger, that order may delay or prevent the Merger from being completed. While we will evaluate and defend against any lawsuits, the time and costs of defending against litigation relating to the Merger may adversely affect our business. Please see Item 1. Legal Proceedings for additional information with respect to potential litigation matters in connection with the Merger. 
+ We will continue to incur substantial transaction-related costs in connection with the Merger. 
+ We have incurred significant legal, advisory and financial services fees in connection with Merger. We have incurred, and expect to continue to incur, additional costs in connection with the satisfaction of the various conditions to closing of the Merger. If there is any delay in the consummation of the Merger, these costs could increase significantly. 
+ Other Risks 
+ If we are required to write down goodwill and other intangible assets, our financial condition and results would be negatively affected. 
+ 
+ Under U.S. generally accepted accounting principles, if Thoughtworks determines goodwill or intangible assets are impaired, we would be required to write down these assets to fair value. Any write-down would have a negative effect on the consolidated financial statements. We continue to monitor the impact of our stock price and financial forecasts on this evaluation. 
+ 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ There were no unregistered sales of the Company's equity securities during the third quarter of 2024. 
+ 
+ Item 3. Defaults Upon Senior Securities 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures 
+ Not Applicable. 
+ 
+ Item 5. Other Information 
+ Insider Trading Arrangements and Policies 
+ Our directors and executive officers (as defined in Rule 16a-1(f) of the Securities Exchange Act of 1934) may purchase or sell shares of our common stock in the market from time to time, including pursuant to equity trading plans adopted in accordance with Rule 10b5-1 under the Exchange Act and in compliance with guidelines specified by the Company s insider trading policy. During the three months ended September 30, 2024, none of our directors or executive officers of the Company , or modified a Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement (as such terms are defined in Item 408 of Regulation S-K of the Securities Act of 1933). 
+ 43 
+
+Table of Contents 
+
+Item 6. Exhibits 
+ Exhibit Number Description 2.1 Agreement and Plan of Merger, dated August 5, 2024, by and among Tasmania Midco, LLC, Tasmania Merger Sub, Inc. and Thoughtworks Holding, Inc. (incorporated by reference to Exhibit 2.1 to the Company s Current Report on Form 8-K filed with the SEC on August 5, 2024) 
+ 10.1+ Amendment to Employment Agreement, dated as of July 31, 2024, by and between Thoughtworks, Inc. and Michael R. Sutcliff 
+ 10.2 Rollover Agreement, dated August 5, 2024, by and among Tasmania Parent, Inc., Tasmania Holdco, Inc., Tasmania Midco, LLC and Turing EquityCo II L.P. (incorporated by reference to Exhibit 10.1 to the Company s Current Report on Form 8-K filed with the SEC on August 5, 2024) 
+ 10.3 Form of Rollover and Reinvestment Agreement, dated August 5, 2024, by and among Tasmania Parent, Inc., Tasmania Holdco, Inc., Tasmania Midco, LLC and certain stockholders party from time to time thereto (incorporated by reference to Exhibit 10.2 to the Company s Current Report on Form 8-K filed with the SEC on August 5, 2024) 
+ 31.1 Certification of the Chief Executive Officer pursuant to Rule 13a-14(a)/15d-14(a) under the Exchange Act, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 31.2 Certification of the Chief Financial Officer pursuant to Rule 13a-14(a)/15d-14(a) under the Exchange Act, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 32.1 Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 32.2 Certification of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File - (formatted as inline XBRL and contained in Exhibit 101) + Indicates management contracts or compensatory plans or arrangements Exhibits filed herewith Exhibits furnished herewith 
+ 44 
+
+Table of Contents 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ 
+ Date: November 12, 2024 
+
+THOUGHTWORKS HOLDING, INC. By: /s/ Michael Sutcliff Michael Sutcliff Chief Executive Officer and Director (Principal Executive Officer) By: /s/ Erin Cummins Erin Cummins Chief Financial Officer (Principal Financial Officer and Principal Accounting Officer) 
+
+45 
+
+<EX-10.1>
+ 2
+ q3202410-qxexhibit101.htm
+ EX-10.1
+
+Document 
+ Exhibit 10.1 
+
+EXECUTION VERSION 
+ 
+ AMENDMENT TO THOUGHTWORKS INC. EMPLOYMENT AGREEMENT 
+ This Amendment to the Thoughtworks Inc. Employment Agreement (this Amendment is made and entered into effective as of July 31, 2024 (the Amendment Effective Date ), by and between Thoughtworks Inc., a Delaware corporation (the Company ), and Michael R. Sutcliff (the Executive and, together with the Company, the Parties ). 
+ Whereas , the Company and Executive entered into that certain Employment Agreement, dated as of May 2, 2024 (the Agreement ), and 
+ Whereas , the Parties desire to amend Sections 4(b) and 4(c) of the Agreement in the manner reflected herein, and 
+ Whereas , the Board of Directors of the Company has approved the amendment of the Agreement in the manner reflected herein, 
+ Now Therefore , in consideration of the premises and mutual covenants and conditions herein, the Parties, intending to be legally bound, hereby agree as follows, effective as of the Amendment Effective Date 
+ 1. Incentive Compensation Restricted Stock Units . The last sentence of Section 4(b) of the Agreement is hereby deleted and replaced in its entirety with the following sentence (with all capitalized terms having the meaning originally ascribed thereto in the Agreement) 
+ The first annual grant of unvested stock units shall occur on such date as the Company may determine, but in any event no later than March 15, 2025 (such date, the First Annual Grant Date and with time-based vesting, as applicable, to commence effective as of the Effective Date. 
+ 
+ 2. Incentive Compensation Performance Stock Units . The first sentence of Section 4(c) of the Agreement is hereby deleted and replaced in its entirety with the following sentence (with all capitalized terms having the meaning originally ascribed thereto in the Agreement) 
+ On the First Annual Grant Date, Executive also shall be granted an additional 3,600,000 restricted stock units under the Plan (the PSUs and, along with each Annual Grant, the Equity Awards ). 
+ 
+ 3. For the sake of clarity, Executive acknowledges and agrees that no event of Good Reason has or will occur because the Equity Awards are not granted on or before July 31, 2024. Further, for the sake of clarity, if the Equity Awards have not yet been granted as of the date of a Change in Control or the delisting of the Company s common stock from all national securities exchanges, paragraph 2 of Exhibit B to the Agreement shall apply in lieu of the obligations to provide Equity Awards set forth herein. 
+
+KE 111543645 
+
+4. Counterparts . This Amendment may be executed in one or more facsimile, electronic or original counterparts, each of which shall be deemed an original and both of which together shall constitute the same instrument. 
+ 5. Ratification . All terms and provisions of the Agreement not amended hereby, either expressly or by necessary implication, shall remain in full force and effect. From and after the date of this Amendment, all references to the term Agreement in this Amendment or the original Agreement shall include the terms contained in this Amendment. 
+ Signature Pages to Follow 
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first written above. 
+ 
+ THOUGHTWORKS, INC. 
+ 
+ By s Ramona Mateiu 
+ Name Ramona Mateiu 
+ Title Authorized signatory 
+
+MICHAEL R. SUTCLIFF 
+ s Michael R. Sutcliff 
+ 
+ Michael R. Sutcliff 
+
+</EX-10.1>
+
+<EX-31.1>
+ 3
+ q3202410-qxexhibit311.htm
+ EX-31.1
+
+Document 
+
+EXHIBIT 31.1 
+
+Certification by Chief Executive Officer 
+ Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ I, Michael Sutcliff, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Thoughtworks Holding, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the 
+
+audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date November 12, 2024 
+
+s Michael Sutcliff Michael Sutcliff Chief Executive Officer and Director (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ q3202410-qxexhibit312.htm
+ EX-31.2
+
+Document 
+
+EXHIBIT 31.2 
+
+Certification by Chief Financial Officer 
+ Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ I, Erin Cummins, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of Thoughtworks Holding, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the 
+
+audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date November 12, 2024 
+ 
+ s Erin Cummins Erin Cummins Chief Financial Officer (Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ q3202410-qxexhibit321.htm
+ EX-32.1
+
+Document 
+
+EXHIBIT 32.1 
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO SECTION 906 
+ OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report on Form 10-Q of Thoughtworks Holding, Inc. (the Company for the quarter ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), Michael Sutcliff, as Chief Executive Officer of the Company, hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to his knowledge 
+ i. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ ii. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company as of the dates and for the periods expressed in the Report. 
+ Date November 12, 2024 
+
+s Michael Sutcliff Michael Sutcliff Chief Executive Officer and Director (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ q3202410-qxexhibit322.htm
+ EX-32.2
+
+Document 
+
+EXHIBIT 32.2 
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report on Form 10-Q of Thoughtworks Holding, Inc. (the Company for the quarter ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), Erin Cummins, as Chief Financial Officer of the Company, hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to her knowledge 
+ i. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ ii. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company as of the dates and for the periods expressed in the Report. 
+ Date November 12, 2024 
+
+s Erin Cummins Erin Cummins Chief Financial Officer (Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 7
+ twks-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ twks-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ twks-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ twks-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ twks-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

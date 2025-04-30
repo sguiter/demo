@@ -1,0 +1,888 @@
+<Header>
+<FileStats>
+    <FileName>20241106_10-Q_edgar_data_1866368_0001628280-24-045742.txt</FileName>
+    <GrossFileSize>8654222</GrossFileSize>
+    <NetFileSize>117421</NetFileSize>
+    <NonText_DocumentType_Chars>1536507</NonText_DocumentType_Chars>
+    <HTML_Chars>3300897</HTML_Chars>
+    <XBRL_Chars>1914201</XBRL_Chars>
+    <XML_Chars>1620112</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001628280-24-045742.hdr.sgml : 20241106
+<ACCEPTANCE-DATETIME>20241106162404
+ACCESSION NUMBER:		0001628280-24-045742
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		86
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241106
+DATE AS OF CHANGE:		20241106
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Clearwater Analytics Holdings, Inc.
+		CENTRAL INDEX KEY:			0001866368
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40838
+		FILM NUMBER:		241431410
+
+	BUSINESS ADDRESS:	
+		STREET 1:		777 W. MAIN STREET, SUITE 900
+		CITY:			BOISE
+		STATE:			ID
+		ZIP:			83702
+		BUSINESS PHONE:		208-918-2400
+
+	MAIL ADDRESS:	
+		STREET 1:		777 W. MAIN STREET, SUITE 900
+		CITY:			BOISE
+		STATE:			ID
+		ZIP:			83702
+
+</SEC-Header>
+</Header>
+
+ 0001628280-24-045742.txt : 20241106
+
+10-Q
+ 1
+ cwan-20240930.htm
+ 10-Q
+
+cwan-20240930 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, DC 20549 
+ ______________________________________ 
+ FORM 
+ ______________________________________ 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission File Number: 
+ ______________________________________ 
+
+(Exact Name of Registrant as Specified in its Charter) 
+ ______________________________________ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ 
+ , 
+ (Address of principal executive offices) (Zip Code) 
+ Registrant s telephone number, including area code: ) 
+ ______________________________________ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No o 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No o 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ x Accelerated filer o Non-accelerated filer o Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes o No 
+ As of October 31, 2024, the number of outstanding shares of the registrant s common stock was: 
+ shares of Class A common stock. 
+ shares of Class C common stock. 
+ shares of Class D common stock. 
+
+Table of Contents 
+
+ Table of Contents 
+ Page Glossary 
+ ii 
+ Special Note Regarding Forward-Looking Statements 
+ iv 
+ PART I. 
+ Financial In formation 
+ 1 
+ Item 1. 
+ Condensed Consolidated Financial Statements (Unaudited) 
+ 1 
+ Condensed Consolidated Balance Sheets 
+ 2 
+ Condensed Consolidated Statements of Operations 
+ 3 
+ Condensed Consolidated Statements of Comprehensive Income (Loss 
+ 4 
+ Condensed Consolidated Statements of Changes in Equity 
+ 5 
+ Condensed Consolidated Statements of Cash Flows 
+ 9 
+ Notes to Unaudited Condensed Consolidated Financial Statements 
+ 10 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 24 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 36 
+ Item 4. 
+ Controls and Procedures 
+ 37 
+ PART II. 
+ Other Information 
+ 39 
+ Item 1. 
+ Legal Proceedings 
+ 39 
+ Item 1A. 
+ Risk Factors 
+ 39 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 39 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 39 
+ Item 4. 
+ Mine Safety Disclosures 
+ 39 
+ Item 5. 
+ Other Information 
+ 39 
+ Item 6. 
+ Exhibits 
+ 40 
+ Signatures 
+ 41 
+ 
+ i 
+
+Table of Contents 
+
+ GLOSSARY 
+ As used in this Quarterly Report on Form 10-Q, the terms identified below have the meanings specified below unless otherwise noted or the context indicates otherwise: 
+ Company, we, us, our, Clearwater and similar references refer, (1) following the consummation of the Transactions, to Clearwater Analytics Holdings, Inc., and, unless otherwise stated, all of its direct and indirect subsidiaries, including CWAN Holdings, and (2) prior to the completion of the Transactions, to CWAN Holdings and, unless otherwise stated, all of its direct and indirect subsidiaries. 
+ AAA refers to Wilshire Axiom SM , Wilshire Atlas SM , Wilshire Abacus, and Wilshire iQComposite. 
+ Acquisition refers to the acquisition of Wilshire Axiom SM , Wilshire Atlas SM , Wilshire Abacus, and Wilshire iQComposite and the associated workforce and customer contracts by Clearwater Analytics, LLC. 
+ Acquisition Date refers to April 22, 2024. 
+ Annual Report refers to our Annual Report on Form 10-K, dated December 31, 2023 (File No. 001-40838), as filed with the SEC on February 29, 2024. 
+ Borrower refers to Clearwater Analytics, LLC as borrower under the Credit Agreement. 
+ Continuing Equity Owners refers collectively to direct or indirect holders of LLC Interests and/or our Class B common stock, Class C common stock and/or Class D common stock immediately following consummation of the Transactions, including the Principal Equity Owners and certain of our directors and officers and their respective Permitted Transferees who may exchange at each of the irrespective options, in whole or in part from time to time, their LLC Interests (along with an equal number of shares of Class B common stock or Class C common stock, as the case may be (and such shares shall be immediately cancelled)) for newly issued shares of our Class A common stock or our Class D common stock, as the case may be, and additionally holders of shares of our Class D common stock may convert such shares at any time for newly issued shares of our Class A common stock, on a one-for-one basis (in which case their shares of our Class D common stock will be cancelled on a one-for-one basis upon any such issuance). 
+ CWAN Holdings refers to CWAN Holdings, LLC. 
+ Exchange Act refers to the Securities Exchange Act of 1934, as amended. 
+ IPO refers to our initial public offering, which closed in September 2021. 
+ JUMP refers to JUMP Technology SAS and its consolidated subsidiary JUMP Consulting Luxembourg S.a.r.l. 
+ LLC Agreement refers to CWAN Holdings, LLC s Third Amended and Restated Limited Liability Company Agreement. 
+ LLC Interests refers to the common units of CWAN Holdings, LLC, including those that we purchased with a portion of the net proceeds from the IPO. 
+ New Credit Agreement refers to a new credit agreement which Clearwater Analytics, LLC entered into with JPMorgan Chase Bank, N.A. in connection with the closing of the IPO. 
+ NPS refers to our net promoter score, which can range from a low of negative 100 to a high of positive 100, that we use to gauge customer satisfaction. NPS benchmarks can vary significantly by industry, but a score greater than zero represents a company having more promoters than detractors. Our methodology of calculating NPS reflects responses from customers who purchase investment accounting and reporting, performance measurement, compliance monitoring and risk analytic solutions from us and choose to respond to the survey question. In particular, it reflects responses given in the fourth quarter of 2023 and reflects a sample size of 148 responses over that period. NPS gives no weight to customers who decline to answer the survey question. 
+ NYSE refers to the New York Stock Exchange. 
+ Other Continuing Equity Owners refers to Continuing Equity Owners who are not also Principal Equity Owners. 
+ Permira refers to Permira Advisers LLC, one of our largest owners through holdings by its affiliates. 
+ ii 
+
+Table of Contents 
+
+ Permitted Transferee refers to, subject to the provisions of the LLC Agreement, (a) with respect to any Principal Equity Owner, any of such Principal Equity Owner s affiliates and (b) with respect to any Other Continuing Equity Owner, any such Other Continuing Equity Owner s affiliates or, in the case of individuals, members of their immediate family. 
+ Principal Equity Owners refers to Welsh Carson, Warburg Pincus, Permira and their respective affiliates and Permitted Transferees. 
+ QTD for any given year means the three months ended June 30 of that year. 
+ SaaS refers to Software-as-a-Service. 
+ SEC refers to the Securities and Exchange Commission. 
+ Securities Act refers to the Securities Act of 1933, as amended. 
+ Secondary Offerings refers to the sale by certain affiliates of Welsh Carson, Warburg Pincus and Permira, as applicable, of an aggregate of 14,950,000, 10,000,000, 20,000,000, 17,000,000, 16,250,000 and 12,000,000 shares of Class A common stock in underwritten secondary public offerings entered into on March 8, 2023, June 15, 2023, November 6, 2023, November 30, 2023, March 6, 2024 and June 10, 2024, respectively. 
+ Tax Receivable Agreement or TRA refers to the Tax Receivable Agreement, dated as of September 28, 2021, by and among Clearwater Analytics Holdings, Inc., CWAN Holdings and the other parties thereto. 
+ TRA Bonus Agreement refers to the Tax Receivable Agreement Bonus Letters, each dated as of September 28, 2021, by and among Clearwater Analytics Holdings, Inc. and certain of our executive officers. 
+ Transactions refers to the organizational transactions described under Transactions in Note 1 - Organization and Description of Business in our Annual Report. 
+ Up-C refers to the Company s umbrella partnership-C-corporation organizational structure. See Note 1 Organization and Description of Business to our unaudited condensed consolidated financial statements of this Quarterly Report on Form 10-Q. 
+ Warburg Pincus refers to Warburg Pincus LLC, one of our largest owners through holdings by its affiliates. 
+ Welsh Carson refers to Welsh, Carson, Anderson Stowe, one of our largest owners through holdings by its affiliates. 
+ Wilshire refers to Wilshire Advisors LLC. 
+ Wilshire Technology refers collectively, to Wilshire Axiom SM , Wilshire Atlas SM , Wilshire Abacus and Wilshire iQComposite. 
+ iii 
+
+Table of Contents 
+
+ SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on our management s beliefs and assumptions and on information currently available to our management. The forward-looking statements are contained principally in the section captioned Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ Forward-looking statements include information concerning our possible or assumed future results of operations, business strategies, technology developments, financing and investment plans, dividend policy, competitive position, industry and regulatory environment, potential growth opportunities and the effects of competition. Forward looking statements include statements that are not historical facts and can be identified by terms such as anticipate, believe, could, estimate, expect, intend, may, plan, potential, predict, project, seek, should, will, would or similar expressions and the negatives of those terms. Forward-looking statements involve known and unknown risks, uncertainties and other factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. 
+ Important factors that could cause actual results, performance or achievements to differ materially from our expectations include, but are not limited to, the following: 
+ we operate in a highly competitive industry, with many companies competing for business from insurance companies, asset managers, corporations and government entities on the basis of a number of factors, including the quality and breadth of solutions and services provided, ability to innovate, reputation and the prices of services, and this competition could hurt our financial performance and cash flows; 
+ we are dependent on fees based on the value of the assets on our platform for the vast majority of our revenues, and to the extent market volatility, a downturn in economic conditions or other factors cause negative trends or fluctuations in the value of the assets on our platform, our fee-based revenue and earnings may decline; 
+ because some of our sales efforts are targeted at large financial institutions, corporations and government entities, we face prolonged sales cycles, substantial upfront sales costs and less predictability in completing some of our sales. If our sales cycle lengthens, or if our upfront sales investments do not result in sufficient revenue, our results of operations may be harmed; 
+ we have experienced considerable revenue growth over the past several years, which may be difficult to sustain, and we depend on attracting and retaining top talent to continue growing and operating our business, and if we are unable to hire, integrate, develop, motivate and retain our personnel, we may not be able to maintain or manage our growth, which could have a material adverse effect on our business, financial condition, results of operations and cash flows; 
+ if our investment accounting and reporting solutions, regulatory reporting solutions or risk management or performance analytics solutions fail to perform properly due to undetected errors or similar problems, our business, financial condition, reputation or results of operations could be materially adversely affected; 
+ our business relies heavily on computer equipment, cloud-based services, electronic delivery systems, networks and telecommunications systems and infrastructure, the Internet and the information technology systems of third parties. Any failures or disruptions in any of the foregoing could result in reduced revenues, increased costs and the loss of clients and could harm our business, financial condition, reputation and results of operations; 
+ our failure to successfully integrate acquisitions, including the Wilshire Technology acquisition, could strain our resources. In addition, there are significant risks associated with growth through acquisitions, which may materially adversely affect our business, financial condition or results of operations; 
+ if we are unable to protect the confidentiality of our trade secrets, our business and competitive position would be harmed; 
+ if our trademarks and trade names are not adequately protected, we may not be able to build name recognition in our markets of interest, and our competitive position may be harmed; 
+ we may need to defend ourselves against third-party claims that we are infringing, misappropriating or otherwise violating others intellectual property rights, which could divert management s attention, cause us to incur significant costs, and prevent us from selling or using the technology to which such rights relate; 
+ iv 
+
+Table of Contents 
+
+ the Principal Equity Owners continue to have significant influence over us, including control over decisions that require the approval of stockholders, which could limit your ability to influence the outcome of matters submitted to stockholders for a vote; 
+ we are classified as a controlled company, and as a result, we qualify for, and rely on, exemptions from certain corporate governance requirements. You will not have the same protections afforded to stockholders of companies that are subject to such requirements. In addition, the Principal Equity Owners interests may conflict with our interests and the interests of other stockholders; 
+ provisions in our certificate of incorporation and bylaws may have the effect of delaying or preventing a change of control or changes in our management; 
+ if we fail to remediate an identified material weakness or implement and maintain effective internal controls over financial reporting, we may be unable to accurately or timely report our financial condition or results of operations, which may adversely affect our business; 
+ the consummation of the TRA Buyout (as defined below) is subject to certain conditions, including the approval of our unaffiliated stockholders, and there is no assurance that we will be able to satisfy such conditions or realize all the expected benefits thereof; and 
+ other risks described in the section titled Risk Factors in our Annual Report and in periodic reports that we file with the SEC, and our reports to shareholders. These filings are available at www.sec.gov and on our website. 
+ 
+ Given these risks and uncertainties, you should not place undue reliance on forward-looking statements. Also, forward-looking statements represent our management s beliefs and assumptions only as of the date of this Quarterly Report on Form 10-Q and should not be relied upon as representing Clearwater's expectations or beliefs as of any date subsequent to the time they are made. Clearwater does not undertake to and specifically declines any obligation to update any forward-looking statements that may be made from time to time by or on behalf of Clearwater. 
+ You should read this Quarterly Report on Form 10-Q in conjunction with the audited consolidated financial statements and the related notes thereto as of and for the year ended December 31, 2023 included in our Annual Report. 
+ v 
+
+Table of Contents 
+
+ PART I FINANCIAL INFORMATION 
+ 
+ Item 1. Condensed Consolidated Financial Statements (unaudited). 
+ 1 
+
+Table of Contents 
+
+ Clearwater Analytics Holdings, Inc. 
+ Condensed Consolidated Balance Sheets 
+ (In thousands, except share amounts and per share amounts, unaudited) 
+ September 30 December 31 2024 2023 Assets Current assets: Cash and cash equivalents Short-term investments Accounts receivable, net Prepaid expenses and other current assets Total current assets Property and equipment, net Operating lease right-of-use assets, net Deferred contract costs, non-current Intangible assets, net Goodwill Long-term investments Other non-current assets Total assets Liabilities and Stockholders' Equity Current liabilities: Accounts payable Accrued expenses and other current liabilities Notes payable, current portion Operating lease liability, current portion Tax receivable agreement liability Total current liabilities Notes payable, less current maturities and unamortized debt issuance costs Operating lease liability, less current portion Tax receivable agreement, less current portion Other long-term liabilities Total liabilities Stockholders' Equity Class A common stock, par value per share; shares authorized, shares issued and outstanding as of September 30, 2024, shares issued and outstanding as of December 31, 2023 
+ Class B common stock, par value per share; shares authorized, shares issued and outstanding as of September 30, 2024, shares issued and outstanding as of December 31, 2023 
+ Class C common stock, par value per share; shares authorized, shares issued and outstanding as of September 30, 2024, shares issued and outstanding as of December 31, 2023 
+ Class D common stock, par value per share; shares authorized, shares issued and outstanding as of September 30, 2024, shares issued and outstanding as of December 31, 2023 
+ Additional paid-in-capital Accumulated other comprehensive income Accumulated deficit ) ) Total stockholders' equity attributable to Clearwater Analytics Holdings, Inc. Non-controlling interests Total stockholders' equity Total liabilities and stockholders' equity 
+ 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 2 
+
+Table of Contents 
+
+ Clearwater Analytics Holdings, Inc. 
+ Condensed Consolidated Statements of Operations 
+ (In thousands, except share amounts and per share amounts, unaudited) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenue Cost of revenue (1) 
+ Gross profit Operating expenses: Research and development (1) 
+ Sales and marketing (1) 
+ General and administrative (1) 
+ Total operating expenses Income (loss) from operations ) ) Interest income, net ) ) ) ) Tax receivable agreement (benefit) expense ) Other (income) expense, net ) ) ) Income (loss) before income taxes ) ) Benefit from income taxes ) ) ) ) Net income (loss) ) ) Less: Net income (loss) attributable to non-controlling interests ) ) Net income (loss) attributable to Clearwater Analytics Holdings, Inc. ) ) Net income (loss) per share attributable to Class A and Class D common stockholders stock: Basic ) ) Diluted ) ) Weighted average shares of Class A and Class D common stock outstanding: Basic Diluted 
+ 
+ (1) 
+ Operating expenses: Research and development Sales and marketing General and administrative Total equity-based compensation expense 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 3 
+
+Table of Contents 
+
+ Condensed Consolidated Statements of Comprehensive Income (Loss) 
+ (In thousands, unaudited) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net income (loss) ) ) Other comprehensive income (loss), net of taxes: Foreign currency translation adjustment ) ) Unrealized gain (loss) on available-for-sale investments ) ) Comprehensive income (loss) ) ) Less: Comprehensive income (loss) attributable to non-controlling interests ) ) Comprehensive income (loss) attributable to Clearwater Analytics Holdings, Inc. ) ) 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 4 
+
+Table of Contents 
+
+ Condensed Consolidated Statements of Changes in Equity 
+ (In thousands, except share amounts, unaudited) 
+ Class A Shares Class A Amount Class B Shares Class B Amount Class C Shares Class C Amount Class D Shares Class D Amount Additional Paid in Capital Accumulated Other Comprehensive Income Accumulated Deficit Non- controlling Interest Total stockholders' equity Balance at December 31, 2023 ) Exercise of options to purchase common stock Restricted stock units released Shares withheld for net share settlement and other ) ) ) ) ) Equity-based compensation Foreign currency translation adjustment ) ) ) Unrealized loss on available-for-sale investments ) ) ) Net income Accrued tax distributions payable to Continuing Equity Owners Effect of ownership changes ) ) ) ) ) Balance at March 31, 2024 ) Exercise of options to purchase common stock Restricted stock units released Shares withheld for net share settlement and other ) ) ) ) ) ESPP shares issued Equity-based compensation Foreign currency translation adjustment ) ) ) Unrealized loss on available-for-sale investments ) ) ) Net income (loss) ) Accrued tax distributions payable to Continuing Equity Owners ) ) Effect of ownership changes ) ) ) Balance at June 30, 2024 ) Exercise of options to purchase common stock Restricted stock units released Shares withheld for net share settlement and other ) ) ) ) ) Equity-based compensation Foreign currency translation adjustment Unrealized gain on available-for-sale investments 
+ 5 
+
+Table of Contents 
+
+ Net income Accrued tax distributions payable to Continuing Equity Owners ) ) Effect of ownership changes ) ) ) ) Balance at September 30, 2024 ) 
+ 6 
+
+Table of Contents 
+
+ Class A Shares Class A Amount Class B Shares Class B Amount Class C Shares Class C Amount Class D Shares Class D Amount Additional Paid in Capital Accumulated Other Comprehensive Income Accumulated Deficit Non- controlling Interest Total stockholders' equity Balance at December 31, 2022 ) Exercise of options to purchase common stock Restricted stock units released Shares withheld for net share settlement and other ) ) ) ) Equity-based compensation Foreign currency translation adjustment Unrealized gain on available-for-sale investments Net loss ) ) ) Accrued tax distributions payable to Continuing Equity Owners Effect of LLC unit exchanges ) ) ) ) ) ) Balance at March 31, 2023 ) Exercise of options to purchase common stock Restricted stock units released Shares withheld for net share settlement and other ) ) ) ) ESPP shares issued Equity-based compensation Foreign currency translation adjustment ) ) ) Unrealized loss on available-for-sale investments ) ) ) Net loss ) ) ) Accrued tax distributions payable to Continuing Equity Owners ) ) Effect of LLC unit exchanges ) ) ) ) ) ) Balance at June 30, 2023 ) Exercise of options to purchase common stock 1 Restricted stock units released Shares withheld for net share settlement and other ) ) ) ) Equity-based compensation Foreign currency translation adjustment ) ) ) Unrealized loss on available-for-sale investments ) ) ) Net loss ) ) ) Accrued tax distributions payable to Continuing Equity Owners 
+ 7 
+
+Table of Contents 
+
+ Effect of LLC ownership changes ) Balance at September 30, 2023 ) ) 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 8 
+
+Table of Contents 
+
+ Clearwater Analytics Holdings, Inc. 
+ Condensed Consolidated Statements of Cash Flows 
+ (In thousands, unaudited) 
+ Nine Months Ended September 30, 2024 2023 OPERATING ACTIVITIES Net income (loss) ) Adjustments to reconcile net income (loss) to net cash provided by operating activities: Depreciation and amortization Noncash operating lease cost Equity-based compensation Amortization of deferred contract acquisition costs Amortization of debt issuance costs, included in interest expense Deferred tax benefit ) ) Accretion of discount on investments ) ) Realized (gain) loss on investments ) Changes in operating assets and liabilities: Accounts receivable, net ) ) Prepaid expenses and other assets Deferred contract acquisition costs ) ) Accounts payable Accrued expenses and other liabilities ) Tax receivable agreement liability Net cash provided by operating activities INVESTING ACTIVITIES Purchases of property and equipment ) ) Purchase of held to maturity investments ) Purchases of available-for-sale investments ) ) Proceeds from sale of available-for-sale investments Proceeds from maturities of investments Acquisition of business, net of cash acquired ) Payment of initial direct costs for operating leases ) Net cash used in investing activities ) ) FINANCING ACTIVITIES Proceeds from exercise of options Taxes paid related to net share settlement of equity awards ) ) Repayments of borrowings ) ) Payment of business acquisition holdback liability ) Proceeds from employee stock purchase plan Payment of tax distributions ) ) Net cash used in financing activities ) ) Effect of exchange rate changes on cash and cash equivalents ) Change in cash and cash equivalents during the period ) Cash and cash equivalents, beginning of period Cash and cash equivalents, end of period SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION Cash paid for interest Cash paid for income taxes NON-CASH INVESTING AND FINANCING ACTIVITIES Purchase of property and equipment included in accounts payable and accrued expense Tax distributions payable to Continuing Equity Owners included in accrued expenses 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 9 
+
+Table of Contents 
+
+ Clearwater Analytics Holdings, Inc. 
+ Notes to Unaudited Condensed Consolidated Financial Statements 
+ 
+ Note 1. 
+ offices throughout the U.S. and offices internationally. 
+ Secondary Offerings 
+ As required by the Registration Rights Agreement dated September 28, 2021, the Company participated in multiple underwritten offerings of shares held by our Principal Equity Owners during the year ended December 31, 2023 and in the nine months ended September 30, 2024. No underwritten offerings were completed in the three months ended September 30, 2024. 
+ Pursuant to underwriting agreements executed on March 8 and June 15, 2023, certain affiliates of Welsh Carson (the WCAS Selling Stockholders sold and shares, respectively, of Class A common stock in underwritten secondary public offerings. As part of these secondary offerings, the WCAS Selling Stockholders exchanged a total of shares of Class C common stock, together with corresponding LLC Interests of CWAN Holdings, and shares of Class D common stock for an equivalent number of shares of Class A common stock that were purchased by the underwriters. The Company did not sell any securities in these secondary offerings and did not receive any proceeds from the sale of the shares sold by the WCAS Selling Stockholders. For the year ended December 31, 2023, the Company incurred million in expenses associated with these secondary offerings which were recorded as general and administrative expenses. 
+ Pursuant to underwriting agreements executed on November 6 and November 30, 2023, certain affiliates of Welsh Carson, Warburg Pincus and Permira (the Selling Stockholders sold and shares, respectively, of Class A common stock in underwritten secondary public offerings. As part of these secondary offerings, the Selling Stockholders exchanged a total of shares of Class C common stock, together with corresponding LLC Interests of CWAN Holdings, and shares of Class D common stock for an equivalent number of shares of Class A common stock that were purchased by the underwriter. The Company did not sell any securities in these secondary offerings and did not receive any proceeds from the sale of the shares sold by the Selling Stockholders. The Company incurred million in expenses associated with these secondary offerings in the year ended December 31, 2023 which were recorded as general and administrative expenses. 
+ Pursuant to an underwriting agreement executed on March 6, 2024, WCAS Selling Stockholders sold shares of Class A common stock in an underwritten secondary public offering. As part of the secondary public offering the WCAS Selling Stockholders exchanged a total of shares of Class C common stock and shares of Class D common stock, and corresponding units in CWAN Holdings, for an equivalent number of shares of Class A common stock that were purchased by the underwriter. The Company did not sell any securities in the secondary offering and did not receive any proceeds from the sale of the shares sold by the WCAS Selling Stockholders. The Company incurred million in expenses associated with the secondary offering in the three months ended March 31, 2024, which were recorded as general and administrative expenses. 
+ Pursuant to an underwriting agreement executed on June 10, 2024, certain affiliates of Warburg Pincus and Permira (the Warburg Pincus and Permira Selling Stockholders sold shares of Class A common stock in an underwritten secondary offering. As part of this secondary offering, the Warburg Pincus and Permira Selling Stockholders exchanged a total of shares of Class D common stock for an equivalent number of shares of Class A common stock that were purchased by the underwriter. The Company did not sell any securities in this secondary offering and did not receive any proceeds from the sale of the shares sold by the Warburg Pincus and Permira Selling Stockholders. The 
+ 10 
+
+Table of Contents 
+
+ million in expenses associated with this secondary offering in the three months ended June 30, 2024, which were recorded as general and administrative expenses. 
+ As of September 30, 2024, the Company owns of the interests in CWAN Holdings. Continuing Equity Owners which hold Class B and Class C common stock own the remaining of the interests in CWAN Holdings. 
+ Yes Class B common stock No Class C common stock No Class D common stock Yes 
+ 
+ Note 2. 
+
+Significant Accounting Policies 
+ The Company's significant accounting policies are discussed in Note 2 Basis of Presentation and Summary of Significant Accounting Policies in the Annual Report. There have been no significant changes to these policies that have had a material impact on the Company's unaudited condensed consolidated financial statements and related notes during the three and nine months ended September 30, 2024. 
+ 11 
+
+Table of Contents 
+
+ Note 3. 
+ For Licenses, the Company's remaining performance obligations represent the transaction price allocated to maintenance and support performance obligations that have yet to be satisfied. 
+
+Of the total revenue recognized for the three and nine months ended September 30, 2024, million and million, respectively, was included in the deferred revenue balance as of December 31, 2023. Revenues recognized from performance obligations satisfied (or partially satisfied) in previous periods were not material. Contract asset balances classified as current are million and million as of September 30, 2024 and December 31, 2023, respectively. Contract asset balances classified as non-current are million and million as of September 30, 2024 and December 31, 2023, respectively. 
+ Rest of World Total revenue 
+ 
+ Note 4. 
+ Level 1 (1) : 
+ Money market funds Level 2 (2) : 
+ Treasury bills U.S. government bonds ) U.S. agency securities ) Commercial paper Corporate debt securities ) Certificates of deposit Subtotal ) Total ) 
+ 12 
+
+Table of Contents 
+
+ Level 1 (1) : 
+ Money market funds Level 2 (2) : 
+ Treasury bills ) U.S. government bonds ) U.S. agency securities ) Commercial paper ) Corporate debt securities ) Certificates of deposit Subtotal ) Total ) 
+ (1) Level 1 fair value estimates are based on quoted prices in active markets for identical assets or liabilities. 
+ (2) Level 2 fair value estimates are based on observable inputs other than quoted prices in active markets for identical assets and liabilities, quoted prices for identical or similar assets or liabilities in inactive markets, or other inputs that are observable or can be corroborated by observable market data for substantially the full term of the assets or liabilities. 
+ During the nine months ended September 30, 2024 and year ended December 31, 2023, there were no transfers of assets or liabilities between Level 1, Level 2 and Level 3 of the fair value hierarchy. 
+ 
+ Note 5. 
+ million in cash, paid upon completion of the acquisition. In connection with the acquisition, the Company and Wilshire entered into a Transition Services Agreement pursuant to which Wilshire agreed to perform certain services for a period of time with respect to the Company s use and operation of the Wilshire Technology, and a Master SaaS Agreement for Wilshire to license back the underlying technology for use in their retained business. We expensed acquisition-related costs in the amount of million in general and administrative expenses in the three months ended June 30, 2024. 
+ We have accounted for this transaction as a business combination and allocated the fair value of the consideration to the assets acquired as well as liabilities assumed, based on their estimated fair values. The excess of the purchase price over 
+ 13 
+
+Table of Contents 
+
+Prepaid expenses Intangible assets Goodwill Deferred revenue ) Cash paid for acquisition of business 
+ Goodwill generated from this business combination is primarily attributable to the assembled workforce, expected post-acquisition synergies from integrating the Wilshire Technology into our platform and the expansion of product offerings to our existing global customer base. The goodwill is deductible for income tax purposes. 
+ years Developed technology - iQComposite years Customer relationships years Trademarks years Total 
+
+Note 6. 
+ Goodwill acquired Foreign currency translation adjustments Balance as of September 30, 2024 
+ 14 
+
+Table of Contents 
+
+ ) Customer relationships ) Trade name / Trademarks ) Total intangible assets ) 
+ December 31, 2023 Gross Carrying Amount Accumulated Amortization Net Carrying Amount Weighted Average Remaining Useful Life (In Years) Intangible assets with finite lives: Developed technology ) Customer relationships ) Trade name / Trademarks ) Total intangible assets ) 
+ We recognized amortization expense of million and million for the three months ended September 30, 2024 and 2023, respectively, and of million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+ 
+ Note 7. 
+ Unbilled accounts receivable Allowance for credit losses ) ) Accounts receivable, net 
+ The majority of invoices included within the unbilled accounts receivable balance are issued within the first week of the month directly following the period of service. 
+ 15 
+
+Table of Contents 
+
+ Deferred contract costs, current portion Contract assets Other receivable Other current assets Prepaid expenses and other current assets 
+ Property and equipment, net 
+ Depreciation and amortization expense for the three months ended September 30, 2024 and 2023 was million and million, respectively, and for the nine months ended September 30, 2024 and 2023 was million and million, respectively. Accumulated depreciation and amortization as of September 30, 2024 and December 31, 2023 was million and million, respectively. 
+ Accrued Expenses and Other Current Liabilities 
+ Accrued vendor liabilities Acquisition holdback liability Accrued bonus Deferred revenue Tax distributions payable to Continuing Equity Owners Accrued commissions Income tax payable Other current liabilities Accrued expenses and other liabilities 
+ Other Long-term Liabilities 
+ Asset retirement obligation Other long-term liabilities 
+ 
+ Note 8. 
+ years. In addition, some of these leases have renewal options for up to . The Company determines if an arrangement contains a lease at inception. Operating leases are included in operating lease right-of-use ROU assets, and operating lease liabilities on the Company's condensed consolidated balance sheets. The Company does have any finance leases. 
+ 16 
+
+Table of Contents 
+
+ months or less are not recorded on the balance sheet. The Company recognizes lease expense for these leases on a straight-line basis over the lease term. The Company does not account for lease components (e.g., fixed payments including rent) separately from the non-lease components (e.g., common-area maintenance costs). 
+ Operating lease costs were million and million for the three and nine months ended September 30, 2024, respectively. Variable lease cost and short-term lease costs were immaterial during the three and nine months ended September 30, 2024. 
+ 2025 2026 2027 2028 Thereafter Total future minimum lease payments Less: Imputed interest ) Present value of future minimum lease payments Less: Current portion of operating lease liability ) Operating lease liabilities - noncurrent 
+ Weighted average discount rate Cash paid for amounts included in the measurement of lease liabilities Leased assets obtained in exchange for new lease liabilities 
+
+Note 9. 
+ 
+ Continuing Equity Owners' interest in CWAN Holdings 
+ 17 
+
+Table of Contents 
+
+ Note 10. 
+ Denominator: Weighted average number of shares of Class A and Class D common stock outstanding - basic Basic net earnings per share attributable to Class A and Class D common stockholders 
+ Three Months Ended September 30, 2023 Nine Months Ended September 30, 2023 Class A Class D Class A Class D Basic and diluted net loss attributable to Class A and Class D common stockholders Numerator: Allocation of net loss attributable to Clearwater Analytics, Inc. ) ) ) ) Denominator: Weighted average number of shares of Class A and Class D common stock outstanding - basic and diluted Basic and diluted net loss per share attributable to Class A and Class D common stockholders ) ) ) ) 
+ 18 
+
+Table of Contents 
+
+ Reallocation of earnings as a result of conversion of potentially dilutive equivalents ) ) Reallocation of earnings as a result of conversion of Class D common stock to Class A common stock Allocation of undistributed earnings Denominator: Weighted average number of shares of Class A and Class D common stock outstanding - basic Add: weighted-average effect of dilutive securities exchangeable for Class A common stock: Stock options of Clearwater Analytics Holdings, Inc. RSUs of Clearwater Analytics Holdings, Inc. ESPP of Clearwater Analytics Holdings, Inc. Conversion of Class D common stock to Class A common stock outstanding Weighted average number of shares of Class A and Class D common stock outstanding - diluted Diluted net earnings per share attributable to Class A and Class D common stockholders 
+ The computation of diluted net earnings per share for the three and nine months ended September 30, 2023 is not separately presented as the Company was in a net loss position in such periods. 
+ Shares of the Company's Class B and Class C common stock do not participate in the earnings or losses of Clearwater Analytics Holdings, Inc. and are therefore not participating securities. As such, separate presentation of basic and diluted earnings per share of Class B and Class C common stock under the two-class method has not been presented. 
+ Stock options of Clearwater Analytics Holdings, Inc. RSUs of Clearwater Analytics Holdings, Inc. Employee stock purchase plans Total 
+ 19 
+
+Table of Contents 
+
+ Note 11. 
+ shares of common stock are authorized for issuance under the 2021 Plan. In connection with the approval of the 2021 Plan, the 2017 Equity Incentive Plan was terminated and all outstanding stock options and RSUs were transferred to the 2021 Plan. 
+ Options 
+ Granted Exercised ) Forfeited ) Balance - September 30, 2024 Options vested - September 30, 2024 
+ The aggregate intrinsic value as of September 30, 2024 disclosed in the above table is based on the difference between the exercise price of the stock option and the estimated fair value of the Company s common stock as of September 30, 2024. As of September 30, 2024, the total unrecognized compensation expense related to unvested options was million, which is expected to be recognized over a weighted average period of years. 
+ RSUs 
+ Granted Released ) Cancelled ) Unvested units as of September 30, 2024 
+ The aggregate intrinsic value disclosed in the above table is based on the closing stock price on the NYSE on September 30, 2024. As of September 30, 2024, there was million of unrecognized equity-based compensation expense related to RSUs, which is expected to be recognized over a weighted average period of years. 
+ Employee Stock Purchase Plan 
+ In September 2021, the Board adopted the Clearwater Analytics Holdings, Inc. 2021 Employee Stock Purchase Plan ESPP ). As of January 1, 2024, a total of shares of Class A common stock were available for issuance under the ESPP. The offering periods are scheduled to start on June 1 and December 1 of each year. Eligible employees may purchase the Company's common stock through payroll deductions at a price equal to of the lower of the fair market 
+ 20 
+
+Table of Contents 
+
+ offering periods. An employee's payroll deductions under the ESPP are limited to of the employee's compensation and an employee may not purchase more than of stock during any calendar year in which the employee s option to purchase stock under the ESPP is outstanding at any time. 
+ As of September 30, 2024, total unrecognized equity-based compensation costs related to ESPP were million, which is expected to be recognized over the remaining current offering period ending November 30, 2024. 
+ ESPP payroll contributions accrued at September 30, 2024 and December 31, 2023 totaled million and million, respectively, and are included within accrued expenses in the consolidated balance sheets. Employee payroll contributions used to purchase shares under the ESPP will be reclassified to stockholders' equity at the end of the offering period. 
+ 
+ Note 12. 
+ 
+ ) ) Benefit from income taxes ) ) ) ) Effective tax rate 
+ For the three and nine months ended September 30, 2024 and September 30, 2023, the Company s effective tax rate was different than the statutory rate primarily because of foreign taxes, equity-based compensation, the generation of tax credits and incentives, and the valuation allowance on U.S. deferred tax assets. In addition, the Company is not liable for income taxes on the portion of CWAN Holdings earnings that are attributable to the non-controlling interest. 
+ 
+ The Company regularly monitors its uncertain tax positions, and as of September 30, 2024, there were no material unrecognized tax benefits that, if realized, would affect the estimated annual effective tax rate, nor do we expect any significant changes within the next 12 months. 
+ We recognize deferred tax assets to the extent that we believe that these assets are more likely than not to be realized. The realization of tax benefits of net deferred tax assets is dependent upon future levels of taxable income, of an appropriate character, in the periods the items are expected to be deductible or taxable. Based on the available objective evidence as of September 30, 2024, we believe that it is more likely than not that the tax benefits of the U.S. deferred tax assets may not be realized. Accordingly, we have recorded a full valuation allowance against the U.S. net deferred tax assets. In our valuation allowance evaluation, we give more weight to evidence that can be objectively verified than to evidence that cannot be objectively verified. Our consideration of the evidence requires management to make a number of significant judgements, estimates, and assumptions about highly complex and inherently uncertain matters. 
+ 21 
+
+Table of Contents 
+
+ Note 13. 
+ of the amount of any tax benefits that we actually realize, or in some cases are deemed to realize, as a result of (i) increases in our share of the tax basis in the net assets of CWAN Holdings resulting from any redemptions or exchanges of CWAN Holdings units, (ii) tax basis increases attributable to payments made under the TRA, and (iii) deductions attributable to imputed interest and bonus payments pursuant to the TRA Bonus Agreements (the TRA Payments ). We expect to benefit from the remaining of any tax benefits that we may actually realize. The TRA Payments are not conditioned upon any continued ownership interest in CWAN Holdings or the Company. The rights of each member of CWAN Holdings, that is a party to the TRA, are assignable to transferees of their respective CWAN Holdings units. 
+ The estimation of a liability under the TRA is, by its nature, imprecise and subject to significant assumptions regarding a number of factors, including (but not limited to) the amount and timing of taxable income generated by the Company each year as well as the tax rate then applicable. The future tax benefits related to ownership exchanges completed as of September 30, 2024 are estimated to be million, of which million is estimated to be the associated TRA liability. 
+ As noted above, the Company evaluated the realizability of its U.S. deferred tax assets and has recorded a full valuation allowance against the future realization of those benefits. As such, TRA liability related to future years has been recorded as of September 30, 2024. 
+ 
+ Before considering the tax benefits subject to our TRA, we estimate that we will report taxable income in 2024 primarily due to capitalization of research and development expenses under Section 174 and equity-based compensation expense that has either not yet met the rules for deductibility or has had the deduction limited under Section 162(m). As there are many assumptions and considerations that impact our taxable income position in the current year, the estimate of our taxable income position (and thus, the TRA liability recognized) for the current year could change significantly. 
+ 
+ TRA expense related to current year TRA bonus expense related to the current year TRA expense adjustments to the filed tax return ) ) TRA bonus adjustments to the filed tax return ) ) Payments ) ) ) ) Ending Tax receivable agreement expense ) TRA bonus expense in operating expenses ) Total expense ) 
+ 
+ As of September 30, 2024, the non-controlling interest holders held units in CWAN Holdings that could, at their discretion, be exchanged for Class A shares. As units are exchanged, we may record future tax benefits and an associated TRA liability as a result of the increases in our tax basis in CWAN Holdings from the exchanges. The amount of the increase in the tax basis, the related estimated tax benefits, and the related TRA liability to be recorded will depend (among other things) on the price of the Company s Class A stock at the time of the relevant redemption or exchange. If the non-controlling interest holders exchanged all of their units at the Company s Class A stock price as of September 30, 2024, we estimate the future tax benefits related to these hypothetical exchanges to be million, of which million is estimated to be the associated TRA liability. 
+ 22 
+
+Table of Contents 
+
+ Note 14. 
+ million, inclusive of approximately million to be paid to the TRA Parties (net of the TRA Bonus Payments) and approximately million in cash bonus payments (the TRA Bonus Payments to be paid to certain executive officers of the Company pursuant to TRA Bonus Agreements (the TRA Bonus Recipients which TRA Bonus Payments are triggered under the TRA Bonus Agreements by the payment of the Settlement Payments to the TRA Parties, as consideration for the complete and full termination of the Company s payment obligations (past, current and future) under the TRA and the relinquishing of all payment rights (past, current and future) of the TRA Parties under the TRA (the payment of the Settlement Payments and the consummation of the other transactions contemplated by the Amendment, including the payment of TRA Bonus Payments, the TRA Buyout ). The aggregate amount of Settlement Payments is inclusive of million in TRA liabilities reported on the Company s balance sheet as of September 30, 2024. 
+ million of the million in TRA Bonus Payments to be made in connection with the TRA Buyout is payable to our named executive officers, Sandeep Sahai, Jim Cox, Scott Erickson and Subi Sethi, and the remaining is payable to certain other officers of the Company, each in their capacities as TRA Bonus Recipients. Each of the TRA Bonus Recipients are excluded from the Unaffiliated Stockholders entitled to vote at the special meeting. 
+ The Settlement Payments to be made by the Company will be funded by a cash distribution by CWAN Holdings to owners of its LLC Units in an aggregate amount equal to approximately million, of which million will be distributed to the Company and approximately million will be distributed to certain affiliates of Welsh Carson, each in their capacities as owners of CWAN Holdings LLC Units. 
+
+23 
+
+Table of Contents 
+
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our condensed consolidated financial statements and related notes included elsewhere in this Quarterly Report on Form 10-Q and with our Management s Discussion and Analysis of Financial Condition and Results of Operations and financial statements included in the Annual Report on Form 10-K. As discussed in the section titled Special Note Regarding Forward-Looking Statements, the following discussion contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those discussed below. Factors that could cause or contribute to such differences include, but are not limited to, those identified below and in the section titled Special Note Regarding Forward-Looking Statements in this Quarterly Report on Form 10-Q and those discussed in the section titled Risk Factors in the Annual Report on Form 10-K. 
+ 
+ Overview 
+ Clearwater brings transparency to the opaque world of investment accounting and analytics with what we believe is the industry s most trusted and innovative single instance, multi-tenant technology platform. Our cloud-native software allows clients to radically simplify their investment accounting operations, enabling them to focus on higher-value business functions such as asset allocation strategy and investment selection. Our platform provides comprehensive accounting, data and advanced analytics as well as highly-configurable reporting for global investment assets daily or on-demand, instead of weekly or monthly. We instill in our clients, confidence that they are making the most informed decisions about investment performance, regulatory compliance and risk. 
+ We provide investment accounting and reporting, performance measurement, compliance monitoring and risk analytics solutions for asset managers, insurance companies, government entities, and corporations. Every day, Clearwater s powerful platform aggregates and normalizes data on over 7.3 trillion of global invested assets for over 1,300 clients. We bring modern software to an industry that has long been dominated by difficult-to-use, high cost legacy technologies and processes, which often lack data integrity and traceability, and often require significant manual intervention. The strength of our platform is demonstrated by our approximately 80 win rate for new clients over the prior six years in deals that reached the proposal stage, as well as a NPS of 60+ and at least 98 gross retention in 22 of the last 23 quarters. 
+ We allow our clients to replace legacy systems with modern cloud-native software. Our platform helps clients reduce cost, time, errors and risk and allows them to reallocate resources to other value-creating activities. Our software aggregates, reconciles and validates data from more than 4,100 daily data feeds and more than four million securities that have been modeled across multiple currencies, asset classes and countries. This cleansed and validated data runs through our proprietary accounting, performance, compliance and risk solutions to provide clients with powerful analytics and daily or on-demand configurable reporting. We offer multi-asset class, multi-basis, multi-currency accounting and analytics that provide clients with a comprehensive view of their holdings and related performance. This allows our clients to make better, more timely decisions about their investment portfolios. 
+ Clearwater benefits from powerful network effects. With our single instance, multi-tenant architecture, every client, whether new or existing, enriches our global data set by making it more complete and accurate. Our software continually sources, ingests, models, reconciles and validates the terms, conditions and features of every investment security held by all of our clients. This continuous process helps to create a single repository of comprehensive, accurate investment data (often referred to within the industry as a Golden Copy of data) that benefits all our clients to the extent they otherwise have rights to the data. Through this continuous process, we are able to identify and adjudicate data discrepancies that otherwise could introduce error and risk into our clients investment portfolios. We believe that a meaningful competitive advantage of this network effect is that we are increasingly seen as the best and most accurate source of investment accounting data and analytics in the industry. 
+ We have a 100 recurring revenue model, excluding revenue from professional services and license-related revenue from the JUMP acquisition. We charge our clients a fee that is based on the amount and complexity of the assets they manage on our platform as well as the breadth of the solution utilized by the client. In 2022, we transitioned our contracting structure to a framework we describe as Base+ for all new clients. A Base+ contract framework includes a base fee for a prospective or existing client s book of business plus an incremental fee for increases in assets on the platform. This structure is designed to limit the downside volatility in our asset-based fees. We also began to amend contracts with our existing clients to either modify the structure of such contracts from a pure asset-based fee to this Base+ model or to increase the basis point price. Prior to 2022, we charged a basis point fee based on the client s assets on the platform subject to contracted minimums. For those clients contracted prior to 2022 and whose contract has not been amended, our revenues may more significantly fluctuate with the changes in those clients assets. A majority of the assets on our platform 
+ 24 
+
+Table of Contents 
+
+ are high-grade fixed income assets, which have traditionally had lower levels of volatility, enabling our highly predictable revenue streams. The Base+ model includes annual increases in the base fee and enables us to charge additional fees for supplemental services provided for certain alternative asset classes (e.g., LPx, MLx) or additional products (e.g. Prism, OMS/PMS) should the client choose to utilize those services. 
+ 
+ Key Factors Affecting Our Performance 
+ The growth and future success of our business depends on many factors, including those described below. 
+ Adding New Clients in Established End Markets: Our future growth is dependent upon our ability to continue to add new clients. We are focused on continuing to increase our client base in our established client end-markets of corporations, government entities, insurance companies and asset managers, and doing so with increasingly large and sophisticated clients. As we add clients, it takes time to fully onboard their assets to the platform. Our revenue generally increases as assets are added to the platform, while the effort to serve the client is relatively consistent over time. Therefore, we expect revenues and gross margins to increase for a client as the client transitions from the onboarding process to a steady state once assets have been onboarded. In any period, our gross margins may fluctuate based on the relative size and number of clients that we are onboarding at that time. 
+ Expanding and Retaining Relationships with Existing Clients: Our future growth is dependent upon retaining our existing clients and expanding our relationships with these clients through increases in the amount of their assets on our platform, or providing additional solutions and services. We have enjoyed consistent gross revenue retention rates of at least 98 in 22 of the past 23 quarters. The consistency in revenue retention creates predictability in our business and enables us to better plan our future investments. Our relationships with our clients expand as these clients add more assets to our platform, or as we provide additional solutions and services, with our quarterly net revenue retention rates (as defined below under Key Operating Measures between 108 and 114 over the past year. Clients may add assets as a result of acquiring new clients themselves or by acquiring new businesses or simply through organic growth, which produces additional assets that they manage using our platform. We believe that our client service model and technology platform are strong contributing factors in our attractive retention rates. As such, we expect to continue to invest in both our operations and research and development functions to maintain and increase our high levels of client satisfaction, which we believe will lead to strong client retention and expansion. 
+ International Expansion: We believe that the value provided by our platform is equally applicable to asset owners and asset managers outside of North America, and there is a significant opportunity to expand our client base and usage of our platform internationally. Our future growth is dependent upon our ability to successfully enter new international markets and to expand our client base in our current international markets. Our cost to acquire clients in international markets is currently greater than in North America because there is less awareness of the Clearwater brand and our product capabilities, and we have to date invested less in sales and marketing internationally. For these reasons, we expect to invest more in sales and marketing in international markets relative to North America in order to achieve growth in these international markets. 
+ Adding New Clients in Adjacent or Nascent End-Markets: Our strategy is to also add new clients in our more nascent end-markets, which include state and local governments, pension funds and sovereign wealth funds, as well as a variety of alternative asset managers. Traditionally, our existing clients have been among our best resources for referring new clients to us, and we will continue to invest in sales and marketing to build awareness of our brand, engage prospective clients and drive adoption of our platform, particularly as it relates to expanding into new end-markets. As we establish our presence in new end-markets, we expect sales and marketing expenditures will be less efficient than in our established verticals and we will become increasingly more efficient at acquiring clients in new end-markets over time. 
+ Expanding Solutions and Broadening Innovation: Our future growth is dependent upon our continued expansion of our solutions in order to better retain our current clients and to develop new use cases that appeal to new clients. While we believe we will be able to reduce our research and development expenses as a percentage of revenues as we achieve greater scale, our priority is to maintain and grow our technological advantage over our competitors. As we identify opportunities to increase our technological and competitive advantages, we may increase our investments in research and development at rates that are faster than our growth in revenues in order to enhance our long-term growth and profitability. 
+ 25 
+
+Table of Contents 
+
+ Fluctuations in the Market Value of Assets on the Platform: Although we generally have a base fee and adopted our Base+ model in 2022, we also bill our clients monthly in arrears based on a basis point rate applied to our clients assets on our platform, which can be influenced by general economic conditions. While 77 of the assets on our platform were high-grade fixed income securities and structured products as of December 31, 2023 and traditionally subject to lower levels of volatility, the value of our clients assets on our platform varies on a daily basis due to changes in securities prices, cash flow needs, incremental buying and selling of assets and other strategic priorities of our clients. For these reasons, our revenue is subject to fluctuations based on economic conditions, including market conditions and the changing interest rate environment. 
+ 
+ Key Components of Results of Operations 
+ The following discussion describes certain line items in our condensed consolidated statements of operations. 
+ Revenue 
+ We generate revenue from fees derived from providing clients with access to the solutions and services on our SaaS platform. Sales of our offering include a right to use our software in a hosted environment without taking possession of the software. Our contracts are generally cancellable with 30 days notice without penalty. We invoice clients monthly in arrears based on a percentage of the average daily value of assets within a client s accounts on our platform during that month, or based on a fixed monthly base fee. Payment terms may vary by contract but generally include a requirement of payment within 30 days following the month in which services are provided. Fees invoiced in advance of the delivery of the Company s performance obligations are deemed set-up activities and are deferred as a material right and recognized over time, typically 12 months. Through our JUMP subsidiary which we acquired on November 30, 2022, we also earn license revenue. 
+ Cost of Revenue 
+ Cost of revenue consists of expenses related to delivery of revenue-generating services, including expenses associated with client services, onboarding, reconciliation and agreements related to the purchase of data used in the provision of our services. Salary and benefits for certain personnel associated with supporting these functions, in addition to allocated overhead, amortization of acquisition-related developed technology intangible asset, and depreciation for facilities, are also included in cost of revenue. 
+ Operating Expenses 
+ Research and development expense consists primarily of salary and benefits for our development staff as well as contractors fees and other costs associated with the enhancement of our offering, ensuring operational stability and performance and development of new offerings. 
+ Sales and marketing expense consists of the costs of personnel involved in the sales and marketing process, sales commissions, advertising and promotional materials, sales facilities expenses, and the cost of trade shows and seminars. 
+ General and administrative expense consists primarily of personnel costs for information technology, finance, administration, human resources and general management, as well as expenses from legal, corporate technology and accounting service providers. 
+ Interest Income, Net 
+ Interest income relates to interest received on our cash and cash equivalents based on interest rates in the course of the applicable period, and interest received from other investments. 
+ Interest expense reflects interest accrued on our outstanding term loan during the course of the applicable period. The accrual of interest varies depending on the timing and amount of borrowings and repayments during the period as well as fluctuations in interest rates. 
+ Tax Receivable Agreement (Benefit) Expense 
+ In connection with the IPO and related transactions, we entered into a TRA that provides for the payment by us of 85 of certain tax benefits that we realize as a result of increases in our tax basis of CWAN Holdings resulting from redemptions or exchanges of CWAN Holdings units. Tax receivable agreement expense relates to amounts that are probable of being incurred under the TRA. 
+ Other (Income) Expense, Net 
+ Other (income) expense, net consists of gains and losses of foreign currency and investments. 
+ 26 
+
+Table of Contents 
+
+ Benefit from Income Taxes 
+ Benefit from income taxes consists of income taxes related to federal, state, and foreign jurisdictions where we conduct our business. Our effective tax rate may increase in the future as our ownership in CWAN Holdings increases via exchanges from historical partners. In addition, our discrete items may not be consistent from period to period and could cause volatility in our effective tax rate. 
+ 
+ Key Operating Measures 
+ We consider certain operating measures, such as annualized recurring revenue, gross retention rates and net retention rates, in measuring the performance of our business. The following table summarizes these operating measures as of the dates presented: 
+ First Quarter Second Quarter Third Quarter Fourth Quarter 2024 Annualized recurring revenue (in thousands) 402,326 427,189 456,941 Gross revenue retention rate 99 99 99 Net revenue retention rate 110 110 114 2023 Annualized recurring revenue (in thousands) 337,366 349,536 362,442 379,096 Gross revenue retention rate 97 98 98 98 Net revenue retention rate 106 109 108 107 
+ Annualized Recurring Revenue 
+ Annualized recurring revenue is calculated at the end of a period by dividing the recurring revenue in the last month of such period by the number of days in the month and multiplying by 365. 
+ Because a substantial majority of the assets on our platform typically have low levels of volatility with respect to their market value, the growth in annualized recurring revenue is generally not attributable to the fluctuating market value of the assets on our platform. Rather, the growth in annualized recurring revenue is due to an increase in the number of clients using our offering as well as from onboarding more assets of our existing clients onto our platform. 
+ Annualized recurring revenue increased by 26.1 from September 30, 2023 to September 30, 2024 on account of growth in our client base as we brought new clients onto our platform, added additional assets onto our platform from existing clients, increased services for existing clients and acquired the customer base related to the Wilshire Technology acquisition. 
+ Gross Revenue Retention Rate 
+ Gross revenue retention rate represents annual contract value ACV at the beginning of the 12-month period ended on the reporting date less client attrition over the prior 12-month period, divided by ACV at the beginning of the 12-month period, expressed as a percentage. ACV is comprised of annualized recurring revenue plus contracted-not-billed revenue, which represents the estimated annual contracted revenue for new and existing client opportunities prior to revenue recognition. In order to arrive at total ACV, we include contracted-not-billed revenue, as it is contracted revenue that has not been recognized but that we expect to produce recognized revenue in the future. Client attrition occurs when a client provides a contract termination notice. The amount of client attrition is calculated as the reduction in annualized revenue of the client at the time of the notice and is recorded in the month the final billing occurs. In the case of client attrition where contracted-not-billed revenue is still present for a client, both annualized recurring revenue and contracted-not-billed revenue associated with such client are deducted from ACV. 
+ As of September 30, 2024, the gross revenue retention rate was 99 compared to 98 as of September 30, 2023. The Company has reported a gross revenue retention rate of at least 98 for 22 out of the 23 prior quarters. We believe the consistent and high gross revenue retention rate is a testament to the value proposition that our leading solution offers. 
+ Net Revenue Retention Rate 
+ Net revenue retention rate is the percentage of recurring revenue retained from clients on the platform for 12 months and includes changes from the addition, removal or value of assets on our platform, contractual changes that have an impact to annualized recurring revenues and lost revenue from client attrition. We calculate net revenue retention rate as of a period end by starting with the annualized recurring revenue from clients as of the 12 months prior to such period end. 
+ 27 
+
+Table of Contents 
+
+ We then calculate the annualized recurring revenue from these clients as of the current period end. We then divide the total current period end annualized recurring revenue by the 12-month prior period end annualized recurring revenue to arrive at the net revenue retention rate. 
+ 
+ Non-GAAP Financial Measures 
+ We also consider certain non-GAAP financial measures that are not prepared in accordance with accounting principles generally accepted in the United States GAAP ), such as Adjusted EBITDA and Adjusted EBITDA Margin, in measuring the performance of our business. The non-GAAP measures are not based on any standardized methodology prescribed by GAAP and are not necessarily comparable to similar measures presented by other companies. However, we believe that this non-GAAP information is useful as an additional means for investors to evaluate our operating performance, when reviewed in conjunction with our GAAP financial statements. These measures should not be considered in isolation or as a substitute for measures prepared in accordance with GAAP, and because these amounts are not determined in accordance with GAAP, they should not be used exclusively in evaluating our business and operations. In addition, undue reliance should not be placed upon non-GAAP or operating information because this information is neither standardized across companies nor subjected to the same control activities and audit procedures that produce our GAAP financial results. 
+ Adjusted EBITDA and Adjusted EBITDA Margin 
+ Adjusted EBITDA and Adjusted EBITDA Margin are supplemental performance measures that our management uses to assess our operating performance. We define Adjusted EBITDA as net income (loss) plus (i) interest income, net, (ii) depreciation and amortization, (iii) equity-based compensation expense and related payroll taxes, (iv) tax receivable agreement expense, (v) transaction expenses, and (vi) other (benefit) expenses. We define Adjusted EBITDA Margin as Adjusted EBITDA divided by revenue. 
+ The following tables reconcile net income (loss) to Adjusted EBITDA and include amounts expressed as a percentage of revenue for the periods indicated. 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands, except percentages) (in thousands, except percentages) Net income (loss) 4,769 4 (2,343) (2 7,280 2 (19,636) (7 Adjustments: Interest income, net (2,290) (2 (1,733) (2 (6,191) (2 (4,422) (2 Depreciation and amortization 3,239 3 2,476 3 8,730 3 7,336 3 Equity-based compensation expense and related payroll taxes 26,907 23 31,225 33 80,540 25 84,417 31 Tax receivable agreement (benefit) expense 5,344 5 (566) (1) 11,545 4 6,112 2 Transaction expenses 248 0 61 0 1,926 1 1,612 1 Other (benefit) expenses (1) 
+ 123 0 (564) (1 162 0 504 0 Adjusted EBITDA 38,340 33 28,556 30 103,992 32 75,923 28 Revenue 115,828 100 94,664 100 325,338 100 269,149 100 
+ (1) Other (benefit) expenses include gains on investments, management fees to our investors, income taxes, and foreign exchange gains and losses. 
+ 28 
+
+Table of Contents 
+
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) Amortization of prepaid management fees and reimbursable expenses 608 681 1,780 1,894 Benefit from income tax expense (486) (274) (505) (184) Other (income) expense, net 1 (971) (1,113) (1,205) Total other (benefit) expenses 123 (564) 162 504 
+ 
+ Results of Operations 
+ The following tables set forth our results of operations for the three and nine months ended September 30, 2024 and 2023 (in thousands): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) Revenue 115,828 94,664 325,338 269,149 Cost of revenue (1) 
+ 31,357 27,013 89,426 78,792 Gross profit 84,471 67,651 235,912 190,357 Operating expenses: Research and development (1) 
+ 36,618 32,250 109,654 90,198 Sales and marketing (1) 
+ 17,889 15,020 49,369 44,049 General and administrative (1) 
+ 22,626 26,268 65,873 75,445 Total operating expenses 77,133 73,538 224,896 209,692 Income (loss) from operations 7,338 (5,887) 11,016 (19,335) Interest income, net (2,290) (1,733) (6,191) (4,422) Tax receivable agreement (benefit) expense 5,344 (566) 11,545 6,112 Other (income) expense, net 1 (971) (1,113) (1,205) Income (loss) before income taxes 4,283 (2,617) 6,775 (19,820) Benefit from income taxes (486) (274) (505) (184) Net income (loss) 4,769 (2,343) 7,280 (19,636) Less: Net income (loss) attributable to non-controlling interests 1,140 (454) 2,184 (2,442) Net income (loss) attributable to Clearwater Analytics Holdings, Inc. 3,629 (1,889) 5,096 (17,194) 
+ (1) Amounts include equity-based compensation as follows: 
+ Cost of revenue 3,460 3,346 9,879 8,837 Operating expenses: Research and development 8,674 6,768 26,767 17,393 Sales and marketing 3,905 4,010 10,418 11,221 General and administrative 9,937 16,233 27,995 44,675 Total equity-based compensation expense 25,976 30,357 75,059 82,126 
+ 29 
+
+Table of Contents 
+
+ The following table sets forth our consolidated statements of operations data expressed as a percentage of revenue for the periods indicated. 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenue 100 100 100 100 Cost of revenue 27 29 27 29 Gross profit 73 71 73 71 Operating expenses: Research and development 32 34 34 34 Sales and marketing 15 16 15 16 General and administrative 20 28 20 28 Total operating expenses 67 78 69 78 Income (loss) from operations 6 (6 3 (7 Interest income, net (2 (2 (2 (2 Tax receivable agreement (benefit) expense 5 (1 4 2 Other (income) expense, net 0 (1 0 0 Income (loss) before income taxes 4 (3 2 (7 Benefit from income taxes 0 0 0 0 Net income (loss) 4 (2) 2 (7) 
+ Comparison of the three and nine months ended September 30, 2024 and 2023 (unaudited) 
+ Revenue 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands, except percentages) 2024 2023 Change Change 2024 2023 Change Change Revenue 115,828 94,664 21,164 22 325,338 269,149 56,189 21 
+ Revenue increased 21.2 million and 56.2 million for the three and nine months ended September 30, 2024, respectively, as compared to the corresponding periods in 2023. The increase was primarily on account of 10.8 million and 21.6 million of growth in our client base for the three and nine months ended September 30, 2024, respectively. Further, our growth was due to the acquired customer base related to the Wilshire Technology acquisition, new clients brought onto our platform, as well as changes to our existing clients assets on our platform and increasing revenue which is not related to assets on our platform. Average assets on our platform that were billed to new and existing clients increased by 17.5 and 14.8 for the three and nine months ended September 30, 2024, respectively, as compared to the corresponding periods in 2023. Average basis point rate billed to clients increased by 5.7 and 5.3 for the three and nine months ended September 30, 2024, respectively, compared to the corresponding periods in 2023. 
+ 30 
+
+Table of Contents 
+
+ Cost of Revenue 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands, except percentages) 2024 2023 Change Change 2024 2023 Change Change Equity-based compensation 3,460 3,346 114 3 9,879 8,837 1,042 12 All other cost of revenue 27,897 23,667 4,230 18 79,547 69,955 9,592 14 Total cost of revenue 31,357 27,013 4,344 16 89,426 78,792 10,634 13 Percent of revenue 27 29 27 29 
+ Cost of revenue changed as follows: 
+ Change From 2023 to 2024 QTD Change From 2023 to 2024 YTD (in thousands) Increased payroll and related costs 1,954 5,198 Increased data costs 1,182 1,870 Increased depreciation and amortization 709 1,401 Increased facilities and infrastructure expenses 344 1,026 Increased equity-based compensation 114 1,042 Other items 41 97 Total change 4,344 10,634 
+ The increase in cost of revenue for the three and nine months ended September 30, 2024 was primarily due to increased payroll and related costs due to headcount growth, increases in merit-based compensation, and changes in our employee base leading to higher compensation and increased equity-related payroll taxes for vested equity awards. In addition, cost of revenue increased due to higher data costs for acquiring vendor data contracts related to the Wilshire Technology acquisition, increased depreciation and amortization related to the amortization of acquired Wilshire Technology intangible assets, increased allocation of facilities cost due to additional office space, and increased equity-based compensation due to grants of additional awards to employees. 
+ Operating Expenses 
+ Research and Development 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands, except percentages) 2024 2023 Change Change 2024 2023 Change Change Equity-based compensation 8,674 6,768 1,906 28 26,767 17,393 9,374 54 All other research and development 27,944 25,482 2,462 10 82,887 72,805 10,082 14 Total research and development 36,618 32,250 4,368 14 109,654 90,198 19,456 22 Percent of revenue 32 34 34 34 
+ 31 
+
+Table of Contents 
+
+ Research and development expenses changed as follows: 
+ Change From 2023 to 2024 QTD Change From 2023 to 2024 YTD (in thousands) Increased equity-based compensation 1,906 9,374 Increased technology 1,220 3,770 Increased payroll and related costs 1,590 6,173 Increased facilities and infrastructure expenses 190 251 Decreased outside services and contractors (484) (372) Other items (54) 260 Total change 4,368 19,456 
+ The increase in research and development expense for the three and nine months ended September 30, 2024 was primarily due to increased equity-based compensation due to grants of additional awards to employees, increased technology costs from higher utilization of third-party cloud computing services and other third-party IT services. In addition, research and development expense increased due to increased payroll and related costs due to headcount growth, increases in merit-based compensation, and changes in our employee base leading to higher compensation and increased equity-related payroll taxes for vested equity awards, and increased allocation of facilities related to additional office space. This was offset by a decreased use of outside services and contractors due to lower utilization of third-party consultants on development activities due to a focus on internal hiring of developers. 
+ Sales and Marketing 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands, except percentages) 2024 2023 Change Change 2024 2023 Change Change Equity-based compensation 3,905 4,010 (105) (3) 10,418 11,221 (803) (7) All other sales and marketing 13,984 11,010 2,974 27 38,951 32,828 6,123 19 Total sales and marketing 17,889 15,020 2,869 19 49,369 44,049 5,320 12 Percent of revenue 15 16 15 16 
+ Sales and marketing expense changed as follows: 
+ Change From 2023 to 2024 QTD Change From 2023 to 2024 YTD (in thousands) Increased payroll and related costs 2,354 4,047 Increased outside services and contractors 84 720 Increased travel and entertainment 57 547 Increased marketing 234 766 Decreased equity-based compensation (105) (803) Other items 245 43 Total change 2,869 5,320 
+ The increase in sales and marketing expense for the three and nine months ended September 30, 2024 was primarily due to increased payroll and related costs as a result of headcount growth and increases in merit-based compensation, increased equity-related payroll taxes and additional employees to expand sales coverage. In addition, sales and marketing expense increased due to higher utilization of outside services, contractors and third-party consultants supporting marketing 
+ 32 
+
+Table of Contents 
+
+ initiatives, increased travel and entertainment expense as employees traveled more between our office locations and clients to support sales and marketing initiatives, and increased marketing costs due to additional marketing events and IT subscriptions supporting marketing initiatives. This was partially offset by a decrease in equity-based compensation due to fewer performance-based awards being granted. 
+ General and Administrative 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands, except percentages) 2024 2023 Change Change 2024 2023 Change Change Equity-based compensation 9,937 16,233 (6,296) (39) 27,995 44,675 (16,680) (37) All other general and administrative 12,689 10,035 2,654 26 37,878 30,770 7,108 23 Total general and administrative 22,626 26,268 (3,642) (14) 65,873 75,445 (9,572) (13) Percent of revenue 20 28 20 28 
+ General and administrative expenses changed as follows: 
+ Change From 2023 to 2024 QTD Change From 2023 to 2024 YTD (in thousands) Decreased equity-based compensation (6,296) (16,680) Increased outside services and contractors 606 2,902 Increased payroll and related costs 1,358 2,696 Increased facilities and infrastructure expenses 163 867 Increased travel and entertainment 142 410 Other items 385 233 Total change (3,642) (9,572) 
+ The decrease in general and administrative expense for the three and nine months ended September 30, 2024 was primarily due to decreased equity-based compensation expense related to JUMP acquisition awards which contained a performance criteria related to achievement of a fixed revenue threshold for JUMP revenue during the year ended December 31, 2023. This decrease was partially offset by higher utilization of professional services supporting accounting, legal and human resources related to secondary transactions and acquisition related activities, increased payroll and related costs as a result headcount growth and increases in merit-based compensation, and equity-related payroll taxes on vested equity awards, increased allocation of facilities cost due to additional office space, and increased travel and entertainment as employees traveled more between office locations. 
+ 
+ 33 
+
+Table of Contents 
+
+ Non-Operating Expenses 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands, except percentages) 2024 2023 Change Change 2024 2023 Change Change Interest income, net (2,290) (1,733) (557) 32 (6,191) (4,422) (1,769) 40 Tax receivable agreement expense 5,344 (566) 5,910 (1044) 11,545 6,112 5,433 89 Other (income) expense, net 1 (971) 972 (100) (1,113) (1,205) 92 (8) 
+ Interest income, net increased in the three and nine months ended September 30, 2024 due to increased interest income on our cash, cash equivalents and investments from higher interest rates, and expansion of investments. 
+ The tax receivable agreement expense is incurred in the period in which we determine that it is probable that payments will be made under the terms of the TRA. Before considering the tax benefits subject to our TRA, we estimate that we will report taxable income in 2024 primarily due to the capitalization of research and development expenses under Section 174 and equity-based compensation expense that has either not yet met the rules for deductibility or has had the deduction limited under Section 162(m) of the Code. Therefore, we expect to utilize tax benefits subject to our TRA and have recorded the associated tax receivable agreement expense. The tax receivable agreement expense increased in the three and nine months ended September 30, 2024 due to an increased amount of taxable income and the absence of a favorable return to provision adjustment compared to the previous year. 
+ Other (income) expense, net relates to foreign exchange gains and losses driven by fluctuations in exchange rates, and gains and losses related to our investments. 
+ Benefit from Income Taxes 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands, except percentages) 2024 2023 Change Change 2024 2023 Change Change Benefit from income taxes (486) (274) (212) 77 (505) (184) (321) 174 
+ The movement in benefit from income taxes for the three and nine months ended September 30, 2024 relates to a decrease in estimated tax expense for the year, offset by return to provision adjustments for filed tax returns. The decrease in estimated tax expense is primarily related to estimated taxable losses in France. 
+ We currently have a full valuation allowance recorded on our U.S. net deferred tax assets. Given our current earnings and anticipated future earnings, we believe that there is a reasonable possibility that in the foreseeable future, sufficient positive evidence may become available that results in a conclusion that all or a portion of the valuation allowance will no longer be needed. Release of the valuation allowance would result in the recognition of certain deferred tax assets, the recognition of the TRA liability, a decrease to income tax expense, and an increase pretax expense for the period the release is recorded. However, the exact timing and amount of the valuation allowance release are subject to change on the basis of the level of profitability that we are able to actually achieve. 
+ 
+ Liquidity and Capital Resources 
+ To date, we have primarily financed our operations through cash flows from operations and financing activities. 
+ As of September 30, 2024, we had total cash, cash equivalents and investments of 336.7 million, including cash and cash equivalents of 228.7 million, short-term investments of 77.1 million and long-term investments of 30.9 million. Cash, cash equivalents and short-term investments primarily consist of highly-liquid investments in money market 
+ 34 
+
+Table of Contents 
+
+ funds, commercial paper, U.S. agency securities, U.S. government bonds, corporate debt securities and certificates of deposit. Long-term investments primarily consist of U.S. agency securities and corporate debt securities. In April 2024, we used 40.1 million of cash to acquire the risk and performance analytics solutions businesses of Wilshire Advisors LLC. 
+ As more fully disclosed in Note 14 of the financial statements, on November 4, 2024, the Company entered into Amendment No. 1 to the Tax Receivable Agreement (the Amendment by and among (i) the Company, (ii) CWAN Holdings and (iii) certain affiliates of the Principal Equity Owners, which amends the TRA. Pursuant to the Amendment, the TRA will be amended to provide for the payment of one-time settlement payments (each, a Settlement Payment and collectively, the Settlement Payments in a gross amount of approximately million. The effectiveness of the Amendment is subject to the approval of the Amendment by a majority of the Unaffiliated Stockholders and an absence of regulatory orders or laws prohibiting the effectiveness of the Amendment. The Settlement Payments to be made by the Company will be funded by a cash distribution by CWAN Holdings to owners of its LLC Units in an aggregate amount equal to approximately million, of which million will be distributed to the Company and approximately million will be distributed to certain affiliates of Welsh Carson, each in their capacities as owners of CWAN Holdings LLC Units. If the Unaffiliated Stockholders approve, the Company expects to pay the 81.6 million in Settlement Payments in the fourth quarter of 2024. 
+ We believe our existing cash and cash equivalents will be sufficient to meet our operating working capital and capital expenditure requirements over the next 12 months, including any payments made to terminate the TRA. Our future financing requirements will depend on many factors, including our growth rate, revenue retention rates, the timing and extent of spending to support development of our platform and any future investments or acquisitions we may make. Additional funds may not be available on terms favorable to us or at all, including as a result of disruptions in the credit markets. See Risk Factors in the Annual Report. 
+ The following table shows our cash flows from operating activities, investing activities and financing activities for the stated periods: 
+ Nine Months Ended September 30, 2024 2023 (in thousands) Net cash provided by operating activities 103,520 60,505 Net cash used in investing activities (54,772) (95,613) Net cash used in financing activities (42,525) (9,924) Effect of exchange rate changes on cash and cash equivalents 706 (27) Change in cash and cash equivalents during the period 6,929 (45,059) 
+ Cash Flows from Operating Activities 
+ Net cash provided by operating activities of 103.5 million during the nine months ended September 30, 2024 was primarily the result of our net income adjusted for non-cash charges, including equity-based compensation, operating lease expense and depreciation and amortization and positive changes in operating assets and liabilities. Cash flows resulting from changes in operating assets and liabilities include an increase in tax receivable agreement liability of 9.9 million due to the accrual of current year s liability and the timing of tax payments for the year ended December 31, 2023, increase in accrued expenses and other liabilities of 3.8 million primarily due to increased deferred revenue for professional services invoiced in advance of services being performed partially offset by payment in the first quarter of 2024 of bonuses to employees earned in 2023 and payments related to our operating leases, reduction of prepaid expenses and other assets 1.1 million primarily due to amortization of prepaid software subscriptions, partially offset by an increase in accounts receivable of 7.9 million comprised of 16.8 million increase from growth in revenues offset by a 8.9 million decrease due to collection of aged receivable balances and increase in deferred commissions 3.4 million as a result of growth in sales leading to higher commission payouts. 
+ Net cash provided by operating activities of 60.5 million during the nine months ended September 30, 2023 was primarily the result of our net loss adjusted for non-cash charges, including equity-based compensation, tax receivable agreement (benefit) expense, operating lease expense and depreciation and amortization, partially offset by net investment in operating assets and liabilities. Cash flows resulting from changes in operating assets and liabilities include an increase in accounts receivable of 18.9 million comprised of 10.5 million from growth in revenues and 8.4 million from aging of receivable balances for certain customers due to short-term deterioration in days sales outstanding which we continue to believe are collectible, increase in deferred commissions of 2.7 million due to higher revenues in the period, reduction in accrued expenses and other liabilities of 6.2 million primarily due to payment in the first quarter of 2023 of bonuses to 
+ 35 
+
+Table of Contents 
+
+ employees earned in 2022, timing of option exercises by international employees, payments related to our operating leases, and increased deposits related to leased offices and increase in tax receivable agreement liability of 6.1 million, partially offset by reduction in prepaid expenses and other assets of 4.2 million due to amortization of annual prepaid services. 
+ Cash Flows from Investing Activities 
+ Net cash used in investing activities of 54.8 million during the nine months ended September 30, 2024 was primarily due to the acquisition of Wilshire Technology of 40.1 million, the purchase of 94.0 million available-for-sale investments, the purchase of 3.0 million of held-to-maturity investments and 4.4 million attributable to the purchase of property and equipment, including internally developed software, partially offset by 86.9 million in proceeds from the sale and maturity of investments. 
+ Net cash used in investing activities of 95.6 million during the nine months ended September 30, 2023 was primarily due to the purchase of 111.0 million available-for-sale investments and 4.1 million attributable to the purchase of property and equipment, including internally developed software, partially offset by 19.5 million in proceeds from the sale and maturity of investments. 
+ Cash Flows from Financing Activities 
+ Net cash used in financing activities during the nine months ended September 30, 2024 was 42.5 million, of which 42.7 million was used to pay tax withholding on behalf of employees related to net share settlement, 0.8 million was used for the payment of the holdback liability related to the JUMP acquisition, and 2.1 million was used for repayment of borrowings, partially offset by 2.8 million of proceeds from the employee stock purchase plan. 
+ Net cash used in financing activities during the nine months ended September 30, 2023 was 9.9 million, of which 14.9 million was used to pay minimum tax withholding on behalf of employees related to net share settlement and 2.1 million was used in the repayment of borrowings, partially offset by 4.5 million of proceeds from the exercise of options and 2.6 million of proceeds from the employee stock purchase plan. 
+ 
+ Critical Accounting Policies and Estimates 
+ Management s discussion and analysis of our financial condition and results of operations are based upon our condensed consolidated financial statements and related notes, which have been prepared in accordance with GAAP. We review the accounting policies used in reporting our financial results on a regular basis. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenues and expenses, and related disclosure of contingent liabilities. 
+ On an ongoing basis, we evaluate the process we use to develop estimates. We base our estimates on historical experience and on other information that we believe is reasonable for making judgments at the time the estimates are made. Actual results may differ from our estimates due to actual outcomes being different from those on which we based our assumptions. 
+ There have been no material changes to our critical accounting policies and estimates as compared to the critical accounting policies and estimates described in the Annual Report under the caption Critical Accounting Estimates in Management s Discussion and Analysis of Financial Condition and Results of Operations, set forth in Part II, Item 7. 
+ 
+ Recent Accounting Pronouncements 
+ There are no recent accounting pronouncements during the nine months ended September 30, 2024. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk. 
+ AUM Market Price Risk 
+ The vast majority of our revenue is derived from fees that are primarily based on the amount of assets on our platform. These fees are stated in basis points, or 1/100th of 1 . Though in substantially all cases we charge a minimum fee regardless of the assets that are loaded onto our platform, our revenues fluctuate based on the value of the assets that our clients maintain on our platform. A total of 7.3 trillion and 6.4 trillion of assets was loaded on our platform as of December 31, 2023 and 2022, respectively. Movements in funds invested between different securities or fluctuations in securities prices or investment performance could cause the value of AUM to decline, which would result in lower fees we receive from our clients. 
+ 36 
+
+Table of Contents 
+
+ Interest Rate Risk 
+ We have interest rate risk relating to debt and associated interest expense under the New Credit Agreement, which has been amended to be indexed to SOFR. At any time, a rise in interest rates could have a material adverse impact on our earnings and cash flows. Conversely, a decrease in interest rates could result in a material increase in earnings and cash flows. We estimate that a hypothetical increase or decrease in SOFR of 100 basis points would increase or decrease, respectively, our interest expense or income by approximately 0.5 million on an annual basis, based on our 46.8 million debt balance under the New Credit Agreement at September 30, 2024. 
+ Inflation 
+ Our business, financial condition and results of operations may be impacted by macroeconomic conditions, including rising inflation. Although our operations have been impacted by rising inflation from time to time, we currently do not believe that inflation has had a material direct effect on our overall business, financial condition or results of operations. However, if our costs were to become subject to significant inflationary pressures, we may not be able to fully offset higher costs through price increases and our inability or failure to do so could potentially harm our business, financial condition, and results of operations. 
+ 
+ Item 4. Controls and Procedures. 
+ Evaluation of Disclosure Controls and Procedures 
+ As of the end of the period covered by this Quarterly Report on Form 10-Q, our management, with the participation of our Chief Executive Officer and our Chief Financial Officer, evaluated the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act )). Based on that evaluation, our CEO and CFO have concluded that, as of the end of the period covered by this report, our disclosure controls and procedures were not effective as of such date due to the material weakness in internal control over financial reporting that was disclosed in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+ In light of the material weakness, management performed additional analysis and other procedures to ensure that our condensed consolidated financial statements were prepared in accordance with U.S. GAAP. Accordingly, management believes that the condensed consolidated financial statements included in this Quarterly Report on Form 10-Q fairly present, in all material respects, our financial position, results of operations, and cash flows as of and for the periods presented, in accordance with U.S. GAAP. 
+ The Company s management, including the CEO and CFO, does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent all errors and all fraud due to inherent limitations of internal controls. Because of such limitations, there is a risk that material misstatements will not be prevented or detected on a timely basis by internal control over financial reporting. However, these inherent limitations are known features of the financial reporting process. Therefore, it is possible to design into the process safeguards to reduce, though not eliminate, this risk. 
+ Ongoing Remediation of Previously Identified Material Weakness 
+ Our management is committed to maintaining a strong internal control environment. In response to the material weakness identified above, management, under the oversight of the Audit Committee, is designing and implementing actions to remediate the control deficiencies contributing to the material weakness.These remediation actions are ongoing and include or are expected to include: 
+ Enhancing risk assessment and control identification procedures for our invoicing systems environment; 
+ Expanding controls and/or applying other appropriate procedures to address the design and operation of IT general controls within our invoicing systems environment; 
+ Enhancing the number of employees and our training programs addressing IT general controls and policies, including educating control owners concerning the principles and requirements of each control, with a focus on those related to user access, change management, program development and computer operations within our invoicing system environment; and 
+ Enhancing and maintaining policy documentation underlying IT general controls to promote knowledge transfer upon personnel and function changes. 
+ 37 
+
+Table of Contents 
+
+ As we continue to evaluate and enhance our internal control over financial reporting, we may determine that additional measures to address the material weaknesses or adjustments to the remediation plan may be required. Once controls are designed and implemented, the controls must be operating effectively for a sufficient period of time and be tested by management in order to consider them remediated and conclude that the design is effective to address the risks of material misstatement. 
+ 
+ Changes in Internal Control Over Financial Reporting 
+ During the quarter ended September 30, 2024, no change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) occurred that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+38 
+
+Table of Contents 
+
+ PART II OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings. 
+ From time to time, we are subject to certain legal proceedings and claims that arise in the normal course of business. In the opinion of our management, we are not involved in any litigation or proceedings with third parties that we believe could have a material adverse effect on our results of operations, financial condition or business. 
+ 
+ Item 1A. Risk Factors. 
+ In addition to the information set forth in this Quarterly Report on Form 10-Q, you should carefully consider the factors discussed in the Risk Factors section of our Annual Report. There have been no material changes to the risk factors disclosed in the Risk Factors section of our Annual Report. 
+ In addition to our results determined in accordance with U.S. GAAP, we believe certain non-GAAP measures may be useful in evaluating our operating performance. We present certain non-GAAP financial measures in our Annual Report on Form 10-K and each Quarterly Report on Form 10-Q, and intend to continue to present certain non-GAAP financial measures in future filings with the SEC and other public statements. Any failure to accurately report and present our non-GAAP financial measures could cause investors to lose confidence in our reported financial and other information, which would likely have a negative effect on the trading price of our Class A common stock. 
+ 
+ Item 2. Unregistered Sales of Equity Securities. 
+ There were no sales of unregistered equity securities during the three months ended September 30, 2024. 
+ 
+ Item 3. Defaults Upon Senior Securities. 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures. 
+ Not applicable. 
+ 
+ Item 5. Other Information. 
+ 
+ During the three months ended September 30, 2024, the following officer a , as such term is defined in Item 408(a) of Regulation S-K. All trading plans that were adopted during the period were entered into during an open insider trading window and are intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Exchange Act, and our policies regarding transactions in our securities. 
+
+, 
+
+39 
+
+Table of Contents 
+
+ Item 6. Exhibits. 
+ Exhibits filed or furnished herewith are designated by an asterisk ); all exhibits not so designated are incorporated by reference to a prior filing as indicated. 
+ Exhibit Number Description Report or Registration Statement SEC File or Registration Number Exhibit Reference 3.1 Amended and Restated Certificate of Incorporation of Clearwater Analytics Holdings, Inc., dated September 27, 2021 
+ 8-K filed September 28, 2021 001-40838 3.1 3.2 Amended and Restated Bylaws of Clearwater Analytics Holdings, Inc., dated September 27, 2021 
+ 8-K filed September 28, 2021 001-40838 3.2 31.1 Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 31.2 Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 32.1 Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 32.2 Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ +101.INS Inline XBRL Instance Document +101.SCH Inline XBRL Taxonomy Extension Schema Document +101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document +101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document +101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document +101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) 
+ ______________________________ 
+ Filed herewith. 
+ 40 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ Clearwater Analytics Holdings, Inc. 
+ Date: November 6, 2024 
+ By: /s/ Jim Cox Jim Cox Chief Financial Officer (Principal Financial and Accounting Officer and Authorized Signatory) 
+ 41 
+
+<EX-31.1>
+ 2
+ cwan-20240930xexx311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION PURSUANT TO 
+ RULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES EXCHANGE ACT OF 1934, 
+ AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Sandeep Sahai, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Clearwater Analytics Holdings, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date November 6, 2024 
+ By s Sandeep Sahai Sandeep Sahai Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ cwan-20240930xexx312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION PURSUANT TO 
+ RULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES EXCHANGE ACT OF 1934, 
+ AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Jim Cox, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Clearwater Analytics Holdings, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date November 6, 2024 
+ By s Jim Cox Jim Cox Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ cwan-20240930xexx321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Clearwater Analytics Holdings, Inc. (the Company on Form 10-Q for the period ending September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+ Date November 6, 2024 
+ By s Sandeep Sahai Sandeep Sahai Chief Executive Officer (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ cwan-20240930xexx322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Clearwater Analytics Holdings, Inc. (the Company on Form 10-Q for the period ending September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and result of operations of the Company. 
+ Date November 6, 2024 
+ By s Jim Cox Jim Cox Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ cwan-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ cwan-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ cwan-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ cwan-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ cwan-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

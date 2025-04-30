@@ -1,0 +1,926 @@
+<Header>
+<FileStats>
+    <FileName>20241107_10-Q_edgar_data_1560327_0001560327-24-000106.txt</FileName>
+    <GrossFileSize>8583396</GrossFileSize>
+    <NetFileSize>128339</NetFileSize>
+    <NonText_DocumentType_Chars>1481792</NonText_DocumentType_Chars>
+    <HTML_Chars>3225539</HTML_Chars>
+    <XBRL_Chars>1924228</XBRL_Chars>
+    <XML_Chars>1651841</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001560327-24-000106.hdr.sgml : 20241107
+<ACCEPTANCE-DATETIME>20241107081942
+ACCESSION NUMBER:		0001560327-24-000106
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		86
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241107
+DATE AS OF CHANGE:		20241107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rapid7, Inc.
+		CENTRAL INDEX KEY:			0001560327
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				352423994
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37496
+		FILM NUMBER:		241433334
+
+	BUSINESS ADDRESS:	
+		STREET 1:		120 CAUSEWAY STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02114
+		BUSINESS PHONE:		617-247-1717
+
+	MAIL ADDRESS:	
+		STREET 1:		120 CAUSEWAY STREET
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02114
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Rapid7 Inc
+		DATE OF NAME CHANGE:	20121015
+
+</SEC-Header>
+</Header>
+
+ 0001560327-24-000106.txt : 20241107
+
+10-Q
+ 1
+ rp-20240930.htm
+ 10-Q
+
+rp-20240930 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, DC 20549 
+ 
+ FORM 
+ 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission File Number: 
+
+(Exact Name of Registrant as Specified in its Charter) 
+ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ (Address of principal executive offices) (Zip Code) 
+ 
+ Registrant s telephone number, including area code: ) 
+ 
+ Securities registered pursuant to Section 12(b) of the Securities Exchange Act of 1934: Title of each class Trading symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+
+Table of Contents 
+
+Accelerated Filer 
+ Non-accelerated Filer 
+ Small Reporting Company 
+ Emerging Growth Company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ As of October 31, 2024, there were shares of the registrant s common stock, 0.01 par value per share, outstanding. 
+
+Table of Contents 
+
+Table of Contents 
+ 
+ Page PART I. FINANCIAL INFORMATION 
+ Item 1. Condensed Consolidated Financial Statements (Unaudited) 
+ 1 
+ Condensed Consolidated Balance Sheets 
+ 1 
+ Condensed Consolidated Statements of Operations 
+ 2 
+ Condensed Consolidated Statements of Comprehensive Income (Loss 
+ 3 
+ Condensed Consolidated Statements of Changes in Stockholders' Deficit 
+ 4 
+ Condensed Consolidated Statements of Cash Flows 
+ 6 
+ Notes to Unaudited Condensed Consolidated Financial Statements 
+ 7 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 21 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 41 
+ Item 4. Controls and Procedures 
+ 42 
+ PART II. OTHER INFORMATION 
+ 43 
+ Item 1. Legal Proceedings 
+ 43 
+ Item 1A. Risk Factors 
+ 43 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 43 
+ Item 3. Defaults Upon Senior Securities 
+ 43 
+ Item 4. Mine Safety Disclosures 
+ 43 
+ Item 5. Other Information 
+ 44 
+ Item 6. Exhibits 
+ 45 
+ Signatures 
+ 46 
+
+Table of Contents 
+
+ PART I FINANCIAL INFORMATION 
+ 
+ Item 1. Financial Statements . 
+ 
+ RAPID7, INC. 
+ Condensed Consolidated Balance Sheets (Unaudited) 
+ (in thousands, except share and per share data) 
+ September 30, 2024 December 31, 2023 Assets Current assets: Cash and cash equivalents Short-term investments Accounts receivable, net of allowance for credit losses of and at September 30, 2024 and December 31, 2023, respectively 
+ Deferred contract acquisition and fulfillment costs, current portion Prepaid expenses and other current assets Total current assets Long-term investments Property and equipment, net Operating lease right-of-use assets Deferred contract acquisition and fulfillment costs, non-current portion Goodwill Intangible assets, net Other assets Total assets Liabilities and Stockholders Deficit Current liabilities: Accounts payable Accrued expenses and other current liabilities Convertible senior notes, current portion, net Operating lease liabilities, current portion Deferred revenue, current portion Total current liabilities Convertible senior notes non-current portion, net Operating lease liabilities, non-current portion Deferred revenue, non-current portion Other long-term liabilities Total liabilities Stockholders deficit: Preferred stock, par value per share; shares authorized at September 30, 2024 and December 31, 2023; shares issued and outstanding at September 30, 2024 and December 31, 2023 
+ Common stock, par value per share; shares authorized at September 30, 2024 and December 31, 2023; and shares issued at September 30, 2024 and December 31, 2023, respectively; and shares outstanding at September 30, 2024 and December 31, 2023, respectively 
+ Treasury stock, at cost, shares at September 30, 2024 and December 31, 2023 
+ ) ) Additional paid-in-capital Accumulated other comprehensive income Accumulated deficit ) ) Total stockholders deficit ) ) Total liabilities and stockholders deficit 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 1 
+
+Table of Contents 
+
+ RAPID7, INC. 
+ Condensed Consolidated Statements of Operations (Unaudited) 
+ (in thousands, except share and per share data) 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenue: Product subscriptions Professional services Total revenue Cost of revenue: Product subscriptions Professional services Total cost of revenue Total gross profit Operating expenses: Research and development Sales and marketing General and administrative Impairment of long-lived assets Restructuring Total operating expenses Income (loss) from operations ) ) Other income (expense), net: Interest income Interest expense ) ) ) ) Other income (expense), net ) ) Income (loss) before income taxes ) ) Provision for income taxes Net income (loss) ) ) Net income (loss) per share, basic ) ) Net income (loss) per share, diluted ) ) Weighted-average common shares outstanding, basic Weighted-average common shares outstanding, diluted 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 2 
+
+Table of Contents 
+
+ RAPID7, INC. 
+ Condensed Consolidated Statements of Comprehensive Income (Loss) (Unaudited) 
+ (in thousands) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net income (loss) ) ) Other comprehensive income (loss): Change in fair value of cash flow hedges ) ) Adjustment for net (gains)/losses realized on cash flow hedges and included in net income (loss), net of taxes ) ) ) Total change in unrealized gains (losses) on cash flow hedges ) Change in unrealized gains on investments Total other comprehensive income (loss) ) Comprehensive income (loss) ) ) 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+
+3 
+
+Table of Contents 
+
+RAPID7, INC. 
+ Condensed Consolidated Statements of Changes in Stockholders' Deficit (Unaudited) 
+ Three Months Ended September 30, 2024 and 2023 
+ (in thousands) 
+ Common stock Treasury stock Additional paid-in-capital Accumulated other comprehensive loss Accumulated deficit Total stockholders deficit Shares Amount Shares Amount Balance, June 30, 2024 ) ) ) ) Stock-based compensation expense Issuance of common stock under employee stock purchase plan Vesting of restricted stock units ) Shares withheld for employee taxes ) ) ) Issuance of common stock upon exercise of stock options Other comprehensive loss Net income Balance, September 30, 2024 ) ) ) 
+ 
+ Common stock Treasury stock Additional paid-in-capital Accumulated other comprehensive loss Accumulated deficit Total stockholders deficit Shares Amount Shares Amount Balance, June 30, 2023 ) ) ) Stock-based compensation expense Issuance of common stock under employee stock purchase plan Vesting of restricted stock units ) Shares withheld for employee taxes ) ) ) Issuance of common stock upon exercise of stock options Purchase of capped calls related to convertible senior notes ) ) Repurchase and inducement of convertible senior notes Other comprehensive gain ) ) Net loss ) ) Balance, September 30, 2023 ) ) ) ) 
+ 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+
+4 
+
+Table of Contents 
+
+RAPID7, INC. 
+ Condensed Consolidated Statements of Changes in Stockholders' Deficit (Unaudited) 
+ Nine Months Ended September 30, 2024 and 2023 
+ (in thousands) 
+ Common stock Treasury stock Additional paid-in-capital Accumulated other comprehensive loss Accumulated deficit Total stockholders deficit Shares Amount Shares Amount Balance, December 31, 2023 ) ) ) Stock-based compensation expense Issuance of common stock under employee stock purchase plan Vesting of restricted stock units ) Shares withheld for employee taxes ) ) ) Issuance of common stock upon exercise of stock options Other comprehensive loss Net income Balance, September 30, 2024 ) ) ) 
+ 
+ Common stock Treasury stock Additional paid-in-capital Accumulated other comprehensive loss Accumulated deficit Total stockholders deficit Shares Amount Shares Amount Balance, December 31, 2022 ) ) ) ) Stock-based compensation expense Issuance of common stock under employee stock purchase plan Vesting of restricted stock units ) Shares withheld for employee taxes ) ) ) Issuance of common stock upon exercise of stock options Issuance of common stock in relation to an acquisition ) Repurchase of common stock in relation to acquisition ) Reclassification of 2023 capped calls from equity to derivative asset Purchase of capped calls related to convertible senior notes ) ) Repurchase and inducement of convertible senior notes Other comprehensive gain Net loss ) ) Balance, September 30, 2023 ) ) ) ) 
+ 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+
+5 
+
+Table of Contents 
+
+RAPID7, INC. 
+ Condensed Consolidated Statements of Cash Flows (Unaudited) 
+ (in thousands) Nine Months Ended September 30, 2024 2023 Cash flows from operating activities: Net income (loss) ) Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization Amortization of debt issuance costs Stock-based compensation expense Impairment of long-lived assets Change in fair value of derivative assets Deferred income taxes Induced conversion expense Other ) Changes in assets and liabilities: Accounts receivable Deferred contract acquisition and fulfillment costs ) ) Prepaid expenses and other assets Accounts payable ) ) Accrued expenses ) ) Deferred revenue ) ) Other liabilities ) Net cash provided by operating activities Cash flows from investing activities: Business acquisitions, net of cash acquired ) ) Purchases of property and equipment ) ) Capitalization of internal-use software ) ) Purchases of investments ) ) Sales and maturities of investments Other investing activities Net cash used in investing activities ) ) Cash flows from financing activities: Proceeds from issuance of convertible senior notes, net of issuance costs paid of 
+ Purchase of capped calls related to convertible senior notes ) Payments for repurchase of convertible senior notes ) Payments related to business acquisitions ) Proceeds from capped call settlement Taxes paid related to net share settlement of equity awards ) ) Proceeds from employee stock purchase plan Proceeds from stock option exercises Net cash provided by financing activities Effect of exchange rate changes on cash ,cash equivalents and restricted cash ) Net increase (decrease) in cash, cash equivalents and restricted cash ) Cash, cash equivalents and restricted cash, beginning of period Cash, cash equivalents and restricted cash, end of period Supplemental cash flow information: Cash paid for interest on convertible senior notes Cash paid for income taxes, net of refunds Reconciliation of cash, cash equivalents and restricted cash: Cash and cash equivalents Restricted cash included in other assets and prepaid expenses and other current assets Total cash, cash equivalents and restricted cash 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 6 
+
+Table of Contents 
+
+ RAPID7, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Significant Accounting Policies 
+ Our significant accounting policies are described in Note 2, Summary of Significant Accounting Policies , to the consolidated financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2023. Except for the inclusion of a description of contingent consideration within our Business Combinations policy, as noted below, there have been no changes to the significant accounting policies included in our Annual Report on Form 10-K for the year ended December 31, 2023. 
+ 
+ 7 
+
+Table of Contents 
+
+ million 
+ 
+ 8 
+
+Table of Contents 
+
+ or less. For the majority of these contracts, revenue is recognized over time based upon the proportion of work performed to date. 
+ Contract Balances 
+ Contract liabilities consist of deferred revenue and include payments received in advance of performance under the contract. Such amounts are recognized as revenue over the contractual period consistent with the above methodology. For the three months ended September 30, 2024 and 2023, we recognized revenue of million and million, respectively, and for the nine months ended September 30, 2024 and 2023, we recognized million and million, respectively, that was included in the corresponding contract liability balance at the beginning of the periods presented. Deferred revenue that will be realized during the succeeding 12-month period is recorded as current, and the remaining deferred revenue is recorded as non-current. 
+ We receive payments from customers based upon contractual billing schedules. Accounts receivable are recorded when the right to consideration becomes unconditional. Unbilled receivables include amounts related to our contractual right to consideration for both completed and partially completed performance obligations that have not been invoiced. If the right to consideration is based on satisfaction of another performance obligation in the contract other than the passage of time, we record a contract asset. As of September 30, 2024 and December 31, 2023, unbilled receivables of million and million, respectively, are included in prepaid expenses and other current assets in our consolidated balance sheet. As of September 30, 2024 and December 31, 2023, we had contract assets recorded on our condensed consolidated balance sheet. 
+ Transaction Price Allocated to the Remaining Performance Obligations 
+ Professional services Total 
+ 
+ million. The purchase consideration consisted of million in cash paid at closing, million of contingent consideration and million of deferred cash payments. The deferred cash payments will be held by Rapid7 to satisfy certain post-closing purchase price adjustments. 
+ Subject to the terms of the merger agreement, we are required to pay consideration of up to million to Noetic shareholders based on the achievement of certain performance targets (the Earnout Consideration ), measured annually upon the first, second and third anniversaries of the closing date of the transaction (the Earnout Period ). If all performance targets are achieved, approximately million of Earnout Consideration will be paid in cash, and the remaining million of Earnout Consideration will be issued to certain employees in the form of shares of our common stock subject to continued employment requirements over the Earnout Period. The approximate million of the Earnout Consideration that is subject to continued employment will be recognized as stock-based compensation expense over the required employment period. The fair value of the portion of the Earnout Consideration that is not subject to continued employment is included as part of purchase consideration at the date of the acquisition. As of July 3, 2024, we determined the fair value of the contingent purchase consideration to be million. The fair value of the contingent purchase consideration will be reassessed each reporting 
+ 9 
+
+Table of Contents 
+
+ million of which million was recorded within accrued expenses and other current liabilities and million was recorded within other liabilities in our condensed consolidated balance sheet. In the three and nine months ended September 30, 2024 , we recorded million of accretion expense related to the contingent purchase consideration to general and administrative expense. 
+ In connection with the acquisition, we expect to issue an aggregate value of million of our common stock to key employees of Noetic in installments over a -month period following the closing date of the transaction, subject to continued employment requirements (the Key Employee Consideration and therefore will be recognized as stock-based compensation expense over the required employment period. 
+ The number of shares to be issued at each issuance date for both the Earnout Consideration and the Key Employee Consideration shares will be determined by dividing the aggregate value by the fair market value of our common stock on the issuance date, and therefore will be liability-classified until the final issuance dates. In the three and nine months ended September 30, 2024 , we recognized stock-based compensation expense related to such shares in the amount of million. 
+ Deferred cash consideration Contingent consideration Fair value of total consideration transferred Recognized amount of identifiable assets acquired and liabilities assumed: Cash and cash equivalents Accounts receivable Prepaid and other current assets Property and equipment, net Accrued expenses and other current liabilities ) Deferred revenue ) Other long-term liabilities ) Intangible asset Total identifiable net assets assumed Goodwill Total purchase price allocation 
+ We identified developed technology as the sole acquired intangible asset. The estimated fair value of the developed technology intangible asset was million which was based on a valuation using a probability weighted expected return model PWERM ). The estimated useful life of the developed technology is years. 
+ The excess of the purchase price over the tangible assets acquired, identifiable intangible asset acquired and assumed liabilities was recorded as goodwill. We believe that the amount of goodwill reflects the expected synergistic benefits of being able to leverage the integration of the technology acquired with our existing product offerings and being able to successfully market and sell these new features to our customer base. The goodwill was allocated to our reporting unit. The acquired goodwill and intangible asset were not deductible for tax purposes. 
+ In the three and nine months ended September 30, 2024, we recorded million and million, respectively, of acquisition-related transaction costs related to the acquisition of Noetic to general and administrative expense. 
+ Our revenue and net loss attributable to the Noetic business for the three and nine months ended September 30, 2024 was not material. 
+
+10 
+
+Table of Contents 
+
+ million. The purchase consideration consisted of million paid in cash at closing and a ) million receivable for purchase price adjustments. 
+ The assets acquired and liabilities assumed were recorded at their estimated fair values as of the acquisition date. The excess of the purchase price over the assets acquired and liabilities assumed was recorded as goodwill. The fair value of net assets acquired, goodwill and intangible assets were million, million and million, respectively. The goodwill was allocated to our reporting unit. The acquired goodwill and intangible assets were not deductible for tax purposes. 
+ In the first quarter of 2024, we sold acquired intellectual property through a non-cash intercompany transaction, which for the three and nine months ended September 30, 2024 resulted in million of current tax expense and million o f deferred tax expense in Israel. 
+ 
+ ) Total ) 
+ As of December 31, 2023 Amortized Cost Gross Unrealized Gains Gross Unrealized Losses Fair Value (in thousands) Description: U.S government agencies ) Agency bonds ) Total ) 
+ As of September 30, 2024, our available-for-sale investments had maturities ranging fro m to months. As of December 31, 2023, our available-for-sale investments had maturities ranging from to months. 
+
+11 
+
+Table of Contents 
+
+ Foreign currency forward contracts designated as cash flow hedges (prepaid expenses and other current assets and other assets) Total assets Liabilities: Contingent consideration (other current liabilities and other long-term liabilities) Foreign currency forward contracts designated as cash flow hedges (other current liabilities and other long-term liabilities) Total liabilities 
+ As of December 31, 2023 Level 1 Level 2 Level 3 Total (in thousands) Description: Assets: U.S. government agencies Agency bonds Foreign currency forward contracts designated as cash flow hedges (prepaid expenses and other current assets and other assets) Total assets Liabilities: Foreign currency forward contracts designated as cash flow hedges (other current liabilities) Total liabilities 
+ Cash and cash equivalents are excluded from the table above as carrying amounts reported in our condensed consolidated balance sheet equal or approximate fair value. As of September 30, 2024, the fair value of our , and convertible senior notes due 2025, 2027 and 2029, as further described in Note 10, Debt , was million, million and million, respectively, based upon quoted market prices. We consider the fair value of the Notes (as defined in Note 10, Debt) to be a Level 2 measurement due to limited trading activity of the Notes. As of September 30, 2024, the fair value of our contingent consideration, as further described in Note 3, Business Combinations, was million and is classified as a Level 3 measurement based on inputs not observable in the market. 
+ 12 
+
+Table of Contents 
+
+ Furniture and fixtures Leasehold improvements Total Less accumulated depreciation ) ) Property and equipment, net 
+ million and million for the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+ 
+ million and million as of September 30, 2024 and December 31, 2023, respectively. 
+ Noetic acquisition Balance, September 30, 2024 
+ ) ) Customer relationships ) ) Trade names ) ) Total acquired intangible assets ) ) Internal-use software ) ) Total intangible assets ) ) 
+ Amortization expense was million and million for the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+ 13 
+
+Table of Contents 
+
+ 2025 2026 2027 2028 2029 and thereafter Total 
+ The table above excludes the impact of million of capitalized internal-use software costs for projects that have not been completed as of September 30, 2024, and therefore, all the costs associated with these projects have not been incurred. 
+ 
+ Capitalization of contract acquisition and fulfillment costs Amortization of deferred contract acquisition and fulfillment costs ) ) Ending balance 
+
+or less, and as of September 30, 2024 and December 31, 2023, outstanding forward contracts had a total notional value of million and million, respectively. The notional value represents the gross amount of foreign currency that will be bought or sold upon maturity of the forward contract. During the three and nine months ended September 30, 2024, all cash flow hedges were considered effective. Refer to Note 5, Fair Value Measurements , for the fair values of our outstanding derivative instruments. 
+ 
+ million aggregate principal amount of convertible senior notes due May 1, 2025 (the 2025 Notes ), in March 2021, we issued million aggregate principal amount of convertible senior notes due March 15, 2027 (the 2027 Notes ), and in September 2023, we issued million aggregate principal amount of convertible senior notes due March 15, 2029 (the 2029 Notes (collectively, the Notes ). In September 2023, we used million of the proceeds from the issuance of the 2029 Notes to repurchase and retire million aggregate principal amount of the 2025 Notes and paid accrued and unpaid interest thereon. 
+ November 1, 2020 May 1 and November 1 16.3875 2027 Notes March 15, 2027 September 15, 2021 March 15 and September 15 9.6734 2029 Notes March 15, 2029 March 15, 2024 March 15 and September 15 15.4213 
+ The 2025 Notes, the 2027 Notes and the 2029 Notes are senior unsecured obligations, do not contain any financial covenants and are governed by indentures between the Company, as issuer, and U.S. Trust Company, Bank National Association, as 
+ 14 
+
+Table of Contents 
+
+ million, million and million, respectively. 
+ For additional details on the terms of our Notes, see Note 11, Debt , to the consolidated financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2023. 
+ As of September 30, 2024, the 2025 Notes, the 2027 Notes and the 2029 Notes were not convertible at the option of the holders. 
+ The holders may convert the 2025 Notes, the 2027 Notes and the 2029 Notes at any time on or after November 1, 2024, December 15, 2026 and December 15, 2028, respectively, until the close of business on the second scheduled trading day immediately preceding the maturity date, regardless of the circumstances set forth above. Upon conversion, we will pay or deliver, as the case may be, cash, shares of our common stock or a combination of cash and shares of our common stock, at our election, in the manner and subject to the terms and conditions provided in the Indentures. 
+ If we undergo a fundamental change (as set forth in the Indentures) at any time prior to the maturity date, holders of the Notes will have the right, at their option, to require us to repurchase for cash all or any portion of their Notes at a repurchase price equal to of the principal amount of the Notes to be repurchased, plus accrued and unpaid interest to, but excluding, the fundamental change repurchase date. In addition, following certain corporate events that occur prior to the maturity date or following our issuance of a notice of redemption, in each case as described in the Indentures, we will increase the conversion rate for a holder of the Notes who elects to convert its Notes in connection with such a corporate event or during the related redemption period in certain circumstances. 
+ Accounting for the Notes 
+ In accounting for the issuance of the Notes, the principal less debt issuance costs are recorded as debt on our condensed consolidated balance sheet. The debt issuance costs are amortized to interest expense using the effective interest method over the contractual term of the Notes. 
+ ) ) ) Amortization of debt issuance costs Balance at September 30, 2024 ) ) ) 
+ Interest expense related to the Notes was as follows (in thousands): 
+ Three Months Ended September 30, 2024 2023 2025 Notes 2027 Notes 2029 Notes Total 2025 Notes 2027 Notes 2029 Notes Total Contractual interest expense Amortization of debt issuance costs Total interest expense 
+ Nine Months Ended September 30, 2024 2023 2025 Notes 2027 Notes 2029 Notes Total 2025 Notes 2027 Notes 2029 Notes Total Contractual interest expense Amortization of debt issuance costs Total interest expense 
+ 15 
+
+Table of Contents 
+
+ Cap price, subject to certain adjustments Total premium paid (in thousands) Expiration dates March 4, 2025 - April 29, 2025 January 1, 2027 - March 11, 2027 February 13, 2029 - March 13, 2029 
+ For additional details on the terms of our Capped Calls, see Note 11, Debt , to the consolidated financial statements included in our Annual Report on Form 10-K for the year ended December 31, 2023. 
+ For accounting purposes, the 2025 Capped Calls, the 2027 Capped Calls and the 2029 Capped Calls are separate transactions, and not part of the terms of the 2025 Notes, the 2027 Notes and the 2029 Notes. The 2025 Capped Calls, 2027 Capped Calls and 2029 Capped Calls are recorded in stockholders' equity and are not accounted for as derivatives. 
+ Credit Agreement 
+ In April 2020, we entered into a Credit and Security Agreement (the Credit Agreement), with KeyBank National Association (as amended, in December 2021) that provides for a million revolving credit facility, with a letter of credit sublimit of million and an accordion feature under which we can increase the credit facility to up to million. We incurred fees of million in connection with entering into the Credit Agreement. The fees are recorded in other current assets on the condensed consolidated balance sheet and are amortized on a straight-line basis over the contractual term of the arrangement. The commitment fee of per annum on the unused portion of the credit facility is expensed as incurred and included within interest expense on the condensed consolidated statement of operations. The Credit Agreement contains certain financial covenants including a requirement that we maintain specified minimum recurring revenue and liquidity amounts. 
+ The borrowings under the Credit Agreement bear interest, at our option, at a rate equal to either (i) term SOFR plus a credit spread adjustment of per annum plus a margin of per annum or (ii) the alternate base rate (subject to a floor), plus an applicable margin equal to per annum. 
+
+16 
+
+Table of Contents 
+
+ Research and development Sales and marketing General and administrative Total stock-based compensation expense 
+ We recognize compensation cost of all awards on a straight-line basis over the applicable vesting period, which is generally three to . 
+ Our Compensation Committee adopted and approved the performance goals, targets and payout formulas for our 2024 and 2023 bonus plans, including permitting our executive officers and certain other employees the opportunity to receive payment of their earned bonuses in the form of common stock (in lieu of cash). During the three months ended September 30, 2024 and 2023, we recognized stock-based compensation expense related to such bonuses in the amount of million and thousand, respectively, and during the nine months ended September 30, 2024 and 2023, we recognized stock-based compensation expense in the amount of million a nd million, respectively, based on the probable expected performance against the pre-established corporate financial objectives as of September 30, 2024 and 2023. For employees, including executive officers, who elect to receive their bonuses in the form of common stock (in lieu of cash), the payouts are expected to be made in the form of fully vested stock awards in the first quarter of the following year pursuant to our 2015 Equity Incentive Plan, as amended. The number of shares underlying such awards is determined by dividing the dollar value of the actual bonus award payment by the closing price per share of our common stock on the date of grant. 
+ (b) Restricted Stock, Restricted Stock Units and Performance-Based Restricted Stock Units 
+ 
+ Granted Vested ) Forfeited ) Unvested balance as of September 30, 2024 
+ As of September 30, 2024, the unrecognized compensation expense related to our unvested RSUs and PSUs was million. This unrecognized compensation expense will be recognized over an estimated weighted-average amortization period of years. 
+ In January 2024, our Com pensation Committee awarded PSUs that required the achievement of net annualized recurring revenue Net ARR and Adjusted EBITDA targets for the 2024 full-year to earn any payout. Net ARR is defined as the change in the annual value of all recurring revenue related to contracts in place at year end. In addition, the portion of the PSUs that are earned would be capped at a maximum of of the target level payout and if certain net ARR or Adjusted EBITDA goals were not met, no PSUs will be earned. The PSUs have a performance period of and the earned PSUs will vest in equal installments following each of the first, second and third anniversary of the vesting commencement date, subject to the participant s continuous service as of 
+ 17 
+
+Table of Contents 
+
+ million and million, respectively, of stock-based compensation expense related to these PSUs based on estimated achievement of the performance criteria. 
+ In July 2024, our Compensation Committee awarded PSUs that required the achievement of certain milestones related to the integration of Noetic. The PSUs have three measurement and vesting dates through September 15, 2025, subject to the participant's continuous service as of each such date. If achievement of the milestones are not met, no PSUs will be earned. In the three and nine months ended September 30, 2024, we recorded million of stock-based compensation expense related to these PSUs based on estimated achievement of the performance criteria. 
+ (c) Stock Options 
+ 
+ Granted Exercised ) Forfeited/cancelled ) Outstanding as of September 30, 2024 Vested and exercisable as of September 30, 2024 
+ (d) Employee Stock Purchase Plan 
+ Under the Rapid7, Inc. 2015 Employee Stock Purchase Plan ESPP ), employees may set aside up to of their gross earnings, on an after-tax basis, to purchase our common stock at a discounted price, which is calculated at of the lesser of: (i) the market value of our common stock at the beginning of each offering period and (ii) the market value of our common stock on the applicable purchase date. 
+ On March 15, 2024, we issued shares of common stock to employees, with a purchase price of either or per share, for aggregate proceeds of million. 
+ On September 13, 2024, we issued shares of common stock to employees, with a purchase price of per share, for aggregate proceeds of million. 
+ 
+ ) ) Denominator: Weighted-average common shares outstanding, basic Weighted-average common shares outstanding, diluted Net income (loss) per share, basic ) ) Net income (loss) per share, diluted ) ) 
+ We intend to settle any conversion of our 2025 Notes, 2027 Notes and 2029 Notes in cash, shares, or a combination thereof. The dilutive impact of the Notes for our calculation of diluted net income (loss) per share is considered using the if-converted method. For the three and nine months ended September 30, 2024 and 2023, the shares underlying the Notes were not considered in the calculation of diluted net income (loss) per share as the effect would have been anti-dilutive. 
+ 18 
+
+Table of Contents 
+
+Unvested restricted stock units Common stock issued in conjunction to acquisitions Shares to be issued under ESPP Convertible senior notes Total 
+
+million Israeli New Shekels (approximately million, based upon the exchange rate between the Israeli New Shekel and the US Dollar as of September 30, 2024) related to fiscal year 2021. Based on our interpretation of the regulations and available case law, we believe that the tax positions we have taken on our filed tax return in Israel are sustainable and we intend to defend our position through all available means. As such, we have not recorded any impact of the ITA assessment in our condensed consolidated financial statements as of and for the three and nine months ended September 30, 2024. We are continuing to monitor developments related to 
+ 19 
+
+Table of Contents 
+
+segment. Our chief operating decision maker is our Chief Executive Officer, who makes operating decisions, assesses performance and allocates resources on a consolidated basis. 
+ Rest of world Total 
+ Rest of world Total 
+
+.) million of restructuring charges within general and administrative expense in the condensed consolidated statements of operations. Additionally, during the second quarter of 2024, the remaining payments were made, resulting in no remaining restructuring liability. 
+ 
+ 20 
+
+Table of Contents 
+
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ The following discussion and analysis of our financial condition and results of operations should be read in conjunction with (1) our unaudited condensed consolidated financial statements and related notes appearing elsewhere in this Quarterly Report on Form 10-Q and (2) the audited consolidated financial statements and the related notes and Management s Discussion and Analysis of Financial Condition and Results of Operations for the fiscal year ended December 31, 2023 included in our Annual Report on Form 10-K, filed with the SEC on February 26, 2024. Forward-looking statements in this review are qualified by the cautionary statement included under the next sub-heading, Special Note Regarding Forward-Looking Statements . 
+ Special Note Regarding Forward-Looking Statements 
+ This Quarterly Report on Form 10-Q, including the sections entitled Risk Factors, and Management s Discussion and Analysis of Financial Condition and Results of Operations, contains forward-looking statements that involve risks and uncertainties, as well as assumptions that, if they never materialize or prove incorrect, could cause our results to differ materially from those expressed or implied by such forward-looking statements. Statements that are not purely historical are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Forward-looking statements are often identified by the use of words such as, but not limited to, anticipate, believe, can, continue, could, estimate, expect, intend, may, plan, project, seek, should, target, will, would and similar expressions or variations intended to identify forward-looking statements. These forward-looking statements include, but are not limited to, statements concerning the following: 
+ our ability to continue to add new customers, maintain existing customers and sell new products and professional services to new and existing customers; 
+ uncertain impacts that changes in overall level of software spending and ongoing volatility in the global economy as well as effects of inflation and increased interest rates may have on our business, strategy, operating results, financial condition and cash flows; 
+ the effects of increased competition as well as innovations by new and existing competitors in our market; 
+ our ability to adapt to technological change and effectively enhance, innovate and scale our solutions; 
+ our ability to effectively manage or sustain our growth and to attain and sustain profitability; 
+ our ability to diversify our sources of revenue; 
+ potential acquisitions and integration of complementary business and technologies; 
+ our expected use of proceeds from future issuances of equity or convertible debt securities; 
+ our ability to maintain, or strengthen awareness of, our brand; 
+ perceived or actual security, integrity, reliability, quality or compatibility problems with our solutions, including related to security breaches in our customers; systems, unscheduled downtime or outages; 
+ statements regarding future revenue, hiring plans, expenses, capital expenditures, capital requirements and stock performance; 
+ our ability to meet publicly announced guidance or other expectations about our business, key metrics and future operating results; 
+ our ability to maintain an adequate annualized recurring revenue growth; 
+ our ability to attract and retain qualified employees and key personnel and further expand our overall headcount; 
+ our ability to grow, both domestically and internationally; 
+ our ability to stay abreast of new or modified laws and regulations that currently apply or become applicable to our business both in the United States and internationally; 
+ our ability to maintain, protect and enhance our intellectual property; 
+ costs associated with defending intellectual property infringement and other claims; and 
+ the future trading prices of our common stock and the impact of securities analysts reports on these prices. 
+ 21 
+
+Table of Contents 
+
+ These statements represent the beliefs and assumptions of our management based on information currently available to us. Such forward-looking statements are subject to risks, uncertainties and other important factors that could cause actual results and the timing of certain events to differ materially from future results expressed or implied by such forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those identified below, and those discussed in the section titled Risk Factors included under Part II, Item 1A. Furthermore, such forward-looking statements speak only as of the date of this report. Except as required by law, we undertake no obligation to update any forward-looking statements to reflect events or circumstances that occur after the date of this report. 
+ As used in this report, the terms Rapid7, the company, we, us, and our mean Rapid7, Inc. and its subsidiaries unless the context indicates otherwise. 
+ 
+ Overview 
+ Rapid7 is a global cybersecurity software and services provider on a mission to offer customers greater clarity and control of their attack surface through our comprehensive and consolidated security offerings. For more than twenty years, Rapid7 has partnered with customers across the globe representing a diverse range of industries and sizes to improve the efficacy and productivity of their security operations SecOps ). In today's rapidly evolving IT environment, customers are encountering escalating challenges due to the proliferation of cyberattacks leveraging artificial intelligence AI ), targeted automation, and a widening spectrum of attackers and techniques. To fortify their security posture, organizations will require greater visibility, advanced capabilities leveraging increased expertise, and integrated data to effectively anticipate, identify, and respond to exposure-led threats. 
+ Through our security operations platform, anchored on our cloud security, security information and event management SIEM ), advanced detection and response, and vulnerability management offerings, we believe that Rapid7 is poised to expand the capabilities of today's SecOps teams. Rapid7 extends and expands the expertise of the Security Operations Center SOC") across information security, cloud operations, development, and IT teams, enabling them to better understand the attacker and leverage that information to take control of their fragmented attack surface. Enriched by years of managed services expertise, our integrated security operations platform enables SecOps teams to move away from a reactive approach, reduce their attack surface, and enhance response efficiency with a deep contextual understanding of their environment. 
+ In the past few years, we have observed the industry undergoing a customer-driven shift to consolidated security platforms. As part of this transition, customers are moving away from cloud security as a specialized function towards cloud security as an integrated capability for SecOps teams. We view this as a demand driver for integrated SecOps, and believe that we have an opportunity to be a leader in delivering integrated risk and threat management across on-premise, cloud, and external attack surfaces. As we have shifted our strategic focus to SecOps consolidation, we are focused on continuing to drive innovation across our core products and capabilities to accelerate customer value and provide a frictionless and integrated cloud security experience. 
+ As the threat landscape continues to grow in complexity, customers are demonstrating demand for integrated expertise to support them in effectively managing their security technologies. The convergence of these key trends security consolidation, integrated cloud security, and expertise driven outcomes are the foundation of what we view as the new extended SOC. Our focus is to be the leading provider of integrated security solutions for the extended SOC by providing risk and threat management within the context of overall security. 
+ We market and sell our products and professional services to organizations of all sizes globally, including mid-market businesses, enterprises, non-profits, educational institutions and government agencies. Our customers span a wide variety of industries such as technology, energy, financial services, healthcare and life sciences, manufacturing, media and entertainment, retail, education, real estate, transportation, government and professional services. As of September 30, 2024, we had over 11,000 customers in 146 countries, including 45 of the Fortune 100. Our revenue was not concentrated with any individual customer and no customer represented more than 2 of our revenue for three and nine months ended September 30, 2024 or 2023. 
+ Recent Developments 
+ On July 3, 2024, we acquired Noetic Cyber, Inc, Noetic a provider of cyber asset attack surface management, to extend Rapid7 s security operations platform by unlocking more accessible and accurate asset inventory in order to provide customers more comprehensive visibility to their attack surface, for a purchase price with an aggregate fair value of 51.0 million. The purchase consideration consisted of 38.6 million in cash paid at closing, 12.1 million of contingent consideration and 0.4 million of deferred cash payments. The deferred cash payments will be held by Rapid7 to satisfy certain post-closing purchase price adjustments. 
+ Subject to the terms of the merger agreement, we are required to pay consideration of up to 20.0 million to Noetic shareholders based on the achievement of certain performance targets (the Earnout Consideration ), measured annually upon 
+ 22 
+
+Table of Contents 
+
+ the first, second and third anniversaries of the closing date of the transaction (the Earnout Period ). If all performance targets are achieved, approximately 13.1 million of Earnout Consideration will be paid in cash, and the remaining 6.9 million of Earnout Consideration will be issued to certain employees in the form of shares of our common stock subject to continued employment requirements over the Earnout Period. The approximate 6.9 million of the Earnout Consideration that is subject to continued employment will be recognized as stock-based compensation expense over the required employment period. The fair value of the portion of the Earnout Consideration that is not subject to continued employment is included as part of purchase consideration at the date of the acquisition. As of July 3, 2024, we determined the fair value of the contingent purchase consideration to be 12.1 million. The fair value of the contingent purchase consideration will be reassessed each reporting period and any required adjustment will be recorded to general and administrative expense. As of September 30, 2024 , the fair value of the contingent purchase consideration was 12.2 million. 
+ In connection with the acquisition, we will issue an aggregate value of 2.3 million of our common stock to two key employees of Noetic in three installments over a 36-month period following the closing date of the transaction, subject to continued employment requirements. 
+ 
+ Our Business Model 
+ We offer our products through a variety of delivery models to meet the needs of our diverse customer base, including: 
+ Cloud-based subscriptions, which provide our software capabilities to our customers through cloud access and on a subscription basis. Our InsightIDR, InsightCloudSec, InsightVM, InsightAppSec, InsightConnect and Threat Command products are offered as cloud-based subscriptions, with an option for a one or multi-year term. 
+ Managed services, through which we operate our products and provide our capabilities on behalf of our customers. Our Managed Vulnerability Management, Managed Detection and Response, and Managed Application Security products are offered on a managed service basis, pursuant to one or multi-year agreements. 
+ Licensed on-premise software consists of term licenses. When licensed on-premise software is purchased, maintenance and support and content subscriptions, as applicable, are bundled with the license for the term period. Our Nexpose and Metasploit products are offered through term software licenses with an option for one or multi-year terms. Our maintenance and support provides our customers with telephone and web-based support and ongoing bug fixes and repairs during the term of the maintenance and support agreement, and our customers who purchase our Nexpose and Metasploit products also purchase content subscriptions, which provide them with real-time access to the latest vulnerabilities and exploits. 
+ Additionally, we offer our products through our consolidation offerings, which unify our products and services to our customers in a single package. Our Threat Complete and Cloud Risk Complete packages are offered as cloud based subscriptions, with an option for a one or multi-year term. Our Managed Threat Complete Offering is offered on a managed service basis, generally pursuant to one or multi-year agreements. 
+ For the three months ended September 30, 2024 and 2023, recurring revenue, defined as revenue from term software licenses, content subscriptions, managed services, cloud-based subscriptions and maintenance and support, was 96 , and 95 , respectively, of total revenue. For the nine months ended September 30, 2024 and 2023, recurring revenue was 96 and 95 , respectively, of total revenue. 
+ 
+ Key Metrics 
+ We monitor the following key metrics to help us measure and evaluate the effectiveness of our operations and as a means to evaluate period-to-period comparisons. We believe that both management and investors benefit from referring to these key metrics as supplemental information in assessing our performance and when planning, forecasting, and analyzing future periods. These key metrics also facilitate management's internal comparisons to our historical performance as well as comparisons to certain competitors' operating results. We believe these key metrics are useful to investors both because they allow for greater transparency with respect to key metrics used by management in its financial and operational decision-making and also because they are used by institutional investors and the analyst community to help evaluate the health of our business: 
+ 23 
+
+Table of Contents 
+
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (dollars in thousands) Total revenue 214,654 198,843 627,746 572,439 Year-over-year growth 8.0 13.1 9.7 14.3 Non-GAAP income from operations 43,952 36,773 123,513 60,723 Non-GAAP operating margin 20.5 18.5 19.7 10.6 Free cash flow 38,502 (582) 95,241 23,780 
+ As of September 30, 2024 2023 (dollars in thousands) Annualized recurring revenue ARR 823,104 776,760 Year-over-year growth 6.0 13.6 Number of customers 11,619 11,412 Year-over-year growth 2 5.8 ARR per customer 70.8 68.1 Year-over-year growth 4.1 7.4 
+ Total Revenue and Growth . We are focused on driving continued revenue growth through increased sales of our products and professional services to new and existing customers. We monitor total revenue and believe it is useful to investors as a measure of the overall success of our business. 
+ Non-GAAP Income from Operations and Non-GAAP Operating Margin . We monitor non-GAAP income from operations and non-GAAP operating margin, non-GAAP financial measures, to analyze our financial results. We believe non-GAAP income from operations and non-GAAP operating margin are useful to investors, as supplements to U.S. GAAP measures, in evaluating our ongoing operational performance and enhancing an overall understanding of our past financial performance and allowing for greater transparency with respect to metrics used by our management in its financial and operational decision-making. See Non-GAAP Financial Results below for further information on non-GAAP income from operations and a reconciliation of non-GAAP income from operations to the comparable GAAP financial measure. 
+ Free Cash Flow . Free cash flow is a non-GAAP measure that we define as cash provided by operating activities less purchases of property and equipment and capitalization of internal-use software costs. We consider free cash flow to be a liquidity measure that provides useful information to management and investors about the amount of cash generated by the business after necessary capital expenditures. See Non-GAAP Financial Results below for a reconciliation of non-GAAP free cash flow to the comparable GAAP financial measure. 
+ Annualized Recurring Revenue and Growth. Annualized Recurring Revenue ARR is defined as the annual value of all recurring revenue related to contracts in place at the end of the quarter. ARR should be viewed independently of revenue and deferred revenue, as ARR is an operating metric and is not intended to be combined with or replace these items. ARR is not a forecast of future revenue, which can be impacted by contract start and end dates and renewal rates, and does not include revenue reported as professional services revenue in our consolidated statement of operations. We use ARR and believe it is useful to investors as a measure of the overall success of our business. 
+ Number of Customers . We believe that the size of our customer base is an indicator of our global market penetration and that our net customer additions are an indicator of the growth of our business. We define a customer as any entity that has an active Rapid7 recurring revenue contract as of the specified measurement date, excluding only InsightOps and Logentries customers with a contract value less than 2,400 per year. 
+ ARR per Customer . ARR per customer is defined as ARR divided by the number of customers at the end of the period. 
+ 24 
+
+Table of Contents 
+
+ Non-GAAP Financial Results 
+ To supplement our consolidated financial statements, which are prepared and presented in accordance with GAAP, we provide investors with certain non-GAAP financial measures, including non-GAAP gross profit, non-GAAP income from operations, non-GAAP operating margin, non-GAAP net income, non-GAAP net income per share, adjusted EBITDA and free cash flow. The presentation of the non-GAAP financial measures is not intended to be considered in isolation or as a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP. We use these non-GAAP financial measures for financial and operational decision-making purposes and as a means to evaluate period-to-period comparisons, and use certain non-GAAP financial measures as performance measures under our executive bonus plan. We believe that these non-GAAP financial measures provide useful information about our operating results, enhance the overall understanding of past financial performance and future prospects and allow for greater transparency with respect to metrics used by our management in its financial and operational decision-making. While our non-GAAP financial measures are an important tool for financial and operational decision-making and for evaluating our own operating results over different periods of time, you should review the reconciliation of our non-GAAP financial measures to the comparable GAAP financial measures included below, and not rely on any single financial measure to evaluate our business. 
+ We define non-GAAP gross profit, non-GAAP income from operations, non-GAAP operating margin, non-GAAP net income and non-GAAP net income per share as the respective GAAP balances excluding the effect of stock-based compensation expense, amortization of acquired intangible assets, amortization of debt issuance costs and certain other items such as acquisition-related expenses, impairment of long-lived assets, change in the fair value of derivative assets, restructuring expense, induced conversion expense and discrete tax items. Non-GAAP net income per basic and diluted share is calculated as non-GAAP net income divided by the weighted average shares used to compute net income per share, with the number of weighted average shares decreased, when applicable, to reflect the anti-dilutive impact of the capped call transactions entered into in connection with our convertible senior notes. 
+ We believe these non-GAAP financial measures are useful to investors in assessing our operating performance due to the following factors: 
+ Stock-based compensation expense. We exclude stock-based compensation expense because of varying available valuation methodologies, subjective assumptions and the variety of equity instruments that can impact our non-cash expense. We believe that providing non-GAAP financial measures that exclude stock-based compensation expense allows for more meaningful comparisons between our operating results from period to period. 
+ Amortization of acquired intangible assets. We believe that excluding the impact of amortization of acquired intangible assets allows for more meaningful comparisons between operating results from period to period as the intangible assets are valued at the time of acquisition and are amortized over several years after the acquisition. 
+ Acquisition-related expenses. We exclude acquisition-related expenses that are unrelated to the current operations and neither are comparable to the prior period nor predictive of future results. 
+ Amortization of debt issuance costs. The expense for the amortization of debt issuance costs related to our convertible senior notes and revolving credit facility is a non-cash item and we believe the exclusion of this interest expense provides a more useful comparison of our operational performance in different periods. 
+ Induced conversion expense. In conjunction with the third quarter of 2023 partial repurchase of our 2025 Notes, we incurred a non-cash induced conversion expense of 53.9 million. We exclude induced conversion expense because this amount is not indicative of the performance of, or trends in, our business and neither is comparable to the prior period nor predictive of future results. 
+ Change in fair value of derivative assets. The change in fair value of derivative assets related to our capped calls settlement is a non-cash item and we believe the exclusion of this other income (expense) provides a more useful comparison of our operational performance in different periods. 
+ Impairment of long-lived assets. Impairment of long-lived assets consists of impairment charges allocated to the carrying amount of certain operating right-of-use assets and the associated leasehold improvements when the carrying amounts exceed their respective fair values and we believe the exclusion of the impairment charges provides a more useful comparison of our operational performance in different periods. 
+ Restructuring expense. We exclude non-ordinary course restructuring expenses related to the restructuring plan we announced in August 2023, which was concluded in the first quarter of 2024 (the "Restructuring Plan") because we do not believe these charges are indicative of our core operating performance and we believe the exclusion of the restructuring expense provides a more useful comparison of our performance in different periods. For further 
+ 25 
+
+Table of Contents 
+
+ information see Note 15, Restructuring , in the Notes to our Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10-Q. 
+ Discrete tax items. We exclude certain discrete tax items such as income tax expenses or benefits that are not related to ongoing business operations in the current year and adjustments to uncertain tax position reserves as these charges are not indicative of our ongoing operating results, and they are not considered when we are forecasting our future results. 
+ Anti-dilutive impact of capped call transaction. Our capped calls transactions are intended to offset potential dilution from the conversion features in our convertible senior notes. Although we cannot reflect the anti-dilutive impact of the capped call transactions under GAAP, we do reflect the anti-dilutive impact of the capped call transactions in non-GAAP net income (loss) per diluted share, when applicable, to provide investors with useful information in evaluating our financial performance on a per share basis. 
+ We define adjusted EBITDA as net income (loss) before (1) interest income, (2) interest expense, (3) other (income) expense, net, (4) provision for income taxes, (5) depreciation expense, (6) amortization of intangible assets, (7) stock-based compensation expense, (8) acquisition-related expenses, (9) impairment of long-lived assets and (10) restructuring expense. We believe that the use of adjusted EBITDA is useful to investors and other users of our financial statements in evaluating our operating performance because it provides them with an additional tool to compare business performance across companies and across periods. 
+ Our non-GAAP financial measures may not provide information that is directly comparable to that provided by other companies in our industry, as other companies in our industry may calculate non-GAAP financial results differently, particularly related to non-recurring, unusual items. In addition, there are limitations in using non-GAAP financial measures because the non-GAAP financial measures are not prepared in accordance with GAAP, may be different from non-GAAP financial measures used by other companies and exclude expenses that may have a material impact upon our reported financial results. Further, stock-based compensation expense has been and will continue to be for the foreseeable future a significant recurring expense in our business and an important part of the compensation provided to our employees. 
+ The following tables reconcile GAAP gross profit to non-GAAP gross profit for the three and nine months ended September 30, 2024, and 2023: Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) GAAP total gross profit 151,637 141,013 442,978 400,446 Stock-based compensation expense 3,001 2,527 8,707 8,348 Amortization of acquired intangible assets 4,410 4,775 12,739 13,993 Non-GAAP total gross profit 159,048 148,315 464,424 422,787 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) GAAP gross profit product subscriptions 148,940 138,615 436,288 394,752 Stock-based compensation expense 2,564 1,940 7,460 6,332 Amortization of acquired intangible assets 4,410 4,775 12,739 13,993 Non-GAAP gross profit product subscriptions 155,914 145,330 456,487 415,077 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) GAAP gross profit professional services 2,697 2,398 6,690 5,694 Stock-based compensation expense 437 587 1,247 2,016 Non-GAAP gross profit professional services 3,134 2,985 7,937 7,710 
+
+26 
+
+Table of Contents 
+
+ The following table reconciles GAAP income (loss) from operations to non-GAAP income from operations for the three and nine months ended September 30, 2024, and 2023: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) GAAP income (loss) from operations 13,961 (16,041) 31,409 (91,665) Stock-based compensation expense 24,594 23,768 76,896 84,836 Amortization of acquired intangible assets 5,107 5,497 14,830 16,409 Acquisition-related expenses (1) 
+ 290 568 363 Impairment of long-lived assets 3,553 30,784 Restructuring expense (2) 
+ 19,996 (190) 19,996 Non-GAAP income from operations 43,952 36,773 123,513 60,723 (1) For the three and nine months ended September 30, 2024, acquisition-related expenses included 0.2 million of accretion expense related to contingent consideration recorded in connection with our July 2024 acquisition of Noetic. 
+ (2) For the nine months ended September 30, 2024, restructuring expense was recorded within general and administrative expense in our condensed consolidated statement of operations. 
+
+27 
+
+Table of Contents 
+
+ The following table reconciles GAAP net income (loss) to non-GAAP net income for the three and nine months ended September 30, 2024, and 2023: Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands, except share and per share data) GAAP net income (loss) 16,554 (76,611) 27,007 (169,308) Stock-based compensation expense 24,594 23,768 76,896 84,836 Amortization of acquired intangible assets 5,107 5,497 14,830 16,409 Acquisition-related expenses 290 568 363 Amortization of debt issuance costs 1,217 1,041 3,325 3,061 Induced conversion expense 53,889 53,889 Change in fair value of derivative assets 2,851 15,511 Impairment of long-lived assets 3,553 30,784 Restructuring expense 19,996 (190) 19,996 Discrete tax items 6,360 Non-GAAP net income 47,762 33,984 128,796 55,541 Interest expense of convertible senior notes (1) 1,571 604 4,714 1,354 Numerator for non-GAAP earnings per share calculation 49,333 34,588 133,510 56,895 Weighted average shares used in GAAP earnings per share calculation, basic 62,898,078 61,065,157 62,389,482 60,506,082 Dilutive effect of convertible senior notes (1) 11,183,611 6,960,346 11,183,611 6,960,346 Dilutive effect of employee equity incentive plans (2) 455,396 873,718 652,017 1,919,771 Weighted average shares used in non-GAAP earnings per share calculation, diluted 74,537,085 68,899,221 74,225,110 69,386,199 Non-GAAP net income per share: Basic 0.76 0.56 2.06 0.92 Diluted 0.66 0.50 1.80 0.82 (1) We use the if-converted method to compute diluted earnings per share with respect to our Notes. There was no add-back of interest expense or additional dilutive shares related to the Notes where the effect was anti-dilutive. On an if-converted basis, for the three and nine months ended September 30, 2024 and 2023, the 2025 Notes, the 2027 Notes and the 2029 Notes were dilutive. 
+ (2) We use the treasury method to compute the dilutive effect of employee equity incentive plan awards. 
+ 28 
+
+Table of Contents 
+
+ The following table reconciles GAAP net income (loss) to adjusted EBITDA for the three and nine months ended September 30, 2024, and 2023: Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) GAAP net income (loss) 16,554 (76,611) 27,007 (169,308) Interest income (5,571) (2,545) (15,512) (6,000) Interest expense 2,837 56,515 8,180 62,005 Other (income) expense, net (2,811) 4,518 (681) 18,093 Provision for income taxes 2,952 2,082 12,415 3,545 Depreciation expense 2,718 3,343 8,401 10,929 Amortization of intangible assets 8,520 8,306 25,056 23,599 Stock-based compensation expense 24,594 23,768 76,896 84,836 Acquisition-related expenses 290 568 363 Impairment of long-lived assets 3,553 30,784 Restructuring expense 19,996 (190) 19,996 Adjusted EBITDA 50,083 42,925 142,140 78,842 
+ The following table reconciles net cash provided by operating activities to free cash flow for the three and nine months ended September 30, 2024, and 2023: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) Net cash provided by operating activities 43,969 3,665 107,897 40,812 Less: Purchases of property and equipment (1,342) (295) (2,242) (3,999) Less: Capitalized internal-use software costs (4,125) (3,952) (10,414) (13,033) Free cash flow 38,502 (582) 95,241 23,780 
+ 
+ Components of Results of Operations 
+ Revenue 
+ We generate revenue primarily from selling products and professional services through a variety of delivery models to meet the needs of our diverse customer base. 
+ Product subscriptions 
+ We generate product subscriptions revenue from the sale of (1) cloud-based subscriptions, (2) managed services offerings, which utilize our products and (3) software licenses with related maintenance and support and content subscription, as applicable. Software license revenue consists of revenues from term licenses. When software licenses are purchased, maintenance and support and content subscription, as applicable, are bundled with the license for the term period. 
+ Professional Services 
+ We generate professional service revenue from the sale of deployment and training services related to our products, incident response services and security advisory services. 
+ Cost of Revenue 
+ Our total cost of revenue consists of the costs of product subscriptions and professional services, as noted below. In addition, cost of revenue includes overhead costs for depreciation, facilities, IT, information security, and recruiting. Our IT overhead costs include IT personnel compensation costs and costs associated with our IT infrastructure. All overhead costs are allocated based on relative headcount. 
+ 29 
+
+Table of Contents 
+
+ Cost of Product Subscriptions 
+ Cost of product subscriptions consists of personnel and related costs for our content, support, managed service and cloud operations teams, including salaries and other payroll related costs, bonuses, stock-based compensation and allocated overhead costs. Also included in cost of products are software license fees, cloud computing costs and internet connectivity expenses directly related to delivering our products, amortization of contract fulfillment costs, as well as amortization of certain intangible assets including internally developed software. 
+ Cost of Professional Services 
+ Cost of professional services consists of personnel and related costs for our professional services team, including salaries and other payroll related costs, bonuses, stock-based compensation, costs of contracted third-party vendors, travel and entertainment expenses and allocated overhead costs. 
+ We expect our cost of revenue to increase on an absolute dollar basis as we continue to grow our revenue. 
+ Gross Margin 
+ Gross margin, or gross profit as a percentage of revenue, has been and will continue to be affected by a variety of factors, including the average sales price of our products and services, transaction volume growth, the mix of revenue between software licenses, cloud-based subscriptions, managed services and professional services and changes in cloud computing costs. 
+ We expect our gross margins to fluctuate over time depending on the factors described above. 
+ Operating Expenses 
+ Operating expenses consist of research and development, sales and marketing, general and administrative expenses and restructuring. Operating expenses include overhead costs for depreciation, facilities, IT, information security and recruiting. Our IT overhead costs include IT personnel compensation costs and costs associated with our IT infrastructure. All overhead costs are allocated based on relative headcount. 
+ Research and Development Expense 
+ Research and development expense consists of personnel costs for our research and development team, including salaries and other payroll related costs, bonuses and stock-based compensation. Additional expenses include third-party infrastructure costs, travel and entertainment, consulting and professional fees for third-party development resources as well as allocated overhead costs. 
+ We expect research and development expense to decrease as a percentage of total revenue in the near term. 
+ Sales and Marketing Expense 
+ Sales and marketing expense consists of personnel costs for our sales and marketing team, including salaries and other payroll related costs, commissions, including amortization of deferred commissions, bonuses and stock-based compensation. Additional expenses include marketing activities and promotional events, travel and entertainment, training costs, amortization of certain intangible assets and allocated overhead costs. 
+ We expect sales and marketing expense to decrease as a percentage of total revenue in the near term. 
+ General and Administrative Expense 
+ General and administrative expense consists of personnel costs for our executive, legal, human resources, and finance and accounting departments, including salaries and other payroll related costs, bonuses and stock-based compensation. Additional expenses include travel and entertainment, professional fees, litigation-related expenses, insurance, acquisition-related expenses, amortization of certain intangible assets and allocated overhead costs. 
+ We expect general and administrative expense to decrease as a percentage of total revenue in the near term. 
+ 
+ Impairment of Long-Lived Assets 
+ 
+ Impairment of long-lived assets consists of impairment charges allocated to the carrying amount of certain operating right-of-use assets and the associated leasehold improvements when the carrying amounts exceed their respective fair values. 
+ 
+ 30 
+
+Table of Contents 
+
+ Interest Income 
+ Interest income consists primarily of interest income on our cash and cash equivalents and our short and long-term investments. 
+ Interest Expense 
+ Interest expense consists primarily of contractual interest expense, amortization of debt issuance costs related to our convertible senior notes and revolving credit facility and induced conversion expense. We expect interest expense in the near term to represent contractual interest expense and amortization of debt issuance costs related to our convertible senior notes and revolving credit facility. 
+ Other Income (Expense), Net 
+ Other income (expense), net consists primarily of the change in fair value of derivative assets and unrealized and realized gains and losses related to changes in foreign currency exchange rates. 
+ Provision for Income Taxes 
+ Provision for income taxes consists of domestic and foreign taxes on income and withholding taxes. We maintain a substantially full valuation allowance for domestic and certain foreign deferred tax assets, including net operating loss carryforwards and tax credits. Based on our history of losses, we expect to maintain this substantially full valuation allowance for the foreseeable future as it is more likely than not that some or all of those deferred tax assets may not be realized. 
+ 31 
+
+Table of Contents 
+
+ Results of Operations Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) Consolidated Statement of Operations Data: Revenue: Product subscriptions 205,593 189,876 602,578 545,349 Professional services 9,061 8,967 25,168 27,090 Total revenue 214,654 198,843 627,746 572,439 Cost of revenue: (1) 
+ Product subscriptions 56,653 51,261 166,290 150,597 Professional services 6,364 6,569 18,478 21,396 Total cost of revenue 63,017 57,830 184,768 171,993 Operating expenses: (1) 
+ Research and development 44,565 39,940 125,611 137,048 Sales and marketing 74,521 75,699 225,121 239,322 General and administrative 18,590 17,866 60,837 64,961 Impairment of long-lived assets 3,553 30,784 Restructuring 19,996 19,996 Total operating expenses 137,676 157,054 411,569 492,111 Income (loss) from operations 13,961 (16,041) 31,409 (91,665) Interest income 5,571 2,545 15,512 6,000 Interest expense (2,837) (56,515) (8,180) (62,005) Other expense, net 2,811 (4,518) 681 (18,093) Income (loss) before income taxes 19,506 (74,529) 39,422 (165,763) Provision for income taxes 2,952 2,082 12,415 3,545 Net income (loss) 16,554 (76,611) 27,007 (169,308) 
+ (1) Cost of revenue and operating expenses include stock-based compensation expense and depreciation and amortization expense as follows: Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) Stock-based compensation expense: Cost of revenue 3,001 2,527 8,707 8,348 Research and development 9,535 8,436 25,698 30,575 Sales and marketing 6,823 7,106 21,182 23,087 General and administrative 5,235 5,699 21,309 22,826 Total stock-based compensation expense 24,594 23,768 76,896 84,836 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) Depreciation and amortization expense: Cost of revenue 8,332 8,213 24,558 23,246 Research and development 804 1,010 2,502 3,285 Sales and marketing 1,671 1,889 5,073 6,009 General and administrative 431 537 1,324 1,988 Total depreciation and amortization expense 11,238 11,649 33,457 34,528 
+ 32 
+
+Table of Contents 
+
+ The following table sets forth our condensed consolidated statements of operations data expressed as a percentage of revenue: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Condensed Consolidated Statement of Operations Data: Revenue: Product subscriptions 95.8 95.5 96.0 95.3 Professional services 4.2 4.5 4.0 4.7 Total revenue 100.0 100.0 100.0 100.0 Cost of revenue: Product subscriptions 26.4 25.8 26.5 26.3 Professional services 3.0 3.3 2.9 3.8 Total cost of revenue 29.4 29.1 29.4 30.0 Operating expenses: Research and development 20.8 20.1 20.0 23.9 Sales and marketing 34.7 38.2 35.9 41.8 General and administrative 8.6 9.0 9.7 11.3 Impairment of long-lived assets 1.8 5.4 Restructuring 10.1 3.5 Total operating expenses 64.1 79.0 65.6 86.0 Income (loss) from operations 6.5 (8.1) 5.0 (16.0) Interest income 2.6 1.3 2.5 1.0 Interest expense (1.3) (28.4) (1.3) (10.8) Other income (expense), net 1.3 (2.3) 0.1 (3.2) Income (loss) before income taxes 9.1 (37.5) 6.3 (29.0) Provision for income taxes 1.4 1.0 2.0 0.6 Net income (loss) 7.7 (38.5) 4.3 (29.6) 
+ 
+ Comparison of the Three Months Ended September 30, 2024 and 2023 
+ Revenue Three Months Ended September 30, Change 2024 2023 (dollars in thousands) Revenue: Product subscriptions 205,593 189,876 15,717 8.3 Professional services 9,061 8,967 94 1.0 Total revenue 214,654 198,843 15,811 8.0 
+ Total revenue increased by 15.8 million in the three months ended September 30, 2024 compared to the same period in 2023 and consisted of a 2.4 million increase in revenue from new customers and a 13.4 million increase in revenue from existing customers. The 13.4 million increase in revenue from existing customers was due to an increase in revenue from renewals, upsells and cross-sells as a result of the continued growth of our existing customer base. Revenue from new customers represents the revenue recognized from the customer's initial purchase. 
+ The increase in total revenue in the three months ended September 30, 2024 compared to the same period in 2023 was comprised of 8.5 million generated from sales in North America and 7.3 million generated from sales from the rest of the world. 
+ 
+ 33 
+
+Table of Contents 
+
+ Cost of Revenue Three Months Ended September 30, Change 2024 2023 (dollars in thousands) Cost of revenue: Product subscriptions 56,653 51,261 5,392 10.5 Professional services 6,364 6,569 (205) (3.1) Total cost of revenue 63,017 57,830 5,187 9.0 Gross margin : Product subscriptions 72.4 73.0 Professional services 29.8 26.7 Total gross margin 70.6 70.9 
+ Total cost of revenue increased by 5.2 million in the three months ended September 30, 2024 compared to the same period in 2023, primarily due to a 4.7 million increase in cloud computing costs related to growing cloud-based subscription and managed services revenue, a 0.6 million increase in amortization expense for capitalized internally-developed software and a 0.8 million increase in other expenses. 
+ Total gross margin percentage decreased for the three months ended September 30, 2024 compared to the same period in 2023. The decrease in product subscriptions gross margin for the three months ended September 30, 2024 was primarily due to an increase in cloud computing costs. The increase in professional services gross margin for the three months ended September 30, 2024 was primarily due to a decrease in personnel costs. 
+ Operating Expenses 
+ Research and Development Expense Three Months Ended September 30, Change 2024 2023 (dollars in thousands) Research and development 44,565 39,940 4,625 11.6 of revenue 20.8 20.1 
+ Research and development expense increased by 4.6 million in the three months ended September 30, 2024 compared to the same period in 2023, primarily due to a 2.8 million increase in personnel costs, inclusive of a 1.2 million increase in stock-based compensation expense, resulting from an increase in headcount including the employees acquired in the acquisition of Noetic in July 2024, and a 1.8 million increase in other expenses. 
+ Sales and Marketing Expense Three Months Ended September 30, Change 2024 2023 (dollars in thousands) Sales and marketing 74,521 75,699 (1,178) (1.6) of revenue 34.7 38.2 
+ Sales and marketing expense decreased by 1.2 million in the three months ended September 30, 2024 compared to the same period in 2023, primarily due to a 3.3 million decrease in personnel costs, inclusive of a 0.3 million decrease in stock-based compensation expense, resulting from a decrease in headcount primarily due to our Restructuring Plan, and a 0.2 million decrease in other expenses. These decreases were partially offset by a 2.3 million increase in commission expense. 
+ 34 
+
+Table of Contents 
+
+ General and Administrative Expense Three Months Ended September 30, Change 2024 2023 (dollars in thousands) General and administrative 18,590 17,866 724 4.1 of revenue 8.6 9.0 
+ General and administrative expense increased by 0.7 million in the three months ended September 30, 2024 compared to the same period in 2023, primarily due to a 0.7 million increase in professional fees. 
+ Impairment of Long-Lived Assets Three Months Ended September 30, Change 2024 2023 (dollars in thousands) Impairment of long-lived assets 3,553 (3,553) (100.0) of revenue 1.8 
+ Impairment of long-lived assets expense of 3.6 million in the three months ended September 30, 2023 related to an impairment charge recorded after a triggering event related to a change in usage of certain idle office spaces located in Plano Texas, Los Angeles, California and Toronto, Canada indicated that the carrying value of our right of use and other lease-related assets may not be fully recoverable. 
+ Restructuring Three Months Ended September 30, Change 2024 2023 (dollars in thousands) Restructuring 19,996 (19,996) (100.0) of revenue 10.1 
+ Restructuring expense of 20.0 million in the three months ended September 30, 2023 was recorded as a result of restructuring charges consisting of employee transition, notice period and severance payments and employee benefits and related facilitation costs related to our Restructuring Plan. Refer to Note 15, Restructuring , in the Notes to our condensed consolidated financial statements for further details on our Restructuring Plan. 
+ Interest Income Three Months Ended September 30, Change 2024 2023 (dollars in thousands) Interest income 5,571 2,545 3,026 118.9 of revenue 2.6 1.3 
+ Interest income increased by 3.0 million in the three months ended September 30, 2024 compared to the same period in 2023 primarily due to higher interest income as a result of an increase in cash and cash equivalents and investments. 
+ Interest Expense Three Months Ended September 30, Change 2024 2023 (dollars in thousands) Interest expense (2,837) (56,515) 53,678 (95.0) of revenue (1.3) (28.4) 
+ 
+ 35 
+
+Table of Contents 
+
+ Interest expense decreased in the three months ended September 30, 2024 compared to the same period in 2023 primarily due to 53.9 million of induced conversion expense incurred in the third quarter of 2023 in conjunction with the partial repurchase of the 2025 Notes. 
+ Other Income (Expense), Net Three Months Ended September 30, Change 2024 2023 (dollars in thousands) Other income (expense), net 2,811 (4,518) 7,329 (162.2) of revenue 1.3 (2.3) 
+ Other income (expense), net increased by 7.3 million in the three months ended September 30, 2024 compared to the same period in 2023 primarily due to increases in realized and unrealized foreign currency gains, primarily related to the Euro and British Pound Sterling, partially offset by 2.9 million of expense for the change in fair value on derivative assets related to our 2023 capped calls settlement in the prior period. 
+ Provision for Income Taxes Three Months Ended September 30, Change 2024 2023 (dollars in thousands) Provision for income taxes 2,952 2,082 870 41.8 of revenue 1.4 1.0 
+ Provision for income taxes increased by 0.9 million in the three months ended September 30, 2024 compared to the same period in 2023 primarily due to an increase in taxes associated with our international operations. 
+ 
+ Comparison of the Nine Months Ended September 30, 2024 and 2023 
+ Revenue Nine Months Ended September 30, Change 2024 2023 (dollars in thousands) Revenue: Product subscriptions 602,578 545,349 57,229 10.5 Professional services 25,168 27,090 (1,922) (7.1) Total revenue 627,746 572,439 55,307 9.7 
+ Total revenue increased by 55.3 million in the nine months ended September 30, 2024 compared to the same period in 2023 and consisted of a 5.9 million increase in revenue from new customers and a 49.4 million increase in revenue from existing customers. The 49.4 million increase in revenue from existing customers was due to an increase in revenue from renewals, upsells and cross-sells as a result of the continued growth of our existing customer base. Revenue from new customers represents the revenue recognized from the customer's initial purchase. 
+ The increase in total revenue in the nine months ended September 30, 2024 compared to the same period in 2023 was comprised of 31.6 million generated from sales in North America and 23.7 million generated from sales from the rest of the world. 
+ 36 
+
+Table of Contents 
+
+ Cost of Revenue Nine Months Ended September 30, Change 2024 2023 (dollars in thousands) Cost of revenue: Product subscriptions 166,290 150,597 15,693 10.4 Professional services 18,478 21,396 (2,918) (13.6) Total cost of revenue 184,768 171,993 12,775 7.4 Gross margin : Products 72.4 72.4 Professional services 26.6 21.0 Total gross margin 70.6 70.0 
+ Total cost of revenue increased by 12.8 million in the nine months ended September 30, 2024 compared to the same period in 2023, primarily due to a 15.8 million increase in cloud computing costs related to growing cloud-based subscription and managed services revenue, a 3.0 million increase in amortization expense for capitalized internally-developed software and a 0.4 million increase in other expenses. These increases were partially offset by a 6.4 million decrease in personnel costs resulting from a decrease in headcount primarily due to our Restructuring Plan. 
+ Total gross margin percentage increased in the nine months ended September 30, 2024 compared to the same period in 2023. The gross margin percentage for product subscriptions was consistent in the nine months ended September 30, 2024 compared to the same period in 2023. The increase in professional services gross margin in the nine months ended September 30, 2024 was primarily due to a decrease in personnel costs. 
+ Operating Expenses 
+ Research and Development Expense Nine Months Ended September 30, Change 2024 2023 (dollars in thousands) Research and development 125,611 137,048 (11,437) (8.3) of revenue 20.0 23.9 
+ Research and development expense decreased by 11.4 million in the nine months ended September 30, 2024 compared to the same period in 2023, primarily due to a 10.8 million decrease in personnel costs, inclusive of a 4.9 million decrease in stock-based compensation expense, resulting from an overall decrease in headcount, primarily due to our Restructuring Plan, and a 3.0 million decrease due to a write-off of a capitalized internal-use software project in the prior period. These decreases were partially offset by a 2.4 million increase in other expenses. 
+ Sales and Marketing Expense Nine Months Ended September 30, Change 2024 2023 (dollars in thousands) Sales and marketing 225,121 239,322 (14,201) (5.9) of revenue 35.9 41.8 
+ Sales and marketing expense decreased by 14.2 million in the nine months ended September 30, 2024 compared to the same period in 2023, primarily due to a 15.7 million decrease in personnel costs, inclusive of a 1.9 million decrease in stock-based compensation expense, resulting from an overall decrease in headcount primarily due to our Restructuring Plan, a 1.7 million decrease in marketing and advertising expenses and a 3.6 million decrease in other expenses. These decreases were partially offset by a 6.8 million increase in commission expense. 
+ 37 
+
+Table of Contents 
+
+ General and Administrative Expense Nine Months Ended September 30, Change 2024 2023 (dollars in thousands) General and administrative 60,837 64,961 (4,124) (6.3) of revenue 9.7 11.3 
+ General and administrative expense decreased by 4.1 million in the nine months ended September 30, 2024 compared to the same period in 2023, primarily due to a 3.5 million decrease in personnel costs, inclusive of a 1.4 million decrease in stock-based compensation expense, resulting from a decrease in headcount primarily due to our Restructuring Plan, a 1.6 million decrease in professional fees and a 0.4 million decrease in other expenses. 
+ Impairment of Long-Lived Assets 
+ Nine Months Ended September 30, Change 2024 2023 (dollars in thousands) Impairment of long-lived assets 30,784 (30,784) 100.0 of revenue 5.4 
+ Impairment of long-lived assets expense of 30.8 million in the nine months ended September 30, 2023 was recorded after a triggering event related to a change in usage of certain idle office space at our corporate headquarters in Boston, Massachusetts as well as idle office spaces located in Plano, Texas, Los Angeles, California and Toronto, Canada indicated that the carrying value of our right of use and other lease-related assets may not be fully recoverable. 
+ Restructuring 
+ Nine Months Ended September 30, Change 2024 2023 (dollars in thousands) Restructuring 19,996 (19,996) 100.0 of revenue 3.5 
+ Restructuring expense of 20.0 million in the nine months ended September 30, 2023 was recorded as a result of restructuring charges consisting of employee transition, notice period and severance payments and employee benefits and related facilitation costs related to our Restructuring Plan. Refer to Note 15, Restructuring , in the Notes to our condensed consolidated financial statements for further details on our Restructuring Plan. 
+ Interest Income Nine Months Ended September 30, Change 2024 2023 (dollars in thousands) Interest income 15,512 6,000 9,512 158.5 of revenue 2.5 1.0 
+ Interest income increased by 9.5 million in the nine months ended September 30, 2024 compared to the same period in 2023, primarily due to higher interest income as a result of an increase in cash and cash equivalents and investments. 
+ 38 
+
+Table of Contents 
+
+ Interest Expense Nine Months Ended September 30, Change 2024 2023 (dollars in thousands) Interest expense (8,180) (62,005) 53,825 (86.8) of revenue (1.3) (10.8) 
+ Interest expense decreased in the nine months ended September 30, 2024 compared to the same period in 2023 primarily due to 53.9 million of induced conversion expense incurred in the third quarter of 2023 in conjunction with the partial repurchase of the 2025 Notes. 
+ Other Income (Expense), Net Nine Months Ended September 30, Change 2024 2023 (dollars in thousands) Other income (expense), net 681 (18,093) 18,774 (103.8) of revenue 0.1 (3.2) 
+ Other income (expense), net increased by 18.8 million in the nine months ended September 30, 2024 compared to the same period in 2023, primarily due to a 15.5 million expense for the change in fair value on derivative assets related to our 2023 capped calls settlement in the prior period as well as increases in realized and unrealized foreign currency gains, primarily related to the Euro and British Pound Sterling. 
+ Provision for Income Taxes Nine Months Ended September 30, Change 2024 2023 (dollars in thousands) Provision for income taxes 12,415 3,545 8,870 250.2 of revenue 2.0 0.6 
+ Provision for income taxes increased by 8.9 million in the nine months ended September 30, 2024 compared to the same period in 2023 primarily due to 6.4 million of tax expense recorded for an intercompany sale of intellectual property as part of post-acquisition strategy related to the acquisition of Minerva Lab Ltd. and a 2.5 million increase in domestic and international taxes. 
+ 
+ Liquidity and Capital Resources 
+ As of September 30, 2024, we had 222.6 million in cash and cash equivalents, 281.5 million in investments that have maturities ranging from one to twenty months and an accumulated deficit of 1.0 billion. Since our inception, we have generated significant losses and we may generate losses for the foreseeable future. Our principal sources of liquidity are cash and cash equivalents, investments, cash flow provided by operating activities and our Credit and Security Agreement (the Credit Agreement ). To date, we have financed our operations primarily through private and public equity financings, issuance of convertible senior notes and through cash generated by operating activities. 
+ We believe that our existing cash and cash equivalents, our investments, our available borrowings under our Credit Agreement and cash generated by operating activities will be sufficient to meet our operating and capital requirements for at least the next 12 months. Our foreseeable cash needs, in addition to our recurring operating expenses, include our expected capital expenditures to support expansion of our infrastructure and workforce, office facilities lease obligations, purchase commitments, including our cloud infrastructure services (including with Amazon Web Services AWS )), potential future acquisitions of technology businesses and any election we make to redeem our convertible senior notes. 
+ Our future capital requirements will depend on many factors, including our growth rate, the timing and extent of spending to support research and development efforts, the expansion of sales and marketing activities, particularly internationally, the introduction of new and enhanced products and service offerings, the cost of any future acquisitions of technology or businesses and any election we make to redeem our convertible senior notes. In the event that additional financing is required from outside sources, we may be unable to raise the funds on acceptable terms, if at all. If we are unable to raise additional capital on terms satisfactory to us when we require it, our business, operating results and financial condition could be adversely affected. 
+ 39 
+
+Table of Contents 
+
+ Cash Flows 
+ The following table shows a summary of our cash flows for the nine months ended September 30, 2024 and 2023: 
+ Nine Months Ended September 30, 2024 2023 (in thousands) Cash, cash equivalents and restricted cash at beginning of period 214,130 207,804 Net cash provided by operating activities 107,897 40,812 Net cash used in investing activities (99,488) (145,186) Net cash provided by financing activities 6,799 81,795 Effects of exchange rates on cash, cash equivalents and restricted cash 770 (2,010) Cash, cash equivalents and restricted cash at end of period 230,108 183,215 
+ Uses of Funds 
+ Our historical uses of cash have primarily consisted of cash used for operating activities such as expansion of our sales and marketing operations, research and development activities and other working capital needs, as well as cash used for business acquisitions and purchases of property and equipment, including leasehold improvements for our facilities. 
+ Operating Activities 
+ Operating activities provided 107.9 million of cash and cash equivalents in the nine months ended September 30, 2024, which reflects continued growth in revenue partially offset by our continued investments in our operations and the timing of working capital adjustments. Cash provided by operating activities reflected our net income of 27.0 million and non-cash charges of 111.0 million related primarily to depreciation and amortization, stock-based compensation expense, deferred income taxes, amortization of debt issuance costs and other non-cash charges, partially offset by a decrease in our net operating assets and liabilities of 30.1 million. The change in our net operating assets and liabilities was primarily due to a decrease in deferred revenue and the timing of payments of operating expenses, including payout of annual bonuses and year-end commissions and other compensation costs and accounts payable, partially offset by a decrease in accounts receivable due to an increase in cash collections from our customers. 
+ Operating activities provided 40.8 million of cash and cash equivalents in the nine months ended September 30, 2023, which reflects continued growth in revenue partially offset by our continued investments in our operations and the timing of working capital adjustments. Cash provided by operating activities reflected our net loss of 169.3 million and non-cash charges of 228.2 million related primarily to depreciation and amortization, stock-based compensation expense, impairment of long-lived assets, change in fair value of derivative assets, amortization of debt issuance costs and other non-cash charges, partially offset by a decrease in our net operating assets and liabilities of 18.1 million. The change in our net operating assets and liabilities was primarily due to a 18.0 million decrease in accrued expenses, primarily as a result of the payout of annual bonuses and year-end commissions, a 6.4 million decrease in deferred revenue, a 1.2 million decrease in accounts payable, a 0.9 million decrease in other liabilities and a 9.5 million increase in deferred contract acquisition and fulfillment costs, which each had a negative impact on operating cash flow. These factors were offset by a 12.4 million decrease in accounts receivable due to an increase in collections, and a 5.5 million decrease in prepaid expenses, which each had a positive impact on operating cash flow. 
+ Investing Activities 
+ Investing activities used 99.5 million of cash in the nine months ended September 30, 2024, consisting of 49.9 million in purchases of investments, net of sales/maturities, 37.2 million of cash paid for the acquisition of Noetic, 10.4 million for capitalization of internal-use software costs, and 2.2 million in capital expenditures to purchase computer equipment and leasehold improvements, partially offset by proceeds of 0.4 million for other investing activities. 
+ Investing activities used 145.2 million of cash in the nine months ended September 30, 2023, consisting of 93.4 million in purchases of investments, net of sales and maturities, 34.8 million of cash paid for the acquisition of Minerva, 13.0 million for capitalization of internal-use software costs and 4.0 million in capital expenditures to purchase computer equipment and leasehold improvements. 
+ 40 
+
+Table of Contents 
+
+ Financing Activities 
+ Financing activities provided 6.8 million of cash in the nine months ended September 30, 2024, which consisted primarily of 9.2 million in proceeds from the issuance of common stock purchased by employees under the Rapid7, Inc. 2015 Employee Stock Purchase Plan ESPP and 1.4 million in proceeds from the exercise of stock options, partially offset by 3.8 million in withholding taxes paid for the net share settlement of equity awards. 
+ Financing activities provided 81.8 million of cash in the nine months ended September 30, 2023, which consisted primarily of 292.8 million in proceeds from the issuance of the 2029 Notes, net of issuance costs paid of 7.2 million, 17.5 million in proceeds from the settlement of the 2023 Capped Calls, 11.3 million in proceeds from the issuance of common stock purchased by employees under the ESPP and 3.0 million in proceeds from the exercise of stock options, partially offset by 200.0 million for the repurchase and conversion of the 2025 Notes, 36.6 million for the purchase of the 2029 Capped Calls, 4.0 million in withholding taxes paid for the net share settlement of equity awards and 2.2 million in payments related to the acquisition of IntSights. 
+ 
+ Contractual Obligations and Commitments 
+ As of September 30, 2024, there were no additional material changes from those disclosed in our Annual Report on Form 10-K for the year ended December 31, 2023, filed with the SEC on February 26, 2024 (the Annual Report ). 
+ 
+ Off-Balance Sheet Arrangements 
+ We do not have any relationships with unconsolidated entities or financial partnerships, including entities sometimes referred to as structured finance or special purpose entities that were established for the purpose of facilitating off-balance sheet arrangements or other contractually narrow or limited purposes. We do not engage in off-balance sheet financing arrangements. In addition, we do not engage in trading activities involving non-exchange traded contracts. We therefore believe that we are not materially exposed to any financing, liquidity, market or credit risk that could arise if we had engaged in these relationships. 
+ Critical Accounting Estimates 
+ Our condensed consolidated financial statements are prepared in accordance with generally accepted accounting principles in the United States GAAP ). The preparation of our condensed consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, expenses and disclosures. We base our estimates and assumptions on historical experience and other factors that we believe to be reasonable under the circumstances. We evaluate our estimates and assumptions on an ongoing basis. Our actual results may differ from these estimates. There have been no material changes to our critical accounting estimates from those disclosed in our Annual Report. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk. 
+ Foreign Currency Exchange Risk 
+ Our results of operations and cash flows are subject to fluctuations due to changes in foreign currency exchange rates. A majority of our customers enter into contracts that are denominated in U.S. dollars. Our expenses are generally denominated in the currencies of the countries where our operations are located, which is primarily in the United States and to a lesser extent in the United Kingdom, other Euro-zone countries within mainland Europe, Canada, Australia, Israel, Singapore and Japan. Our results of operations and cash flows are, therefore, subject to fluctuations due to changes in foreign currency exchange rates and may be adversely affected in the future due to changes in foreign currency exchange rates. The effect of a hypothetical 10 adverse change in foreign currency exchange rates on monetary assets and liabilities as of September 30, 2024 would not have been material to our financial condition or results of operations. We enter into forward contracts designated as cash flow hedges to manage the foreign currency exchange rate risk associated with certain of our foreign currency denominated expenditures. The effectiveness of our existing hedging transactions and the availability and effectiveness of any hedging transactions we may decide to enter into in the future may be limited, and we may not be able to successfully hedge our exposure, which could adversely affect our financial condition and operating results. For further information, see Note 9, Derivatives and Hedging Activities , in the Notes to our Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10-Q. As our international operations grow, we will continue to reassess our approach to manage our risk relating to fluctuations in foreign currency rates. 
+ Interest Rate Risk 
+ As of September 30, 2024, we had cash and cash equivalents of 222.6 million consisting of bank deposits and money market funds and investments of 281.5 million consisting of U.S. government agencies. Our investments are made for capital preservation purposes. We do not enter into investments for trading or speculative purposes. 
+ 41 
+
+Table of Contents 
+
+ Our cash and cash equivalents and investments are subject to market risk due to changes in interest rates, which may affect our interest income and the fair value of our investments. Due in part to these factors, our future investment income may fluctuate due to changes in interest rates or we may suffer losses in principal if we are forced to sell securities that decline in market value due to changes in interest rates. However, because we classify our investments as available-for-sale securities, no gains or losses are recognized due to the changes in interest rates unless securities are sold prior to maturity or declines in fair value are determined to be other-than-temporary. 
+ The fair values of our convertible senior notes are subject to interest rate risk, market risk and other factors due to the conversion features of the notes. The fair values of the convertible senior notes may increase or decrease for various reasons, including fluctuations in the market price of our common stock, fluctuations in market interest rates and fluctuations in general economic conditions. The interest and market value changes affect the fair values of the convertible senior notes but do not impact our financial position, cash flows or results of operations due to the fixed nature of the debt obligation. Based upon the quoted market price as of September 30, 2024, the fair values of our 2025 Notes, 2027 Notes and 2029 Notes were 45.1 million, 547.1 million and 281.9 million, respectively. 
+ As of September 30, 2024, the effect of a hypothetical 10 increase or decrease in interest rates would not have had a material impact on our financial statements. 
+ Inflation Risk 
+ As of September 30, 2024, we do not believe that inflation had a material effect on our business, financial condition or results of operations. If our costs were to become subject to significant inflationary pressures, we may not be able to fully offset such higher costs through price increases. Our inability or failure to do so could harm our business, financial condition and results of operations. 
+ 
+ Item 4. Controls and Procedures. 
+ Evaluation of Disclosure Controls and Procedures 
+ We maintain disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act of 1934, as amended (the Exchange Act ), that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company's management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. 
+ Our management, with the participation of our Chief Executive Officer and our Chief Financial Officer, evaluated the effectiveness of the design and operations of our disclosure controls and procedures as of September 30, 2024. Based on the evaluation of our disclosure controls and procedures as of September 30, 2024, our Chief Executive Officer and Chief Financial Officer concluded that, as of such date, our disclosure controls and procedures were effective at the reasonable assurance level. 
+ Inherent Limitations of Internal Controls 
+ Our management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our disclosure controls and procedures or our internal controls will prevent all errors and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These inherent limitations include the realities that judgments in decision making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the control. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+ 
+ Changes in Internal Control over Financial Reporting 
+ There was no change in our internal control over financial reporting identified in connection with the evaluation required by Rule 13a-15(d) and 15d-15(d) of the Exchange Act that occurred during the period covered by this Quarterly Report on Form 10-Q that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ 42 
+
+Table of Contents 
+
+ PART II OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings. 
+ From time to time, we are a party to litigation or subject to claims incident to the ordinary course of business. Although the results of litigation and claims cannot be predicted with certainty, we currently believe that the final outcome of these ordinary course matters will not have a material adverse effect on our business, financial condition or results of operations. Regardless of the outcome, litigation can have an adverse impact on us because of defense and settlement costs, diversion of management resources and other factors. 
+ 
+ Item 1A. Risk Factors. 
+ Except as follows below, there have been no material changes to the risk factors disclosed in Part 1, Item 1A. Risk Factors of our Annual Report on Form 10-K for the year ended December 31, 2023, filed with the Securities and Exchange Commission (the SEC on February 26, 2024 (the Annual Report and in our Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2024, filed with the SEC on August 7, 2024 (the Q2 Quarterly Report ). Our operations and financial results are subject to various risks and uncertainties that, if they materialize, could adversely affect our business, financial condition and results of operations. In that event, the trading price of our common stock could decline. In addition to the other information set forth in this Quarterly Report on Form 10-Q, you should carefully consider the factors described in Part I, Item 1A. Risk Factors of our Annual Report and Q2 Quarterly Report. We may disclose additional changes to risk factors or disclose additional factors from time to time in our future filings with the SEC. Additional risks and uncertainties that we are unaware of, or that we currently believe are not material, may also become important factors that adversely affect our business. 
+ Our business could be negatively affected as a result of actions of activist stockholders or others. 
+ We may be subject to actions or proposals from stockholders or others that may not align with our business strategies or the interests of our other stockholders. Such activist stockholders frequently propose to involve themselves in the governance, strategic direction and operations of companies, including companies' efforts regarding environmental, sustainability and governance standards. For example, JANA Partners Management, LP, an activist investor, has reported, as of September 2024 that it holds an approximate 5.8 beneficial ownership interest in our outstanding common stock. Responding to actions from activist stockholders can be costly and time-consuming, disrupt our business and operations, and divert the attention of our board of directors, management, and employees from the pursuit of our business strategies. Such activities could interfere with our ability to execute our strategic plan. Activist stockholders or others may create perceived uncertainties as to the future direction of our business or strategy which may be exploited by our competitors and may make it more difficult to attract and retain qualified personnel and potential customers, and may affect our relationships with current customers, vendors, investors, and other third parties. In addition, a proxy contest for the election of directors at our annual meeting would require us to incur significant legal fees and proxy solicitation expenses and require significant time and attention by management and our board of directors. The perceived uncertainties as to our future direction also could affect the market price and volatility of our securities. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 
+ (a) Recent Sales of Unregistered Equity Securities 
+ None. 
+ (b) Use of Proceeds from Initial Public Offering of Common Stock 
+ None. 
+ (c) Issuer Purchases of Equity Securities 
+ None. 
+ 
+ Item 3. Defaults Upon Senior Securities. 
+ Not applicable. 
+ 
+ Item 4. Mine Safety Disclosures. 
+ Not applicable. 
+ 43 
+
+Table of Contents 
+
+ Item 5. Other Information. 
+ Rule 10b5-1 Trading Plans and Non-Rule 10b5-1 Trading Arrangements 
+ Certain of our executive officers and directors may execute purchases and sales of our securities through Rule 10b5-1 equity trading plans and non-Rule 10b5-1 equity trading arrangements (as defined in Item 408(c) of Regulation S-K). 
+ , , or modified any non-Rule 10b5-1 equity trading arrangement . 
+ Name and Position Action Adoption or Transaction Date Type of Trading Arrangement Number of Shares of Common Stock to be Sold Expiration Date , (1) 
+ Rule 10b5-1 
+ , 
+ Rule 10b5-1 
+
+(1) Mr. Thomas' plan includes the sale of 8,620 shares that were gifted to Ancore Foundation, Inc., a charitable foundation of which Mr. Thomas is a director. 
+ 
+ Contract, instruction or written plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. 
+ 
+ Represents the maximum number of shares that may be sold pursuant to the Rule 10b5-1 trading arrangement in amounts and prices determined in accordance with a formula set forth in the plan. The actual number of shares sold will be dependent on the satisfaction of certain conditions as set forth in the written plan. 
+ 
+ The Rule 10b5-1 trading arrangement will terminate on the earlier of the date all the shares under the plan are sold and the 
+ expiration date indicated, subject to early termination for specified events set forth in the plan. 
+ 
+ During the three months ended September 30, 2024, other than noted above, none of our executive officers or directors terminated or modified a 10b5-1 equity trading plan, or adopted, terminated, or modified any non-Rule 10b5-1 equity trading arrangement . 
+ 44 
+
+Table of Contents 
+
+ Item 6. Exhibits. 
+ Exhibit Number Description 3.1 Amended and Restated Certificate of Incorporation of Rapid7, Inc., as of June 3, 2020 (incorporated by reference Exhibit 3.1 to the Registrant s Quarterly Report on Form 10-Q (File No. 001-37496), filed on August 10, 2020). 
+ 3.2 Amended and Restated Bylaws of Rapid7, Inc., as of June 3, 2020 (incorporated by reference to Exhibit 3.2 to the Registrant s Quarterly Report on Form 10-Q (File No. 001-37496), filed with the Securities and Exchange Commission on August 10, 2020). 
+ 31.1 Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 31.2 Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 32.1 Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 32.2 Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data file because its XBRL tags are embedded within the inline XBRL document. 
+ 101.SCH Inline XBRL Taxonomy Extension Schema Document. 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document. 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document. 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document. 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. 104 Cover Page Interactive Data file (formatted as inline XBRL with applicable taxonomy extension information contained in Exhibits 101) 
+ Filed herewith. This certification is deemed not filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liability of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended. 
+
+45 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized . RAPID7, INC. Date: November 7, 2024 
+ By: /s/ Corey E. Thomas Name: Corey E. Thomas 
+ Title: Chief Executive Officer 
+ (Principal Executive Officer) Date: November 7, 2024 
+ By: /s/ Tim Adams Name: Tim Adams 
+ Title: Chief Financial Officer 
+ (Principal Financial Officer) 
+ 
+ 46 
+
+<EX-31.1>
+ 2
+ q3202410-qexx311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER 
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Corey E. Thomas, certify that 
+
+1. I have reviewed this Quarterly Report on Form 10-Q of Rapid7, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. Date November 7, 2024 By s Corey E. Thomas Name Corey E. Thomas 
+ Title Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ q3202410-qexx312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER 
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Tim Adams, certify that 
+
+1. I have reviewed this Quarterly Report on Form 10-Q of Rapid7, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. Date November 7, 2024 By s Tim Adams Name Tim Adams 
+ Title Chief Financial Officer 
+ (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ q3202410-qexx321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Corey E. Thomas, Chief Executive Officer of Rapid7, Inc., do hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge, the Quarterly Report on Form 10-Q of Rapid7, Inc. for the quarter ended September 30, 2024 (the Report 
+ 
+ (1) fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of Rapid7, Inc. for the period presented herein. Date November 7, 2024 
+ By s Corey E. Thomas Name Corey E. Thomas 
+ Title Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ q3202410-qexx322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Tim Adams, Chief Financial Officer of Rapid7, Inc., do hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge, the Quarterly Report on Form 10-Q of Rapid7, Inc. for the quarter ended September 30, 2024 (the Report 
+ 
+ (1) fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of Rapid7, Inc. for the period presented herein. Date November 7, 2024 By s Tim Adams Name Tim Adams 
+ Title Chief Financial Officer 
+ (Principal Financial Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ rp-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ rp-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ rp-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ rp-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ rp-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

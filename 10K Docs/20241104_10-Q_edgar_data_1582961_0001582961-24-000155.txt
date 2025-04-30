@@ -1,0 +1,795 @@
+<Header>
+<FileStats>
+    <FileName>20241104_10-Q_edgar_data_1582961_0001582961-24-000155.txt</FileName>
+    <GrossFileSize>7351909</GrossFileSize>
+    <NetFileSize>113436</NetFileSize>
+    <NonText_DocumentType_Chars>1393745</NonText_DocumentType_Chars>
+    <HTML_Chars>2335977</HTML_Chars>
+    <XBRL_Chars>1901280</XBRL_Chars>
+    <XML_Chars>1484116</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001582961-24-000155.hdr.sgml : 20241104
+<ACCEPTANCE-DATETIME>20241104071605
+ACCESSION NUMBER:		0001582961-24-000155
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		75
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241104
+DATE AS OF CHANGE:		20241104
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DigitalOcean Holdings, Inc.
+		CENTRAL INDEX KEY:			0001582961
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40252
+		FILM NUMBER:		241420745
+
+	BUSINESS ADDRESS:	
+		STREET 1:		101 AVENUE OF THE AMERICAS
+		STREET 2:		10TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+		BUSINESS PHONE:		341-985-0306
+
+	MAIL ADDRESS:	
+		STREET 1:		101 AVENUE OF THE AMERICAS
+		STREET 2:		10TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10013
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Digital Ocean, Inc.
+		DATE OF NAME CHANGE:	20130731
+
+</SEC-Header>
+</Header>
+
+ 0001582961-24-000155.txt : 20241104
+
+10-Q
+ 1
+ docn-20240930.htm
+ 10-Q
+
+docn-20240930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ FORM 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from ______ to ______ 
+ Commission File Number: (Exact Name of Registrant as Specified in Its Charter) (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ 
+ , 
+ (Address of principal executive offices and Zip Code) 
+ ) 
+ (Registrant s telephone number, including area code) 
+ Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ As of October 28, 2024, there were shares of the registrant s common stock, with a par value of 0.000025 per share, outstanding. 
+
+TABLE OF CONTENTS PART I. FINANCIAL INFORMATION Page Item 1. Financial Statements (unaudited) Condensed Consolidated Balance Sheets as of September 30, 2024 and December 31, 2023 
+ 2 
+ Condensed Consolidated Statements of Operations for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 3 
+ Condensed Consolidated Statements of Comprehensive Income for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 4 
+ Condensed Consolidated Statements of Stockholders Deficit for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 5 
+ Condensed Consolidated Statements of Cash Flows for the Nine Months Ended September 30, 2024 and 2023 
+ 7 
+ Notes to Condensed Consolidated Financial Statements 
+ 9 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 22 
+ Item 3. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 36 
+ Item 4. 
+ Controls and Procedures 
+ 36 
+ PART II. OTHER INFORMATION 
+ Item 1. 
+ Legal Proceedings 
+ 38 
+ Item 1A. 
+ Risk Factors 
+ 38 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 38 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 38 
+ Item 4. 
+ Mine Safety Disclosures 
+ 38 
+ Item 5. 
+ Other Information 
+ 39 
+ Item 6. 
+ Exhibits 
+ 40 
+ Signatures 
+ 41 
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ This Quarterly Report on Form 10-Q contains forward-looking statements about us and our industry that involve substantial risks and uncertainties. All statements other than statements of historical facts contained in this Quarterly Report on Form 10-Q, including statements regarding our future results of operations or financial condition, business strategy and plans and objectives of management for future operations, are forward-looking statements. In some cases, you can identify forward-looking statements because they contain words such as anticipate, believe, contemplate, continue, could, estimate, expect, intend, may, plan, potential, predict, project, should, target, will or would or the negative of these words or other similar terms or expressions. 
+ You should not rely on forward-looking statements as predictions of future events. We have based the forward-looking statements contained in this Quarterly Report on Form 10-Q primarily on our current expectations and projections about future events and trends that we believe may affect our business, financial condition and operating results. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties and other factors described in Part I, Item 1A. Risk Factors and elsewhere in our Annual Report on Form 10-K. Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Quarterly Report on Form 10-Q. The results, events and circumstances reflected in the forward-looking statements may not be achieved or occur, and actual results, events or circumstances could differ materially from those described in the forward-looking statements. 
+ In addition, statements that we believe and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based on information available to us as of the date of this Quarterly Report on Form 10-Q. While we believe such available information provides a reasonable basis for these statements, that information may be limited or incomplete. Our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all relevant information. These statements are inherently uncertain, and investors are cautioned not to unduly rely on these statements. 
+ The forward-looking statements made in this Quarterly Report on Form 10-Q relate only to events as of the date on which the statements are made. We undertake no obligation to update any forward-looking statements made in this Quarterly Report on Form 10-Q to reflect events or circumstances after the date of this Quarterly Report on Form 10-Q or to reflect new information or the occurrence of unanticipated events, except as required by law. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures or investments. 
+ We may announce material business and financial information to our investors using our investor relations website (https://investors.digitalocean.com/). We therefore encourage investors and others interested in our company to review the information that we make available on our website, in addition to following our filings with the Securities and Exchange Commission, webcasts, press releases and conference calls. 
+
+PART I - FINANCIAL INFORMATION 
+ ITEM 1. FINANCIAL STATEMENTS 
+ DIGITALOCEAN HOLDINGS, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (in thousands, except share amounts) 
+ (unaudited) 
+
+ September 30, 2024 December 31, 2023 Current assets: Cash and cash equivalents Marketable securities Accounts receivable, less allowance for credit losses of and , respectively 
+ Prepaid expenses and other current assets Total current assets Property and equipment, net Restricted cash Goodwill Intangible assets, net Operating lease right-of-use assets, net Deferred tax assets Other assets Total assets Current liabilities: Accounts payable Accrued other expenses Deferred revenue Operating lease liabilities, current Other current liabilities Total current liabilities Deferred tax liabilities Long-term debt Operating lease liabilities, non-current Other long-term liabilities Total liabilities Commitments and Contingencies (Note 8) 
+ par value per share; shares authorized; shares issued and outstanding as of September 30, 2024 and December 31, 2023) 
+ Common stock par value per share; shares authorized; and issued and outstanding as of September 30, 2024 and December 31, 2023, respectively) 
+ Additional paid-in capital Accumulated other comprehensive loss ) ) Accumulated deficit ) ) Total stockholders deficit ) ) Total liabilities and stockholders deficit 
+ See accompanying notes to condensed consolidated financial statements 
+ 2 
+
+DIGITALOCEAN HOLDINGS, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (in thousands, except per share amounts) 
+ (unaudited) 
+
+ Three Months Ended Nine Months Ended September 30, September 30, 2024 2023 2024 2023 Revenue Cost of revenue Gross profit Operating expenses: Research and development Sales and marketing General and administrative Restructuring and other charges ) Total operating expenses Income from operations Other income (expense): Interest expense ) ) ) ) Interest income and other income, net Other income, net Income before income taxes Income tax benefit (expense) ) ) ) Net income attributable to common stockholders Net income per share attributable to common stockholders Basic Diluted Weighted-average shares used to compute net income per share attributable to common stockholders Basic Diluted 
+ See accompanying notes to condensed consolidated financial statements 
+ 3 
+
+DIGITALOCEAN HOLDINGS, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+ (in thousands) 
+ (unaudited) 
+
+ Three Months Ended Nine Months Ended September 30, September 30, 2024 2023 2024 2023 Net income attributable to common stockholders Other comprehensive income (loss): Foreign currency translation adjustments, net of taxes ) ) Unrealized gain on marketable securities, net of taxes Other comprehensive income (loss) ) Comprehensive income 
+ See accompanying notes to condensed consolidated financial statements 
+ 4 
+
+DIGITALOCEAN HOLDINGS, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS DEFICIT 
+ (in thousands, except share amounts) 
+ (unaudited) 
+
+ Common Stock Additional Paid-In Capital Accumulated Other Compreh-ensive Loss Accumulated Deficit Total Shares Amount Balance at June 30, 2024 ) ) ) Issuance of common stock under equity incentive plan, net of taxes withheld ) ) Issuance of common stock under employee stock purchase plan, net of taxes withheld Repurchase and retirement of common stock including related costs ) ) ) Stock-based compensation Other comprehensive income Net income attributable to common stockholders Balance at September 30, 2024 ) ) ) 
+ Common Stock Additional Paid-In Capital Accumulated Other Compreh-ensive Loss Accumulated Deficit Total Shares Amount Balance at June 30, 2023 ) ) ) Issuance of common stock under equity incentive plan, net of taxes withheld ) ) Issuance of common stock under employee stock purchase plan, net of taxes withheld Repurchase and retirement of common stock including related costs ) ) ) Stock-based compensation ) ) Other comprehensive loss ) ) Net income attributable to common stockholders Balance at September 30, 2023 ) ) ) 
+ See accompanying notes to condensed consolidated financial statements 
+ 5 
+
+DIGITALOCEAN HOLDINGS, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS DEFICIT 
+ (in thousands, except share amounts) 
+ (unaudited) 
+
+ Common Stock Additional Paid-In Capital Accumulated Other Comprehen-sive Loss Accumulated Deficit Total Shares Amount Balance at December 31, 2023 ) ) ) Issuance of common stock under equity incentive plan, net of taxes withheld ) ) Issuance of common stock under employee stock purchase plan, net of taxes withheld Repurchase and retirement of common stock including related costs ) ) ) Stock-based compensation Other comprehensive income Net income attributable to common stockholders Balance at September 30, 2024 ) ) ) 
+ 
+ Common Stock Additional Paid-In Capital Accumulated Other Comprehen-sive Loss Accumulated Deficit Total Shares Amount Balance at December 31, 2022 ) ) Issuance of common stock under equity incentive plan, net of taxes withheld ) ) Issuance of common stock under employee stock purchase plan, net of taxes withheld Repurchase and retirement of common stock including related costs ) ) ) ) Stock-based compensation Other comprehensive income Net income attributable to common stockholders Balance at September 30, 2023 ) ) ) 
+ 
+ See accompanying notes to condensed consolidated financial statements 
+ 6 
+
+DIGITALOCEAN HOLDINGS, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (in thousands) 
+ (unaudited) 
+
+ Nine Months Ended September 30, 2024 2023 Operating activities Net income attributable to common stockholders Adjustments to reconcile net income to net cash provided by operating activities: 
+ Depreciation and amortization Stock-based compensation Provision for expected credit losses Operating lease right-of-use assets and liabilities, net Net accretion of discounts and amortization of premiums on investments ) Non-cash interest expense Loss on impairment of long-lived assets Deferred income taxes Release of VAT reserve ) Other ) Changes in operating assets and liabilities: Accounts receivable ) ) Prepaid expenses and other current assets ) ) Accounts payable and accrued expenses ) Deferred revenue ) Other assets and liabilities ) Net cash provided by operating activities Investing activities Capital expenditures - property and equipment ) ) Capital expenditures - internal-use software development ) ) Cash paid for acquisition of businesses, net of cash acquired ) Cash paid for asset acquisitions ) Purchase of marketable securities ) Maturities of marketable securities Purchased interest on marketable securities ) Proceeds from interest on marketable securities Proceeds from sale of equipment Net cash (used in) provided by investing activities ) Financing activities Proceeds related to the issuance of common stock under equity incentive plan Proceeds from the issuance of common stock under employee stock purchase plan Principal repayments of finance leases ) ) Employee payroll taxes paid related to net settlement of equity awards ) ) Repurchase and retirement of common stock including related costs ) ) Net cash used in financing activities ) ) Effect of exchange rate changes on cash, cash equivalents, and restricted cash ) ) Increase (decrease) in cash, cash equivalents and restricted cash ) 
+ See accompanying notes to condensed consolidated financial statements 
+ 7 
+
+DIGITALOCEAN HOLDINGS, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (in thousands) 
+ (unaudited) 
+
+ Nine Months Ended September 30, 2024 2023 Cash, cash equivalents and restricted cash - beginning of period Cash, cash equivalents and restricted cash - end of period Supplemental disclosures of cash flow information: Cash paid for interest Cash paid for taxes, net of refunds Operating cash flows paid for operating leases Non-cash investing and financing activities: Capitalized stock-based compensation Property and equipment received but not yet paid, included in Accounts payable and Accrued other expenses Operating right-of-use assets obtained in exchange for operating lease liabilities Finance right-of-use assets obtained in exchange for finance lease liabilities 
+ See accompanying notes to condensed consolidated financial statements 
+ 8 
+
+DIGITALOCEAN HOLDINGS, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (in thousands, except share and per share amounts) 
+
+Note 1. 
+
+Note 2. 
+ In the opinion of management, the unaudited condensed consolidated financial statements reflect all adjustments, which include normal recurring adjustments, necessary for a fair statement of the Company s financial position as of September 30, 2024, results of operations for the three and nine months ended September 30, 2024 and 2023, cash flows for the nine months ended September 30, 2024 and 2023, and stockholders' deficit for the three and nine months ended September 30, 2024 and 2023. 
+ Restricted Cash 
+ Restricted cash (1) 
+ Total cash, cash equivalents and restricted cash ___________________ 
+ (1) Includes deposits in financial institutions related to letters of credit used to secure lease agreements. 
+ 9 
+
+Provision for expected credit losses Write-offs and other ) Balance as of September 30, 2024 
+ Deferred Revenue 
+ Deferred revenue was and as of September 30, 2024 and December 31, 2023, respectively. Revenue recognized during the three months ended September 30, 2024 and 2023 was and , respectively, and and during the nine months ended September 30, 2024 and 2023, respectively, which was included in each deferred revenue balance at the beginning of each respective period. 
+ The Company has performance obligations associated with commitments in customer contracts for future services that have not yet been recognized in our condensed consolidated financial statements. While our customer agreements typically do not contractually bind customers to a specific usage or term, we have a limited number of contracts with original terms that exceed a one year commitment period and require the customer to spend a minimum amount over that term. As of September 30, 2024, we expect revenue of approximately to be recognized in future periods from remaining performance obligations for contracts that exceed a one year commitment. The weighted-average remaining life of these contracts is years. The amount and timing of revenue recognition is largely driven by customer usage. 
+ operating and reporting segment. 
+ Geographical Information 
+ Europe Asia Other Total 
+ Revenue derived from customers in the United States was and of total revenue for the three and nine months ended September 30, 2024, respectively, and of total revenue for the three and nine months ended September 30, 2023. 
+ 10 
+
+Singapore Germany 
+ Netherlands 
+ Other 
+ Total 
+ No customer represented 10 or more of accounts receivable, net as of September 30, 2024 and December 31, 2023. Additionally, no customer accounted for 10 or more of total revenue during the three and nine months ended September 30, 2024 and 2023. 
+ 
+ Note 3. 
+ of Paperspace Co. Paperspace for total cash consideration of . Included in the consideration paid was a contribution of to an escrow account held by a third party on the Paperspace Acquisition Date to support certain post-closing indemnification obligations. During the three months ended September 30, 2024, the indemnification period expired and the remaining indemnity escrow fund was distributed to the participating Paperspace stockholders in accordance with the acquisition agreement. 
+ This acquisition has been accounted for as a business combination and the results of Paperspace s operations have been included in the accompanying condensed consolidated financial statements since the Paperspace Acquisition Date. The acquisition and integration of Paperspace s advanced technology into the Company s platform will extend the 
+ 11 
+
+due to measurement period adjustments for the business combination. 
+ Recognized amounts of identifiable assets acquired and liabilities assumed Tangible assets acquired: Cash and cash equivalents Accounts receivable Prepaid expenses and other current assets Property and equipment, net Operating right-of-use asset, net Finance lease right-of-use asset, net Other assets 
+ Intangible assets Liabilities assumed: Accounts payable and accrued expenses ) Deferred revenue ) Operating lease liabilities, current ) Operating lease liabilities, non-current ) Finance lease liabilities, current ) Finance lease liabilities, non-current ) Deferred tax liabilities ) Total identifiable net assets acquired Goodwill recorded in acquisition Total purchase price allocation 
+ The Company amortizes its intangible assets assuming no residual value over periods in which the economic benefit of these assets is consumed (the useful life). 
+ Developed Technology Customer Relationships Total intangible assets 
+ Paperspace s assets and liabilities were measured at estimated fair values on July 5, 2023. Estimates of fair value represent management s best estimate and require a complex series of judgments about future events and uncertainties. Third-party valuation specialists were engaged to assist management in the valuation of these assets and liabilities. 
+ 12 
+
+ne of the goodwill is expected to be deductible for income tax purposes. 
+ Unaudited Pro Forma Financial Information 
+ ) 
+ Contingent Compensation for Acquisitions 
+ Contingent compensation represents compensation for post-combination services because the payments are contingent on continuing employment of the Paperspace founders, Cloudways seller, and Snapshooter Limited founder at each payment date. Contingent compensation costs related to payments due to certain Paperspace founders for , of which was earned and paid on July 5, 2024, and was earned during the three months ended September 30, 2024. 
+ Contingent compensation costs related to payments due to a Cloudways seller for , of which was earned and paid on September 1, 2023, was earned and paid on March 1, 2024 and was earned and paid on September 1, 2024. On October 30, 2024, the Cloudways seller resigned from the Company. In recognition of the Cloudways seller s service, the Company has agreed to make the remaining payment of following the resignation date. 
+ Contingent compensation costs related to payments due to a SnapShooter Limited founder for was earned and paid on January 4, 2024. 
+ 
+ Note 4. 
+ ) Commercial paper ) Total Marketable securities ) 
+ Interest income from investments was and for the three months ended September 30, 2024 and 2023, respectively, and and for the nine months ended September 30, 2024 and 2023, respectively. 
+ 
+ Note 5. 
+ 13 
+
+Money market funds Total Cash and cash equivalents 
+ December 31, 2023 Level I Level II Total Cash and cash equivalents: Cash Money market funds Total Cash and cash equivalents Marketable securities: U.S. treasury securities Commercial paper Total Marketable securities 
+ The Company classifies its highly liquid money market funds and U.S. treasury securities within Level 1 of the fair value hierarchy because they are valued based on quoted market prices in active markets. The Company classifies its commercial paper investments within Level 2 because they are valued using inputs other than quoted prices that are directly or indirectly observable in the market, including readily available pricing sources for the identical underlying security which may not be actively traded. The Company had no Level 3 financial assets as of September 30, 2024 and December 31, 2023. 
+ Financial Instruments Not Recorded at Fair Value on a Recurring Basis 
+ The Company reports financial instruments at fair value, with the exception of the Convertible Senior Notes due December 1, 2026 Convertible Notes ). Financial instruments that are not recorded at fair value on a recurring basis are measured at fair value on a quarterly basis for disclosure purposes. 
+ 
+ The carrying value of the Convertible Notes as of September 30, 2024 and December 31, 2023 was net of unamortized debt issuance costs of and , respectively. 
+ The total fair value of the Convertible Notes was determined based on the closing trading price as of the last day of trading for the period. The Company classifies the fair value to be a Level 2 valuation within the fair value measurement hierarchy due to the limited trading activity. 
+ 
+ Note 6. 
+ 14 
+
+Furniture and fixtures Leasehold improvements Internal-use software Equipment under finance leases Property and equipment, gross Less: accumulated depreciation ) ) Less: accumulated amortization ) ) Property and equipment, net 
+ Depreciation expense on property and equipment was and for the three months ended September 30, 2024 and 2023, respectively, and and for the nine months ended September 30, 2024 and 2023, respectively. 
+ The Company capitalized costs related to the development of computer software for internal use of and for the nine months ended September 30, 2024 and 2023, respectively, which is included in internal-use software costs within Property and equipment, net. Amortization expense related to internal-use software was and for the three months ended September 30, 2024 and 2023, respectively, and and for the nine months ended September 30, 2024 and 2023, respectively. 
+ Prepaid expenses and other current assets 
+ VAT and sales tax receivable Other current assets Total prepaid expenses and other current assets 
+
+Note 7. 
+ to ; 
+ (iii) extend the maturity date; 
+ (iv) replace the existing maximum total net leverage ratio financial covenant with a maximum senior secured net leverage ratio financial covenant; 
+ (v) eliminate the financial covenant requirement of maintaining a minimum debt service coverage ratio; 
+ (vi) reduce the interest rates applicable to any principal amounts outstanding on the revolving credit facility as well as the annual commitment fee for unused amounts on the revolving credit facility; and 
+ 15 
+
+on the Credit Facility. The Credit Facility will mature on the earlier of (a) March 29, 2027 and (b) 90 days before the maturity date applicable to any outstanding convertible notes issued by the Company in an aggregate principal amount equal to or greater than . 
+ The Credit Facility is secured by a first-priority security interest in substantially all of the assets of the Company. The Credit Facility contains certain financial and operational covenants, including a maximum senior secured net leverage ratio financial covenant of x. As of September 30, 2024, the Company was in compliance with all covenants under the Credit Facility. 
+ The per annum interest rate applicable to any principal amounts outstanding under the Credit Facility for U.S. Dollar loans will be equal to (i) Adjusted Term SOFR plus (ii) an applicable margin varying from to , subject to a pricing grid based on the senior secured net leverage ratio. The Credit Facility provides for an annual commitment fee varying from to , also subject to a pricing grid based on the senior secured net leverage ratio, applied to the average daily unused amount of the revolving credit facility. The Company incurred commitment fees on the unused balance of the Credit Facility of for the three months ended September 30, 2024 and 2023, and and for the nine months ended September 30, 2024 and 2023, respectively. 
+ Amortization of deferred financing fees was for the three months ended September 30, 2024 and 2023, and for the nine months ended September 30, 2024 and 2023. 
+ Convertible Notes 
+ In November 2021, the Company issued aggregate principal amount of Convertible Notes in a private offering, including the exercise in full of the over-allotment option granted to the initial purchasers of . The Convertible Notes are senior unsecured obligations of the Company and do not bear interest, and the principal amount of the Convertible Notes does not accrete. The Convertible Notes will mature on December 1, 2026 unless earlier converted, redeemed, or repurchased. Amortization of deferred financing fees for the three months ended September 30, 2024 and 2023 was and , respectively, and and for the nine months ended September 30, 2024 and 2023, respectively. 
+ During the three months ended September 30, 2024, none of the circumstances allowing holders to convert the Convertible Notes were met. 
+ 
+ Note 8. 
+ of estimated undiscounted fixed payment obligations for leases of co-location space at data center facilities and, to a lesser extent, office space, that have not yet commenced and were not included on the Condensed Consolidated Balance Sheets. These leases are expected to commence between October 2024 and August 2025, and have a weighted average lease term of years. 
+ Letters of Credit 
+ In conjunction with the execution of certain office space operating leases, a letter of credit in the amount of was issued and outstanding as of September 30, 2024 and December 31, 2023. No draws have been made under the letter of credit. These funds are included as Restricted cash on the Condensed Consolidated Balance Sheets as they are related to long-term operating leases and are included in beginning and ending Cash, cash equivalents and restricted cash in the Condensed Consolidated Statements of Cash Flows. The letter of credit was reduced on an annual basis until the end of 2022 and, since January 1, 2023, the deposit held is the minimum threshold required until the lease expiration. 
+ Legal Proceedings 
+ 16 
+
+Note 9. 
+ of its common stock 2024 Share Buyback Program ). Pursuant to the 2024 Share Buyback Program, repurchases of the Company s common stock will be made at prevailing market prices through open market purchases or in negotiated transactions off the market. The repurchase program is authorized through fiscal year 2025; however, the Company is not obligated to acquire any particular amount of common stock and the program may be extended, modified, suspended or discontinued at any time at the Company s discretion. 
+ shares of common stock pursuant to the 2024 Share Buyback Program for an aggregate purchase price of . During the nine months ended September 30, 2024, the Company repurchased and retired shares of common stock for an aggregate purchase price of . All purchased shares were retired and are reflected as a reduction of Common stock for the par value of shares, with the excess applied to Additional paid-in capital. Accrued costs related to share repurchases were and as of September 30, 2024 and December 31, 2023, respectively, as reported as Other current liabilities in the Condensed Consolidated Balance Sheets. As of September 30, 2024, the dollar value of shares that remained available to be repurchased by the Company under the 2024 Share Buyback Program was . 
+ 
+ Note 10. 
+ from the grant date, are exercisable upon vesting and typically vest over a period of . Exercised ) Forfeited or cancelled ) Outstanding at September 30, 2024 Vested and exercisable at September 30, 2024 Vested and unvested expected to vest at September 30, 2024 
+ The aggregate intrinsic value represents the difference between the fair value of common stock and the exercise price of outstanding in-the-money options. The aggregate intrinsic value of exercised options for the nine months ended September 30, 2024 and 2023 was and , respectively. 
+ 17 
+
+options were granted during the nine months ended September 30, 2024. The aggregate estimated fair value of stock options granted to participants that vested during the nine months ended September 30, 2024 and 2023 was and , respectively. 
+ As of September 30, 2024, there was of unrecognized stock-based compensation, net of estimated forfeitures, related to outstanding stock options granted that is expected to be recognized over a weighted-average period of years. 
+ RSUs 
+ RSUs granted typically vest over . Granted Vested ) Forfeited or cancelled ) Unvested balance at September 30, 2024 Vested and expected to vest at September 30, 2024 
+ As of September 30, 2024, there was of unrecognized stock-based compensation, net of estimated forfeitures, related to outstanding RSUs granted that is expected to be recognized over a weighted-average period of years. 
+ PRSUs 
+ Granted Vested ) Forfeited or cancelled ) Adjusted by performance factor ) Unvested balance at September 30, 2024 
+ At the end of each reporting period, the Company adjusts compensation expense for the PRSUs based on its best estimate of attainment of specified performance metrics. The cumulative effect on current and prior periods of a change in the estimated number of PRSUs that are expected to be earned during the performance period is recognized as an adjustment to earnings in the period of the revision. Compensation cost in connection with the probable number of shares that will vest is recognized using the accelerated attribution method. 
+ LTIP PRSUs 
+ The Company grants Long Term Incentive Plan LTIP PRSUs to certain executives of the Company typically during the first half of each fiscal year. A percentage of the LTIP PRSUs becomes eligible to vest based on the Company s financial performance level at the end of each fiscal year. The number of LTIP PRSUs received will depend on the achievement of financial metrics relative to the approved performance targets. Depending on the actual financial metrics achieved relative to the target financial metrics throughout the defined performance period of the award, the number of LTIP PRSUs that vest could range from to of the target amount and are subject to the Compensation Committee s approval of the level of achievement against the approved performance targets. 
+ 18 
+
+trading days following the public release of the Company s financial results, and the remainder shall vest in equal quarterly installments subject, in each case, to the individual s continuous service through the applicable vesting date. 
+ On March 1, 2023, the Company granted an LTIP PRSU award (the 2023 LTIP PRSU ). The financial performance level under the PRSUs was the percentage equal to the sum of the revenue growth percentage and profitability percentage, which on February 21, 2024, was determined to be achieved at of the target amount. This resulted in a performance factor reduction of shares from the original maximum shares achievable of , excluding forfeitures. 
+ On April 11, 2024, the Company granted an LTIP PRSU award (the 2024 LTIP PRSU ). The financial performance level under the PRSUs can be attained based on the achievement of certain revenue and adjusted free cash flow margin targets. Under the 2024 LTIP PRSU, of the award can be achieved based on the revenue targets and of the award can be achieved based on the adjusted free cash flow margin targets. The target shares granted under the 2024 LTIP PRSU was . The actual number of shares that are received under the 2024 LTIP PRSU may be higher or lower than the target shares based on the actual financial metrics achieved relative to the target financial metrics for fiscal year 2024. 
+ As of September 30, 2024, there was of unrecognized stock-based compensation related to LTIP PRSUs that is expected to be recognized over a weighted-average period of years. 
+ MRSUs 
+ On February 12, 2024, Padmanabhan Srinivasan joined the Company in the role of CEO. As part of his compensation package, Mr. Srinivasan received an MRSU with an estimated grant date fair value of approximately 8 million, which vests upon the satisfaction of certain service conditions and the achievement of certain Company stock price goals during a performance period, as described below. of Target MRSUs 
+ 2 of Target MRSUs 
+ 3 of Target MRSUs 
+ 4 of Target MRSUs 
+ 
+ The target number of achievable shares is and the maximum number of achievable shares is . There will be no pro-rata or straight-line interpolation vesting for achievement of a stock price target between the stock price targets, except in the event of a qualifying termination. 
+ If the stock price targets are achieved during the first following the grant date (the First Performance Period ), of the eligible MRSUs will vest on the third anniversary of the grant date and the remaining of the eligible MRSUs will vest on the fifth anniversary of the grant date. Each tranche of MRSUs whose stock price target was not achieved during the First Performance Period that is subsequently achieved during the period between the third anniversary of the grant date and fifth anniversary of the grant date will vest on the fifth anniversary of the grant date. 
+ The unvested balance of shares related to the former CEO s MRSU were forfeited and canceled during the first quarter of 2024. There was unrecognized stock-based compensation related to the former CEO s MRSU award. 
+ As of September 30, 2024, there was of unrecognized stock-based compensation related to the current CEO s MRSU award that is expected to be recognized over a weighted-average period of years. 
+ ESPP 
+ In March 2021, the Company s Board of Directors adopted, and the stockholders approved, the 2021 Employee Stock Purchase Plan ESPP ). Eligible employees enroll in the offering period at the start of each purchase period, whereby they may purchase a number of shares at a price per share equal to of the lesser of (1) the stock price at the employee s first participation in the offering period or (2) the fair market value of the Company s common stock on the 
+ 19 
+
+purchase periods, the first of which had a purchase date of May 20, 2024 and the second will have a purchase date of November 20, 2024 (the 2023 Offering ). In connection with the purchase period that ended on May 20, 2024, there were shares of common stock, net of shares withheld for taxes, purchased by employees at a price of . 
+ The Company recorded stock-based compensation associated with the ESPP of and during the three months ended September 30, 2024 and 2023, respectively, and and for the nine months ended September 30, 2024 and 2023, respectively. As of September 30, 2024, has been withheld on behalf of employees for the second purchase of the 2023 Offering. 
+ Stock-Based Compensation 
+ Research and development Sales and marketing General and administrative (1) 
+ ) Restructuring and other charges Total ) 
+ million of recognized stock-based compensation related to our former CEO s MRSUs that was estimated to be forfeited and therefore reversed for the three and nine months ended September 30, 2023. 
+
+Note 11. 
+ 20 
+
+Denominator: Weighted average shares used to compute net income per share Basic net income per share attributable to common stockholders Diluted net income per share: Numerator: Net income attributable to common stockholders 
+ Interest expense on dilutive convertible notes, net of tax Net income used in diluted calculation Denominator: Number of shares used in basic calculation Weighted-average effect of dilutive securities: 
+ Stock Options 
+ RSUs 
+ PRSUs 
+ Convertible Notes Number of shares used in diluted calculation 
+ Diluted net income per share attributable to common stockholders 
+ 
+ RSUs PRSUs Convertible Notes Total 
+ 
+ Note 12. 
+ and a tax expense of , respectively. The effective tax rate for the three and nine months ended September 30, 2024 was ) and , respectively. The effective tax rate differs from the statutory rate primarily as a result of having a full valuation allowance in the U.S. and the mix of income in the foreign jurisdictions in which the Company conducts business, and excess tax benefits from stock-based compensation and utilization of research and development credits. 
+ 21 
+
+and , respectively. The effective tax rate for the three and nine months ended September 30, 2023, was and , respectively. The effective tax rate differs from the statutory rate primarily as a result of being able to benefit from current year losses in the U.S., despite maintaining a valuation allowance against the remaining U.S. deferred tax assets, as well as the mix of income in foreign jurisdictions. 
+ The Organization for Economic Co-operation and Development Pillar Two guidelines published to date include transition and safe harbor rules around the implementation of the Pillar Two global minimum tax of 15 . Based on current enacted legislation effective in 2024, the Company is currently below the threshold of Pillar Two tax. The Company is monitoring developments and evaluating the impacts these new rules will have on its future income tax provision and effective income tax rate. 
+ 
+ ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ The following discussion and analysis of our financial condition and results of operations should be considered together with our unaudited condensed consolidated financial statements and related notes appearing elsewhere in this Quarterly Report on Form 10-Q and our audited consolidated financial statements and the related notes and the discussion under the heading Management s Discussion and Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the year ended December 31, 2023. This discussion, particularly information with respect to our outlook, key trends and uncertainties, our plans and strategy for our business, and our performance and future success, includes forward-looking statements that involve risks and uncertainties as described under the heading Special Note Regarding Forward-Looking Statements in this Quarterly Report on Form 10-Q. Actual results could differ materially from those discussed below. 
+ Overview 
+ DigitalOcean is a leading cloud computing platform offering on-demand infrastructure and platform tools for startups and growing digital-native businesses. We were founded with the guiding principle that the transformative benefits of the cloud should be easy to leverage, broadly accessible, reliable and affordable. Our platform simplifies cloud computing, enabling our customers to rapidly accelerate innovation and increase their productivity and agility. 
+ The lifecycle of a customer typically begins with users coming to our platform to explore a new technology or test an idea. Thousands of users come to DigitalOcean every month, paying a small amount to learn and to complete their discrete tasks. In many cases, these early users do not intend to remain on our platform beyond their initial testing. We refer to these users that spend less than or equal to 50 per month and utilize our platform for three months or less as Testers . Given their short time on our platform and their relatively small individual and aggregate spend, we do not consider Testers to be a meaningful part of our customer base. Once a user has remained on our platform for longer than three months, or spends greater than 50 per month, we consider them to be active and ongoing customers that have the intention to remain on our platform and to potentially scale their utilization of our products. We divide this customer population into the following three categories: 
+ Learners: users that both (i) spend less than or equal to 50 for the month-end period and (ii) have been on our platform for more than three months. 
+ Builders: users that spend greater than 50 and less than or equal to 500 for the month-end period. 
+ Scalers: users that spend greater than 500 for the month-end period. 
+ As of September 30, 2024, we had approximately 638,000 Learners, Builders and Scalers using our platform to build, deploy and scale applications. We view Learners, Builders and Scalers as the most appropriate measure of our customer population, and Testers have therefore been excluded from the total customer population count. 
+ Our users include software engineers, researchers, data scientists, system administrators, students and hobbyists. Our customers use our platform across numerous industry verticals and for a wide range of use cases, such as web and mobile applications, website hosting, e-commerce, media and gaming, personal web projects, managed services, and, most recently, artificial intelligence and machine learning (AI/ML) applications, among many others. We believe that our focus on simplicity, community, open source and customer support are the four key differentiators of our business, driving a broad range of customers around the world to build their applications on our platform. 
+ 22 
+
+We offer mission-critical solutions across Infrastructure-as-a-Service (IaaS), including our Droplet virtual machines, storage and networking offerings; Platform-as-a-Service (PaaS), including our Managed Database and Managed Kubernetes offerings; Software-as-a-Service (SaaS), including our Managed Hosting and Marketplace offerings; and AI/ML, including our Machines, Notebooks and Deployments offerings. Our cloud platform was designed with simplicity in mind to ensure that startups and growing digital-native businesses can spend less time managing their infrastructure and more time building innovative applications that drive business growth. Improving the developer experience and increasing productivity are core to our mission. In just minutes, developers can set up thousands of virtual machines, secure their projects, enable performance monitoring and scale up and down as needed. 
+ We generate revenue from the usage of our cloud computing platform by our customers. We recognize revenue based on the customer utilization of our offerings. Our pricing is primarily consumption-based and billed monthly in arrears, making it easy for our customers to track usage on an ongoing basis and optimize their deployments. 
+ We have a highly efficient self-service customer acquisition model, which we complement with a sales force focused on inside sales, targeted outside sales and partnership opportunities to drive revenue growth. Our model enables customers to get started on our platform very quickly and without the need for assistance. We focus heavily on enabling a self-service, low-friction model that makes it easy for users to try, adopt and use our products. For each of the three months ended September 30, 2024 and 2023, our sales and marketing expense was approximately 9 and 11 of our revenue, respectively. The efficiency of our go-to-market model and our focus on the needs of startups and growing digital-native businesses has enabled us to drive organic growth and establish a truly global customer base across a broad range of industries. 
+ Our customers are spread across approximately 190 countries and around two-thirds of our revenue has historically come from customers located outside the United States. For the three months ended September 30, 2024, 39 of our revenue was generated from North America, 28 from Europe, 23 from Asia and 10 from the rest of the world. 
+ Our average revenue per customer (consisting of the aggregate revenue and customer counts for our Learners, Builders and Scalers, but excluding revenue and customer counts for Testers), or ARPU, has increased from 92.06 in the three months ended September 30, 2023 to 102.51 in the three months ended September 30, 2024. We had no material customer concentration as our top 25 customers made up approximately 9 and 7 of our revenue in the three months ended September 30, 2024 and 2023, respectively. Our annual run-rate revenue, or ARR, as of September 30, 2024 was 798 million, up from 713 million as of September 30, 2023. ARR as of the end of each month represents total revenue for that month multiplied by 12. 
+ Growing our Builders and Scalers is a critical focus for us, and we have successfully increased the number of these customers and their percentage of our total revenue. We had approximately 18,000 Scalers as of September 30, 2024, up from approximately 16,000 as of September 30, 2023. We had approximately 145,000 Builders as of September 30, 2024, up from approximately 138,000 as of September 30, 2023. Revenue from Builders and Scalers increased 7 and 19 , respectively, for the three months ended September 30, 2024 from the three months ended September 30, 2023. Revenue from Builders and Scalers as a percentage of total revenue was 88 in the three months ended September 30, 2024 and 86 in the three months ended September 30, 2023. 
+ Key Factors Affecting Our Performance 
+ Increasing Importance of Cloud Computing and Developers 
+ Our future success depends in large part on the continuing adoption of cloud computing, proliferation of cloud-native start ups and businesses and the increasing importance of developers, all of which are driving the adoption of our developer cloud platform. We believe our market opportunity is large and that these factors will continue to drive our growth. 
+ Increasing Usage by Our Existing Customers 
+ Our existing customer base represents a significant opportunity for further sales expansion through increased usage of our platform and adoption of additional product offerings. We are highly focused on gaining a better understanding of the needs and growth plans of our existing customers. This deeper relationship with our customers will help us identify opportunities to educate our customer base on ways to utilize the platform more effectively for their individual use cases, as well as provide a feedback loop to inform our product roadmap. We are focusing our sales and support teams to prevent customer churn by ensuring that our products and services provide a high level of value. Our goal is to continue to increase our revenue from existing customers through the introduction of new products and features tailored to our customer base in addition to expanded customer outreach, focused on larger customers and specific use cases. 
+ 23 
+
+Growing Our Base of Higher Spend Customers 
+ We believe there is a substantial opportunity to further expand our customer base to attract more businesses that can scale on our platform. We are investing in strategies that we believe will attract Builders and Scalers, including new marketing initiatives that further optimize our self-service revenue funnel to help customers expand their usage and partnership initiatives to identify potential Builders and Scalers. In addition, our Cloudways and Paperspace acquisitions added a significant number of Builders and Scalers as these offerings provide premium managed services and high value AI/ML offerings, respectively. 
+ Investing in Our Platform and Product Offerings 
+ We have a history of, and will continue to invest significantly in, delivering innovative products, features and functionality targeted at our core customer base. The market opportunity for our core IaaS services of compute, storage and networking continues to expand and we are making targeted investments to expand our IaaS revenue. Beyond IaaS, we continue to see large growth opportunities in the PaaS, SaaS and AI/ML markets and, accordingly, we have expanded our portfolio of products and offerings over the last few years. In addition, we may pursue both strategic partnerships and acquisitions, such as our acquisitions of Cloudways and Paperspace, that we believe will be complementary to our business, accelerate customer acquisition, increase usage of our platform and/or expand our product offerings in our core markets. Our results of operations may fluctuate as we make these investments to drive usage and take advantage of our expansive market opportunity. 
+ Macroeconomic Conditions 
+ Unfavorable conditions in the economy both in the United States and abroad, including conditions resulting from changes in gross domestic product growth, supply chain disruptions, inflationary pressures, interest rates, financial and credit market fluctuations, volatility in the capital markets, liquidity concerns at, and failures of, banks and other financial institutions, international trade relations, political turmoil, political instability and transitions of power in regions where we operate, natural catastrophes, outbreaks of contagious diseases, warfare and terrorist attacks on the United States, Europe or elsewhere, including military actions affecting Russia, Ukraine, the Middle East or elsewhere, could cause a decrease in business investments in information technology and negatively affect the growth of our business and our results of operations. 
+ While our business model provides some resilience against these factors, we will continue to monitor the direct and indirect impacts of these or similar circumstances on our business and our results of operations, and will take appropriate measures, as necessary, to minimize potential risk exposure. 
+ 
+ Key Business Metrics 
+ We utilize the key metrics set forth below to help us evaluate our business and growth, identify trends, formulate financial projections and make strategic decisions. We are not aware of any uniform standards for calculating these key metrics, and other companies may not calculate similarly titled metrics in a consistent manner, which may hinder comparability. The table below includes the impact of our acquisitions beginning in the period in which they were acquired with respect to the metrics disclosed. Three Months Ended September 30, 2024 2023 Learners (1) 
+ 474,342 478,730 Builders (1) 
+ 145,412 137,959 Scalers (1) 
+ 17,892 16,305 ARPU 102.51 92.06 ARR (in millions) 798 713 Net dollar retention rate 97 96 ______________ 
+ 24 
+
+(1) Customer count 
+ Learners, Builders Scalers 
+ While we believe the total number of these customers is an important indicator of the growth of our business and future revenue opportunity, the trends relating to our Builders and Scalers is of particular importance to us as these customers represent a significant majority of our revenue and revenue growth, and they are representative of the startup and growing digital-native business customers that grow on our platform and use multiple products. 
+ ARPU 
+ We believe that our average revenue per customer, which we refer to as ARPU, is a strong indication of our ability to land new customers with higher spending levels and expand usage of our platform by our existing customers. We calculate ARPU on a monthly basis as our total revenue from Learners, Builders and Scalers in that period divided by the total number of Learner, Builder and Scaler customers determined as of the last day of the reported period. For a quarterly or annual period, ARPU is determined as the weighted average monthly ARPU over such three or 12-month period. 
+ ARR 
+ Given the recurring nature of our business, we view annual run-rate revenue as an important indicator of our current progress towards meeting our revenue targets and projected growth rate going forward. We calculate ARR at a point in time by multiplying the revenue of the last month of the reported period by 12. For our ARR calculations, we include the total revenue from all customers, including Testers, Learners, Builders and Scalers. 
+ Net Dollar Retention Rate 
+ Our ability to maintain long-term revenue growth and achieve profitability is dependent on our ability to retain and grow revenue from our existing customers. We have a history of retaining customers for multiple years and in many cases increasing their spend with us over time. To help us measure our performance in this area, we monitor our net dollar retention rate. We calculate net dollar retention rate monthly by starting with the revenue from customers, including Testers, Learners, Builders and Scalers, for our IaaS, PaaS and SaaS offerings during the corresponding month 12 months prior, or the Prior Period Revenue. We then calculate the revenue from these same customers as of the current month, or the Current Period Revenue, including any expansion and net of any contraction or attrition from these customers over the last 12 months. The calculation also includes revenue from customers that generated revenue before, but not in, the corresponding month 12 months prior, but subsequently generated revenue in the current month and are therefore reflected in the Current Period Revenue. We include this group of re-engaged customers in this calculation because our customers frequently use our platform for projects that stop and start over time. We then divide the total Current Period Revenue by the total Prior Period Revenue to arrive at the net dollar retention rate for the relevant month. For our net dollar retention rate calculations, we include the total revenue from customers, including Testers, Learners, Builders and Scalers, for our IaaS, PaaS and SaaS offerings. For a quarterly or annual period, the net dollar retention rate is determined as the average monthly net dollar retention rates over such three or 12-month period. 
+ 
+ Components of Results of Operations 
+ Revenue 
+ We offer mission-critical solutions across Infrastructure-as-a-Service (IaaS), including our Droplet virtual machines, storage and networking offerings; Platform-as-a-Service (PaaS), including our Managed Database and Managed Kubernetes offerings; Software-as-a-Service (SaaS), including our Managed Hosting and Marketplace offerings; and AI/ML, including our Machines, Notebooks and Deployments offerings. We recognize revenue based on the customer utilization of these resources. Customer contracts are primarily month-to-month and generally do not include any minimum guaranteed quantities or fees. Fees are billed monthly, and payment is typically due upon invoicing. Revenue is recognized net of allowances for credits and any taxes collected from customers, which are subsequently remitted to governmental authorities. 
+ We may offer sales incentives in the form of promotional and referral credits and grant credits to encourage customers to use our services. These types of promotional and referral credits typically expire in two months or less if not used. For credits earned with a purchase, they are recorded as contract liabilities when earned and recognized at the earlier of redemption or expiration. The majority of credits are redeemed in the month they are earned. 
+ 25 
+
+Cost of Revenue 
+ Cost of revenue consists primarily of fees related to operating in third-party co-location space at data center facilities, personnel expenses for those directly supporting our co-location facilities and non-personnel costs, including amortization of acquired technology, amortization of capitalized internal-use software development costs, and depreciation of our data center equipment. Third-party co-location facility costs include data center rental fees, power costs, maintenance fees, network and bandwidth. Personnel expenses include salaries, bonuses, benefits, and stock-based compensation. 
+ We intend to continue to invest additional resources in our infrastructure to support our product portfolio and the scalability of our customer base. The level, timing and relative investment in our infrastructure could affect our cost of revenue in the future. 
+ Operating Expenses 
+ Research and Development Expenses 
+ Research and development expenses consist primarily of personnel costs including salaries, bonuses, benefits and stock-based compensation. Research and development expenses also include amortization of capitalized internal-use software development costs for research and development activities, which are amortized over three years, and professional services, as well as costs related to our efforts to add new features to our existing offerings, develop new offerings, and ensure the security, performance, and reliability of our global cloud platform. We expect research and development expenses to increase in absolute dollars as we continue to invest in our platform and product offerings. 
+ Sales and Marketing Expenses 
+ Sales and marketing expenses consist primarily of personnel costs of our sales, marketing and customer support employees including salaries, bonuses, benefits and stock-based compensation. Sales and marketing expenses also include costs for marketing programs, commissions, advertising and professional service fees. We expect sales and marketing expenses to increase in absolute dollars as we enhance our product offerings and implement new marketing and sales strategies. 
+ General and Administrative Expenses 
+ General and administrative expenses consist primarily of personnel costs of our human resources, legal, finance and other administrative functions including salaries, bonuses, benefits, and stock-based compensation. General and administrative expenses also include provision for expected credit losses, software, payment processing fees, business insurance, depreciation and amortization expenses, rent and facilities costs, impairment of long-lived assets, acquisition related compensation, and other administrative costs. General and administrative expenses may increase in absolute dollars as we continue to grow our business. 
+ Restructuring and other charges 
+ Restructuring and other charges consist primarily of personnel costs, such as notice period, employee severance payments and termination benefits, as well as stock-based compensation related to vesting of certain equity awards. The restructuring plan was substantially completed by the end of the third quarter of 2023. 
+ Other Income, net 
+ Other income, net consists primarily of accretion/amortization of premium/discounts and interest income from our marketable securities, amortization of deferred financing fees on our convertible notes, loss on extinguishment of debt, and gains or losses on foreign currency exchange. 
+ Income Tax (Expense) Benefit 
+ Income tax (expense) benefit is attributable to the mix of income in the jurisdictions in which we conduct business. We maintain a full valuation allowance on our U.S. federal and state deferred tax assets as we have concluded that it is more likely than not that the deferred assets will not be realized. We regularly assess all available evidence, including cumulative historic losses and forecasted earnings. Given our current earnings and anticipated future earnings, we believe that there is a reasonable possibility that sufficient positive evidence may become available in a future period to reach a conclusion that the U.S. valuation allowance will no longer be needed. Release of all, or a portion of, the valuation allowance would result in the recognition of U.S. federal and state deferred tax assets and a corresponding decrease to income tax expense in the period the release is recorded. 
+ 26 
+
+Results of Operations 
+ The following table sets forth our results of operations for the periods presented: Three Months Ended Nine Months Ended September 30, September 30, 2024 2023 2024 2023 (in thousands) Revenue 198,484 177,062 575,690 512,010 Cost of revenue (1) 
+ 79,043 70,329 226,826 209,562 Gross profit 119,441 106,733 348,864 302,448 Operating expenses: Research and development (1) 
+ 37,377 32,627 105,388 109,468 Sales and marketing (1) 
+ 17,036 19,015 57,970 53,346 General and administrative (1) 
+ 40,422 20,064 127,034 117,861 Restructuring and other charges (1) 
+ (441) 20,862 Total operating expenses 94,835 71,265 290,392 301,537 Income from operations 24,606 35,468 58,472 911 Other income, net 5,035 1,646 10,233 12,333 Income before income taxes 29,641 37,114 68,705 13,244 Income tax benefit (expense) 3,308 (17,939) (2,479) (9,774) Net income attributable to common stockholders 32,949 19,175 66,226 3,470 ___________________ 
+ (1) Includes stock-based compensation as follows: 
+ Three Months Ended Nine Months Ended September 30, September 30, 2024 2023 2024 2023 (in thousands) Cost of revenue 506 497 1,583 1,350 Research and development 10,828 9,502 29,099 35,280 Sales and marketing 2,063 4,701 9,105 11,759 General and administrative (1) 
+ 9,552 (17,071) 27,872 13,263 Restructuring and other charges 3,937 Total stock-based compensation 22,949 (2,371) 67,659 65,589 
+ (1) Amount includes 31.3 million of recognized stock-based compensation related to our former CEO s MRSUs that was estimated to be forfeited and therefore reversed for the three and nine months ended September 30, 2023. 
+ 27 
+
+The following table sets forth our results of operations as a percentage of revenue for the periods presented: Three Months Ended Nine Months Ended September 30, September 30, 2024 2023 2024 2023 Revenue 100 100 100 100 Cost of revenue 40 40 39 41 Gross profit 60 60 61 59 Operating expenses: Research and development 19 18 18 21 Sales and marketing 9 11 10 10 General and administrative 20 11 22 23 Restructuring and other charges 4 Total operating expenses 
+ 48 40 50 59 Income from operations 12 20 10 Other income, net 3 1 2 2 Income before income taxes 15 21 12 3 Income tax benefit (expense) 2 (10) (2) Net income attributable to common stockholders 
+ 17 11 12 1 
+ May not foot due to rounding 
+ Comparison of the Three Months Ended September 30, 2024 and 2023 
+ Revenue Three Months Ended September 30, 2024 2023 Change Change (in thousands) Revenue 198,484 177,062 21,422 12 
+ Revenue increased 21.4 million, or 12 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The increase was primarily driven by a 11 increase in ARPU to 102.51 from 92.06, and a 15 increase in revenue from Builders and Scalers. The increase in ARPU was primarily driven by continued adoption of our products by our customers leading to higher average usage on our platform. 
+ Cost of Revenue Three Months Ended September 30, 2024 2023 Change Change (in thousands) Cost of revenue 79,043 70,329 8,714 12 
+ Cost of revenue increased 8.7 million, or 12 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The increase is primarily due to increases of 5.4 million in depreciation and amortization due to our continued investment in AI/ML offerings and infrastructure, 1.9 million in co-location costs and 1.1 million in third-party license fees. Gross profit remained consistent at 60 for the three months ended September 30, 2024 and 2023, primarily due to decreases in co-location costs and bandwidth expenses as a percentage of revenue as a result of our ongoing cost optimization efforts, offset entirely by our continued investment in AI/ML offerings. 
+ 28 
+
+Operating Expenses Three Months Ended September 30, 2024 2023 Change Change (in thousands) Research and development 37,377 32,627 4,750 15 Sales and marketing 17,036 19,015 (1,979) (10 General and administrative 40,422 20,064 20,358 101 Restructuring and other charges (441) 441 (100 Total operating expenses 94,835 71,265 23,570 33 
+ Research and development expenses increased 4.8 million, or 15 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The increase is primarily due to increases of 6.0 million in personnel costs and 0.3 million in professional services costs, partially offset by higher capitalized internal-use software development costs of 1.8 million. 
+ Sales and marketing expenses decreased 2.0 million, or 10 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The decrease is primarily due to a 2.8 million decrease in personnel costs, largely due to the reversal of stock-based compensation from forfeited RSUs, partially offset by a 0.6 million increase in advertising expenses. 
+ General and administrative expenses increased 20.4 million, or 101 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The increase is primarily due to a 31.3 million reversal of stock-based compensation attributed to our former CEO s forfeited MRSUs during the three months ended September 30, 2023 and a 2.0 million increase in other operating costs, partially offset by decreases of 8.7 million in personnel costs and 4.4 million in professional service costs. 
+ There were 0.4 million in Restructuring and other charges during the three months ended September 30, 2023 and no such charges during the three months ended September 30, 2024. These charges were primarily due to one-time severance and benefit payments, as well as stock-based compensation related to vesting of certain equity awards in connection with the restructuring we announced in February 2023, which was substantially completed by the third quarter of 2023. 
+ Other Income, net Three Months Ended September 30, 2024 2023 Change Change (in thousands) Other income, net 5,035 1,646 3,389 206 
+ Other income, net increased 3.4 million, or 206 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023, primarily due to gains from foreign currency fluctuations from our operations. 
+ Income Tax Benefit (Expense) Three Months Ended September 30, 2024 2023 Change Change (in thousands) Income tax benefit (expense) 3,308 (17,939) 21,247 (118 
+ Income tax benefit increased 21.2 million, or 118 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023, primarily as a result of lower pretax income for the three months ended September 30, 2024 compared to the three months ended September 30, 2023, due to higher excess tax benefit taken from stock-based compensation and utilization of research and development credits in 2024 compared to 2023. 
+ 
+ Comparison of the Nine Months Ended September 30, 2024 and 2023 
+ 29 
+
+Revenue Nine Months Ended September 30, 2024 2023 Change Change (in thousands) Revenue 575,690 512,010 63,680 12 
+ Revenue increased 63.7 million, or 12 , for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The increase in revenue was primarily driven by a 10 increase in ARPU to 99.02 from 90.43; and a 14 increase in revenue from Builders and Scalers. The increase in ARPU was primarily driven by continued adoption of our products by our customers leading to higher average usage of our platform. 
+ Cost of Revenue Nine Months Ended September 30, 2024 2023 Change Change (in thousands) Cost of revenue 226,826 209,562 17,264 8 
+ Cost of revenue increased 17.3 million, or 8 , for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The increase is primarily due to increases of 13.2 million in depreciation and amortization from acquired finance leases and acquired developed technology, as well as our continued investment in AI/ML offerings and infrastructure, 3.0 million in co-location costs, 2.2 million in third-party license fees and 2.0 million in partnership costs, partially offset by decreases of 2.3 million in bandwidth expenses and 1.0 million in ancillary equipment. Gross profit increased to 61 for the nine months ended September 30, 2024 from 59 for the nine months ended September 30, 2023, primarily due to decreases in co-location costs, ancillary equipment and bandwidth expenses as a percentage of revenue as a result of our ongoing cost optimization efforts, offset by our continued investment in AI/ML offerings. 
+ Operating Expenses Nine Months Ended September 30, 2024 2023 Change Change (in thousands) Research and development 105,388 109,468 (4,080) (4 Sales and marketing 57,970 53,346 4,624 9 General and administrative 127,034 117,861 9,173 8 Restructuring and other charges 20,862 (20,862) (100 Total operating expenses 290,392 301,537 (11,145) (4 
+ Research and development expenses decreased 4.1 million, or 4 , for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The decrease is primarily due to 4.5 million of higher capitalized internal-use software development costs and a 0.4 million decrease in personnel costs, partially offset by a 1.2 million increase in professional services costs. 
+ Sales and marketing expenses increased 4.6 million, or 9 , for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The increase is primarily due to increases of 3.7 million in advertising expenses, 1.4 million in amortization of acquired intangibles assets and 0.8 million in other operating costs, offset by a 1.3 million decrease in personnel costs largely due to the reversal of stock-based compensation from forfeited RSUs . 
+ General and administrative expenses increased 9.2 million, or 8 , for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The increase is primarily due to a 31.3 million reversal of stock-based compensation attributed to our former CEO s forfeited MRSUs during the nine months ended September 30, 2024 , an increase of 2.0 million in other operating costs and an increase of 1.1 million in payment processing costs due to revenue growth, partially offset by decreases of 22.6 million in personnel costs and 3.4 million in professional services costs. 
+ 30 
+
+There were 20.9 million in Restructuring and other charges during the nine months ended September 30, 2023 and no such charges during the nine months ended September 30, 2024. The 2023 charges were primarily due to one-time severance and benefit payments, as well as stock-based compensation related to vesting of certain equity awards in connection with the restructuring we announced in February 2023, which was substantially completed by the third quarter of 2023. 
+ Other Income, net Nine Months Ended September 30, 2024 2023 Change Change (in thousands) Other income, net 10,233 12,333 (2,100) (17 
+ Other income, net decreased 2.1 million, or 17 , for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023, primarily due to a decrease in interest income from marketable securities as they were reallocated at maturity to cash and money market funds during the three months ended March 31, 2024, offset by gains from foreign currency fluctuations from our operations. 
+ Income Tax Expense Nine Months Ended September 30, 2024 2023 Change Change (in thousands) Income tax expense 
+ (2,479) (9,774) 7,295 (75 
+ Income tax expense decreased 7.3 million, or 75 , for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023, primarily as a result of higher excess tax benefit from stock-based compensation and utilization of research and development credits taken in 2024. 
+ 
+ Liquidity and Capital Resources 
+ We have funded our operations since inception primarily with cash flow generated by operations, private offerings of our equity and debt securities, borrowings under our existing credit facility and capital expenditure financings. Cash provided from these sources is used primarily for operating expenses, such as personnel and co-location costs, and capital expenditures, including our investments in AI/ML and core product offerings. From time to time, we may also use excess cash for share repurchases and investments in marketable securities and cash equivalents. 
+ We believe our existing cash and cash equivalents, cash flow from operations and availability under our Credit Facility (as defined below) will be sufficient to support working capital and capital expenditure requirements and our outstanding contractual commitments for at least the next 12 months and in the long term. 
+ In February 2024, our Board of Directors approved an additional repurchase program of up to an aggregate of 140 million of our common stock through fiscal year 2025. For the nine months ended September 30, 2024, we repurchased and retired 795,191 shares of common stock for an aggregate purchase price of 29.6 million. The program will expire on December 31, 2025. 
+ As of September 30, 2024, we had 167.3 million of estimated undiscounted fixed payment obligations for leases of co-location space at data center facilities and, to a lesser extent, office space, that have not yet commenced and were not included on the Condensed Consolidated Balance Sheets. These leases are expected to commence between October 2024 and August 2025, and have a weighted average lease term of 6 years. 
+ As of September 30, 2024, we had 439.9 million in cash and cash equivalents. Our cash and cash equivalents primarily consist of cash and money market funds. 
+ We may from time to time seek to retire or purchase our outstanding equity or debt, including the repurchase of our common stock or the Convertible Notes, through cash purchases and/or exchanges for equity securities, in open market purchases, privately negotiated transactions or otherwise. Such repurchases or exchanges, if any, will depend on prevailing market conditions, our liquidity requirements, contractual restrictions, and other factors. The amounts involved in any such transactions, individually or in the aggregate, may be material. Further, any such purchases or exchanges may result in us acquiring and retiring a substantial amount of such indebtedness, which could impact the trading liquidity of such indebtedness. 
+ 31 
+
+The following table summarizes our cash flows for the periods presented: Nine Months Ended September 30, (In thousands) 
+ 2024 2023 Net cash provided by operating activities 211,386 154,426 Net cash (used in) provided by investing activities (47,661) 248,266 Net cash used in financing activities (41,020) (473,336) Increase (decrease) in cash, cash equivalents and restricted cash 122,636 (70,699) 
+ Operating Activities 
+ Our largest source of operating cash is cash collections from sales to our customers. Our primary uses of cash from operating activities are for personnel costs, co-location costs, payment processing fees, bandwidth and connectivity, server maintenance and software licensing fees. 
+ Net cash provided by operating activities was 211.4 million and 154.4 million for the nine months ended September 30, 2024 and 2023, respectively. The increase was primarily driven by an increase in cash collections from higher revenues. These increases were partially offset by payments for leases, acquisition related compensation and cash bonuses. 
+ Investing Activities 
+ Net cash used in investing activities was 47.7 million for the nine months ended September 30, 2024 compared to 248.3 million for the nine months ended September 30, 2023. The decrease in cash provided by investing activities was primarily driven by a 329.2 million reallocation of our marketable securities portfolio to cash equivalents and an increase of 65.8 million in cash payments for capital expenditures, partially offset by a 2.5 million decrease in cash activity for asset acquisitions. 
+ Financing Activities 
+ Net cash used in financing activities of 41.0 million and 473.3 million for the nine months ended September 30, 2024 and 2023, respectively, was primarily due to the repurchase and retirement of our common stock for 29.9 million and 475.0 million, respectively. 
+ Contractual Obligations and Commitments 
+ Except as disclosed in Note 8. Commitments and Contingencies in our condensed consolidated financial statements, there have been no material changes to our obligations under our operating leases and purchase commitments as compared to those disclosed in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+ 
+ Critical Accounting Policies and Estimates 
+ Our condensed consolidated financial statements are prepared in accordance with accounting principles generally accepted in the United States. The preparation of these condensed consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs and expenses, and related disclosures. On an ongoing basis, we evaluate our estimates and assumptions. Our actual results may differ from these estimates under different assumptions or conditions. 
+ There have been no material changes to our critical accounting policies as compared to those disclosed in the Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+ Recently Adopted Accounting Pronouncements 
+ For information on recently issued accounting pronouncements, see Note 2, Summary of Significant Accounting Policies, in our Notes to condensed consolidated financial statements included in Part I, Item 1. Financial Statements and Supplementary Data included in this Form 10-Q. 
+ 
+ Non GAAP Financial Measures 
+ To supplement our condensed consolidated financial statements, which are prepared and presented in accordance with generally accepted accounting principles in the United States, or GAAP, we provide investors with non-GAAP financial measures including: (i) adjusted EBITDA and adjusted EBITDA margin and (ii) non-GAAP net income and non- 
+ 32 
+
+GAAP diluted net income per share. These measures are presented for supplemental informational purposes only, have limitations as analytical tools and should not be considered in isolation or as a substitute for financial information presented in accordance with GAAP. Our calculations of each of these measures may differ from the calculations of measures with the same or similar titles by other companies and therefore comparability may be limited. Because of these limitations, when evaluating our performance, you should consider each of these non-GAAP financial measures alongside other financial performance measures, including the most directly comparable financial measure calculated in accordance with GAAP and our other GAAP results. A reconciliation of each of our non-GAAP financial measures to the most directly comparable financial measure calculated in accordance with GAAP is set forth below. 
+ Adjusted EBITDA and Adjusted EBITDA Margin 
+ We define adjusted EBITDA as net income attributable to common stockholders, adjusted to exclude depreciation and amortization, stock-based compensation, interest expense, acquisition related compensation, acquisition and integration related costs, income tax expense, restructuring and other charges, restructuring related charges, impairment of long-lived assets, and other income, net. We define adjusted EBITDA margin as adjusted EBITDA as a percentage of revenue. We believe that adjusted EBITDA, when taken together with our GAAP financial results, provides meaningful supplemental information regarding our operating performance and facilitates internal comparisons of our historical operating performance on a more consistent basis by excluding certain items that may not be indicative of our business, results of operations or outlook. In particular, we believe that the use of adjusted EBITDA is helpful to our investors as it is a measure used by management in assessing the health of our business, evaluating our operating performance, and for internal planning and forecasting purposes. 
+ Our calculation of adjusted EBITDA and adjusted EBITDA margin may differ from the calculations of adjusted EBITDA and adjusted EBITDA margin by other companies and therefore comparability may be limited. Because of these limitations, when evaluating our performance, you should consider adjusted EBITDA and adjusted EBITDA margin alongside other financial performance measures, including our net income attributable to common stockholders and other GAAP results. 
+ The following table presents a reconciliation of Net income attributable to common stockholders, the most directly comparable financial measure stated in accordance with GAAP, to adjusted EBITDA for each of the periods presented: 
+ Three Months Ended Nine Months Ended September 30, September 30, (In thousands) 2024 2023 2024 2023 GAAP Net income attributable to common stockholders 32,949 19,175 66,226 3,470 Adjustments: Depreciation and amortization 35,810 30,554 100,825 87,085 Stock-based compensation (1) 
+ 22,949 28,731 67,512 92,754 Interest expense 2,262 2,333 6,887 6,634 Acquisition related compensation 3,193 7,995 11,439 22,576 Acquisition and integration related costs 2,366 5,113 Income tax expense (3,308) 17,939 2,479 9,774 Restructuring and other charges (1) 
+ (441) 20,862 Restructuring related charges (1)(2) 
+ 162 (29,484) 4,025 (26,757) Impairment of long-lived assets 587 356 1,140 Other income, net (3) 
+ (7,297) (3,979) (17,120) (18,967) Adjusted EBITDA 86,720 75,776 242,629 203,684 As a percentage of revenue: Net income margin 17 11 12 1 Adjusted EBITDA margin 44 43 42 40 
+ ___________________ 
+ 33 
+
+(1) For the nine months ended September 30, 2024, non-GAAP stock-based compensation excludes 0.1 million as it is presented in Restructuring related charges. There were no reclassifications of stock-based compensation for the three months ended September 30, 2024. For the three and nine months ended September 30, 2023, non-GAAP stock-based compensation excludes 31.3 million, reversal related to the former CEO s forfeited MRSU award that is reported in Restructuring related charges. 
+ (2) For the three and nine months ended September 30, 2024, primarily consists of executive reorganization charges. For the three and nine months ended September 30, 2023, primarily consists of the 31.3 million reversal of stock-based compensation related to the former CEO s forfeited MRSU award, partially offset by salary continuation charges, executive reorganization charges including severance, CEO search firm fees, and other legal and professional service costs. 
+ (3) For the three and nine months ended September 30, 2024 and 2023, primarily consists of interest and accretion income from our cash and cash equivalents and marketable securities. 
+ Non-GAAP Net Income and Non-GAAP Diluted Net Income Per Share 
+ We define non-GAAP net income as net income attributable to common stockholders, excluding stock-based compensation, acquisition related compensation, amortization of acquired intangibles, acquisition and integration related costs, restructuring and other charges, restructuring related charges, impairment of long-lived assets, and other unusual or non-recurring transactions as they occur. We define non-GAAP diluted net income per share as non-GAAP net income divided by the weighted-average diluted shares outstanding, which includes the potentially dilutive effect of our stock options, RSUs, PRSUs, and Convertible Notes. 
+ We believe non-GAAP diluted net income per share provides our management and investors consistency and comparability with our past financial performance and facilitates period-to-period comparisons of operations, as this metric generally eliminates the effects of unusual or non-recurring items from period to period for reasons unrelated to overall operating performance. 
+ The following table presents a reconciliation of Net income attributable to common stockholders, the most directly comparable financial measure stated in accordance with GAAP, to Non-GAAP Net income for each of the periods presented: 
+ 34 
+
+Three Months Ended Nine Months Ended September 30, September 30, (In thousands, except per share amounts) 2024 2023 2024 2023 GAAP Net income attributable to common stockholders 32,949 19,175 66,226 3,470 Stock-based compensation (1) 
+ 22,949 28,731 67,512 92,754 Acquisition related compensation 3,193 7,995 11,439 22,576 Amortization of acquired intangible assets 5,571 5,651 17,041 13,231 Acquisition and integration related costs 2,366 5,113 Restructuring and other charges (1) 
+ (441) 20,862 Restructuring related charges (1)(2) 
+ 162 (29,484) 4,025 (26,757) Impairment of long-lived assets 587 356 1,140 Non-GAAP income tax adjustment (3) 
+ (13,150) 9,011 (24,573) (14,393) Non-GAAP Net income 51,674 43,591 142,026 117,996 Non-cash charges related to convertible notes (4) 
+ 1,590 1,563 4,764 4,684 Non-GAAP Net income used to compute net income per share, diluted 53,264 45,154 146,790 122,680 GAAP Net income per share attributable to common stockholders, diluted 0.33 0.20 0.70 0.04 Stock-based compensation (1) 
+ 0.22 0.27 0.66 0.87 Acquisition related compensation 0.03 0.07 0.11 0.21 Amortization of acquired intangible assets 0.05 0.05 0.16 0.12 Acquisition and integration related costs 0.02 0.05 Restructuring and other charges (1) 
+ 0.20 Restructuring related charges (1)(2) 
+ (0.28) 0.03 (0.25) Impairment of long-lived assets 0.01 Non-cash charges related to convertible notes (4) 
+ 0.02 0.02 0.04 0.04 Non-GAAP income tax adjustment (3) 
+ (0.13) 0.09 (0.27) (0.13) Non-GAAP Net income per share, diluted 
+ 0.52 0.44 1.43 1.16 GAAP Weighted-average shares used to compute net income per share, diluted 102,591 102,674 102,678 97,747 Weighted-average dilutive effect of potentially dilutive securities 8,403 Non-GAAP Weighted-average shares used to compute net income per share, diluted 102,591 102,674 102,678 106,150 
+ May not foot due to rounding 
+ ______________ 
+ (1) For the nine months ended September 30, 2024, non-GAAP stock-based compensation excludes 0.1 million as it is presented in Restructuring related charges. There were no reclassifications of stock-based compensation for the three months ended September 30, 2024. For the three and nine months ended September 30, 2023, non-GAAP stock-based compensation excludes 31.3 million, reversal related to the former CEO s forfeited MRSU award that is reported in Restructuring related charges. 
+ (2) For the three and nine months ended September 30, 2024, primarily consists of executive reorganization charges. For the three and nine months ended September 30, 2023, primarily consists of the 31.3 million reversal of stock- 
+ 35 
+
+based compensation related to the former CEO s forfeited MRSU award, partially offset by salary continuation charges, executive reorganization charges including severance, CEO search firm fees, and other legal and professional service costs. 
+ (3) For the three and nine months ended September 30, 2024, we used a tax rate of 16 , which we believe is a reasonable estimate of our long-term effective tax rate applicable to non-GAAP pre-tax income for 2024. For the three and nine months ended September 30, 2023, we used a tax rate of 17 , which we believe was a reasonable estimate of our long-term effective tax rate applicable to non-GAAP pre-tax income for 2023. 
+ (4) Consists of non-cash interest expense for amortization of deferred financing fees related to the Convertible Notes. 
+ 
+ ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ There have been no material changes in market risk from the information provided in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+ 
+ ITEM 4. CONTROLS AND PROCEDURES 
+ Evaluation of Disclosure Controls and Procedures 
+ We maintain disclosure controls and procedures, as defined in Rule 13a-15(e) and Rule 15d-15(e) under the Exchange Act that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to our management, including our Chief Executive Officer and our Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. 
+ Our management, with the participation of our Chief Executive Officer and our Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures as of September 30, 2024. Based on that evaluation, our Chief Executive Officer and our Chief Financial Officer, concluded that, as of September 30, 2024, our disclosure controls and procedures were not effective due to the material weakness in our internal control over financial reporting described below. 
+ Material Weakness in Internal Control over Financial Reporting 
+ As previously disclosed, we identified a material weakness in our internal control over financial reporting that continued to exist as of September 30, 2024. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of a company s annual or interim financial statements will not be prevented or detected on a timely basis. We did not design and maintain effective controls over the accounting for income taxes. Specifically, we did not have the appropriate skills and level of experience to assess complicated tax matters. Additionally, we did not properly identify, risk assess, design and maintain effective controls related to the income tax provision, including controls related to the evaluation of tax deductions and the impact on our tax provision. This material weakness resulted in immaterial errors to the income tax expense, deferred taxes, accrued tax liabilities and income tax disclosures which were adjusted in the Company's revised consolidated financial statements for the year ended December 31, 2022. The material weakness also resulted in material errors to the income tax expense, deferred taxes and accrued tax liabilities which were adjusted in the Company's restated condensed consolidated financial statements for the three months ended March 31, 2023. This material weakness could result in a misstatement of the aforementioned account balances or disclosures that would result in a material misstatement to the annual or interim financial statements that would not be prevented or detected. 
+ Remediation Plan with Respect to Material Weakness 
+ As of September 30, 2024, all remediation efforts planned to address the material weakness have been designed and implemented by management. The controls and procedures we have implemented are subject to ongoing testing to measure their effectiveness over a sustained period of financial reporting cycles. The remediation measures we have taken include: 
+ a. In March 2023, we hired a VP of Tax with over 25 years of tax leadership experience. 
+ b. In the second quarter of 2023, we supplemented our tax resources through the use of a third-party tax advisor and we continue utilizing the third-party tax advisor. 
+ 36 
+
+c. In the first and second quarters of 2024, we augmented our team with additional tax personnel who have the appropriate knowledge, training and experience to analyze, record and disclose tax accounting matters timely and accurately, and to design and maintain appropriate accounting policies, procedures and controls over income taxes, commensurate with our financial reporting requirements. 
+ d. Since the beginning of 2024, we have trained process owners on and evaluated our newly implemented controls to address the identification, accounting, reporting and review of complex tax transactions and concluded the controls were designed effectively. 
+ We have executed our remediation plan for the material weakness and continue to report the status of the remediation plan to the Audit Committee on a regular basis. 
+ We have made substantial progress remediating the material weakness, and we believe our remediation plan will be sufficient to remediate the identified material weakness. However, the completion of these remediation measures requires evaluation of effectiveness of internal control over a sustained period of financial reporting prior to reaching a determination that the material weakness has been fully remediated. As we continue to validate and test our internal control over financial reporting, we may determine that additional actions to be taken for the implementation of the remediation plan are necessary or appropriate. 
+ Changes in Internal Control Over Financial Reporting 
+ There was no change in our internal control over financial reporting identified in connection with the evaluation required by Rule 13a-15(d) and 15d-15(d) of the Exchange Act that occurred during the quarter ended September 30, 2024 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ Inherent Limitations on Effectiveness of Controls 
+ Our management does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent all errors and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. These inherent limitations include the realities that judgments in decision making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the controls. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions; over time, controls may become inadequate because of changes in conditions, or the degree of compliance with policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+ 37 
+
+PART II - OTHER INFORMATION 
+ 
+ ITEM 1. LEGAL PROCEEDINGS 
+ From time to time, we are involved in various legal proceedings arising from the normal course of business activities. We are not presently a party to any litigation the outcome of which, if determined adversely to us, would in our estimation, have a material adverse effect on our business, operating results, cash flows or financial condition. Defending such proceedings can be costly and can impose a significant burden on management and employees. The results of any current or future litigation cannot be predicted with certainty, and regardless of the outcome, litigation can have an adverse impact on us because of defense and settlement costs, diversion of management resources and other factors. 
+ 
+ ITEM 1A. RISK FACTORS 
+ Please refer to Part I, Item 1A. Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2023 for a description of certain significant risks and uncertainties to which our business, financial condition and results of operations are subject. There have been no material changes to the risk factors discussed in our Annual Report on Form 10-K for the year ended December 31, 2023, except as set forth below. 
+ If we fail to effectively onboard and integrate new members of our executive leadership team and senior management, our business and future growth prospects could be harmed. 
+ Our success largely depends on our ability to effectively onboard and integrate new members of our executive leadership team and senior management. In 2024, we hired a new Chief Executive Officer, Chief Product and Technology Officer, Chief Ecosystem and Growth Officer and Chief Revenue Officer, in addition to other new members of senior management. The ability of these new members of leadership and senior management to understand our business, operations, and strategic plans will be critical to the Company and our management s ability to make informed decisions about our strategic direction and operations. Leadership transitions can be inherently difficult to manage, particularly when there is more than one transition occurring within the leadership and senior management teams in a short period of time. Ensuring that new executives and management gain detailed knowledge of our operations may take time and resources. An inadequate onboarding process or transition may cause disruption to our business due to, among other things, diverting management s attention away from the Company s financial and operational goals or causing a deterioration in morale. 
+ 
+ ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+ (c) Issuer Purchases of Equity Securities 
+ The following table provides information with respect to repurchases of shares of common stock by the Company during the three months ended September 30, 2024: Period 
+ Total Number of Shares Purchased 
+ Average Price Paid per Share 
+ Total Number of Shares Purchased as Part of Publicly Announced Program (1) 
+ Approximate Dollar Value (in thousands) of Shares that May Yet Be Purchased Under the Program (1) 
+ July 1-31, 2024 0.00 121,817 August 1-31, 2024 133,096 36.60 133,096 116,946 September 1-30, 2024 164,731 39.45 164,731 110,447 Total 297,827 38.18 297,827 
+ (1) On February 20, 2024, the Company s Board of Directors approved the repurchase of up to an aggregate of 140 million of the Company s common stock (the 2024 Share Buyback Program ). Pursuant to the 2024 Share Buyback Program, repurchases of the Company s common stock will be made at prevailing market prices through open market purchases or in negotiated transactions off the market. The repurchase program is authorized through fiscal year 2025; however, the Company is not obligated to acquire any particular amount of common stock and the program may be extended, modified, suspended or discontinued at any time at the Company s discretion. 
+ 
+ ITEM 3. DEFAULTS UPON SENIOR SECURITIES 
+ Not applicable. 
+ 
+ ITEM 4. MINE SAFETY DISCLOSURES 
+ Not applicable. 
+ 38 
+
+ITEM 5. OTHER INFORMATION 
+ 
+ , , the Company s , a trading plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act (the Saha 10b5-1 Plan ). The Saha 10b5-1 Plan contemplates the sale of up to shares of the Company s common stock between November 18, 2024 and June 17, 2025. 
+ 39 
+
+ITEM 6. EXHIBITS 
+ Incorporated by Reference Exhibit No. Exhibit Description Form File No. Exhibit Filing Date Filed Herewith 31.1 Certification of Padmanabhan Srinivasan, Chief Executive Officer, pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ X 31.2 Certification of W. Matthew Steinfort, Chief Financial Officer, pursuant to Rule 13a-14(a)/15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ X 32.1 Certifications of Padmanabhan Srinivasan, Chief Executive Officer, and W. Matthew Steinfort, Chief Financial Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ X 101.INS Inline XBRL Instance Document X 101.SCH Inline XBRL Taxonomy Extensions Schema X 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase X 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase X 101.LAB Inline XBRL Taxonomy Extension Label Linkbase X 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase X 104 Cover Page Interactive File (formatted as Inline XBRL and contained in Exhibit 101) X 
+ ___________________ 
+ Furnished herewith and not deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liability of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date hereof, regardless of any general incorporation language in such filing. 
+ The agreements and other documents filed as exhibits to this report are not intended to provide factual information or other disclosure other than with respect to the terms of the agreements or other documents themselves, and you should not rely on them for that purpose. In particular, any representations and warranties made by us in these agreements or other documents were made solely within the specific context of the relevant agreement or document and may not describe the actual state of affairs as of the date they were made or at any other time. 
+ 
+ 40 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. DigitalOcean Holdings, Inc. Date: November 4, 2024 By: /s/ Padmanabhan Srinivasan Padmanabhan Srinivasan Chief Executive Officer (Principal Executive Officer) Date: November 4, 2024 By: /s/ W. Matthew Steinfort W. Matthew Steinfort Chief Financial Officer (Principal Financial Officer) 
+ 41 
+
+<EX-31.1>
+ 2
+ exhibit311-2024xq3.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO 
+ EXCHANGE ACT RULES 13a-14(a) AND 15d-14(a), 
+ AS ADOPTED PURSUANT TO 
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Padmanabhan Srinivasan, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of DigitalOcean Holdings, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a 15(e) and 15d 15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a 15(f) and 15d 15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date November 4, 2024 By s Padmanabhan Srinivasan Name Padmanabhan Srinivasan Title Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ exhibit312-2024xq3.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO 
+ EXCHANGE ACT RULES 13a-14(a) AND 15d-14(a), 
+ AS ADOPTED PURSUANT TO 
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, W. Matthew Steinfort, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of DigitalOcean Holdings, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a 15(e) and 15d 15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a 15(f) and 15d 15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date November 4, 2024 By s W. Matthew Steinfort Name W. Matthew Steinfort Title Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ exhibit321-2024xq3.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ 
+ CERTIFICATIONS OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER 
+ PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Padmanabhan Srinivasan, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report on Form 10-Q of DigitalOcean Holdings, Inc. for the fiscal quarter ended September 30, 2024 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Quarterly Report on Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of DigitalOcean Holdings, Inc. 
+ 
+ Date November 4, 2024 By s Padmanabhan Srinivasan Name Padmanabhan Srinivasan Title Chief Executive Officer 
+ 
+ I, W. Matthew Steinfort, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report on Form 10-Q of DigitalOcean Holdings, Inc. for the fiscal quarter ended September 30, 2024 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Quarterly Report on Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of DigitalOcean Holdings, Inc. 
+ 
+ Date November 4, 2024 By s W. Matthew Steinfort Name W. Matthew Steinfort Title Chief Financial Officer 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ docn-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ docn-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ docn-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ docn-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ docn-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

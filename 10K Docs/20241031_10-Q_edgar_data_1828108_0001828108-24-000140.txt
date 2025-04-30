@@ -1,0 +1,765 @@
+<Header>
+<FileStats>
+    <FileName>20241031_10-Q_edgar_data_1828108_0001828108-24-000140.txt</FileName>
+    <GrossFileSize>4568917</GrossFileSize>
+    <NetFileSize>53994</NetFileSize>
+    <NonText_DocumentType_Chars>924380</NonText_DocumentType_Chars>
+    <HTML_Chars>1404523</HTML_Chars>
+    <XBRL_Chars>1193950</XBRL_Chars>
+    <XML_Chars>909692</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001828108-24-000140.hdr.sgml : 20241031
+<ACCEPTANCE-DATETIME>20241030180927
+ACCESSION NUMBER:		0001828108-24-000140
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		60
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241031
+DATE AS OF CHANGE:		20241030
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Aurora Innovation, Inc.
+		CENTRAL INDEX KEY:			0001828108
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				981562265
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40216
+		FILM NUMBER:		241411723
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1654 SMALLMAN ST.
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15222
+		BUSINESS PHONE:		(888) 583-9506
+
+	MAIL ADDRESS:	
+		STREET 1:		50 33RD ST
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Reinvent Technology Partners Y
+		DATE OF NAME CHANGE:	20201210
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Reinvent Technology Partners C
+		DATE OF NAME CHANGE:	20201013
+
+</SEC-Header>
+</Header>
+
+ 0001828108-24-000140.txt : 20241031
+
+10-Q
+ 1
+ aur-20240930.htm
+ 10-Q
+
+aur-20240930 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ ____________________________ 
+ FORM 
+ ____________________________ 
+ (Mark One) 
+ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the quarterly period ended 
+ OR 
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the transition period from _______ to _______ 
+ Commission file number 
+ ____________________________ 
+ 
+ (Exact name of registrant as specified in its charter) 
+ ____________________________ 
+
+(State or other jurisdiction of 
+ incorporation or organization) 
+ (I.R.S. Employer 
+ Identification No.) 
+ , , 
+
+(Address of Principal Executive Offices) 
+ (Zip Code) 
+ 
+ ) 
+ Registrant's telephone number, including area code 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports); and (2) has been subject to such filing requirements for the past 90 days. x No o 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No o 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, or a smaller reporting company. See the definitions of large accelerated filer, accelerated filer and smaller reporting company in Rule 12b-2 of the Exchange Act. 
+ 
+ x 
+ Accelerated filer 
+ o 
+ Non-accelerated filer 
+ o Smaller reporting company 
+ 
+ Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes o No 
+ The registrant had outstanding shares of Class A common stock and shares of Class B common stock as of October 23, 2024. 
+
+Table of Contents 
+
+ Table of Contents 
+ Page Part I - Financial Information 
+ Item 1. 
+ Financial Statements 
+ 3 
+ Item 2. 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 16 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 22 
+ Item 4. 
+ Controls and Procedures 
+ 23 
+ Part II - Other Information 
+ Item 1. 
+ Legal Proceedings 
+ 24 
+ Item 1A. 
+ Risk Factors 
+ 24 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 24 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 24 
+ Item 4. 
+ Mine Safety Disclosures 
+ 24 
+ Item 5. 
+ Other Information 
+ 24 
+ Item 6. 
+ Exhibits 
+ 25 
+ Signatures 
+ 26 
+ 
+ 1 
+
+Table of Contents 
+
+ CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ This Quarterly Report on Form 10-Q (this Quarterly Report contains forward-looking statements within the meaning of the federal securities laws, which statements involve substantial risks and uncertainties. Forward-looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain words such as may, might, possible, will, should, expect, plan, anticipate, could, intend, target, project, contemplate, believe, estimate, predict, potential or continue or the negative of these words or other similar terms or expressions that concern our expectations, strategy, plans or intentions. Forward-looking statements contained in this Quarterly Report include statements about: 
+ our ability to commercialize the Aurora Driver safely, quickly, and broadly on the timeline we expect; 
+ the market for autonomous vehicles and our market position; 
+ our ability to compete effectively with existing and new competitors; 
+ the ability to maintain the listing of our Class A common stock and warrants on Nasdaq; 
+ our ability to raise financing in the future; 
+ anticipated trends, growth rates, and challenges in our business and in the markets in which we operate; 
+ our ability to effectively manage our growth and future expenses; 
+ the sufficiency of our cash and cash equivalents to meet our operating requirements; 
+ our success in retaining or recruiting, or changes required in, our officers, key employees or directors; 
+ the impact of the regulatory environment and complexities with compliance related to such environment; 
+ our ability to successfully collaborate with business partners; 
+ our ability to obtain, maintain, protect and enforce our intellectual property; 
+ economic and industry trends or trend analysis; 
+ the impact of infectious diseases, health epidemics and pandemics, natural disasters, war (including Russia s actions in Ukraine and the Israel-Hamas war), acts of terrorism or responses to these events; and 
+ other factors detailed under the section entitled Risk Factors in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 and this Quarterly Report. 
+ We caution you that the foregoing list does not contain all of the forward-looking statements made in this Quarterly Report. 
+ You should not rely upon forward-looking statements as predictions of future events. We have based the forward-looking statements contained in this Quarterly Report primarily on our current expectations and projections about future events and trends that we believe may affect our business, operating results, financial condition and prospects. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties and other factors, including those described in the section titled Risk Factors in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, and elsewhere in this Quarterly Report. Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Quarterly Report. We cannot assure you that the results, events and circumstances reflected in the forward-looking statements will be achieved or occur, and actual results, events or circumstances could differ materially from those described in the forward-looking statements. 
+ Neither we nor any other person assumes responsibility for the accuracy and completeness of any of these forward-looking statements. Moreover, the forward-looking statements made in this Quarterly Report relate only to events as of the date on which the statements are made. We undertake no obligation to update any forward-looking statements made in this Quarterly Report to reflect events or circumstances after the date of this Quarterly Report or to reflect new information or the occurrence of unanticipated events, except as required by law. You should not place undue reliance on our forward- looking statements. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures or investments we may make. 
+ 2 
+
+Table of Contents 
+
+ Part I - Financial Information 
+ 
+ Item 1. Financial Statements 
+ 
+ Aurora Innovation, Inc. 
+ Condensed Consolidated Balance Sheets (unaudited) 
+ (in millions) 
+ September 30, 2024 December 31, 2023 Assets 
+ Current assets: 
+ Cash and cash equivalents 
+ Short-term investments Other current assets 
+ Total current assets 
+ Property and equipment, net 
+ Operating lease right-of-use assets 
+ Acquisition related intangible assets 
+ Long-term investments 
+ Other assets Total assets 
+ Liabilities and Stockholders Equity 
+ Current liabilities: 
+ Operating lease liabilities, current 
+ Other current liabilities 
+ Total current liabilities 
+ Operating lease liabilities, long-term 
+ Derivative liabilities 
+ Other liabilities 
+ Total liabilities 
+ Commitments and contingencies par value, shares authorized, 
+ and shares issued and outstanding, respectively 
+ Additional paid-in capital 
+ Accumulated other comprehensive income 
+ Accumulated deficit 
+ ) ) Total stockholders equity 
+ Total liabilities and stockholders equity 
+ 
+ See accompanying notes to the condensed consolidated financial statements (unaudited) 
+ 3 
+
+Table of Contents 
+
+ Aurora Innovation, Inc. 
+ Condensed Consolidated Statements of Operations (unaudited) 
+ (in millions, except per share data) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Operating expenses: 
+ Research and development 
+ Selling, general and administrative 
+ Total operating expenses 
+ Loss from operations 
+ ) ) ) ) Other income (expense): 
+ Change in fair value of derivative liabilities ) ) ) Other income, net 
+ Loss before income taxes 
+ ) ) ) ) Income tax expense 
+ Net loss 
+ ) ) ) ) Basic and diluted net loss per share 
+ Basic and diluted weighted-average shares outstanding 
+ 
+ See accompanying notes to the condensed consolidated financial statements (unaudited) 
+ 4 
+
+Table of Contents 
+
+ Aurora Innovation, Inc. 
+ Condensed Consolidated Statements of Comprehensive Loss (unaudited) 
+ (in millions) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net loss 
+ ) ) ) ) Other comprehensive income: 
+ Unrealized gain on investments 
+ Other comprehensive income 
+ Comprehensive loss 
+ ) ) ) ) 
+ See accompanying notes to the condensed consolidated financial statements (unaudited) 
+ 5 
+
+Table of Contents 
+
+ Aurora Innovation, Inc. 
+ Condensed Consolidated Statements of Stockholders Equity (unaudited) 
+ (in millions) 
+ Common stock Additional 
+ paid-in capital 
+ Accumulated other comprehensive (loss) income 
+ Accumulated deficit Total stockholders equity Shares Amount Balance as of June 30, 2023 
+ ) ) Equity issued under incentive compensation plans Issuance of common stock in private placement, net of issuance costs 
+ Issuance of common stock in public offering, net of issuance costs 
+ Stock-based compensation 
+ Comprehensive income (loss) 
+ ) ) Balance as of September 30, 2023 
+ ) Balance as of June 30, 2024 
+ ) ) Equity issued under incentive compensation plans Issuance of common stock in public offering, net of issuance costs 
+ Stock-based compensation Comprehensive income (loss) 
+ ) ) Balance as of September 30, 2024 
+ ) 
+ See accompanying notes to the condensed consolidated financial statements (unaudited) 
+ 6 
+
+Table of Contents 
+
+ Aurora Innovation, Inc. 
+ Condensed Consolidated Statements of Stockholders Equity (unaudited) 
+ (in millions) 
+ Common stock Additional 
+ paid-in capital 
+ Accumulated other comprehensive (loss) income 
+ Accumulated deficit Total stockholders equity Shares Amount Balance as of December 31, 2022 
+ ) ) Equity issued under incentive compensation plans Issuance of common stock in private placement, net of issuance costs 
+ Issuance of common stock in public offering, net of issuance costs 
+ Stock-based compensation 
+ Comprehensive income (loss) 
+ ) ) Balance as of September 30, 2023 
+ ) Balance as of December 31, 2023 
+ ) Equity issued under incentive compensation plans Issuance of common stock in public offering, net of issuance costs 
+ Stock-based compensation Comprehensive income (loss) 
+ ) ) Balance as of September 30, 2024 
+ ) 
+ See accompanying notes to the condensed consolidated financial statements (unaudited) 
+ 7 
+
+Table of Contents 
+
+ Aurora Innovation, Inc. 
+ Condensed Consolidated Statements of Cash Flows (unaudited) 
+ (in millions) 
+ Nine Months Ended September 30, 2024 2023 Cash flows from operating activities 
+ Net loss 
+ ) ) Adjustments to reconcile net loss to net cash used in operating activities: 
+ Depreciation and amortization 
+ Reduction in the carrying amount of right-of-use assets 
+ Stock-based compensation 
+ Change in fair value of derivative liabilities Accretion of discount on investments 
+ ) ) Other operating activities ) ) Changes in operating assets and liabilities: 
+ Other current and non-current assets 
+ ) Operating lease liabilities 
+ ) ) Other current and non-current liabilities 
+ ) Net cash used in operating activities 
+ ) ) Cash flows from investing activities 
+ Purchases of property and equipment 
+ ) ) Purchases of investments 
+ ) ) Maturities of investments 
+ Net cash (used in) provided by investing activities 
+ ) Cash flows from financing activities 
+ Proceeds from issuance of common stock 
+ Other financing activities 
+ ) ) Net cash provided by financing activities 
+ Net (decrease) increase in cash, cash equivalents, and restricted cash 
+ ) Cash, cash equivalents, and restricted cash at beginning of the period 
+ Cash, cash equivalents, and restricted cash at end of the period 
+ 
+ See accompanying notes to the condensed consolidated financial statements (unaudited) 
+ 8 
+
+Table of Contents 
+
+ Aurora Innovation, Inc. 
+ Notes to the Condensed Consolidated Financial Statements (unaudited) 
+ 
+ Note 1. 
+ 
+ Note 2. 
+ 9 
+
+Table of Contents 
+
+Note 3. 
+ Restricted cash, current (a) 
+ Restricted cash, long-term (b) 
+ Total cash, cash equivalents and restricted cash 
+ 
+ (a) Included in other current assets on the condensed consolidated balance sheets 
+ (b) Included in other assets on the condensed consolidated balance sheets 
+ Money market funds 
+ Level 1 U.S. Treasury securities 
+ Level 2 Commercial paper 
+ Level 2 Total cash and cash equivalents 
+ Short-term and long-term investments: U.S. Treasury securities 
+ Level 2 Commercial paper 
+ Level 2 
+ Corporate bonds and notes 
+ Level 2 Total short-term and long-term investments 
+ 
+ Commercial paper 
+ Corporate bonds and notes 
+ Total short-term and long-term investments 
+ 
+ 10 
+
+Table of Contents 
+
+ Commercial paper 
+ Corporate bonds and notes 
+ Total short-term and long-term investments 
+
+Note 4. 
+ million shares of preferred stock with a par value of per share. There were shares of preferred stock issued and outstanding at September 30, 2024 and December 31, 2023. 
+ Common Stock 
+ The Company is authorized to issue million shares of common stock with a par value of per share; of which million shares are designated Class A common stock and million shares are designated Class B common stock. Class A common stockholders are entitled to vote for each share and Class B common stockholders are entitled to votes for each share. Class A and Class B have identical liquidation and dividend rights. Class B shares are convertible into Class A upon election by the holder or upon transfer (except for certain permitted transfers). 
+ The Company had million and million shares of Class A common stock issued and outstanding at September 30, 2024 and December 31, 2023, respectively. The Company had million shares of Class B common stock issued and outstanding at September 30, 2024 and December 31, 2023. 
+ Public Offerings 
+ On August 2, 2024, the Company completed a public offering (the 2024 Public Offering of approximately million shares of Class A common stock at a price of per share, for proceeds of million, net of transaction costs, including the full exercise of the underwriters over-allotment option. 
+ On July 21, 2023, the Company completed a public offering (the 2023 Public Offering of approximately million shares of Class A common stock at a price of per share, for proceeds of million, net of transaction costs. Following the 2023 Public Offering, on August 2, 2023, the Company issued an additional million shares of Class A common stock in connection with the exercise of the underwriters over-allotment option for proceeds of million, net of transaction costs. 
+ Private Placement 
+ On July 21, 2023, the Company completed a private placement (the Private Placement ), in which the Company sold approximately million shares of Class A common stock at a price of per share, for proceeds to the Company of million, net of transaction costs. 
+ 
+ Note 5. 
+ equity compensation plans: the 2021 Equity Incentive Plan, as amended (the Plan ), the Aurora Innovation, Inc. 2017 Equity Incentive Plan (the 2017 Plan ), the Blackmore Sensors Analytics, Inc. 2016 Equity Incentive Plan (the Blackmore Plan ), and the OURS Technology Inc. 2017 Stock Incentive Plan, as amended (the OURS Plan ). The Company assumed awards under the 2017 Plan, the Blackmore Plan and the OURS Plan to the extent such employees continued as employees of the Company. 
+ Under the Plan, equity-based compensation in the form of restricted stock units RSUs ), restricted stock awards, incentive stock options, non-qualified stock options, stock appreciation rights, and performance units may be granted to employees, officers, directors, consultants, and others. As of September 30, 2024, there were million shares available for grant under the Plan. 
+ 11 
+
+Table of Contents 
+
+ income tax benefits have been recognized in the statement of operations for stock-based compensation arrangements and stock-based compensation has been capitalized as of September 30, 2024. 
+ Selling, general, and administrative 
+ Total 
+ 
+ Restricted Stock Units 
+ RSUs granted under the 2017 Plan generally are subject to vesting requirements: (1) a time-based vesting requirement, and (2) a liquidity event. Generally, the time-based vesting requirement is quarterly over starting on the vesting commencement date, with a cliff. The liquidity event vesting requirement was satisfied prior to the periods presented. 
+ RSUs granted under the Plan generally are subject to a time-based vesting requirement. Generally, the time-based vesting requirement is quarterly over one to starting on the vesting commencement date, with a cliff vesting for new hire awards. 
+ Granted 
+ Vested ) Forfeited 
+ ) Unvested at September 30, 2024 
+ 
+ The unrecognized stock-based compensation related to unvested RSUs was million at September 30, 2024 and will be recognized over a weighted average period of years. The fair value of RSUs as of their respective vesting dates was million for the nine months ended September 30, 2024. 
+ Stock Options 
+ The exercise price of stock options granted under the Plan and the 2017 Plan may not be less than of the fair value of the Company s common stock on the date of the grant. Stock options generally vest over one to starting on the vesting commencement date and expire, if not exercised, years from the date of grant or, if earlier, after the option holder ceases to be a service provider of the Company. Stock options outstanding under the Blackmore Plan and the OURS Plan are not material. 
+ Weighted average grant date fair value Weighted average grant date fair value assumptions: Expected term 
+ years Risk-free interest rates 
+ Expected volatility 
+ 12 
+
+Table of Contents 
+
+ Granted Exercised 
+ ) Forfeited 
+ ) Expired 
+ ) Outstanding at September 30, 2024 
+ Exercisable at September 30, 2024 
+ 
+ The unrecognized stock-based compensation related to unvested stock options was million as of September 30, 2024 and will be recognized over a weighted average period of years. The intrinsic value of stock options exercised was million for the nine months ended September 30, 2024. 
+ 
+ Note 6. 
+ Private placement warrants 
+ Level 2 Common stock warrants Earnout share liabilities Level 3 Total derivative liabilities 
+ 
+ The public and private placement warrants are measured at fair value on a recurring basis. The public warrants were valued based on the closing price of the publicly traded instrument. The private placement warrants were valued using observable inputs for similar publicly traded instruments. Public warrants outstanding were million as of September 30, 2024 and December 31, 2023. Private placement warrants outstanding were million as of September 30, 2024 and December 31, 2023. 
+ The earnout share liabilities are measured at fair value on a recurring basis utilizing a Monte Carlo simulation analysis. The expected volatility is determined based on the historical equity volatility of comparable companies over a period that matches the expected term of the instrument. The risk-free interest rate is based on relevant U.S. treasury rates for a period that matches the expected term of the instrument. Earnout shares outstanding were million as of September 30, 2024 and December 31, 2023. 
+ Expected term (in years) 
+ Expected volatility 
+ 13 
+
+Table of Contents ) ) Earnout share liabilities 
+ ) ) ) Change in fair value of derivative liabilities 
+ ) ) ) 
+ 
+ Note 7. 
+ million in the three months ended September 30, 2024 and 2023 and million in the nine months ended September 30, 2024 and 2023. As of September 30, 2024, the Company s operating leases had a weighted average remaining lease term of years and a weighted average discount rate of . 
+ 
+ Note 8. 
+ Buildings and leasehold improvements 
+ Equipment 
+ Vehicles 
+ Other 
+ Less accumulated depreciation and amortization 
+ ) ) Total property and equipment, net 
+ 
+ Other Current Liabilities 
+ Other accrued expenses 
+ Total other current liabilities 
+ 
+ 14 
+
+Table of Contents 
+
+ Note 9. 
+ classes of common stock with identical liquidation and dividend rights, Class A and Class B. The net loss is allocated in a proportionate basis to each class of common stock and results in the same net loss per share. 
+ Stock options 
+ Public warrants Private placement warrants Earnout shares liability Total 
+
+Note 10. 
+ 15 
+
+Table of Contents 
+
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ The following discussion and analysis of the financial condition and results of operations should be read together with the condensed consolidated financial statements (unaudited) included elsewhere in this Quarterly Report. This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of several factors, including those set forth in Part I, Item 1A. Risk Factors in our Annual Report and Part II, Item 1A. Risk Factors and under the heading Cautionary Note Regarding Forward-Looking Statements included elsewhere in this Quarterly Report. 
+ Unless otherwise indicated or the context otherwise requires, references to Aurora, we, us, our and other similar terms in this section refer to Aurora Innovation, Inc. and its consolidated subsidiaries. Percentage amounts have not in all cases been calculated on the basis of rounded figures, but on the basis of such amounts prior to rounding. For this reason, percentage amounts may vary from those obtained by performing the same calculations using the figures in our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report. Certain other amounts that appear in this Quarterly Report may not sum due to rounding. 
+ 
+ Corporate History and Background 
+ On November 3, 2021 (the Closing Date ), Aurora Innovation, Inc. (f/k/a Reinvent Technology Partners Y and referred to herein as the Company ), consummated a business combination with Aurora Innovation Holdings, Inc., a Delaware corporation (f/k/a Aurora Innovation, Inc. and referred to herein as Legacy Aurora ), and RTPY Merger Sub Inc., a Delaware corporation and a direct wholly owned subsidiary of the Company Merger Sub ), pursuant to an Agreement and Plan of Merger dated July 14, 2021 (the Merger Agreement and the transactions contemplated thereby, the Merger ), by and among the Company, Legacy Aurora and Merger Sub. Pursuant to the terms of the Merger Agreement, a business combination between the Company and Legacy Aurora was effected through the merger of Merger Sub with and into Legacy Aurora, with Legacy Aurora continuing as the surviving company and as a wholly-owned subsidiary of the Company. On the Closing Date, the Company changed its name from Reinvent Technology Partners Y to Aurora Innovation, Inc. 
+ Aurora s Business 
+ Aurora is developing the Aurora Driver based on what we believe to be the most advanced and scalable suite of self-driving hardware, software, and data services in the world to fundamentally transform the global transportation market. The Aurora Driver is designed as a platform to adapt and interoperate amongst vehicle types and applications. To date, it has been successfully integrated into numerous different vehicle platforms: from passenger vehicles to light commercial vehicles to Class 8 trucks. By creating one driver system for multiple vehicle types and use cases, Aurora s capabilities in one market reinforce and strengthen its competitive advantages in others. For example, highway driving capabilities developed for trucking will carry over to highway segments driven by passenger vehicles in ride-hailing applications. We believe this approach will enable us to target and transform the transportation landscape, including trucking, passenger mobility, and local goods delivery market. 
+ We expect that the Aurora Driver will ultimately be commercialized in a Driver as a Service DaaS business model, in which customers or third parties will purchase, manage, and maintain fleets directly, while subscribing to the Aurora Driver and a suite of related services. We do not intend to own nor operate a large number of vehicles ourselves. Throughout commercialization, we expect to earn revenue on a fee per mile basis. We intend to partner with OEMs, Tier 1 automotive suppliers, fleet operators, and other third parties to commercialize and support Aurora Driver-powered vehicles. We expect that these strategic partners will support activities such as vehicle and hardware manufacturing, financing and leasing, service and maintenance, parts replacement, facility ownership and operation, and other commercial and operational services as needed. We expect this DaaS model to enable an asset-light and high margin revenue stream for Aurora, while allowing us to scale more rapidly through partnerships. During the start of commercialization, though, we expect to briefly operate our own logistics and mobility services, where we own or lease and operate a small fleet of vehicles equipped with our Aurora Driver. This level of control is useful during early commercialization as we define operational processes and playbooks for our partners. 
+ 16 
+
+Table of Contents 
+
+ We plan to first launch Aurora Driver for Freight (formerly Aurora Horizon), our driverless trucking subscription service, as we believe that is where we can make the largest impact the fastest, given the massive industry demand, attractive unit economics, and the ability to deploy on high volume highway-focused routes. Future success will be dependent on our ability to execute against our product roadmap to launch Aurora Driver for Freight. From there, we plan to leverage the extensibility of the Aurora Driver to deploy and scale into the passenger mobility market with Aurora Driver for Rides (formerly Aurora Connect), our driverless ride hailing subscription service, and in the longer-term the local goods delivery market. 
+ 17 
+
+Table of Contents 
+
+ Recent Developments 
+ Public Offering 
+ On August 2, 2024, the Company completed a public offering (the 2024 Public Offering of approximately 134 million shares of Class A common stock at a price of 3.60 per share, for proceeds of 466 million, net of transaction costs, including the full exercise of the underwriters over-allotment option. 
+ 18 
+
+Table of Contents 
+
+ Results of Operations 
+ Comparison of the Three Months Ended September 30, 2024 to the Three Months Ended September 30, 2023 
+ The following table sets forth a summary of our consolidated results of operations for the periods indicated, and the changes between periods. 
+ Three Months Ended September 30, Change Change (in millions, except for percentages) 2024 2023 Operating expenses: Research and development 169 182 (13) (7) Selling, general and administrative 27 30 (3) (10) Total operating expenses 196 212 (16) (8) Loss from operations (196) (212) 16 (8) Other income (expense): Change in fair value of derivative liabilities (28) 5 (33) n/m (1) 
+ Other income, net 16 17 (1) (6) Loss before income taxes (208) (190) (18) 9 Income tax expense 
+ n/m (1) 
+ Net loss (208) (190) (18) 9 
+ (1) Not meaningful. 
+ Operating expenses 
+ Research and development decreased by 13 million, or 7 , to 169 million in the three months ended September 30, 2024 from 182 million in the three months ended September 30, 2023, primarily driven by a decrease in non-cash stock-based compensation, hardware costs for development fleets, and personnel costs. Research and development expenses included non-cash stock-based compensation of 30 million and 36 million in the three months ended September 30, 2024 and 2023, respectively. 
+ Selling, general and administrative decreased by 3 million, or 10 , to 27 million in the three months ended September 30, 2024 from 30 million in the three months ended September 30, 2023, primarily driven by decreases in personnel costs and other general and administrative costs. Selling, general and administrative included non-cash stock-based compensation of 5 million in the three months ended September 30, 2024 and 2023. 
+ Other income (expense) 
+ The change in fair value of derivative liabilities was expense of 28 million and income of 5 million in the three months ended September 30, 2024 and 2023, respectively, primarily due to the change in the market price for the underlying instrument during each period. 
+ Other income, net decreased by 1 million, or 6 , to 16 million in the three months ended September 30, 2024, from 17 million in the three months ended September 30, 2023, primarily due to a decrease in interest income earned on cash equivalents and investments. 
+ 19 
+
+Table of Contents 
+
+ Comparison of the Nine Months Ended September 30, 2024 to the Nine Months Ended September 30, 2023 
+ Nine Months Ended September 30, Change Change (in millions, except for percentages) 2024 2023 Operating expenses: Research and development 505 546 (41) (8) Selling, general and administrative 82 91 (9) (10) Total operating expenses 587 637 (50) (8) Loss from operations (587) (637) 50 (8) Other income (expense): Change in fair value of derivative liabilities (15) (7) (8) 114 Other income, net 
+ 47 40 7 18 Loss before income taxes (555) (604) 49 (8) Income tax expense 
+ n/m (1) 
+ Net loss (555) (604) 49 (8) 
+ (1) Not meaningful. 
+ Operating expenses 
+ Research and development expenses decreased by 41 million, or 8 , to 505 million in the nine months ended September 30, 2024 from 546 million in the nine months ended September 30, 2023, primarily driven by decreases in hardware costs for development fleets, non-cash stock-based compensation, and personnel costs. Research and development expenses included non-cash stock-based compensation of 93 million and 107 million in the nine months ended September 30, 2024 and 2023, respectively. 
+ Selling, general and administrative expenses decreased by 9 million, or 10 , to 82 million in the nine months ended September 30, 2024 from 91 million in the nine months ended September 30, 2023 primarily driven by decreases in personnel costs and other general and administrative costs. Selling, general and administrative expenses included non-cash stock-based compensation of 16 million in the nine months ended September 30, 2024 and 2023. 
+ Other income (expense) 
+ The change in fair value of derivative liabilities resulted in an expense of 15 million and 7 million in the nine months ended September 30, 2024 and 2023, respectively, primarily due to the change in the market price for the underlying instrument. 
+ Other income, net increased by 7 million, or 18 , to 47 million in the nine months ended September 30, 2024, from 40 million in the nine months ended September 30, 2023, primarily due to an increase in interest income earned on cash equivalents and investments. 
+ 20 
+
+Table of Contents 
+
+ Liquidity and Capital Resources 
+ As of September 30, 2024, our principal sources of liquidity were 263 million of cash and cash equivalents, 985 million of short-term investments, and 104 million of long-term investments with maturities within 2 years, exclusive of restricted cash of 16 million. Short-term and long-term investments consist of primarily U.S. Treasury securities as well as corporate bonds and commercial paper. 
+ We have incurred negative cash flows from operating activities and significant losses from operations in the past. We expect to continue to incur operating losses and that we will need to opportunistically raise additional capital to support the continued development and commercialization of the Aurora Driver. During the third quarter of 2024, we raised 483 million in equity capital from the 2024 Public Offering, receiving net proceeds of 466 million after transaction costs. During the third quarter of 2023, we raised 853 million in equity capital from a public offering and concurrent private placement, receiving net proceeds of 828 million after transaction costs. We expect our total liquidity will be sufficient to meet our working capital and capital expenditure requirements for a period of at least twelve months from the date of this Quarterly Report. Management will continue to evaluate the timing and nature of discretionary operating expenses, as necessary. 
+ Worldwide economic conditions remain uncertain, including inflation volatility. The general economic and capital market conditions both in the U.S. and worldwide, have been volatile in the past. The capital and credit markets may not be available to support future capital raising activity on favorable terms. If economic conditions decline, our future cost of equity or debt capital and access to the capital markets could be adversely affected. 
+ Cash Flows 
+ Cash flows for the periods were as follows (in millions): 
+ Nine Months Ended September 30, 2024 2023 Net cash used in operating activities 
+ (469) (465) Net cash (used in) provided by investing activities 
+ (245) 332 Net cash provided by financing activities 
+ 475 827 Net (decrease) increase 
+ (239) 694 Cash, cash equivalents, and restricted cash at beginning of the period 
+ 518 277 Cash, cash equivalents, and restricted cash at end of the period 
+ 279 971 
+ Cash Flows Used in Operating Activities 
+ Net cash used in operating activities was 469 million for the nine months ended September 30, 2024, an increase of 4 million from 465 million for the nine months ended September 30, 2023 primarily due to advanced payments for hardware materials for fleet builds partially offset by decreases in other operating expenditures. 
+ Cash Flows (Used in) Provided by Investing Activities 
+ Net cash used in investing activities was 245 million for the nine months ended September 30, 2024 compared to net cash provided by investing activities of 332 million for the nine months ended September 30, 2023. The change was primarily due to increased purchases and fewer maturities of short-term investments, as well as increased purchases of property and equipment for commercial fleet builds. 
+ Cash Flows Provided by Financing Activities 
+ Net cash provided by financing activities was 475 million for the nine months ended September 30, 2024, a decrease of 352 million from 827 million for the nine months ended September 30, 2023, primarily due to lower net proceeds received from the 2024 Public Offering compared to the 2023 Public Offering and Private Placement. 
+ 21 
+
+Table of Contents 
+
+ Contractual Obligations, Commitments and Contingencies 
+ Aurora may be party to various claims within the normal course of business. Legal fees and other costs associated with such actions are expensed as incurred. We assess the need to record a liability for litigation and other loss contingencies, with reserve estimates recorded if we determine that a loss related to the matter is both probable and reasonably estimable. No material losses were recorded in the three and nine months ended September 30, 2024 and 2023. 
+ 
+ Critical Accounting Estimates 
+ Our condensed consolidated financial statements have been prepared in accordance with U.S. generally accepted accounting principles, or U.S. GAAP. Preparation of the financial statements requires our management to make judgments, estimates and assumptions that impact the reported amount of revenue and expenses, assets and liabilities and the disclosure of contingent assets and liabilities. We consider an accounting judgment, estimate or assumption to be critical when (1) the estimate or assumption is complex in nature or requires a high degree of judgment and (2) the use of different judgments, estimates and assumptions could have a material impact on our condensed consolidated financial statements. Our significant accounting policies are described in Note 2 to our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report and in the notes to the consolidated financial statements included in Part II, Item 8 of the Annual Report on Form 10-K/A for the year-ended December 31, 2023. There have been no material changes to our critical accounting estimates since our Annual Report. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ We are exposed to a variety of market and other risks, including the effects of changes in interest rates, and inflation, as well as risks to the availability of funding sources, hazard events, and specific asset risks. 
+ Interest Rate Risk 
+ Our results of operations are directly exposed to changes in interest rates, among other macroeconomic conditions. Interest rate risk is highly sensitive to many factors, including governmental monetary and tax policies, domestic and international economic and political considerations, and other factors beyond our control. 
+ We do not believe that an increase or decrease in interest rates of 100-basis points would have a material effect on our business, financial condition or results of operations. 
+ Inflation Risk 
+ We do not believe that inflation has had a material effect on our business, financial condition or results of operations, other than its impact on the general economy. Nonetheless, if our costs were to become subject to inflationary pressures, we may not be able to fully offset such higher costs through price increases. Our inability or failure to do so could harm our business, financial condition and results of operations. 
+ 22 
+
+Table of Contents 
+
+ Item 4. Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ Disclosure controls and procedures are controls and other procedures that are designed to ensure that information required to be disclosed in our reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed in our reports filed or submitted under the Exchange Act is accumulated and communicated to management, including our chief executive officer and chief financial officer, to allow timely decisions regarding required disclosure. 
+ Our management evaluated, with the participation of our chief executive officer and chief financial officer (our Certifying Officers ), the effectiveness of our disclosure controls and procedures as of September 30, 2024, pursuant to Rule 13a-15(b) under the Exchange Act. Based upon that evaluation, our Certifying Officers concluded that our disclosure controls and procedures were effective as of September 30, 2024. 
+ Changes in Internal Control over Financial Reporting 
+ There was no change in our internal control over financial reporting that occurred during the fiscal quarter ended September 30, 2024 covered by this Quarterly Report on Form 10-Q that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ Limitations on the Effectiveness of Controls 
+ Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. 
+ 
+ 23 
+
+Table of Contents 
+
+ Part II - Other Information 
+ 
+ Item 1. Legal Proceedings 
+ We are from time to time subject to various claims, lawsuits and other legal and administrative proceedings arising in the ordinary course of business. However, we do not consider any such claims, lawsuits or proceedings that are currently pending, individually or in the aggregate, to be material to our business or likely or result in a material adverse effect on our future operating results, financial condition or cash flows. 
+ 
+ Item 1A. Risk Factors 
+ Our operations and financial results are subject to various risks and uncertainties, including those described in Part I, Item 1A, "Risk Factors" in our Annual Report on Form 10-K for the year ended December 31, 2023, which could adversely affect our business, financial condition, results of operations, cash flows, and the trading price of our stock. There have been no material changes from the risk factors previously disclosed in our Annual Report. 
+ 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ None. 
+ 
+ Item 3. Defaults Upon Senior Securities 
+ Not applicable. 
+ 
+ Item 4. Mine Safety Disclosures 
+ Not applicable. 
+ 
+ Item 5. Other Information 
+ Securities Trading Plans of Directors and Executive Officers 
+ During our last fiscal quarter, no director or officer, as defined in Rule 16a-1(f), or a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement, each as defined in Regulation S-K Item 408. 
+ 24 
+
+Table of Contents 
+
+ Item 6. Exhibits. 
+ Exhibit Number Description 31.1 Certification of Principal Executive Officer Pursuant to Securities Exchange Act Rules 13a-14(a) and 15(d)-14(a), as adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 31.2 Certification of Principal Financial Officer Pursuant to Securities Exchange Act Rules 13a-14(a) and 15(d)-14(a), as adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 32.1 Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 32.2 Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 101.INS XBRL Instance Document 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) 
+ __________ 
+ Filed herewith. 
+ The certifications attached as Exhibit 32.1 and 32.2 that accompany this Quarterly Report on Form 10-Q are deemed furnished and not filed with the Securities and Exchange Commission and are not to be incorporated by reference into any filing of Aurora Innovation, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date of this Quarterly Report on Form 10-Q, irrespective of any general incorporation language contained in such filing. 
+
+25 
+
+Table of Contents 
+
+ Signatures 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ Aurora Innovation, Inc. Date: October 30, 2024 By: /s/ Chris Urmson Name: Chris Urmson Title: Chairman and Chief Executive Officer (Principal Executive Officer) Date: October 30, 2024 By: /s/ David Maday Name: David Maday Title: Chief Financial Officer (Principal Financial Officer) 
+ 26 
+
+<EX-31.1>
+ 2
+ a24q3ex311.htm
+ EX-31.1
+
+Document 
+ Exhibit 31.1 
+
+ CERTIFICATION 
+ I, Chris Urmson, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Aurora Innovation, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date October 30, 2024 
+ By s Chris Urmson 
+ Name Chris Urmson 
+ Title Chairman and Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a24q3ex312.htm
+ EX-31.2
+
+Document 
+ Exhibit 31.2 
+
+ CERTIFICATION 
+ I, David Maday, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Aurora Innovation, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date October 30, 2024 
+ By s David Maday 
+ Name David Maday 
+ Title Chief Financial Officer 
+ (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ a24q3ex321.htm
+ EX-32.1
+
+Document 
+ Exhibit 32.1 
+
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Aurora Innovation, Inc. (the Company on Form 10-Q for the period ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date October 30, 2024 
+ By s Chris Urmson 
+ Name Chris Urmson 
+ Title Chairman and Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ a24q3ex322.htm
+ EX-32.2
+
+Document 
+ Exhibit 32.2 
+
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Aurora Innovation, Inc. (the Company on Form 10-Q for the period ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date October 30, 2024 
+ By s David Maday 
+ Name David Maday 
+ Title Chief Financial Officer 
+ (Principal Financial Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ aur-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ aur-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ aur-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ aur-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ aur-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,1018 @@
+<Header>
+<FileStats>
+    <FileName>20241114_10-Q_edgar_data_1849056_0001628280-24-047875.txt</FileName>
+    <GrossFileSize>6525649</GrossFileSize>
+    <NetFileSize>113096</NetFileSize>
+    <NonText_DocumentType_Chars>1281157</NonText_DocumentType_Chars>
+    <HTML_Chars>2001275</HTML_Chars>
+    <XBRL_Chars>1598178</XBRL_Chars>
+    <XML_Chars>1423925</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001628280-24-047875.hdr.sgml : 20241114
+<ACCEPTANCE-DATETIME>20241114160206
+ACCESSION NUMBER:		0001628280-24-047875
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		82
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241114
+DATE AS OF CHANGE:		20241114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Oklo Inc.
+		CENTRAL INDEX KEY:			0001849056
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		ORGANIZATION NAME:           	01 Energy & Transportation
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40583
+		FILM NUMBER:		241461590
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3190 CORONADO DR.
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		650-550-0127
+
+	MAIL ADDRESS:	
+		STREET 1:		3190 CORONADO DR.
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AltC Acquisition Corp.
+		DATE OF NAME CHANGE:	20210303
+
+</SEC-Header>
+</Header>
+
+ 0001628280-24-047875.txt : 20241114
+
+10-Q
+ 1
+ oklo-20240930.htm
+ 10-Q
+
+oklo-20240930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ (Mark One) 
+ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission file number 
+ 
+ (Exact name of registrant as specified in its charter) 
+ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ , 
+ ) 
+ (Address of principal executive offices) 
+ (Zip Code) 
+ (Registrant's telephone number, including area code) 
+ 
+ N/A 
+ (Former name, former address and former fiscal year, if changed since last report) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No o 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No o 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer o 
+ Accelerated filer o 
+ x 
+ Smaller reporting company 
+ Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes o No 
+ 
+ The registrant had shares of Class A common stock outstanding as of November 14, 2024. 
+
+TABLE OF CONTENTS 
+ Page SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ 3 
+ PART I. FINANCIAL INFORMATION 
+ Item 1. 
+ Unaudited Financial Statements 
+ 4 
+ Condensed Consolidated Balance Sheets 
+ 4 
+ Condensed Consolidated Statements of Operations 
+ 5 
+ Condensed Consolidated Statements of Comprehensive Loss 
+ 6 
+ Condensed Consolidated Statements of Stockholders Equity (Deficit) 
+ 7 
+ Condensed Consolidated Statements of Cash Flows 
+ 9 
+ Notes to the Cond ensed Consolidated Financial Statements 
+ 10 
+ Item 2. 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 29 
+ Item 3 . 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 41 
+ Item 4 . 
+ Controls and Procedures 
+ 41 
+ PART II. OTHER INFORMATION 
+ Item 1. 
+ Legal Proceedings 43 
+ Item 1A. 
+ Risk Factors 
+ 43 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 43 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 43 
+ Item 4. 
+ Mine Safety Disclosures 
+ 43 
+ Item 5. 
+ Other Information 
+ 43 
+ Item 6. 
+ Exhibits 
+ 44 
+ SIGNATURES 
+ 45 
+ 
+ 2 
+
+Table of Contents 
+
+ SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ 
+ This Quarterly Report on Form 10-Q (this Quarterly Report of Oklo Inc. Oklo, the Company, we, our, and us contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ). Forward-looking statements relate to future events or future performance and include, without limitation, statements concerning our business strategy, future revenues, market growth, capital requirements, product introductions, expansion plans and the adequacy of our funding. Other statements contained in this Quarterly Report that are not historical facts are also forward-looking statements. We have tried, wherever possible, to identify forward-looking statements by terminology such as may, will, could, should, expects, anticipates, intends, plans, believes, seeks, estimates, continue, might, possible, potential, predict, project, would and other stylistic variants denoting forward-looking statements. 
+ 
+ We caution investors that any forward-looking statements presented in this Quarterly Report, or that we may make orally or in writing from time to time, are based on information currently available, as well as our beliefs and assumptions. The actual outcome related to forward-looking statements will be affected by known and unknown risks, trends, uncertainties, and factors that are beyond our control or ability to predict. Although we believe that our assumptions are reasonable, they are not guarantees of future performance, and some will inevitably prove to be incorrect. As a result, our actual future results can be expected to differ from our expectations, and those differences may be material. Accordingly, investors should use caution in relying on forward-looking statements, which are based only on known results and trends at the time they are made, to anticipate future results or trends. 
+ 
+ The forward-looking statements contained in this Quarterly Report are based on current expectations and beliefs concerning future developments and their potential effects on us. There can be no assurance that future developments affecting us will be those that we have anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond our control), or other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements. These risks and uncertainties include, but are not limited to: risks related to the deployment of Oklo s powerhouses; the risk that Oklo is pursuing an emerging market, with no commercial project operating, regulatory uncertainties; the potential need for financing to construct plants, market, financial, political and legal conditions; the effects of competition; the risk that an agreement with Atomic Alchemy Inc. Atomic Alchemy and the proposed acquisition thereof do not materialize or fail to produce the expected benefits; changes in applicable laws or regulations; and the outcome of any government and regulatory proceedings and investigations and inquiries; and those factors in the other documents filed by Oklo from time to time with the U.S. Securities and Exchange Commission SEC ). The discussion in this Quarterly Report should be read in conjunction with the condensed consolidated financial statements and notes thereto included in Item 1 of this Quarterly Report. Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in these forward-looking statements. We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws. 
+ 
+ This Quarterly Report and all subsequent written and oral forward-looking statements attributable to us or any person acting on our behalf are expressly qualified in their entirety by the cautionary statements contained or referred to in this section. We do not undertake any obligation to release publicly any revisions to our forward-looking statements to reflect events or circumstances after the date of this Quarterly Report, except as may be required by law. 
+ 3 
+
+Table of Contents 
+
+ PART I FINANCIAL INFORMATION 
+ 
+ Item 1. Unaudited Financial Statements 
+ 
+ Oklo Inc. 
+ Condensed Consolidated Balance Sheets 
+ As of September 30, 2024 (Unaudited) December 31, 2023 (1) 
+ Assets Current assets: Cash and cash equivalents Marketable securities Prepaid and other current assets Total current assets Marketable securities Property and equipment, net Operating lease right-of-use assets Other assets Total assets Liabilities and stockholders equity (deficit) Current liabilities: Accounts payable Accrued expenses and other Operating lease liabilities Total current liabilities Operating lease liabilities, net of current portion Simple agreements for future equity Right of first refusal liability Total liabilities Commitments and contingencies (Note 14) par value shares authorized; and shares issued and outstanding as of September 30, 2024 and December 31, 2023, respectively 
+ Additional paid-in capital Accumulated deficit ) ) Accumulated other comprehensive income Total stockholders equity (deficit) ) Total liabilities and stockholders equity 
+ See accompanying notes to condensed consolidated financial statements. 
+ 4 
+
+Table of Contents 
+
+ Oklo Inc. 
+ Condensed Consolidated Statements of Operations 
+ (Unaudited) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Operating expenses Research and development General and administrative Total operating expenses Loss from operations ) ) ) ) Other income (loss) Change in fair value of simple agreements for future equity ) ) ) Interest and dividend income Total other income (loss) ) ) ) Loss before income taxes ) ) ) ) Income taxes ) ) Net loss ) ) ) ) Deemed dividend - earnout and founder shares ) Net loss attributable to common stockholders ) ) ) ) Net loss per share: Basic and diluted - Class A common stock Net loss per share attributable to common stockholders: Basic and diluted - Class A common stock Weighted-average common shares outstanding - basic and diluted - Class A common stock 
+ See accompanying notes to condensed consolidated financial statements. 
+ 5 
+
+Table of Contents 
+
+ Oklo Inc. 
+ Condensed Consolidated Statements of Comprehensive Loss 
+ (Unaudited) 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net loss ) ) ) ) Other comprehensive income: Change in unrealized gains on marketable debt securities Total comprehensive loss ) ) ) ) 
+ See accompanying notes to condensed consolidated financial statements. 
+ 6 
+
+Table of Contents 
+
+ Oklo Inc. 
+ Condensed Consolidated Statements of Stockholders Equity (Deficit) 
+ (Unaudited) 
+ 
+ Three and Nine Months Ended September 30, 2024 
+ Redeemable Convertible Preferred Stock Common Stock Class A Common Stock Additional Paid-in Capital Accumulated Deficit Accumulated Other Comprehensive Income Total Stockholders Equity (Deficit) Shares Amount Shares (1) 
+ Par Value (1) 
+ Shares Par Value Balance as of January 1, 2024, as recast ) ) Exercise of stock options Issuance of Class A common stock in connection with the Business Combination, net of transaction costs (Note 3) Issuance of Class A common stock upon conversion of simple agreements for future equity immediately before the Business Combination (Note 3) Other comprehensive income Stock-based compensation Net loss ) ) Balance as of June 30, 2024 ) Other comprehensive income Stock-based compensation Net loss ) ) Balance as of September 30, 2024 ) 
+ 7 
+
+Table of Contents 
+
+ Three and Nine Months Ended September 30, 2023 
+ Redeemable Convertible Preferred Stock Common Stock Class A Common Stock Additional Paid-in Capital Accumulated Deficit Accumulated Other Comprehensive Income Total Stockholders Equity (Deficit) Shares Amount Shares (1) 
+ Par Value (1) 
+ Shares Par Value Balance as of January 1, 2023, as previously reported ) ) Retroactive application of reverse recapitalization (Note 3) ) ) ) ) Balance as of January 1, 2023, after effect of reverse recapitalization ) ) Stock-based compensation Net loss ) ) Balance as of June 30, 2023 ) ) Exercise of stock options Stock-based compensation Net loss ) ) Balance as of September 30, 2023 ) ) 
+ See accompanying notes to condensed consolidated financial statements. 
+ 8 
+
+Table of Contents 
+
+ Oklo Inc. 
+ Condensed Consolidated Statements of Cash Flows 
+ (Unaudited) 
+ Nine Months Ended September 30, 2024 2023 Cash flows from operating activities Net loss ) ) Adjustments to reconcile net loss to net cash used in operating activities: Depreciation and amortization Change in fair value of simple agreements for future equity Accretion of discount on marketable debt securities ) Stock-based compensation Change in operating assets and liabilities: Prepaid and other current assets ) Other assets ) Accounts payable ) Accrued expenses and other Operating lease liabilities ) Net cash used in operating activities ) ) Cash flows from investing activities Purchases of property and equipment ) ) Purchases of marketable debt securities ) Proceeds from redemptions of marketable debt securities Net cash used in investing activities ) ) Cash flows from financing activities Proceeds from recapitalization Proceeds from exercise of stock options Proceeds from right of first refusal liability Proceeds from simple agreements for future equity Payment of deferred issuance costs ) ) Net cash provided by financing activities Net increase in cash and cash equivalents Cash and cash equivalents - beginning of year Cash and cash equivalents - end of period Supplemental disclosures of cash flow information Cash paid for interest Cash paid for income taxes Supplemental noncash investing and financing activities Reclassification of deferred issuance costs in connection with business combination Reclassification of simple agreements for future equity in connection with business combination Deferred issuance costs included in accounts payable 
+ See accompanying notes to condensed consolidated financial statements. 
+ 9 
+
+Table of Contents 
+
+ Oklo Inc. 
+ Notes to Condensed Consolidated Financial Statements 
+
+1. 
+ 
+ and megawatts of electricity MWe on both recycled nuclear fuel and fresh fuel. Oklo s advanced fission technology has a history of successful operation, first demonstrated by the Experimental Breeder Reactor-II, which sold and supplied power to the grid and showed effective waste recycling capabilities for over years of operation. Furthermore, Oklo has achieved several significant deployment and regulatory milestones, including securing a site use permit from the U.S. Department of Energy DOE for the Idaho National Laboratory INL Site and a fuel award from INL for a commercial-scale advanced fission power plant in Idaho. 
+ 
+ On May 9, 2024, the Company consummated a business combination pursuant to an Agreement and Plan of Merger and Reorganization dated July 11, 2023 (as amended, modified, supplemented or waived, the Merger Agreement ), by and among the Company, AltC Acquisition Corp., a Delaware corporation AltC and AltC Merger Sub, Inc., a Delaware corporation and a direct, wholly owned subsidiary of AltC Merger Sub ). Pursuant to the terms of the Merger Agreement, Merger Sub merged with and into Oklo Inc., with Oklo Inc. surviving the merger as a wholly owned subsidiary of AltC (following the merger Oklo Inc. changed its name to Oklo Technologies, Inc.) (the Merger and, together with the other transactions contemplated by the Merger Agreement, the Business Combination (as further described in Note 3). Upon consummation of the Business Combination (the Closing ), AltC changed its name to Oklo Inc. 
+ 
+ The Company s Class A common stock commenced trading on the New York Stock Exchange NYSE under the symbol OKLO on May 10, 2024. 
+ 
+ Liquidity and Capital Resources 
+ 
+ As of September 30, 2024, the Company s cash, cash equivalents and marketable debt securities were , which includes the proceeds received from the Business Combination. The Company continues to incur significant operating losses. For the nine months ended September 30, 2024, the Company had a net loss of , loss from operations of and net cash used in operating activities of . As of September 30, 2024, the Company had an accumulated deficit of . Management expects that significant on-going operating expenditures will be necessary to successfully implement the Company s business plan and develop its powerhouses. 
+ 
+ The Company will utilize its existing cash, cash equivalents and marketable debt securities to fund its powerhouses, operations, and growth plans. The Company believes that as a result of the Business Combination, its existing cash, cash equivalents and marketable debt securities will be sufficient to fund its operations for the one-year period following the issuance date of the accompanying condensed consolidated financial statements as of and for the three and nine months ended September 30, 2024. 
+
+2. Summary of Significant Accounting Policies 
+ 
+ 10 
+
+Table of Contents 
+
+ segment. 
+
+11 
+
+Table of Contents 
+
+The potentially dilutive outstanding common stock equivalents of options to purchase shares of Class A common stock and unvested restricted common stock units have been excluded from the calculation of diluted net loss per share for the periods indicated due to their anti-dilutive effect. 
+ 
+ Emerging Growth Company Status 
+ 
+ The Company is an emerging growth company as defined in the Jumpstart Our Business Startups Act JOBS Act ). The JOBS Act provides emerging growth companies with certain exemptions from public company reporting requirements for up to five fiscal years while a company remains an emerging growth company. As part of these exemptions, the Company has reduced disclosure obligations such as for executive compensation, and it is not required to comply with auditor attestation requirements from Section 404(b) of the Sarbanes-Oxley Act of 2002, as amended, regarding its internal control over financial reporting. Additionally, the JOBS Act has allowed the Company the option to delay adoption of new or revised financial accounting standards until private companies are required to comply with new or revised financial accounting standards. 
+ 
+ 12 
+
+Table of Contents 
+
+years Computers to years 
+ Software years Leasehold improvements Shorter of lease term or estimated useful life of the asset 
+ impairment losses were recognized on any long-lived assets during the three and nine months ended September 30, 2024 and 2023. 
+ 13 
+
+Table of Contents 
+
+14 
+
+Table of Contents 
+
+and for the three months ended September 30, 2024 and 2023, respectively, and and for the nine months ended September 30, 2024 and 2023, respectively, based on the period in which the expense was incurred and reimbursable under the guidelines of the cost-share project on the condensed consolidated statements of operations. The reimbursable R D expenses included of property and equipment purchased under the guidelines of the cost-share projects during the nine months ended September 30, 2024, and reflected of the cost-share reimbursement as an offset to the cost basis of the property and equipment, resulting in no carrying value for the property and equipment on the condensed consolidated balance sheets and no reported cash flows. In the event the property and equipment is sold upon completion of the cost-share projects, the Company may be obligated to reimburse the DOE in the event the proceeds are in excess of per asset, which at such time, if applicable, will be reported on a net presentation basis with no gain recognized and no cash flows. 
+
+3. 
+ 15 
+
+Table of Contents 
+
+Add: accrued interest receivable Add: advance to Legacy Oklo Add: prepaid expenses Less: transaction costs and advisor fees paid ) Cash and other assets acquired from the Business Combination Less: accounts payable ) Less: accrued expenses ) Less: excise tax payable ) Less: income taxes payable ) Net cash from the Business Combination recorded on the condensed consolidated statements of stockholders equity (deficit) 
+ 
+ Earnout Awards 
+ 
+ In connection with the Business Combination, the Company issued the following earnout awards: 
+ 
+ Pursuant to a sponsor letter agreement (the Sponsor Agreement ), AltC Sponsor LLC (the Sponsor agreed to subject of its AltC Class A common stock (received as a result of the conversion of its AltC Class B common stock (as described in Note 11) immediately prior to the Closing, such shares, the AltC founder shares to vesting and forfeiture conditions relating to, among other things, price targets for the Company s Class A common stock for a time period commencing on the Closing and ending on the earlier of (i) the anniversary of the Closing Date and (ii) a Change in Control (a Change in Control as defined in the Merger Agreement) (such period, the Earnout Period ). 
+ 
+ All persons that held one or more shares of Legacy Oklo common stock immediately prior to the Closing, (after giving effect to the conversion of the Legacy Oklo Preferred Stock and Legacy Oklo SAFEs (as described in Note 7)) and all persons that held one or more vested Legacy Oklo options immediately prior to the Closing are eligible (the Eligible Legacy Oklo equityholders to receive an aggregate of additional shares of Class A common stock (the Earnout Shares in separate tranches upon the occurrence of each Earnout Triggering Event during the Earnout Period as follows: 
+ 
+ Earnout Triggering Event I requires the issuance of Class A common stock to Eligible Legacy Oklo equityholders at the earlier of the following: (i) the stock trading price is equal to or greater than per share for trading days within a consecutive trading day period or (ii) a Change in Control of Oklo pursuant to which holders of Class A common stock have the right to receive consideration implying a value per share greater than or equal to after (a) taking into account the dilutive effect of any Earnout Shares that have been or would be issued at Earnout Triggering Event I and (b) excluding any AltC founder shares that have been or would be forfeited pursuant to the Sponsor Agreement; 
+ 
+ Earnout Triggering Event II requires the issuance of Class A common stock to Eligible Legacy Oklo equityholders at the earlier of the following: (i) the stock trading price is equal to or greater than per share for trading days within a consecutive trading day period or (ii) a Change in Control of Oklo pursuant to which holders of Class A common stock have the right to receive consideration implying a value per share greater than or equal to after (a) taking into account the 
+ 16 
+
+Table of Contents 
+
+ Class A common stock to Eligible Legacy Oklo equityholders at the earlier of the following: (i) the stock trading price is equal to or greater than per share for trading days within a consecutive trading day period or (ii) a Change in Control of Oklo pursuant to which holders of Class A common stock have the right to receive consideration implying a value per share greater than or equal to after (a) taking into account the dilutive effect of any Earnout Shares that have been or would be issued at Earnout Triggering Event III, and, if applicable, Earnout Triggering Event I and Earnout Triggering Event II, and (b) excluding any AltC founder shares that have been or would be forfeited pursuant to the Sponsor Agreement. 
+ 
+ Each Earnout Triggering Event is subject to certain conditions and other provisions. The stock trading price, as described above, is based upon the closing price per share of Class A common stock, as quoted on the NYSE for any trading days within any consecutive trading day period within the Earnout Period (the stock trading price ). If any of the Earnout Triggering Events, as described in the foregoing, are not achieved within the Earnout Period, the Earnout Shares issuable upon the occurrence of the applicable Earnout Triggering Event will be forfeited. 
+ 
+ At the Closing, the AltC founder shares unvested and will revest over a period following the Closing (the Vesting Period ), up to shares of Class A common stock (the Founder Shares ), in the aggregate in tranches upon the occurrence of each Vesting Triggering Event as follows: 
+ 
+ Vesting Trigger Event I requires the vesting of of the Founder Shares when the stock trading price equals or exceeds per share for trading days within a consecutive trading day period or in the event of a Sale (as defined in the Sponsor Agreement) of Oklo pursuant to which holders of Class A common stock paid or implied in such Sale equals or exceeds per share; 
+ 
+ Vesting Trigger Event II requires the vesting of of the Founder Shares when the stock trading price equals or exceeds per share for trading days within a consecutive trading day period or in the event of a Sale of Oklo pursuant to which holders of Class A common stock paid or implied in such Sale equals or exceeds per share; 
+ 
+ Vesting Trigger Event III requires the vesting of of the Founder Shares when the stock trading price equals or exceeds per share for trading days within a consecutive trading day period or in the event of a Sale of Oklo pursuant to which holders of Class A common stock paid or implied in such Sale equals or exceeds per share; and 
+ 
+ Vesting Trigger Event IV requires the vesting of of the Founder Shares when the stock trading price equals or exceeds per share for trading days within a consecutive trading day period or in the event of a Sale of Oklo pursuant to which holders of Class A common stock paid or implied in such Sale equals or exceeds per share. 
+ 
+ Each Vesting Triggering Event is subject to certain conditions. In each case, the price paid or implied in such Sale will be determined after (i) taking into account the dilutive effect of any Earnout Shares that have been or would be issued at Earnout Triggering Event I, Earnout Triggering Event II and Earnout Triggering Event III, as applicable, and (ii) excluding any Founder Shares that have been or would be forfeited pursuant to the Sponsor Agreement (i.e., the unvested Founder Shares that do not vest upon the occurrence of a Sale will be forfeited immediately prior to the closing of such Sale). If any of the Vesting Triggering Events, as described in the foregoing, are not achieved within the Vesting Period, the Founder Shares will be forfeited. 
+ 
+ The Earnout Shares, exclusive of Earnout Shares attributable to the Legacy Oklo vested options at Closing, as further described below, and Founder Shares were recorded at fair value at Closing of the Business Combination and equity classified. Upon closing of the Business Combination, the estimated fair value of the Earnout Shares and Founder Shares was and , respectively, based on a valuation using a Monte Carlo simulation with key inputs and assumptions, such as stock price at Closing of per share, term, dividend yield, risk-free rate, and volatility. Because the Business Combination is accounted for as a reverse recapitalization, the issuance of the Earnout Shares and vesting of the Founder Shares will be treated as a deemed dividend. As the Company is in an accumulated deficit position as of the measurement date, the Company recorded the issuance of the Earnout Shares and Founder Shares in additional paid-in capital APIC ), with a 
+ 17 
+
+Table of Contents 
+
+ and Earnout Shares and Founder Shares, respectively, unvested and remaining subject to the vesting terms (further details are provided under the heading Vesting of Earnout Awards in Note 15). 
+ 
+ For the Earnout Shares attributable to the Legacy Oklo vested options, where each Legacy Oklo vested option holder will receive a pro rata share of the Earnout Shares as if their Legacy Oklo vested options were outstanding at the Closing of the Business Combination pursuant to the applicable Earnout Triggering Event, the condensed consolidated statement of operations reflects a noncash stock-based compensation expense of representing the incremental costs of the modification of Legacy Oklo s awards for the vested options holders contingent right to receive a pro rata share of the Earnout Shares recorded at the Closing. 
+ 
+ As part of the Business Combination, in the case of holders of Legacy Oklo options, each outstanding Legacy Oklo option was converted into an option to purchase, based on the Exchange Ratio (as described below), upon the same terms and conditions as were in effect with respect to the corresponding Legacy Oklo option immediately prior to the Closing, including with respect to vesting and termination-related provisions, a number of shares of Class A common stock (rounded down to the nearest whole share) equal to the product of (x) the number of Legacy Oklo common stock underlying such option immediately prior to the Closing and (y) the number of shares of Class A common stock issued in respect of each Legacy Oklo common stock in the Business Combination pursuant to the Merger Agreement, at an exercise price per share (rounded up to the nearest whole cent) equal to (A) the exercise price per Legacy Oklo common stock underlying such option immediately prior to the Closing divided by (B) the number of shares of Class A common stock issued in respect of each Legacy Oklo common stock in the Business Combination pursuant to the Merger Agreement. 
+ 
+ Upon the terms and subject to the conditions set forth in the Merger Agreement, at the Closing, the adjustments giving effect to the Business Combination and related transactions are summarized below: 
+ 
+ the Merger of Merger Sub, the wholly owned subsidiary of AltC, with and into Legacy Oklo, with Legacy Oklo as the surviving company; 
+ 
+ each share of Legacy Oklo common stock, including shares of Legacy Oklo common stock issued upon the pre-Closing conversion of Legacy Oklo Preferred Stock and Legacy Oklo SAFEs, was automatically surrendered and no longer exists, and was exchanged, in the aggregate, for an amount equal to per share of Class A common stock; and 
+ 
+ the exchange of all outstanding vested and unvested Legacy Oklo stock options into stock options exercisable for shares of Class A common stock with the same terms except for the number of shares exercisable and the exercise price, each of which was adjusted using the Exchange Ratio. 
+ 
+ At the Closing, each share of Legacy Oklo common stock issued and outstanding immediately prior to the Closing was automatically surrendered and exchanged for shares of Class A common stock pursuant to the Restated Certificate of Incorporation (as further described in Note 11) and issued to the Company s stockholders in exchange for all outstanding shares of Legacy Oklo common stock (including shares of Legacy Oklo common stock resulting from the conversion of Legacy Oklo Preferred Stock and Legacy Oklo SAFEs immediately prior to the Closing) at the exchange ratio of (the Exchange Ratio pursuant to the terms of the Merger Agreement. Further, shares of Class A common stock were issued in exchange for AltC private placement shares held by the Sponsor pursuant to the Sponsor Agreement (the AltC private placement shares ). A reserve was established for issuance up to: (i) shares of Class A common stock in respect of the Legacy Oklo options assumed pursuant to the terms of the Merger Agreement; and (ii) shares of Class A common stock for the potential future issuance of the Earnout Shares, as outlined above. 
+
+18 
+
+Table of Contents 
+
+ Sponsor stockholders (as defined in Note 11) (3) 
+ AltC public stockholders (as defined in Note 11) (4) 
+ Total AltC stockholders Total Class A common stock 
+ 
+ (1) The table does not include the shares underlying the Earnout Shares and shares underlying the Legacy Oklo options . 
+ 
+ (2) The table includes shares issued to Legacy Oklo stockholders (consisting of (i) shares issued to Legacy Oklo Preferred Stock holders (for further details see Note 10) and shares issued to Legacy Oklo common stockholders as of January 1, 2023 (determined by taking the shares of Legacy Oklo outstanding common stock multiplied by the Exchange Ratio of ), together totaling shares that represent the retroactive application of the recapitalization), (ii) shares issued to holders of Legacy Oklo options upon the exercise of options during the nine months ended September 30, 2024 and (iii) shares issued to holders of Legacy Oklo options upon the exercise of options during the year ended December 31, 2023), and shares issued upon conversion of the Legacy Oklo SAFEs (for further details, see Note 7) outstanding immediately before the Business Combination, together the and totaling . 
+ 
+ (3) The table includes shares issued to the Sponsor representing the Founder Shares that will vest and no longer be subject to forfeiture pursuant to the applicable Vesting Triggering Event and shares issued in exchange for AltC private placement shares held by the Sponsor pursuant to the Sponsor Agreement . 
+ 
+ (4) The AltC public stockholders represent the Class A common stock subject to redemption held by the AltC stockholders immediately before the Closing (for further details see Note 11). 
+ 
+ Transaction Costs 
+ 
+ Transaction costs consist of direct legal, consulting, audit and other fees related to the consummation of the Business Combination. These costs were initially capitalized as incurred and recorded in prepaid and other current assets as deferred issuance costs on the condensed consolidated balance sheets. Upon the Closing, transaction costs directly related to the issuance of shares of Class A common stock totaling , consisting of legal and professional fees, were recognized as an offset to APIC on the condensed consolidated statements of stockholders equity (deficit). 
+
+4. 
+ Deferred issuance costs Costs-share receivables Accrued interest receivable Rent security Refundable deposit Total prepaid and other current assets 
+ 
+ 19 
+
+Table of Contents 
+
+ Furniture and fixtures Software Leasehold improvements Total property and equipment, gross Less accumulated depreciation and amortization ) ) Total property and equipment, net 
+ Depreciation and amortization expenses for the three months ended September 30, 2024 and 2023 totaled and , respectively, and for the nine months ended September 30, 2024 and 2023 totaled and , respectively. 
+ Accrued Expenses and Other 
+ Accrued payroll and bonus Excise tax payable Credit card liabilities Income taxes payable Total accrued expenses and other 
+ 
+ 5. 
+ square feet of office space in Santa Clara, California, with an initial term of months. 
+ 20 
+
+Table of Contents 
+
+ Cash payments included in the measurement of operating lease liabilities during the period Operating lease liabilities arising from obtaining lease right-of-use assets during the period Weighted-average remaining lease term (in months) as of period-end Weighted-average discount rate during the period 
+ 
+ The Company generally utilizes its incremental borrowing rates on a collateralized basis, reflecting the Company s credit quality and the term of the lease at the commencement of the lease in determining the present value of future payments since the implicit rate for the Company s leases is not readily determinable. 
+ Variable lease expense includes rental increases that are not fixed, such as those based on amounts paid to the lessor based on cost or consumption, such as maintenance and utilities. 
+ Sales, general and administrative Total operating lease costs (1) 
+
+and , respectively, and for the nine months ended September 30, 2024 and 2023 of and , respectively, are included in operating lease costs. 
+ The minimum lease payments above do not include common area maintenance charges, which are contractual obligations under the Company s lease, but are not fixed and can fluctuate from year to year and are expensed as incurred. Common area maintenance charges for the three months ended September 30, 2024 and 2023 of and , respectively, and for the nine months ended September 30, 2024 and 2023 of and , respectively, are included in operating expenses on the condensed consolidated statements of operations. 
+ 2025 2026 Minimum lease payments Less imputed interest ) Present value of operating lease liabilities Current portion of operating lease liabilities Noncurrent portion of operating lease liabilities Total operating lease liabilities 
+
+6. 
+ 
+ 21 
+
+Table of Contents 
+
+ Level 1: Money market funds U.S. Treasury securities Subtotal Level 2 (3) : 
+ Commercial paper Corporate debt securities Subtotal Total 
+ 
+ (1) There was allowance for expected credit losses recorded on available-for-sale debt securities as of September 30, 2024. 
+ 
+ (2) There are unrealized losses for U.S. Treasury securities, commercial paper and corporate debt securities included in the unrealized gains. 
+ 
+ (3) The valuation techniques used to measure the fair values of the Company s Level 2 financial instruments, which generally have counterparties with high credit ratings, are based on quoted market prices or model-driven valuations using significant inputs derived from or corroborated by observable market data. 
+ 
+ Due after 1 year through 5 years Total fair value 
+ 
+ As of December 31, 2023, the Company s cash and cash equivalents were . 
+
+7. 
+ 
+ and , respectively. For the nine months ended September 30, 2024, the Company received total cash proceeds of . For the nine months ended September 30, 2023, the Company received total cash proceeds of with of cash received from the subscription of a SAFE, for total proceeds of . 
+ 
+ 22 
+
+Table of Contents 
+
+ Valuation cap of 500,000,000 Total 
+ 
+ (1) For further details, refer to Note 3. 
+ 
+ and , respectively . 
+ 
+ 8. 
+ 
+ 23 
+
+Table of Contents 
+
+ Risk-free rate (2) 
+ Expected term (3) 
+ months months 
+ 
+ (1) Asset volatility measures the uncertainty about the realization of expected future returns that was estimated based on the methodologies assuming default risk based on the implied and historical volatility of the share price of peer companies. 
+ 
+ (2) Risk-free rate based on the U.S. Treasury yield in effect at the time of SAFE Notes consistent with the expected term. 
+ 
+ (3) The simulation considers a total term. If there are no events occurring within years, then the SAFE noteholders are expected to receive their principal amount. 
+ SAFE Notes issued during the period Change in fair value during the period SAFE Notes converted during the period ) Change in fair value upon conversion on SAFE Notes at Closing ) Ending balance 
+ As of September 30, 2024 and December 31, 2023, the estimated fair value of the SAFE Notes were and , respectively. The change in fair value for the three and nine months ended September 30, 2024, as reflected in the above table, is included in other income (loss) on the condensed consolidated statements of operations. 
+
+9. 
+ 
+ timeline, and at a rate to be formally specified in one or more future Power Purchase Agreement(s) (each a PPA (subject to the requirement that the price meets the market rate, discount and most favored nation terms contained in the agreement). In addition, the third party will have the right to renew and extend PPAs for additional terms. months following its execution to purchase energy output produced by certain powerhouses developed by the Company in the U.S., subject to certain provisions and excluded powerhouses, for power capacity of no less than MWe of energy output and up to cumulative maximum of MWe of total energy output (the ROFR ). In exchange for the ROFR and other rights contained in the LOI, in March 2024, the third party paid the Company (the Payment ). In connection with the Payment, the Company agreed to supply power at a discount to the most favored nation pricing that the Company is required to provide to the third party in a future PPA (location to be determined); provided, that pricing set out in a PPA will include an additional discount if needed such that the total savings against most favored nation pricing over the course of the PPA is equivalent to the Payment. The third party can assign its rights under the LOI, in whole or in part, at any time. As of September 30, 2024, the outstanding balance under the right of first refusal liability was , as reflected on the condensed consolidated balance sheets. 
+
+10. 
+ 24 
+
+Table of Contents 
+
+Preferred Stock Series A-2 Preferred Stock Series A-3 Totals 
+
+11. 
+ 
+ shares of all classes of capital stock consisting of (i) shares of Class A common stock (further details are provided below), par value of per share and (ii) shares of preferred stock, par value of per share (further details are provided below). Subject to the special rights of the holders of any outstanding series of preferred stock, the number shares of preferred stock may be increased or decreased (but not below the number of shares then outstanding) by affirmative vote of the holders of a majority of the stock of the Company entitled to vote. 
+ 
+ Class A Common Stock 
+ 
+ Pursuant to the terms of the Restated Certificate of Incorporation, immediately upon the effectiveness of the filing of the Restated Certificate of Incorporation, (i) each share of Class A common stock subject to redemption held by AltC stockholders (the AltC public stockholders was reclassified on a -for-one basis as one share of the Company s Class A common stock, (ii) each share of AltC Class A common stock (i.e., the AltC private placement shares) held by the Sponsor was reclassified on a -for-one basis as one share of the Company s Class A common stock, and (iii) each share of AltC Class B common stock (i.e., the Founder Shares) held by the Sponsor was converted on a -for-one basis into a share of Company s Class A common stock (the Sponsor stockholders ). 
+ 
+ The holders of Class A common stock have vote for each share of common stock held of record by such holder as of the applicable record date. Subject to the special rights of holders of any outstanding preferred stock to elect directors, there were (7) directors at the time of filing the Restated Certificate of Incorporation. Thereafter, the number of directors will be exclusively fixed from time to time by resolution of a majority of the Company s board of directors (the Board ). Subject to the special rights of holders of any outstanding series of preferred stock to elect directors, the Board is divided into three classes with the term of each director expiring on the date of the third annual meeting of stockholders following the annual meeting of stockholders at which such director was elected, as follows: Class I, with a term expiring at the first annual meeting; Class II, with a term expiring at the second annual meeting; and Class III, with a term expiring at the third annual meeting. 
+ 
+ Reserve of Class A Common Stock Effective May 9, 2024, the Company reserved the following shares of its Class A common stock: (i) shares of Class A common stock issuable upon the exercise of outstanding options under the Oklo Inc. 2016 Stock Incentive Plan (the Legacy Oklo 2016 Plan (ii) shares of Class A common stock issuable for potential future awards, subject to certain annual increases commencing on January 1, 2025 and ending on January 1, 2034, under the Oklo Inc. 2024 Equity Incentive Plan (the 2024 Plan and (iii) shares of Class A common stock authorized for future issuance, subject to certain annual increases commencing on January 1, 2025 and ending on January 1, 2034, under the Oklo Inc. 2024 Employee Stock Purchase Plan (the 2024 ESPP ). Further details of the Legacy Oklo 2016 Plan, the 2024 Plan and 2024 ESPP are described in Note 12. 
+ 
+ Issuances of Class A Common Stock During the three and nine months ended September 30, 2024, the Company issued and shares, respectively, of its Class A common stock upon the exercise of stock options with an exercise price of and , respectively. During the three and nine months ended September 30, 2023, 
+ 25 
+
+Table of Contents 
+
+ and shares, respectively, of its Class A common stock upon the exercise of stock options with an exercise price of and , respectively. 
+ 
+ Preferred Stock 
+ 
+ There are shares of preferred stock issued and outstanding. The voting, dividend and liquidation rights of the holders of the Class A common stock are subject to and qualified by the rights of the holders of the preferred stock of any series as may be designated by the Board upon any issuance of the preferred stock of any series. 
+
+12. years. Effective as of May 9, 2024, the Company is no longer issuing new awards under the Legacy Oklo 2016 Plan. As of September 30, 2024, options to purchase shares of Class A common stock were outstanding under the Legacy Oklo 2016 Plan. 
+ 
+ 2024 Plan The 2024 Plan provides for the issuance of stock options (which may be incentive stock options or nonqualified stock options) stock appreciation rights SARs ), restricted stock awards, restricted stock units and other stock-based awards to eligible employees, consultants, advisors and non-employee directors. Awards under the 2024 Plan cover shares of Class A common stock. Stock options and SARs granted pursuant to the 2024 Plan are subject to a maximum term of ten ) years. The 2024 Plan will terminate automatically ten ) years after its adoption by the Board. As of September 30, 2024, restricted stock units were outstanding under the 2024 Plan, of which have vested and remain unvested. 
+ 
+ 2024 ESPP The 2024 ESPP provides eligible employees with an opportunity to purchase Class A common stock from the Company at a pre-determined discounted price and to pay for such purchases through payroll deductions or other approved contributions during offering periods under the 2024 ESPP. The 2024 ESPP will terminate automatically twenty ) years after its adoption by the Board. As of September 30, 2024, the Company had granted any rights to purchase Class A common stock under the 2024 ESPP. 
+ General and administrative Total costs charged to operations (1) 
+ 
+ (1) Nine months ended September 30, 2024 includes of incremental costs of the modification of Legacy Oklo s awards for the vested options holders contingent right to receive a pro rata share of the Earnout Shares recorded at the Closing. 
+ 
+ As of September 30, 2024, there was approximately of total unrecognized compensation expense related to outstanding unvested stock-based compensation arrangements granted under the Legacy Oklo 2016 Plan and 2024 Plan. The cost is expected to be recognized over a weighted-average period of years. 
+
+13. 
+ 26 
+
+Table of Contents and , respectively. 
+ 
+ The realization of deferred tax assets is dependent upon a variety of factors, including the generation of future taxable income, the reversal of deferred tax liabilities, and tax planning strategies. During the nine months ended September 30, 2024 and 2023, the Company recorded an income tax expense of and , respectively, as a result of interest and dividend income from investments, which caused the quarterly and year-to-date effective tax rate ETR to increase from the Company s historical annual ETR. The tax expense is composed of state current income taxes and is accounted for as a discrete tax item. Based upon the Company s historical operating losses and the uncertainty of future taxable income, the Company had provided a valuation allowance against most of the deferred tax assets as of September 30, 2024 and 2023. 
+ As of September 30, 2024 and 2023, the Company had uncertain tax positions or interest and penalties accrued. 
+
+14. 
+ contingent liabilities as of September 30, 2024. 
+
+15. 
+ 
+ shares of its Class A common stock (after taking into consideration the forfeiture for no consideration of Earnout Shares, where the Company expects to issue an equivalent number of restricted stock units to certain employees pursuant to its 2024 Plan, the terms and conditions of which have not yet been determined) for the Earnout Shares within business days of each Earnout Triggering Event (less applicable tax withholdings for Earnout Shares attributable to Legacy Oklo vested options) and release from vesting restrictions shares of its Class A common stock for the Founder Shares upon each Vesting Triggering Event. Each Triggering Event occurred by virtue of the trading price being equal to or greater than per share price for each Triggering Event for trading days within a consecutive trading day period. 
+ 
+ Atomic Alchemy Acquisition 
+ 
+ On November 7, 2024, the Company entered into a term sheet (the Term Sheet with Atomic Alchemy, whereby Atomic Alchemy has agreed to negotiate exclusively through a certain date, pursuant to an exclusivity agreement dated September 30, 2024 in connection with the proposed acquisition of Atomic Alchemy. The Term Sheet 
+ 27 
+
+Table of Contents 
+
+ million all-stock transaction, subject to customary due diligence. 
+ 28 
+
+Table of Contents 
+
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following discussion and analysis of our financial condition and results of operations for the nine months ended September 30, 2024 and 2023, should be read together with our unaudited condensed consolidated financial statements and related notes included elsewhere in this Quarterly Report and in conjunction with the audited consolidated financial statements and notes thereto for the year ended December 31, 2023, included in the Company s Registration Statement on Form S-1, as amended (File No. 333-280344) (the Form S-1 ), which was declared effective on September 18, 2024. The following discussion contains forward-looking statements that reflect our future plans, estimates, beliefs and expected performance. Our actual results may differ materially from those currently anticipated and expressed in such forward-looking statements as a result of a number of factors. We caution that assumptions, expectations, projections, intentions or beliefs about future events may, and often do, vary from actual results and the differences can be material. Please see Special Note Regarding Forward-Looking Statements. 
+
+Overview 
+ 
+ We were founded in 2013 with the goal of revolutionizing the energy landscape by developing clean, reliable, affordable energy solutions at scale. According to Fortune, global demand for reliable, clean energy is growing rapidly, with 63 of Fortune Global companies publicly committing to emissions reductions by 2050, and the International Energy Agency expects global spending on clean energy technologies and infrastructure to reach 2 trillion in 2024. We are pursuing two complementary tracks to address this demand: providing reliable, commercial-scale energy to customers and selling used nuclear fuel recycling services to the U.S. market. 
+ 
+ We are developing next-generation fast fission power plants called powerhouses. In our differentiated build, own, and operate business model, we plan to sell power in the forms of electricity and heat directly to customers, which we believe can allow for fast-tracked customer adoption. In addition, we are a leader in the nuclear industry in the development of fuel recycling, which can unlock the energy content of used fuel; we also believe this business unit can complement our market position by vertically integrating and securing our fuel supply chain. 
+ 
+ The fast fission technology we are working to commercialize was demonstrated by the Experimental Breeder Reactor-II EBR-II ), a fast fission plant that was operated by the U.S. government for 30 years. Our powerhouse product line, called the Aurora, builds on this legacy of proven and demonstrated technology. Our Aurora powerhouse product line is designed to be inherently safe, to be able to run on fresh or recycled fuel, and to produce 15-50 megawatts electric MWe and with the potential to expand powerhouse size to produce 100 MWe of electricity. Because the Aurora powerhouses are designed to operate by harnessing the power of high-energy, or fast, neutrons, they are expected to be able to tap into the vast energy reserves remaining in existing used nuclear fuel from conventional nuclear power plants, which is currently considered nuclear waste. We estimate there is enough energy in the form of nuclear waste globally to meet the projected U.S. demand for electricity for 100 years with fast fission power plants. 
+ 
+ We have achieved several significant deployment and regulatory milestones for deploying our Aurora powerhouses. Notably, we secured a site use permit from the U.S. Department of Energy DOE for the Idaho National Laboratory INL site and received a fuel award from INL for a commercial Aurora powerhouse in Idaho. Additionally, we have successfully completed the second phase of the thermal hydraulic testing campaign in collaboration with Argonne National Laboratory Argonne ). The DOE and INL have completed the environmental compliance process addressing the DOE requirements for site characterization at our first commercial advanced fission power plant site at the INL. This process, resulting in an Environmental Compliance Permit, marks a milestone as we advance our plans to deliver the first commercial advanced fission power plant in the United States. On September 25, 2024, we announced the finalization of a Memorandum of Agreement MOA with the DOE Idaho Operations Office. This MOA grants Oklo access to conduct site investigations at its preferred site in Idaho, marking a key step toward the next phase of site preparation and construction. 
+ 
+ We announced plans and entered into a land rights agreement for two additional Aurora powerhouses in southern Ohio. Furthermore, we have been tentatively selected to provide power and heat to Eielson Air Force Base. Our robust pipeline of potential customer engagements span a number of industries. We have signed additional non-binding letters of intent with Equinix, Diamondback Energy, and Prometheus Hyperscale (formerly Wyoming Hyperscale), and has received two other letters of intent to provide an additional 750 MWe of energy for data center customers, which could bring our current total deployment of Aurora powerhouses to over 2,100 MWe in capacity - nearly a 200 increase since our business combination announcement in July 2023. The early market 
+ 29 
+
+Table of Contents 
+
+ interest in our solutions exemplifies the potential demand for the size range of the Aurora powerhouse product line and our differentiated business model. Our first Aurora powerhouse is targeted for deployment in 2027. 
+ 
+ In addition to deployment milestones, we have made significant progress in our recycling efforts and in securing fuel. The DOE has reviewed and approved Oklo's Safety Design Strategy (SDS) and the Conceptual Safety Design Report for Oklo's Aurora Fuel Fabrication Facility at INL, key milestones as Oklo advances toward its goal of utilizing recovered nuclear material to fuel its first commercial Aurora powerhouse. We successfully completed the first end-to-end demonstration of the key stages of our advanced fuel recycling process, in collaboration with Argonne and INL. This marks a significant step forward in scaling up fuel recycling capabilities and deploying a commercial-scale recycling facility. 
+ 
+ Moreover, we have previously formed a non-binding strategic partnership with Atomic Alchemy. This partnership aims to combine Oklo s expertise in building and operating fast reactors and fuel recycling with Atomic Alchemy s expertise in isotope production. Together, we aim to meet the increasing demands for isotopes in medical, energy, industry, and science applications. 
+ 
+ Our Business Model 
+ Our primary product will be the energy produced from our Aurora powerhouses once operational. Our planned business model is to sell the energy to customers via power purchase agreements PPAs ), as opposed to selling our powerhouse designs. This business model allows for recurring revenue, the opportunity to capture profitability upon improved operational efficiency, and enables novel project financing structures. This business model sets us apart from the traditional nuclear power industry, other companies in the advanced fission industry, and other larger scale energy types such as natural gas. Selling power via PPAs is a common practice within the renewable energy and utilities sectors and indicates that this business model could be feasible for power plants within the size range targeted by our Aurora product line (i.e., starting with 15 MWe and 50 MWe, and ranging upward to anticipated sizes of 100 MWe). 
+ The traditional nuclear power industry comprises developers of large (ranging from approximately 600 MWe to over 1,000 MWe) light water reactors that sell or license their reactor designs to large utilities that then construct and operate the nuclear power plant. The developer s focus on regulatory approval of the design may lock in certain lifecycle regulatory costs that are realized by the owner-operator during construction and operations. As a result, lifecycle cost implications are generally not addressed cohesively between the developer and the owner-operator, and the regulatory strategy does not holistically implement the lifecycle benefits of the technology s inherent safety characteristics. To date, the advanced fission industry is largely following the historical blueprint of developers seeking design certifications or approvals, and utilities bearing the future burden of licensing for construction and operations. While there are a number of advanced reactor designers developing smaller sized reactors than those traditionally used in the nuclear power industry, most of these developers are generally pursuing regulatory approval of groupings of these smaller reactors as part of singular larger plants, sizes of 200 MWe and up to 1,000 MWe. 
+ In contrast, we plan to be the designer, builder, owner, and operator of our powerhouses and plan to focus on small-scale powerhouses (15 MWe, 50 MWe and up to 100 MWe). As a result, we have an incentive to relentlessly focus on the full lifecycle of a safe, well-maintained, cost-effective powerhouse and holistically implement the benefits of an inherently safe, simple design. We expect this approach to enable us to reduce and manage lifecycle regulatory and operating costs in an integrated fashion, as opposed to the historical model used in the nuclear power industry that divides the incentives and responsibilities between the developer and the utility. 
+ Selling electricity under PPAs follows an established revenue model in global power markets. While this model is more typically used for renewable energy solutions, we believe it is a compelling model for us because of the relatively small size and the lower expected capital costs of our powerhouses, when compared with other nuclear power plants. In addition, our model is designed to generate recurring revenue in a way that the traditional licensing model does not. For example, in the traditional technology licensing model, after the sale of the design, recurring revenue is dependent upon the sale of service contracts, including fuel services, which may result in prices being undercut by intermediaries. We expect our powerhouses to be profitable from the first year of operation due to our anticipated favorable unit economics. We also believe this approach will drive unit growth and allow us to ultimately launch higher output versions of our powerhouses. 
+ 30 
+
+Table of Contents 
+
+ We believe that our potential customers want to buy power, rather than own or operate power plants, and will provide affordable solutions that meet their environmental and operational goals. We plan to further accelerate customer adoption by offering minimal to potentially zero upfront costs and quick delivery times. With non-binding letters of intent from potential customers for over 2,100 MWe, we believe our powerhouses are an ideal fit for target markets in decentralized use cases, such as data centers, national defense, factories, industrial customers, off-grid and rural customers and utilities. 
+ In addition to selling power under PPAs, we believe we have an embedded opportunity to enhance our mission with our advanced nuclear fuel recycling technology. We are actively developing nuclear fuel recycling capabilities with the goal of deploying a commercial-scale fuel recycling facility in the United States by the 2030s. Used nuclear fuel waste still contains more than 90 of its energy content, and we believe there is enough energy in the form of used nuclear fuel globally to power the expected electrical needs in the United States for 100 years with fast fission power plants. According to the DOE, more than 90,000 metric tons of used nuclear fuel waste have been generated since 1950, and an additional 2,000 metric tons are generated every year. Currently, other countries recycle used nuclear fuel waste, but the United States does not, and there is an enormous opportunity to do so. Our reactors are specifically designed to run on either fresh or recycled nuclear fuel, and nuclear fuel recycling could provide future margin uplift for our power sales business, as well as the potential for new revenue streams. 
+ 
+ Recent Developments 
+ Atomic Alchemy Acquisition 
+ 
+ On November 7, 2024, the Company entered into a term sheet (the Term Sheet with Atomic Alchemy, whereby Atomic Alchemy has agreed to negotiate exclusively through a certain date, pursuant to an exclusivity agreement dated September 30, 2024 in connection with the proposed acquisition of Atomic Alchemy. The Term Sheet provides for the Company being in a position to execute a definitive agreement for a proposed 25 million all-stock transaction, subject to customary due diligence. 
+ 
+ Business Combination 
+ 
+ On May 9, 2024, we consummated a business combination pursuant to an Agreement and Plan of Merger and Reorganization dated July 11, 2023 (as amended, modified, supplemented or waived, the Merger Agreement ), by and among us, AltC Acquisition Corp., a Delaware corporation AltC and AltC Merger Sub, Inc., a Delaware corporation and a direct, wholly owned subsidiary of AltC Merger Sub ). Pursuant to the terms of the Merger Agreement, Merger Sub merged with and into Oklo Inc., with Oklo Inc. surviving the merger as a wholly owned subsidiary of AltC (following the merger Oklo Inc. changed its name to Oklo Technologies, Inc. and herein after referred to as Legacy Oklo (the Merger and, together with the other transactions contemplated by the Merger Agreement, the Business Combination ). Upon consummation of the Business Combination (the Closing ), AltC changed its name to Oklo Inc. 
+ 
+ Our Class A common stock commenced trading on the NYSE under the symbol OKLO on May 10, 2024. 
+ 
+ In connection with the Business Combination, we received proceeds of 276,209,768, and after transaction costs and advisor fees, we received net proceeds of 260,859,623. Further details related to the Business Combination are provided in Note 3 in our accompanying condensed consolidated financial statements. 
+ 
+ In connection with the Business Combination, the following shares of Class A common stock are outstanding: (i) 1,450,000 private placement shares held by the Sponsor subject to certain provisions under the Sponsor Agreement, (ii) 12,500,000 Founder Shares held by the Sponsor subject to certain vesting conditions under the Sponsor Agreement (between November 5, 2024 and November 13, 2024 the Founder Shares vesting conditions were met), and (iii) 15,000,000 shares were reserved for the potential future issuance of the Earnout Shares (between November 12, 2024 and November 13, 2024, the Earnout Shares vesting conditions were met), which includes certain shares held by Legacy Oklo vested options holders for the contingent right to receive a pro rata share of the Earnout Shares at Closing. Further details related to the Business Combination and Vesting of Earnout Shares are provided in Note 3 and Note 15, respectively, in our accompanying condensed consolidated financial statements. 
+ 
+ 31 
+
+Table of Contents 
+
+ Key Factors Affecting Our Performance 
+ 
+ We believe that our future success and financial performance depend on a number of factors that present significant opportunities for our business, but also pose risks and challenges. As a result, we are subject to continuing risks and uncertainties. For additional information, see the sections titled Risk Factors included in the Form S-1 and in this Quarterly Report. 
+ 
+ Product Development Plan 
+ 
+ We plan to leverage the next-generation fast fission powerhouses that we are developing in order to sell power to a variety of potential customers, including data centers, national defense, factories, industrial customers, off-grid and rural customers and utilities. 
+ 
+ Commercial deployment of any advanced fission power plant requires obtaining regulatory approvals for design, construction, and operation. Our regulatory strategy has been focused on a custom combined license application. We submitted an initial custom combined license application with the Nuclear Regulatory Commission NRC in March 2020, which was denied without prejudice in 2022, and we are working toward submitting an updated custom combined license application for review. In March 2020, we became the first advanced fission company to submit a custom combined license application, and we remain the only such company to do so. It is uncertain when, if at all, we will obtain regulatory approvals for the design, construction, and operation of any of our powerhouses. Our financial condition and results of operation are likely to be materially and adversely affected if we do not obtain such approvals and to the extent this process takes longer or costs more than we expect. 
+ 
+ Additionally, we plan to be the designer, builder, owner, and operator of our powerhouses and plan to focus on small-scale powerhouses (15 MWe, 50 MWe, and exploring 100+ MWe designs). As a result, we have an incentive to relentlessly focus on the full lifecycle of a safe, well-maintained, cost-effective powerhouse and holistically implement the benefits of an inherently safe, simple design. We expect this approach to enable us to reduce and manage lifecycle regulatory and operating costs in an integrated fashion, as opposed to the historical model used in the nuclear power industry that divides the incentives and responsibilities between the developer and the utility. However, this model exposes us directly to the costs of building, owning, and operating our powerhouses. Our cost projections are heavily dependent upon fuel and raw materials (such as steel), equipment and technical and construction service providers (such as engineering, procurement, and construction firms). The global supply chain, on which we will rely, has been significantly impacted in recent years by inflation, instability in the banking sector, war and other hostilities, and other economic uncertainties, resulting in potential significant delays and cost fluctuations. Similar developments in the future may impact our performance from both a deployment and cost perspective. 
+ 
+ Plan of Operations 
+ 
+ To further our target of deploying our first powerhouse in 2027, during 2024, we have been engaged in the following key initiatives: 
+ 
+ Progressing regulatory approval with the NRC, including a Pre-Application Readiness Assessment for our next Combined Operating Licensing Agreement, expected to begin in the first half of 2025. 
+ 
+ Initiating regulatory pre-application related activities with the NRC for licensing of commercial fuel fabrication. 
+ 
+ Continuing work related to fuel recycling, such as pre-application regulatory alignment efforts with the NRC, research and development, both independently and in conjunction with the DOE, focused on facility and process design. 
+ 
+ Working with INL on fuel manufacturing, including preparation of documentation for regulatory review and finalization of the facility design. 
+ 
+ Advancing partnerships related to fuel enrichment, fuel fabrication, and other key supply chain elements, as well as other procurement activities to expand our fuel sourcing supply chain. 
+ 32 
+
+Table of Contents 
+
+Executing on key non-fuel elements of our supply chain including, steam turbine generator sourcing, steel, and other construction inputs. 
+ 
+ Progressing engineering procurement and construction negotiations for construction of Aurora powerhouses. 
+ 
+ Initiating site preparation for announced facilities at the INL, and Piketon, Ohio as well as other announced projects with Equinix, Diamondback Energy, Prometheus Hyperscale, and projects yet to be announced but where we have initiated commercial discussions. 
+ 
+ Negotiating and executing additional letters of intent to purchase power through power purchase agreements with multiple potential customers. 
+ 
+ Negotiating and trading term sheets and binding power purchases agreements with customers who have previously signed nonbinding agreements such as letters of intent to purchase power. 
+ 
+ Continuing to hire additional personnel and implement processes and systems necessary to deliver our business strategy. 
+ 
+ For the nine months ended September 30, 2024 and the year ended December 31, 2023, our total operating expenses were 37,422,453 and 18,636,017, respectively. We expect our total operating expenses for 2024 to be in the ran ge of 40,000,000 to 50,000,000. 
+ 
+ Nuclear Energy Industry 
+ 
+ The nuclear energy industry operates in a politically sensitive environment, and the successful execution of our business model is dependent upon public support for nuclear power, in general, in the U.S. and other countries. Recently, the U.S. government has indicated through bipartisan action that it recognizes the importance of nuclear power in meeting the United States growing energy needs. However, the current political environment in the U.S. could change at any time, including in response to events and circumstances over which we exercise no control and the perception of such events and circumstances. Additionally, opposition by third parties could delay the licensing that our business model requires. As a result, our performance will depend in part on factors generally affecting the views and policies regulating nuclear energy industry, which we cannot predict over the long term. 
+
+Key Components of Results of Operations 
+ 
+ Operating Expenses 
+ 
+ Our operating expenses consist of research and development and general and administrative expenses. 
+ 
+ Research and Development 
+ 
+ Research and development R D expenses represent costs incurred to develop our technology. These costs consist of personnel costs, including salaries, employee benefit costs, bonuses and stock-based compensation expenses, software costs, computing costs, hardware and experimental supplies, and expenses for outside engineering contractors for analytical work and consulting costs. We expense all R D costs in the periods in which they are incurred; however, occasionally, the reimbursement would be received in the following period. 
+ 
+ We have several recycling technology projects awarded as R D cost-share projects (the cost-share projects through the Department of Energy s Advanced Research Projects Agency Energy ARPA-E and the DOE Technology Commercialization Fund TCF ). The ARPA-E and TCF projects do not involve any funds being reimbursed to us. A budget was initially approved for each of these cost-share projects, and as certain expenses and capital expenditures for equipment are incurred, such expenses or capital expenditures are reported to ARPA-E and then a pre-determined percentage of such expenses or capital expenditures are reimbursed by ARPA-E back to us. The expenses are categorized as R D expenses, which are then partially reimbursed. 
+ 
+ General and Administrative 
+ 33 
+
+Table of Contents 
+
+Our general and administrative G A expenses primarily comprise various components not related to R D, such as personnel costs, regulatory fees, promotion expenses, costs associated with maintaining and filing intellectual property, meals and entertainment expenses, travel expenses, and other expenditures related to external professional services including legal, engineering, marketing, human resources, audit, and accounting services. Personnel costs include salaries, benefits, and stock-based compensation expenses. As we continue to grow and expand our workforce and operations, and in light of the increased costs associated with operating as a public company, we anticipate that our G A expenses will rise for the foreseeable future. 
+ 
+ Other Income (Loss) 
+ 
+ Other income (loss) consists of interest and dividend income and the remeasurement gains and losses related to simple agreements for future equity SAFEs ). 
+ 
+ Income Taxes 
+ 
+ Income taxes primarily consist of income taxes in certain jurisdictions in which we conduct business. We have a full valuation allowance for deferred tax assets, including net operating loss carryforwards and tax credits related primarily to research and development. Prior to the Business Combination, because we are pre-revenue, income taxes have been minimal. After the Business Combination, as a result of our interest and dividend income from our investments, federal and state income taxes may be incurred, after available tax deductions, including available carryovers. 
+
+Liquidity and Capital Resources 
+ 
+ As of September 30, 2024, our cash, cash equivalents and marketable debt securities were 288,470,604, which includes the proceeds received from the Business Combination. We continue to incur significant operating losses. For the nine months ended September 30, 2024, we had a net loss of 63,327,233, loss from operations of 37,422,453, and net cash used in operating activities of 24,920,638. As of September 30, 2024, we had accumulated deficits of 124,820,677. Management expects that significant on-going operating expenditures will be necessary to successfully implement our business plan and develop our powerhouses. 
+ 
+ We will utilize our existing cash, cash equivalents and marketable debt securities to fund our powerhouses, operations and growth plans. We believe that, as a result of the Business Combination, our existing cash, cash equivalents and marketable debt securities will be sufficient to fund our operations for the one-year period following the issuance date of the accompanying condensed consolidated financial statements as of and for the three and nine months ended September 30, 2024. 
+ 
+ Off-Balance Sheet Arrangements 
+ 
+ We do not have any off-balance sheet arrangements. 
+ Commitments and Contractual Obligations 
+ 
+ We do not have any material commitments or contractual obligations, other than with respect to the leases under which we lease real estate for office space. These leases are classified as operating leases and expire on December 1, 2026. See Note 5 in our accompanying condensed consolidated financial statements for more information regarding our commitments and contractual obligations. 
+ 
+ Cash Flows Comparison 
+ 
+ The following table sets forth our cash flows for the period indicated. 
+ 
+ Comparison for the Nine Months Ended September 30, 2024 and 2023 
+ 
+ 34 
+
+Table of Contents 
+
+ Nine Months Ended September 30, 2024 2023 Net cash used in operating activities (24,920,638) (10,373,637) Net cash used in investing activities (193,971,237) (60,087) Net cash provided by financing activities 300,824,041 10,790,117 Net increase in cash and cash equivalents 81,932,166 356,393 Cash and cash equivalents, end of period 91,799,754 10,009,921 
+ 
+ Operating Activities 
+ 
+ Net cash used in operating activities of 24,920,638 during the nine months ended September 30, 2024 was primarily attributable to our net loss of 63,327,233, consisting of a 2,183,419 increase in our working capital and partially offset by 40,590,014 in noncash adjustments. Noncash adjustments consisted of 180,420 in depreciation and amortization, 29,919,959 in loss upon change in fair value of SAFEs, 10,750,780 in share-based compensation, and 261,145 interest income reflected upon accretion of discount on marketable securities. The 2,183,419 increase in working capital was primarily due to a 833,202 use of cash for prepaid and other current assets, a 1,924,326 use of cash for accounts payable and a 89,639 use of cash in other assets, partially offset by a 33,409 increase for the operating lease liabilities and a 630,339 increase for accrued expenses and other. Our cash used in operating activities of 28,674,672, consisted primarily of 12,925,424 of cash paid for payroll and employee benefits of personnel and 15,749,248 of cash paid for professional services (related to consulting, legal and accounting fees), occupancy costs, travel, entertainment and other expenses. 
+ 
+ Net cash used in operating activities of 10,373,637 during the nine months ended September 30, 2023 was primarily attributable to our net loss of 17,851,758, partially offset by 6,758,710 in noncash adjustments and a 719,411 decrease in our working capital. Noncash adjustments consisted of 36,514 in depreciation and amortization, 6,578,000 in loss upon change in fair value of SAFEs, and 144,196 in share-based compensation. The 719,411 decrease in working capital was primarily due to a 81,974 decrease for prepaid and other assets, a 25,909 decrease in other assets, a 203,972 increase for accounts payable and a 423,118 increase for accrued expenses and other, partially offset by a 15,562 use of cash for the operating lease liabilities. Our cash used in operating activities of 10,452,938 consisted primarily of 6,698,063 of cash paid for payroll and employee benefits of personnel and 3,754,875 of cash paid for professional services (related to legal and accounting fees), occupancy costs, travel, entertainment and other expenses. 
+ 
+ Investing Activities 
+ 
+ Net cash used in investing activities during the nine months ended September 30, 2024 was due primarily to 282,619 use of cash on the purchase of discretionary property and equipment, 261,081,678 use of cash on the purchase of marketable securities, partially offset by 67,393,060 of proceeds from redemptions of marketable securities. 
+ 
+ Net cash used in investing activities for the nine months ended September 30, 2023 was due to the purchase of property and equipment of 60,087. 
+ 
+ Financing Activities 
+ 
+ Net cash provided by financing activities for the nine months ended September 30, 2024 consisted of the proceeds from recapitalization of 276,209,768, proceeds from right of first refusal liability of 25,000,000, proceeds from the issuance of SAFEs of 10,232,000 and proceeds from the exercise of stock options of 439,922, partially offset by payment of deferred issuance costs of 11,057,649. 
+ 
+ Net cash provided by financing activities for the nine months ended September 30, 2023 consisted of the proceeds from the issuance of SAFEs of 12,315,000, as well as proceeds from the exercise of stock options of 38,675, partially offset by payment of deferred issuance costs of 1,563,558. 
+ 35 
+
+Table of Contents 
+
+Results of Operations 
+ The following tables set forth our results of operations for the periods presented. The period-to-period comparison of financial results is not necessarily indicative of future results. 
+ 
+ Comparison of the Three Months Ended September 30, 2024 and 2023 
+ The following table sets forth our historical results for the periods indicated, and the changes between periods: 
+ Three Months Ended September 30, 2024 versus 2023 
+ 2024 
+ 2023 
+ Change Change Operating expenses Research and development 5,049,070 1,707,457 3,341,613 195.7 General and administrative 7,232,018 2,956,338 4,275,680 144.6 Total operating expenses 12,281,088 4,663,795 7,617,293 163.3 Loss from operations (12,281,088) (4,663,795) (7,617,293) 163.3 Other income (loss) Change in fair value of simple agreements for future equity (4,083,000) 4,083,000 NM Interest and dividend income 2,546,886 78,839 2,468,047 NM Total other income (loss) 2,546,886 (4,004,161) 6,551,047 (163.6 Loss before income taxes (9,734,202) (8,667,956) (1,066,246) 12.3 Income taxes (224,963) (224,963) NM Net loss (9,959,165) (8,667,956) (1,291,209) 14.9 
+ 
+ Percentage changes that are considered not meaningful are denoted with NM. 
+ 
+ Research and Development 
+ The following table sets forth R D expenses by category: 
+ Three Months Ended September 30, 2024 versus 2023 
+ 2024 2023 Change Change Payroll and employee benefits of research and development personnel 3,152,600 1,427,010 1,725,590 120.9 Stock-based compensation 398,153 34,056 364,097 NM Professional services 664,333 664,333 NM Travel, entertainment and other expenses 208,438 47,569 160,869 338.2 Other 625,546 198,822 426,724 214.6 Total research and development expenses 5,049,070 1,707,457 3,341,613 195.7 
+ 
+ R D expenses increased by 3,341,613, or 195.7 , for the three months ended September 30, 2024, compared to the three months ended September 30, 2023. The increase was primarily due to an increase of 1,725,590 in payroll and employee benefits of research and development personnel attributable to an increase in the weighted-average headcount of approximately 86.5 and an increase in salary over the prior period, an increase of 364,097 in stock-based compensation expenses, an increase of 664,333 in professional services, an increase of 160,869 in travel, entertainment and other expenses, and an increase of 426,724 in other expenses. 
+ 36 
+
+Table of Contents 
+
+ General and Administrative 
+ The following table sets forth G A expenses by category: 
+ Three Months Ended September 30, 2024 versus 2023 2024 2023 Change Change Payroll and employee benefits of general corporate functions and finance personnel 1,940,411 1,259,957 680,454 54.0 Stock-based compensation 1,228,211 13,347 1,214,864 NM Regulatory fees 55,600 141,165 (85,565) (60.6 Professional services 3,016,261 1,102,738 1,913,523 173.5 Travel, entertainment and other 991,535 439,131 552,404 125.8 Total general and administrative expenses 7,232,018 2,956,338 4,275,680 144.6 
+ 
+ G A expenses increased by 4,275,680, or 144.6 for the three months ended September 30, 2024, compared to the three months ended September 30, 2023. The increase was primarily due to an increase of 680,454 in payroll and employee benefits of general corporate functions and finance personnel attributable to an increase in the weighted-average headcount of approximately 64.4 and average salary over the prior period, an increase of 1,214,864 in stock-based compensation expenses, an increase of 1,913,523 in professional services primarily due to an increase in legal and accounting fees, and an increase of 552,404 related to travel, entertainment and other expenses, partially offset by a decrease of 85,565 in regulatory fees. 
+ 
+ Other Income (Loss) 
+ The following table sets forth other income (loss): 
+ 
+ Three Months Ended September 30, 2024 versus 2023 2024 2023 Change Change Change in fair value of SAFEs (4,083,000) 4,083,000 NM Interest and dividend income 2,546,886 78,839 2,468,047 NM Total other income (loss) 2,546,886 (4,004,161) 6,551,047 (163.6 
+ 
+ The change in fair value of SAFEs increased by 4,083,000 for the three months ended September 30, 2024, compared to the three months ended September 30, 2023. The increase was due to the removal of SAFE notes at the time of the Business Combination, resulting in no fair value impact of SAFEs for the three months ended September 30, 2024. 
+ 
+ Interest and dividend income increased by 2,468,047 for the three months ended September 30, 2024, compared to the three months ended September 30, 2023. The increase was primarily due to an increase in interest and dividend income related to an increase in our cash, cash equivalents and marketable debt securities balances from the prior year period. 
+
+Comparison of the Nine Months Ended September 30, 2024 and 2023 
+ 
+ The following table sets forth our historical results for the periods indicated, and the changes between periods: 
+ 37 
+
+Table of Contents 
+
+ Nine Months Ended September 30, 2024 versus 2023 2024 2023 Change Change Operating expenses Research and development 19,428,854 5,457,176 13,971,678 256.0 General and administrative 17,993,599 5,895,883 12,097,716 205.2 Total operating expenses 37,422,453 11,353,059 26,069,394 229.6 Loss from operations (37,422,453) (11,353,059) (26,069,394) 229.6 Other loss Change in fair value of simple agreement for future equity (29,919,959) (6,578,000) (23,341,959) 354.8 Interest and dividend income 4,403,763 79,301 4,324,462 NM Total other loss (25,516,196) (6,498,699) (19,017,497) 292.6 Loss before income taxes (62,938,649) (17,851,758) (45,086,891) 252.6 Income taxes (388,584) (388,584) NM Net loss (63,327,233) (17,851,758) (45,475,475) 254.7 
+ 
+ Percentage changes that are considered not meaningful are denoted with NM. 
+ 
+ Research and Development 
+ 
+ The following table sets forth R D expenses by category: 
+ 
+ Nine Months Ended September 30, 2024 versus 2023 2024 2023 Change Change Payroll and employee benefits of research and development personnel 8,369,974 4,143,443 4,226,531 102.0 Stock-based compensation 7,293,541 101,055 7,192,486 NM Professional services 1,161,814 4,386 1,157,428 NM Travel, entertainment and other expenses 716,369 304,847 411,522 135.0 Other 1,887,156 903,445 983,711 108.9 Total research and development expenses 19,428,854 5,457,176 13,971,678 256.0 
+ 
+ R D expenses increased by 13,971,678, or 256.0 , for the nine months ended September 30, 2024, compared to the nine months ended September 30, 2023. The increase was primarily due to an increase of 4,226,531 in payroll and employee benefits of research and development personnel attributable to an increase in the weighted-average headcount of approximately 74.6 and an increase in salary over the prior period, an increase of 7,192,486 in stock-based compensation expenses (primarily from 6,129,200 incremental costs of the modification of Legacy Oklo s awards for the vested options holders contingent right to receive a pro rata share of the Earnout Shares recorded at the Closing), and an increase of 1,157,428 in professional services, an increase of 411,522 in travel, entertainment and other expenses, and an increase of 983,711 in other expenses. 
+ 
+ General and Administrative 
+ 
+ The following table sets forth General and Administrative expenses by category: 
+ 
+ Nine Months Ended September 30, 2024 versus 2023 2024 2023 Change Change Payroll and employee benefits of general corporate functions and finance personnel 4,853,566 2,705,464 2,148,102 79.4 Stock-based compensation 3,457,239 43,141 3,414,098 NM Regulatory fees 296,282 421,634 (125,352) (29.7) Professional services 7,033,784 1,841,262 5,192,522 282.0 Travel, entertainment and other 2,352,728 884,382 1,468,346 166.0 Total general and administrative expenses 17,993,599 5,895,883 12,097,716 205.2 
+ 38 
+
+Table of Contents 
+
+G A expenses increased by 12,097,716, or 205.2 for the nine months ended September 30, 2024, compared to the nine months ended September 30, 2023. The increase was primarily due to an increase of 2,148,102 in payroll and employee benefits of general corporate functions and finance personnel attributable to an increase in the weighted-average headcount of approximately 54.8 and average salary over the prior period, an increase of 3,414,098 in stock-based compensation expenses (primarily from 1,655,000 incremental costs of the modification of Legacy Oklo s awards for the vested options holders contingent right to receive a pro rata share of the Earnout Shares recorded at the Closing), an increase of 5,192,522 in professional services primarily due to an increase in legal and accounting fees, and an increase of 1,468,346 related to travel, entertainment and other expenses, partially offset by a decrease of 125,352 in regulatory fees. 
+ 
+ Other Income (Loss) 
+ 
+ The following table sets forth other income (loss): 
+ 
+ Nine Months Ended September 30, 2024 versus 2023 2024 2023 Change Change Change in fair value of SAFEs (29,919,959) (6,578,000) (23,341,959) 354.8 Interest and dividend income 4,403,763 79,301 4,324,462 NM Total other loss (25,516,196) (6,498,699) (19,017,497) 292.6 
+ 
+ The change in fair value of SAFEs of 29,919,959 for the nine months ended September 30, 2024, represents the remeasurement loss in the fair value related to the SAFEs as compared to the fair value as of December 31, 2023. 
+ 
+ Interest and dividend income increased by 4,324,462 for the nine months ended September 30, 2024, compared to the nine months ended September 30, 2023. The increase was primarily due to an increase in interest and dividend income related to an increase in our cash, cash equivalents and marketable debt securities balances from the prior year period. 
+
+Critical Accounting Estimates 
+ 
+ Our financial statements have been prepared in accordance with U.S. generally accepted accounting principles U.S. GAAP ). In the preparation of these condensed consolidated financial statements, we are required to use judgment in making estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities as of the date of the financial statements, as well as the reported expenses incurred during the reporting periods. On an ongoing basis, we evaluate our estimates and assumptions. Our actual results may differ from these estimates under different assumptions or conditions. 
+ 
+ We consider an accounting judgment, estimate or assumption to be critical when (1) the estimate or assumption is complex in nature or requires a high degree of judgment and (2) the use of different judgments, estimates and assumptions could have a material impact on the condensed consolidated financial statements. See Note 2 in our accompanying condensed consolidated financial statements for a description of our significant accounting policies. 
+ 
+ Accordingly, these are the policies and estimates we believe are the most critical to aid in fully understanding and evaluating our consolidated financial condition and results of operations: 
+ 
+ Deemed Dividend 
+ 
+ We recorded a deemed dividend attributable to the Class A common stockholders for the Earnout Shares and Founder Shares, based on the fair value at Closing of the Business Combination as determined by an independent third-party valuation of fair value using a Monte Carlo simulation with key inputs and assumptions, such as the per share stock price at Closing, term, dividend yield, risk-free rate, and volatility. The determination of the fair value involves certain judgments and estimates, primarily due to the volatility of our stock price and the uncertain timing of earnout conditions. The Monte Carlo simulation method requires assumptions that are inherently subjective, including stock price volatility that was estimated based on industry peer data due to our limited 
+ 39 
+
+Table of Contents 
+
+ trading history, introducing an element of judgment in assessing comparability. The risk-free rate was based on U.S. Treasury rates, selected to match the expected term of the earnout provisions, and a zero-dividend yield was assumed. The expected term was estimated based on management s assessment of when the Earnout Shares and Founder Shares would likely be issued, factoring in potential market conditions and shareholder behavior. Changes in the significant assumptions and estimates could materially impact the valuation and the amounts recorded in the financial statements, affecting our net loss per share attributable to common stockholders. 
+ 
+ For additional information regarding the deemed dividend on the Earnout Shares and Founder Shares, see Note 3, Business Combination , in the accompanying condensed consolidated financial statements. 
+ 
+ Stock-based Compensation 
+ 
+ We account for stock-based compensation by measuring and recognizing expense for all stock-based payments made to employees and non-employees based on the estimated grant-date fair values over each recipient s requisite service period, which is generally the vesting period. We estimate the fair value of stock options granted to employees and non-employees using the Black-Scholes option pricing model. The determination of fair value requires significant judgment and the use of estimates, particularly with regard to Black-Scholes assumptions, such as our Legacy Oklo common stock fair value, stock price volatility, and expected option lives to value stock-based compensation. 
+ 
+ In connection with our Business Combination, we recorded an incremental cost related to the modification of Legacy Oklo s awards that were outstanding at Closing, for the vested option holders contingent right to receive a pro rata share of the Earnout Shares in the future. The incremental costs were based on the fair value of the Earnout Shares, as determined by an independent third-party valuation of fair value using a Monte Carlo simulation with key inputs and assumptions, such as the per share stock price at Closing, term, dividend yield, risk-free rate, and volatility. The determination of the fair value involves certain judgments and estimates as outlined above (refer to Deemed Dividend ). For additional information regarding the impact of incremental costs on the Earnout Shares and Founder Shares, see Note 3, Business Combination , in the accompanying condensed consolidated financial statements. 
+ 
+ Simple Agreements for Future Equity 
+ 
+ We record our Legacy Oklo SAFEs at fair value that require significant inputs not observable in the market, which cause the instrument to be classified as a Level 3 measurement with the fair value hierarchy. The valuation uses probabilities considering pay-offs under various scenarios as follows: (i) an equity financing where the SAFEs will convert into certain preferred stock; (ii) a liquidity event where the SAFE noteholders will have an option to receive either a cash payment equal to the invested amount under such SAFE Note, or a number of shares of common stock equal to the invested amount divided by the liquidity price; and (iii) a dissolution event where the SAFE noteholders will be entitled to receive a portion of the related proceeds equal to the purchase amount. We utilized an independent third-party to determine the fair value of the SAFEs under the Monte Carlo simulation method, which was used to estimate the future market value of our invested capital MVIC at a liquidity event and the expected payment to the SAFE holders at each simulated MVIC value. We believe these assumptions would be made by a market participant in estimating the valuation of the SAFEs. We assess these assumptions and estimates on an on-going basis as additional data impacting the assumptions and estimates are obtained. 
+ 
+ There is substantial judgment in selecting the assumptions which we use to determine the fair value of the SAFEs and other companies could use similar market inputs and experience and arrive at different conclusions with respect to those used to calculate fair value. Using alternative assumptions could cause there to be differences in the resulting fair value. If the fair value were to increase, the amount of loss that would result would also increase. Conversely, if the fair value were to decrease, the amount of expense would decrease. 
+ 
+ Emerging Growth Company Status 
+ 
+ The Company is classified as an emerging growth company EGC ), as defined under the Jumpstart Our Business Startups Act (the JOBS Act ). Therefore, we may take advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not EGCs. We could retain EGC status until December 31, 2026, although circumstances could cause us to lose that status earlier, including if the market value of common stock held by non-affiliates exceeds 700,000,000 as of any June 30 before that time, in which case we would no longer qualify for EGC status as of the following December 31. 
+ 
+ 40 
+
+Table of Contents 
+
+ Further, Section 102(b)(1) of the JOBS Act exempts EGCs from being required to comply with new or revised financial accounting standards until private companies (that is, those that have not had a Securities Act registration statement declared effective or do not have a class of securities registered under the Exchange Act) are required to comply with the new or revised financial accounting standards. The JOBS Act provides that a company can elect to opt out of the extended transition period and comply with the requirements that apply to non-EGCs, but any such election to opt out is irrevocable. We intend to take advantage of the benefits of this extended transition period. 
+ 
+ Recent Accounting Pronouncements 
+ 
+ See Note 1, Summary of Significant Accounting Policies , of the notes to our condensed consolidated financial statements included in Part I, Item 1 of this Quarterly Report for a discussion about Recently Issued and Not Adopted Accounting Standards as of the date of this report. There has been no adoption of any new or recently issued accounting pronouncements. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ Not applicable to a smaller reporting company as defined in Item 10(f)(1) of SEC Regulation S-K. 
+
+Item 4. Controls and Procedures 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ 
+ Our management is responsible for establishing and maintaining a system of disclosure controls and procedures (as defined in Rule13a-15(e) and 15d-15(e) under the Exchange Act) that is designed to ensure that information required to be disclosed by us in the reports we file or submit under the Exchange Act is recorded, processed, summarized, and reported, within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by an issuer in the reports that it files or submits under the Exchange Act is accumulated and communicated to the issuer s management, including its principal executive officer(s) and principal financial officer(s), or persons performing similar functions, as appropriate to allow timely decisions regarding required disclosure. 
+ 
+ In accordance with Exchange Act Rules 13a-15 and 15d-15, an evaluation was completed under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures as of the end of the period covered by this Quarterly Report. Our management, including our Chief Executive Officer and Chief Financial Officer, concluded that our disclosure controls and procedures were effective as of September 30, 2024 in providing reasonable assurance that the information required to be disclosed in our reports filed or submitted under the Exchange Act was recorded, processed, summarized, and reported within the time periods specified in the SEC s rules and forms. 
+ 
+ Changes in Internal Control over Financial Reporting 
+ 
+ In connection with our continued monitoring and maintenance of our control procedures as part of the implementation of Section 404 of the Sarbanes-Oxley Act of 2002, we continue to review, test, and improve the effectiveness of our internal controls. There have not been any changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) that occurred during the quarter ended September 30, 2024, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 
+ Inherent Limitations on the Effectiveness of Controls 
+ 
+ The effectiveness of any system of internal control over financial reporting, including ours, is subject to inherent limitations, including the exercise of judgment in designing, implementing, operating, and evaluating the controls and procedures, and the inability to eliminate misconduct completely. Accordingly, in designing and evaluating the disclosure controls and procedures, management recognizes that any system of internal control over financial reporting, including ours, no matter how well designed and operated, can only provide reasonable, not absolute 
+ 41 
+
+Table of Contents 
+
+ assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints, and that management is required to apply its judgment in evaluating the benefits of possible controls and procedures relative to their costs. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate. We intend to continue to monitor and upgrade our internal controls as necessary or appropriate for our business but cannot assure you that such improvements will be sufficient to provide us with effective internal control over financial reporting. 
+
+42 
+
+Table of Contents 
+
+ PART II OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings 
+ From time to time, we may be subject to claims and litigation arising in the ordinary course of business. We are not currently subject to any pending or threatened legal proceedings that we believe would reasonably be expected to have a material adverse effect on our business, financial condition, results of operations or cash flows. 
+ 
+ Item 1A. Risk Factors 
+ There are numerous factors that affect our business and operating results, many of which are beyond our control. There are no material changes to the risk factors previously disclosed under the Risk Factors section in the Form S-1. 
+ 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ None. 
+ 
+ Item 3. Defaults Upon Senior Securities 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures 
+ Not applicable. 
+ 
+ Item 5. Other Information 
+ During the quarter ended September 30, 2024, no director or officer (as defined in Rule 16a-1(f) under the Exchange Act) of the Company or a Rule 10b5-1 trading agreement or non-Rule 10b5-1 trading agreement, as each term is defined in Item 408 of Regulation S-K. 
+ 43 
+
+Table of Contents 
+
+ Item 6. Exhibits 
+ The exhibits listed below are filed as part of this Quarterly Report on Form 10-Q or are incorporated herein by reference, in each case as indicated below. 
+ EXHIBIT INDEX 
+ Exhibit Number Description 3.1 Second Amended and Restated Certificate of Incorporation (incorporated by reference to Exhibit 3.1 of the Company s Current Report on Form 8-K, filed with the SEC on May 13, 2024). 
+ 3.2 Amended and Restated Bylaws (incorporated by reference to Exhibit 3.2 of the Company s Current Report on Form 8-K, filed with the SEC on May 13, 2024). 
+ 31.1 Certification of Principal Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 31.2 Certification of Principal Financial Office r Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 32.1 Certification of P rincipal Executive Officer and Principal Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101.INS Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document). 
+ 101.SCH Inline XBRL Taxonomy Extension Schema Document. 
+ 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document. 
+ 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document. 
+ 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document. 104 The cover page from the Registrant's Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024, formatted in Inline XBRL (included as Exhibit 101). 
+ Filed herewith. 
+ Furnished herewith. This certification that is furnished herewith is deemed not filed for purposes of Section 18 of the Exchange Act, or otherwise subject to the liability of that section, nor shall it be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act. 
+ 
+ 44 
+
+Table of Contents 
+
+ SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ 
+ Oklo Inc. (Registrant) Date: November 14, 2024 By: /s/ JACOB DEWITTE Jacob DeWitte Chief Executive Officer and Director (Principal Executive Officer) Date: November 14, 2024 By: /s/ R. CRAIG BEALMEAR R. Craig Bealmear Chief Financial Officer (Principal Financial Officer) 
+ 
+ 45 
+
+<EX-31.1>
+ 2
+ ex311to3q202410-q.htm
+ EX-31.1
+
+Document 
+ EXHIBIT 31.1 
+
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER 
+ PURSUANT TO 
+ RULES 13a 14(a) AND 15d 14(a), 
+ AS ADOPTED PURSUANT TO 
+ SECTION 302 OF THE SARBANES OXLEY ACT OF 2002 
+ 
+ I, Jacob DeWitte, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10 Q of Oklo Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a 15(e) and 15d 15(e)) and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (c) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date November 14, 2024 OKLO INC. By s Jacob DeWitte Name Jacob DeWitte Title Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex312to3q202410-q.htm
+ EX-31.2
+
+Document 
+ EXHIBIT 31.2 
+
+ CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER 
+ PURSUANT TO 
+ RULES 13a 14(a) AND 15d 14(a), 
+ AS ADOPTED PURSUANT TO 
+ SECTION 302 OF THE SARBANES OXLEY ACT OF 2002 
+ 
+ I, R. Craig Bealmear, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10 Q of Oklo Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a 15(e) and 15d 15(e)) and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (c) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date November 14, 2024 OKLO INC. By s R. Craig Bealmear Name R. Craig Bealmear Title Chief Financial Officer (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex321to3q202410-q.htm
+ EX-32.1
+
+Document 
+ EXHIBIT 32.1 
+
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER AND PRINCIPAL FINANCIAL OFFICER 
+ PURSUANT TO 
+ 18 U.S.C. SECTION 1350 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report on Form 10-Q of Oklo Inc. (the Company for the quarterly period ended September 30, 2024, as filed with the Securities and Exchange Commission (the Report ), each of Jacob DeWitte, Chief Executive Officer, and R. Craig Bealmear, Chief Financial Officer of the Company certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes Oxley Act of 2002, that, to the best of his knowledge 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date November 14, 2024 OKLO INC. By s Jacob DeWitte Name Jacob DeWitte Title Chief Executive Officer (Principal Executive Officer) 
+ 
+ OKLO INC. By s R. Craig Bealmear Name R. Craig Bealmear Title Chief Financial Officer (Principal Financial Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ oklo-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ oklo-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ oklo-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ oklo-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ oklo-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

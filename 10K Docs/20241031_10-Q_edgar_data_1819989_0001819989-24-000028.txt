@@ -1,0 +1,920 @@
+<Header>
+<FileStats>
+    <FileName>20241031_10-Q_edgar_data_1819989_0001819989-24-000028.txt</FileName>
+    <GrossFileSize>7829627</GrossFileSize>
+    <NetFileSize>119087</NetFileSize>
+    <NonText_DocumentType_Chars>1492440</NonText_DocumentType_Chars>
+    <HTML_Chars>2429473</HTML_Chars>
+    <XBRL_Chars>2050315</XBRL_Chars>
+    <XML_Chars>1605038</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001819989-24-000028.hdr.sgml : 20241031
+<ACCEPTANCE-DATETIME>20241031091120
+ACCESSION NUMBER:		0001819989-24-000028
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		93
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241031
+DATE AS OF CHANGE:		20241031
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Cipher Mining Inc.
+		CENTRAL INDEX KEY:			0001819989
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		IRS NUMBER:				851614529
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39625
+		FILM NUMBER:		241412696
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 VANDERBILT AVENUE
+		STREET 2:		FLOOR 54
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		332-262-2300
+
+	MAIL ADDRESS:	
+		STREET 1:		1 VANDERBILT AVENUE
+		STREET 2:		FLOOR 54
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GOOD WORKS ACQUISITION CORP.
+		DATE OF NAME CHANGE:	20200803
+
+</SEC-Header>
+</Header>
+
+ 0001819989-24-000028.txt : 20241031
+
+10-Q
+ 1
+ cifr-20240930.htm
+ 10-Q
+
+cifr-20240930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, DC 20549 
+ ________________________________________________________________________________________________________________ 
+ FORM 
+ _______________________________________________________________________________________________________________ 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from ________to ________. 
+ Commission File Number: 
+ ________________________________________________________________________________________________________________ 
+ 
+ (Exact Name of Registrant as Specified in its Charter) 
+ ________________________________________________________________________________________________________________ 
+ 
+ (State or other jurisdiction of 
+ incorporation or organization) 
+ (I.R.S. Employer 
+ Identification No.) 
+ , , 
+ , 
+ 
+ (Address of principal executive offices) (Zip Code) 
+ Registrant s telephone number, including area code: ) 
+ ________________________________________________________________________________________________________________ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading 
+ Symbol(s) 
+ Name of each exchange on which registered 
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No o 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No o 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer o Accelerated filer o x Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes o No 
+ As of October 30, 2024, the registrant had shares of Common Stock, 0.001 par value per share, outstanding. 
+
+Table of Contents 
+ Page PART I. 
+ FINANCIAL INFORMATION 
+ 1 
+ Item 1. 
+ Financial Statements (Unaudited) 
+ 1 
+ Condensed Consolidated Balance Sheets 
+ 2 
+ Condensed Consolidated Statements of Operations 
+ 3 
+ Condensed Consolidated Statement of Changes in Stockholder s Equity 
+ 4 
+ Condensed Consolidated Statements of Cash Flows 
+ 6 
+ Notes to Unaudited Condensed Consolidated Financial Statements 
+ 8 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 25 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 34 
+ Item 4. 
+ Controls and Procedures 
+ 34 
+ PART II. 
+ OTHER INFORMATION 
+ 36 
+ Item 1. 
+ Legal Proceedings 
+ 36 
+ Item 1A. 
+ Risk Factors 
+ 36 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 37 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 37 
+ Item 4. 
+ Mine Safety Disclosures 
+ 37 
+ Item 5. 
+ Other Information 
+ 37 
+ Item 6. 
+ Exhibits 
+ 38 
+ Signatures 
+ 39 
+ 
+ i 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ This Quarterly Report on Form 10-Q (the Quarterly Report contains forward-looking statements. We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act of 1933, as amended (the Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ). All statements contained in this Quarterly Report, other than statements of historical fact, including, without limitation, statements about our beliefs and expectations regarding our future results of operations and financial position, planned business model and strategy, timing and likelihood of success, capacity, functionality and timing of operation of data centers, expectations regarding the operations of data centers, potential strategic initiatives, such as joint ventures and partnerships, and management plans and objectives are forward-looking statements. In some cases, you can identify forward-looking statements by terms such as may, will, should, expects, plans, anticipates, could, seeks, intends, targets, projects, contemplates, believes, estimates, forecasts, predicts, potential or continue or the negative of these terms or other similar expressions, although not all forward-looking statements use these words or expressions. The forward-looking statements in this Quarterly Report are only predictions and are largely based on our current expectations and projections about future events and trends that we believe may affect our business, financial condition and results of operations. Forward-looking statements involve known and unknown risks, uncertainties and other important factors that may cause our actual results, performance or achievements to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements, including, but not limited to, the following: 
+ Our business and the markets in which we operate are new and rapidly evolving, which makes it difficult to evaluate our future prospects and the risks and challenges we may encounter. 
+ We have an evolving business model and strategy, and efforts we may make to modify aspects of our business model or engage in various strategic initiatives could cause us to become subject to additional regulatory scrutiny, may require additional capital, and may not be successful or result in intended benefits. 
+ We are exposed to risks related to our ability to successfully source and develop new data centers and we may be unable to complete construction of our currently planned data centers, such as the Black Pearl Facility and the Barber Lake Facility, in a timely and cost-efficient manner. 
+ We may need to raise capital to pursue certain business opportunities and strategic advancements, which may not be available on terms acceptable to us. 
+ We have in the past and may in the future form joint ventures, strategic partnerships and make other investments as part of our growth and business strategy, any of which could negatively affect our operating results, dilute our stockholders ownership, increase our debt or cause us to incur significant expenses. 
+ Any unfavorable global economic, business or political conditions, such as geopolitical tensions, military conflicts, acts of terrorism, natural disasters, pandemics, and similar events could adversely affect our business, financial condition and results of operations. 
+ Our increased focus on high-performance compute ("HPC") hosting opportunities may not be successful and may result in adverse consequences to our business, results of operations and financial condition. 
+ Bitcoin mining and HPC activities are energy-intensive, which may restrict the geographic locations of miners and operations, in particular, to locations with renewable sources of power. 
+ Regulatory changes or actions may restrict the use of bitcoin or HPC activities in a manner that adversely affects our business, prospects or operations, such as restrictions the ability of electricity suppliers to provide electricity to Bitcoin miners or HPC operators, including us, or Bitcoin mining or HPC activities generally. 
+ The further development and acceptance of digital asset networks and other digital assets, which represent a rapidly changing industry, are subject to a variety of factors that are difficult to evaluate. The slowing or stopping of the development or acceptance of digital asset systems may adversely affect an investment in us. 
+ We may face several risks due to disruptions in the crypto asset markets generally and specifically, bitcoin, including but not limited to, the risk from depreciation in our stock price, financing risk, risk of increased losses or impairments in our investments or other assets, risks of legal proceedings and government investigations, and risks from price declines or price volatility of crypto assets generally and specifically, the volatility of bitcoin. 
+ 1 
+
+If we fail to take steps to stay competitive in our industry, such as failing to grow our hashrate, we may be unable to compete, and our results of operations could suffer. 
+ We have concentrated our operations and, thus, are particularly exposed to the performance of the Odessa Facility, and we may be unable to successfully adapt to, comply with and respond to changes in the regulatory environment, market conditions and natural disasters in Texas. 
+ We depend on third parties, including electric grid operators, electric utility providers and manufacturers of certain critical equipment and rely on components and raw materials that may be subject to price fluctuations or shortages, including ASIC chips that have been subject to periods of significant shortage and high innovation pace. 
+ We may be affected by price fluctuations in the wholesale and retail power markets. 
+ We are vulnerable to severe weather conditions and natural disasters, including severe heat, winter weather events, earthquakes, fires, floods, hurricanes, as well as power outages and other industrial incidents or mechanical failures, which could severely disrupt the normal operation of our business, cause damage to the properties where our data centers are located, including damages not covered by insurance, and adversely affect our results of operations. 
+ Data center equipment, including bitcoin miners and other necessary hardware, can be difficult to obtain, subject to supply chain risk, and is subject to malfunction, technological obsolescence and physical degradation. 
+ Our automated processes with respect to curtailment may adversely affect our operations. 
+ Our business is subject to the impact of global market, economic and political conditions that are beyond our control and that could significantly impact our business and make our financial results more volatile. 
+ We maintain our cash and cash equivalents at financial institutions, often in balances that exceed federally insured limits. 
+ Cybersecurity threats, such as cyber-attacks, data breaches, hacking attacks or malware, targeting us or our third-party service providers may disrupt our operations and trigger significant liability for us, which could harm our operating results and financial condition, and damage our reputation or otherwise materially harm our business. 
+ There is a potential that, in the event of a bankruptcy filing by a custodian, bitcoin held in custody could be determined to be property of a bankruptcy estate and we could be considered a general unsecured creditor thereof. 
+ We have identified a material weakness in our internal control over financial reporting which, if not timely remediated, may adversely affect the accuracy and reliability of our future financial statements, and our reputation, business and the price of our common stock, as well as may lead to a loss of investor confidence in us. 
+ The important factors discussed in Part I, Item 1A, Risk Factors in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 filed with the Securities and Exchange Commission (the SEC on March 5, 2024 (the 2023 Form 10-K ), Part II, Item 1A, Risk Factors in our Quarterly Report on Form 10-Q for the quarterly period ended June 30, 2024, filed with the SEC on August 13, 2024, and our other reports filed with the SEC. 
+ The forward-looking statements in this Quarterly Report are based upon information available to us as of the date of this Quarterly Report, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and investors are cautioned not to unduly rely upon these statements. 
+ You should read this Quarterly Report and the documents that we reference in this Quarterly Report and have filed as exhibits to this Quarterly Report with the understanding that our actual future results, performance and achievements may be materially different from what we expect. We qualify all of our forward-looking statements by these cautionary statements. These forward-looking statements speak only as of the date of this Quarterly Report. Except as required by applicable law, we do not plan to publicly update or revise any forward-looking statements contained in this Quarterly Report, whether as a result of any new information, future events or otherwise. 
+ 2 
+
+WHERE YOU CAN FIND MORE INFORMATION 
+ Our corporate website address is https://www.ciphermining.com Corporate Website ). The contents of, or information accessible through, our Corporate Website are not part of this Quarterly Report. 
+ The Company maintains a dedicated investor website at https://investors.ciphermining.com/investors Investors Website which is similarly not part of this Quarterly Report. We make our filings with the SEC, including our Annual Reports on Form 10-K, Quarterly Reports on Form 10 Q, Current Reports on Form 8 K, and all amendments to those reports, available free of charge on our Investors Website as soon as reasonably practicable after we file such reports with, or furnish such reports to, the SEC. 
+ We may use our Investors Website as a distribution channel of material information about the Company including through press releases, investor presentations, sustainability reports, and notices of upcoming events. We intend to utilize our Investors Website as a channel of distribution to reach public investors and as a means of disclosing material non public information for complying with disclosure obligations under Regulation FD. 
+ Any reference to our Corporate Website or Investors Website addresses do not constitute incorporation by reference of the information contained on or available through those websites, and you should not consider such information to be a part of this Quarterly Report or any other filings we make with the SEC. 
+ 3 
+
+PART I - FINANCIAL INFORMATION 
+ 
+ Item 1. Financial Statements 
+
+INDEX TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ Condensed Consolidated Balance Sheets (Unaudited) 
+ 2 
+ Condensed Consolidated Statements of Operations (Unaudited) 
+ 3 
+ Condensed Consolidated Statements of Changes in Stockholders Equity (Deficit) (Unaudited) 
+ 4 
+ Condensed Consolidated Statements of Cash Flows (Unaudited) 
+ 6 
+ Notes to Consolidated Financial Statements 
+ 8 
+ 
+ 1 
+
+CIPHER MINING INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (in thousands, except for share and per share amounts) 
+ (unaudited) 
+ September 30, 2024 December 31, 2023 ASSETS Current assets Cash and cash equivalents Accounts receivable Receivables, related party Prepaid expenses and other current assets Bitcoin Derivative asset Total current assets Restricted cash Property and equipment, net Deposits on equipment Intangible assets, net Investment in equity investees Derivative asset Operating lease right-of-use asset Security deposits Other noncurrent assets Total assets LIABILITIES AND STOCKHOLDERS EQUITY Current liabilities Accounts payable Accounts payable, related party Accrued expenses and other current liabilities Finance lease liability, current portion Operating lease liability, current portion Warrant liability Total current liabilities Asset retirement obligation Finance lease liability Operating lease liability Deferred tax liability Total liabilities Commitments and contingencies Note 13 
+ par value; shares authorized, issued and outstanding as of September 30, 2024, and December 31, 2023 
+ Common stock, par value, shares authorized, and shares issued as of September 30, 2024 and December 31, 2023, respectively, and and shares outstanding as of September 30, 2024, and December 31, 2023, respectively 
+ Additional paid-in capital Accumulated deficit ) ) Treasury stock, at par, and shares at September 30, 2024 and December 31, 2023, respectively 
+ ) ) Total stockholders equity Total liabilities and stockholders equity 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 2 
+
+CIPHER MINING INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (in thousands, except for share and per share amounts) 
+ (unaudited) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenue - bitcoin mining Costs and operating expenses (income) Cost of revenue Compensation and benefits General and administrative Depreciation and amortization Change in fair value of derivative asset ) ) Power sales ) ) ) ) Equity in (income) losses of equity investees ) ) Losses (gains) on fair value of bitcoin ) ) Other gains ) ) Total costs and operating expenses Operating loss ) ) ) ) Other income (expense) Interest income Interest expense ) ) ) ) Change in fair value of warrant liability ) Other expense ) ) ) ) Total other income (expense) ) ) Loss before taxes ) ) ) ) Current income tax expense ) ) ) ) Deferred income tax benefit (expense) ) Total income tax benefit (expense) ) Net loss ) ) ) ) Loss per share - basic and diluted Weighted average shares outstanding - basic Weighted average shares outstanding - diluted 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 3 
+
+CIPHER MINING INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY (DEFICIT) 
+ (in thousands, except for share amounts) 
+ (unaudited) 
+ 
+ Three Months Ended September 30, 2024 
+ 
+ Common Stock Additional Paid-in Capital Accumulated Deficit 
+ Treasury Stock 
+ Total Stockholders Equity Shares Amount Shares 
+ Amount 
+ Balance as of June 30, 2024 ) ) ) Issuance of common shares, net of offering costs - At-the-market offering - - - Delivery of common stock underlying restricted stock units, net of shares settled for tax withholding settlement ) - ) ) ) Share-based compensation - - - - - Net loss - - - ) - - ) Balance as of September 30, 2024 ) ) ) 
+ 
+ Three Months Ended September 30, 2023 
+ 
+ Common Stock 
+ Additional 
+ Paid-in Capital 
+ Accumulated Deficit 
+ Treasury Stock 
+ Total Stockholders Equity Shares 
+ Amount 
+ Shares 
+ Amount 
+ Balance as of June 30, 2023 ) ) ) Issuance of common shares, net of offering costs - At-the-market offering - - - Delivery of common stock underlying restricted stock units, net of shares settled for tax withholding settlement ) - ) ) ) Share-based compensation - - - - Net loss - - - ) - - ) Balance as of September 30, 2023 ) ) ) 
+
+4 
+
+CIPHER MINING INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY (DEFICIT) 
+ (in thousands, except for share amounts) 
+ (unaudited) 
+ 
+ Nine Months Ended September 30, 2024 
+ Common Stock Additional Paid-in Capital Accumulated Deficit 
+ Treasury Stock 
+ Total Stockholders Equity Shares Amount Shares 
+ Amount 
+ Balance as of December 31, 2023 ) ) ) Issuance of common shares, net of offering costs - At-the-market offering - - - Delivery of common stock underlying restricted stock units, net of shares settled for tax withholding settlement ) - ) ) ) Share-based compensation - - - - - Net loss - - - ) - - ) Balance as of September 30, 2024 ) ) ) 
+ 
+ Nine Months Ended September 30, 2023 
+ Common Stock 
+ Additional 
+ Paid-in Capital 
+ Accumulated Deficit 
+ Treasury Stock 
+ Total Stockholders Equity Shares 
+ Amount 
+ Shares 
+ Amount 
+ Balance as of December 31, 2022 ) ) ) Cumulative effect upon adoption of ASU 2023-08 - - - - - Issuance of common shares, net of offering costs - At-the-market offering - - - Delivery of common stock underlying restricted stock units, net of shares settled for tax withholding settlement ) - ) ) ) Share-based compensation - - - - Net loss - - - ) - - ) Balance as of September 30, 2023 ) ) ) 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 5 
+
+CIPHER MINING INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (in thousands) 
+ (unaudited) 
+ Nine Months Ended September 30, 2024 2023 Cash flows from operating activities Net loss ) ) Adjustments to reconcile net loss to net cash used in operating activities: Depreciation Amortization of intangible assets Amortization of operating right-of-use asset Share-based compensation Equity in losses (gains) of equity investees ) Non-cash lease expense Other ) Deferred income taxes ) Bitcoin received as payment for services ) ) Change in fair value of derivative asset ) Change in fair value of warrant liability ) Gains on fair value of bitcoin ) ) Changes in assets and liabilities: Accounts receivable ) Receivables, related party ) Prepaid expenses and other current assets Security deposits Other non-current assets ) Accounts payable Accounts payable, related party ) Accrued expenses and other current liabilities Lease liabilities ) Net cash used in operating activities ) ) Cash flows from investing activities Proceeds from sale of bitcoin Deposits on equipment ) ) Purchases of property and equipment ) ) Purchases and development of software ) Purchase of strategic contracts ) Capital distributions from equity investees Investment in equity investees ) ) Prepayments on financing lease ) Net cash (used in) provided by investing activities ) Cash flows from financing activities Proceeds from the issuance of common stock Offering costs paid for the issuance of common stock ) ) Repurchase of common shares to pay employee withholding taxes ) ) Principal payments on financing lease ) ) Net cash provided by (used in) financing activities ) Net decrease in cash, cash equivalents, and restricted cash ) ) Cash, cash equivalents, and restricted cash, beginning of the period Cash and cash equivalents, and restricted cash, end of the period 
+ 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements 
+ 
+ 6 
+
+CIPHER MINING INC. 
+ CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS - CONTINUED 
+ (in thousands) 
+ (unaudited) 
+ 
+ Nine Months Ended September 30, 2024 2023 Supplemental disclosure of noncash investing and financing activities Reclassification of deposits on equipment to property and equipment Property and equipment purchases in accounts payable and accrued expenses Bitcoin received from equity investees Settlement of related party payable related to master services and supply agreement Right-of-use asset obtained in exchange for finance lease liability Sales tax accrual on machine purchases Equity method investment acquired for non-cash consideration Finance lease cost in accrued expenses 
+ 
+ The following table provides a reconciliation of Cash and cash equivalents together with Restricted cash as reported within the Condensed Consolidated Balance Sheets to the sum of the same such amounts shown in the Condensed Consolidated Statements of Cash Flows. 
+ Nine Months Ended September 30, 2024 2023 Cash and cash equivalents Restricted cash Total cash, cash equivalents, and restricted cash shown in the statement of cash flows 
+ 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 7 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+NOTE 1. 
+ wholly-owned bitcoin mining data center and jointly operates partially-owned bitcoin mining data centers that were acquired through investments in joint ventures. The Company has also acquired new wholly-owned sites as of September 30, 2024 which have not commenced operating. 
+ Out-of-period-adjustments 
+ Cost of revenue and power sales for the three and nine months ended September 30, 2023 included out-of-period adjustments of approximately million and million, respectively, and million and million, respectively, that increased both cost of revenue and power sales on the unaudited condensed consolidated statements of operations for the nine months ended September 30, 2023, and resulted in net increases to operating loss and loss before taxes of approximately million during both periods. These out-of-period adjustments related to power costs and power sales for the year ended December 31, 2022 at the Company s Odessa Facility, which are invoiced on a net basis by the Company s power provider. Management evaluated the impact of this error on the Company s previously issued audited consolidated financial statements for the year ended December 31, 2022, as well as on its unaudited condensed consolidated financial statements for the three and nine months ended September 30, 2023, assessing the error both quantitatively and qualitatively, and concluded that the error was not material to the financial statements for either period. No other out-of-period adjustments were identified in the periods presented. 
+ Risks and uncertainties 
+ Liquidity, capital resources and limited business history 
+ The Company has historically experienced net losses and negative cash flows from operations; however, proceeds from sales of bitcoin are categorized as cash flows from investing activities. As of September 30, 2024, the Company had approximate balances of cash and cash equivalents of million, working capital of million, total stockholders equity of million and an accumulated deficit of million. The Company uses proceeds from sales of bitcoin earned by or received from its bitcoin mining data centers, as well as strategic sales of shares through at-the-market offerings to support its operating expenses and capital expenditures. 
+ The Company monitors its balance sheet on an ongoing basis to determine the proper mix of bitcoin retention and bitcoin sales to support its cash requirements, ongoing operations, and capital expenditures. Bitcoin is classified as a current asset on the Company s balance sheets due to its intent and ability to sell bitcoin to support operations when needed. Approximately million of cash was used for operating activities during the nine months ended September 30, 2024. 
+ During the nine months ended September 30, 2024, the Company paid approximately million for deposits on equipment primarily related to new miner purchases for its Odessa Facility, and reclassified approximately million to property and equipment related to equipment being placed into service. 
+ The Company has a master loan agreement with Coinbase Credit, Inc., as lender, and Coinbase, Inc., as lending service provider. Pursuant to the master loan agreement, the Company established a secured line of credit up to million (the Credit Facility ). The Company will not incur commitment fees for unused portions of the Credit Facility. The borrowing rate on amounts drawn against the Credit Facility is determined on the basis of the Federal Funds Target Rate - Upper Bound, plus , calculated daily based on a 365-day year and payable monthly for the duration of the loan. Borrowings under the Credit Facility are available on demand, open term, and collateralized by bitcoin transferred to the lending service provider s platform. As of September 30, 2024, the Company has not drawn upon the Credit Facility. Subsequent to September 30, 2024, the Company expanded the Credit Facility to a million limit, and established a term loan facility with Coinbase with a limit of million and maximum period of (the Term Loan Facility , with an interest rate to be determined upon drawdown. Coinbase has the right to terminate loans under the Term Loan Facility if the price of bitcoin falls below . 
+ Management believes that the Company s existing financial resources, including access to the Credit Facility, combined with projected cash and bitcoin inflows from its data centers and its ability to sell bitcoin received or earned, will be 
+ 8 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+NOTE 2. 
+ Certain prior year amounts have been reclassified for consistency with the current period presentation. Effective for the quarter ended March 31, 2024, the Company changed the presentation of its condensed consolidated income statement to separately disclose Compensation and benefits from General and administrative. The Company believes this presentation provides increased transparency on the nature of the respective financial statement line items. As a result, the Company reported million, and million as Compensation and benefits for the three and nine months ended September 30, 2023, respectively, which was previously reported in General and administrative. 
+ Emerging Growth Company 
+ million. As a result, as of December 31, 2024, it will be considered a large accelerated filer as defined in Rule 12b-2 under the Exchange Act, and will cease to be an emerging growth company. Due to loss of emerging growth company status, the Company will no longer be exempt from the auditor attestation requirements of Section 404(b) of the Sarbanes-Oxley Act, and its independent registered public accounting firm will evaluate and report on the effectiveness of internal controls over financial reporting. 
+ Commencing with the Company s Annual Report on Form 10-K for the year ending December 31, 2024, it will adopt any accounting pronouncements deferred under the extended transition period election on or before December 31, 2024. 
+ 9 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+ Unaudited condensed consolidated financial statements 
+ Segment information 
+ segment. 
+ Restricted cash 
+ Asset acquisition 
+ In September 2024, the Company purchased a site to develop another wholly-owned data center in Colorado City, TX Barber Lake or the Barber Lake Facility for up to MW. The Company accounted for the transaction as an asset acquisition in accordance with ASC 805, Business Combinations . Refer to Note 5 Property and equipment , Note 8. Intangible assets, Note 9 . Security deposits, and Note 10. Supplementary financial information for details on the Company s preliminary allocation of the purchase consideration consisting of million of cash paid, and an assumed liability of million, based on relative fair value to the balances acquired as part of this transaction. 
+ Earnings per share 
+ 10 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) ) ) ) Weighted average shares outstanding - basic Add: RSUs Weighted average shares outstanding - diluted Net loss per share - basic ) ) ) ) Net loss per share - diluted ) ) ) ) 
+ Private placement warrants Unvested RSUs 
+ Recently issued and adopted accounting pronouncements 
+ million adjustment to opening Retained earnings on January 1, 2023, as well as an increase of Operating loss, and Net loss of million as reported for the three months ended September 30, 2023, and a reduction of Operating loss, and Net loss of million as reported for the nine months ended September 30, 2023. 
+ The Company continually assesses any new accounting pronouncements to determine their applicability. When it is determined that a new accounting pronouncement affects the Company s financial reporting, the Company undertakes to determine the consequences of the change to its financial statements and assures that there are proper controls in place to ascertain that the Company s financial statements properly reflect the change. The Company reviewed all other recently issued accounting pronouncements and concluded that they were either not applicable or not expected to have a significant impact on its condensed consolidated financial statements. 
+ 11 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+ NOTE 3. 
+ Cumulative effect upon adoption of ASU 2023-08 Bitcoin received from equity investees Bitcoin received from mining activities Proceeds from sale of bitcoin ) ) Realized gains on sale of bitcoin Unrealized gains (losses) on sale of bitcoin ) Ending balance 
+ The Company held approximately and bitcoin at September 30, 2024, and December 31, 2023, respectively. The associated fair value and cost basis of bitcoin held was million, and million, respectively, at September 30, 2024, and million, and million, respectively at December 31, 2023. Fair value of bitcoin is estimated using the closing price, which is a Level 1 input (i.e., an observable input such as a quoted price in an active market for an identical asset). The Company accounts for bitcoin on a first-in-first-out FIFO basis. 
+ As of September 30, 2024, bitcoin with a fair value of million were pledged as collateral related to short-term bitcoin price protection collars. Restrictions on this bitcoin pledged as collateral will lapse in the fourth quarter of 2024. As of December 31, 2023, bitcoin with a fair value of million were pledged as collateral. Restrictions on that collateral lapsed on January 26, 2024. 
+ 
+ NOTE 4. 
+ , subject to certain early termination exemptions. The Luminant Power Agreement provides for subsequent automatic annual renewal unless either party provides written notice to the other party of its intent to terminate the agreement at least prior to the expiration of the then current term. 
+ The Company s management determined that the Luminant Power Agreement meets the definition of a derivative under ASC 815, Derivatives and Hedging ASC 815 ). Accordingly, the Luminant Power Agreement is recorded at its estimated fair value each reporting period with the change in the fair value recorded in change in fair value of derivative asset in the consolidated statements of operations. See additional information regarding valuation of the Luminant Power Agreement derivative in Note 17. Fair Value Measurements . 
+ The Company may opportunistically sell electricity in the ERCOT market in exchange for cash payments, rather than utilizing the power to mine for bitcoin at the Odessa Facility to manage the Company s operating costs. From power sales, the Company earned approximately million and million for the three and nine months ended September 30, 2024, respectively, and million and million for both the three and nine months ended September 30, 2023, respectively, and recorded this amount within costs and operating expenses (income) on the unaudited condensed consolidated statement of operations, with the corresponding cost of the power sold recorded in cost of revenue. See Note 1. Organization for information regarding the out-of-period adjustments recorded during the three and nine months ended September 30, 2023, which affected cost of power, power sales, net operating loss and net loss on the Company s unaudited condensed consolidated statement of operations. 
+ 12 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+ NOTE 5. 
+ Leasehold improvements Land Infrastructure Office and computer equipment Autos Furniture and fixtures Construction-in-progress Total cost of property and equipment Less: accumulated depreciation ) ) Property and equipment, net 
+ As of September 30, 2024, the Company has added approximately million of construction-in-progress related to the build-out of the Black Pearl Facility. Depreciation expense was approximately million and million, respectively, for the three months ended September 30, 2024, and 2023, including approximately million and million, respectively, of accretion expense related to the Company s asset retirement obligation. Depreciation expense was approximately million and million, respectively, for the nine months ended September 30, 2024 and 2023, respectively, and included approximately million and million for the nine months ended September 30, 2024 and 2023, of accretion expense related to the Company s asset retirement obligation. 
+ In June 2024, the Company entered into agreements with Bitmain Technologies Delaware Limited Bitmain and Canaan Creative Global Pte. Ltd. Canaan to purchase the newest generation miners to be delivered in the fourth quarter of 2024. As more efficient machines were available earlier than anticipated, this prompted a shift in the Company's planned use of the existing miners. The Company will use these new miners to replace less efficient machines at the Odessa Facility instead of deploying at the Black Pearl Facility. The Company deemed this event a trigger to reevaluate the estimated useful lives of the miners, and the Company reduced the estimated useful life of miners from to . The Company changed this accounting policy effective June 1, 2024 and accounted for it prospectively. This change in estimate resulted in a million and million increase in Depreciation and amortization expense, and respective reduction of Operating (loss) income, and Net (loss) income for the three and nine months ended September 30, 2024, respectively, and a and a increase in Net loss per share for the three and nine months ended September 30, 2024. 
+ As part of this transaction, the Company acquired Property and equipment of related to electrical infrastructure of million with an estimated useful life of years, and land million, deemed to have an indefinite life. 
+ 
+ NOTE 6. 
+ EH/s of miners to be delivered in the first half of 2025 (the Future Sales and Purchase Agreement ). The Company paid a deposit of million upon execution of the agreement. For the nine months ended September 30, 2024, the Company paid an additional million towards this contract, in addition to amending the agreement on June 5, 2024 (such amendment, the Supplemental Agreement to upgrade the miners and accelerate the delivery from the first half of 2025 to the fourth quarter of 2024. This commitment has million remaining to be paid as of September 30, 2024. The Future Sales and Purchase Agreement also has an option to purchase an additional EH/s in 2024. The Company paid million upon signing the agreement in the fourth quarter of 2023 as a deposit, which can be used towards purchases under this option. On July 10, 2024, the Company entered into an agreement to further amend the Future Sales and Purchase agreement (the Amendment Agreement ). The Amendment Agreement upgraded the miners to be purchased under the option, and extended the option expiration from December 31, 2024 to June 30, 2025. The Company paid an additional million as a deposit in connection with this amendment. 
+ 13 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+ EH/s of miners to be delivered in the fourth quarter of 2024. The Company paid a deposit of million in connection with the agreement, with million left to be paid. Additionally, the contract included an option to purchase MW of miners which the Company can exercise on or before June 30, 2025. The Company paid a deposit of million associated with the option. 
+ 
+ NOTE 7. 
+ equity interest in its partially owned mining operations Alborz LLC, Bear LLC and Chief Mountain LLC (the Data Center LLCs ). 
+ During fiscal year 2022, the Company contributed miners and mining equipment to the Data Center LLCs. The contributed miners had a fair value that was lower than the cost paid by the Company to obtain them. As such, the Company recognized a loss at the time of the contributions, resulting in basis differences of the miners between the Company and the Data Center LLCs, which recorded the contributions of equipment from the Company at historical cost. The Company accretes these basis differences over the life of the miners and records the accretion amount for each reporting period within equity in losses of equity investees on its statements of operations. As of September 30, 2024, the Company had remaining basis differences totaling approximately million that have not yet been accreted. 
+ Cost of contributed mining equipment and other capital contributions Accretion of basis differences related to miner contributions Capital distributions ) Bitcoin received from equity investees ) ) Equity in net losses of equity investees ) ) Ending Balance 
+ 
+ NOTE 8. 
+ million of Strategic contracts related to the transaction. 
+ ) Capitalized software ) Total ) 
+ 14 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+ ) Capitalized software ) Total ) 
+ 
+ The Company recorded amortization expense related to intangible assets of million and million in the three and nine months ended September 30, 2024, respectively, and in both the three and nine months ended September 30, 2023. 
+ Year Ended December 31, 2025 Year Ended December 31, 2026 Year Ended December 31, 2027 Year Ended December 31, 2028 
+ 
+ NOTE 9. 
+ Vistra Purchase and Sale Agreement collateral Oncor Facility Extension security deposit related to Black Pearl Facility Oncor Facility Extension security deposit related to Barber Lake Facility Other deposits Total security deposits 
+ Under the Luminant Power Agreement, the Company was required to provide Luminant with collateral of approximately million (the Independent Collateral Amount ). The Independent Collateral Amount will remain in place throughout the term of the Luminant Power Agreement. Details of the construction of the Interconnection Electrical Facilities, including collateral arrangements that are in addition to the Independent Collateral Amount, are set out in the Purchase and Sale Agreement dated June 28, 2021, with amendment and restatement on July 9, 2021 (as amended and restated, the Vistra Purchase and Sale Agreement with Vistra. Under the Vistra Purchase and Sale Agreement, the Company provided approximately million as collateral separate from the Independent Collateral Amount, which is also recorded in security deposits as of December 31, 2023. As of September 30, 2024, this collateral balance was moved to a money market account owned by the Company and is classified as restricted cash. 
+ As part of the transaction to acquire the Barber Lake Facility, the Company acquired a deposit with Oncor Electric Delivery Company LLC Oncor of million which had previously been paid by the seller. As part of the transaction, the Company must remit the deposit to the seller upon receipt. As such the Company has recorded a corresponding liability in Accrued expenses and other liabilities on the condensed consolidated balance sheet as of September 30, 2024. 
+ 
+ NOTE 10. 
+ million and million as of September 30, 2024 and December 31, 2023, respectively, primarily consisting of prepaid insurance and employee compensation as of September 30, 2024, and prepaid insurance as of December 31, 2023. 
+ 15 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+ Barber Lake Site Deposit Payable Construction Costs Employee Compensation Payment for Miners in service Power Costs Legal settlement Other Total accrued expenses and other current liabilities 
+
+NOTE 11. 
+ million and million, as of September 30, 2024 and December 31, 2023, respectively, representing expenses paid on behalf of the Data Center LLCs. 
+ Purchase commitments, deposits on equipment and related party payables 
+ On April 8, 2022, the Company entered into agreements with the Bitfury Group, made under, and as a part of, the Master Services and Supply Agreement to purchase equipment related to data center construction. The Company and the Bitfury Group terminated the Master Services and Supply Agreement on February 28, 2024, for no additional consideration. 
+ 
+ NOTE 12. 
+ , with renewal provisions that are aligned with the Luminant Power Agreement. Financing for use of the land and substation is provided by Luminant affiliates. 
+ 
+ At the end of the lease term for the Interconnection Electrical Facilities, the substation will be sold back to Luminant s affiliate, Vistra Operations Company, LLC at a price to be determined based upon bids obtained in the secondary market. 
+ Office leases 
+ The Company leases office space for its headquarters in New York, New York. During the second quarter of 2024, the Company modified this lease to substitute the leased space with a larger office in the same location. 
+ 16 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+ Interest on lease liability Total finance lease expense Operating leases: Operating lease expense Total operating lease expense Total lease expense 
+ (1) Amortization of finance lease ROU asset is included within depreciation expense. 
+ The Company did t incur any variable lease costs during any of the periods presented. 
+ Right-of-use assets obtained in exchange for operating lease liabilities 
+ September 30, 2024 December 31, 2023 Weighted-average remaining lease term finance lease (in years) Weighted-average remaining lease term operating lease (in years) Weighted-average discount rate finance lease Weighted-average discount rate operating lease Finance lease ROU assets (1) 
+ 
+ (1) As of September 30, 2024, the Company recorded accumulated amortization of million for the finance lease ROU asset. Finance lease ROU assets are recorded within property and equipment, net on the Company s consolidated balance sheets. 
+ 17 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+ Year Ended December 31, 2025 Year Ended December 31, 2026 Year Ended December 31, 2027 Year Ended December 31, 2028 Thereafter Total lease payments Less present value discount ) ) ) Total 
+ 
+ NOTE 13. 
+ 
+ NOTE 14. 
+ shares with a par value of per share are authorized, of which, shares are designated as Common Stock and shares are designated as preferred stock Preferred Stock ). 
+ 18 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+ vote. The voting, dividend, liquidation and other rights and powers of the Common Stock are subject to and qualified by the rights, powers and preferences of any outstanding series of Preferred Stock, for which there currently are outstanding. 
+ During the nine months ended September 30, 2024, the Company issued shares of Common Stock to officers, employees and consultants in settlement of an equal number of fully vested RSUs awarded to these individuals, and shares of Common Stock to non-employee directors, pursuant to grants made under the Cipher Mining Inc. 2021 Incentive Award Plan (the Incentive Award Plan ). The Company immediately repurchased of these shares of Common Stock from officers and employees, with a fair value of approximately million, to cover taxes related to the settlement of vested RSUs, as permitted by the Incentive Award Plan. The Company placed the repurchased shares in treasury stock. 
+ 
+ At-the-Market Sales Agreement 
+ 
+ On September 21, 2022, the Company filed with the SEC a shelf registration statement on Form S-3, which was declared effective on October 6, 2022 (the Registration Statement ). In connection with the filing of the Registration Statement, the Company also entered into an at-the-market offering agreement (the Prior Sales Agreement with H.C. Wainwright Co., LLC (the Prior Agent ), under which the Company may, from time to time, sell shares of its Common Stock having an aggregate offering price of up to million in at-the-market offerings through the Prior Agent. Effective August 1, 2023, the Company terminated the Prior Sales Agreement. 
+ 
+ On August 3, 2023, the Company entered into a Controlled Equity Offering SM Sales Agreement (the Sales Agreement with Cantor Fitzgerald Co., Canaccord Genuity LLC, Needham Company, LLC and Compass Point Research Trading, LLC (each, an Original Agent and, together, the Original Agents ), pursuant to which the Company may offer and sell, from time to time through or to the Agents, shares of its Common Stock, for aggregate gross proceeds of up to million. The offering and sale of up to million of the shares has been registered under the Registration Statement, the base prospectus contained within the Registration Statement, and a prospectus supplement that was filed with the SEC on August 4, 2023 (the Prospectus Supplement ). 
+ 
+ On March 6, 2024, the Company entered into an amendment (the Amendment to the Sales Agreement (as amended, the Amended Sales Agreement by and among the Original Agents, Stifel, Nicolaus Company, Incorporated Stifel and Virtu Americas LLC Virtu ). The Amendment modifies the Sales Agreement to include Stifel and Virtu as additional agents under the Amended Sales Agreement. On March 6, 2024, the Company also filed an amendment to the Prospectus Supplement (i) increasing the dollar amount of shares available to be sold pursuant to the Amended Sales Agreement, to , which consists of remaining as originally authorized under the Prospectus Supplement and an additional , and (ii) including Stifel and Virtu as additional agents. 
+ 
+ On September 3, 2024, the Company amended and restated the Amended Sales Agreement (as amended and restated, the Amended and Restated Sales Agreement with the Original Agents, Keefe, Bruyette Woods, Inc. KBW ), Virtu and BTIG, LLC BTIG (each, an Agent and, together, the Agents ). The Amended and Restated Sales Agreement modified the Amended Sales Agreement to, among other things, include BTIG as an additional Agent under the Amended and Restated Sales Agreement and to replace Stifel with KBW as an Agent under the Amended and Restated Sales Agreement. 
+ Pursuant to the Amended and Restated Sales Agreement, the Company may offer and sell, from time to time through or to the Agents, shares of the Company s Common Stock, for aggregate gross proceeds of up to million (the Shares ), which consists of (i) up to million remaining as authorized under the Company s Registration Statement, the base prospectus contained within the Registration Statement, and the Prospectus Supplement, as amended on September 3, 2024 and (ii) up to million of Shares, which can be issued and sold pursuant to the Company s shelf registration statement on Form S-3ASR, filed with the SEC on September 3, 2024, which became immediately effective upon filing, and a prospectus supplement dated September 3, 2024, filed by the Company with the SEC. 
+ 
+ 19 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+ of the aggregate gross proceeds from any Shares sold through such Designated Agent pursuant to the Amended and Restated Sales Agreement. In addition, the Company agreed to reimburse certain expenses incurred by the Agents in connection with the Amended and Restated Sales Agreement. During the three months ended September 30, 2024, in connection with the Amended and Restated Sales Agreement, the Company received proceeds of approximately million, net of issuance costs, from the sale of shares of common stock, with an average net selling price of per share. 
+ 
+ NOTE 15. 
+ share of Common Stock at an exercise price of per share, subject to adjustment. There were Public Warrants and Private Placement Warrants outstanding as of December 31, 2023, and Public Warrants and Private Placement Warrants outstanding as of September 30, 2024. The exercise price and number of shares of Common Stock issuable on exercise of the warrants may be adjusted in certain circumstances including in the event of a stock dividend, extraordinary dividend or the Company s recapitalization, reorganization, merger or consolidation. However, the warrants will not be adjusted for issuances of shares of Common Stock at a price below their respective exercise prices. Additionally, in no event will the Company be required to net cash settle the warrants. 
+ 
+ NOTE 16. 
+ shares of Common Stock were available for issuance under awards granted pursuant to the Incentive Award Plan. In addition, the number of shares of Common Stock available for issuance under the Incentive Award Plan is increased on January 1 of each calendar year beginning in 2022 and ending in 2031 by an amount equal to the lesser of (a) three percent of the total number of shares of Common Stock outstanding on the final day of the immediately preceding calendar year and (b) such smaller number of shares determined by the Board. On January 1, 2024, this resulted in an increase of shares of Common Stock available for issuance under the Incentive Award Plan. As of September 30, 2024, shares of Common Stock were available for issuance under the Incentive Award Plan. 
+ Performance-based RSUs Common stock, fully-vested Total share-based compensation expense 
+ 20 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+ Granted Forfeited ) Vested ) Unvested at September 30, 2024 
+ As of September 30, 2024, there was approximately million of unrecognized compensation expense related to unvested Service-Based RSUs, which is expected to be recognized over a weighted-average vesting period of approximately years. 
+ If not fully vested upon grant, Service-based RSUs awarded generally vest over a period ranging from three to in equal installments on the award s anniversary of the vesting commencement date, which will generally coincide with the timing when the employee or consultant began to provide services to the Company, as determined by the Board, and which may precede the grant date. Vesting is subject to the award recipient s continuous service on the applicable vesting date; provided, that if the award recipient s employment is terminated by the Company without cause , by award recipient for good reason (if applicable, as such term or similar term may be defined in any employment, consulting or similar service agreement between award recipient and the Company) or due to award recipient s death or permanent disability, all unvested Service-based RSUs will vest in full (unless otherwise specified in the agreement between the award recipient and the Company). In addition, in the event of a change in control, any unvested Service-based RSUs will vest subject to the award recipient s continuous service to the Company through such change in control. In addition, if the Company achieves a billion market capitalization milestone (described further below) and the Chief Executive Officer CEO remains in continuous service through such achievement, any then-unvested Service-based RSUs awarded to the CEO will also vest. 
+ Performance-Based RSUs 
+ There was no new activity for unvested Performance-Based RSUs during the nine months ended September 30, 2024. There were unvested Performance-Based RSUs at a weighted average grant date fair value of as of both September 30, 2024 and 2023. There was approximately million of unrecognized compensation expense related to unvested Performance-Based RSUs, which is expected to be recognized over a remaining weighted average vesting period of approximately years. 
+ One-third of the outstanding Performance-Based RSUs will vest upon the Company achieving a market capitalization equal to or exceeding billion, billion and billion, in each case over a -day lookback period and subject to the CEO s continuous service through the end of the applicable -day period. In the event of a change in control and CEO s continuous service through such change in control, the per share price (plus the per share value of any other consideration) received by the Company s stockholders in such change in control will be used to determine whether any of the market capitalization milestones are achieved (without regard to the -day lookback period). Any Performance-Based RSUs that do not vest prior to the CEO s termination of service or, if earlier, in connection with a change in control will be forfeited for no consideration 
+ 
+ NOTE 17. 
+ 21 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+ Restricted cash Money market securities Bitcoin Accounts receivable Derivative asset 
+ Fair Value Measured as of December 31, 2023 Level 1 Level 2 Level 3 Total Assets included in: Cash and cash equivalents Money market securities Bitcoin Accounts receivable Derivative asset Liabilities included in: Warrant liability 
+ The carrying values reported in the Company s consolidated balance sheets for cash (excluding cash equivalents which are recorded at fair value on a recurring basis), accounts payable and accrued expenses and other current liabilities are reasonable estimates of their fair values due to the short-term nature of these items. 
+ There were no transfers of financial instruments between Level 1, Level 2 and Level 3 during the nine months ended September 30, 2024 or the year ended December 31, 2023. 
+ Level 3 asset 
+ The Company s derivative asset, related to the Luminant Power Agreement, is divided between current and noncurrent assets, and was initially recorded on its unaudited condensed consolidated balance sheets on the derivative asset s effective date of July 1, 2022, with an offsetting amount recorded to change in fair value of derivative asset in costs and operating expenses on the unaudited condensed consolidated statements of operations. Subsequent changes in fair value are also recorded to change in fair value of derivative asset. The Luminant Power Agreement was not designated as a hedging instrument. The estimated fair value of the Company s derivative asset was derived from Level 2 and Level 3 inputs (i.e., unobservable inputs) due to a lack of quoted prices for similar type assets and as such, is classified in Level 3 of the fair value hierarchy. Specifically, the discounted cash flow estimation models contain quoted spot and forward prices for electricity, as well as estimated usage rates consistent with the terms of the Luminant Power Agreement, the initial term of which is , and a remaining term of approximately years. The valuations performed by the third-party valuation firm engaged by the Company utilized pre-tax discount rates of and as of September 30, 2024 and December 31, 2023, respectively, and include observable market inputs, but also include unobservable inputs based on qualitative judgment related to company-specific risk factors. Unrealized gains associated with the derivative asset within the Level 3 category include changes in fair value that were attributable to amendments to the Luminant Power Agreement, 
+ 22 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+ Change in fair value ) Ending balance 
+ Level 3 liability 
+ The Company s Private Placement Warrants (as defined in Note 15. Warrants) were its only liability classified within Level 3 of the fair value hierarchy because the fair value is based on significant inputs that are unobservable in the market. The valuation of the Private Placement Warrants used assumptions and estimates the Company believes would be made by a market participant in making the same valuation. As of March 31, 2024, all Private Placement Warrants were converted to Public Warrants, and as such no Private Placement Warrants were outstanding as of September 30, 2024. 
+ The Company engaged a valuation firm to determine the fair value of the Private Placement Warrants using a Black-Scholes option-pricing model and the quoted price of Common Stock. 
+ Dividend yield rate Volatility Contractual term (in years) Exercise price 
+ Change in fair value ) Balance as of September 30, 2024 Balance as of December 31, 2022 Change in fair value Balance as of September 30, 2023 
+ 
+ NOTE 18. 
+ and of loss before taxes for the three months ended September 30, 2024, and 2023 respectively. The Company recorded an income tax expense of approximately of income before taxes for the nine months ended September 30, 2024 and an income tax benefit of approximately of loss before taxes for the nine months ended September 30, 2023. 
+ 23 
+
+CIPHER MINING INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+ NOTE 19. 
+ 24 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ You should read the following discussion and analysis of our financial condition and results of operations together with our unaudited condensed consolidated financial statements and related notes included elsewhere in this Quarterly Report, as well as our audited consolidated financial statements and related notes disclosed in our 2023 Form 10-K. This discussion contains forward looking statements based upon current plans, expectations and beliefs involving risks and uncertainties. Our actual results may differ materially from those anticipated in these forward looking statements as a result of various factors, including those set forth in the Risk Factors sections of our 2023 Form 10-K, this Quarterly Report, and in other parts of this Quarterly Report. 
+ Unless the context otherwise requires, references in this Quarterly Report to the Company, Cipher, Cipher Mining, we, us or our refers to Cipher Mining Inc. and its consolidated subsidiaries, unless otherwise indicated. 
+ 
+ Overview 
+ We are focused on the development and operation of industrial-scale data centers for bitcoin mining and HPC hosting. Bitcoin mining is currently our primary revenue generating business activity. 
+ We currently operate four bitcoin mining data centers in Texas, including one wholly-owned and three partially-owned data centers acquired through investments in joint ventures. Our largest currently-operating data center is the Odessa data center (the Odessa Facility ), which is our wholly-owned 207 MW facility located in Odessa, Texas. We also jointly operate the Alborz data center (the Alborz Facility ), located near Happy, Texas, and the Bear data center (the Bear Facility and the Chief data center (the Chief Facility ), each of which are located near Andrews, Texas (collectively, the Data Center LLCs ). The Data Center LLCs are partially-owned through joint ventures with WindHQ LLC WindHQ ). 
+ Additionally, we are developing a wholly-owned data center in Winkler County, TX Black Pearl or the Black Pearl Facility for up to 300 MW, and we expect to energize 300 MW in 2025. In September 2024, we also purchased a site where we plan to develop another wholly-owned data center in Colorado City, TX Barber Lake or the Barber Lake Facility for up to 300 MW. In October 2024, we also expanded our pipeline of sites by purchasing options to acquire up to 1.5 GW of additional sites in West and North Texas. 
+ Our current intention is to continue expanding our business by developing and operating industrial-scale data centers for bitcoin mining and HPC hosting, expanding capacity at our current data centers, developing our treasury management platform and entering into other strategic arrangements, such as joint ventures, data center hosting agreements, or software licensing arrangements. We aim to be a market leader in innovation, including in bitcoin mining growth, data center construction and as a hosting partner to the world's largest HPC companies. 
+ As of September 30, 2024, we operated an aggregate hashrate capacity of approximately 11.5 EH/s, utilizing approximately 327 MW of electricity, of which we owned an aggregate hashrate capacity of approximately 9.3 EH/s, utilizing approximately 266 MW of electricity. 
+ 
+ Recent Developments 
+ Site Acquisitions 
+ In September 2024, we purchased the Barber Lake Facility, located in Colorado City, TX, where we plan to develop another wholly-owned data center for up to 300 MW. In October 2024, we also added to our pipeline of sites by completing the acquisition of the Reveille site, located in Cotulla, TX, where we plan to develop another wholly-owned data center for up to 200 MW, and by purchasing options to acquire three new sites, also located in Texas, with a cumulative power capacity of up to 1.5 GW. 
+ 
+ Factors Affecting Our Results of Operations 
+ There have been no material changes to the Factors Affecting Our Results of Operations in the Management s Discussion and Analysis of Financial Condition and Results of Operations section of our 2023 Form 10-K. Our financial position and results of operations depend to a significant extent on those factors. 
+ 25 
+
+Summary of Bitcoin Mining Results 
+ The following table presents information about our Bitcoin mining activities, including bitcoin production and sales of bitcoin (dollar amounts in thousands): 
+ Quantity 
+ Amounts 
+ Opening balance 780 32,978 Bitcoin received from equity investees 164 10,487 Bitcoin received from mining activities 1,883 109,443 Proceeds from sale of bitcoin (1,319) (79,785) Realized gains on sale of bitcoin 25,114 Unrealized gains (losses) on sale of bitcoin (2,778) Ending balance 1,508 95,459 
+ 
+ Components of our Results of Operations 
+ For a description of the components of our results of operations, refer to the Management s Discussion and Analysis of Financial Condition and Results of Operations section of our 2023 Form 10-K. 
+ Results of Operations 
+ The following table presents sets forth our results of operations for the periods indicated (in thousands): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenue - bitcoin mining 24,102 30,304 109,047 83,423 Costs and operating expenses (income) Cost of revenue 15,063 13,008 44,164 37,017 Compensation and benefits 14,738 17,071 44,058 41,676 General and administrative 8,919 6,827 23,362 20,977 Depreciation and amortization 28,636 16,217 66,131 42,284 Change in fair value of derivative asset 48,520 (4,744) 19,181 (13,294) Power sales (1,444) (2,720) (3,726) (8,469) Equity in (income) losses of equity investees (847) 1,998 (1,008) 4,179 Losses (gains) on fair value of bitcoin 1,911 1,848 (22,336) (3,276) Other gains - (95) - (2,355) Total costs and operating expenses 115,496 49,410 169,826 118,739 Operating loss (91,394) (19,106) (60,779) (35,316) Other income (expense) Interest income 1,188 11 3,027 112 Interest expense (346) (627) (1,118) (1,513) Change in fair value of warrant liability - 10 250 (49) Other expense (4) (6) (1,235) (18) Total other income (expense) 838 (612) 924 (1,468) Loss before taxes (90,556) (19,718) (59,855) (36,784) Current income tax expense (211) (95) (932) (143) Deferred income tax benefit (expense) 4,013 1,192 (1,358) 555 Total income tax benefit (expense) 3,802 1,097 (2,290) 412 Net loss (86,754) (18,621) (62,145) (36,372) 
+ 26 
+
+Comparative Results for the Three Months Ended September 30, 2024 and 2023 
+ Revenue 
+ Revenue for the three months ended September 30, 2024 was 24.1 million compared to 30.3 million for the three months ended September 30, 2023 and was generated entirely from bitcoin mining operations at the Odessa Facility. The decrease year over year was primarily driven by the halving in April of 2024, which reduced the bitcoin received for mining a block from 6.25 bitcoin to 3.125 bitcoin. This was partially offset by the increase in bitcoin price of the bitcoin we mined in the current quarter compared to the prior year quarter. 
+ Cost of revenue 
+ Cost of revenue for the three months ended September 30, 2024 was 15.1 million, compared with 13.0 million for the three months ended September 30, 2023, and consisted primarily of power costs at the Odessa Facility under the Luminant Power Agreement. The increase in the three months ended September 30, 2024 is driven primarily by additional expenses incurred related to the fleet upgrade at the Odessa Facility, in preparation for miners to arrive onsite in the fourth quarter of 2024. 
+ Compensation and benefits 
+ Compensation and benefits for the three months ended September 30, 2024 was 14.7 million, a decrease of 2.4 million compared to 17.1 million for the three months ended September 30, 2023. The decrease was primarily due to the expiration of Share-based compensation awards in the current quarter. 
+ General and administrative 
+ General and administrative expenses increased by 2.1 million to 8.9 million during the three months ended September 30, 2024 from 6.8 million for the three months ended September 30, 2023. The increase was primarily driven by an increase in legal fees related to strategic initiatives. 
+ Depreciation and amortization 
+ Depreciation for the three months ended September 30, 2024 was 28.6 million, an increase of 12.4 million compared to Depreciation and amortization of 16.2 million for the three months ended September 30, 2023. The increase was primarily due to change in the useful life of our miners as of June 1, 2024. 
+ Change in fair value of derivative asset 
+ Change in fair value of derivative asset was a 48.5 million loss for the three months ended September 30, 2024 and was driven by the fair value of the Luminant Power Agreement. The estimated fair value of our derivative asset was derived from Level 2 and Level 3 inputs, and, due to a lack of quoted prices for similar type assets, is classified in Level 3 of the fair value hierarchy. Specifically, the discounted cash flow estimation models contain quoted spot and forward prices for electricity, as well as estimated usage rates consistent with the terms of the Luminant Power Agreement, the initial term of which is five years. 
+ Power sales 
+ After the start of mining operations at the Odessa Facility, we sold excess electricity that was available under the Luminant Power Agreement, back to the ERCOT market through Luminant. We sold power for proceeds of 1.4 million and 2.7 million for the three months ended September 30, 2024, and 2023, respectively. Power sales fluctuate each period based on power and bitcoin prices which are volatile. 
+ Equity in income (losses) of equity investees 
+ Equity in income of equity investees totaled 0.8 million for the three months ended September 30, 2024 compared to losses of 2.0 million for the three months ended September 30, 2023. Equity in income of equity investees consists of our 49 share in the earnings (losses) generated by our three partially-owned mining sites, and the accretion of 
+ 27 
+
+the basis differences in our investments in the equity investees that resulted from contributions of miners during the year ended December 31, 2022. We are accreting these basis differences over the five-year useful life of the miners. 
+ Losses on fair value of bitcoin 
+ Losses on fair value of bitcoin were 1.9 million for the three months ended September 30, 2024, consistent with 1.8 million for the three months ended September 30, 2023. The balance in both periods is a result of the net realized gains and losses from selling bitcoin, and the unrealized gains and losses on the change in fair value of our bitcoin held in treasury. 
+ Other income (expense) 
+ Other income totaled 0.8 million for the three months ended September 30, 2024, compared to Other expense of 0.6 million for three months ended September 30, 2023. The increase is primarily related to interest income earned from cash held in money market accounts in the current year. 
+ Benefit for income taxes 
+ For the three months ended September 30, 2024, we recorded a benefit for income taxes of 3.8 million primarily driven by net losses in the current period. For the three months ended September 30, 2023, we recorded a benefit for income taxes of 1.1 million. 
+ 
+ Comparative Results for the Nine Months Ended September 30, 2024 and 2023 
+ Revenue 
+ Revenue for the nine months ended September 30, 2024 was 109.0 million, compared to 83.4 million for the nine months ended September 30, 2023, and was generated entirely from bitcoin mining operations at the Odessa Facility. The increase year over year was primarily driven by an overall increase in bitcoin price in the current year period. 
+ Cost of revenue 
+ Cost of revenue for the nine months ended September 30, 2024 was 44.2 million, compared with 37.0 million for the nine months ended September 30, 2023, and consisted primarily of power costs at the Odessa Facility. The increase in the current year period is primarily due to expenses incurred related to the fleet upgrade at the Odessa Facility. 
+ Compensation and benefits 
+ Compensation and benefits for the nine months ended September 30, 2024 was 44.1 million, an increase of 2.4 million compared to 41.7 million for the three months ended September 30, 2023. The increase was primarily due to Share-based compensation awards at higher stock prices in the current period. 
+ General and administrative 
+ General and administrative expenses increased by 2.4 million to 23.4 million for the nine months ended September 30, 2024 from 21.0 million for the nine months ended September 30, 2023. The increase was primarily driven by an increase in legal fees related to strategic initiatives. 
+ Depreciation and amortization 
+ Depreciation and amortization for the nine months ended September 30, 2024 was 66.1 million, an increase of 23.8 million compared to Depreciation and amortization of 42.3 million for the nine months ended September 30, 2023. The increase was primarily due to increased miners, and mining equipment at the Odessa Facility, as well as the change in the estimated useful life of our miners from five years to three years. 
+ Change in fair value of derivative asset 
+ Change in fair value of derivative asset was 19.2 million for the nine months ended September 30, 2024 and was driven by the fair value of the Luminant Power Agreement. The estimated fair value of our derivative asset was derived from Level 2 and Level 3 inputs, and, due to a lack of quoted prices for similar type assets, is classified in Level 3 of the fair value hierarchy. Specifically, the discounted cash flow estimation models contain quoted spot and forward prices for 
+ 28 
+
+electricity, as well as estimated usage rates consistent with the terms of the Luminant Power Agreement, the initial term of which is five years. 
+ Power sales 
+ After the start of mining operations at the Odessa Facility on November 22, 2022, we sold excess electricity that was available under the Luminant Power Agreement, but not needed in our mining operations at the Odessa Facility, back to the ERCOT market through Luminant. We sold power for proceeds of 3.7 million and 8.5 million for the nine months ended September 30, 2024, and 2023, respectively. Power sales fluctuate each period based on power and bitcoin prices which are volatile. 
+ Equity in losses of equity investees 
+ Equity in income of equity investees totaled 1.0 million for the nine months ended September 30, 2024 compared to losses of 4.2 million for the nine months ended September 30, 2023. Equity in losses of equity investees consists of our 49 share in the earnings (losses) generated by our three partially-owned mining sites, and the accretion of the basis differences in our investments in the equity investees that resulted from contributions of miners during the year ended December 31, 2022. We are accreting these basis differences over the five-year useful life of the miners. 
+ Gains on fair value of bitcoin 
+ Gains on fair value of bitcoin totaled 22.3 million and 3.3 million for the nine months ended September 30, 2024, and 2023, respectively. The increase in the current period is primarily due to the increase in our bitcoin treasury compared to the prior period, as well as the increase in bitcoin price in the current period compared to the prior period. 
+ Other income (expense) 
+ Other income totaled 0.9 million for the nine months ended September 30, 2024, compared to 1.5 million of Other expense for the nine months ended September 30, 2023. The increase is primarily related to interest income on cash held in interest bearing accounts in the current year period. 
+ Provision for (benefit from) income taxes 
+ For the nine months ended September 30, 2024, we recorded a provision for income taxes of 2.3 million as a result of projected income for the current year in the jurisdictions which we operate. For the nine months ended September 30, 2023, we recorded a benefit for income taxes of 0.4 million. 
+ 
+ Liquidity and Capital Resources 
+ We used cash flows from operations of 58.5 million for the nine months ended September 30, 2024. As of September 30, 2024, we had cash and cash equivalents of 25.3 million, total stockholders equity of 672.0 million and an accumulated deficit of 198.9 million. We fund operations through a combination of at-the-market stock issuances and bitcoin sales. 
+ On September 21, 2022, we filed the Registration Statement with the SEC. In connection with the filing of the Registration Statement, we also entered into an at-the market offering agreement (the Prior Sales Agreement with H.C. Wainwright Co., LLC (the Prior Agent ), under which we may, from time to time, sell shares of our Common Stock having an aggregate offering price of up to 250.0 million in at-the-market offerings through the Agent, which is included in the 500.0 million of securities that may be offered pursuant to the Registration Statement. Effective August 1, 2023, the Company terminated the Prior Sales Agreement. 
+ On August 3, 2023, we entered into a Controlled Equity Offering SM Sales Agreement (the Sales Agreement with Cantor Fitzgerald Co., Canaccord Genuity LLC, Needham Company, LLC and Compass Point Research Trading, LLC (each, an Original Agent and, together, the Original Agents ), pursuant to which we may offer and sell pursuant to a prospectus supplement, from time to time through or to the Original Agents, shares of our Common Stock, for aggregate gross proceeds of up to 250.0 million. The offering and sale of up to 250.0 million of the Shares has been registered under the Registration Statement, the base prospectus contained within the Registration Statement, and a prospectus supplement that was filed with the SEC on August 4, 2023 (the Prospectus Supplement ). 
+ 29 
+
+On March 6, 2024, we entered into an amendment (the Amendment to the Sales Agreement (as amended, the Amended Sales Agreement by and among the Original Agents, Stifel, Nicolaus Company, Incorporated Stifel and Virtu Americas LLC Virtu ). The Amendment modifies the Sales Agreement to include Stifel and Virtu as additional agents under the Amended Sales Agreement. On March 6, 2024, we also filed an amendment to the Prospectus Supplement (i) increasing the dollar amount of shares available to be sold pursuant to the Amended Sales Agreement, to 296,560,661, which consists of 96,560,661 remaining as originally authorized under the Prospectus Supplement and an additional 200,000,000, and (ii) including Stifel, Nicolaus Company, Incorporated and Virtu Americas LLC as additional agents. 
+ 
+ On September 3, 2024, we amended and restated the Amended Sales Agreement (as amended and restated, the Amended and Restated Sales Agreement with the Original Agents, Keefe, Bruyette Woods, Inc. KBW ), Virtu and BTIG, LLC BTIG (each, an Agent and, together, the Agents ). The Amended and Restated Sales Agreement modified the Amended Sales Agreement to, among other things, include BTIG as an additional Agent under the Amended and Restated Sales Agreement and to replace Stifel with KBW as an Agent under the Amended and Restated Sales Agreement. For the quarter ended September 30, 2024, we received net proceeds on sales of 18.0 million shares of common stock under the Amended and Restated Sales Agreement of approximately 61.3 million (net of commissions and expenses) at an average net selling price of 3.41 per share. 
+ On August 14, 2023, we entered into a master loan agreement with Coinbase Credit, Inc., as lender, and Coinbase, Inc., as lending service provider. Pursuant to the master loan agreement, we established a secured line of credit up to 10.0 million (the Credit Facility ). We will not incur commitment fees for unused portions of the Credit Facility. The borrowing rate on amounts drawn against the Credit Facility is determined on the basis of the Federal Funds Target Rate - Upper Bound, plus 2.5 , calculated daily based on a 365-day year and payable monthly for the duration of the loan. Borrowings under the Credit Facility are available on demand, open term, and collateralized by bitcoin transferred to the lending service provider s platform. As of September 30, 2024 we have not drawn upon the Credit Facility. Subsequent to September 30, 2024, we expanded the Credit Facility to a 15.0 million limit, and established a term loan facility with Coinbase with a limit of 35.0 million and maximum period of one year (the Term Loan Facility ). Coinbase has the right to terminate loans under the Term Loan Facility if the price of bitcoin falls below 40,000. 
+ Management believes that our existing financial resources, combined with projected cash and bitcoin inflows from our data centers and our intent and ability to sell bitcoin received or earned, will be sufficient to enable us to meet our operating and capital requirements for at least 12 months from the date these unaudited condensed consolidated financial statements are issued. 
+ Cash Flows 
+ The following table summarizes our sources and uses of cash for the periods indicated (in thousands): 
+ Nine Months Ended September 30, 2024 2023 Net cash used in operating activities (58,533) (46,325) Net cash provided by (used in) investing activities (195,147) 37,802 Net cash provided by (used in) financing activities 207,309 (62) Net increase (decrease) in cash and cash equivalents (46,371) (8,585) 
+ Operating Activities 
+ Net cash used in operating activities increased by 12.2 million to 58.5 million for the nine months ended September 30, 2024 from 46.3 million for the nine months ended September 30, 2023. We incurred a net loss of 62.1 million for the nine months ended September 30, 2024, compared to a net loss of 36.4 million for the nine months ended September 30, 2023, representing an increase of 25.8 million. Cash flows from operating activities was impacted by a 8.5 million increase in non-cash items, primarily driven by a 26.3 million increase in bitcoin received as payment from our mining pool operator, 32.5 million loss on our derivative asset, and a 19.1 million increase in gains on the fair value of bitcoin. Additionally, changes in assets and liabilities resulted in a decrease in cash used of 5.1 million between the nine months ended September 30, 2024 and 2023. 
+ 30 
+
+Investing Activities 
+ Cash flows used in investing activities increased by 233 million to 195.1 million of net cash used in investing activities for the nine months ended September 30, 2024 compared to 37.8 million of net cash provided by investing activities for the nine months ended September 30, 2023, primarily related to 130.7 million of deposits primarily related to new miner purchases, and a 25.6 million increase in contributions to equity investees related to capital expenditures and operations at the Bear and Chief facilities, partially offset by a 59.4 million increase in purchases of property and equipment related to building out the Black Pearl facility, and acquisition of the Barber Lake Facility. 
+ Financing Activities 
+ Cash flows provided by financing activities increased by 207.4 million to 207.3 million net cash provided by financing activities for the nine months ended September 30, 2024 from 0.1 million net cash used in financing activities for the nine months ended September 30, 2023, primarily driven by 213.5 million increase in proceeds from the issuance of common stock during the nine months ended September 30, 2024. 
+ Limited Business History; Need for Additional Capital 
+ There is limited historical financial information about the Company upon which to base an evaluation of our performance. Our business is subject to risks inherent in the establishment of a new business enterprise, including limited capital resources, possible delays in exploration and/or development, and possible cost overruns due to price and cost increases in services. We may require additional capital to pursue certain business opportunities or respond to technological advancements, competitive dynamics or technologies, customer demands, challenges, acquisitions or unforeseen circumstances. Additionally, we have incurred and expect to continue to incur significant costs related to being a public company. Accordingly, we may in engage in equity or debt financings or enter into credit facilities for the above-mentioned or other reasons; however, we may not be able to timely secure additional debt or equity financings on favorable terms, if at all. If we raise additional funds through equity financing, our existing stockholders could experience significant dilution. Furthermore, any debt financing obtained by us in the future could involve restrictive covenants relating to our capital raising activities and other financial and operational matters, which may make it more difficult for us to obtain additional capital and to pursue business opportunities. If we are unable to obtain adequate financing on terms that are satisfactory to us, when we require it, our ability to continue to grow or support the business and to respond to business challenges could be significantly limited, which may adversely affect our business plan. For risks associated with this, see Risks Factors Risks Related to Our Business, Industry and Operations We may need to raise additional capital, which may not be available on terms acceptable to us, or at all in our 2023 Form 10-K. 
+ Contractual Obligations and Other Commitments 
+ On December 17, 2021, we entered into a lease agreement for executive office space, with an effective term that commenced on February 1, 2022 and monthly rent payments of approximately 0.1 million. The initial lease term was for a period of five years and four months. During the second quarter of 2024, we entered into an amendment to the lease agreement commencing on May 15, 2024, to increase the leased office space and extend the term through May 2029. Monthly rent payments associated with the amended lease are approximately 0.2 million. 
+ We also entered into a series of agreements with affiliates of Luminant ET Services Company LLC Luminant ), including the Lease Agreement dated June 29, 2021, with amendment and restatement on July 9, 2021 (as amended and restated, the Luminant Lease Agreement ). The Luminant Lease Agreement leases a plot of land to us where our data center, ancillary infrastructure and electrical system (the Interconnection Electrical Facilities or substation have been set up for our Odessa Facility. We entered into the Luminant Lease Agreement and the Luminant Purchase and Sale Agreement to build the infrastructure necessary to support our planned operations. Management determined that the Luminant Lease Agreement and the Luminant Purchase and Sale Agreement should be combined for accounting purposes under ASC 842 (collectively, the Combined Luminant Lease Agreement and that amounts exchanged under the combined contract should be allocated to the various components of the overall transaction based on relative fair values. 
+ Our management determined that the Combined Luminant Lease Agreement contains two lease components; and the components should be accounted for together as a single lease component, because the effect of accounting for the land lease separately would be insignificant. 
+ The Combined Luminant Lease Agreement commenced on November 22, 2022 and has an initial term of five years, with renewal provisions that are aligned with the Luminant Power Agreement. Financing for use of the land and 
+ 31 
+
+substation is provided by Luminant affiliates. Despite lease commencement in November 2022, we had not been required by Luminant to make any lease payments for the substation prior to July 2023, therefore we accrued amounts due under the Combined Luminant Lease Agreement in accrued expenses and other current liabilities on its unaudited condensed consolidated balance sheet. 
+ On August 23, 2023, we entered into a second amendment of the Luminant Lease Agreement, the terms of which included an amended payment schedule, reflecting monthly installments of principal and interest totaling 19.7 million on an undiscounted basis, due over the remaining four-year period starting in July 2023. This amendment did not have a material impact on our unaudited condensed consolidated financial statements. 
+ At the end of the lease term for the Interconnection Electrical Facilities, the substation will be sold back to Luminant s affiliate, Vistra Operations Company, LLC at a price to be determined based upon bids obtained in the secondary market. 
+ 
+ Non-GAAP Financial Measures 
+ We are providing supplemental financial measures for Adjusted Earnings (Loss) and Adjusted Earnings (Loss) per share - diluted, in each case that exclude the impact of (i) the non-cash change in fair value of derivative asset, (ii) share-based compensation expense, (iii) depreciation and amortization, (iv) deferred income tax expense, (v) nonrecurring gains and losses and (vi) the non-cash change in fair value of warrant liability. These supplemental financial measures are not measurements of financial performance under accounting principles generally accepted in the United Stated GAAP and, as a result, these supplemental financial measures may not be comparable to similarly titled measures of other companies. Management uses these non-GAAP financial measures internally to help understand, manage, and evaluate our business performance and to help make operating decisions. We believe the use of these non-GAAP financial measures can also facilitate comparison of our operating results to those of our competitors. 
+ Non-GAAP financial measures are subject to material limitations as they are not in accordance with, or a substitute for, measurements prepared in accordance with GAAP. For example, we expect that share-based compensation expense, which is excluded from the non-GAAP financial measure, will continue to be a significant recurring expense over the coming years and is an important part of the compensation provided to certain employees, officers and directors. Similarly, we expect that depreciation and amortization will continue to be a recurring expense over the term of the useful life of the related assets. Our non-GAAP financial measure is not meant to be considered in isolation and should be read only in conjunction with our condensed consolidated financial statements included elsewhere in this Quarterly Report, which have been prepared in accordance with GAAP. We rely primarily on such condensed consolidated financial statements to understand, manage and evaluate our business performance and use the non-GAAP financial measures only supplementally. 
+ The following is a reconciliation of our Adjusted Earnings (Loss) to the most directly comparable GAAP measure for the periods indicated (in thousands): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Reconciliation of Adjusted Earnings: Net loss (86,754) (18,621) (62,145) (36,372) Change in fair value of derivative asset 48,520 (4,744) 19,181 (13,294) Share-based compensation expense 10,211 10,699 31,865 17,988 Depreciation and amortization 28,636 16,217 66,131 42,284 Deferred income tax expense (4,013) (1,192) 1,358 (555) Other gains - nonrecurring (95) (2,355) Change in fair value of warrant liability (10) (250) 49 Adjusted (loss) earnings (3,400) 2,254 56,140 7,745 
+ The following is a reconciliation of our Adjusted Earnings (Loss) per share - diluted to the most directly comparable GAAP measure for the periods indicated: 
+ 32 
+
+Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Reconciliation of Adjusted Earnings per share - diluted: Net loss per share - diluted (0.26) (0.07) (0.20) (0.15) Change in fair value of derivative asset per diluted share 0.14 (0.02) 0.07 (0.05) Share-based compensation expense per diluted share 0.03 0.04 0.10 0.07 Depreciation and amortization per diluted share 0.09 0.06 0.21 0.17 Deferred income tax expense per diluted share (0.01) Other gains - nonrecurring per diluted share (0.01) Change in fair value of warrant liability per diluted share Adjusted (loss) earnings per diluted share (0.01) 0.01 0.18 0.03 
+ 
+ Critical Accounting Policies, and Use of Estimates 
+ The preparation of financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of the unaudited condensed consolidated financial statements and the reported amounts of expenses during the reporting period. A description of our significant accounting policies in included in our 2023 Form 10-K. You should read the accompanying unaudited condensed consolidated financial statements in conjunction with our audited consolidated financial statements and accompanying notes in our 2023 Form 10-K. There have been no material changes in the information disclosed in the notes to our audited consolidated financial statements included in our 2023 Form 10-K, except the change in estimated useful life of our miners from five years to three years, as described in Note 5. Property and Equipment of Item 1. Financial Statements in this Quarterly Report. 
+ Recent Accounting Pronouncements 
+ Information regarding recent accounting pronouncements applicable to us, adopted and not yet adopted as of the date of this report, is included in Note 2 to our unaudited condensed consolidated financial statements located in Part I - Financial Information, Item 1. Financial Statements in this Quarterly Report. 
+ Emerging Growth Company 
+ We are an emerging growth company, as defined in the Jumpstart Our Business Startups Act of 2012 (the JOBS Act ). Under the JOBS Act, emerging growth companies can delay adopting new or revised accounting standards issued subsequent to the enactment of the JOBS Act until such time as those standards apply to private companies. We have elected to use this extended transition period to enable us to comply with new or revised accounting standards that have different effective dates for public and private companies until the earlier of the date we (i) are no longer an emerging growth company or (ii) affirmatively and irrevocably opt out of the extended transition period provided in the JOBS Act. As a result, our unaudited condensed consolidated financial statements may not be comparable to companies that comply with new or revised accounting pronouncements as of public company effective dates. 
+ On the last business day of the second quarter in 2024, the aggregate market value of our shares of common stock held by non-affiliate stockholders exceeded 700 million. As a result, as of December 31, 2024, we will be considered a large accelerated filer as defined in Rule 12b-2 under the Exchange Act, and will cease to be an emerging growth company. Due to loss of emerging growth company status, we will no longer be exempt from the auditor attestation requirements of Section 404(b) of the Sarbanes-Oxley Act, and our independent registered public accounting firm will evaluate and report on the effectiveness of internal control over financial reporting. 
+ 33 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk. 
+ We are a smaller reporting company as defined by Rule 12b-2 of the Exchange Act and are not required to provide the information under this item. 
+ 
+ Item 4. Controls and Procedures. 
+ Limitations on Effectiveness of Controls and Procedures 
+ In designing and evaluating our disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs. 
+ Evaluation of Disclosure Controls and Procedures 
+ We conducted an evaluation of the effectiveness of our disclosure controls and procedures Disclosure Controls ), as defined by Rules 13a-15(e) and 15d-15(e) of the Exchange Act, as of September 30, 2024, the end of the period covered by this Quarterly Report. The Disclosure Controls evaluation was done under the supervision and with the participation of management, including our Chief Executive Officer and Chief Financial Officer, with the goal being that the information required to be disclosed by us in reports filed under the Exchange Act is (i) recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms and (ii) accumulated and communicated to our management, including our principal executive and principal financial officers, or persons performing similar functions, as appropriate to allow timely decisions regarding disclosure. There are inherent limitations to the effectiveness of any system of disclosure controls and procedures. Accordingly, even effective disclosure controls and procedures can only provide reasonable assurance of achieving their control objectives. Based upon this evaluation, our Chief Executive Officer and Chief Financial Officer concluded that, our disclosure controls and procedures were not effective at the reasonable assurance level as of September 30, 2024. 
+ Remediation of Material Weakness 
+ As noted in the 2023 Form 10-K, during management s assessment of internal controls over financial reporting, a material weakness was identified related to certain Information Technology General Controls over user access, segregation of duties and change management controls. 
+ As management is responsible for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, we understand the importance of developing a resolution plan aligned with management and overseen by the Audit Committee of our Board of Directors. Since the material weakness was identified, management began implementing and has continued to implement and refine measures designed to ensure that control deficiencies contributing to the material weakness are remediated, such that these controls are designed, implemented, and operating effectively. Our plan includes the following: 
+ Enhance our remediation efforts by continuing to devote resources in 2024 in key financial reporting and information technology areas, including hiring additional employees. 
+ Continue to utilize an external third-party internal audit and SOX 404 implementation firm to work to improve the Company s controls related to our material weaknesses, specifically relating to user access and change management surrounding the Company s IT systems and applications. 
+ Continue to implement new processes and controls and engage external resources when required in connection with remediating this material weakness, such that these controls are designed, implemented, and operating effectively. 
+ Continue to formalize our policies and processes including those over outside service providers with a specific focus on enhancing design and documentation related to (i) developing and communicating additional policies and procedures to govern the areas of IT change management and user access processes and related control activities and (ii) develop robust processes to validate data received from third-parties and relied upon to generate financial statements that are complete and accurate. 
+ 34 
+
+We recognize that the material weaknesses in our internal control over financial reporting will not be considered remediated until the remediated controls operate for a sufficient period of time and can be tested and concluded by management to be designed and operating effectively. Because our remediation efforts involve our outsourced service providers, we cannot provide any assurance that these remediation efforts will be successful or that our internal control over financial reporting will be effective as a result of these efforts. 
+ We continue to evaluate and work to improve our internal control over financial reporting related to the identified material weaknesses and management may determine to take additional measures to address control deficiencies or determine to modify the remediation plan described above. In addition, we report the progress and status of the above remediation efforts to the Audit Committee on a periodic basis. 
+ Changes in Internal Control over Financial Reporting 
+ Other than the remediation efforts described above, there were no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the three months ended September 30, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 35 
+
+PART II - OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings. 
+ We are not a party to any material pending legal proceedings. From time to time, we may be subject to legal proceedings and claims arising in the ordinary course of business. There have been no material changes to such proceedings previously disclosed in our 2023 Form 10-K. 
+ 
+ Item 1A. Risk Factors. 
+ Our business, financial condition and operating results can be affected by a number of factors, whether currently known or unknown, including but not limited to the risk factors as previously disclosed in Part I, Item 1A, Risk Factors of our 2023 Form 10-K, which is incorporated herein by reference. There have been no material changes to the risk factors previously disclosed in our 2023 Form 10-K, except for the risk factor noted below. 
+ We will no longer qualify as an emerging growth company or a smaller reporting company as of December 31, 2024 and, as a result, we will no longer be able to avail ourselves of certain reduced reporting requirements applicable to emerging growth companies or smaller reporting companies, subject to applicable transition relief. 
+ We are currently an emerging growth company, as defined in the JOBS Act, and we have taken advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not emerging growth companies, including the auditor attestation requirements of Section 404, compliance with requirements that may be adopted by the Public Company Accounting Oversight Board regarding mandatory audit firm rotation or a supplement to the auditors report providing additional information about the audit and the financial statements, reduced disclosure obligations regarding executive compensation in our periodic reports and proxy statements, and exemptions from the requirements of holding a nonbinding advisory vote on executive compensation and stockholder approval of any golden parachute payments not previously approved. In addition, as an emerging growth company, we have elected to use the extended transition period for complying with new or revised accounting standards until those standards would otherwise apply to private companies. As a result, our consolidated financial statements may not be comparable to the financial statements of issuers who are required to comply with the effective dates for new or revised accounting standards that are applicable to public companies. 
+ Because the market value of our common stock held by non-affiliates exceeded 700 million as of June 30, 2024, we will be deemed a large accelerated filer under the Exchange Act and will lose our status as an emerging growth company as of December 31, 2024. As a result, subject to certain grace periods, we will be required to: 
+ engage an independent registered public accounting firm to provide an attestation report on our internal controls over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act of 2002; 
+ submit certain executive compensation matters to stockholder advisory votes; and 
+ disclose a compensation discussion and analysis, including disclosure regarding certain executive compensation related items such as the correlation between executive compensation and performance and comparisons of the chief executive officer s compensation to median employee compensation. 
+ We will no longer able to take advantage of cost savings associated with the JOBS Act. Furthermore, if the additional requirements applicable to non-emerging growth companies divert the attention of our management and personnel from other business concerns, they could have a material adverse effect on our business, financial condition and results of operations. The increased costs will decrease our net income or increase our net loss and may require us to reduce costs in other areas of our business. We cannot predict or estimate the amount or timing of additional costs we may incur to respond to these requirements. Furthermore, if we are unable to satisfy our obligations as a non-emerging growth company, we could be subject to delisting of our common stock, fines, sanctions and other regulatory action and potentially civil litigation. 
+ As a result of our loss of emerging growth company status, it is possible that investors will find our common stock less attractive in light of the fact that we have relied on certain of these exemptions. If some investors find our common stock less attractive as a result, there may be a less active trading market for our common stock and our share price may be more volatile. In addition, any failure to comply with these additional requirements in a timely manner, or at all, could have an adverse effect on our business and results of operations and could cause a decline in the price of our common stock. 
+ 36 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 
+ None. 
+ 
+ Item 3. Defaults Upon Senior Securities. 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures. 
+ Not applicable. 
+ 
+ Item 5. Other Information. 
+ (a) Disclosure in lieu of reporting on a Current Report on Form 8-K. 
+ None. 
+ (b) Material changes to the procedures by which security holders may recommend nominees to the board of directors. 
+ None. 
+ (c) Insider trading arrangements and policies. 
+ During the three months ended September 30, 2024, none of our directors or officers (as defined in Rule 16a-1(f) under the Exchange Act) or modified a Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement, as each term is defined in Item 408(a) of Regulation S-K. 
+ 37 
+
+Item 6. Exhibits. Incorporated by Reference Filed/ 
+ Furnished 
+ Herewith 
+ Exhibit 
+ Number 
+ Exhibit Description 
+ From 
+ File No 
+ Exhibit 
+ Filing 
+ Date 
+ 2.1 Agreement and Plan of Merger, dated as of March 4, 2021, by and among Good Works Acquisition Corp., Currency Merger Sub, Inc. and Cipher Mining Technologies Inc. 
+ 8-K 001-39625 2.1 3/5/21 3.1 Second Amended and Restated Certificate of Incorporation of Cipher Mining Inc. 
+ 8-K 001-39625 3.1 8/31/21 3.2 Amended and Restated Bylaws of Cipher Mining Inc. 
+ 8-K 001-39625 3.2 8/31/21 4.1 Specimen Warrant Certificate of Good Works Acquisition Corp. 
+ S-1/A 333-248333 4.3 10/9/21 4.2 Warrant Agreement, dated as of October 19, 2020, by and between Continental Stock Transfer Trust Company and Good Works Acquisition Corp. 
+ 8-K 001-39625 4.1 10/28/20 10.1 Amendment Agreement to the Future Sales and Purchase Agreement, dated July 10, 2024, by and between Cipher Mining Infrastructure LLC and Bitmain Technologies Delaware Limited 
+ 10-Q 
+ 001-39625 
+ 10.3 8/13/24 31.1 Certification of Chief Executive Officer pursuant to Rule 13a 14(a)/15d 14(a). 
+ 31.2 Certification of Chief Financial Officer pursuant to Rule 13a 14(a)/15d 14(a). 
+ 32.1 Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350. 
+ 32.2 Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350. 
+ 101.INS Inline XBRL Instance Document the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document 101.SCH Inline XBRL Taxonomy Extension Schema Document 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) 
+ _____________________________________________________ 
+ Filed herewith. 
+ Furnished herewith. 
+ # Indicates management contract or compensatory plan. 
+ Certain confidential portions (indicated by brackets and asterisks) have been omitted from this exhibit because such information is both (i) non-material and (ii) would be competitively harmful if publicly disclosed. 
+ 38 
+
+SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized . 
+ CIPHER MINING INC. 
+ Date: October 31, 2024 
+ By: /s/ Tyler Page Tyler Page Chief Executive Officer (Principal Executive Officer) 
+ Date: October 31, 2024 
+ By: /s/ Edward Farrell Edward Farrell Chief Financial Officer (Principal Financial Officer) 
+ 
+ 39 
+
+<EX-31.1>
+ 2
+ q3202410-qcifrex311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION 
+ I, Tyler Page, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Cipher Mining Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a 15(f) and 15d 15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date October 31, 2024 
+ By s Tyler Page Tyler Page Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ q3202410-qcifrex312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION 
+ I, Edward Farrell, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Cipher Mining Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a 15(f) and 15d 15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ Date October 31, 2024 
+ By s Edward Farrell Edward Farrell Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ q3202410-qcifrex321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report on Form 10-Q of Cipher Mining Inc. (the Company for the period ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date October 31, 2024 
+ By s Tyler Page Tyler Page Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ q3202410-qcifrex322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report on Form 10-Q of Cipher Mining Inc. (the Company for the period ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date October 31, 2024 
+ By s Edward Farrell Edward Farrell Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ cifr-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ cifr-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ cifr-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ cifr-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ cifr-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

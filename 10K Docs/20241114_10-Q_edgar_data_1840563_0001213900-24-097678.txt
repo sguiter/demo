@@ -1,0 +1,3450 @@
+<Header>
+<FileStats>
+    <FileName>20241114_10-Q_edgar_data_1840563_0001213900-24-097678.txt</FileName>
+    <GrossFileSize>7039750</GrossFileSize>
+    <NetFileSize>119975</NetFileSize>
+    <NonText_DocumentType_Chars>1452202</NonText_DocumentType_Chars>
+    <HTML_Chars>1754178</HTML_Chars>
+    <XBRL_Chars>1741619</XBRL_Chars>
+    <XML_Chars>1818459</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-24-097678.hdr.sgml : 20241114
+<ACCEPTANCE-DATETIME>20241113195816
+ACCESSION NUMBER:		0001213900-24-097678
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		99
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241114
+DATE AS OF CHANGE:		20241113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Elevai Labs Inc.
+		CENTRAL INDEX KEY:			0001840563
+		STANDARD INDUSTRIAL CLASSIFICATION:	PHARMACEUTICAL PREPARATIONS [2834]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				851399981
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41875
+		FILM NUMBER:		241456419
+
+	BUSINESS ADDRESS:	
+		STREET 1:		120 NEWPORT CENTER DRIVE
+		STREET 2:		STE 250
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+		BUSINESS PHONE:		18667944940
+
+	MAIL ADDRESS:	
+		STREET 1:		120 NEWPORT CENTER DRIVE
+		STREET 2:		STE 250
+		CITY:			NEWPORT BEACH
+		STATE:			CA
+		ZIP:			92660
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Reactive Medical Labs Inc.
+		DATE OF NAME CHANGE:	20210114
+
+</SEC-Header>
+</Header>
+
+ 0001213900-24-097678.txt : 20241114
+
+10-Q
+ 1
+ ea0219720-10q_elevai.htm
+ QUARTERLY REPORT
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE
+COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 
+
+(Mark One) 
+
+QUARTERLY
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For The Quarterly
+Period Ended 
+
+OR 
+
+TRANSITION
+REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Commission File Number: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State of incorporation) (I.R.S. Employer Identification No.) 
+
+, 
+
+, 
+
+(Address of principal
+executive office) (Zip code) 
+
+(Registrant s
+telephone number, including area code) 
+
+Securities
+registered pursuant to Section 12(b) of the Act: 
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered The Stock Market LLC 
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934, as amended Exchange Act ), during the preceding 12 months (or for such shorter period than the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. Yes 
+
+Indicate
+by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405
+of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant
+was required to submit such files). No 
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company,
+or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller
+reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company 
+
+If
+an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+As
+of November 13, 2024, there were shares of our common stock, par value 0.0001 per share, issued and outstanding. 
+
+Elevai Labs Inc.Quarterly Report on Form 10-Q 
+
+TABLE OF CONTENTS 
+
+PART I FINANCIAL INFORMATION 
+ 1 
+
+Item 1. 
+ Financial Statements 
+ 1 
+
+Notes to Unaudited Condensed Consolidated Financial Statements 
+ 6 
+
+Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 22 
+
+Item 3. 
+ Quantitative and Qualitative Disclosure About Market Risk 
+ 36 
+
+Item 4. 
+ Controls and Procedures 
+ 36 
+
+PART II OTHER INFORMATION 
+ 37 
+
+Item 1. 
+ Legal Proceedings 
+ 37 
+
+Item 1A. 
+ Risk Factors 
+ 37 
+
+Item 2. 
+ Recent Sales of Unregistered Securities; Use of Proceeds and Issuer Purchases of Equity Securities 
+ 37 
+
+Item 3. 
+ Defaults Upon Senior Securities 
+ 37 
+
+Item 4. 
+ Mine Safety Disclosures 
+ 37 
+
+Item 5. 
+ Other Information 
+ 37 
+
+Item 6. 
+ Exhibits 
+ 38 
+
+SIGNATURES 
+ 39 
+
+i 
+
+Forward-Looking Statements 
+
+This Quarterly Report
+on Form 10-Q (this Quarterly Report of Elevai Labs Inc. we, us, our, Elevai 
+and the Company contains statements that constitute forward-looking statements within the meaning of the
+safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Any statements that are not statements of historical
+facts may be deemed to be forward-looking statements. These statements appear in several different places in this Quarterly Report and,
+in some cases, can be identified by words such as anticipates, estimates, projects, expects, 
+ contemplates, intends, believes, plans, may, will 
+or their negatives or other comparable words, although not all forward-looking statements contain these identifying words. Forward-looking
+statements in this Quarterly Report may include, but are not limited to, statements and/or information related to: our financial performance
+and projections; our business prospects and opportunities; our business strategy and future operations; the projection of timing and
+delivery of products in the future; projected costs; expected production capacity; expectations regarding demand and acceptance of our
+products; estimated costs of research and development to develop new pipeline products; trends in the market in which we operate; the
+plans and objectives of management; our liquidity and capital requirements, including cash flows and uses of cash; trends relating to
+our industry; plans relating to our current products; and plans and intentions to regain compliance with the listing requirements of
+The Nasdaq Stock Market LLC Nasdaq ), including, among other things, through the implementation of a reverse stock split. 
+
+We have based these
+forward-looking statements on our current expectations about future events on information that is available as of the date of this Quarterly
+Report, and any forward-looking statements made by us speak only as of the date on which they are made. While we believe these expectations
+are reasonable, such forward-looking statements are inherently subject to risks and uncertainties, many of which are beyond our control.
+Our actual future results may differ materially from those discussed or implied in our forward-looking statements for various reasons,
+including, our ability to change the direction of the Company; our ability to keep pace with new technology and changing market needs;
+our capital needs, and the competitive environment of our business. Additional Factors that could contribute to such differences include,
+but are not limited to: 
+
+general economic and business
+ conditions, including changes in interest rates; 
+
+prices of other competitive
+ products, costs associated with research and development of our products and other economic conditions; 
+
+the effect of an outbreak
+ of disease or similar public health threat, such as any future outbreak of COVID-19 on the Company s business (natural phenomena,
+ including the lingering effects of the COVID-19 pandemic); 
+
+the impact of political
+ unrest, natural disasters or other crises, terrorist acts, acts of war and/or military operations, and our ability to maintain or
+ broaden our business relationships and develop new relationships with strategic alliances, suppliers, customers, distributors or
+ otherwise; 
+
+breaches in data security,
+ failure of information security systems, cyber-attacks or other security or privacy-related incidents affecting us or our suppliers; 
+
+the ability of our information
+ technology systems or information security systems to operate effectively; 
+
+actions by government authorities,
+ including changes in government regulation; 
+
+uncertainties associated
+ with legal proceedings; 
+
+changes in the size of
+ the medical aesthetics, cosmetics and biotechnology market; 
+
+future decisions by management
+ in response to changing conditions; 
+
+ii 
+
+the Company s ability
+ to execute prospective business plans; 
+
+misjudgments in the course
+ of preparing forward-looking statements; 
+
+the Company s ability
+ to raise sufficient funds to carry out its proposed business plan; 
+
+inability to keep up with
+ advances in medical aesthetics and biotechnology; 
+
+inability to design, develop,
+ market and sell new medical aesthetics and biotech products that address additional market opportunities to generate revenue and
+ positive cash flows; 
+
+dependency on certain key
+ personnel and any inability to retain and attract qualified personnel; 
+
+inability to succeed in
+ establishing, maintaining and strengthening the Elevai brand; 
+
+our expectations regarding
+ our ability to obtain, maintain, protect, defend and enforce our intellectual property rights and operate without infringing, misappropriating,
+ or otherwise violating the intellectual property rights of others; 
+
+disruption of supply or
+ shortage of raw materials; 
+
+the unavailability, reduction
+ or elimination of government and economic incentives; 
+
+failure to manage future
+ growth effectively; and 
+
+the other risks and uncertainties
+ detailed from time to time in our filings with the Securities and Exchange Commission SEC ), including but not limited
+ to those described under Risk Factors in Part I, Item 1A of the Company s Annual Report on Form 10-K as amended
+ for the year ended December 31, 2023, filed with the SEC on March 29, 2024 (the Form 10-K ). 
+
+Although management
+has attempted to identify important factors that could cause actual results to differ materially from those contained in forward-looking
+statements, there may be other factors that cause results not to be as anticipated, estimated or intended. There is no assurance that
+forward-looking statements will prove to be accurate, as actual results and future events could differ materially from those anticipated
+in such forward-looking statements. Accordingly, readers should not place undue reliance on forward-looking statements. These cautionary
+remarks expressly qualify, in their entirety, all forward-looking statements attributable to our Company or persons acting on our Company s
+behalf. We do not undertake to update any forward-looking statements to reflect actual results, changes in assumptions or changes in
+other factors affecting such statements, except as, and to the extent required by, applicable securities laws. 
+
+iii 
+
+PART I - FINANCIAL INFORMATION 
+
+Item 1. CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) 
+
+Condensed Consolidated Financial Statements
+of 
+
+For the quarterly periods ended September 30,
+2024, and 2023 
+
+(Unaudited - Expressed in United States Dollars) 
+
+Elevai Labs Inc. 
+
+Condensed Consolidated Balance Sheets 
+
+(Unaudited - Expressed in United States dollar) 
+
+As
+ of: 
+ September 30, 2024 
+ December 31, 2023 
+ 
+ ASSETS 
+
+Current Assets 
+
+Cash 
+
+Receivables, net 
+
+Prepaids and deposits 
+
+Inventory, net 
+
+Total Current Assets 
+
+Deposit 
+ -
+
+Property and equipment, net 
+
+Intangibles, net 
+ 
+ -
+
+Operating lease right-of-use asset 
+
+TOTAL ASSETS 
+
+LIABILITIES 
+
+Current Liabilities 
+
+Accounts payable and accrued liabilities 
+
+Customer deposits 
+
+Due to related parties 
+
+Current portion of consideration payable 
+ 
+ -
+
+Current portion of lease liability 
+
+Derivative liabilities 
+
+Total Current Liabilities 
+
+Consideration payable 
+ 
+ -
+
+Operating lease liability 
+ -
+
+TOTAL LIABILIITES 
+
+Commitments and Contingencies 
+
+EQUITY 
+
+Common stock, par value, shares authorized; and shares issued and outstanding as of September 30, 2024, and December 31, 2023, respectively 
+
+Additional paid-in capital 
+
+Accumulated other comprehensive income 
+
+Accumulated deficit 
+
+TOTAL EQUITY 
+
+TOTAL LIABILITIES
+ AND EQUITY 
+
+The accompanying notes are an integral part of
+these condensed consolidated financial statements. 
+
+1 
+
+Elevai Labs Inc. 
+
+Condensed Consolidated Statements of Operations and Comprehensive
+Loss 
+
+For the Three Nine months ended September 30, 2024, and 2023 
+
+(Unaudited - Expressed in United States dollar) 
+
+Three months 
+ ended 
+ September 30, 
+ 2024 
+ Three months 
+ ended 
+ September 30, 
+ 2023 
+ Nine months 
+ ended 
+ September 30, 
+ 2024 
+ Nine months 
+ ended 
+ September 30, 
+ 2023 
+ 
+ Revenue 
+
+Cost of sales 
+
+Gross profit 
+
+Expenses 
+
+Depreciation and amortization 
+
+Marketing and promotion 
+
+Consulting fees 
+
+Office and administrative 
+
+Professional fees 
+
+Investor relations 
+
+Research and development 
+
+Foreign exchange (gain) loss 
+
+Travel and entertainment 
+
+Total Expenses 
+
+Net loss before other income (expense) 
+
+Other income (expense) 
+
+Change in fair value of derivative liabilities 
+
+Interest expense 
+
+Interest income 
+
+Other income 
+ 
+ -
+
+-
+
+Net loss 
+
+Other comprehensive income (loss) 
+
+Currency translation adjustment 
+
+Total comprehensive
+ loss 
+
+Basic and diluted loss per share 
+
+Weighted average shares outstanding 
+
+The accompanying notes are an integral part of
+these condensed consolidated financial statements. 
+
+2 
+
+Elevai Labs Inc. 
+
+Condensed Consolidated Statements of Changes in Stockholders 
+Equity 
+
+For the Three Nine months ended September 30, 2024, and 2023 
+
+(Unaudited - Expressed in United States dollars) 
+
+Series
+ seed 1 preferred stock 
+ Series
+ seed 2 preferred stock 
+ Series
+ A preferred stock 
+ Common
+ Stock 
+ Additional 
+ 
+ Accumulated 
+ other 
+
+Number of
+ 
+ shares 
+ Amount 
+ Number of
+ 
+ shares 
+ Amount 
+ Number of
+ 
+ shares 
+ Amount 
+ Number of 
+ shares 
+ Amount 
+ paid-in 
+ capital 
+ Accumulated 
+ deficit 
+ comprehensive 
+ income 
+ Total 
+
+# 
+ 
+ # 
+ 
+ # 
+ 
+ # 
+
+Balance, July 1, 2023 
+
+Private
+ placement 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+ - 
+
+Share-based
+ compensation 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+ - 
+
+Net
+ loss for the period 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Currency
+ translation adjustment 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance,
+ September 30, 2023 
+
+Balance,
+ July 1, 2024 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Issued
+ and issuable for acquisition of intangible assets 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+ - 
+ - 
+ 
+ Issued
+ pursuant to public offering 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+ - 
+
+Issued
+ pursuant to Securities Purchase Agreement 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+ - 
+
+Share-based
+ compensation 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+ - 
+
+Net
+ loss for the period 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+
+Currency
+ translation adjustment 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance,
+ September 30, 2024 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+The accompanying notes are an integral part of
+these condensed consolidated financial statements. 
+
+3 
+
+Elevai Labs Inc. 
+
+Condensed Consolidated Statements of Changes in Stockholders 
+Equity 
+
+For the Three Nine months ended September 30, 2024, and 2023 
+
+(Unaudited - Expressed in United States dollars) 
+
+Series
+ seed 1 preferred stock 
+ Series
+ seed 2 preferred stock 
+ Series
+ A preferred stock 
+ Common
+ Stock 
+ Additional 
+ 
+ Accumulated 
+ other 
+
+Number of 
+ shares 
+ Amount 
+ Number of 
+ shares 
+ Amount 
+ Number of 
+ shares 
+ Amount 
+ Number of 
+ shares 
+ Amount 
+ paid-in 
+ capital 
+ Accumulated 
+ deficit 
+ Comprehensive 
+ income 
+ Total 
+
+# 
+ 
+ # 
+ 
+ # 
+ 
+ # 
+
+Balance,
+ January 1, 2023 
+
+Private
+ placement 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+ - 
+
+Exercise
+ of stock options 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+ - 
+
+Share-based
+ compensation 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+ - 
+
+Net
+ loss for the period 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Currency
+ translation adjustment 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance,
+ September 30, 2023 
+
+Balance,
+ January 1, 2024 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Issued
+ and issuable for acquisition of intangible assets 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+ - 
+
+Issued
+ pursuant to public offering 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+ - 
+
+Issued
+ pursuant to Securities Purchase Agreement 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+- 
+ - 
+
+Share-based
+ compensation 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+ - 
+
+Net
+ loss for the period 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ 
+ - 
+
+Currency
+ translation adjustment 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+Balance,
+ September 30, 2024 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+
+The accompanying notes are
+an integral part of these condensed consolidated financial statements. 
+
+4 
+
+Elevai Labs Inc. 
+
+Condensed Consolidated Statements of Cash Flows 
+
+For the Nine months ended September 30, 2024, and 2023 
+
+(Unaudited - Expressed in United States dollars) 
+
+September 30, 2024 
+ September 30, 2023 
+ 
+ Operating activities 
+
+Net loss 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Depreciation and amortization 
+
+Share-based compensation 
+
+Straight-line rent expense 
+
+Change in fair value of derivative liabilities 
+
+Non-cash interest expense on notes payable and consideration payable 
+ 
+ -
+
+R D costs for intangible assets 
+ 
+ -
+
+Changes in operating assets and liabilities: 
+
+Receivables 
+
+Prepaid expenses and deposits 
+
+Inventory 
+
+Accounts payable and accrued liabilities 
+
+Customer deposits 
+
+Due to related parties 
+
+Cash flows used in operating activities 
+
+Investing activities 
+
+Purchase of equipment 
+
+Purchase of intangible assets 
+ 
+ -
+
+Cash flows used in investing activities 
+
+Financing activities 
+
+Net proceeds from issuance of common stock and warrants 
+
+Net proceeds from issuance of Notes 
+ 
+ -
+
+Repayment of Notes 
+ 
+ -
+
+Exercise of stock options 
+ -
+
+Cash flows provided by financing activities 
+
+Effect of exchange rate changes on cash 
+
+Increase (decrease) in cash 
+
+Cash, beginning of period 
+
+Cash, ending of period 
+
+Supplemental cash flow information: 
+
+Cash paid for interest 
+
+Cash paid for taxes 
+ -
+ 
+ -
+
+Non-cash Investing and Financing transactions: 
+
+Common stock issued and issuable on acquisition of intangible asset 
+ 
+ -
+
+The accompanying notes are an integral part of
+these condensed consolidated financial statements. 
+
+5 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United States dollars) 
+
+owned subsidiaries, Elevai Research Inc.,
+Elevai Skincare Inc., and Elevai Biosciences, Inc., are collectively referred to in these unaudited condensed consolidated financial statements
+as the Company. 
+
+The Company is a skincare development
+company engaged in the design, manufacture, and marketing of skincare products in the skincare industry. The Company s principal
+activities are developing and manufacturing skincare products. 
+
+On April 29, 2024, Elevai Skincare Inc.
+("Skincare and Elevai Biosciences, Inc. BioSciences were incorporated under the laws of the state of Delaware.
+Elevai is the sole shareholder of Skincare and BioSciences. The purpose of Skincare is to operate the Company s existing business,
+while the purpose of BioSciences is to hold and develop the Company s intellectual property. Effective May 1, 2024, Elevai transferred
+its operating assets and liabilities relating to its skincare business to Skincare in exchange for common stock of Skincare. 
+
+and , respectively, and has an accumulated deficit of 
+and , respectively. Furthermore, for the nine months ended September 30, 2024, and 2023, the Company incurred a net loss of
+ and , respectively, and used and , respectively of cash flows for operating activities. These
+factors raise substantial doubt regarding the Company s ability to continue as a going concern. These unaudited condensed consolidated
+financial statements do not include any adjustments to the recoverability and classification of recorded asset amounts and classification
+of liabilities that might be necessary should the Company be unable to continue as a going concern. 
+
+The assessment of whether the going
+concern assumption is appropriate requires management to take into account all available information about the future, which is at least,
+but not limited to, 12 months from the date the financial statements are issued. The Company is aware that material uncertainties related
+to events or conditions may cast substantial doubt upon the Company s ability to continue as a going concern. 
+
+Management s plans that alleviate
+substantial doubt about the Company s ability to continue as a going concern include raising additional debt or equity financing.
+Although the Company has been successful in raising funds in the past, and expects to do so in the future, there are no guarantees that
+it will be able to raise funds as anticipated. 
+
+6 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United States dollars) 
+
+owned subsidiaries, Elevai Research Inc., Skincare, and BioSciences.
+All intercompany accounts, transactions and profits were eliminated in the unaudited condensed consolidated financial statements. 
+
+-year straight-line License #2 
+
+7 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United States dollars) 
+
+8 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United States dollars) 
+
+Sales taxes receivable 
+
+The Company records sales taxes receivable
+for recoverable sales taxes paid on eligible purchases in its Canadian subsidiary. As at September 30, 2024, and December 31, 2023, the
+Company recorded a provision for credit losses of nil and nil , respectively. 
+
+Deposits 
+
+Prepaids and deposits - current 
+
+Deposits- non-current 
+ -
+
+As of December 31, 2023, the security
+deposit on the Company s long-term lease in the amount of is classified as a non-current deposit on the balance sheet.
+As this lease term is expected to end in May 2025, this non-current deposit is classified as current on the balance sheet as at September
+30, 2024. 
+
+Work in progress 
+
+Finished goods 
+
+Cost of inventory recognized as expense
+in cost of sales for the nine months ended September 30, 2024, and 2023, totaled and , respectively. In addition, the
+cost of inventory relating to samples given out and expensed in marketing and promotion for the nine months ended September 30, 2024,
+and 2023, totaled and , respectively. As of September 30, 2024, and December 31, 2023, the Company recorded an allowance
+for inventory of nil and nil , respectively. 
+
+9 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United States dollars) 
+
+Additions 
+
+-
+
+Foreign currency translation 
+ -
+ 
+ -
+
+Balance, December 31, 2023 
+
+Additions 
+ 
+ -
+ 
+ -
+
+Foreign currency translation 
+ -
+ 
+ -
+
+Balance, September 30, 2024 
+
+Accumulated depreciation 
+
+Balance, December 31, 2022 
+
+Depreciation 
+
+Foreign currency translation 
+ -
+ 
+ -
+
+Balance, December 31, 2023 
+
+Depreciation 
+
+Foreign currency translation 
+ -
+ 
+ -
+
+Balance, September 30, 2024 
+
+Net book value 
+
+December 31, 2023 
+
+September 30, 2024 
+
+During the nine months ended September
+30, 2024, and 2023, the Company capitalized depreciation of and , respectively as part of the production of inventory. 
+
+years and has a purchase price of . The payment structure for License
+#1 is as follows: 
+
+a) payable upon executing the license (paid); 
+
+b) payable on March 15, 2025 (updated from July 15, 2024 in an
+amendment dated July 9, 2024); and 
+
+c) payable on completion of technology transfer or two years from January 15, 2024, whichever comes first. 
+
+The cost of License #1 was measured
+at , which is the fair value of the consideration payable on initial recognition, determined by discounting the future payments
+using a market interest rate of . 
+
+On April 30, 2024, the Company entered
+into an exclusive license agreement with a pharmaceutical company granting the Company rights to develop, manufacture, and commercialize
+licensed products License #2 ). The Company has classified License #2 as an IPR D asset resulting in only the acquisition
+costs plus any transaction costs to be capitalized upon acquisition. The research and development project associated with License #2
+is not yet complete and as a result the Company has not yet determined the useful life of the IPR D asset. 
+
+10 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United States dollars) 
+
+and shares of common stock with a value of to the pharmaceutical company. The shares issued to the pharmaceutical company
+are unregistered and subject to trading restrictions for six months from the issue date resulting in a fair value discount adjustment
+of on the value of the common stock issued to the pharmaceutical company. The Company incurred transaction costs of in
+legal fees and in common stock paid to a consultant who assisted in acquiring License #2. The common stock to be issued to
+the consultant will be unregistered and subject to trading restrictions for a 1-year period from the issue date of the first tranche resulting
+in a fair value discount adjustment of on the value of the common stock issued to the consultant. The fair value adjustments
+were calculated using the Black-Scholes Option Pricing Model. 
+
+The Black-Scholes Option Pricing Model
+requires six basic data inputs: the exercise or strike price, expected time to expiration or exercise, the risk-free interest rate, the
+current stock price, the estimated volatility of the stock price in the future, and the dividend rate. Changes to these inputs could
+produce a significantly higher or lower fair value measurement. 
+
+- 
+ 
+ Expected life 
+ - years 
+ 
+ Expected dividend
+ rate 
+
+Expected
+ volatility 
+
+The consultant is to receive 
+shares of common stock in the following tranches and all shares were earned (i.e. fully vested) upon the Company s acquisition of
+License #2 as follows: 
+
+May 3, 2024: shares (issued) 
+
+August 1, 2024: shares (issued) 
+
+November 1, 2024: shares (issued Note 18) 
+
+February 2, 2025: shares 
+
+The cost of License #2 IPR D asset
+is , which is the fair value of the consideration paid on initial recognition. 
+
+Balance, September 30, 2024 
+
+Accumulated amortization 
+
+Balance, December 31, 2023 
+ -
+ 
+ -
+ 
+ -
+
+Additions 
+ 
+ -
+
+Balance, September 30, 2024 
+ 
+ - 
+
+Net Book value September 30, 2024 
+
+11 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United States dollars) 
+
+to 
+per month commencing July 1, 2023, through May 31, 2025. The lease amendment required a remeasurement of the lease liability which resulted
+in an increase of to the lease liability and an equal increase in the right-of-use asset as of July 1, 2023. The Company used
+a discount rate of upon the remeasurement of the lease liability on July 1, 2023, compared to an original discount rate of on
+lease commencement, as its incremental cost of borrowing due to the amendment. 
+
+The Company recognized a total lease
+cost related to its non-cancelable operating lease of and for the nine months ended September 30, 2024, and 2023, respectively.
+
+Lab space, recorded in research and development 
+
+Lab space, capitalized to production of inventory 
+
+As of September 30, 2024, and December
+31, 2023, the Company recorded a security deposit of (Note 5). 
+
+2025 
+
+Thereafter 
+ -
+
+Less: Imputed interest 
+
+Operating lease liability 
+
+Operating lease lability current 
+
+Operating lease lability non-current 
+ -
+
+The remaining lease term as of September
+30, 2024, is years (December 31, 2023 years). 
+
+Accrued liabilities 
+
+12 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United
+States dollars) 
+
+. 
+
+The Company has accounted for a discount,
+using a market interest rate of , on the consideration payable to reflect the imputed interest on future installments, totaling
+ . 
+
+Payment 
+
+Accretion expense 
+
+Outstanding, September 30, 2024 
+
+Consideration payable current 
+
+Consideration payable non-current 
+
+common stock purchase warrants with an exercise price of as part of the conversion of promissory notes. 
+
+On November 21, 2023, the Company completed
+its Initial Public Offering IPO and issued warrants (the IPO warrants ). Each IPO warrant is exercisable
+into one share of common stock of the Company at per share and expire on . 
+
+We analyzed the common stock purchase
+warrants issued as partial settlement of the promissory notes payable and the IPO warrants against the requirements of ASC 480, Distinguishing
+Liabilities from Equity, and determined that the warrants should be classified as financial liabilities. 
+
+ASC 815, Derivatives and Hedging, requires
+that the warrants be accounted for as derivative liabilities with initial and subsequent measurement at fair value with changes in fair
+value recorded as other income (expense). 
+
+Addition of new derivatives during IPO 
+
+Change in fair value of derivative liabilities 
+
+Outstanding, December 31, 2023 
+
+Change in fair value of derivative liabilities 
+
+Outstanding, September 30, 2024 
+
+We determined our derivative liabilities
+to be a Level 3 fair value measurement and used the Black-Scholes Option Pricing Model to calculate the fair value as of initial recognition
+and as of September 30, 2024, and December 31, 2023. The Black-Scholes Option Pricing Model requires six basic data inputs: the exercise
+or strike price, expected time to expiration or exercise, the risk-free interest rate, the current stock price, the estimated volatility
+of the stock price in the future, and the dividend rate. Changes to these inputs could produce a significantly higher or lower fair value
+measurement. 
+
+13 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United
+States dollars) 
+
+- Expected life 1 years years years years years Expected dividend rate Expected volatility 
+
+As of September 30, 2024, and December
+31, 2023, the weighted average life of derivative liability warrants outstanding was and years, respectively. 
+
+derivative liability warrants outstanding. The amendment removed the clause to automatically convert warrants to shares
+on IPO date and all warrants were given an expiry date of . This led to an increase in the expected life input in the Black-Scholes
+model as of December 31, 2023, compared to December 31, 2022, when the Company used the expected IPO date to calculate the expected life
+of the warrants. 
+
+in Notes with a 
+original issue discount. Pursuant to the Securities Purchase Agreement, the Company also agreed to issue shares of common stock
+(Note 14). Given the original issue discount, the subscription amount received by the Company was an aggregate of . The Notes
+were non-interest bearing except in the event of default, in which case interest would accrue at per annum. The maturity date of the
+Notes was 90 days from the date of issuance. While the Notes were outstanding, the Company agreed to use the net proceeds of any offering
+of its equity or debt securities to first redeem the Notes in full, including the principal amount and all other amounts due and payable
+pursuant to the Notes. 
+
+The fair value of the Notes was .
+The Company incurred total transaction costs of in relation to the Security Purchase Agreement, of which was attributed
+to the issuance of the Notes and was attributed to the issuance of common stock. The Company repaid in relation to
+the Notes Payable in September 2024, resulting in a Notes payable balance of nil at September 30, 2024. 
+
+Transaction costs 
+
+Interest accretion 
+
+Repayment 
+
+Outstanding, September 30, 2024 
+ -
+
+14 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United
+States dollars) 
+
+common stock authorized, each having a par value of . 
+
+Issued and outstanding 
+
+As of September 30, 2024, and December
+31, 2023, the Company had and shares issued and outstanding, respectively. 
+
+Transactions during the nine months
+ended September 30, 2024 
+
+On April 30, 2024, the Company issued
+ common stock on acquisition of License #2 and was recognized in equity. A total of was recognized in common stock
+and the remainder of to additional paid in capital (Note 8). These shares are unregistered and restricted from trading as disclosed
+in Note 8. 
+
+On May 3, 2024, the Company committed
+to issue fully vested shares for the acquisition of License #2. As at September 30, 2024, of these shares have been
+issued. A total of was recognized in equity in relation to the issuance of these shares, of which was recognized in common
+stock and the remainder of to additional paid in capital (Note 8). These shares are unregistered and restricted from trading
+as disclosed in Note 8. 
+
+On August 2, 2024, the Company issued
+ shares as consideration for purchasers who entered into the Securities Purchase Agreement (Note 13). Transaction costs of 
+were associated with this share issuance. A total of was recognized in equity, of which was recognized in common stock and
+the remainder of to additional paid in capital. 
+
+On September 24, 2024, the Company issued
+ shares of the Company s common stock and pre-funded warrants in lieu of shares of common stock, along with
+ common stock purchase warrants. The purchasers had the option to elect to purchase pre-funded warrants in lieu of common shares
+in order to avoid exceeding the Beneficial Ownership Limitation, which is (or upon election of the holder prior to the issuance
+of any warrants) of the number of shares of common stock outstanding immediately after giving effect to the issuance of shares of common
+stock issuable upon exercise of the warrant. The pre-funded warrants had an exercise price of , had no expiry date and had a cashless
+exercise provision. All pre-funded warrants were exercised by September 30, 2024. The purchase price of each share of common stock and
+accompanying warrants was , and the purchase price of each pre-funded warrant and accompanying warrants was equal to such price minus
+ . Share issuance costs of were associated with this offering. A total of was recognized in equity, of which
+ was recognized in common stock and the remainder of to additional paid in capital. 
+
+Transactions during the nine months
+ended September 30, 2023 
+
+On January 6, 2023, the Company issued
+ common stock upon the exercise of stock options with an exercise price of per common stock for , of which 
+was recognized in common stock and the remaining in additional paid-in capital. 
+
+On March 2, 2023, the Company issued
+ common stock and common stock purchase warrants for , of which was recognized in common stock and the remaining
+ in additional paid-in capital. These warrants are accounted for as equity warrants. 
+
+15 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United
+States dollars) 
+
+common stock, of which was recognized in common stock and the remaining in additional paid-in capital. 
+
+On May 15, 2023, the Company issued
+ common stock, of which was recognized in common stock and the remaining was recognized in additional paid-in capital. 
+
+On August 25, 2023, the Company issued
+ common stock, of which was recognized in common stock and the remaining was recognized in additional paid-in capital. 
+
+On September 13, 2023, the Company issued
+ common stock and common stock purchase warrants, of which was recognized in the common stock and the remaining 
+was recognized in additional paid-in capital. These warrants are accounted for as equity warrants. 
+
+Preferred Stock 
+
+Authorized 
+
+As of September 30, 2024, and December
+31, 2023, the Company had of all preferred stock authorized, each having a par value of per stock. 
+
+The holders of Preferred Stock shall
+have the right to convert their shares of Preferred Stock, at any time, into shares of Common Stock at a conversion price of 1:1. Upon
+IPO, all preferred shares were converted into common stock on November 21, 2023. 
+
+Issued and outstanding 
+
+As at September 30, 2024, and December
+31, 2023, the Company had Nil preferred stock issued and outstanding. 
+
+Transactions during the nine months
+ended September 30, 2024, and 2023 
+
+There were no preferred stock transactions
+during the nine months ended September 30, 2024, and 2023. 
+
+Equity Warrants 
+
+Transactions during the
+nine months ended September 30, 2024. 
+
+On September 24, 2024, with each of
+the shares of common stock or pre-funded warrants issued on the same date, the Company also issued one Series A Warrant (the
+ Series A Warrants and Series B Warrant (the Series B Warrants ). The Series A Warrants will be exercisable
+beginning on the date of completion of the requisite waiting period following the filing of the Information Statement related to the approval
+by the stockholders of the Company (the Initial Exercise Date or Shareholder Approval Date of the issuance
+of shares upon exercise of the Warrants, among other things (the Shareholder Approval ). The Initial Exercise Date was October
+30, 2024. The Series B Warrants will be exercisable beginning on the Shareholder Approval Date. The Series A Warrants will expire on the
+five-year anniversary of the Initial Exercise Date and the Series B Warrants will expire on the two and one-half-year anniversary of the
+Initial Exercise Date. 
+
+The exercise price of the Series A and
+Series B Warrants shall be , subject to adjustments, including the following: 
+
+A. On the day that is the eleventh trading day following the Initial Exercise Date (the Reset Date ),
+the exercise price shall be adjusted to equal the reset price (the Reset Price ), which is the greater of: 
+
+(i) the lowest daily volume-weighted average price VWAP during the 10-day period following
+the Initial Exercise Date (the Reset Period and 
+
+(ii) the floor price in effect as of the Reset Date, being a price equal to (the Floor Price ). 
+
+B. Upon reset of the Series A and Series B Warrants exercise price, the number of Series A and Series
+B Warrants and the number of common shares issuable shall be increased such that the aggregate exercise price Initial Exercise
+Value on the issuance date shall remain unchanged following such reset. 
+
+Furthermore, holders of the Series B
+Warrants may effect an alternative cashless exercise . In such an event, the aggregate number of common shares issuable in
+such alternative cashless exercise shall equal the product of (i) the aggregate number of common shares that would be issuable upon exercise
+of a Series B Warrant if such exercise were by means of a cash exercise rather than a cashless exercise, multiplied by (ii) 3.0. 
+
+On September 24, 2024, the Company issued
+ placement agent warrants to the placement agent in connection with the financing that closed on the same date (the Placement
+Agent Warrants ). These Placement Agent Warrants have an exercise price of and shall expire three and a half years from issuance.
+As these warrants are accounted for as equity warrants, they have no net impact on the consolidated statement of changes in stockholders 
+equity. 
+
+16 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United
+States dollars) 
+
+common stock and common stock purchase warrants. Each warrant is exercisable at per common stock. The warrants are
+exercisable, in whole or in part at the issue date but such exercisability shall cease upon the date of the Company s IPO and listing
+of its common stock on the Nasdaq Capital Market or other Trading Market (as defined below) and shall continue to be exercisable in whole
+or in part immediately after the Lock-up Period but no later than the Warrant Expiration Date or Accelerated Warrant Expiration Date (the
+period in which these warrants are exercisable, the Exercise Period ). In the event of the Company s initial public
+offering and listing of shares of its common stock on a Trading Market, the Company shall notify the holder at least fifteen (15) calendar
+days prior to the consummation of such IPO. Trading Market shall mean a "national securities exchange" that has
+registered with the SEC under Section 6 of the Exchange Act. The Expiration Date shall be the earlier of (i) three years and one hundred
+eighty (180) days from the issue date (the Warrant Expiration Date or (ii) upon the Company s reasonable judgment
+and written notice to the purchaser, of the Company s option to accelerate the Warrant Expiration Date whereby upon purchaser s
+receipt of the Company s written notice of acceleration during the Exercise Period, the Purchaser s option to exercise any
+number of warrants shall occur no later than fourteen (14) days following the receipt of the written notice of acceleration (the Accelerated
+Warrant Expiration Date ). For the avoidance of doubt, it shall be reasonable for the Company to accelerate the Expiration Date
+of this warrant to coincide with transactions including, but not limited to (i) a change of control including but not limited to the voluntary
+or involuntary sale, assignment, transfer or other disposition, or transfer by operation of law, of more than of any direct or indirect
+equity interest of the Company; or (ii) a subsequent capital financing other than the IPO consisting of but not limited to an offer or
+proposal for, or indication of interest in, the issuance of debt or the capital stock of the Company. 
+
+On September 13, 2023, the Company issued
+ common stock and common stock purchase warrants. Each warrant is exercisable at per common stock. The Warrants shall
+be exercisable, in whole or in part immediately upon issuance, but such exercisability shall cease upon the date of the Company s
+initial public offering (the IPO and listing of its common stock on the Nasdaq Capital Market or other Trading Market (as
+defined herein) and will only become exercisable after the expiration of one hundred eighty ) days following the Company s initial
+public offering (the Lock-up Period ). The expiration date shall be three years and one hundred eighty ) days following
+the issuance of the Warrant Shares. 
+
+1 1 2 2 
+
+1 As of the Reset Date, the exercise price of the Series A Warrants
+has been adjusted to the Floor Price of . In addition, the number of Series A Warrants outstanding was adjusted to 
+such that the Initial Exercise Value on the issuance date remained unchanged. 
+
+2 As of the Reset Date, the exercise price of the Series B Warrants
+has been adjusted to the Floor Price of . In addition, the number of Series B Warrants outstanding was adjusted to 
+such that the Initial Exercise Value on the issuance date remained unchanged. 
+
+As of September 30, 2024, and December
+31, 2023, the weighted average life of equity warrants outstanding was and years, respectively. 
+
+Stock Options 
+
+The Company has a stock option plan
+included in the Company s 2020 Equity Incentive Plan (the Plan where the Board of Directors or any of its committees
+can grant Incentive Stock Options, Nonstatutory Stock Options, and Restricted Stock to employees, advisors and directors of the Company.
+As of December 31, 2023 and 2022, the aggregate number of shares allocated and made available for issuance pursuant to stock options granted
+under the Plan shall not exceed shares. The plan shall remain in effect until it is terminated by the Board of Directors. 
+
+Transactions during the
+nine-month ended September 30, 2024 
+
+In January 2024, the Company granted
+ stock options with a contractual life of and an exercise price of per common stock. These stock options were valued
+at using the Black-Scholes Option Pricing Model. The options vest on the first anniversary of the grant date and the remaining
+ vest evenly over 36 months thereafter. 
+
+On March 6, 2024, the Company granted
+ stock options with a contractual life of and an exercise price of per common stock. These stock options were valued
+at using the Black-Scholes Option Pricing Model. The options vest on the first anniversary of the grant date and the remaining
+ vest evenly over 36 months thereafter. 
+
+17 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United
+States dollars) 
+
+stock options with a contractual life of and an exercise price of per common stock. These stock options were valued
+at using the Black-Scholes Option Pricing Model. The options vest on the first anniversary of the grant date and the remaining
+ vest evenly over 36 months thereafter. 
+
+From May 12, 2023, to June 30, 2023,
+the Company granted stock options (includes each to two of its newly appointed independent directors) with a contractual
+life of and an exercise price of per common stock. These stock options were valued at using the Black-Scholes
+Option Pricing Model. The options vest on the first vesting date and the remaining vest evenly over 36 months thereafter. 
+
+On June 30, 2023, the Company cancelled
+and reissued options previously issued to an advisor of the Company upon their appointment as a director effective June 1, 2023.
+The cancelled and re-issued options had the same exercise price of per common stock and the same vesting terms and expiry date,
+and as such the cancellation and reissuance had no impact on the Company s consolidated financial statements. 
+
+On July 1, 2023, the Company granted
+ stock options with a contractual life of and an exercise price of per common stock. These stock options were valued
+at using the Black-Scholes Option Pricing Model. The options vest on the first vesting date and the remaining vest evenly
+over 36 months thereafter. 
+
+- 
+ - 
+ 
+ Expected life 
+ years 
+ years 
+ 
+ Expected dividend rate 
+
+Expected volatility 
+
+Forfeiture rate 
+
+Granted 
+
+Forfeited 
+
+Exercised 
+
+Outstanding, December 31, 2023 
+
+Granted 
+
+Forfeited 
+
+Exercised 
+ -
+ 
+ -
+
+Outstanding, September 30, 2024 
+
+18 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United
+States dollars) 
+
+-
+ -
+
+As of September 30, 2024, and December
+31, 2023, the weighted average life of stock options outstanding was years and years, respectively. 
+
+During the nine months ended September
+30, 2024, and 2023, the Company recorded and , respectively, in share-based compensation expense, of which and
+ , and and , respectively is included in office and administration and research and development, respectively. 
+
+19 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United
+States dollars) 
+
+control. 
+
+Salaries 
+
+Share-based compensation 
+
+During the nine months ended September
+30, 2024, the Company incurred consulting fees of (September 30, 2023 - to GB Capital Ltd., a company controlled by
+Graydon Bensler, CEO, CFO and Director. In addition, the Company incurred consulting fees of (September 30, 2023 - to
+Northstrive Companies Inc., a company controlled by Braeden Litchi, the Company s Chairman. 
+
+Jordan Plews, Director and CEO of Skincare
+and BioSciences, earned a Salary of and respectively during the nine months ended September 30, 2024, and 2023 (includes
+employer taxes of and , respectively). 
+
+Brenda Buechler, former Chief Marketing
+Officer, earned a Salary of and , respectively during the nine months ended September 30, 2024, and 2023 (includes employer
+taxes of and respectively). 
+
+Christoph Kraneiss, former Chief Commercial
+Officer, earned a Salary of and , respectively during the nine months ended September 30, 2024, and 2023 (includes employer
+taxes of and , respectively). 
+
+During the nine months ended September
+30, 2024, and 2023, the Company issued the following stock options to related parties: 
+
+On March 1, 2024, the Company granted
+ stock options to directors of the company with a contractual life of years and exercise price of per share of common stock.
+These stock options were valued at using the Black-Scholes Option Pricing Model. The options vest on the first anniversary
+of the grant date and the remaining vest evenly over 36 months thereafter. 
+
+Graydon Bensler, CEO, CFO and Director 
+
+Jordan Plews, Director and CEO of Skincare and BioSciences 
+
+Tim Sayed, Former Chief Medical Officer and Former Director 1 
+
+Jeffrey Parry, Director 
+
+Crystal Muilenburg, Former Director 1 
+
+Julie Daley, Director 
+
+George Kovalyov, Director 
+ 
+ -
+
+Brenda Buechler, Former Chief Marketing Officer 1 
+ 
+ -
+
+Christoph Kraneiss, Former Chief Commercial Officer 1 
+ 
+ -
+
+options of related parties were forfeited in the
+nine months ended September 30, 2024. 
+
+20 
+
+Elevai Labs Inc. 
+
+Notes to the Condensed Consolidated Financial Statements 
+
+(Unaudited - Expressed in United
+States dollars) 
+
+and , respectively due to companies controlled by Braeden Lichti, of which and ,
+respectively, is unsecured, non-interest bearing and are due on demand. Additionally, the Company drew on a line of credit provided
+by a company controlled by Braeden Lichti during the nine months ended September 30, 2024. The line of credit incurs interest at a rate
+of per annum on the outstanding principal. During the nine months ended September 30, 2024, in interest had accrued on this
+line of credit. 
+
+As of September 30, 2024, the Company
+had (December 31, 2023 - in consulting fees due to Graydon Bensler, CEO, CFO and Director, (December 31, 2023
+- due to companies controlled by Braeden Lichti, and Nil and Nil (December 31, 2023 - and due to Jordan Plews,
+Director and CEO of Skincare and BioSciences, and Christopher Kraneiss, former Chief Commercial Officer, respectively, for expenses incurred
+on behalf of the Company. As of September 30, 2024, the Company owed Jordan Plews, Director, (December 31, 2023 - Nil in accrued
+salaries. 
+
+of its revenue from its largest customers. The Company s largest customer, representing of revenue,
+relates to sales to a wholesaler during the period. 
+
+Suppliers 
+
+During the nine months ended September
+30, 2024, and 2023, the Company had 3 key suppliers that represented approximately and 3 key suppliers that represented approximately
+ , respectively, of the cost incurred in the purchase and production of inventory. 
+
+Supplier 2 
+
+Supplier 3 
+
+The Company continually evaluates the
+performance of its suppliers and the availability of alternatives to substitute or supplement its inventory production supply chain. The
+Company believes that a breakdown in supply from one of its key suppliers would be overcome in a short amount of time given the availability
+of alternatives. 
+
+shares to a consultant in relation to the acquisition of the License #2 IPR D asset (Note 8). 
+
+Exercise of Series B Warrants 
+
+As of November 13, 2024, 
+Series B Warrants have been exercised under the alternative cashless exercise feature into shares of common stock, resulting
+in unexercised Series B Warrants. 
+
+21 
+
+Item 2. Management s Discussion and Analysis of Financial
+Condition and Results of Operations 
+
+You should read the following discussion and
+analysis of our financial condition and results of operations together with our unaudited condensed consolidated financial statements
+and the notes to those statements included elsewhere in this Quarterly Report and the audited consolidated financial statements and the
+other information set forth in our Annual Report on Form 10-K for the year ended December 31, 2023, filed with the Securities and Exchange
+Commission on March 29, 2024. 
+
+Forward-Looking Statements 
+
+This Quarterly Report includes forward-looking
+statements within the meaning of Section 27A of the Securities Act of 1933, as amended and Section 21E of the Exchange Act that
+are not historical facts and involve risks and uncertainties that could cause actual results to differ materially from those expected
+and projected. All statements, other than statements of historical fact included in this Quarterly Report including, without limitation,
+statements in this Management s Discussion and Analysis of Financial Condition and Results of Operations regarding
+the Company s financial position, business strategy and the plans and objectives of management for future operations, are forward-looking
+statements. Words such as expect, believe, anticipate, intend, estimate, 
+ seek and variations and similar words and expressions are intended to identify such forward-looking statements. Such forward-looking
+statements relate to future events or future performance, but reflect management s current beliefs, based on information currently
+available. A number of factors could cause actual events, performance or results to differ materially from the events, performance and
+results discussed in the forward-looking statements. For information identifying important factors that could cause actual results to
+differ materially from those anticipated in the forward-looking statements, please refer to the Risk Factors section of the Company s
+registration statement on Form S-1 filed with the U.S. Securities and Exchange Commission (the SEC ). The Company s
+securities filings can be accessed on the EDGAR section of the SEC s website at www.sec.gov . Except as expressly required
+by applicable securities law, the Company disclaims any intention or obligation to update or revise any forward-looking statements whether
+as a result of new information, future events or otherwise. 
+
+Organization and Overview of Operations 
+
+Elevai Labs Inc. manages and operates a diverse
+portfolio of three wholly owned subsidiaries across the medical aesthetics and biopharmaceutical sectors: 
+
+Elevai
+ Skincare Inc. specializes in developing and commercializing innovative skincare products, catering to both business to business
+ B2B and business to consumer B2C markets in the US and internationally. 
+
+Elevai Biosciences, Inc. is a biopharmaceutical company focusing on the development and acquisition of cutting-edge aesthetic medicines. Our lead asset, EL-22, is leveraging a first-in-class engineered probiotic approach to address obesity s pressing issue of preserving muscle while on weight loss treatments, including GLP-1 receptor agonists. 
+
+Elevai
+ Research Inc. , based in Canada, is currently dedicated to medical scientific research and development efforts, utilizing Canadian
+ research grants and partnering with leading Canadian Universities to push the boundaries of innovation. 
+
+Elevai
+Labs Inc. is committed to expanding its portfolio by seeking to acquire operating companies and biotech assets that have high market
+potential while also exploring strategic spin-off opportunities to support our growth and advance our cutting-edge initiatives. 
+
+Recent Developments 
+
+During the period from September 30, 2024 to November 13,
+2024, 155,890,910 Series B Warrants were exercised into 467,672,730 shares of common stock. 
+
+On both November 1 and August 1, 2024, we issued 612,500
+shares of our common stock to a consultant for services related to the Company s wholly owned subsidiary, Biosciences, pursuant
+to the agreed upon compensation terms in the consulting agreement with the entity. The issuance of these shares was exempt from registration
+under Rule 701 of the Securities Act of 1933, as amended. 
+
+On October 3, 2024, the Company commenced an offer to exchange
+up to 15,000,000 shares of its currently issued and outstanding common stock with a par value of 0.0001 per share for up to 15,000,000
+shares of the Company s newly issued Series B Preferred Stock, with each share of common stock being exchangeable for one share
+of Series B Preferred Stock. A stockholder who desires to tender common stock for this offering must tender all of their common stock.
+The exchange offer will expire on November 5, 2024, unless otherwise extended or withdrawn. 
+
+On September 24, 2024, the Company issued 28,571,425 shares
+of the Company s common stock (or pre-funded warrants in lieu of shares of common stock). All pre-funded warrants were exercised
+by September 30, 2024. The purchase price of each share of common stock and accompanying warrants is 0.28, and the purchase price of
+each pre-funded warrant and accompanying warrants was equal to such price minus 0.0001. Share issuance costs of 955,000 were associated
+with this offering. 
+
+22 
+
+On September 24, 2024, with each of the 28,571,425 shares
+of common stock or pre-funded warrants issued on the same date, the Company also issued one Series A Warrant to purchase one share of
+common stock at an exercise price of 0.38 per share (the Series A Warrants and one Series B Warrant to purchase one share
+of common stock at an exercise price of 0.38 per share or, pursuant to an alternative cashless exercise option, three shares of common
+stock (the Series B Warrants ). The Series A Warrants will be exercisable beginning on the date of completion of the requisite
+waiting period following the filing of the Information Statement related to the approval by the stockholders of the Company (the Initial
+Exercise Date or Effective Shareholder Approval Date of the issuance of shares upon exercise of the Warrants, among
+other things (the Shareholder Approval ). The Initial Exercise Date was October 30, 2024. The Series B Warrants will be
+exercisable beginning on the Effective Shareholder Approval Date. The Series A Warrants will expire on the five-year anniversary of the
+Initial Exercise Date and the Series B Warrants will expire on the two and one-half-year anniversary of the Initial Exercise Date. 
+
+On September 24, 2024, the Company issued 1,428,571 placement
+agent warrants to the placement agent in connection with the financing that closed on the same date. These placement agent warrants have
+an exercise price of 0.336 and shall expire three and a half years from issuance. 
+
+On August 1, 2024, Hatem Abou-Sayed MD informed us of his
+decision to resign as a member of the Board of Directors of the Company and as Chief Medical Officer, such resignation effective as of August 1, 2024. 
+
+On July 31, 2024, the Company signed a securities purchase
+agreement to sell an aggregate of 1,150,000 in Notes with a 150,000 original issue discount. As consideration for purchasers who bought
+the Notes, the Company issued 1,299,999 shares of common stock. The Notes were non-interest bearing except in the event of default, in
+which case interest would accrue at 14 per annum. The maturity date of the Notes was 90 days from the date of issuance. While the Notes
+were outstanding, the Company agreed to use the net proceeds of any offering of its equity or debt securities to first redeem the Notes
+in full, including the principal amount and all other amounts due and payable pursuant to the Notes. The Company repaid 1,150,000 in
+relation to the Notes in September 2024. 
+
+On June 21, 2024, Jordan Plews resigned as Chief Executive
+Officer and President of the Company effective as of June 21, 2024, and the Board appointed Graydon Bensler as Chief Executive Officer
+and Braeden Lichti as Chairman of the Board. 
+
+On June 20, 2024, we notified Brenda Buechler, our former Chief Marketing Officer, and Christoph Kraneiss, our former Chief Commercial Officer, that each of them was involuntarily terminated without cause or laid off from employment as part of a wider job elimination/restructuring or reduction in force of the Company in order to streamline the Company s operations and organizational structure. 
+
+On June 19, 2024, we entered into an unsecured revolving line of credit agreement (the Revolving Credit Agreement with NorthStrive Fund II LLP. The Revolving Credit Agreement provides for a 200,000 unsecured line of credit to the Company (the Revolving Credit Facility with a maturity date of June 19, 2025 (the Maturity Date ), and interest calculated at the rate of twenty percent (20.0 per annum on the outstanding principal balance through the Maturity Date. The Company may prepay any outstanding balance of the Revolving Credit Facility at any time provided that all such interest is simultaneously satisfied in full. 
+
+On May 21, 2024, we received a letter from the Nasdaq Listing Qualifications Staff of The Nasdaq Stock Market LLC Nasdaq ), notifying that we were no longer in compliance with the minimum stockholders equity requirement for continued listing on The Nasdaq Capital Market. Nasdaq Listing Rule 5550(b)(1) requires listed companies to maintain stockholders equity of at least 2,500,000. In addition, as of May 21, 2024, we do not currently meet the alternative compliance standards relating to the market value of listed securities or net income from continuing operations. Under Nasdaq rules, we have 45 calendar days from May 21, 2024 to submit a plan or regain compliance. If our plan to regain compliance is accepted, Nasdaq may grant an extension of up to 180 calendar days from the date of the letter for us to regain compliance. We submitted a plan on July 9, 2024, and as of September 30, 2024 are above the stockholder s equity requirement of 2,500,000. 
+
+23 
+
+On May 3, 2024, the Company entered into a one-year consulting agreement
+(the Santorio Agreement with Santorio Biomedical, LLC Santorio for the services of Mr. Deniel Mero, Director
+of Santorio Biomedical, LLC, whereby Santorio agreed to cause Mr. Mero to perform his services as outlined in Exhibit A to the Santorio
+Agreement and the Company agreed to compensate Santorio on behalf of Mr. Mero by the Company in connection with his performance of such
+services. Santorio agreed to cause Mr. Mero, as an independently contracted consultant to primarily provide services to the Company s
+wholly owned subsidiary Elevai Biosciences, Inc., which include but are not limited to, (i) discover, assess, and introduce biotechnology
+opportunities to the Company; (ii) advise the Board regarding certain strategic matters, including development of biotechnology pipeline
+assets, recruiting a contract (or clinical) research organization (CRO), assisting in efforts to recruit potential directors and team
+members to build the biotechnology subsidiary and forming a scientific advisory board; and (iii) to perform services for subsidiaries
+of the Company as may be necessary. 
+
+On April 30, 2024, we entered into a license agreement with MOA Life Plus Co., Ltd., a South Korean corporation MOA ). Under the MOA License Agreement, MOA has granted us an exclusive license to commercialize under certain of MOA s patent rights concerning two licensed products including (i) a clinical stage engineered probiotic expressing myostatin and, (ii) preclinical engineered probiotic expressing dual myostatin activin-A antigens (the Licensed Products in exchange for a 400,000 license fee and the issuance of 950,000 shares of our common stock. In order to enforce intellectual property rights associated with licensed products by grant of the exclusive license, we are obligated to file, prosecute and maintain intellectual property rights associated with the Licensed Products, and any improvements thereto. 
+
+Outlook 
+
+Management s Plans 
+
+Over the next twelve months we intend to focus
+on: 
+
+Growing our revenue using our existing infrastructure to accelerate the development and commercialization of our existing and new products; 
+
+Utilizing clinical validation studies to show the effectiveness of our products; 
+
+Research and development to create new product formulations and bring them to market; 
+
+Clinical development to advance Elevai Biosceinces clinical assets into IND; 
+
+Pursue additional acquisitions of operating companies and/or biotechnology assets; and 
+
+Consider and potentially pursue spin-offs of one of our wholly owned subsidiaries, creating a new publicly traded company. 
+
+24 
+
+Results of Operations 
+
+Comparison of the nine months ended September
+30, 2024. 
+
+The following table provides certain selected
+financial information for the periods presented: 
+
+Nine Months 
+Ended 
+September 30, 
+2024 
+ Nine Months 
+Ended 
+September 30, 
+2023 
+ Change 
+ 
+ Revenue 
+ 1,747,570 
+ 1,014,004 
+ 733,566 
+ 
+ Cost of revenue 
+ 468,763 
+ 341,122 
+ 127,641 
+ 
+ Gross profit 
+ 1,278,807 
+ 672,882 
+ 605,925 
+ 
+ Gross profit percentage 
+ 73 
+ 66 
+ 7 
+ 
+ Depreciation and Amortization 
+ 7,779 
+ 7,824 
+ (45 
+ 
+ Marketing and Promotion 
+ 1,209,041 
+ 316,436 
+ 892,605 
+ 
+ Consulting Fees 
+ 817,030 
+ 316,468 
+ 500,562 
+ 
+ Office and Administration 
+ 2,096,372 
+ 1,628,931 
+ 467,441 
+ 
+ Professional Fees 
+ 587,954 
+ 450,384 
+ 137,570 
+ 
+ Investor Relations 
+ 141,484 
+ 84,820 
+ 56,664 
+ 
+ Research and Development 
+ 268,786 
+ 303,769 
+ (34,983 
+ 
+ Foreign exchange (gain) loss 
+ 1,660 
+ (480 
+ 2,140 
+ 
+ Travel and entertainment 
+ 160,612 
+ 250,000 
+ (89,388 
+ 
+ Total operating expenses 
+ 5,290,718 
+ 3,358,152 
+ 1,932,566 
+ 
+ Loss from operations 
+ (4,011,911 
+ (2,685,270 
+ (1,326,641 
+ 
+ Other income (expense) 1 
+ (299,087 
+ (458,331 
+ 159,244 
+ 
+ Net loss 
+ (4,310,998 
+ (3,143,601 
+ (1,167,397 
+ 
+ Total Comprehensive Loss 
+ (4,310,972 
+ (3,142,839 
+ (1,168,133 
+ 
+ Basic and dilutive loss per share of common stock 
+ (0.226 
+ (0.318 
+ 0.092 
+ 
+ Weighted average number of shares outstanding basic and diluted 
+ 19,105,176 
+ 9,900,744 
+ 9,204,432 
+
+1 Other expenses relate to interest income, interest expense,
+insurance settlement and fair value gain/loss on derivative liability. 
+
+Revenue 
+
+Revenue for the nine months ended September 30,
+2024, was 1,747,570 as compared to 1,014,004 for the nine months September 30, 2023, an increase of 733,566. 
+
+Our revenue by product category is as follows: 
+
+Nine Months 
+Ended 
+September 30, 
+2024 
+ Nine Months 
+Ended 
+September 30, 
+2023 
+ 
+ Enfinity 
+ 1,131,737 
+ 509,088 
+ 
+ Empower 
+ 612,051 
+ 408,166 
+ 
+ Scalp hair cleanser 
+ 3,782 
+ - 
+ 
+ White label distributor 
+ - 
+ 96,750 
+ 
+ Total Revenue 
+ 1,747,570 
+ 1,014,004 
+
+During the nine months ended September 30, 2024,
+and 2023, the Company sold 8,600 and 4,469 bottles of Enfinity, respectively, an increase of 4,131 bottles or 92 . In addition, the Company
+sold 1,232 (eight packs) of Empower tubes in 2024, compared to 969 (eight packs) of Empower tubes during 2023, and an increase of 263
+(eight packs) or 27 . The increase in sales volumes is primarily due to enhanced market acceptance, continued growth in the number of
+US accounts, onboarding of international distributors, and repeat business from current customers and distributors. During the nine months
+ended September 30, 2023, the Company also sold its media containing its Elevai Exosomes TM under a white label deal. This white
+label distribution agreement ended on January 16, 2024. 
+
+25 
+
+Cost of Revenue 
+
+Cost of Revenue for the nine months ended September
+30, 2024, was 468,763 as compared to 341,122 for the nine months ended September 30, 2023. 
+
+Our cost of revenue by product category is as
+follows: 
+
+Nine Months 
+Ended 
+September 30, 
+2024 
+ Nine Months 
+Ended 
+September 30, 
+2023 
+ 
+ Enfinity 
+ 315,401 
+ 192,044 
+ 
+ Empower 
+ 153,362 
+ 110,988 
+ 
+ White label distributor 
+ - 
+ 38,090 
+ 
+ Total Cost of Revenue 
+ 468,763 
+ 341,122 
+
+The increase in cost of revenue is directly attributed
+to the increase in sales during the nine months ended September 30, 2024, compared to 2023. The following is a breakdown of the components
+of the cost of revenue: 
+
+Nine Months Ended September 30, 2024 
+ Nine Months Ended September 30, 2023 
+ 
+ Cost of inventory 
+ 220,653 
+ 187,135 
+ 
+ Sales commission 
+ 139,722 
+ 86,567 
+ 
+ Shipping cost 
+ 108,011 
+ 60,750 
+ 
+ Inventory write down and wastage 
+ 377 
+ 6,670 
+ 
+ Total Cost of Revenue 
+ 468,763 
+ 341,122 
+
+Gross Profit 
+
+Gross profit for the nine months ended September 30, 2024, was 1,278,807, as compared to 672,882 for the nine months ended September
+30, 2023, an increase of 605,925. This represents an overall gross margin percentage of 73 for the nine months ended September 30, 2024,
+compared to 66 in 2023. The overall increase in gross margin percentage is primarily due to the Company selling Enfinity at a higher
+gross margin due to less commissions paid to salespersons compared to overall sales. Additionally, the cost to produce each unit of Enfinity
+decreased as the Company saw gross margin improvements due to operational efficiencies gained and securing better volume pricing with
+some of its key suppliers. 
+
+The following is a breakdown of gross profit percentage
+by product category: 
+
+Nine Months Ended September 30, 2024 
+ Nine Months Ended September 30, 2023 
+ 
+ Enfinity 
+ 72 
+ 62 
+ 
+ Empower 
+ 75 
+ 73 
+ 
+ Scalp hair cleanser 
+ 100 
+ - 
+ 
+ White label distributor 
+ - 
+ 61 
+ 
+ Overall Gross Profit Percentage 
+ 73 
+ 66 
+
+26 
+
+Research and Development Expenses 
+
+Research and development expenses for the nine
+months ended September 30, 2024, were 268,786 compared to 303,769 for the nine months ended September 30, 2023, a decrease of 34,983.
+Research and Development related to the Company s Enfinity and Empower products, and development of new products for the Company.
+The decrease in research and development is mainly driven by the company performing more tests on new products to improve formulation
+efficiency in the nine months ended September 30, 2023. During both the nine months ended September 30, 2024 and 2023, the Company s
+laboratory staff worked on increasing efficiency and refining the production process. The decrease in this expense is partially offset
+by amortization of intangible assets of 61,019 and Nil that was recognized in research and development expenses during the years ended
+September 30, 2024 and 2023, respectively. 
+
+Marketing and Promotion 
+
+Marketing and promotion expenses for the nine
+months ended September 30, 2024, were 1,209,041 compared to 316,436 for the nine months ended September 30, 2023, an increase of 892,605.
+During the nine months ended September 30, 2024, the Company increased its marketing and promotion efforts to drive sales and support
+the Company s existing customers, which included incurring digital advertising costs of 388,283, public relations costs of 331,317,
+giving out product samples with a cost of 127,919 (nine months ended September 30, 2023 - 96,184), and attending and sponsoring industry
+conferences. 
+
+Office and Administrative Expenses 
+
+Office and administrative expenses for the nine
+months ended September 30, 2024, were 2,096,372, compared to 1,628,931 for the nine months ended September 30, 2023, an increase of
+ 467,441. The increase is mainly the result of salaries and wages of 1,310,420 and office rent of 106,694 incurred during the nine months
+ended September 30, 2024, compared to 1,000,313 and 89,600 of salaries and wages and office rent, respectively, in the nine months ended
+September 30, 2023, a combined increase of 327,201. Additionally, the increase is a result on insurance costs of 352,222 during the
+nine months ended September 30, 2024, compared to 23,804 in the nine months ended September 30, 2023, as the Company was required to
+purchase director and officer insurance due to being publicly traded. The Company increased its headcount and moved into a larger office
+location to accommodate the commercialization of its products and growth in operations in July 2023. During the nine months ended September
+30, 2024, office and administrative expenses also include share-based compensation of 53,977, compared to 337,551 in the nine ended
+September 30, 2023. This decrease is due to a director resigning on February 29, 2024, the termination of the Chief Marketing Officer
+and the Chief Commercial Officer and the termination of four other employees in June 2024, and the resignation of the Chief Medical Officer
+in August 2024. This resulted in the forfeiture of 394,990 options, as well as resulting in the reversal of the share-based compensation. 
+
+Consulting Fees 
+
+Consulting fees for the nine months ended September
+30, 2024, were 817,030, compared to 316,468 for the nine months ended September 30, 2023, an increase of 500,562. During the nine months
+ended September 30, 2024, and 2023, the Company incurred consulting fees in relation to recruitment, strategic introductions, business
+advisory, international relations, and strategy. In addition, the Company received services from a number of parties (including companies
+controlled by related parties and Chief Financial Officer CFO )) in a consulting capacity. The increase in consulting fees
+is consistent with the increase in operations. 
+
+Professional Fees 
+
+Professional fees for the nine months ended September
+30, 2024, was 587,954, compared to 450,384 for the nine months ended September 30, 2023, an increase of 137,570. Professional fees
+comprise of legal, audit and accounting services. The increase during the nine months ended September 30, 2024 is primarily due to an
+increase in audit, legal and accounting services as the company is now listed on the Nasdaq. 
+
+Travel and Entertainment Expenses 
+
+Travel and entertainment for the nine months ended
+September 30, 2024, was 160,612, compared to 250,000 for the nine months ended September 30, 2023, a decrease of 89,388. Travel and
+entertainment expenses are related primarily to costs incurred during the attendance of industry trade shows and conferences. The decrease
+relates to fewer conferences and trade shows visited by staff of the Company in the nine months ended September 30, 2024. 
+
+Investor Relations Expenses 
+
+Investor relations expenses for the nine months
+ended September 30, 2024, was 141,484, compared to 84,820 for the nine months ended September 30, 2023. The increase in investor relations
+expenses is consistent with the Company s growth strategy, which includes promotion to current and potential investors as the company
+is now listed on the Nasdaq. 
+
+27 
+
+The following table provides certain selected
+financial information for the periods presented: 
+
+Three Months Ended September 30, 2024 
+ Three Months Ended September 30, 2023 
+ Change 
+ 
+ Revenue 
+ 527,478 
+ 554,654 
+ (27,176 
+ 
+ Cost of revenue 
+ 133,577 
+ 188,509 
+ (54,932 
+ 
+ Gross profit 
+ 393,901 
+ 366,145 
+ 27,756 
+ 
+ Gross profit percentage 
+ 75 
+ 66 
+ 9 
+ 
+ Depreciation and Amortization 
+ 2,686 
+ 2,439 
+ 247 
+ 
+ Marketing and Promotion 
+ 94,514 
+ 99,709 
+ (5,195 
+ 
+ Consulting Fees 
+ 235,461 
+ 82,781 
+ 152,680 
+ 
+ Office and Administration 
+ 553,808 
+ 664,922 
+ (111,114 
+ 
+ Professional Fees 
+ 249,889 
+ 143,654 
+ 106,235 
+ 
+ Investor Relations 
+ 36,862 
+ 9,100 
+ 27,762 
+ 
+ Research and Development 
+ 95,260 
+ 86,374 
+ 8,886 
+ 
+ Foreign exchange (gain) loss 
+ 875 
+ (3,113 
+ 3,988 
+ 
+ Travel and entertainment 
+ 44,383 
+ 65,830 
+ (21,447 
+ 
+ Total operating expenses 
+ 1,313,738 
+ 1,151,696 
+ 162,042 
+ 
+ Loss from operations 
+ (919,837 
+ (785,551 
+ (134,286 
+ 
+ Other income (expense) 1 
+ (581,420 
+ 2,504 
+ (583,924 
+ 
+ Net loss 
+ (1,501,257 
+ (783,047 
+ (718,210 
+ 
+ Total Comprehensive Loss 
+ (1,502,271 
+ (782,660 
+ (719,611 
+ 
+ Basic and dilutive loss per common share 
+ (0.068 
+ (0.078 
+ 0.01 
+ 
+ Weighted average number of shares outstanding basic and diluted 
+ 22,159,118 
+ 10,023,002 
+ 12,136,116 
+
+1 Other expenses relate to interest income, interest expense,
+insurance settlement and fair value gain/loss on derivative liability. 
+
+28 
+
+Revenue 
+
+Revenue for the three months ended September 30,
+2024, was 527,478, as compared to 554,654 for the three months September 30, 2023, a decrease of 27,176. 
+
+Our revenue by product category is as follows: 
+
+Three Months 
+ Ended 
+ September 30, 
+ 2024 
+ Three Months 
+ Ended 
+ September 30, 
+2023 
+ 
+ Enfinity 
+ 369,012 
+ 252,035 
+ 
+ Empower 
+ 154,684 
+ 205,869 
+ 
+ Scalp hair cleanser 
+ 3,782 
+
+White label distributor 
+ - 
+ 96,750 
+ 
+ Total Revenue 
+ 527,478 
+ 554,654 
+
+During
+the three months ended September 30, 2024, and 2023, the Company sold 2,616 and 2,388 bottles of Enfinity, respectively, an increase of
+228 bottles or 10 . This increase in sales volumes is primarily due to increased market acceptance, continued growth in the number of
+US accounts, onboarding of international distributors, and repeat business from current customers and distributors. The Company sold 288
+(eight packs) of Empower tubes in 2024, compared to 483 (eight packs) of Empower tubes during 2023, a decrease of 195 (eight packs) or
+40 . During the three months ended September 30, 2024, the Company sold 100 units of its scalp and hair cleanser. During the three months
+ended September 30, 2023, the Company sold 48 liters under a white label distributor agreement. The Company no longer earns revenue from
+this white label distributor. 
+
+Cost of Revenue 
+
+Cost of Revenue for the three months ended September
+30, 2024, was 133,577 as compared to 188,509 for the three months ended September 30, 2023. 
+
+Our cost of revenue by product category is as
+follows: 
+
+Three Months 
+ Ended 
+ September 30, 
+ 2024 
+ Three Months 
+ Ended 
+ September 30, 
+2023 
+ 
+ Enfinity 
+ 96,774 
+ 93,661 
+ 
+ Empower 
+ 36,803 
+ 56,758 
+ 
+ White label distributor 
+ - 
+ 38,090 
+ 
+ Total Cost of Revenue 
+ 133,577 
+ 188,509 
+
+The decrease in cost of revenue is partly attributable
+to the decrease in sales during the three months ended September 30, 2024, compared to 2023. However, the Company managed to increase
+gross margin despite the decline in sales as explained further below. The following is a breakdown of the components of the cost of revenue: 
+
+Three Months 
+ Ended 
+ September 30, 
+2024 
+ Three Months 
+Ended 
+ September 30, 
+ 2023 
+ 
+ Cost of inventory 
+ 61,714 
+ 113,239 
+ 
+ Sales commission 
+ 40,520 
+ 39,150 
+ 
+ Shipping cost 
+ 31,343 
+ 32,372 
+ 
+ Inventory write down 
+ - 
+ 3,748 
+ 
+ Total Cost of Revenue 
+ 133,577 
+ 188,509 
+
+Gross Profit 
+
+Gross profit for the three months ended September
+30, 2024, was 393,901 as compared to 366,145 for the three months ended September 30, 2023, an increase of 27,756. This represents
+an overall gross margin percentage of 75 for three months ended September 30, 2024, compared to 66 in 2023. The overall increase in
+gross margin percentage is primarily due to the Company selling Enfinity at a higher gross margin due to less commissions paid to salespersons
+compared to overall sales. Additionally, the cost to produce each unit of Enfinity decreased as the company saw gross margin improvements
+due to operational efficiencies gained and securing better volume pricing with some of its key suppliers. 
+
+29 
+
+The following is a breakdown of gross profit percentage
+by product category: 
+
+Three Months 
+ Ended 
+ September 30, 
+2024 
+ Three Months Ended 
+ September 30, 
+2023 
+ 
+ Enfinity 
+ 74 
+ 63 
+ 
+ Empower 
+ 76 
+ 72 
+ 
+ Hair scalp cleanser 
+ 100 
+ - 
+ 
+ White label distributor 
+ - 
+ 61 
+ 
+ Overall Gross Profit Percentage 
+ 75 
+ 66 
+
+Research and Development Expenses 
+
+Research and development expenses for the three
+months ended September 30, 2024, were 95,260 compared to 86,374 for the three months ended September 30, 2023, an increase of 8,886.
+Research and development related to the Company s Enfinity, Empower and development of new products for the Company. This increase
+in research and development expenses is mainly due to the amortization of intangible assets and increased consulting fees related to research
+and development in the current period. During both the three months ended September 30, 2024, and 2023, the Company s lab staff
+worked on increasing efficiency and refining the production process. 
+
+Marketing and Promotion 
+
+Marketing and promotion expenses for the three
+months ended September 30, 2024, were 94,514 compared to 99,709 for the three months ended September 30, 2023, a decrease of 5,195.
+During the three months ended September 30, 2024, the Company decreased its marketing and promotion expenses in an effort to conserve
+cash now that the Company has achieved higher market acceptance. 
+
+Office and Administrative Expenses 
+
+Office and administrative expenses for the three
+months ended September 30, 2024, were 553,808, compared to 664,922 for the three months ended September 30, 2023, a decrease of 111,114.
+This decrease is mainly attributable to a decrease in the share-based compensation recognized in office and administrative expenses from
+ 158,815 for the three months ended September 30, 2023 to 43,493 for the three months ended September 30, 2024. This decrease is due
+to a director resigning on February 29, 2024, the termination of the Chief Marketing Officer and the Chief Commercial Officer and the
+termination of three other employees in June 2024, and the resignation of the Chief Medical Officer in August 2024. These terminations
+and resignations all have an impact of decreasing share-based compensation for the three months ended September 30, 2024. Payroll also
+decreased from 392,163 to 265,957 during the three months ended September 30, 2024, compared to 2023, which is also attributable to
+these terminations and resignations. 
+
+Consulting Fees 
+
+Consulting fees for the three months ended September
+30, 2024, were 235,461, compared to 82,781 for the three months ended September 30, 2023. This represents an increase of 152,680 from
+the three months ended September 30, 2023 to the three months ended September 30, 2024. During the three months ended September 30, 2024,
+and 2023, the Company incurred consulting fees in relation to recruitment, strategic introductions, business advisory, international relations,
+and strategy. In addition, the Company received services from a number of parties (including companies controlled by related parties and
+CFO) in a consulting capacity. The increase in consulting fees is consistent with the increase in operations. 
+
+Professional Fees 
+
+Professional fees for the three months ended September
+30, 2024, were 249,889, compared to 143,654 for the three months ended September 30, 2023, an increase of 106,234. Professional fees
+were comprised of legal, audit and accounting services. The increase during the three months ended September 30, 2024 is primarily due
+to an increase in audit, legal and accounting services as the company is now listed on the Nasdaq. 
+
+30 
+
+Travel and Entertainment Expenses 
+
+Travel and entertainment expenses for the three
+months ended September 30, 2024 were 44,383, compared to 65,830 for the three months ended September 30, 2023, a decrease of 21,447.
+Travel and entertainment expenses are related primarily to costs incurred during the attendance of industry trade shows and conferences.
+The decrease relates to less conferences and trade shows visited by staff of the Company in the three months ended September 30, 2024. 
+
+Investor Relations Expenses 
+
+Investor relations expenses for the three months
+ended September 30, 2024, were 36,862, compared to 9,100 for the three months ended September 30, 2023. The increase is due to the Company
+engaging in more investor relation activities as it is now a publicly listed entity. 
+
+Liquidity and Capital Resources 
+
+The accompanying consolidated financial statements
+have been prepared on a going concern basis, which implies the Company will continue to realize its assets and discharge its liabilities
+in the normal course of business. The continuation of the Company as a going concern is dependent upon the continued financial support
+from its shareholders, the ability of the Company to obtain necessary equity financing to continue operations, and ultimately the attainment
+of profitable operations. 
+
+As of September 30, 2024, and December 31, 2023,
+the Company had a net working capital of 6,097,404 and 3,622,091, respectively, and has an accumulated deficit of 11,334,888 and 7,023,890,
+respectively. Furthermore, for the nine months ended September 30, 2024, and 2023, the Company incurred a net loss of 4,310,998 and 3,143,601,
+respectively and used 3,486,435 and 2,168,661, respectively of cash flows for operating activities. These factors raise substantial
+doubt regarding the Company s ability to continue as a going concern. The accompanying consolidated financial statements do not
+include any adjustments to the recoverability and classification of recorded asset amounts and classification of liabilities that might
+be necessary should the Company be unable to continue as a going concern. 
+
+Our principal liquidity requirements are for working
+capital, capital expenditure, research and development and inventory production. We fund our liquidity requirements primarily through
+cash on hand, cash flows from operations, the issuance of common, warrants and preferred stock, and the issuance of notes. As of September
+30, 2024, we had cash of 6,425,670, with 3,326,851 as of December 31, 2023. 
+
+The following table provides selected financial
+data as of September 30, 2024, and December 31, 2023, respectively. 
+
+September 30, 
+ 2024 
+ December 31, 
+2023 
+ Change 
+ 
+ Current assets 
+ 8,227,826 
+ 4,919,444 
+ 3,308,382 
+ 
+ Current liabilities 
+ 2,130,422 
+ 1,297,353 
+ 833,069 
+ 
+ Working capital 
+ 6,097,404 
+ 3,622,091 
+ 2,475,313 
+
+The following table summarizes our cash flows
+from operating, investing and financing activities: 
+
+Nine Months Ended September 30, 2024 
+ Nine Months Ended September 30, 2023 
+ Change 
+ 
+ Cash used in operating activities 
+ (3,486,435 
+ (2,168,661 
+ (1,317,774 
+ 
+ Cash used in investing activities 
+ (171,480 
+ (11,191 
+ (160,289 
+ 
+ Cash provided by financing activities 
+ 6,757,501 
+ 1,501,086 
+ 5,256,415 
+
+31 
+
+Cash Flow from Operating Activities 
+
+For the nine months ended September 30, 2024,
+net cash flows used in operating activities was 3,486,435 compared to 2,168,661 used during the nine months ended September 30, 2024,
+respectively, primarily due to net loss and timing of settlement of assets and liabilities. 
+
+Cash Flows from Investing Activities 
+
+During the nine months ended September 30, 2024,
+and 2023, we used 171,480 and 11,191, respectively, in investing activities. In the current period this cash flow primarily related
+to the payment of 162,320 for intangible assets relating to the purchase of a license to produce stem cells and the purchase of rights
+to develop, manufacture and commercialize licensed products. The cash flow during the current period also relates to the purchase of equipment
+for our laboratory space to be used for the production of inventory and research and development. 
+
+Cash Flows from Financing Activities 
+
+During the nine months ended September 30, 2024,
+we had net cash flow provided by financing activities of 6,757,501 compared to cash flow provided by financing activities of 1,501,086
+in the nine months ended September 30, 2023. During the nine months ended September 30, 2024, and 2023, the Company raised 6,993,059
+and 1,463,586, respectively, through the issuance of common stock and common stock purchase warrants; 914,442 and Nil, respectively,
+through the issuance of notes; and Nil and 37,500, respectively, upon the exercise of stock options in exchange for common stock. The
+cash provided by financing activities during the nine months ended September 30, 2024, was partially offset by the repayment of notes
+of 1,150,000. 
+
+Critical Accounting Policies and Significant
+Judgments and Estimates 
+
+This discussion and analysis of our financial
+condition and results of operations is based on our consolidated financial statements, which have been prepared in accordance with U.S.
+GAAP. The preparation of the consolidated financial statements in conformity with U.S. GAAP requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the
+date of the financial statements and the reported amounts of revenues and expenses during the reporting period. The Company regularly
+evaluates estimates and assumptions related to revenue recognition, the collectability of receivables, valuation of inventory, fair value
+of derivative liabilities and stock options, useful lives and recoverability of long-lived assets, and deferred income tax asset valuation
+allowances. The Company bases its estimates and assumptions on current facts, historical experience and various other factors that it
+believes to be reasonable under the circumstances, the results of which form the basis for making judgements about the carrying value
+of assets and liabilities and the accrual of costs and expenses that are not readily apparent from other sources. The actual results experienced
+by the Company may differ materially and adversely from those estimates. Estimates and assumptions are reviewed periodically, and the
+effects of revisions are reflected in the consolidated financial statements in the period they are determined. 
+
+The Company s policy for property and equipment
+requires judgement in determining whether the present value of future expected economic benefits exceeds capitalized costs. The policy
+requires management to make certain estimates and assumptions about future economic benefits related to its operations. Estimates and
+assumptions may change if new information becomes available. If information becomes available suggesting that the recovery of capitalized
+cost is unlikely, the capitalized cost is written off/impaired to the consolidated statement of operations. 
+
+The assessment of whether the going concern assumption
+is appropriate requires management to take into account all available information about the future, which is at least, but not limited
+to, 12 months from the date the financial statements are issued. The Company is aware that material uncertainties related to events or
+conditions may cast substantial doubt upon the Company s ability to continue as a going concern. 
+
+Revenue Recognition 
+
+In May 2014, the FASB issued ASU No. 2014-09,
+Revenue from Contracts with Customers. Since ASU 2014-09 was issued, several additional ASUs have been issued to clarify various elements
+of the guidance. These standards provide guidance on recognizing revenue, including a five-step model to determine when revenue recognition
+is appropriate. 
+
+The Company recognizes revenue when it satisfies
+a performance obligation by transferring control over a product to a customer. Revenue is measured based on the consideration the Company
+expects to receive in exchange for those products. In instances where financial acceptance of the product is specified by the customer,
+revenue is deferred until all acceptance criteria have been met. Revenues are recognized under ASC 606, Revenue from Contracts
+with Customers, in a manner that reasonably reflects the delivery of its products and services to customers in return for expected
+consideration. 
+
+32 
+
+The Company generates revenue through the sale
+of skincare products. Revenue from the sale of skincare products are recognized at the point in time when the Company considered revenue
+realized or realizable and earned, which is typically when all of the five following criteria are met: (1) the contract with the customer
+is identifiable (i.e. when a sales transaction has been entered into between the Company and the customer), (2) the performance obligation
+in the contract is identifiable (i.e. the customer has ordered a known quantity of product to be delivered), (3) the transaction price
+is determinable (i.e. the customer has agreed to the Company s price for the products ordered), (4) the Company is able to allocate
+the transaction price to the performance obligations in the contract, and (5) the performance obligations have been satisfied, which is
+typically upon delivery of the product to the customer. 
+
+Transaction prices for performance obligations
+are explicitly outlined in relevant agreements; therefore, the Company does not believe that significant judgements are required with
+respect to the determination of the transaction price, including any variable consideration identified. 
+
+The Company is responsible for providing the products
+to customers. As a result, the Company is considered the principal when providing products to customers. As the Company collects payment
+at the time of the customer order, its contracts do not have a significant financing component. Customers are entitled to replacement
+or full refund of any damaged or defective product, after the return of the damaged or defective product to the Company. There were no
+significant returns or refunds during the nine months ended September 30, 2024, and 2023. 
+
+Foreign Currency Translation 
+
+The Company s functional and reporting currency
+is the U.S. dollar. The functional currency of the Company s Canadian subsidiary, Elevai Research Inc. Elevai Research is the Canadian dollar. Monetary assets and liabilities denominated in foreign currencies are translated using the exchange rate prevailing
+at the balance sheet date. Non-monetary assets, liabilities, and items recorded in income arising from transactions denominated in foreign
+currencies are translated at rates of exchange in effect at the date of the transaction. Gains and losses arising on translation or settlement
+of foreign currency denominated transactions or balances are included in the determination of income. 
+
+The accounts of Elevai Research are translated
+to U.S. dollars using the current rate method. Accordingly, assets and liabilities are translated into U.S. dollars at the period-end
+exchange rate while revenues and expenses are translated at the average exchange rates during the period. Related exchange gains and losses
+are included in a separate component of stockholders equity as accumulated other comprehensive income (loss). 
+
+Inventory 
+
+Inventory consists of raw materials, work-in-progress
+and finished goods and are valued at the lower of cost or net realizable value. The Company s manufacturing process involves the
+production of our proprietary stem cell-derived Elevai Exosomes TM . Finished goods consists of a new generation of cosmetic
+topical products containing our proprietary stem cell-derived Elevai Exosomes TM . Cost is determined using the weighted average
+cost formula. Net realizable value is determined on the basis of anticipated sales proceeds less the estimated selling expenses. Management
+compares the cost of inventories with the net realizable value and an allowance is made to write down inventories to net realizable value,
+if lower. 
+
+Stock-Based Compensation 
+
+Employees - The Company accounts for share-based
+compensation under the fair value method which requires all such compensation to employees, including the grant of employee stock options,
+to be calculated based on its fair value at the measurement date (generally the grant date), and recognized in the consolidated statement
+of operations over the requisite service period. 
+
+Non-employees - During June 2018, the Financial
+Accounting Standards Board FASB issued Accounting Standards Update ASU 2018-07, Compensation-Stock Compensation
+(Topic 718): Improvements to Nonemployee Share-Based Payment Accounting ASU 2018-07 to simplify the accounting for share-based
+payments to nonemployees by aligning it with the accounting for share-based payments to employees. Under the requirements of ASU 2018-07,
+the Company accounts for share-based compensation to non-employees under the fair value method which requires all such compensation to
+be calculated based on the fair value at the measurement date (generally the grant date) and recognized in the statement of operations
+over the requisite service period. 
+
+33 
+
+During the nine months ended September 30, 2024,
+and 2023, the Company recorded 57,521 and 346,548, respectively, in share-based compensation expense, of which 53,977 and 337,550,
+and 3,544 and 8,998, respectively is included in office and administration and research and development, respectively. 
+
+Determining the appropriate fair value model and
+the related assumptions requires judgment. During the nine months ended September 30, 2024, and year ended December 31, 2023, the fair
+value of each option grant was estimated using a Black-Scholes option-pricing model. 
+
+The expected volatility represents the historical
+volatility of comparable publicly traded companies in similar industries, adjusted for variables such as stock price, market capitalization
+and life cycle. Due to limited historical data, the expected term for options granted is equal to the contractual life. The risk-free
+interest rate is based on a treasury instrument whose term is consistent with the expected life of stock options. The Company has not
+paid and does not anticipate paying cash dividends on its shares of common stock; therefore, the expected dividend yield is assumed to
+be zero. 
+
+Concentrations 
+
+Customers 
+
+For the nine months ended September 30, 2024,
+no single customer represented 10 or more of the Company s revenue. During the nine-month period ended September 30, 2023, the Company
+recorded 14 of its revenue from its largest customers. The Company s largest customer, representing 139,149 of revenue, relates
+to sales to a wholesaler during the period. 
+
+Suppliers 
+
+During the nine months ended September 30, 2024,
+and 2023, the Company had 3 key suppliers that represented approximately 78 and 3 key suppliers that represented approximately 66 , respectively,
+of the cost incurred in the purchase and production of inventory. The table below represents a breakdown of each supplier as a percentage
+of the cost incurred. (Suppliers are shown from largest to smallest and do not necessarily represent the same suppliers period over period): 
+
+Nine Months Ended September 30, 2024 
+ Nine Months Ended September 30, 2023 
+ 
+ Supplier 1 
+ 37 
+ 26 
+ 
+ Supplier 2 
+ 29 
+ 23 
+ 
+ Supplier 3 
+ 12 
+ 17 
+
+78 
+ 66 
+
+The Company continually evaluates the performance
+of its suppliers and the availability of alternatives to substitute or supplement its inventory production supply chain. The Company believes
+that a breakdown in supply from one of its key suppliers would be overcome in a short amount of time given the availability of alternatives. 
+
+Off-Balance Sheet Arrangements 
+
+We do not have any off-balance sheet arrangements
+that have or are reasonably likely to have a current or future effect on our financial condition, changes in financial condition, revenues
+or expenses, results of operations, liquidity, capital expenditure or capital resources that is material to investors. 
+
+34 
+
+JOBS Act 
+
+On April 5, 2012, the Jumpstart Our Business Startups
+Act (the JOBS Act was signed into law. The JOBS Act contains provisions that, among other things, eases certain reporting
+requirements for qualifying public companies. We will qualify as an emerging growth company and under the JOBS Act will
+be allowed to comply with new or revised accounting pronouncements based on the effective date for private (not publicly traded) companies.
+We are electing to delay the adoption of new or revised accounting standards, and as a result, we may not comply with new or revised accounting
+standards on the relevant dates on which adoption of such standards is required for non-emerging growth companies. As a result, our financial
+statements may not be comparable to companies that comply with new or revised accounting pronouncements as of public company effective
+dates. 
+
+Future Related Party Transactions 
+
+The Corporate Governance Committee of our Board
+of Directors is required to approve all related party transactions. All related party transactions are made or entered into on terms that
+are no less favorable to use than can be obtained from unaffiliated third parties. 
+
+Impact of Inflation 
+
+We do not believe the impact of inflation on our
+Company is material. 
+
+Inflation Risk 
+
+We are also exposed to inflation risk. Inflationary
+factors, such as increases in labor costs, could impair our operating results. Although we do not believe that inflation has had a material
+impact on our financial position or results of operations to date, a high rate of inflation in the future may have an adverse effect on
+our ability to maintain current levels of gross margin and operating expenses. 
+
+Market Risk 
+
+Market risk is the risk of loss arising from adverse
+changes in market rates and prices. Our market risk exposure is generally limited to those risks that arise in the normal course of business,
+as we do not engage in speculative, non-operating transactions, nor do we utilize financial instruments or derivative instruments
+for trading purposes. 
+
+35 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+Pursuant to Item 305(e) of Regulation S-K 
+229.305(e)), the Company is not required to provide the information required by this Item as it is a smaller reporting company, 
+as defined by Rule 229.10(f)(1). 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+
+Evaluation of Disclosure
+Controls and Procedures 
+
+Our management, with
+the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and
+procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act at the end of the period covered by this quarterly report. 
+
+Based on this evaluation,
+the Chief Executive Officer and Chief Financial Officer concluded that, as of end of the period covered by this Quarterly Report, our
+disclosure controls and procedures (as defined in 240.13a-15(e) or 240.15d-15(e) of Regulation S-K) were effective to provide
+reasonable assurance that the information required to be disclosed by us in the reports we file or submit under the Exchange Act is recorded,
+processed, summarized and reported within the time periods specified in the SEC s rules and forms, and that such information (i)
+is accumulated and communicated to management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow
+timely decisions regarding required disclosures and (2) recorded, processed, summarized and reported within the time periods specified
+in the SEC s rules and forms. 
+
+We recognize that any
+controls system, no matter how well designed and operated, can provide only reasonable assurance of achieving its objectives, and our
+management necessarily applies its judgment in evaluating the benefits of possible controls and procedures relative to their costs. 
+
+Changes in Internal
+Control over Financial Reporting 
+
+There were no changes
+in our internal control over financial reporting during the period covered by this Quarterly Report that materially affected, or are reasonably
+likely to materially affect, our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange
+Act). 
+
+36 
+
+PART II OTHER INFORMATION 
+
+ITEM 1. LEGAL PROCEEDINGS 
+
+We are not currently a party to any pending legal
+proceedings that we believe will have a material adverse effect on our business or financial conditions. We may, however, be subject to
+various claims and legal actions arising in the ordinary course of business from time to time. 
+
+ITEM 1A. RISK FACTORS 
+
+As a smaller reporting company, we are not required
+to make disclosures under this item. 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+
+In addition to the following transactions, there
+have been no sales of unregistered equity securities that we have not previously disclosed in filings with the U.S. Securities and Exchange
+Commission. 
+
+On May 3, 2024, we issued 612,500 shares of our
+common stock to a consultant for services related to the Company s wholly owned subsidiary, Biosciences, pursuant to the agreed
+upon compensation terms in the consulting agreement with the entity. The issuance of the shares was exempt from registration under Rule
+701 of the Securities Act of 1933, as amended. 
+
+On April 30, 2024, in partial consideration for
+the exclusive license granted by MOA Life Plus Co., Ltd. MOA ), we issued a non-refundable license fee upon execution of
+the license agreement 950,000 shares of our common stock to MOA. The issuance of the shares was exempt from registration under Section
+4(a)(2) of the Securities Act of 1933, as amended. 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES 
+
+None. 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+
+Not applicable. 
+
+ITEM 5. 
+
+On August 1, 2024, Hatem Abou-Sayed MD informed
+us of his decision to resign as a member of our Board of Directors and as Chief Medical Officer effective as of August 1, 2024. His resignation
+is not the result of any disagreement with us on any matter relating to its operation, policies (including accounting of financial policies)
+or practices. 
+
+On August 1, 2024, we issued 612,500 shares of
+our common stock to a consultant for services related to the Company s wholly owned subsidiary Elevai Biosciences, Inc., pursuant
+to the agreed upon compensation terms in the consulting agreement with Biosciences. The issuance of the shares was exempt from registration
+under Rule 701 of the Securities Act of 1933, as amended. 
+
+On July 31, 2024, we entered into a securities
+purchase agreement (the Securities Purchase Agreement with certain investors (the Purchasers pursuant to
+which we sold, in a private placement, notes with an aggregate principal amount of 1,150,000 (the Notes ), with an original
+issue discount of 150,000. As consideration for entering into the Securities Purchase Agreement, we issued a total of 1,299,999 shares
+of common stock of the Company (the Shares to the Purchasers on August 2, 2024 (the Closing Date ). We issued
+the Notes dated as of July 31, 2024 to the Purchasers on the Closing Date. The Notes will mature 90 days from July 31, 2024 and do not
+bear interest unless an event of default occurs, which interest rate will be 14 during the period the event of default is occurring.
+In addition, if an event of default occurs, the Purchasers have the option to require the Company to redeem all or any portion of the
+Notes. 
+
+37 
+
+Item 6. Exhibits 
+
+The following exhibits are filed as part of, or
+incorporated by reference into, this Quarterly Report. 
+
+EXHIBIT INDEX 
+
+Exhibit
+ 
+ Number 
+ 
+ Description 
+
+4.1 
+ 
+ Form of Securities Purchase Agreement between the Company and certain purchasers dated July 31, 2024 (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K of the Company filed with the SEC on August 2, 2024). 
+ 
+ 4.2 
+ 
+ Form of Note between the Company and certain purchasers dated July 31, 2024 (incorporated by reference to Exhibit 10.2 to the Current Report on Form 8-K of the Company filed with the SEC on August 2, 2024). 
+ 
+ 4.3 
+ 
+ Form of Series A Warrant between the Company and certain investors dated September 24, 2024 (incorporated by reference to Exhibit 4.1 to the Current Report on Form 8-K of the Company filed with the SEC on September 25, 2024). 
+ 
+ 4.4 
+ 
+ Form of Series B Warrant between the Company and certain investors dated September 24, 2024 (incorporated by reference to Exhibit 4.2 to the Current Report on Form 8-K of the Company filed with the SEC on September 25, 2024). 
+ 
+ 4.5 
+ 
+ Form of Pre-funded Warrant between the Company and certain investors dated September 24, 2024 (incorporated by reference to Exhibit 4.3 to the Current Report on Form 8-K of the Company filed with the SEC on September 25, 2024). 
+ 
+ 4.6 
+ 
+ Form of Placement Agent Warrant between the Company and Univest Securities LLC dated September 24, 2024 (incorporated by reference to Exhibit 4.4 to the Current Report on Form 8-K of the Company filed with the SEC on September 25, 2024). 
+
+10.1 
+ 
+ License Agreement, dated April 30, 2024, by and between the Company and MOA Life Plus Co., Ltd. (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K of the Company filed with the SEC on May 2, 2024). 
+ 
+ 10.2 
+ 
+ Consulting Agreement with Santorio Biomedical, LLC (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K of the Company filed with the SEC on May 9, 2024). 
+ 
+ 10.3 
+ 
+ Form of Unsecured Revolving Line of Credit Promissory Note (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K of the Company filed with the SEC on June 20, 2024). 
+ 
+ 10.4+ 
+ 
+ Amended and Restated Consulting Agreement, by and between the Company and GB Capital Ltd. (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K of the Company filed with the SEC on June 26, 2024). 
+ 
+ 10.5+ 
+ 
+ Amended and Restated Consulting Agreement, by and between the Company and NorthStrive Companies Inc. (incorporated by reference to Exhibit 10.2 to the Current Report on Form 8-K of the Company filed with the SEC on June 26, 2024). 
+ 
+ 10.6+ 
+ 
+ Chairman Appointment Letter to Mr. Braeden Lichti (incorporated by reference to Exhibit 10.3 to the Current Report on Form 8-K of the Company filed with the SEC on June 26, 2024). 
+
+10.7 
+ 
+ Termination Agreement by and between the Company and Mr. Lichti (incorporated by reference to Exhibit 10.4 to the Current Report on Form 8-K of the Company filed with the SEC on June 26, 2024). 
+ 
+ 10.8 
+ 
+ First Amendment to License Agreement by and between the Company and INmune Bio, Inc. (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K of the Company filed with the SEC on July 12, 2024) 
+ 
+ 10.9 
+ 
+ Subsidiary Guarantee Agreement by and between the Company, Elevai Skincare Inc. (incorporated by reference to Exhibit 10.3 to the Current Report on Form 8-K of the Company filed with the SEC on August 2, 2024) 
+ 
+ 10.10 
+ 
+ Form of Placement Agent Agreement between the Company and Univest Securities LLC dated September 22, 2024 (incorporated by reference to Exhibit 10.1 to the Current Report on Form 8-K of the Company filed with the SEC on September 25, 2024). 
+ 
+ 10.11 
+ 
+ Form of Securities Purchase Agreement between the Company and certain purchasers, dated September 22, 2024 (incorporated by reference to Exhibit 10.2 to the Current Report on Form 8-K of the Company filed with the SEC on September 25, 2024). 
+
+31.1 
+ 
+ Certification of Principal Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 31.2 
+ 
+ Certification of Principal Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 32.1 
+ 
+ Certifications of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 32.2 
+ 
+ Certifications of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 101.INS 
+ 
+ Inline XBRL Instance Document. 
+ 
+ 101.SCH 
+ 
+ Inline XBRL Schema Document. 
+ 
+ 101.CAL 
+ 
+ Inline XBRL Calculation
+ Linkbase Document. 
+ 
+ 101.DEF 
+ 
+ Inline XBRL Definition
+ Linkbase Document. 
+ 
+ 101.LAB 
+ 
+ Inline XBRL Label Linkbase
+ Document. 
+ 
+ 101.PRE 
+ 
+ Inline XBRL Presentation
+ Linkbase Document. 
+ 
+ 104 
+ 
+ Cover Page Interactive
+ Data File (embedded within the Inline XBRL document filed as Exhibit 101). 
+
++ 
+ Indicates management contract or compensatory plan. 
+
+Annexes, schedules and exhibits to this Exhibit omitted pursuant to Item 601(a)(5) of Regulation S-K. The Registrant agrees to furnish supplementally a copy of any omitted schedule or exhibit to the SEC upon request. 
+
+Filed herewith. 
+
+Exhibits 32.1 and 32.2 are being furnished and shall not be deemed to be filed for purposes of Section 18 of the Exchange Act, or otherwise subject to the liability of that section, nor shall such exhibits be deemed to be incorporated by reference in any registration statement or other document filed under the Securities Act of 1933, as amended, or the Exchange Act, except as otherwise specifically stated in such filing. 
+
+38 
+
+SIGNATURES 
+
+Pursuant to the requirements of the
+Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized. 
+
+Elevai Labs Inc. 
+
+Date: November 14, 2024 
+ By: 
+ /s/ Graydon Bensler 
+
+Name: 
+ Graydon Bensler 
+
+Title: 
+ Chief Executive Officer and Chief Financial Officer 
+
+(Principal Executive, Accounting and Financial Officer) 
+
+39 
+
+<EX-31.1>
+ 2
+ ea021972001ex31-1_elevai.htm
+ CERTIFICATION
+
+EXHIBIT
+ 31.1 
+
+CERTIFICATION OF PRINCIPAL EXECTUIVE OFFICER 
+
+ PURSUANT TO RULE 13a-14(a)/15d-14(a), AS ADOPTED 
+
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+I, Graydon Bensler, certify that: 
+
+1. 
+ I have reviewed this Quarterly Report on Form 10-Q of Elevai Labs Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure
+that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+(d) Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal
+control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal
+control over financial reporting. 
+
+Date: November 14, 2024 
+
+/s/ Graydon Bensler 
+
+Name: 
+ Graydon Bensler 
+
+Title: 
+ Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ea021972001ex31-2_elevai.htm
+ CERTIFICATION
+
+EXHIBIT 31.2 
+
+CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER 
+
+ PURSUANT TO RULE 13a-14(a)/15d-14(a), AS ADOPTED 
+
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+I, Graydon Bensler, certify that: 
+
+1. I
+have reviewed this Quarterly Report on Form 10-Q of Elevai Labs Inc.: 
+
+2. Based
+on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered
+by this report; 
+
+3. Based
+on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The
+registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed
+such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure
+that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed
+such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated
+the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+(d) Disclosed
+in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant s internal
+control over financial reporting; and 
+
+5. The
+registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing
+the equivalent functions) 
+
+(a) All
+significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any
+fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal
+control over financial reporting. 
+
+Date: November 14, 2024 
+
+/s/ Graydon Bensler 
+
+Name: 
+ Graydon Bensler 
+
+Title: 
+ Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ea021972001ex32-1_elevai.htm
+ CERTIFICATION
+
+EXHIBIT 32.1 
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER 
+
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+Pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, I, Graydon Bensler, the Chief Executive Officer of Elevai Labs Inc. (the Company ),
+hereby certify, that, to my knowledge: 
+
+1. The
+Quarterly Report on Form 10-Q for the period ended September 30, 2024 (the Report of the Company fully complies with the requirements
+of Section 13(a) and 15(d) of the Securities Exchange Act of 1934; and 
+
+2. The
+information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the
+Company. 
+
+Dated: November 14, 2024 
+
+/s/ Graydon Bensler 
+
+Name: 
+ Graydon Bensler 
+
+Title: 
+ Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ea021972001ex32-2_elevai.htm
+ CERTIFICATION
+
+EXHIBIT 32.2 
+
+CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER 
+
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY
+ACT OF 2002 
+
+Pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, I, Graydon Bensler, the Chief Financial Officer of Elevai Labs Inc. (the Company ),
+hereby certify, that, to my knowledge: 
+
+1. The
+Quarterly Report on Form 10-Q for the period ended September 30, 2024 (the Report of the Company fully complies with the requirements
+of Section 13(a)/15(d) of the Securities Exchange Act of 1934; and 
+
+2. The
+information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the
+Company. 
+
+Dated: November 14, 2024 
+
+/s/ Graydon Bensler 
+
+Name: 
+ Graydon Bensler 
+
+Title: 
+ Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 7
+ elab-20240930.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ elab-20240930_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ elab-20240930_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ elab-20240930_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ elab-20240930_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

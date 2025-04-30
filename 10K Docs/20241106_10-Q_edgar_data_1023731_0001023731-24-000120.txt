@@ -1,0 +1,779 @@
+<Header>
+<FileStats>
+    <FileName>20241106_10-Q_edgar_data_1023731_0001023731-24-000120.txt</FileName>
+    <GrossFileSize>7323949</GrossFileSize>
+    <NetFileSize>98433</NetFileSize>
+    <NonText_DocumentType_Chars>1358882</NonText_DocumentType_Chars>
+    <HTML_Chars>2497981</HTML_Chars>
+    <XBRL_Chars>1719023</XBRL_Chars>
+    <XML_Chars>1513373</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001023731-24-000120.hdr.sgml : 20241106
+<ACCEPTANCE-DATETIME>20241106160542
+ACCESSION NUMBER:		0001023731-24-000120
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		85
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241106
+DATE AS OF CHANGE:		20241106
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			8X8 INC /DE/
+		CENTRAL INDEX KEY:			0001023731
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				770142404
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38312
+		FILM NUMBER:		241430882
+
+	BUSINESS ADDRESS:	
+		STREET 1:		675 CREEKSIDE WAY
+		CITY:			CAMPBELL
+		STATE:			CA
+		ZIP:			95008
+		BUSINESS PHONE:		4087271885
+
+	MAIL ADDRESS:	
+		STREET 1:		675 CREEKSIDE WAY
+		CITY:			CAMPBELL
+		STATE:			CA
+		ZIP:			95008
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NETERGY NETWORKS INC
+		DATE OF NAME CHANGE:	20000912
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	8X8 INC
+		DATE OF NAME CHANGE:	19961023
+
+</SEC-Header>
+</Header>
+
+ 0001023731-24-000120.txt : 20241106
+
+10-Q
+ 1
+ eght-20240930.htm
+ 10-Q
+
+eght-20240930 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from ________to _________ 
+ Commission file number: 
+ _________________ 
+
+(Exact name of Registrant as Specified in its Charter) 
+ _________________ 
+ (State or Other Jurisdiction of Incorporation or Organization) (I.R.S. Employer Identification Number) 
+ 
+ , 
+ (Address of principal executive offices) 
+ 
+ ) 
+ (Registrant's telephone number, including area code) 
+ 
+ _________________ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company" and "emerging growth company" in Rule 12b-2 of the Exchange Act . 
+ Large accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ The number of shares of the Registrant's Common Stock outstanding as of October 31, 2024 was . 
+
+Table of Contents 
+
+ 8X8, INC. 
+ INDEX TO QUARTERLY REPORT ON FORM 10-Q 
+ FOR THE QUARTER ENDED SEPTEMBER 30, 2024 
+ Page Forward-Looking Statements and Risk Factors 
+ 2 
+ PART I. FINANCIAL INFORMATION 
+ 3 
+ Item 1. Financial Statements (unaudited): 
+ 3 
+ Condensed Consolidated Balance Sheets 
+ 3 
+ Condensed Consolidated Statements of Operations 
+ 4 
+ Condensed Consolidated Statements of Comprehensive Loss 
+ 4 
+ Condensed Consolidated Statements of Stockholders' Equity 
+ 5 
+ Condensed Consolidated Statements of Cash Flows 
+ 6 
+ Notes to Unaudited Condensed Consolidated Financial Statements 
+ 7 
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 19 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 28 
+ Item 4. Controls and Procedures 
+ 28 
+ PART II. OTHER INFORMATION 
+ 29 
+ Item 1. Legal Proceedings 
+ 29 
+ Item 1A. Risk Factors 
+ 29 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 29 
+ Item 3. Defaults Upon Senior Securities 
+ 29 
+ Item 4. Mine Safety Disclosures 
+ 29 
+ Item 5. Other Information 
+ 29 
+ Item 6. Exhibits 
+ 30 
+ Signature 
+ 31 
+
+1 
+
+Table of Contents 
+
+ Forward-Looking Statements and Risk Factors 
+ Statements contained in this quarterly report on Form 10-Q, or this "Quarterly Report," regarding our expectations, beliefs, estimates, intentions or strategies are forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 (the "Securities Act") and Section 21E of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). Any statements contained herein that are not statements of historical fact may be deemed to be forward-looking statements. For example, words such as "may," "will," "should," "estimates," "predicts," "potential," "continue," "strategy," "believes," "anticipates," "plans," "expects," "intends," and similar expressions are intended to identify forward-looking statements. These forward-looking statements include, but are not limited to, statements regarding: industry trends; our number of customers; average annual service revenue per customer; cost of service revenue; growth in service revenue; research and development expenses; costs related to our continued growth initiatives; hiring of employees; sales and marketing expenses; unit costs and cost reductions; gross profit margin; general and administrative expenses in future periods; liquidity; indebtedness; capital; cash, cash equivalents and investment balances; anticipated cash flows; operating efficiency; and the ongoing impact of the COVID-19 pandemic. You should not place undue reliance on these forward-looking statements. Actual results and trends may differ materially from historical results and those projected in any such forward-looking statements depending on a variety of factors. These factors include, but are not limited to: 
+ the impact of economic downturns on us and our customers; 
+ the impact of cost increases and general inflationary pressures, as well as supply chain shortages and disruptions, on our operating expenses; 
+ risks related to our delayed draw term loan facility and convertible senior notes due 2028, including the impact of increased interest expense and timing of any future repayments or refinancing on our stock price; 
+ customer cancellations and rate of customer churn; 
+ ongoing volatility and conflict in the political and economic environment, including the impact of Russia s invasion of Ukraine and conflicts in the Middle East, and any related macroeconomic impacts; 
+ customer acceptance and demand for our new and existing cloud communication and collaboration services and features, including voice, contact center, video, messaging, and communication application programming interfaces; 
+ competitive market pressures, and any changes in the competitive dynamics of the markets in which we compete; 
+ the quality and reliability of our services; 
+ our ability to scale our business; 
+ customer acquisition costs; 
+ our reliance on a network of channel partners to provide substantial new customer demand; 
+ timing and extent of improvements in operating results from increased spending in marketing, sales, and research and development; 
+ the amount and timing of costs associated with recruiting, training, and integrating new employees and retaining existing employees; 
+ our reliance on infrastructure of third-party network service providers; 
+ risk of failure in our physical infrastructure; 
+ risk of defects or bugs in our software; 
+ risk of cybersecurity breaches; 
+ our ability to maintain the compatibility of our software with third-party applications and mobile platforms; 
+ continued compliance with industry standards and regulatory and privacy requirements, globally; 
+ introduction and adoption of our cloud software solutions in markets outside of the United States; 
+ risks that any reduction in spending may not achieve the desired result or may result in a reduction in revenue; 
+ risks relating to the acquisition and integration of businesses we have acquired or may acquire in the future, including most recently, Fuze, Inc.; 
+ risks related to the fluctuations in the value of the United States Dollar and other currencies that underlie our business transactions; 
+ risks related to our substantial amount of indebtedness, which could have important consequences to our business; 
+ potential future intellectual property infringement claims and other litigation that could adversely impact our business and operating results; and 
+ the instability in the banking system in recent years, which could adversely impact our operations and operating results. 
+ Please refer to the "Risk Factors" section of our annual report on Form 10-K for the fiscal year ended March 31, 2024 (the "Form 10-K") and subsequent Securities and Exchange Commission ("SEC") filings for additional factors that could materially affect our financial performance. All forward-looking statements included in this Quarterly Report are based on information available to us on the date hereof, and we assume no obligation to update any such forward-looking statements. Readers are urged to carefully review and consider the various disclosures made in this Quarterly Report, which attempts to advise interested parties of the risks and factors that may affect our business, financial condition, results of operations and prospects. 
+ Our fiscal year ends on March 31 of each calendar year. Each reference to a fiscal year in this Quarterly Report refers to the fiscal year ended March 31 of the calendar year indicated (for example, fiscal year 2025 refers to the fiscal year ended March 31, 2025). Unless the context requires otherwise, references to "we," "us," "our," "8x8," and the "Company" refer to 8x8, Inc. and its consolidated subsidiaries. 
+ 2 
+
+Table of Contents 
+
+ PART I. FINANCIAL INFORMATION 
+ 
+ ITEM 1. Financial Statements 
+ 
+ 8X8, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (Unaudited, in thousands, except share and per share amounts) 
+ 
+ September 30, 2024 March 31, 2024 ASSETS Current assets: Cash and cash equivalents Restricted cash Short-term investments Accounts receivable, net Deferred sales commission costs Other current assets Total current assets Property and equipment, net Operating lease, right-of-use assets Intangible assets, net Goodwill Restricted cash, non-current Deferred sales commission costs, non-current Other assets, non-current Total assets LIABILITIES AND STOCKHOLDERS' EQUITY Current liabilities: Accounts payable Accrued and other liabilities Operating lease liabilities Deferred revenue Term loan, current Total current liabilities Operating lease liabilities, non-current Deferred revenue, non-current Convertible senior notes, non-current Term loan Other liabilities, non-current Total liabilities Commitments and contingencies (Note 7 
+ par value, shares authorized, issued and outstanding as of September 30, 2024 and March 31, 2024 
+ Common stock: par value, shares authorized, shares and shares issued and outstanding as of September 30, 2024 and March 31, 2024, respectively 
+ Additional paid-in capital Accumulated other comprehensive loss ) ) Accumulated deficit ) ) Total stockholders' equity Total liabilities and stockholders' equity 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 3 
+
+Table of Contents 
+
+ 8X8, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS 
+ (Unaudited, in thousands except per share amounts) 
+ Three Months Ended September 30, Six Months Ended September 30, 2024 2023 2024 2023 Service revenue Other revenue Total revenue Cost of service revenue Cost of other revenue Total cost of revenue Gross profit Operating expenses: Research and development Sales and marketing General and administrative Total operating expenses Income (loss) from operations ) ) Interest expense ) ) ) ) Other income (expense), net ) ) Loss before provision (benefit) for income taxes ) ) ) ) Provision (benefit) for income taxes ) Net loss ) ) ) ) Net loss per share: Basic and diluted Weighted average number of shares: Basic and diluted Comprehensive loss Net loss ) ) ) ) Unrealized gain (loss) on investments in securities ) Foreign currency translation adjustment ) ) Comprehensive loss ) ) ) ) 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 4 
+
+Table of Contents 
+
+ 8X8, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY 
+ (Unaudited, in thousands) 
+ Common Stock Additional Paid-in Capital Accumulated Other Comprehensive Loss Accumulated Deficit Total Shares Amount Balance at March 31, 2024 ) ) Issuance of common stock under stock plans, less withholding ) Stock-based compensation expense Unrealized investment loss ) ) Foreign currency translation adjustment ) ) Net loss ) ) Balance at June 30, 2024 ) ) Issuance of common stock under stock plans, less withholding ) ESPP share issuance Stock-based compensation expense Foreign currency translation adjustment Net loss ) ) Balance at September 30, 2024 ) ) 
+ Common Stock Additional Paid-in Capital Accumulated Other Comprehensive Loss Accumulated Deficit Total Shares Amount Balance at March 31, 2023 ) ) Issuance of common stock under stock plans, less withholding ) Stock-based compensation expense Issuance of common stock under stock plans, less withholding, related to Fuze Acquisition ) Unrealized investment gain Foreign currency translation adjustment Net loss ) ) Balance at June 30, 2023 ) ) Issuance of common stock under stock plans, less withholding ) ESPP share issuance Stock-based compensation expense Unrealized investment gain Foreign currency translation adjustment ) ) Net loss ) ) Balance at September 30, 2023 ) ) 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 5 
+
+Table of Contents 
+
+ 8X8, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (Unaudited, in thousands) 
+ Six Months Ended September 30, 2024 2023 Cash flows from operating activities: Net loss ) ) Adjustments to reconcile net loss to net cash provided by operating activities: Depreciation Amortization of intangible assets Amortization of capitalized internal-use software costs Amortization of debt discount and issuance costs Amortization of deferred sales commission costs Allowance for credit losses Operating lease expense, net of accretion Stock-based compensation expense Loss on debt extinguishment Gain on remeasurement of warrants ) ) Other ) Changes in assets and liabilities: Accounts receivable, net ) Deferred sales commission costs ) ) Other current and non-current assets ) Accounts payable and accruals ) ) Deferred revenue ) Net cash provided by operating activities Cash flows from investing activities: Purchases of property and equipment ) ) Capitalized internal-use software costs ) ) Purchase of investments ) Purchase of cost investment ) Maturities of investments Net cash (used in) provided by investing activities ) Cash flows from financing activities: Proceeds from issuance of common stock under employee stock plans Payments for debt issuance costs ) Repayment of principal on term loan ) ) Gross proceeds from term loan Other financing activities ) Net cash used in financing activities ) ) Effect of exchange rate changes on cash ) Net increase in cash and cash equivalents Cash, cash equivalents and restricted cash, beginning of year Cash, cash equivalents and restricted cash, end of period 
+ Supplemental and non-cash disclosures: Six Months Ended September 30, 2024 2023 Interest paid Income taxes paid Payables and accruals for property and equipment 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 6 
+
+Table of Contents 
+
+ 8X8, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS UNAUDITED 
+ 
+ 1. 
+ reportable segment. 
+ In the opinion of the Company's management, these condensed consolidated financial statements reflect all adjustments (consisting only of normal recurring adjustments) considered necessary for a fair statement of the Company's financial position, results of operations and cash flows for the periods presented. The results of operations for the interim periods presented are not necessarily indicative of the results to be expected for any subsequent quarter or for the entire year ending March 31, 2025. 
+ CHANGE IN REPORTING PRESENTATION 
+ Historically, cost of revenue and cost of other revenue have been presented within operating expenses. During the fourth quarter of fiscal year 2024, the Company made voluntary changes in accounting presentation and reclassified prior period amounts to conform to current year presentation to separately state cost of revenue, cost of other revenue and recognize gross profit on the Company's condensed consolidated statement of operations. 
+ Historically, interest expense has been presented within other income (expense), net. During the second quarter of fiscal year 2025, the Company made voluntary changes in accounting presentation and reclassified prior period amounts to conform to current year presentation to separately state interest expense on the Company's condensed consolidated statement of operations. 
+
+7 
+
+Table of Contents 
+
+2. 
+ Contract assets, non-current (component of Other assets) Deferred revenue, current Deferred revenue, non-current 
+ Contract assets are recorded for contract consideration not yet invoiced but for which the performance obligations are completed. Contract assets, net of allowances for credit losses, are included in other current assets or other assets in the Company's consolidated balance sheets, depending on if their reduction will be recognized during the succeeding twelve-month period or beyond. The allowance applied to our contract assets as of March 31, 2024 and 2023 and the activity in this account, including the current-period provision for expected credit losses for the six months ended September 30, 2024 and 2023, were not material. Contract assets are transferred to accounts receivable when the right to invoice becomes unconditional. 
+ During the six months ended September 30, 2024 and 2023, the Company recognized revenues of approximately million and million that were included in deferred revenue at the beginning of the fiscal year, respectively. 
+ Remaining Performance Obligations 
+ The Company's subscription terms typically range from one to . Contract revenue from the remaining performance obligations that had not yet been recognized as of September 30, 2024 was approximately million. This amount excludes contracts with an original expected length of less than one year. The Company expects to recognize revenue on approximately of the remaining performance obligations over the next months and approximately over the remainder of the subscription period. 
+ Deferred Sales Commission Costs 
+ Amortization of deferred sales commission costs for the three months ended September 30, 2024 and 2023 was approximately million and million, respectively, and million and million during the six months ended September 30, 2024 and 2023, respectively. 
+ 8 
+
+Table of Contents 
+
+ 3. 
+ Level 1: Money market funds Total assets 
+ As of March 31, 2024 Amortized Costs Gross Unrealized Gain Gross Unrealized Loss Estimated Fair Value Cash and Cash Equivalents Restricted Cash (Current Non-current) Short-Term Investments Cash Level 1: Money market funds Subtotal Level 2: Term deposit Commercial paper ) Subtotal ) Total assets ) 
+ As of September 30, 2023, cash, cash equivalents and restricted cash of million included million, million, and million of cash and cash equivalents, restricted cash and non-current restricted cash, respectively. 
+ To support its current operations, the Company considers all highly liquid investments with an original maturity of three months or less to be cash equivalents. The restricted cash component of the money market funds is comprised of letters of credit securing leases for certain office facilities. 
+ The Company uses the Black-Scholes option-pricing valuation model to value its detachable warrants from inception and at each reporting period. During the three months ended September 30, 2024, the Company used historical volatility to determine the fair value of the warrants liability due to the low trading volume and moneyness assessment as of September 30, 2024. Changes in the fair values of the detachable warrants liability are recorded as loss on warrants remeasurement within Other (expense) income, net in the condensed consolidated statements of operations. 
+ Unobservable inputs: Stock volatility Risk-free rate Expected term years years 
+ As of September 30, 2024 and March 31, 2024, the estimated fair value of the Company s convertible senior notes due in 2028 was million and million, respectively (see Note 8 , Convertible Senior Notes and Term Loan). The fair value of the convertible senior notes was determined based on the closing price of each of the securities on the last trading day of the reporting period, and each is Level 2 in the fair value hierarchy due to limited trading activity of the debt instruments. As of September 30, 2024 and March 31, 2024, the carrying value of the Company s 2024 Term Loan approximates its estimated fair value. 
+ 9 
+
+Table of Contents 
+
+ 4. 
+ Unbilled trade accounts receivable Less: allowance for credit losses ) ) Less: allowance for sales reserves ) ) Total accounts receivable, net) ) ) ) Reserve ) ) ) ) Write-offs Ending balance ) ) ) ) 
+ Contract assets, current Other current assets Total other current assets 
+ Accrued taxes Other accrued liabilities Total accrued and other liabilities) ) ) Gain on warrants remeasurement Interest income Other income (expense) ) ) Other income (expense), net ) ) 
+ 10 
+
+Table of Contents 
+
+ 5. 
+ ) ) Customer relationships ) ) Trade names and domains ) ) Total acquired identifiable intangible assets ) ) 
+ As of September 30, 2024, the weighted average remaining useful lives for developed technology and customer relationships were years and years, respectively. 
+ 2026 2027 2028 2029 and thereafter Total 
+ Foreign currency translation Balance as of September 30, 2024 
+ 
+ 6. 
+ Variable lease expense 
+ The supplemental cash flow information related to leases was as follows (in thousands): 
+ Three Months Ended September 30, Six Months Ended September 30, 2024 2023 2024 2023 Cash outflows from operating leases Right-of-use assets obtained in exchange for operating lease obligations 
+ Short-term lease expense was immaterial during the six months ended September 30, 2024 and 2023. 
+ years years Weighted average discount rate 
+ 11 
+
+Table of Contents 
+
+ 2026 2027 2028 2029 Thereafter Total lease payments Less: imputed interest ) Present value of lease liabilities 
+ 
+ 7. 
+ Operating Leases 
+ The Company's lease obligations consist of the Company's principal facility and various leased facilities under operating lease agreements. During the six months ended September 30, 2024, a material international operating lease commenced related to an international office building. See Note 6, Leases, in the Company's Annual Report on Form 10-K for more information on the Company's leases and the future minimum lease payments. 
+ Purchase Obligations 
+ The Company's purchase obligations include contracts with third-party customer support vendors and third-party network service providers. These contracts include minimum monthly commitments and the requirements to maintain the service level for several months. 
+ During the three months ended September 30, 2024, the Company entered into a million noncancelable hosting service contract. Under this agreement, million remains due during fiscal year 2025, million will be due during fiscal year 2026, million will be due during fiscal year 2027 and million will be due during fiscal year 2028. 
+ Legal Proceedings 
+ The Company may be involved in various claims, lawsuits, investigations, and other legal proceedings, including intellectual property, commercial, regulatory compliance, securities, and employment matters that arise in the normal course of business. The Company determines whether an estimated loss from a contingency should be accrued by assessing whether a loss is deemed probable and can be reasonably estimated. The Company regularly evaluates current information to determine whether any accruals should be adjusted and whether new accruals are required. Actual claims could settle or be adjudicated against the Company in the future for materially different amounts than the Company has accrued due to the inherently unpredictable nature of litigation. Legal costs are expensed as incurred. 
+ The Company believes it has recorded adequate provisions for any such lawsuits and claims and proceedings as of September 30, 2024. The Company believes that damage amounts claimed in these matters are not meaningful indicators of potential liability. Some of the matters pending against the Company involve potential compensatory, punitive, or treble damage claims or sanctions, that, if granted, could require the Company to pay damages or make other expenditures in amounts that could have a material adverse effect on its consolidated financial statements. Given the inherent uncertainties of litigation, the ultimate outcome of the ongoing matters described herein cannot be predicted, and the Company believes it has valid defenses with respect to the legal matters pending against it. Nevertheless, the consolidated financial statements could be materially adversely affected in a particular period by the resolution of one or more of these contingencies. 
+ 12 
+
+Table of Contents 
+
+ million, which included million related to the Fuze Universal Service Fund USF matter discussed below which had been subsequently paid. As of September 30, 2024, the Company has accrued contingent indirect tax liabilities of million. 
+ FCC Investigation of 8x8, Inc. and Fuze, Inc. 
+ On November 17, 2023, the Company received a letter of inquiry from the Enforcement Bureau of the Federal Communications Commission (the FCC requesting certain information and supporting documents related to an investigation of potential violations by 8x8 and Fuze, Inc. in connection with certain prior period regulatory filings and payments. The Company has cooperated with the FCC in this matter and responded to the letter of inquiry. The Company subsequently received communications from the Universal Service Administrative Company USAC ), rejecting Fuze, Inc.'s previously filed 499-A returns for calendar years 2021 and 2022 and informing the Company that USAC would apply the safe harbor to Fuze revenues for those years for assessing Universal Service Fund ("USF") payments. The Company has since refiled the 499-A returns for calendar years 2021 and 2022 for Fuze, Inc., which have been subsequently accepted by USAC. On November 1, 2024, the Company entered into a Consent Decree with the FCC and considers this matter to be closed. See Note 14 , Subsequent Events". 
+ 13 
+
+Table of Contents 
+
+ 8. 
+ Unamortized debt discount and issuance costs ) ) ) ) ) ) Net carrying amount Current portion of long-term debt Non-current portion of long-term debt 
+ Amortization of debt discount and issuance costs Total interest expense 
+ Components of interest expense were as follows as of the six months ended September 30, 2024 and 2023, respectively (in thousands): 
+ Six Months Ended September 30, 2024 Six Months Ended September 30, 2023 2024 Term Loan 2022 Term Loan 2028 Notes 2024 Notes Total 2022 Term Loan 2028 Notes 2024 Notes Total Contractual interest expense Amortization of debt discount and issuance costs Total interest expense 
+ The 2024 Term Loan (as defined below) is the Company s senior secured obligation and ranks senior in right of payment to any of the Company s indebtedness. The 2028 Notes are the Company s senior unsecured obligation and rank junior in right of payment to any of the Company s indebtedness in right of payment to the 2024 Term Loan. 
+ 2024 Delayed Draw Term Loan 
+ On July 11, 2024, the Company entered into a new term loan credit agreement with Wells Fargo Bank, National Association, as administrative agent, and the lenders thereto (the 2024 Credit Agreement ). The 2024 Credit Agreement establishes a delayed draw term loan facility in an aggregate principal amount of up to million maturing on August 15, 2027. 
+ On August 5, 2024, the Company drew upon the entire facility of million under the delayed draw term loan facility (the "2024 Term Loan") and used the proceeds of the 2024 Term Loan and cash on hand of approximately million to repay in full the million of outstanding principal amount and accrued interest of the 2022 Term Loan (defined below) and the fees incurred in connection with the repayment (the "Repayment"). For additional information, refer to the "2022 Term Loan and Warrants" section below. 
+ 
+ 14 
+
+Table of Contents 
+
+ , or based on the consolidated total net leverage ratio of the Company and its subsidiaries. The initial margin will be for the fiscal quarter ending September 30, 2024. The Company has the option to pay interest monthly, quarterly, or semi-annually. During the three months ended September 30, 2024, the Company elected monthly interest payment terms resulting in contractual interest expense of million. The scheduled principal repayments of million in fiscal year 2025 million on October 31, 2024, December 31, 2024 and March 31, 2025, respectively), million in fiscal year 2026 million on June 30, 2025 and million on September 30, 2025, December 31, 2025 and March 31, 2026, respectively), and million in fiscal year 2027 million on June 30, 2026 and million on September 30, 2026 and each quarter thereafter through maturity) are required, and the remaining million principal is due before or upon maturity in fiscal year 2028. These annualized repayments will be made in quarterly installments. As of September 30, 2024, the debt issuance costs are amortized to interest expense over the term of the 2024 Term Loan at an effective interest rate of . 
+ The obligations under the 2024 Credit Agreement are guaranteed by the Company s wholly-owned subsidiaries, subject to certain customary exceptions, and secured by a perfected security interest in substantially all of the Company s tangible and intangible assets, as well as substantially all of the tangible and intangible assets of the guarantors. 
+ Mandatory prepayments of the 2024 Term Loan are required to be made upon the occurrence of certain events, including, without limitation, (i) sales of certain assets, (ii) receipt of certain casualty and condemnation awards proceeds, and (iii) the incurrence of non-permitted indebtedness, subject to certain thresholds and reinvestment rights. Voluntary prepayments are permitted at any time without premium or penalty, subject to certain customary break funding payments. 
+ The 2024 Credit Agreement contains a consolidated interest coverage ratio financial covenant, a maximum consolidated total net leverage ratio financial covenant and a maximum consolidated secured leverage ratio financial covenant, and contains affirmative and negative covenants customary for transactions of this type, including limitations with respect to share repurchases, indebtedness, liens, investments, dividends, disposition of assets, change in business, and transactions with affiliates. As of September 30, 2024, the Company was in compliance with all covenants set forth in the 2024 Credit Agreement. 
+ 2022 Term Loan and Warrants 
+ As of March 31, 2024, the Company had million of principal amount outstanding in a senior secured term loan facility (the 2022 Term Loan under a term loan credit agreement (the 2022 Credit Agreement entered into on August 3, 2022 with Wilmington Savings Fund Society, FSB, as administrative agent, and certain affiliates of Francisco Partners FP ). The 2022 Term Loan matured on August 3, 2027 and bore interest at an annual rate equal to the term Standard Overnight Financing Rate ("Term SOFR") (subject to a floor of and a credit spread adjustment of ), plus a margin of . Prior to the Repayment, the debt discount and debt issuance costs were amortized to interest expense over the term of the 2022 Term Loan at an effective interest rate of . 
+ Mandatory prepayments of the 2022 Term Loan were required to be made upon the occurrence of certain events, including, without limitation, (i) sales of certain assets, (ii) receipt of certain casualty and condemnation awards proceeds, and (iii) the incurrence of non-permitted indebtedness, subject to certain thresholds and reinvestment rights. Voluntary prepayments were permitted at any time, subject to certain prepayment premiums. On May 9, 2023, the Company voluntarily prepaid without penalty, million of principal amount outstanding and million of accrued interest on the 2022 Term Loan. The prepayment penalty of on additional early prepayment of principal expired on August 3, 2024. This payment had no impact on the Company's compliance with the 2022 Term Loan covenants. Prior to the Repayment, the Company was in compliance with all covenants set forth in the 2022 Credit Agreement. 
+ The obligations under the 2022 Credit Agreement were guaranteed by the Company s wholly-owned subsidiaries, subject to certain customary exceptions, and secured by a perfected security interest in substantially all of the Company s tangible and intangible assets, as well as substantially all of the tangible and intangible assets of the guarantors. 
+ In connection with the 2022 Credit Agreement, the Company issued detachable warrants (the Warrants to affiliates of FP to purchase an aggregate of million shares of the Company s common stock with a term and an exercise price of per share (subject to adjustment) that represents a premium over the closing price per share of the Company s common stock on August 3, 2022. The Warrants are classified as liabilities measured at fair value during each reporting period as the Warrants contain certain terms that could result in cash settlement as a result of events outside of the Company s control. As of September 30, 2024 and March 31, 2024, the fair value of the Warrants was million and million, respectively, and was recorded within other liabilities, non-current on the condensed consolidated balance sheets. The subsequent changes in fair value were recorded through Other income (expense), net on the Company s consolidated statement of operations. See Note 3, Fair Value Measurements, for further details. 
+ On August 5, 2024, the Company repaid in full the outstanding principal amount and accrued interest of the 2022 Term Loan using the proceeds of the 2024 Term Loan and cash on hand. The Repayment was accounted for as a debt extinguishment. The carrying value of the 2022 Term Loan, including the unamortized debt discount and issuance costs, was derecognized. The difference of million between the cash consideration paid to extinguish the 2022 Term Loan and the carrying value of the 2022 Term Loan was recognized as a loss on debt extinguishment included in the loss on debt extinguishment line item recorded in other expense in the condensed consolidated statement of operations. The Warrants continue to be outstanding, with no changes in terms in connection with the Repayment or issuance of the 2024 Term Loan. 
+ 15 
+
+Table of Contents 
+
+ million aggregate principal amount of convertible senior notes due 2028 (the 2028 Notes ), with debt issuance costs of approximately million, of which was paid in the form of shares of the Company's common stock. 
+ The 2028 Notes are senior obligations of the Company that accrue interest, payable semi-annually in arrears on February 1 and August 1 of each year. The 2028 Notes will mature on February 1, 2028, unless earlier converted, redeemed or repurchased. As of September 30, 2024, the Company was in compliance with all covenants set forth in the indenture governing the 2028 Notes. 
+ The debt discount and debt issuance costs are amortized to interest expense over the term of the 2028 Notes at an effective interest rate of . 
+ 
+ 9. 
+ million shares (which is the sum of the million new shares approved by shareholders on August 15, 2024 plus the million shares available for grant under the 2022 Plan when it was initially adopted by shareholders on July 12, 2022) plus (ii) the number of shares subject to stock options granted under the 8x8 Inc. Amended and Restated 2012 Equity Incentive Plan (the Prior Plan that were outstanding as of 12:01 a.m. Pacific Time on June 22, 2022 (the Prior Plan Expiration Time ), but only to the extent such stock options expire, terminate, are cancelled without having been exercised in full or are settled in cash after the Prior Plan Expiration Time without the delivery of shares, plus (iii) the number of shares subject to restricted stock, RSUs and performance units granted under the Prior Plan that were outstanding as of the Prior Plan Expiration Time, but only to the extent such awards are forfeited by the holder, are reacquired by the Company at less than their then market value as a means of effecting a forfeiture, or are settled in cash after the Prior Plan Expiration Time without the delivery of shares (with the number of shares that recycle based on the Applicable Ratio, which is defined in the 2022 Plan), in each case, subject to adjustment upon certain changes in the Company s capitalization. The 2022 Plan provides for the granting of incentive stock options to employees and non-statutory stock options to employees, directors or consultants, and granting of stock appreciation rights, restricted stock, restricted stock units and performance units, qualified performance-based awards, and stock grants. The stock option price of incentive stock options granted cannot be less than the fair market value on the effective date of the grant. Options, restricted stock, and restricted stock units generally vest over three or and expire after the grant. As of September 30, 2024, million shares remained available for future grants under the 2022 Plan. 
+ Stock-Based Compensation 
+ Cost of other revenue Research and development Sales and marketing General and administrative Total 
+ 16 
+
+Table of Contents 
+
+ Granted Vested and released ) Forfeited ) Balance as of September 30, 2024 
+ As of September 30, 2024, there was million of total unrecognized compensation cost related to RSUs, which is expected to be recognized over a weighted average of years. 
+ Performance Stock Units 
+ PSUs are issued to a group of executives and generally time vest over periods ranging from one to from the grant date; vesting is generally also contingent upon achievement of applicable performance metrics or strategic objectives. Vesting of performance-based stock units granted can be tied to our total shareholder return, as measured relative to specified market indices during the applicable performance periods and be contingent upon continued service. The related stock-based compensation expense is recognized over the requisite service period and accounts for the probability that we will satisfy the performance measures or strategic objectives. 
+ Granted Forfeited ) Balance as of September 30, 2024 
+ Total unrecognized compensation cost related to PSUs was million as of September 30, 2024, which is expected to be recognized over a weighted average of years. 
+ Employee Stock Purchase Plan ("ESPP") 
+ As of September 30, 2024, there was approximately million of unrecognized compensation cost related to employee stock purchases. This cost is expected to be recognized over a weighted average period of years. As of September 30, 2024, a total of million shares were available for issuance under the ESPP. 
+ 
+ 10.) and for the three months ended September 30, 2024 and 2023, respectively, and ) and ) for the six months ended September 30, 2024 and 2023, respectively. The difference in the effective tax rate and the U.S. federal statutory rate was primarily due to the full valuation allowance the Company maintains against its deferred tax assets after adjusting for the impact of certain provisions enacted under the Tax Cuts and Jobs Act, current tax liabilities of profitable foreign subsidiaries subject to different local income tax rates, and state taxes in the United States. The effective tax rate is calculated by dividing the provision for income taxes by the loss before provision for income taxes. 
+ 
+ 11.) Weighted average common shares outstanding - basic and diluted Net loss per share - basic and diluted 
+ 17 
+
+Table of Contents 
+
+Restricted stock units and Performance stock units Potential shares attributable to the ESPP Total anti-dilutive shares 
+ 
+ 12. 
+ United Kingdom Other International Total revenue 
+ International Total property and equipment, net 
+ 
+ 13. 
+ contract with this vendor valued at million and paid million during the six months ended September 30, 2024 . 
+ 
+ 14. 
+ million of quarterly principal payments due October 31, 2024 and December 31, 2024, under the 2024 Term Loan. On November 1, 2024, the Company prepaid million of additional principal payments. These short-term principal debt payments are accounted for as partial debt extinguishment transactions. As a result, the recognition of any associated unamortized debt discount and issuance costs of the 2024 Term Loan will be recognized within other expense, net, in the consolidated statement of operations for the three and nine months ended December 31, 2024. The remaining principal amount of the 2024 Term Loan after the payments is million. 
+ FCC Investigation of 8x8, Inc. and Fuze, Inc. 
+ With respect to the FCC Investigation of the Company and Fuze, Inc. discussed in Note 7 , Commitments and Contingencies, a Consent Decree was entered into with the FCC on November 1, 2024 under which the Company has agreed to implement a compliance plan, submit compliance reports to the FCC in certain intervals over the next three years and pay a civil penalty of million, to be remitted to the FCC within thirty days. Subject to such requirements and other conditions enumerated under the Consent Decree, this concludes the FCC s Investigation of the Company and Fuze, Inc. and the Company considers the matter to be closed. 
+ 18 
+
+Table of Contents 
+
+ ITEM 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our condensed consolidated financial statements and related notes appearing elsewhere in this Quarterly Report. As discussed in the section titled Forward-Looking Statements, the following discussion and analysis contains forward-looking statements that involve risks and uncertainties, as well as assumptions that, if they never materialize or prove incorrect, could cause our results to differ materially from those expressed or implied by such forward-looking statements. Factors that could cause or contribute to these differences include, but are not limited to, those discussed below and elsewhere in this Quarterly Report, particularly those set forth under the section entitled "Risk Factors" in the Form 10-K. 
+ OVERVIEW 
+ We are a leading provider of software-as-a-service solutions for contact center, voice communications, video meetings, employee collaboration, and embeddable communication application program interfaces. Our solutions empower workforces worldwide by connecting individuals and teams so they can collaborate faster, work smarter, and better serve customers, from any location. The communications capabilities and advanced artificial intelligence/machine learning technologies of our contact center, communication and collaboration solutions are integrated into a comprehensive cloud-based offering powered by our global communications platform, which together comprise our 8x8 XCaaS platform solution. The XCaaS platform delivers our unified communications as-a-service, contact center as-a-service, and communications platform as-a-service services. It includes artificial intelligence-driven self service and digital assistance, intuitive user interfaces, and real-time business analytics and intelligence, enabling organizations of all sizes to design, deploy and adapt tailored communications and workflows for differentiated employee and customer experiences. 
+ The 8x8 XCaaS platform delivers the security, scalability, high availability, and ease-of-use of a modern cloud-based architecture while masking the complexity of a global communications infrastructure. A comprehensive data layer across the platform powers 8x8 artificial intelligence/machine learning algorithms, as well as vertical-specific and purpose-built applications from our ecosystem of technology partners. This enables data-driven business insights that can drive employee productivity, resource optimization, and more effective end-customer interactions through simplified and automated workflows. Built with core cloud technologies that we own and manage internally, as well as integrated third-party applications from our technology partners, our XCaaS platform enables agile workplaces and fosters seamless communications and collaboration between an organization s customers, contact center agents, and employees, regardless of geographic location. 
+ Our customers range from small businesses to large enterprises across all vertical markets, with users in more than 150 countries. In recent years, we have increased our focus on mid-market, enterprise, and public sector customers because these organizations typically have more complex communication and contact center requirements compared to the needs of small business customers. Organizations in these sectors typically with 500 to 10,000 employees are more likely to adopt multiple services and realize greater value from our unified, global communications platform and our growing product portfolio, including artificial intelligence-enabled solutions. 
+ We generate service revenue from subscriptions to our communications services, as well as from usage of our platform. Our service subscription plans are sold on a per-user basis and are structured with increasing levels of functionality (designated as X1, X2, etc., through X8), based on the specific communication needs and customer engagement profile of each user. Platform usage, including telephony minutes, messaging, SMS, and digital and voice chat bot interactions, encompasses committed usage, which may be bundled with our service subscription plans, and uncommitted usage, which is sold on an as-used basis. Uncommitted usage of our platform increased as a percentage of revenue in fiscal year 2024 and is expected to continue to increase in the future with the introduction of new platform usage solutions. 
+ We generate other revenue from professional services and the sale of office phones and other hardware equipment. We define a customer as one or more legal entities to which we provide services pursuant to a single contractual arrangement. In some cases, we may have multiple billing relationships with a single customer (for example, where we establish separate billing accounts for a parent company and each of its subsidiaries). 
+ MACROECONOMIC AND OTHER FACTORS 
+ We are subject to risks and exposures, including those caused by adverse economic conditions. Macroeconomic conditions that could adversely affect our business include the global economic slowdown, continued inflation, increased interest rates, supply chain disruptions, decreased economic output and fluctuations in currency exchange rates. We continuously monitor the direct and indirect impacts of these factors, as well as the overall global economy and geopolitical landscape on our business and financial results. 
+ While the implications of macroeconomic events on our business, results of operations and overall financial position remain uncertain over the long term, we expect that adverse economic conditions will continue to adversely impact our business in future periods. For example, our installed base business, which includes more than 52,000 small businesses, continues to experience macroeconomic headwinds. 
+ 19 
+
+Table of Contents 
+
+ SUMMARY AND OUTLOOK 
+ As part of our long-term strategy to grow our revenue, achieve profitability, and increase cash flow, we have focused on expanding our mid-market, enterprise and public sector customer base. We believe that continued innovation is a critical factor in attracting and retaining these customers and is an important variable in achieving sustainable growth. We are committed to maintaining a high level of investment in engineering to deliver product innovation across our XCaaS platform, expand our ecosystem of integrated third-party applications, and maintain the high availability our customers require. 
+ Our primary focus involves the following: (i) accelerating innovation, particularly in our platform and contact center as-a-service, and (ii) establishing communications platform as-a-service leadership in the Asia Pacific region and leveraging these capabilities globally. We continue to innovate new products like 8x8 Engage, voice and digital Intelligent Customer Assistant, and Agent Assist, while enhancing our platform with new capabilities, such as the Customer Interaction Data Platform and composable agent and supervisor user interfaces. These innovations enable tightly integrated solutions that prioritize ease-of-use, out-of-the-box functionality, and rapid deployment for our target customers. 
+ Our investment in innovation has been complemented by initiatives to manage the costs of delivering our services and improve our sales efficiency. We continue to monitor factors that could have an impact on customer buying behavior and demand, including macroeconomic conditions, the competitive environment, contract duration, churn, upsell and down-sell, renewals, and payment terms, all of which have caused variability in our results and may continue to do in the future. We expect the total dollar amount of cost of service revenue and as a percentage of revenue to vary with the amount of service revenue and the mix of subscription and usage revenue within service revenue. To improve our sales efficiency, we continue to invest in marketing programs to drive awareness for our solutions, and we have increased training for our sales teams, and invested in tools to increase productivity. We have also expanded our partner programs to extend our reach within our target customer market, placing increased emphasis on developing a community of value-added resellers who provide implementation services and Tier 1 customer support in addition to sales. To support our customers and partners, we have expanded our customer success organization and continue to invest in improvements to our back-office processes to increase our operational efficiency over time. 
+ KEY GAAP OPERATING RESULTS 
+ To assess the success of our strategies to achieve growth and increase our cash flow, management reviews our financial performance as presented in our consolidated financial statements, including trends in revenue, gross profit margin, losses from operations, and cash flow generated by operations in absolute dollars and as a percentage of revenue as presented in the following table: 
+ Fiscal Year 2025 Fiscal Year 2024 Three Months Ended Three Months Ended (In thousands, except percentages) September 30, 2024 June 30, 2024 March 31, 2024 December 31, 2023 September 30, 2023 June 30, 2023 Service revenue 175,075 172,801 172,490 175,069 177,782 175,238 of Total Revenue 96.7 97.0 96.1 96.7 96.1 95.6 Gross profit 123,175 120,960 122,444 124,846 127,897 128,613 of Total Revenue 68.1 67.9 68.2 69.0 69.1 70.2 Income (loss) from operations 7,169 (1,374) (14,219) (9,391) (2,583) (1,410) of Total Revenue 4.0 (0.8) (7.9) (5.2) (1.4) (0.8) Net loss (14,543) (10,290) (23,591) (21,222) (7,452) (15,327) of Total Revenue (8.0) (5.8) (13.1) (11.7) (4.0) (8.4) Net cash provided by operating activities 12,317 18,148 12,653 22,396 17,463 26,473 
+ 
+ 20 
+
+Table of Contents 
+
+ COMPONENTS OF RESULTS OF OPERATIONS 
+ Service Revenue 
+ Service revenue consists of communication services subscriptions, platform usage revenue, and related fees from our unified communications as-a-service, contact center as-a-service, and communications platform as-a-service offerings. We plan to increase service revenue through a combination of new customer acquisition, cross-sell of additional products to existing customers, including new products resulting from our increased investment in innovation, geographic expansion of our customer base outside the United States, and sales initiatives with our Technology Partner Ecosystem partners, and potential strategic acquisitions of technologies and businesses. 
+ Other Revenue 
+ Other revenue consists of revenue from professional services, primarily for deployment of our solutions and/or platform, and revenue from sales and rentals of IP telephones in conjunction with our cloud telephony service. Other revenue is dependent on the number of customers who choose to purchase or rent IP telephone hardware in conjunction with our service instead of using the solution on their cell phone, computer, or other compatible device, and/or choose to engage our professional services organization for implementation and deployment of our cloud services. 
+ Cost of Service Revenue 
+ Cost of service revenue consists primarily of costs associated with network operations and related personnel, technology licenses, amortization of capitalized internal-use software, other communication origination and termination services provided by third-party carriers, and other costs such as customer service, and technical support costs. We allocate overhead costs, such as information technology and facilities, to cost of service revenue, as well as to each of the operating expense categories, generally based on relative headcount. Our information technology costs include costs for information technology infrastructure and personnel. Facilities costs primarily consist of office leases and related expenses. 
+ Cost of Other Revenue 
+ Cost of other revenue consists primarily of direct and indirect costs associated with the purchase, shipping and handling, and recycling of IP telephones as well as the personnel costs, and other expenditures incurred in connection with the professional services associated with the deployment and implementation of our products, and allocated information technology and facilities costs. 
+ Research and Development 
+ Research and development expenses consist primarily of personnel and related costs, third-party development, software and equipment costs necessary for us to conduct our product, platform development and engineering efforts, as well as allocated information technology and facilities costs. 
+ Sales and Marketing 
+ Sales and marketing expenses consist primarily of personnel and related costs, sales commissions, including those to channel partners, trade shows, advertising and other marketing, demand generation, and promotional expenses, as well as allocated information technology and facilities costs. 
+ General and Administrative 
+ General and administrative expenses consist primarily of personnel and related costs, professional services fees, corporate administrative costs, tax and regulatory fees, and allocated information technology and facilities costs. 
+ Interest Expense 
+ Interest expense consists primarily of interest expense related to our term loan and convertible notes, and amortization of debt discount and issuance costs. 
+ Other Expense, Net 
+ Other expense, net, consists primarily of gains or losses on debt extinguishment, gain or loss on warrant remeasurement, interest income, gains or losses on foreign exchange transactions, as well as other income. 
+ Provision for (Benefit from) Income Taxes 
+ Provision for (benefit from) income taxes consist primarily of foreign income taxes and state minimum taxes in the United States. As we expand the scale of our international business activities, any changes in the United States and foreign taxation of such activities may increase our overall provision for income taxes in the future. We have a valuation allowance for our United States deferred tax assets, including federal and state non-operating loss carryforwards. We expect to maintain this valuation allowance until it becomes more likely than not that the benefit of our federal and state deferred tax assets will be realized by way of expected future taxable income in the United States. 
+ 21 
+
+Table of Contents 
+
+ RESULTS OF OPERATIONS 
+ Revenue 
+ Service revenue 
+ Three Months Ended September 30, Six Months Ended September 30, (In thousands, except percentages) 2024 2023 Change 2024 2023 Change Service revenue 175,075 177,782 (2,707) (1.5) 347,876 353,020 (5,144) (1.5) Percentage of total revenue 96.7 96.1 96.9 95.9 
+ Three Months Ended 
+ Service revenue decreased by 2.7 million, or 1.5 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023. This change was driven by a decrease in revenue from subscriptions of 3.8 million primarily due to a decline in revenue from customers on the Fuze platform partially offset by an increase of 1.1 million in platform usage revenue. 
+ Six Months Ended 
+ Service revenue decreased by 5.1 million, or 1.5 , for the six months ended September 30, 2024 compared to the six months ended September 30, 2023. This change was driven by a decrease in revenue from subscriptions of 9.6 million primarily due to a decline in revenue from customers on the Fuze platform offset by an increase of 4.5 million in platform usage revenue. 
+ Other revenue 
+ Three Months Ended September 30, Six Months Ended September 30, (In thousands, except percentages) 2024 2023 Change 2024 2023 Change Other revenue 5,923 7,217 (1,294) (17.9) 11,269 15,266 (3,997) (26.2) Percentage of total revenue 3.3 3.9 3.1 4.1 
+ Three Months Ended 
+ Other revenue decreased by 1.3 million, or 17.9 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023, due to lower professional service and product revenue of 0.9 million and 0.4 million, respectively. 
+ Six Months Ended 
+ Other revenue decreased by 4.0 million, or 26.2 , for the six months ended September 30, 2024 compared to the six months ended September 30, 2023, due to lower professional service and product revenue of 2.6 million and 1.4 million, respectively. 
+ Cost of Revenue 
+ Cost of service revenue 
+ Three Months Ended September 30, Six Months Ended September 30, (In thousands, except percentages) 2024 2023 Change 2024 2023 Change Cost of service revenue 50,251 49,144 1,107 2.3 99,747 95,420 4,327 4.5 Percentage of service revenue 28.7 27.6 28.7 27.0 
+ Three Months Ended 
+ Cost of service revenue increased by 1.1 million, or 2.3 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023, primarily due to an increase of 3.1 million in costs to deliver our subscription and platform usage services. This increase was partially offset by decreases of 1.1 million related to the amortization of capitalized software, 0.6 million in salaries, benefits, and consulting costs, and 0.3 million in software costs. 
+ 
+ 22 
+
+Table of Contents 
+
+ Six Months Ended 
+ Cost of service revenue increased by 4.3 million, or 4.5 , for the six months ended September 30, 2024 compared to the six months ended September 30, 2023, primarily due to an increase of 8.2 million in costs to deliver our subscription and platform usage services. This increase was partially offset by decreases of 2.3 million related to the amortization of capitalized software, 1.0 million in software costs, and 0.6 million in salaries, benefits, and consulting costs. 
+ Cost of other revenue 
+ Three Months Ended September 30, Six Months Ended September 30, (In thousands, except percentages) 2024 2023 Change 2024 2023 Change Cost of other revenue 7,572 7,958 (386) (4.9) 15,263 16,356 (1,093) (6.7) Percentage of other revenue 127.8 110.3 135.4 107.1 
+ Three Months Ended 
+ Cost of other revenue decreased by 0.4 million, or 4.9 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023, primarily due to 0.1 million decreased salaries, benefits, and consulting costs to deliver our professional services coupled with 0.3 million lower product costs associated with IP telephone hardware. 
+ Six Months Ended 
+ Cost of other revenue decreased by 1.1 million, or 6.7 , for the six months ended September 30, 2024 compared to the six months ended September 30, 2023, primarily due to 0.4 million decreased salaries, benefits, and consulting costs to deliver our professional services coupled with 0.7 million lower product costs associated with IP telephone hardware. 
+ Operating Expenses 
+ Research and development 
+ Three Months Ended September 30, Six Months Ended September 30, (In thousands, except percentages) 2024 2023 Change 2024 2023 Change Research and development 31,291 34,207 (2,916) (8.5) 63,428 69,499 (6,071) (8.7) Percentage of total revenue 17.3 18.5 17.7 18.9 
+ Three Months Ended 
+ Research and development expenses decreased by 2.9 million, or 8.5 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023, primarily due to a decrease of 2.0 million in stock-based compensation and 0.9 million in combined salaries, benefits, consulting and other costs necessary for us to conduct our product, platform development and engineering efforts. 
+ Six Months Ended 
+ Research and development expenses decreased by 6.1 million, or 8.7 , for the six months ended September 30, 2024 compared to the six months ended September 30, 2023, primarily due to a decrease of 4.6 million in stock-based compensation and 1.5 million in combined salaries, benefits, consulting and other costs necessary for us to conduct our product, platform development and engineering efforts. 
+ 23 
+
+Table of Contents 
+
+ Sales and marketing 
+ Three Months Ended September 30, Six Months Ended September 30, (In thousands, except percentages) 2024 2023 Change 2024 2023 Change Sales and marketing 64,867 68,687 (3,820) (5.6) 131,973 137,191 (5,218) (3.8) Percentage of total revenue 35.8 37.1 36.7 37.3 
+ Three Months Ended 
+ Sales and marketing expenses decreased by 3.8 million, or 5.6 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023, primarily due to decreases of 2.3 million in channel commissions and amortization of deferred commissions, 1.9 million in stock-based compensation expense, and 0.5 million in paid media and other marketing services costs. These decreases were partially offset by an increase of 0.9 million in salaries, benefits, and consulting costs. 
+ Six Months Ended 
+ Sales and marketing expenses decreased by 5.2 million, or 3.8 , for the six months ended September 30, 2024 compared to the six months ended September 30, 2023, primarily due to decreases of 3.7 million in stock-based compensation expense, 2.8 million in channel commissions and amortization of deferred commissions, and 1.1 million in paid media and other marketing services costs. These decreases were partially offset by an increase of 2.4 million in salaries, benefits, and consulting costs. 
+ General and administrative 
+ Three Months Ended September 30, Six Months Ended September 30, (In thousands, except percentages) 2024 2023 Change 2024 2023 Change General and administrative 19,848 27,586 (7,738) (28.1) 42,939 53,812 (10,873) (20.2) Percentage of total revenue 11.0 14.9 12.0 14.6 Three Months Ended 
+ General and administrative expenses decreased by 7.7 million, or 28.1 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023, primarily due to a 7.2 million decrease associated with Fuze, Inc. legal, regulatory and tax matters. During the three months ended September 30, 2024, we adjusted accruals related to USF and other Fuze, Inc. legal, regulatory and tax matters and recognized a benefit of 3.2 million, compared to 4.3 million of expenses recognized during the three months ended September 30, 2023. The decrease was also due to decreases of 1.0 million in stock-based compensation expense and 0.6 million in salaries, benefits, and consulting costs. These decreases were partially offset by an increase of 1.1 million in other general corporate costs. 
+ Six Months Ended 
+ General and administrative expenses decreased by 10.9 million, or 20.2 , for the six months ended September 30, 2024 compared to the six months ended September 30, 2023, primarily due to a 8.2 million decrease associated with Fuze, Inc regulatory and tax matters. During the six months ended September 30, 2024, we adjusted accruals related to USF and other Fuze, Inc. legal, regulatory and tax matters and recognized a benefit of 3.2 million, compared to 5.5 million of expenses recognized during the six months ended September 30, 2023. The decrease was also due to decreases of 2.4 million in salaries, benefits, and consulting costs and 1.4 million in stock-based compensation expense. These decreases were partially offset by an increase of 1.1 million in other general corporate costs. 
+ Other expense, net 
+ Interest expense 
+ Three Months Ended September 30, Six Months Ended September 30, (In thousands, except percentages) 2024 2023 Change 2024 2023 Change Interest expense (7,905) (10,061) 2,156 (21.4) (17,861) (20,139) 2,278 (11.3) Percentage of total revenue (4.4) (5.4) (5.0) (5.5) 
+ 24 
+
+Table of Contents 
+
+ Three Months Ended 
+ Interest expense decreased by 2.2 million, or 21.4 , for the three months ended September 30, 2024 compared to the three months ended September 30, 2023, primarily due to the 2022 Term Loan debt extinguishment and decreased interest rate and principal on the 2024 Term Loan. See Note 8 , Convertible Senior Notes and Term Loan, for further details. 
+ Six Months Ended 
+ Interest expense decreased by 2.3 million, or 11.3 , for the six months ended September 30, 2024 compared to the six months ended September 30, 2023, primarily due to the 2022 Term Loan debt extinguishment and decreased interest rate and principal on the 2024 Term Loan. See Note 8 , Convertible Senior Notes and Term Loan, for further details. 
+ Other expense, net 
+ Three Months Ended September 30, Six Months Ended September 30, (In thousands, except percentages) 2024 2023 Change 2024 2023 Change Other income (expense), net (12,709) 4,803 (17,512) NM (10,993) 2,407 (13,400) NM Percentage of total revenue (7.0) 2.6 (3.1) 0.7 
+ Three Months Ended 
+ We recognized 12.7 million of other expense, net during the three months ended September 30, 2024 compared to 4.8 million of other expense, net during the three months ended September 30, 2023, primarily due to a 12.0 million loss of debt extinguishment due to the payoff of the 2022 Term Loan, a 3.3 million increase in loss on foreign exchange and other expenses, and a 2.5 million gain on the remeasurement of warrants issued in connection with the term loan. These expense increases were offset by a 0.3 million increase in interest income earned on highly liquid investments. 
+ Six Months Ended 
+ We recognized 11.0 million of other expense, net during the six months ended September 30, 2024 compared to 2.4 million of other expense, net during the six months ended September 30, 2023 primarily due to a 10.2 million increase on loss of debt extinguishment due to the payoff of the 2022 Term Loan, a 3.4 million increase in loss on foreign exchange and other expenses, and a 0.5 million gain on the remeasurement of warrants issued in connection with the term loan. These expense increases were offset by a 0.7 million increase in interest income earned on highly liquid investments. 
+ Provision for income taxes 
+ Three Months Ended September 30, Six Months Ended September 30, (In thousands, except percentages) 2024 2023 Change 2024 2023 Change Provision (benefit) for income taxes 1,098 (389) 1,487 NM 1,774 1,055 719 NM Percentage of total revenue 0.6 (0.2) 0.5 0.3 
+ Three Months Ended 
+ The provision for income taxes increased by 1.5 million for the three months ended September 30, 2024 compared to the three months ended September 30, 2023, driven by an increase in forecasted foreign tax expense of 0.6 million and an increase in forecasted state tax expense of 0.6 million, a decrease in our ASC 740-10 contingent liability of 0.5 million offset by a decrease in forecasted federal tax expense of 0.2 million. 
+ Six Months Ended 
+ The provision for income taxes increased by 0.7 million for the six months ended September 30, 2024 compared to the six months ended September 30, 2023, driven by an increase in forecasted state tax expense of 0.7 million, a decrease in our ASC 740-10 contingent liability of 0.2 million offset by a decrease in forecasted federal tax expense of 0.2 million. 
+ 25 
+
+Table of Contents 
+
+ Liquidity and Capital Resources 
+ We believe that our existing cash, cash equivalents and our anticipated cash flows from operations will be sufficient to meet our working capital, expenditure, and contractual obligation requirements for a minimum of the next twelve months and the foreseeable future. Although we believe we have adequate sources of liquidity for at least the next twelve months and for the foreseeable future, the success of our operations, the global economic outlook, and the pace of growth in our markets could impact our business and liquidity. 
+ Cash, Cash Equivalents, and Investments 
+ The following is a summary of our cash and cash equivalents and investments: 
+ (In thousands) September 30, 2024 March 31, 2024 Cash and cash equivalents 117,405 116,262 Restricted cash, current 1 
+ 462 356 Short-term investments 1,048 Restricted cash, non-current 1 
+ 105 Total 117,867 117,771 
+ (1) Restricted cash supports letters of credit securing leases for office facilities and certain equipment for the same periods. 
+ Our primary requirements for liquidity and capital are working capital needs due to delivery of our various products to customers, research and development, sales and marketing activities, principal and interest payments on our outstanding debt and other general corporate needs. Historically, these cash requirements have been met from cash provided by operating activities and our cash and cash equivalents balances. Our current capital deployment strategy for fiscal year 2025 is to use excess cash on hand to support our continued growth initiatives into select markets and planned software development activities and pay down our debt. As of September 30, 2024, we are not party to any off-balance sheet arrangements that have had or are reasonably likely to have a current or future material effect on our financial condition, results of operations, liquidity, capital expenditures, or capital resources. Significant cash requirements for the fiscal year include our operating lease obligations, interest payments related to our debt obligations, and operating and capital purchase commitments. For information regarding our expected cash requirements and timing of payments related to leases and non-cancelable purchase commitments, see Note 6, Leases, and Note 7, Commitments and Contingencies, respectively, to the consolidated financial statements in our Form 10-K. Additionally, see Note 8, Convertible Senior Notes and Term Loan, to the consolidated financial statements in our Form 10-K for more information related to our debt obligations and applicable covenants. 
+ We are aware that our 2028 Notes are currently trading at a substantial discount to their respective principal amount. Furthermore, our outstanding 2024 Term Loan allows for voluntary prepayments. In order to reduce future cash interest payments, as well as future amounts due at maturity or upon redemption, we may, from time to time, make prepayments on our 2024 Term Loan, and seek to retire or purchase our outstanding debt through open-market purchases, privately negotiated transactions or otherwise. Any such transactions will be dependent upon several factors, including our liquidity requirements, contractual restrictions, prevailing market conditions, and other factors. Whether or not we engage in any such transactions will be determined at our discretion. The amounts involved may be material. 
+ Cash Flows 
+ The following is a summary of our cash flows provided by (used in) operating, investing and financing activities: 
+ Six Months Ended September 30, (In thousands) 2024 2023 Net cash provided by operating activities 30,465 43,936 Net cash (used in) provided by investing activities (7,204) 12,735 Net cash used in financing activities (25,136) (22,635) Effect of exchange rate changes on cash 3,019 (1,752) Net increase in cash and cash equivalents 1,144 32,284 
+ Cash provided by operating activities decreased by 13.5 million to 30.5 million for the six months ended September 30, 2024, mainly due to a decrease in cash received from customers and an increase in cash paid to suppliers and employees along with an increase in cash paid for sales commission costs. Cash used in investing activities decreased 19.9 million to 7.2 million for the six months ended September 30, 2024, mainly due to decreases in the purchases, sales, and maturities of investments. Cash used in financing activities increased by 2.5 million to 25.1 million for the six months ended September 30, 2024, due to payments for debt issuance costs and other financing activities. 
+
+26 
+
+Table of Contents 
+
+ Debt Obligations 
+ See Note 8 , Convertible Senior Notes and Term Loan, in the unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report for information regarding our debt obligations. 
+ 2024 Delayed Draw Term Loan 
+ On July 11, 2024, we entered into a new term loan credit agreement with Wells Fargo Bank, National Association, as administrative agent, and the lenders thereto (the 2024 Credit Agreement ). The 2024 Credit Agreement establishes a delayed draw term loan facility in an aggregate principal amount of up to 200.0 million maturing on August 15, 2027. 
+ On August 5, 2024, we drew upon the entire facility of 200.0 million under the delayed draw term loan facility (the "2024 Term Loan") and used the proceeds of the 2024 Term Loan and cash on hand of approximately 29.0 million to repay in full the 225.0 million of outstanding principal amount and accrued interest of the 2022 Term Loan and the fees incurred in connection with the repayment (the "Repayment"). 
+ The 2024 Term Loan bears interest at an annual rate equal to Term SOFR, plus a margin of either 2.50 , 2.75 or 3.00 based on the consolidated total net leverage ratio of the Company and its subsidiaries. The initial margin will be 3.00 for the fiscal quarter ending September 30, 2024. We have the option to pay interest monthly, quarterly, or semi-annually. During the three months ended September 30, 2024, we elected monthly interest payment terms which resulted in cash payments of 2.9 million from August 5, 2024. During the three months ended December 31, 2024, we have elected quarterly interest payment terms, which will result in cash payments of 3.4 million. The scheduled principal repayments of 22.5 million in fiscal year 2025 7.5 million on October 31, 2024, December 31, 2024 and March 31, 2025, respectively), 37.5 million in fiscal year 2026 7.5 million on June 30, 2025 and 10.0 million on September 30, 2025, December 31, 2025 and March 31, 2026, respectively), and 47.5 million in fiscal year 2027 10.0 million on June 30, 2026, 12.5 million on September 30, 2026 and each quarter thereafter through maturity) are required, and the remaining 92.5 million principal is due before or upon maturity in fiscal year 2028. These annualized repayments will be made in quarterly installments. As of September 30, 2024, the debt issuance costs are amortized to interest expense over the term of the 2024 Term Loan at an effective interest rate of 8.76 . 
+ 2022 Term Loan Extinguishment 
+ On August 5, 2024, we repaid in full the outstanding principal amount and accrued interest of the 2022 Term Loan using the proceeds of the 2024 Term Loan and cash on hand. The Repayment was accounted for as a debt extinguishment. The carrying value of the 2022 Term Loan, including the unamortized debt discount and issuance costs, was derecognized. The difference of 12.0 million between the cash consideration paid to extinguish the 2022 Term Loan and the carrying value of the 2022 Term Loan was recognized as a loss on debt extinguishment included in the loss on debt extinguishment line item recorded in other expense in the condensed consolidated statement of operations. The Warrants continued to be outstanding with no change in terms in connection with the Repayment or issuance of the 2024 Term Loan. 
+ We previously used the proceeds from the 2022 Credit Agreement to fund the cash portion of an exchange of the Company's approximately 403.8 million principal amount of 0.50 convertible senior notes due 2024 for cash plus approximately 201.9 million of 4.00 convertible senior notes due 2028, and the concurrent repurchase of approximately 60.0 million of our common stock with the counterparties to such exchange. Loans made under the 2022 Credit Agreement bore interest at an annual rate equal to the Term SOFR, subject to a floor of 1.00 and a credit spread adjustment of 0.10 , plus a margin of 6.50 . During the three months ended September 30, 2024, we paid 2.7 million of interest under the 2022 Term Loan. See Note 8 , Convertible Senior Notes and Term Loan, to our condensed consolidated financial statements for details. 
+ Material Cash Requirements and Other Obligations 
+ As of March 31, 2024, our material cash requirements and other obligations were 690.1 million. During the three months ended September 30, 2024, we entered into a 24.1 million noncancelable three-year hosting service contract. Under this agreement, 7.1 million remains due during fiscal year 2025, 8.5 million will be due during fiscal year 2026, 6.0 million will be due during fiscal year 2027 and 2.5 million will be due during fiscal year 2028. For information regarding our material cash requirements and other obligations, see Item 7, "Management's Discussion and Analysis", in our fiscal year 2024 Form 10-K. 
+ 
+ CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+ The discussion and analysis of our financial condition and results of operations are based upon our condensed consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United States. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of assets, liabilities, revenue and expenses, and related disclosures of assets and liabilities. On an ongoing basis, we evaluate our critical accounting policies and estimates. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different assumptions or conditions. 
+ 27 
+
+Table of Contents 
+
+ Our consolidated financial statements are prepared in accordance with U.S. generally accepted accounting principles ("U.S. GAAP"). See Note 1 , The Company and Significant Accounting Policies, in the notes to the unaudited condensed consolidated financial statements included in this Quarterly Report, which describes the significant accounting policies and methods used in the preparation of our consolidated financial statements. There have been no significant changes during the six months ended September 30, 2024 to our critical accounting policies and estimates previously disclosed in our Form 10-K. 
+ 
+ ITEM 3. Quantitative and Qualitative Disclosures About Market Risk 
+ There have been no material changes in our exposures to market risk since March 31, 2024. For details on the Company s interest rate and foreign currency exchange risks, see Part I, Item 7A. Quantitative and Qualitative Information About Market Risks in our Form 10-K. 
+ 
+ ITEM 4. Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures, as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, as of September 30, 2024. Based on such evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that, as of September 30, 2024, our disclosure controls and procedures were effective at a reasonable assurance level. 
+ Changes in Internal Control Over Financial Reporting 
+ During the three months ended September 30, 2024, there was no change in our internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ Limitations on the Effectiveness of Controls 
+ Our management, including the Chief Executive Officer and Chief Financial Officer, does not expect that our disclosure controls or internal control over financial reporting will prevent all errors and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control system's objectives will be met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. 
+ 28 
+
+Table of Contents 
+
+ PART II. OTHER INFORMATION 
+ 
+ ITEM 1. Legal Proceedings 
+ Information with respect to this item may be found in Note 7 , Commitments and Contingencies , under the heading Legal Proceedings in the Notes to Unaudited Condensed Consolidated Financial Statements included in this Quarterly Report is incorporated by reference in response to this item. 
+ 
+ ITEM 1A. Risk Factors 
+ Investing in our securities involves risk. Prior to making a decision about investing in our securities, you should carefully consider the specific factors discussed below and under the heading Risk Factors in any prospectus supplement, together with all of the other information contained or incorporated by reference in this Quarterly Report. You should also consider the risk factors related to our business and operations described in Part I, Item 1A of the Form 10-K under the heading Risk Factors, and in Part II, Item 1A of the Form 10-Q for the period ended June 30, 2024 under the heading "Risk Factors," which are incorporated by reference in this Quarterly Report. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also affect our operations. 
+ 
+ ITEM 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ (a) None. 
+ (b) None. 
+ (c) None. 
+ 
+ ITEM 3. Defaults Upon Senior Securities 
+ None. 
+ 
+ ITEM 4. Mine Safety Disclosures 
+ Not applicable. 
+ 
+ ITEM 5. Other Information 
+ None of our directors or officers (as defined in Rule 16a-1(f) under the Exchange Act) or a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement (as defined in Item 408(c) of Regulation S-K) during the three months ended September 30, 2024, except as described below: 
+ , a member of the , a Rule 10b5-1 Trading Plan on that is intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Exchange Act. Mr. Burton's Rule 10b5-1 Trading Plan provides for the potential sale of up to shares of the Company's common stock between December 12, 2024 and . 
+ , , a Rule 10b5-1 Trading Plan on that is intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Exchange Act. Mr. Kraus's Rule 10b5-1 Trading Plan provides for the potential sale of up to shares of the Company's common stock between December 16, 2024 and . 
+ , , a Rule 10b5-1 Trading Plan on that is intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Exchange Act. Mr. Denny's Rule 10b5-1 Trading Plan provides for the potential sale of up to shares of the Company's common stock, plus an additional number of shares (which may vary) that Mr. Denny may receive due to his participation in the Company's Employee Stock Purchase Plan, between November 18, 2024 and . 
+ Our officers (as defined in Rule 16a-1(f) under the Exchange Act) have also entered into sell-to-cover arrangements, which constitute non-Rule 10b5-1 trading arrangements (as defined in Item 408(c) of Regulation S-K), authorizing the pre-arranged sale of shares to satisfy tax withholding obligations of the Company arising exclusively from the vesting of restricted stock units RSUs and performance stock units PSUs ), as applicable, and the related issuance of shares. Any sale of shares under these arrangements will occur only if (i) the aggregate value of all of the shares withheld by the Company to satisfy such tax withholding obligations in the given fiscal year has reached a certain threshold, and (ii) the sale does not result in any short-swing liability under Section 16(b) of the Exchange Act. The amount of shares to be sold under these arrangements may vary and will be dependent on the trading price of the Company s common stock at the time of the vesting of the RSUs and PSUs, as applicable. Each of these arrangements lasts until the final vesting date of the applicable RSUs or PSUs, or each officer s earlier termination of employment. 
+ 29 
+
+Table of Contents 
+
+ ITEM 6. Exhibits Incorporated by Reference Exhibit Number Exhibit Description Company Form Filing Date Exhibit Number Filed Herewith 3.1 Certificate of Amendment to the Restated Certificate of Incorporation of Registrant, dated July 12, 2022 
+ 8-K 7/13/2022 3.1 3.2 Amended and Restated By-Laws of 8x8, Inc. 
+ 8-K 7/28/2015 3.2 10.1 Term Loan Credit Agreement, dated as of July 11, 2024, by and among 8x8, Inc., Wells Fargo Bank, National Association, as administrative agent, and the lenders party thereto . 
+ 8-K 7/15/2024 10.1 31.1 Certification of Chief Executive Officer of the Registrant pursuant to Rule 13a-14 
+ X 31.2 Certification of Chief Financial Officer of the Registrant pursuant to Rule 13a-14 
+ X 32.1 Certification of Chief Executive Officer of the Registrant pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ X 32.2 Certification of Chief Financial Officer of the Registrant pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ X 101 The following materials from 8x8, Inc.'s Quarterly Report on Form 10-Q for the three months ended September 30, 2024, formatted in Inline XBRL: (i) Condensed Consolidated Balance Sheets as of September 30, 2024 and March 31, 2024, (ii) Condensed Consolidated Statements of Operations for the three months ended September 30, 2024 and 2023, (iii) Condensed Consolidated Statements of Comprehensive Loss for the three months ended September 30, 2024 and 2023, (iv) Condensed Consolidated Statements of Stockholders Equity as of September 30, 2024 and 2023, (v) Condensed Consolidated Statements of Cash Flows for the three months ended September 30, 2024 and 2023, and (vi) Notes to Consolidated Financial Statements, tagged as blocks of text and including detailed tags XBRL Instance Document 
+ X 
+ Indicates management contract or compensatory plan or arrangement. 
+ 30 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant, 8x8, Inc., a Delaware corporation, has duly caused this Quarterly Report on Form 10-Q to be signed on its behalf by the undersigned, thereunto duly authorized, in the City of Campbell, State of California, on November 6, 2024. 
+ 8x8, Inc. /s/ Suzy Seandel Suzy Seandel Chief Accounting Officer (Principal Accounting Officer and Duly Authorized Officer) 
+ 
+ 31 
+
+<EX-31.1>
+ 2
+ a8x8_fy25q2xex311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION PURSUANT TO 
+ RULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES EXCHANGE ACT OF 1934 
+ AS ADOPTED PURSUANT TO 
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Samuel Wilson, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of 8x8, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ November 6, 2024 
+ s Samuel Wilson 
+ Samuel Wilson 
+ Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a8x8_fy25q2xex312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION PURSUANT TO 
+ RULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES EXCHANGE ACT OF 1934 
+ AS ADOPTED PURSUANT TO 
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Kevin Kraus, certify that 
+ 1. I have reviewed this Quarterly report on Form 10-Q of 8x8, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ November 6, 2024 
+ s Kevin Kraus 
+ Kevin Kraus 
+ Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ a8x8_fy25q2xex321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S. C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report on Form 10-Q of 8x8, Inc. (the Company for the period ended September 30, 2024, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Samuel Wilson, Chief Executive Officer of the Company, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ s Samuel Wilson 
+ Samuel Wilson 
+ Chief Executive Officer 
+ November 6, 2024 
+ This certification accompanies this Report pursuant to 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by the Sarbanes-Oxley Act of 2002, or otherwise required, be deemed filed by the Company for purposes of 18 of the Securities Exchange Act of 1934, as amended. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ a8x8_fy25q2xex322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S. C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report on Form 10-Q of 8x8, Inc. (the Company for the period ended September 30, 2024, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Kevin Kraus, Chief Financial Officer of the Company, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ s Kevin Kraus 
+ Kevin Kraus 
+ Chief Financial Officer 
+ November 6, 2024 
+ This certification accompanies this Report pursuant to 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to the extent required by the Sarbanes-Oxley Act of 2002, or otherwise required, be deemed filed by the Company for purposes of 18 of the Securities Exchange Act of 1934, as amended. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ eght-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ eght-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ eght-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ eght-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ eght-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

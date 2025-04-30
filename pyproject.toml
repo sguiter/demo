@@ -1,22 +1,33 @@
-[project]
+[tool.poetry]
 name = "dcf_project"
 version = "0.1.0"
-description = ""
-authors = [
-    {name = "Samuel Brooks",email = "samuel111503@gmail.com"}
-]
+description = "DCF Project: A Streamlit application for financial analysis and forecasting using DCF (Discounted Cash Flow) methodology."
+authors = ["Samuel Brooks <samuel111503@gmail.com>"]
+license = "MIT"
 readme = "README.md"
-requires-python = ">=3.12"
-dependencies = [
-    "numpy (>=2.2.5,<3.0.0)",
-    "pandas (>=2.2.3,<3.0.0)",
-    "seaborn (>=0.13.2,<0.14.0)",
-    "streamlit (>=1.44.1,<2.0.0)",
-    "pydantic (>=2.11.3,<3.0.0)",
-    "plotly (>=6.0.1,<7.0.0)",
-    "numpy-financial (>=1.0.0,<2.0.0)"
-]
 
+[tool.poetry.dependencies]
+python = ">=3.12,<4.0"
+numpy = ">=2.2.5,<3.0.0"
+pandas = ">=2.2.3,<3.0.0"
+seaborn = ">=0.13.2,<0.14.0"
+streamlit = ">=1.44.1,<2.0.0"
+pydantic = ">=2.11.3,<3.0.0"
+plotly = ">=6.0.1,<7.0.0"
+numpy-financial = ">=1.0.0,<2.0.0"
+nltk = ">=3.9.1,<4.0.0"
+tiktoken = ">=0.9.0,<1.0.0"
+llama-index = ">=0.12.23,<1.0.0"
+openai = ">=1.65.5,<2.0.0"
+pdfplumber = ">=0.11.5,<1.0.0"
+python-pptx = ">=1.0.2,<2.0.0"
+python-docx = ">=1.1.2,<2.0.0"
+ipykernel = ">=6.29.5,<7.0.0"
+tqdm = ">=4.67.1,<5.0.0"
+sentence-transformers = ">=3.4.1,<4.0.0"
+chromadb = ">=0.6.3,<1.0.0"
+sqlalchemy = ">=2.0.39,<3.0.0"
+openpyxl = ">=3.1.5,<4.0.0"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]

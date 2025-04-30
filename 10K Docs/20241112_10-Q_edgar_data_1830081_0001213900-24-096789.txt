@@ -1,0 +1,3386 @@
+<Header>
+<FileStats>
+    <FileName>20241112_10-Q_edgar_data_1830081_0001213900-24-096789.txt</FileName>
+    <GrossFileSize>5869888</GrossFileSize>
+    <NetFileSize>124123</NetFileSize>
+    <NonText_DocumentType_Chars>1362911</NonText_DocumentType_Chars>
+    <HTML_Chars>1260980</HTML_Chars>
+    <XBRL_Chars>1511731</XBRL_Chars>
+    <XML_Chars>1481451</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001213900-24-096789.hdr.sgml : 20241112
+<ACCEPTANCE-DATETIME>20241112161043
+ACCESSION NUMBER:		0001213900-24-096789
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		91
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241112
+DATE AS OF CHANGE:		20241112
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Rumble Inc.
+		CENTRAL INDEX KEY:			0001830081
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				851087461
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40079
+		FILM NUMBER:		241448200
+
+	BUSINESS ADDRESS:	
+		STREET 1:		110 EAST 59TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		212-938-5000
+
+	MAIL ADDRESS:	
+		STREET 1:		110 EAST 59TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CF Acquisition Corp. VI
+		DATE OF NAME CHANGE:	20201027
+
+</SEC-Header>
+</Header>
+
+ 0001213900-24-096789.txt : 20241112
+
+10-Q
+ 1
+ ea0220610-10q_rumble.htm
+ QUARTERLY REPORT
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 
+
+(Mark One) 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the quarterly period ended 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from _________ to
+_________ 
+
+Commission File Number: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of 
+incorporation or organization) (I.R.S. Employer 
+Identification No.) 
+
+, (Address of Principal Executive Offices, including zip code) 
+
+(Registrant s telephone number, including area code) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class Trading Symbol(s) Name of each exchange on 
+which registered The Global Market The Global Market 
+
+Indicate by check mark whether
+the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. No 
+
+Indicate by check mark whether
+the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit
+such files). No 
+
+Indicate by check mark whether
+the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging
+growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting
+company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company 
+
+If an emerging growth company,
+indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+
+Indicate by check mark whether
+the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act): Yes 
+No 
+
+As of November 6, 2024, the
+registrant had issued and outstanding (i) shares of Class A common stock, par value 0.0001 per share, (ii) shares
+of Class C common stock, par value 0.0001 per share, and (iii) shares of Class D common stock, par value 0.0001 per share. 
+
+RUMBLE INC. 
+
+Quarterly Report on Form 10-Q 
+
+TABLE OF CONTENTS 
+
+[printer to update] 
+
+Page 
+ 
+ PART 1 - FINANCIAL INFORMATION 
+ 1 
+
+Item 1. 
+ Unaudited Condensed Consolidated Financial Statements 
+ 1 
+
+Unaudited Condensed Consolidated Statements of Operations 
+ 3 
+
+Unaudited Condensed Consolidated Balance Sheets 
+ 4 
+
+Unaudited Condensed Consolidated Statements of Changes in Shareholders Equity 
+ 5 
+
+Unaudited Condensed Consolidated Statements of Cash Flows 
+ 7 
+
+Notes to Unaudited Condensed Consolidated Financial Statements 
+ 8 
+
+Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 26 
+
+Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 41 
+
+Item 4. 
+ Control and Procedures 
+ 41 
+
+PART II - OTHER INFORMATION 
+ 42 
+
+Item 1A. 
+ Risk Factors 
+ 43 
+
+Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 45 
+
+Item 6. 
+ Exhibits 
+ 46 
+
+SIGNATURES 
+ 47 
+
+i 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+
+This Quarterly Report on Form
+10-Q (this Quarterly Report contains forward-looking statements regarding, among other things, our plans, strategies and
+prospects, both business and financial. These statements are based on the beliefs and assumptions of our management. Although we believe
+that our plans, intentions and expectations reflected in or suggested by these forward-looking statements are reasonable, we cannot provide
+assurance that we will achieve or realize these plans, intentions or expectations. Forward-looking statements are inherently subject to
+risks, uncertainties and assumptions. Generally, statements that are not historical facts, including statements concerning possible or
+assumed future actions, business strategies, events or results of operations, are forward-looking statements. The words anticipate, 
+ believe, continue, could, estimate, expect, intend, 
+ may, might, plan, possible, potential, predict, project, 
+ should, would and similar expressions may identify forward-looking statements, but the absence of these words
+does not mean that a statement is not forward-looking. Investors should read statements that contain these words carefully because they
+discuss future expectations, contain projects of future results of operations or financial condition; or state other forward-looking 
+information. Forward-looking statements are based on information available as of the date of this Quarterly Report and may involve significant
+judgments and assumptions, known and unknown risks and uncertainties and other factors, many of which are outside our control. There may
+be events in the future that management is not able to predict accurately or over which we have no control. We do not undertake any obligation
+to update to otherwise correct any forward-looking statements contained herein to reflect events or circumstances after the date they
+were made, whether as a result of new information, future events, inaccuracies that become apparent after the date hereof or otherwise,
+except as may be required under applicable laws. The risk factors and cautionary language contained in this Quarterly Report provide examples
+of risks, uncertainties, and events that may cause actual results to differ materially from the expectations described in such forward-looking
+statements, including among other things: 
+
+our ability to grow and manage future growth profitably over time, maintain relationships with customers,
+compete within our industry and retain key employees; 
+
+the possibility that we may be adversely impacted by economic, business, and/or competitive factors; 
+
+our limited operating history makes it difficult to evaluate our business and prospects; 
+
+our recent and rapid growth may not be indicative of future performance; 
+
+we may not continue to grow or maintain our active user base, and we may not be able to achieve or maintain
+profitability; 
+
+risks relating to our ability to attract new advertisers, or the potential loss of existing advertisers
+or the reduction of or failure by existing advertisers to maintain or increase their advertising budgets; 
+
+Rumble Cloud, our recently launched cloud business may not achieve success, and, as a result, our business,
+financial condition and results of operations could be adversely affected; 
+
+negative media campaigns may adversely impact our financial performance, results of operations, and relationships
+with our business partners, including content creators and advertisers; 
+
+spam activity, including inauthentic and fraudulent user activity, if undetected, may contribute to some
+amount of overstatement of our performance indicators, including reporting of MAUs by Google; 
+
+we collect, store, and process large amounts of user video content and personal information of our users
+and subscribers. If our security measures are breached, our sites and applications may be perceived as not being secure, traffic and advertisers
+may curtail or stop viewing our content or using our services, our business and operating results could be harmed, and we could face governmental
+investigations and legal claims from users and subscribers; 
+
+we may fail to comply with applicable privacy laws; 
+
+ii 
+
+we are subject to cybersecurity risks and interruptions or failures in our information technology systems
+and as we grow and gain recognition, we will likely need to expend additional resources to enhance our protection from such risks. Notwithstanding
+our efforts, a cyber incident could occur and result in information theft, data corruption, operational disruption and/or financial loss; 
+
+we may be found to have infringed on the intellectual property of others, which could expose us to substantial
+losses or restrict our operations; 
+
+we may face liability for hosting a variety of tortious or unlawful materials uploaded by third parties,
+notwithstanding the liability protections of Section 230 of the Communications Decency Act of 1996 Section 230 
+
+we may face negative publicity for removing, or declining to remove, certain content, regardless of whether
+such content violated any law; 
+
+paid endorsements by our content creators may expose us to regulatory risk, liability, and compliance
+costs, and, as a result, may adversely affect our business, financial condition and results of operations; 
+
+our traffic growth, engagement, and monetization depend upon effective operation within and compatibility
+with operating systems, networks, devices, web browsers and standards, including mobile operating systems, networks, and standards that
+we do not control; 
+
+our business depends on continued and unimpeded access to our content and services on the internet. If
+we or those who engage with our content experience disruptions in internet service, or if internet service providers are able to block,
+degrade or charge for access to our content and services, we could incur additional expenses and the loss of traffic and advertisers; 
+
+we face significant market competition, and if we are unable to compete effectively with our competitors
+for traffic and advertising spend, our business and operating results could be harmed; 
+
+we rely on data from third parties to calculate certain of our performance metrics. Real or perceived
+inaccuracies in such metrics may harm our reputation and negatively affect our business; 
+
+changes to our existing content and services could fail to attract traffic and advertisers or fail to
+generate revenue; 
+
+we derive the majority of our revenue from advertising. The failure to attract new advertisers, the loss
+of existing advertisers, or the reduction of or failure by existing advertisers to maintain or increase their advertising budgets would
+adversely affect our business; 
+
+we depend on third-party vendors, including internet service providers, advertising networks, and data
+centers, to provide core services; 
+
+hosting and delivery costs may increase unexpectedly; 
+
+iii 
+
+we have offered and intend to continue to offer incentives, including economic incentives, to content
+creators to join our platform, and these arrangements may involve fixed payment obligations that are not contingent on actual revenue
+or performance metrics generated by the applicable content creator but rather are based on our modeled financial projections for that
+creator, which if not satisfied may adversely impact our financial performance, results of operations and liquidity; 
+
+we may be unable to develop or maintain effective internal controls; 
+
+potential diversion of management s attention and consumption of resources as a result of acquisitions
+of other companies and success in integrating and otherwise achieving the benefits of recent and potential acquisitions; 
+
+we may fail to maintain adequate operational and financial resources or raise additional capital or generate
+sufficient cash flows; 
+
+changes in tax rates, changes in tax treatment of companies engaged in e-commerce, the adoption of new
+tax legislation, or exposure to additional tax liabilities may adversely impact our financial results; 
+
+compliance obligations imposed by new privacy laws, laws regulating social media platforms and online
+speech in certain jurisdictions in which we operate, or industry practices may adversely affect our business; and 
+
+other risks and uncertainties indicated in this Quarterly Report and in other filings that we have made
+or will make with the Securities and Exchange Commission (the SEC ), including the risk factors described under the caption
+ Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2023. 
+
+iv 
+
+PART I - FINANCIAL INFORMATION 
+
+ITEM 1. UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+Rumble Inc. 
+
+Condensed Consolidated Interim Financial Statements 
+
+(Expressed in U.S. Dollars) 
+
+For the three and nine months ended September 30, 2024
+and 2023 
+
+1 
+
+Rumble Inc. 
+
+Condensed Consolidated Interim Financial Statements
+
+(Expressed in U.S. Dollars) 
+
+For the three and nine months ended September 30, 2024
+and 2023 
+
+Contents 
+
+Condensed Consolidated Interim Financial Statements 
+
+Condensed Consolidated Interim Statements of Operations 
+ 3 
+
+Condensed Consolidated Interim Balance Sheets 
+ 4 
+
+Condensed Consolidated Interim Statements of Shareholders Equity 
+ 5 
+
+Condensed Consolidated Interim Statements
+ of Cash Flows 
+ 7 
+
+Notes to the Condensed Consolidated Interim Financial Statements 
+ 8-25 
+
+2 
+
+Rumble Inc. 
+
+Condensed Consolidated Interim Statements of
+Operations 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+Three months ended 
+
+ September 30, 
+ Nine months ended 
+
+ September 30, 
+
+2024 
+ 2023 
+ 2024 
+ 2023 
+
+Revenues 
+
+Expenses 
+
+Cost of services (content, hosting, and other) 
+
+General and administrative 
+
+Research and development 
+
+Sales and marketing 
+
+Acquisition-related transaction costs 
+ -
+
+-
+
+Amortization and depreciation 
+
+Changes in fair value of contingent consideration 
+ -
+
+Total expenses 
+
+Loss from operations 
+
+Interest income 
+
+Other income (expense) 
+
+Changes in fair value of warrant liability 
+
+Loss before income taxes 
+
+Income tax benefit (expense) 
+
+Net loss 
+
+Loss per share basic and diluted 
+
+Weighted average number of common shares used in computing net loss per share - basic
+ and diluted 
+
+Share-based compensation expense included in expenses: 
+
+Cost of services (content, hosting, and other) 
+
+General and administrative 
+
+Research and development 
+
+Sales and marketing 
+
+Total share-based compensation expense 
+
+The accompanying notes are an integral part of
+these condensed consolidated interim financial statements. 
+
+3 
+
+Rumble Inc. 
+
+Condensed Consolidated Interim Balance Sheets 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+September 30, 2024 
+ December 31, 2023 
+
+Assets 
+
+Current assets 
+
+Cash and cash equivalents 
+
+Marketable securities 
+
+Accounts receivable 
+
+Prepaid expenses and other 
+
+Other non-current assets 
+
+Property and equipment, net 
+
+Right-of-use assets, net 
+
+Intangible assets, net 
+
+Goodwill 
+
+Liabilities and Shareholders Equity 
+
+Current liabilities 
+
+Accounts payable and accrued liabilities 
+
+Deferred revenue 
+
+Deferred tax liability 
+ 
+ -
+
+Lease liabilities 
+
+Contingent consideration 
+ -
+
+Lease liabilities, long-term 
+
+Contingent consideration, net of current portion 
+ -
+
+Warrant liability 
+
+Other liability 
+
+Commitments and contingencies (Note 13) 
+
+Shareholders equity 
+
+Preferred shares par value per share, shares authorized, no shares issued or outstanding) 
+ -
+ 
+ -
+
+Common shares par value per share, Class A shares authorized, and shares issued and outstanding, as of September 30, 2024 and December 31, 2023, respectively; Class C (and corresponding ExchangeCo Share) authorized, and 165,353,621shares issued and outstanding, as of September 30, 2024 and December 31, 2023, respectively; Class D authorized, and shares issued and outstanding, as of September 30, 2024 and December 31, 2023, respectively)
+
+Accumulated deficit 
+
+Additional paid-in capital 
+
+The accompanying notes are an integral part of
+these condensed consolidated interim financial statements. 
+
+4 
+
+Rumble Inc. 
+
+Condensed Consolidated Interim Statements of
+Shareholders Equity 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three months ended September 30, 2024 
+
+Number of Common Stock 
+
+Class A 
+ Class C (and corresponding ExchangeCo Share) 
+ Class D 
+ Class A 
+ Class C 
+ Class D 
+ Additional Paid-in Capital 
+ Accumulated 
+ Deficit 
+ Total 
+ 
+ Balance June 30, 2024 
+
+Issuance of Class A Common Stock upon exercise of stock options and vesting of restricted stock units 
+ 
+ - 
+ - 
+ 
+ -
+ 
+ -
+
+-
+
+Net share settlement on restricted stock units 
+ - 
+ - 
+ - 
+ -
+ 
+ -
+ 
+ -
+
+-
+
+Share-based compensation 
+ - 
+ - 
+ - 
+ -
+ 
+ -
+ 
+ -
+
+-
+
+Loss for the period 
+ - 
+ - 
+ - 
+ -
+ 
+ -
+ 
+ -
+ 
+ -
+
+Balance September 30, 2024 
+
+For the nine months ended September 30, 2024 
+
+Number of Common Stock 
+
+Class A 
+ Class C (and corresponding ExchangeCo Share) 
+ Class D 
+ Class A 
+ Class C 
+ Class D 
+ Additional Paid-in Capital 
+ Accumulated 
+
+ Deficit 
+ Total 
+ 
+ Balance December 31, 2023 
+
+Issuance of Class A Common Stock in exchange for Class C Common Stock 
+
+- 
+
+-
+ 
+ -
+ 
+ -
+ 
+ -
+
+Issuance of Class A Common Stock in connection with Callin acquisition 
+ 
+ - 
+ - 
+ 
+ -
+ 
+ -
+
+-
+
+Issuance of Class A Common Stock upon exercise of stock options and vesting of restricted stock units 
+ 
+ - 
+ - 
+ 
+ -
+ 
+ -
+
+-
+
+Net share settlement on restricted stock units 
+ - 
+ - 
+ - 
+ -
+ 
+ -
+ 
+ -
+
+-
+
+Share-based compensation 
+ - 
+ - 
+ - 
+ -
+ 
+ -
+ 
+ -
+
+-
+
+Loss for the period 
+ - 
+ - 
+ - 
+ -
+ 
+ -
+ 
+ -
+ 
+ -
+
+Balance September 30, 2024 
+
+The accompanying notes are an integral part of
+these condensed consolidated interim financial statements. 
+
+5 
+
+Rumble Inc. 
+
+Condensed Consolidated Interim Statements of
+Shareholders Equity 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three months ended September 30, 2023 
+
+Number of Common Stock 
+
+Class A 
+ Class C (and corresponding ExchangeCo Share) 
+ Class D 
+ Class A 
+ Class C 
+ Class D 
+ Additional Paid-in Capital 
+ Accumulated 
+
+ Deficit 
+ Total 
+ 
+ Balance June 30, 2023 
+
+Issuance of Class A Common Stock in connection with the Callin acquisition 
+ 
+ - 
+ - 
+ 
+ -
+ 
+ -
+
+-
+
+Holdback of Class A Common Stock for the repayment of domain name loan in connection with the acquisition of Locals Technology Inc. 
+ 
+ - 
+ - 
+ 
+ -
+ 
+ -
+
+-
+
+Issuance of Class A Common Stock upon vesting of restricted stock units 
+ 
+ - 
+ - 
+ 
+ -
+ 
+ -
+ 
+ -
+ 
+ -
+
+Net share settlement on restricted stock units 
+ 
+ - 
+ - 
+ 
+ -
+ 
+ -
+
+-
+
+Share-based compensation 
+ - 
+ - 
+ - 
+ -
+ 
+ -
+ 
+ -
+
+-
+
+Loss for the period 
+ - 
+ - 
+ - 
+ -
+ 
+ -
+ 
+ -
+ 
+ -
+
+Balance September 30, 2023 
+
+For the nine months ended September 30, 2023 
+
+Number of Common Stock 
+
+Class A 
+ Class C (and corresponding ExchangeCo Share) 
+ Class D 
+ Class A 
+ Class C 
+ Class D 
+ Additional Paid-in Capital 
+ Accumulated 
+ Deficit 
+ Total 
+ 
+ Balance December 31, 2022 
+
+Issuance of issuable Class A Common Stock in connection with the Callin acquisition 
+ 
+ - 
+ - 
+ 
+ -
+ 
+ -
+
+-
+
+Issuance costs in connection with Callin acquisition 
+ - 
+ - 
+ - 
+ -
+ 
+ -
+ 
+ -
+
+-
+
+Holdback of Class A Common Stock for the repayment of domain name loan in connection with the acquisition of Locals Technology Inc. 
+ 
+ - 
+ - 
+ 
+ -
+ 
+ -
+
+-
+
+Issuance of Class A Common Stock upon vesting of restricted stock units 
+ 
+ - 
+ - 
+ 
+ -
+ 
+ -
+ 
+ -
+ 
+ -
+
+Net share settlement on restricted stock units 
+ 
+ - 
+ - 
+ 
+ -
+ 
+ -
+
+-
+
+Share-based compensation 
+ - 
+ - 
+ - 
+ -
+ 
+ -
+ 
+ -
+
+-
+
+Loss for the period 
+ - 
+ - 
+ - 
+ -
+ 
+ -
+ 
+ -
+ 
+ -
+
+Balance September 30, 2023 
+
+The accompanying notes are an integral part of
+these condensed consolidated interim financial statements. 
+
+6 
+
+Rumble Inc. 
+
+Condensed Consolidated Interim Statements of
+Cash Flows 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the nine months ended September 30, 
+ 2024 
+ 2023 
+
+Cash flows provided by (used in) 
+
+Operating activities 
+
+Net loss for the period 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Amortization and depreciation 
+
+Share-based compensation 
+
+Non-cash interest expense 
+ -
+
+Net trade and barter revenue and expense 
+ 
+ -
+
+Non-cash lease expense 
+
+Change in fair value of warrants 
+
+Change in fair value of contingent consideration 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 
+
+Prepaid expenses and other 
+
+Accounts payable and accrued liabilities 
+
+Deferred revenue 
+
+Deferred tax liability 
+ 
+ -
+
+Operating lease liabilities 
+
+Net cash used in operating activities 
+
+Investing activities 
+
+Purchase of property and equipment 
+
+Purchase of intangible assets 
+
+Purchase of marketable securities 
+
+Sale and maturities of marketable securities 
+
+Cash acquired in connection with Callin acquisition 
+ -
+
+Cash paid to non-accredited investors in connection with Callin acquisition 
+ 
+ -
+
+Cash paid in connection with North River acquisition 
+ 
+ -
+
+Net cash used in investing activities 
+
+Financing activities 
+
+Taxes paid from net share settlement for share-based compensation 
+
+Proceeds from exercise of stock options 
+ 
+ -
+
+Share issuance costs 
+ -
+
+Net cash used in financing activities 
+
+Effect of exchange rate changes on cash and cash equivalents 
+ -
+
+Decrease in cash and cash equivalents during the period 
+
+Cash and cash equivalents, beginning of period 
+
+Cash and cash equivalents, end of period 
+
+Supplemental cash flow information 
+
+Cash paid for income taxes 
+
+Cash paid for interest 
+
+Cash paid for lease liabilities 
+
+Non-cash investing and financing activities: 
+
+Non-cash consideration related to the acquisition of Callin (Note 3) 
+ -
+
+Class A Common Stock issued to settle contingent consideration liability 
+ 
+ -
+
+Property and equipment in accounts payable and accrued liabilities 
+
+Recognition of operating right-of-use assets in exchange of operating lease liabilities, net of derecognition of terminated leases 
+
+Settlement of loan receivable in exchange for Class A Common Stock 
+ -
+
+Share-based compensation capitalized related to intangible assets 
+ 
+ -
+
+The accompanying notes are an integral part of
+these condensed consolidated interim financial statements. 
+
+7 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+8 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+and nil for the three months ended September
+30, 2024 and 2023, respectively. Trade and barter revenue was and nil for the nine months ended September 30, 2024 and 2023,
+respectively. Trade and barter expenses were nil and nil for the three months ended September 30, 2024 and 2023, respectively. Trade
+and barter expenses were and nil for the nine months ended September 30, 2024 and 2023, respectively. The trade and barter
+expense is recorded in sales and marketing expense in the condensed consolidated interim statement of operations. 
+
+9 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+of the outstanding equity of Callin Corp. Callin ), a podcasting and live streaming
+platform. Callin creates a seamless experience for its users to create, discover, and consume live and recorded content. The Company has
+determined that Callin meets the definition of a business and has accounted for the acquisition as a business combination. 
+
+Net assets acquired: 
+
+Cash 
+
+Accounts receivable 
+
+Prepaid expenses 
+
+Property and equipment 
+
+Software and technology 
+
+Accounts payable, accruals, and other liabilities 
+
+Deferred tax liability 
+
+Total net assets acquired 
+
+Goodwill 
+
+Shares to be issued 
+
+Replacement awards 
+
+Contingent consideration (liability) retention payments 
+
+Contingent consideration (equity) milestone 1 
+
+Contingent consideration (equity) milestone 2 
+
+Contingent consideration payable 
+
+Total consideration 
+
+10 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+3. Acquisitions (Continued) 
+
+Acquisition of Callin Corp. (Continued) 
+
+shares of Class A Common Stock to the preferred shareholders
+and SAFE note holders of Callin. The fair value of the Company s Class A Common Stock on the Acquisition Date was per share.
+In addition, the Company issued rights to four payments each consisting of contingently issuable shares of Class A Common Stock
+to the common shareholders, series FF preferred shareholders, option holders and continuing employees of Callin contingent on the following
+conditions being met: 
+
+Retention
+payment 1: Services are provided by a selling shareholder for 12 months; 
+
+Retention
+payment 2: Services are provided by a selling shareholder for 24 months; 
+
+Milestone
+payment 1: Within 12 months, certain feature development and technical performance criteria are achieved, and the acquired technology
+is integrated into the Company s existing software and 
+
+Milestone
+payment 2: Within 24 months, certain feature development and technical performance criteria are achieved. 
+
+In assessing what is part of the business
+combination, the Company has determined that because the two retention payments are contingent on a selling shareholder providing services
+post-combination, the portion of those tranches earned by the party providing services should be reflected in the Company s financial
+statements as post-combination expense. In addition, where future services are required by employees in order to earn rights to the contingent
+consideration, such rights are being accounted for either entirely as post-combination expense or as replacement awards where the rights
+replace unvested options or restricted series FF preferred shares that were originally granted by Callin. Rights to contingent consideration
+held by non-accredited investors will be settled in cash at per share. For the remainder, the four tranches of contingently issuable
+shares have been accounted for as contingent consideration. 
+
+Share-based compensation (Note 11) 
+
+Total contingently issuable shares 
+
+During the three and nine months ended
+September 30, 2024, certain of the contingently issuable shares were issued. Refer to Note 11 for the share-based compensation and below
+for the impact on contingent consideration. 
+
+11 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+3. Acquisitions (Continued) 
+
+Acquisition of Callin Corp. (Continued) 
+
+. 
+
+On May 15, 2024, retention payment
+1 was met resulting in the issuance of shares of Class A Common Stock and a cash payment of . Retention payment 2 was
+reclassified to equity because the number of shares to be issued if the contingency is met is now fixed. As a result, the Company recognized
+ in equity and in accounts payable and accrued liabilities. As of September 30, 2024, retention payment 2 has not been
+met. 
+
+The Company has recognized a change
+in fair value for the retention payment 1 and 2 contingent consideration of nil and due to the change in the Company s
+stock price and the probability of each contingency being met for the three and nine months ended September 30, 2024, respectively. 
+
+Milestone payments 1 and 2 
+
+The Company has determined that milestone
+payments 1 and 2 are separate units of account because a fixed number of shares will be issued if each contingency is met, and meeting
+one contingency is not dependent on the other. The key inputs into the fair value determination are the probability of each contingency
+being met, and the share price on the Acquisition Date. As of September 30, 2024, milestone payments 1 and 2 were met resulting in the
+issuance of shares of Class A Common Stock and a cash payment of . 
+
+The acquired goodwill relates to Callin s
+workforce and synergies that are expected to be realized upon the integration of Callin s technology with the Rumble platform. Such
+synergies will include the ability to leverage the creator relationships that Rumble has secured to date and will allow for a greater
+ability to establish brand recognition and monetization of the Callin platform in the future. The goodwill is not expected to be deductible
+for tax purposes. 
+
+12 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+3. Acquisitions (Continued) 
+
+of the outstanding equity of North River Project Inc. North River ), for Canadian Dollars US
+Dollars) in cash upfront and future contingent cash payments of up to Canadian Dollars. The contingent consideration contains
+two payments each consisting of Canadian Dollars upon the completion of feature development and integration of the acquired
+technology into the Company s existing software within a 5-year period. The Company has elected to account for the contingent consideration
+at the point in time in which the payments have been met. On June 4, 2024, one of the milestones was achieved and consequently the Company
+made a cash payment of Canadian Dollars US Dollars) to the former North River equity holders. As of September 30,
+2024, the second contingent milestone has not been met. 
+
+Assembled workforce 
+
+Net working capital 
+
+Deferred tax liability 
+
+Total consideration 
+
+The Company allocated the first contingent payment to the
+acquired assets based on their relative fair value on the date the milestone was met as follows: 
+
+Assembled workforce 
+
+Deferred tax liability 
+
+Total consideration 
+
+The additions were allocated to the
+cost basis of the acquired assets and the Company recognized a cumulative catch up on the amortization expense in the amount of 
+during the nine months ended September 30, 2024. 
+
+The acquired software and technology
+was assigned a useful life of years and the assembled workforce was assigned a useful life of years. The assets are recorded in intangible
+assets in the Company s condensed consolidated interim balance sheet. 
+
+13 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+Other Initiatives 
+
+Total revenues 
+
+Audience Monetization 
+
+Audience Monetization includes: advertising
+fees on the Rumble platform; subscription fees earned primarily from consumer product offerings such as Rumble Premium; Locals and badges;
+revenues generated from content that is licensed by third-parties; pay-per-view; and fees from tipping and platform hosting fees. Advertising
+fees are generated by delivering digital video and display advertisements as well as cost-per-message-read advertisements. Digital video
+and display advertisements are placed on Rumble websites or mobile applications. Customers pay for advertisements either directly or through
+relationships with advertising agencies or resellers, based on the number of impressions delivered or the number of actions such as clicks,
+or purchases taken, by our users. 
+
+Other Initiatives 
+
+Other Initiatives includes: digital
+advertisements that are placed on Rumble s network of third-party publisher websites or mobile applications and cloud. Cloud includes
+consumption-based fees, subscriptions for infrastructure and professional services. 
+
+Over time 
+
+Total revenues 
+
+Deferred Revenue 
+
+Deferred revenue recorded at September
+30, 2024 is expected to be fully recognized by September 30, 2025. The deferred revenue balance was and as of September
+30, 2024 and December 31, 2023, respectively. 
+
+14 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+Treasury bills and money market funds 
+
+Marketable securities consist of term
+deposits of and as of September 30, 2024 and December 31, 2023, respectively. The Company did not have any long-term
+investments as of September 30, 2024 or December 31, 2023. 
+
+As of September 30, 2024 and December
+31, 2023, the Company entered into a guarantee/ standby letter of credit in the amount of which will be used towards the issuance
+of credit for running the Company s day-to-day business operations. 
+
+Furniture and fixtures 
+
+Leasehold improvements 
+
+Accumulated depreciation 
+
+Net carrying value 
+
+Depreciation expense on property and
+equipment was and for the three months ended September 30, 2024 and 2023, respectively. Depreciation expense on property
+and equipment was and for the nine months ended September 30, 2024 and 2023, respectively. 
+
+15 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+Net book value 
+
+Operating lease costs for the three
+months ended September 30, 2024 and 2023 was and , respectively. Operating lease costs for the nine months ended September
+30, 2024 and 2023 was and , respectively. These costs are included in general and administrative expenses in the condensed
+consolidated interim statement of operations. 
+
+years years Weighted average discount rate 
+
+2025 
+
+2026 
+
+2027 
+
+Less: imputed interest 
+
+Current portion 
+
+Long-term portion 
+
+16 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+Domain name 
+
+Brand 
+
+Software and technology 
+
+Internal software development 
+
+Assembled workforce 
+
+Domain name 
+
+Brand 
+
+Software and technology 
+
+Internal software development 
+
+Assembled workforce 
+
+Amortization expense related to intangible
+assets was and for the three months ended September 30, 2024 and 2023, respectively. Amortization expense related
+to intangible assets was and for the nine months ended September 30, 2024 and 2023, respectively. 
+
+2025 
+
+2026 
+
+2027 
+
+2028 
+
+Thereafter 
+
+17 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+related to these expenses was recorded in other liability. 
+
+shares, consisting of: 
+
+(i) shares of Class A Common Stock with a par value
+of per share; 
+
+(ii) shares of Class C Common Stock with a par value
+of per share; 
+
+(iii) shares of Class D Common Stock with a par value
+of per share; and 
+
+(iv) shares of preferred stock with a par value of
+ per share. 
+
+The Company s indirect, wholly
+owned Canadian subsidiary 1000045728 Ontario Inc. ExchangeCo has exchangeable shares ExchangeCo Shares outstanding at September 30, 2024 that are exchangeable at any time by the holder on a one-to-one basis into Class A Common Stock. The
+ExchangeCo Shares are entitled to any dividends that are declared on Class A Common Stock and participate in liquidation on the same basis
+as the holders of Class A Common Stock. Each ExchangeCo Share is issued in tandem with share of Class C Common Stock.
+At the time an ExchangeCo Share is exchanged by the holder, the Company will issue share of Class A Common Stock and the ExchangeCo
+Share and corresponding Class C Common Stock are cancelled. The ExchangeCo Share and the related share of Class C Common Stock cannot
+be separated. The Company views each ExchangeCo Share and its corresponding share of Class C Common Stock as unit of account that
+is economically similar to a share of Class A Common Stock. 
+
+Class C Common Stock and its related ExchangeCo Share 
+
+Class D Common Stock 
+
+Balance 
+
+Former holders of Legacy Rumble s
+common shares are eligible to receive up to an aggregate of additional shares of the Company s Class A Common Stock,
+of which shares are currently held in escrow and shares will be issued if and when the contingency is met. Similarly,
+the Sponsor s common shares are eligible to receive up to an aggregate of additional shares of the Company s Class
+A Common Stock, which will be issued if and when the contingency is met. The holders are eligible to the shares if the closing price of
+the Company s Class A Common Stock is greater than or equal to and , respectively (with released at each target,
+or if the latter target is reached first, for a period of trading days during any trading-day period. . If there is a change in control prior to September 16, 2027 resulting in a per share price equal to or in excess of
+the and share price milestones not previously met, then the Company shall issue the earnout shares to the holders. 
+
+18 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+shares of Class A Common Stock reserved for future issuance under the Stock Option Plan. 
+
+Rumble Inc. 2022 Stock Incentive
+Plan 
+
+The Rumble Inc. 2022 Stock Incentive
+Plan (the Stock Incentive Plan was approved by the board of directors and the stockholders of the Company, and became effective,
+on September 16, 2022. The Company initially reserved shares of Common Stock for issuance under the Stock Incentive Plan, subject
+to a ten-year an evergreen feature. 
+
+As of September 30, 2024, there were
+ shares of Class A Common Stock reserved for future issuance under the Stock Incentive Plan. 
+
+Rumble Inc. 2024 Employee Stock
+Purchase Plan 
+
+The Rumble Inc. 2024 Employee Stock
+Purchase Plan (the Employee Stock Purchase Plan was approved by the board of directors and the stockholders of the Company,
+and became effective, on March 26, 2024. The Company initially reserved shares of Common Stock for issuance under the Employee
+Stock Purchase Plan. 
+
+As of September 30, 2024, there were
+no shares of Class A Common Stock reserved for future issuance under the Employee Stock Purchase plan. 
+
+Restricted Stock Units 
+
+Granted 
+
+Vested 
+
+Forfeited 
+
+Outstanding, September 30, 2024 
+
+The total unrecognized compensation
+cost for the RSUs outstanding is which is expected to be recognized over a weighted average period of years. 
+
+19 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+11. Share-Based Compensation Expense (Continued) 
+
+Granted 
+
+-
+ 
+ -
+
+Exercised 
+
+-
+ 
+ -
+
+Forfeited 
+
+-
+ 
+ -
+
+Outstanding, end of period 
+
+Vested and exercisable 
+
+-
+ 
+ -
+
+The aggregate intrinsic value of stock
+options is calculated as the difference between the exercise price of the stock options and the fair value of the Company s Class
+A Common Stock for those stock options that had exercise prices lower than the fair value of the Company s Class A Common Stock.
+As of September 30, 2024, the aggregate intrinsic value of options outstanding was and the aggregate intrinsic value of the
+options vested and exercisable was . 
+
+The total unrecognized compensation
+cost for options with a service only condition and options with a performance condition as of September 30, 2024 was and ,
+respectively. For the options with a service only condition, as of September 30, 2024, the cost is expected to be recognized over a weighted
+average period of years. 
+
+As of December 31, 2024, the Company
+had stock options outstanding included within the service condition awards that had market based vesting conditions if the closing
+price of the Company s Class A Common Stock is greater than or equal to and , respectively (with released at each
+target, or if the latter target is reached first, for a period of 20 trading days during any 30 trading-day period. As of September
+30, 2024, there were no such market based awards outstanding. 
+
+As of September 30, 2024, the Company
+has determined that it is not probable that the conditions related to the performance-based stock options will be met, and therefore,
+the Company has not recognized the related expense in the consolidated statement of operations. 
+
+The weighted average grant date fair
+value of the outstanding options with a service only condition and options with a performance condition as of September 30, 2024 was 
+and , respectively. 
+
+20 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+11. Share-Based Compensation Expense (Continued) 
+
+and for the three months ended September 30, 2024 and 2023, respectively. Share-based compensation expense recognized
+in the condensed consolidated interim statement of operations related to the rights to contingent consideration was and 
+for the nine months ended September 30, 2024 and 2023, respectively. 
+
+As discussed in Note 3, certain milestones
+were met during the nine months ended September 30, 2024. As a result, shares of Class A Common Stock were issued and 
+of cash was paid to settle the rights to contingent consideration. 
+
+As of September 30, 2024, there was
+ of total unrecognized compensation cost related to rights with a service only condition. That cost is expected to be recognized
+over a weighted average period of years. 
+
+21 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+million as of September 30, 2024, which are primarily related to programming and content, leases, and
+other service arrangements. The majority of commitments will be paid over three years commencing in 2024. 
+
+Legal Proceedings 
+
+In the normal course of business, to
+facilitate transactions in services and products, the Company indemnifies certain parties. The Company has agreed to hold certain parties
+harmless against losses arising from a breach of representations or covenants, or out of intellectual property infringement or other claims
+made against certain parties. Several of these agreements limit the time within which an indemnification claim can be made and the amount
+of the claim. In addition, the Company has entered into indemnification agreements with its officers and directors, and its bylaws contain
+similar indemnification obligations to its agents. 
+
+Furthermore, many of the Company s
+agreements with its customers and partners require the Company to indemnify them for certain intellectual property infringement claims
+against them, which would increase costs as a result of defending such claims, and may require that we pay significant damages if there
+were an adverse ruling in any such claims. Customers and partners may discontinue the use of the Company s services and technologies
+as a result of injunctions or otherwise, which could result in loss of revenues and adversely impact the business. 
+
+It is not possible to make a reasonable
+estimate of the maximum potential amount under these indemnification agreements due to the unique facts and circumstances involved in
+each particular agreement. As of September 30, 2024, there were no material indemnification claims that were probable or reasonably possible. 
+
+As of September 30, 2024, Rumble was
+defending a lawsuit against the Company and one of its shareholders seeking a variety of relief including rescission of a share redemption
+sale agreement with the Company or damages alleged to be worth million. 
+
+The Company is defending the claims
+and considers that the likelihood that it will be required to make a payment to plaintiffs to be remote. 
+
+22 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+Change in fair value 
+ 
+ -
+
+Settlement by issuance of shares 
+ -
+ 
+ -
+
+Reclassification to equity 
+ -
+ 
+ -
+
+Reclassification to accounts payable and accrued liabilities 
+ -
+ 
+ -
+
+Sale and maturities of marketable securities 
+ -
+
+-
+
+Purchase of marketable securities 
+ -
+
+-
+
+September 30, 2024 
+
+-
+
+Warrant
+liability 
+
+Warrant liability
+consists of warrants issued by the Company in public offerings, private placements, and forward purchase contracts. As of September 30,
+2024 and December 31, 2023, the number of warrants outstanding and weighted average exercise price were warrants and ,
+respectively. The warrants are exercisable and will expire on September 16, 2027, or earlier upon redemption or liquidation. All warrants
+are publicly traded. 
+
+Contingent consideration 
+
+The contingent consideration liability
+arose in May 2023 from the Callin acquisition. Refer to Note 3. The increase in fair value during the year is attributable to changes
+in the Company s stock price and the increased probability of each contingency being met. On May 15, 2024, the contingent consideration
+liability was derecognized. One of the contingent payments was settled through the issuance of shares and the remaining contingent payment
+was reclassified to equity and accounts payable. 
+
+23 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+and or 
+and of revenue, respectively. For the nine months ended September 30, 2024 and 2023, one customer accounted for and
+ or and of revenue, respectively. As of September 30, 2024, one customer accounted for of accounts
+receivable. As of December 31, 2023, one customer accounted for of accounts receivable. 
+
+and for the three months ended September 30, 2024 and 2023, respectively. Of the total compensation, the
+Company paid share-based compensation to key management amounting to and for the three months ended September 30,
+2024 and 2023, respectively. Compensation to related parties totaled and for the nine months ended September 30,
+2024 and 2023, respectively. Of the total compensation, the Company paid share-based compensation to key management amounting to 
+and for the nine months ended September 30, 2024 and 2023, respectively. 
+
+The Company has a vendor relationship
+with Cosmic Inc. and Kosmik Development Skopje doo Cosmic to provide content moderation and software development services.
+Cosmic is controlled by Chris Pavlovski, our Chairman and Chief Executive Officer, and Ryan Milnes, a member of our board of directors,
+each of whom holds a significant number of Rumble shares. The Company incurred related party expenses for these services of and
+ during the three months ended September 30, 2024 and 2023, respectively. The Company incurred related party expenses for these
+services of and during the nine months ended September 30, 2024 and 2023, respectively. Accounts payable and accrued
+liabilities for personnel services was and as of September 30, 2024 and December 31, 2023, respectively. 
+
+There were no other related party transactions
+during these periods. 
+
+24 
+
+Rumble Inc. 
+
+Notes to the Condensed Consolidated Interim
+Financial Statements 
+
+(Expressed in
+U.S. Dollars) 
+
+(Unaudited) 
+
+For the three and nine months ended September
+30, 2024 and 2023 
+
+operating segment. 
+
+Canada 
+
+Other 
+
+Canada 
+
+million of Class A Common Stock, preferred stock, debt securities, warrants, subscription rights and/or units consisting
+of some or all of these securities, conducted in one or multiple offerings while the shelf registration statement is effective. 
+
+The Company s management reviewed all material events
+through November 12, 2024, and there were no material subsequent events other than those disclosed above. 
+
+25 
+
+ITEM 2. MANAGEMENT S DISCUSSION
+AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The following discussion
+and analysis of our financial condition and results of operations should be read in conjunction with our unaudited condensed consolidated
+interim financial statements and the related notes included in Item 1 of Part I of this Quarterly Report on Form 10-Q and with our audited
+consolidated financial statements and related notes included in our Annual Report on Form 10-K for the fiscal year ended December 31,
+2023. This discussion contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially
+from such forward-looking statements. Factors that could cause or contribute to those differences include, but are not limited to, those
+identified below and those discussed in the sections titled 1A. Risk Factors and Cautionary Note Regarding Forward-Looking
+Statements included elsewhere in this Quarterly Report and those discussed in our other filings with the SEC. Additionally, our
+historical results are not necessarily indicative of the results that may be expected in any future period. Amounts are presented in U.S. dollars. 
+
+Overview 
+
+We are a high growth, video
+sharing and cloud services provider platform designed to help content creators manage, distribute, and monetize their content by connecting
+them with brands, publishers, and directly to their subscribers and followers. Our registered office is 444 Gulf of Mexico Drive, Longboat
+Key, Florida, 34228. Our shares of Class A common stock and warrants are traded on The Nasdaq Global Market Nasdaq under
+the symbols RUM and RUMBW , respectively. 
+
+Revenues 
+
+We generate revenues primarily
+from Audience Monetization and Other Initiatives. 
+
+Audience Monetization includes:
+advertising fees on the Rumble platform; subscription fees earned primarily from consumer product offerings such as Rumble Premium; Locals
+and badges; revenues generated from content that is licensed by third-parties; pay-per-view; and fees from tipping and platform hosting
+fees. Advertising fees are generated by delivering digital video and display advertisements as well as cost-per-message-read advertisements.
+Digital video and display advertisements are placed on Rumble websites or mobile applications. Customers pay for advertisements either
+directly or through relationships with advertising agencies or resellers, based on the number of impressions delivered or the number of
+actions such as clicks, or purchases taken, by our users. 
+
+Other Initiatives includes:
+digital advertisements that are placed on Rumble s network of third-party publisher websites or mobile applications; and cloud.
+Cloud includes consumption-based fees, subscriptions for infrastructure and professional services. 
+
+Refer to Note 2, Summary
+of Significant Accounting Policies, to the Company s annual consolidated financial statements for the year ended December 31, 2023 Annual Financial Statements 
+
+Expenses 
+
+Expenses primarily include
+cost of services, general and administrative, research and development, sales and marketing, acquisition-related transaction costs, amortization
+and depreciation, and changes in fair value of contingent consideration. The most significant component of our expenses on an ongoing
+basis are programming and content, service provider costs, and staffing-related costs. 
+
+We expect to continue to invest
+substantial resources to support our growth and anticipate that each of the following categories of expenses will increase in absolute
+dollar amounts for the foreseeable future. 
+
+26 
+
+Cost of Services (Exclusive of Amortization
+and Depreciation) 
+
+Cost of services consists
+of costs related to obtaining, supporting and hosting the Company s product offerings. These costs primarily include: 
+
+Programming and content costs related to compensation to content
+providers, including share-based compensation, from whom video and other content are licensed. These costs are paid to these providers
+based on revenues generated, or in fixed amounts. In certain circumstances, we incur additional costs related to incentivizing top content
+creators to promote and join our platform; and 
+
+Other cost of services such as third-party service provider
+costs, including data center and networking, as well as payment processing fees and costs paid to publishers. 
+
+General and Administrative Expenses 
+
+General and administrative
+expenses consist primarily of payroll and related expenses, which include bonuses and share-based compensation for our executives and
+certain other employees. General and administrative expenses also include legal and professional fees, business insurance costs, operating
+lease costs and other costs. As a public company, we expect to continue to incur material costs related to compliance with applicable
+laws and regulations, including audit and accounting fees, legal, insurance, investor relations and other costs. 
+
+Research and Development Expenses 
+
+Research and development expenses
+consist primarily of payroll and related expenses, which include bonuses and share-based compensation for our employees on our engineering
+and development teams. Research and development expenses also include consultant fees related to our development activities to originate,
+develop and enhance our platforms. 
+
+Sales and Marketing Expenses 
+
+Sales and marketing expenses
+consist primarily of payroll and related expenses, which include bonuses and share-based compensation for our employees associated with
+our sales and marketing functions. Sales and marketing expenses also include consultant fees and direct marketing costs related to the
+promotion of our platforms and solutions. We expect our sales and marketing expenses to increase over time as we promote our platform
+and brand, increase marketing activities, and grow domestic and international operations. 
+
+Acquisition-related Transaction Costs 
+
+Acquisition-related transaction
+costs consist of transaction expenses related to the Callin acquisition. 
+
+Amortization and Depreciation 
+
+Amortization and depreciation
+represent the recognition of costs of assets used in operations, including property and equipment and intangible assets, over their estimated
+service lives. 
+
+Change in Fair Value of Contingent Consideration
+
+Certain contingent consideration
+associated with the Callin acquisition does not meet the criteria for equity classification, and must be recorded as a liability in accordance
+with guidance contained in ASC 815-40, Derivatives and Hedging Contracts in Entity s Own Equity ASC 815-40 ).
+Because the contingent consideration meets the definition of a liability under ASC 815, Derivatives and Hedging ASC 815 ),
+it is measured at fair value at inception and at each reporting date in accordance with the guidance in ASC 820, Fair Value Measurement
+ ASC 820 ), with any subsequent changes in fair value recognized in the consolidated statement of operations in the applicable
+period of change. 
+
+27 
+
+Non-Operating Income and Other Items 
+
+Interest Income 
+
+Interest income consists of
+interest earned on our cash, cash equivalents, and marketable securities. We invest in highly liquid securities such as money market funds,
+treasury bills and term deposits. 
+
+Other Income (Expense) 
+
+Other income (expense) consists
+of miscellaneous income earned outside of normal company revenue as well as foreign exchange gains and losses related to gains and losses
+on transactions denominated in currencies other than the U.S. dollar. 
+
+Change in Fair Value of Warrant Liability 
+
+We account for our outstanding
+warrants in accordance with ASC 815-40, under which the warrants issued in connection with Business Combination do not meet the criteria
+for equity classification, and must be recorded as liabilities. As these warrants meet the definition of a liability under ASC 815, they
+are measured at fair value at inception and at each reporting date in accordance with the guidance in ASC 820, with any subsequent changes
+in fair value recognized in the consolidated statement of operations in the applicable period of change. 
+
+Income Tax Benefit (Expense) 
+
+Income tax benefit (expense)
+consists of the estimated federal, state, and foreign income taxes incurred in the U.S. and other jurisdictions in which we operate. 
+
+Key Business Metrics 
+
+To analyze our business performance,
+determine financial forecasts and help develop long-term strategic plans, we review the key business metrics described below. 
+
+Monthly Active Users MAUs 
+
+We use MAUs as a measure of
+audience engagement to help us understand the volume of users engaged with our content on a monthly basis. MAUs represent the total web,
+mobile app, and connected TV users of Rumble for each month, which allows us to measure our total user base calculated from data provided
+by Google, a third-party analytics provider. Google defines active users as the [n]umber of distinct users who visited
+your website or application. 1 We have used the Google
+analytics systems since we first began publicly reporting MAU statistics, and the resulting data have not been independently verified. 
+
+As of July 1, 2023, Universal
+Analytics UA ), Google s analytics platform on which we historically relied for calculating MAUs using company-set
+parameters, was phased out by Google and ceased processing data. At that time, Google Analytics 4 GA4 succeeded UA as
+Google s next-generation analytics platform, which has been used to determine MAUs since the third quarter of 2023 and which we
+expect to continue to use to determine MAUs in future periods. Although Google has disclosed certain information regarding the transition
+to GA4, 2 Google does not currently make available sufficient
+information relating to its new GA4 algorithm for us to determine the full effect of the switch from UA to GA4 on our reported MAUs. Because
+Google has publicly stated that metrics in UA may be more or less similar to metrics in GA4, and that [i]t is not
+unusual for there to be apparent discrepancies between the two systems, 3 
+we are unable to determine whether the transition from UA to GA4 has had a positive or negative effect, or the magnitude of such effect,
+if any, on our reported MAUs. It is therefore possible that MAUs that we reported based on the UA methodology MAUs (UA) for periods prior to July 1, 2023, cannot be meaningfully compared to MAUs based on the GA4 methodology MAUs (GA4) in
+subsequent periods. 
+
+1 Google, [UA GA4]
+Comparing Metrics: Google Analytics 4 vs. Universal Analytics, https://support.google.com/analytics/answer/11986666#zippy= 2Cin-this-article
+(last accessed Mar. 15, 2024) [hereinafter: Google, Comparing Metrics. ] (providing the technical criteria Google uses to
+calculate active users). 
+
+2 Id . 
+
+3 Id . 
+
+28 
+
+MAUs (GA4) represent the total
+web, mobile app, and connected TV users of Rumble for each month, 4 
+which allows us to measure our total user base calculated from data provided by Google. 5 
+Connected TV users were not counted within MAUs within MAUs (UA) for periods prior to July 1, 2023, and we believe the number of such
+users was immaterial in those prior periods. We also believe that fewer than 1 million MAUs in the current period are from connected TV,
+making them similarly immaterial. Google s parameters for measuring active users appear to exclude many, but not all,
+users who access content on Rumble through embedded videos on domains other than rumble.com, and we are unable to determine
+the exact number of users who access embedded content within our total number of MAUs. In addition, MAUs (GA4) may rely
+on statistical sampling and may be based on estimates of data that Google is missing due to factors such as cookie consent. 6 
+
+As with our earlier MAU reporting,
+there is a potential for minor overlap in the resulting data due to users who access Rumble s content through the web, our mobile
+apps, and connected TVs in a given measurement period; however, given that we believe this minor overlap to be immaterial, we do not separately
+track or report unique users as distinct from MAUs. Our reported MAUs have not historically included users of Locals, however,
+starting in mid-May 2024, Locals users began using Rumble s single sign-on technology to access their account, which we expect will
+reduce the number of Locals users not included in our Rumble MAU reporting. We also do not separately report the number of users who register
+for accounts in any given period, which is different from MAUs. 
+
+Like many other major social
+media companies, we rely on significant paid advertising in order to attract users to our platform; however, we cannot be certain that
+all or substantially all activity that results from such advertising is genuine. Spam activity, including inauthentic and fraudulent user
+activity, if undetected, may contribute to some amount of overstatement of our performance indicators, including reporting of MAUs by
+Google. We continually seek to improve our ability to estimate the total number of spam-generated users, and we eliminate material activity
+that is substantially likely to be spam from the calculation of our MAUs. We will not, however, succeed in identifying and removing all
+spam. 
+
+MAUs (GA4) were 67 million
+on average in the third quarter of 2024, an increase of 26 from the second quarter of 2024. We believe that this increase is attributable
+to an increased interest in political news in the third quarter of 2024, including the lead-up to the United States presidential election. 
+
+4 During the measurement period, Rumble was available on the following
+connected TV systems: Roku, Android TV, Amazon Fire, LG, and Samsung TVs. 
+
+5 Google provides additional information on its definition of
+an active user, see Google, Comparing Metrics. 
+
+6 According to the GA4 dashboard, [a]s of August 26, 2023,
+Analytics is estimating data that s missing due to factors such as cookie consent. 
+
+29 
+
+Average Revenue Per User ARPU 
+
+We use ARPU as a measure of
+our ability to monetize our user base. Quarterly ARPU is calculated as quarterly Audience Monetization revenue divided by MAUs for the
+relevant quarter (as reported by Google Analytics). ARPU does not include Other Initiatives revenue. 
+
+ARPU was 0.33 in the third
+quarter of 2024, a decrease of 11 from the second quarter of 2024. Given that we are currently in the early stages of monetizing our
+user base, we expect to see some lag in revenue relative to our users, particularly during periods of high user growth. As a result,
+in the third quarter we saw a decrease in ARPU as revenue growth slightly lagged our strong MAU growth from the lead-up to the United
+States presidential election. 
+
+30 
+
+We regularly review, have
+adjusted in the past, and may in the future adjust our processes for calculating our key business metrics to improve their accuracy, including
+through the application of new data or technologies or product changes that may allow us to identify previously undetected spam activity.
+As a result of such adjustments, our key business metrics may not be comparable period-over-period. 
+
+Results of Operations 
+
+The following table sets forth our results of operations
+data for the periods presented: 
+
+Comparisons for three months ended September 30, 2024 and 2023:
+
+The following table sets forth
+our unaudited condensed consolidated interim statements of operations for the three months ended September 30, 2024 and 2023 and
+the dollar and percentage change between the two periods: 
+
+For the three months ended September 30, 
+ 2024 
+ 2023 
+ Variance ) 
+ Variance ) 
+
+Revenues 
+ 25,056,904 
+ 17,982,150 
+ 7,074,754 
+ 39 
+
+Expenses 
+
+Cost of services (content, hosting and other) 
+ 36,428,951 
+ 39,751,475 
+ (3,322,524 
+ (8 
+ 
+ General and administrative 
+ 9,710,935 
+ 9,688,129 
+ 22,806 
+ 0 
+ 
+ Research and development 
+ 4,650,688 
+ 5,111,748 
+ (461,060 
+ (9 
+ 
+ Sales and marketing 
+ 3,955,552 
+ 3,182,903 
+ 772,649 
+ 24 
+ 
+ Acquisition-related transaction costs 
+ - 
+ 445,833 
+ (445,833 
+ (100 
+ 
+ Amortization and depreciation 
+ 3,128,242 
+ 1,353,071 
+ 1,775,171 
+ 131 
+ 
+ Changes in fair value of contingent consideration 
+ - 
+ (1,335,177 
+ 1,335,177 
+ (100 
+ 
+ Total expenses 
+ 57,874,368 
+ 58,197,982 
+ (323,614 
+ (1 
+ 
+ Loss from operations 
+ (32,817,464 
+ (40,215,832 
+ 7,398,368 
+ (18 
+ 
+ Interest income 
+ 1,949,898 
+ 3,620,882 
+ (1,670,984 
+ (46 
+ 
+ Other income (expense) 
+ (304 
+ 104,339 
+ (104,643 
+ (100 
+ 
+ Change in fair value of warrant liability 
+ (756,700 
+ 7,485,695 
+ (8,242,395 
+ (110 
+ 
+ Loss before income taxes 
+ (31,624,570 
+ (29,004,916 
+ (2,619,654 
+ 9 
+ 
+ Income tax benefit (expense) 
+ 85,157 
+ (16,126 
+ 101,283 
+ (628 
+ 
+ Net loss 
+ (31,539,413 
+ (29,021,042 
+ (2,518,371 
+ 9 
+
+Revenues 
+
+Revenues increased by 7.1
+million to 25.1 million in the three months ended September 30, 2024 compared to the three months ended September 30, 2023, of which
+ 5.9 million was attributable to an increase in Audience Monetization revenues and 1.2 million was attributable to higher Other Initiatives.
+The increase in Audience Monetization revenues was mainly due to higher advertising and subscription revenue. The increase in revenue
+from Other Initiatives was mostly due to more advertising inventory being monetized by our publisher network and an increase in cloud
+services offered. 
+
+31 
+
+Cost of Services 
+
+Cost of services decreased
+by 3.3 million to 36.4 million in the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The
+decrease was due to a decrease in programming and content costs of 5.4 million, offset by an increase of 1.7 million in share-based
+compensation and 0.4 million in other cost of services. The decrease in programming and content costs was primarily due to a reduction
+of 7.9 million in guaranteed creator commitment costs, which was partially offset by a 2.5 million increase in the creators share
+of revenue. 
+
+General and Administrative Expenses 
+
+General and administrative expenses increased by
+ 23.0 thousand to 9.7 million in the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The
+increase was mainly due to payroll and related expenses offset by a decrease in other administrative expenses such as public company-related
+costs, including legal, insurance, and other administrative services. 
+
+Research and Development Expenses 
+
+Research and development expenses
+decreased by 0.5 million to 4.7 million in the three months ended September 30, 2024 compared to the three months ended September 30,
+2023. The decrease was mainly due to a decrease in payroll and related expenses of 0.5 million. 
+
+Sales and Marketing Expenses 
+
+Sales and marketing expenses
+increased by 0.8 million to 4.0 million in the three months ended September 30, 2024 compared to the three months ended September 30,
+2023. The increase was due to an increase in payroll and related expenses of 0.8 million. 
+
+Acquisition-related Transaction Costs 
+
+Acquisition-related transaction
+costs decreased by 0.4 million to nil in the three months ended September 30, 2024 compared to the three months ended September 30,
+2023. Acquisition-related transaction costs for the three months ended September 30, 2023 consisted of transaction costs incurred related
+to acquisitions completed in 2023. 
+
+Amortization and Depreciation 
+
+Amortization and depreciation
+increased by 1.8 million to 3.1 million in the three months ended September 30, 2024 compared to the three months ended September 30,
+2023. The increase was due to an increase of 0.6 million from depreciation on our property and equipment as we continue to build out
+our infrastructure as well as an increase in amortization from intangible assets of 1.2 million. 
+
+Change in Fair Value of Contingent Consideration 
+
+Change in fair value of contingent
+consideration increased by 1.3 million to nil for the three months ended September 30, 2024. The contingent consideration liability
+arose in connection with the Callin acquisition and the fair value of this contingent consideration was measured using the fair value
+of the expected number of shares to be issued and the Company s share price at closing. The gain from the change in fair value of
+contingent consideration in 2023 was directly attributable to changes in the Company s share price since the closing and the probability
+of contingencies being met. On May 15, 2024, the contingent consideration was derecognized and reclassified to equity. 
+
+32 
+
+Interest Income 
+
+Interest income decreased
+by 1.7 million to 1.9 million in the three months ended September 30, 2024 compared to the three months ended September 30, 2023. The
+decrease was due to the fact that the Company invested less in money market funds, treasury bills, and term deposits. 
+
+Other Income (Expense) 
+
+Other income (expense) decreased
+by 0.1 million to an immaterial amount for the three months ended September 30, 2024 compared to the three months ended September 30,
+2023. The decrease was primarily due to lower foreign currency rate fluctuation as we maintained the majority of our cash balance in U.S.
+dollars, which is our functional currency, as of September 30, 2024. 
+
+Change in Fair Value of Warrant Liability 
+
+Change in fair value of warrant
+liability decreased by 8.2 million resulting in a loss of 0.8 million in the three months ended September 30, 2024. The warrant liability
+arose in connection with the warrants offered as part of the Business Combination. As these warrants meet the classification of a financial
+liability in accordance with ASC 815-40, the related warrant liability is measured at its fair value, determined in accordance with ASC
+820, at each reporting period. The fair value of this warrant liability was measured using the fair value of the Company s warrants
+listed on the Nasdaq. The decrease in the change in fair value of warrant liability is directly attributable to changes in the trading
+price of Rumble s warrants. 
+
+Income Tax Benefit (Expense) 
+
+Income tax benefit (expense)
+increased by 0.1 million to 0.1 million in the three months ended September 30, 2024 compared to the three months ended September 30,
+2023. 
+
+33 
+
+Comparisons for nine months ended September 30, 2024 and 2023:
+
+The following table sets forth
+our unaudited condensed consolidated interim statements of operations for the nine months ended September 30, 2024 and 2023 and the
+dollar and percentage change between the two periods: 
+
+For the nine months ended September 30, 
+ 2024 
+ 2023 
+ Variance ) 
+ Variance ) 
+
+Revenues 
+ 65,259,903 
+ 60,571,579 
+ 4,688,324 
+ 8 
+
+Expenses 
+
+Cost of services (content, hosting and other) 
+ 103,949,438 
+ 106,615,656 
+ (2,666,218 
+ (3 
+ 
+ General and administrative 
+ 29,448,330 
+ 27,482,408 
+ 1,965,922 
+ 7 
+ 
+ Research and development 
+ 14,497,709 
+ 12,078,168 
+ 2,419,541 
+ 20 
+ 
+ Sales and marketing 
+ 13,527,043 
+ 10,215,780 
+ 3,311,263 
+ 32 
+ 
+ Acquisition-related transaction costs 
+ - 
+ 1,150,035 
+ (1,150,035 
+ (100 
+ 
+ Amortization and depreciation 
+ 9,118,603 
+ 3,077,705 
+ 6,040,898 
+ 196 
+ 
+ Changes in fair value of contingent consideration 
+ 1,354,357 
+ (1,709,173 
+ 3,063,530 
+ (179 
+ 
+ Total expenses 
+ 171,895,480 
+ 158,910,579 
+ 12,984,901 
+ 8 
+ 
+ Loss from operations 
+ (106,635,577 
+ (98,339,000 
+ (8,296,577 
+ 8 
+ 
+ Interest income 
+ 6,646,015 
+ 10,499,232 
+ (3,853,217 
+ (37 
+ 
+ Other income (expense) 
+ (73,881 
+ 85,939 
+ (159,820 
+ (186 
+ 
+ Change in fair value of warrant liability 
+ (1,480,395 
+ 643,195 
+ (2,123,590 
+ (330 
+ 
+ Loss before income taxes 
+ (101,543,838 
+ (87,110,634 
+ (14,433,204 
+ 17 
+ 
+ Income tax expense 
+ (66,315 
+ (32,601 
+ (33,714 
+ 103 
+ 
+ Net loss 
+ (101,610,153 
+ (87,143,235 
+ (14,466,918 
+ 17 
+
+Revenues 
+
+Revenues increased by 4.7
+million to 65.3 million in the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023, of which 2.4
+million was attributable to an increase in Audience Monetization revenues and higher Other Initiatives revenues of 2.3 million. The increase
+in Audience Monetization was mainly due to increases in subscription, platform hosting fees and tipping fees, offset by decreases in advertising
+fees. The increase in revenue from Other Initiatives was mostly due to more advertising inventory being monetized by our publisher network
+and cloud services offered. 
+
+Cost of Services 
+
+Cost of services decreased
+by 2.7 million to 103.9 million in the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The
+decrease was due to a decrease in programming and content costs of 7.6 million, offset by an increase of 1.5 million in other cost of
+services and 3.4 million in share-based compensation. The decrease in programming and content costs was primarily due to a reduction
+of 9.0 million in guaranteed creator commitment costs, which was partially offset by a 1.4 million increase in the creators share
+of revenue. 
+
+34 
+
+General and Administrative Expenses 
+
+General and administrative
+expenses increased by 2.0 million to 29.4 million in the nine months ended September 30, 2024 compared to the nine months ended September
+30, 2023. The increase was due to increases in payroll and related expenses of 1.2 million and share-based compensation of 2.6 million,
+offset by a decrease in other administrative expenses of 1.8 million. The 2.6 million increase in share-based compensation was related
+to the recognition of contingent shares issued in connection with the Callin acquisition that was accounted for as a post-combination
+expense as well as the expense of previously and newly granted restricted stock units and stock options for certain employees and executives.
+The 1.8 million decrease in other administrative expenses was mainly driven by public company-related costs, including legal, insurance,
+and other administrative services. 
+
+Research and Development Expenses 
+
+Research and development expenses
+increased by 2.4 million to 14.5 million in the nine months ended September 30, 2024 compared to the nine months ended September 30,
+2023. The increase was due to an increase in payroll and related expenses of 2.1 million, as well as a 0.3 million increase in costs
+related to computer software and hardware, and other expenses used in research and development-related activity. 
+
+Sales and Marketing Expenses 
+
+Sales and marketing expenses
+increased by 3.3 million to 13.5 million in the nine months ended September 30, 2024 compared to the nine months ended September 30,
+2023. The increase was due to an increase of 2.3 million in payroll and related expenses, 0.5 million in consulting services, and 0.5
+million due to other marketing and public relations activities. 
+
+Acquisition-related Transaction Costs 
+
+Acquisition-related transaction
+costs decreased by 1.2 million to nil in the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023.
+Acquisition-related transaction costs for the nine months ended September 30, 2023 consisted of transaction costs incurred related to
+acquisitions completed in 2023. 
+
+Amortization and Depreciation 
+
+Amortization and depreciation
+increased by 6.0 million to 9.1 million in the nine months ended September 30, 2024 compared to the nine months ended September 30,
+2023. The increase was due to an increase of 1.9 million from depreciation on our property and equipment as we continue to build out
+our infrastructure as well as an increase in amortization from intangible assets of 4.1 million. 
+
+Change in Fair Value of Contingent Consideration 
+
+Change in fair value of contingent
+consideration increased by 3.1 million resulting in a loss of 1.4 million for the nine months ended September 30, 2024. The contingent
+consideration liability arose in connection with the Callin acquisition and the fair value of this contingent consideration was measured
+using the fair value of the expected number of shares to be issued and the Company s share price at closing. The gain/loss from
+the change in fair value of contingent consideration can be directly attributable to changes in the Company s share price since
+the closing and the probability of contingencies being met. 
+
+Interest Income 
+
+Interest income decreased
+by 3.9 million to 6.6 million in the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The
+decrease was due to the fact that the Company invested less in money market funds, treasury bills, and term deposits. 
+
+35 
+
+Other Income (Expense) 
+
+Other income (expense) decreased
+by 0.2 million to 0.1 million for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. The
+decrease was primarily due to lower foreign currency rate fluctuation as we maintained the majority of our cash balance in U.S. dollars,
+which is our functional currency, as of September 30, 2024. 
+
+Change in Fair Value of Warrant Liability 
+
+Change in fair value of warrant
+liability decreased by 2.1 million resulting in a loss of 1.5 million in the nine months ended September 30, 2024. The warrant liability
+arose in connection with the warrants offered as part of the Business Combination. As these warrants meet the classification of a financial
+liability in accordance with ASC 815-40, the related warrant liability is measured at its fair value, determined in accordance with ASC
+820, at each reporting period. The fair value of this warrant liability was measured using the fair value of the Company s warrants
+listed on the Nasdaq. The decrease in the change in fair value of warrant liability is directly attributable to changes in the trading
+price of Rumble s warrants. 
+
+Income Tax Expense 
+
+Income tax expense decreased
+by an immaterial amount in the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. 
+
+Liquidity and Capital Resources 
+
+Since the completion of our
+Business Combination in September 2022, we have financed operations primarily through cash generated from operating activities and the
+funds raised from our Business Combination. The primary short-term requirements for liquidity and capital are to fund general working
+capital and capital expenditures. 
+
+As of September 30, 2024,
+our cash, cash equivalents, and marketable securities balance was 132.0 million. Cash, cash equivalents, and marketable securities consist
+of cash on deposit with banks and amounts held in money market funds, treasury bills, and term deposits. 
+
+As
+we have consistently stated, we are using a substantial portion of funds to acquire content by providing economic incentives to a small
+number of content creators, including sports leagues. As of September 30, 2024, we had entered into programming and content agreements
+with a minimum contractual cash commitment of 38 million. A significant amount of these minimum contractual cash commitments will be
+paid over 12 to 24 months, commencing in 2024. 
+
+The following table presents
+a summary of the unaudited condensed consolidated interim statement of cash flows for the nine months ended September 30, 2024 and 2023: 
+
+Nine months ended September 30, 
+
+Net cash provided by (used in): 
+ 2024 
+ 2023 
+ Variance ) 
+ 
+ Operating activities 
+ (74,652,655 
+ (59,830,732 
+ (14,821,923 
+ 
+ Investing activities 
+ (11,281,908 
+ (10,953,421 
+ (328,487 
+ 
+ Financing activities 
+ (1,619,412 
+ (503,136 
+ (1,116,276 
+
+36 
+
+Operating Activities 
+
+Net cash used in operating
+activities for the nine months ended September 30, 2024 primarily consisted of net loss adjusted for certain non-cash items, including
+a 2.8 million loss on the change in fair value of warrants and contingent consideration, 14.7 million change in share-based compensation,
+ 9.9 million changes in amortization and depreciation, 1.3 million changes in trade and barter revenue and expense, as well as changes
+in operating assets and liabilities. The increase in net cash used in operating activities during the nine months ended September 30,
+2024 compared to the nine months ended September 30, 2023 was mostly due to an increase in operating assets and liabilities offset by
+changes in net loss adjusted for certain non-cash items. 
+
+Investing Activities 
+
+Net cash used in investing
+activities for the nine months ended September 30, 2024 consisted of 7.3 million in purchases of property, equipment, and intangible
+assets, 3.9 million in cash paid in connection with the acquisitions of Callin and North River, and 0.1 million in purchase of marketable
+securities, net of sales and maturities of marketable securities. The increase in net cash used in investing activities during the nine
+months ended September 30, 2024 compared to the nine months ended September 30, 2023 was due to an increase in purchases of intangible
+assets and marketable securities, which were partially offset by reduced spending on property and equipment. Additionally, the increase
+in net cash used was related to cash paid to non-accredited investors related to the Callin acquisition and cash paid in connection with
+the North River acquisition in the nine months ended September 30, 2024 as well as cash acquired in connection with the Callin acquisition
+in the nine months ended September 30, 2023. 
+
+Financing Activities 
+
+Net cash used in financing
+activities for the nine months ended September 30, 2024 consisted of 1.9 million in taxes paid from the net share settlement of share-based
+compensation, offset by 0.3 million from proceeds related to stock options exercised. The increase in net cash used in financing activities
+was due to the taxes paid from the net share settlement of share-based compensation, offset by proceeds from stock options exercised in
+the nine months ended September 30, 2024 compared to net cash used related to share issuance costs incurred in the nine months ended September
+30, 2023. 
+
+Summary of Quarterly Results 
+
+Information for the most recent quarters presented
+are as follows: 
+
+Sep 30, 2024 
+ Jun 30, 2024 
+ Mar 31, 2024 
+ Dec 31, 2023 
+ 
+ Total revenue 
+ 25,056,904 
+ 22,469,543 
+ 17,733,456 
+ 20,391,872 
+ 
+ Net loss 
+ (31,539,413 
+ (26,780,700 
+ (43,290,040 
+ (29,277,227 
+
+Sep 30, 2023 
+ Jun 30, 2023 
+ Mar 31, 2023 
+ Dec 31, 2022 
+ 
+ Total revenue 
+ 17,982,150 
+ 24,974,054 
+ 17,615,375 
+ 19,957,025 
+ 
+ Net loss 
+ (29,021,042 
+ (29,454,080 
+ (28,668,113 
+ (944,668 
+
+37 
+
+Non-GAAP Financial Measures 
+
+To supplement our consolidated
+financial statements, which are prepared and presented in accordance with GAAP, we use certain non-GAAP financial measures, as described
+below, to understand and evaluate our core operating performance. These non-GAAP financial measures, which may be different than similarly
+titled measures used by other companies, are presented to enhance investors overall understanding of our financial performance
+and should not be considered a substitute for, or superior to, the financial information prepared and presented in accordance with GAAP.
+We use the non-GAAP financial measure of: Adjusted EBITDA, which is defined as net income (loss) excluding interest income (expense),
+net, other income (expense), net; provision for income taxes, depreciation and amortization, share-based compensation expense, acquisition-related
+expense, change in fair value of warrants, and change in fair value of contingent consideration. The Company s management believes
+that it is important to consider Adjusted EBITDA, in addition to net income (loss), as it helps identify trends in our business that could
+otherwise be masked by the effect of the gains and losses that are included in net income (loss) but excluded from Adjusted EBITDA. 
+
+Adjusted EBITDA should not
+be considered in isolation from, or as a substitute for, financial information prepared in accordance with GAAP. There are a number of
+limitations related to the use of Adjusted EBITDA rather than net income (loss), the nearest GAAP equivalent. As a result of these limitations,
+you should consider Adjusted EBITDA alongside other financial performance measures, including net income (loss) and our other financial
+results presented in accordance with GAAP. The following table presents a reconciliation of net income (loss), the most directly comparable
+financial measure calculated and presented in accordance with GAAP, to Adjusted EBITDA: 
+
+Reconciliation of Adjusted EBITDA 
+
+Three months ended 
+
+ September 30, 
+ Nine months ended
+ 
+September 30, 
+
+2024 
+ 2023 
+ 2024 
+ 2023 
+
+Net loss 
+ (31,539,413 
+ (29,021,042 
+ (101,610,153 
+ (87,143,234 
+ 
+ Adjustments: 
+
+Amortization and depreciation 
+ 3,128,242 
+ 1,353,071 
+ 9,118,603 
+ 3,077,705 
+ 
+ Share-based compensation expense 
+ 6,157,765 
+ 4,321,151 
+ 17,478,041 
+ 10,491,037 
+ 
+ Interest income 
+ (1,949,898 
+ (3,620,882 
+ (6,646,015 
+ (10,499,232 
+ 
+ Other (income) expense 
+ 304 
+ (104,339 
+ 73,881 
+ (85,939 
+ 
+ Income tax (benefit) expense 
+ (85,157 
+ 16,126 
+ 66,315 
+ 32,601 
+ 
+ Change in fair value of warrants liability 
+ 756,700 
+ (7,485,695 
+ 1,480,395 
+ (643,195 
+ 
+ Change in fair value of contingent consideration 
+ - 
+ (1,335,177 
+ 1,354,357 
+ (1,709,173 
+ 
+ Acquisition-related transaction costs 
+ - 
+ 445,833 
+ - 
+ 1,150,035 
+ 
+ Adjusted EBITDA 
+ (23,531,457 
+ (35,430,954 
+ (78,684,576 
+ (85,329,395 
+
+38 
+
+Critical Accounting Policies and Estimates 
+
+We prepare our unaudited condensed consolidated
+interim financial statements in accordance with accounting principles generally accepted in the United States of America US
+GAAP ). The preparation of condensed consolidated interim financial statements also requires us to make estimates and assumptions
+that affect the reported amounts of assets, liabilities, revenue, costs and expenses and related disclosures. We evaluate our estimates
+on a continuous basis. We base our estimates on historical experience and on various other assumptions that we believe to be reasonable
+under the circumstances. Actual results could differ significantly from the estimates made by our management. To the extent that there
+are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of
+operations and cash flows will be affected. 
+
+We believe the following key
+accounting policies require significant judgments and estimates used in the preparation of our condensed consolidated interim financial
+statements. Critical accounting policies and estimates are those that we consider the most important to the portrayal of our financial
+condition and results of operations because they require our most difficult, subjective or complex judgments, often as a result of the
+need to make estimates about the effects of matters that are inherently uncertain. Accordingly, we believe that these are the most critical
+to aid in fully understanding and evaluating our financial condition and results of operations. 
+
+For further information on
+the summary of significant accounting policies and the effect on our condensed consolidated interim financial statements, see Note 2,
+Summary of Significant Accounting Policies, to the Annual Financial Statements. 
+
+Acquisitions (Business Combination vs Asset
+Acquisition) 
+
+The Company evaluates whether
+acquired net assets should be accounted for as a business combination or an asset acquisition by first applying a screen test to determine
+whether substantially all of the fair value of the gross assets acquired is concentrated in a single identifiable asset or group of similar
+identifiable assets. If so, the transaction is accounted for as an asset acquisition. If not, the Company applies its judgment to determine
+whether the acquired net assets meet the definition of a business by considering if the set includes an acquired input, process, and the
+ability to create outputs. 
+
+Valuation of Intangible Assets 
+
+The Company acquired intangible
+assets in connection with the acquisitions of Callin and North River. A valuation was performed to determine the estimated fair value
+of identifiable intangible assets related to the acquisition. Judgment is required to estimate the fair value of these identifiable intangible
+assets. We may use quoted market prices, prices for similar assets, present value techniques, and other valuation techniques such as the
+depreciated replacement cost and relief from royalty methods to prepare these estimates. We may need to make estimates of future cash
+flows and discount rates as well as other assumptions in order to implement these valuation techniques. Due to the degree of judgment
+involved in our estimation techniques, our estimate may result in a significant difference in the estimation of fair value. 
+
+Share-based Compensation 
+
+The Company issues equity
+awards such as stock options and restricted stock units to certain of its employees, directors, officers and consultants. We account for
+equity awards by recognizing the fair value of share-based compensation expense on a straight-line basis over the service period of the
+award. 
+
+For equity awards with a service
+condition, the fair value is estimated on the grant date using the Black-Scholes option pricing model which takes into account the following
+inputs: stock price, expected term, volatility, and risk-free interest rate. For equity awards with a market condition, the fair value
+is estimated on the grant date using a Monte Carlo simulation methodology that includes simulating the stock price using a risk-neutral
+Geometric Brownian Motion-based pricing model. Changes in the estimated inputs or using other option valuation methods may result in materially
+different option values and share-based compensation expense. 
+
+39 
+
+For equity awards with a
+performance condition, the Company assesses the likelihood of the performance condition underlying an award being met and recognizes a
+share-based compensation expense associated with that award only if it is probable the performance condition will be met. Where the performance
+condition underlying an award is a change in control, the Company considers the performance condition to be probable only when it occurs. 
+
+Income Taxes 
+
+The Company is subject to
+income taxes in the United States and other foreign jurisdictions. Significant judgment is required in determining our provision for income
+taxes and income tax assets and liabilities, including evaluating uncertainties in the application of accounting principles and complex
+tax laws. 
+
+Uncertain tax positions are
+accounted for using a comprehensive model for the manner in which a company should recognize, measure, present and disclose in its financial
+statements all material uncertain income tax positions. The Company reviews its nexus in various tax jurisdictions and the Company s
+tax positions related to all open tax years for events that could change the status of its tax liability, if any, or require an additional
+liability to be recorded. Such events may be the resolution of issues raised by a taxing authority, expiration of the statute of limitations
+for a prior open tax year or new transactions for which a tax position may be deemed to be uncertain. Those positions, for which management s
+assessment is that there is more than a 50 percent probability of sustaining the position upon challenge by a taxing authority based
+upon its technical merits, are subjected to the measurement criteria. 
+
+Trade and Barter Transactions 
+
+The Company engages in trade
+and barter transactions whereby the Company and its counterparty exchange media campaigns or other promotional services. The Company reviews
+each transaction to ensure the advertising it receives has economic substance and records revenue in an amount equal to the fair value
+of the products and services received unless this is not reasonable to estimate, in which case the consideration is measured based on
+the standalone selling price of the advertising inventory promised or delivered to the customer. Trade and barter revenue is recognized
+when the performance obligation is fulfilled and follows the same pattern of recognition as the Company s normal advertising revenue.
+Trade and barter expense is recorded when goods or services are consumed. The trade and barter expense is recorded in sales and marketing
+expense in the condensed consolidated interim statement of operations. 
+
+New Accounting Pronouncements 
+
+See Note 2, Summary of
+Significant Accounting Policies, to our Annual Financial Statements for the years ended December 31, 2023 and 2022. 
+
+JOBS Act Accounting Election 
+
+We are an emerging growth
+company, as defined in the JOBS Act. Under the JOBS Act, emerging growth companies can delay adopting new or revised accounting standards
+until such time as those standards apply to private companies. We intend to elect to adopt new or revised accounting standards under private
+company adoption timelines. Accordingly, the timing of our adoption of new or revised accounting standards will not be the same as other
+public companies that are not emerging growth companies or that have opted out of using such extended transition period and our financial
+statements may not be comparable to the financial statements of public companies that comply with such new or revised accounting standards. 
+
+40 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE
+DISCLOSURES ABOUT MARKET RISK 
+
+We are exposed to certain
+market risks as part of our ongoing business operations. 
+
+Credit and Concentration Risk 
+
+We are exposed to credit
+risk on our cash, cash equivalents, marketable securities, and accounts receivable. We place cash, cash equivalents, and marketable securities
+with financial institutions with high credit standing, and we place excess cash in money market funds, treasury bills, and deposits. We
+are exposed to credit risk on our accounts receivable in the event of default by a customer. We bill our customers under customary payment
+terms and review customers for their creditworthiness. The term between invoicing and payment due date is not significant. A meaningful
+portion of our revenue is attributable to service agreements with one customer. For the three months ended September 30, 2024 and 2023,
+one customer accounted for 3,192,053 and 5,751,157 or 13 and 32 of revenue, respectively. For the nine months
+ended September 30, 2024 and 2023, one customer accounted for 11,671,470 and 29,762,071 or 18 and 49 of revenue,
+respectively. As of September 30, 2024, one customer accounted for 11 of accounts receivable. As of December 31, 2023, one customer
+accounted for 35 of accounts receivable. 
+
+Interest Rate Risk 
+
+We are exposed to interest
+rate risk on our cash, cash equivalents and marketable securities. As of September 30, 2024, we had cash, cash equivalents and marketable
+securities of 132.0 million, consisting of investments in money market funds, treasury bills, and term deposits for which the fair
+market value would be affected by changes in the general level of interest rates. However, due to the short-term maturities and the low-risk
+profile of our investments, an immediate 10 change in interest rates would not have a material effect on the fair market value of our
+cash, cash equivalents and marketable securities. 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+
+Evaluation of Disclosure
+Controls and Procedures 
+
+Our
+management, with the participation of our principal executive officer and principal financial officer, have reviewed and evaluated the
+effectiveness of our disclosure controls and procedures (as such term is defined in Rules 13a-15(e) and 15d-15(e) under the Securities
+Exchange Act of 1934, as amended (the Exchange Act )) as of the end of the period covered by this Quarterly Report. Based
+on this review and evaluation, our principal executive officer and principal financial officer concluded that, as of such date, our disclosure
+controls and procedures were effective to ensure that information required by us in reports that we file or submit under the Exchange
+Act is (i) recorded, processed, summarized, and reported within the time periods specified in SEC rules and forms and (ii) accumulated
+and communicated to management, including our principal executive officer and principal financial officer, as appropriate to allow timely
+decisions regarding required disclosure. 
+
+Changes in Internal
+Controls over Financial Reporting 
+
+There
+were no changes in our internal control over financial reporting during the period covered by this Quarterly Report that have materially
+affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+41 
+
+PART II - OTHER INFORMATION 
+
+ITEM 1. LEGAL PROCEEDINGS. 
+
+We are, and from time to time
+may become, involved in various legal proceedings arising in the normal course of our business activities, such as copyright infringement
+and tort claims arising from user-uploaded content, patent infringement claims, breach of contract claims, government demands, putative
+class actions based upon consumer protection or privacy laws and other matters. The amounts that may be recovered in such matters may
+be subject to insurance coverage. 
+
+On January 2022, we received
+notification of a lawsuit filed by Kosmayer Investment Inc. KII against Rumble and Mr. Pavlovski in the Ontario Superior
+Court of Justice, alleging fraudulent misrepresentation in connection with KII s decision to redeem its shares of Rumble in August
+2020. The case remains in discovery. KII is seeking rescission of such redemption such that, following such rescission, KII would own
+20 of the issued and outstanding shares of Rumble or, in the alternative, damages for the lost value of the redeemed shares, which KII
+has alleged to be worth 419.0 million (based on the value ascribed to the shares of Rumble in the Business Combination), together with
+other damages including punitive damages and costs. The case remains in discovery. Although we believe that the allegations are meritless
+and intend to vigorously defend against them, the result or impact of such claim is uncertain, and could result in, among other things,
+damages, and/or awards of attorneys fees or expenses. 
+
+In January 2021, we filed
+an antitrust lawsuit against Google in the United States District Court for the Northern District of California, alleging that Google
+unlawfully gives an advantage to its YouTube platform over Rumble in search engine results and in the mobile phone market. In June 2021,
+Google filed a partial motion to dismiss the lawsuit and a motion to strike; in July 2022, the court denied Google s motion. On
+October 11, 2024, Google filed a motion for summary judgment; the court has scheduled a hearing on that motion for January 23, 2025. Trial
+remains scheduled for May 19, 2025. 
+
+In addition in May 2024, we
+filed a second antitrust lawsuit against Google, also in the United States District Court for the Northern District of California, related
+to Google s monopolization of the online advertising market. This lawsuit is separate and distinct from the self-preferencing lawsuit
+filed in January 2021. In August 2024, we filed an amended complaint, and in September 2024, Google filed a motion to dismiss. In parallel
+to the proceedings in the Northern District of California, the U.S. Judicial Panel on Multidistrict Litigation (JPML) filed a conditional
+order to transfer the case to the existing proceeding, In re: Google Digital Advertising Antitrust Litigation (JPML No. 3010).
+Google has opposed that motion, and the JPML has set a hearing on the transfer for December 5, 2024. 
+
+Along with co-plaintiff Eugene
+Volokh, in December 2022, we filed a lawsuit in the U.S. District Court for the Southern District of New York to block the enforcement
+of New York State s Social Media Law. In February 2023, the court granted our motion for a preliminary injunction, halting enforcement
+of the law. The New York Attorney General appealed that decision to the U.S. Court of Appeals for the Second Circuit, where the appeal
+remains pending. 
+
+In November 2023, we
+filed a defamation lawsuit in the U.S. District Court for the Middle District of Florida against Nandini Jammi and Claire Atkin, co-founders
+of an organization that targets news outlets and platforms that do not adhere to their political worldview. The lawsuit seeks actual,
+presumed, and punitive damages against Jammi and Atkin for their defamatory statements about Rumble, in addition to all costs and fees
+associated with the case. We have also asked the court to prohibit the defendants from repeating their false statements. In May 2024,
+the defendants filed a motion to dismiss for failure to state a claim. That motion is pending before the court, which held a hearing on
+November 7, 2024. 
+
+In August 2024, we filed an
+antitrust lawsuit in the U.S. District Court for the Northern District of Texas against the World Federation of Advertisers, WPP plc,
+and GroupM Worldwide LLC alleging a conspiracy to withhold advertising revenue from Rumble and other digital media platforms. The lawsuit
+seeks a declaration that the defendants conduct is illegal, a permanent injunction against the conduct, damages, interest, and
+legal fees, among other relief. In September 2024, we filed an amended complaint, which added Diageo plc as a defendant. We are in the
+process of serving the amended complaint on the defendants. 
+
+42 
+
+ITEM 1A. RISK FACTORS. 
+
+Except as set forth below,
+there have been no material changes to the risk factors described under the caption Risk Factors in our Annual Report on
+Form 10-K for the year ended December 31, 2023. You should carefully consider the risks, uncertainties and cautionary statements described
+therein, together with the other disclosures in this Quarterly Report on Form 10-Q and in our other public filings with the SEC. Any such
+risks and uncertainties, as well as risks and uncertainties not currently known to us or that we currently deem to be immaterial, may
+materially adversely affect our business, financial condition and operating results. 
+
+Risks Relating to Our Business 
+
+We have offered and intend to continue to
+offer incentives, including economic incentives, to content creators to join our platform, and these arrangements may involve fixed payment
+obligations that are not contingent on actual revenue or performance metrics generated by the applicable content creator but rather are
+based on our modeled financial projections for that creator, which if not satisfied may adversely impact our financial performance, results
+of operations and liquidity. 
+
+Our user base and user engagement
+growth are directly driven by the content available on our platform. We have acquired and expect to continue to acquire content by providing
+economic incentives, including minimum guaranteed earnings, to a limited number of content creators, including sports leagues. These incentives
+have included and may continue to include equity grants and cash payments. This content acquisition strategy is intended to allow us to
+enter key content verticals and secure top content creators in those verticals before we have full monetization capabilities in place.
+Our present focus is to grow users and usage consumption and experiment with monetization levers, which may not maximize profitability
+in the immediate term, but which we believe positions our business for the long term. As of September 30, 2024, we had entered into programming
+and content agreements with a minimum contractual cash commitment of 38 million. In addition to the minimum contractual cash commitments,
+we have programming and content agreements that have variable cost arrangements. These future costs are dependent upon many factors and
+are difficult to anticipate, however, these costs may be substantial. To the extent our revenue and/or user growth assumptions associated
+with any particular creator do not meet our expectations, our financial performance, results of operations and liquidity may be negative
+impacted, since a failure to achieve these expectations is not expected to reduce our fixed payment obligations to any such creator. 
+
+In addition, when these programming
+and content agreements expire, content creators may choose to leave the Rumble video platform in favor of competing platforms, especially
+if competing platforms offer superior monetization opportunities. Creators may choose to leave our platform for other monetization-related
+reasons. For example, we currently do not apportion revenues related to Rumble Premium, our subscription service that provides users ad-free
+access to our content, among content creators. The loss of a material portion of our existing content creators could result in reductions
+to our user base and material harm to our business and results of operations. 
+
+Our recently launched cloud services business
+may not achieve success, and, as a result, our business, financial condition and results of operations could be adversely affected. 
+
+Our recent expansion into
+the cloud service business may not be successful and involves various risks relating to this business that may negatively affect our operating
+results, including: 
+
+our ability to derive an optimal pricing model that enables us to derive sufficient value from our customers
+while attracting new customers and retaining existing customers; 
+
+our reliance on third-party providers for data center space and colocation services and on public cloud
+providers to prevent service disruptions; 
+
+the intense competition that we face, including from companies with longer operating histories, greater
+name recognition, larger customer bases and significantly greater financial, technical, sales, marketing and other resources than we have; 
+
+our ability to attract and retain highly qualified personnel, particularly software and cloud engineers
+and sales and customer experience personnel; 
+
+the possibility that we may be unable to maintain and improve our platform performance, especially during
+peak usage times; 
+
+43 
+
+the possibility that we may underestimate or overestimate our data center capacity requirements and our
+capital expenditures on data centers, servers and equipment; 
+
+our ability to obtain or retain standard industry security certifications for our platform and products; 
+
+our exposure to possible liability and harm to our reputation if the security of our cloud is breached,
+resulting in the exposure of our customers data, including personal information, to cyber criminals and other nefarious actors; 
+
+the possibility that we may be unable to maintain the compatibility of our platform with third-party applications
+that our customers use in their businesses; and 
+
+our ability to respond to rapid technological changes with new solutions and services offerings. 
+
+The occurrence of any of these
+factors, or our inability to successfully mitigate the results of the associated impact, could also damage our reputation, negatively
+impact our relationship with our customers, and otherwise materially harm our business, results of operations, and financial condition. 
+
+Risks related to our e-commerce business may result in our broader
+business, financial condition and results of operations being adversely affected. 
+
+We recently launched partnerships through which
+we sell Rumble-branded products through our online store, and we plan to expand such product partnerships in the future. This expansion
+involves various risks that may negatively affect our operating results, including: 
+
+expansion into new brands, products, services, and technologies will subject us to additional reputational, business, legal, regulatory
+and financial risks; 
+
+inability to build and maintain strong brands, including due to unfavorable customer feedback and negative publicity; 
+
+notwithstanding agreements by our partners to assume liability for the Rumble-branded products they place in our online store, we
+may be subject to product liability and similar claims and regulatory actions if products sold through our store result in harm, personal
+injury, death, or environmental or property damage; 
+
+risks related to additional tax liabilities and collection obligations; 
+
+market competition could adversely affect prices and demand for the Rumble-branded products we distribute; 
+
+disruptions in our supply chain and other factors affecting the availability and distribution of our products could adversely impact
+our business; and 
+
+risks related to online transactions and payment methods. 
+
+The occurrence of any of these factors, or our
+inability to successfully mitigate the results of the associated impact, could also damage our reputation, negatively impact our relationships
+with our customers, and otherwise materially harm our business, results of operations, and financial condition. 
+
+We derive the majority of our revenue from advertising. The failure
+to attract new advertisers, the loss of existing advertisers, or the reduction of or failure by existing advertisers to maintain or increase
+their advertising budgets may adversely affect our business and operating results. 
+
+For the years ended December
+31, 2023 and 2022, advertising revenue represents 74 and 79 of total revenue. In addition, a substantial portion of our revenue is derived
+one advertiser accounting for approximately 46 and 45 of our revenue for the years ended December 31, 2023 and 2022, respectively. As
+is common in our industry, our advertisers do not have long-term advertising commitments with us. In addition, many of our advertisers
+purchase advertising services through one of several large advertising agency holding companies. Our revenue could be harmed by the loss
+of, or a deterioration in our relationship with, any of our largest advertisers or with any advertising agencies or the holding companies
+that control them. Advertising agencies and potential new advertisers may view our advertising products and services as experimental and
+unproven, and we may need to devote additional time and resources to educate them about our products and services. Advertisers may cease
+doing business with us, or they may reduce the prices they are willing to pay to advertise with us, if we do not deliver ads in an effective
+manner, or if they do not believe that their investment in advertising with us will generate a competitive return relative to alternatives,
+including online, mobile, and traditional advertising platforms. Advertisers may refuse to advertise on our platform due to a perceived
+risk to their brand safety standards, especially given the concentration of news and political content on our platform. We believe that
+our access to certain advertisers has been, and may continue to be, inhibited by the apparent political bias of these companies, some
+of whom we believe may exercise near monopolistic control over the advertising industry. In response, we recently filed an antitrust lawsuit
+alleging a conspiracy to withhold advertising revenue from Rumble and other digital media platforms. Our actions to counter these efforts,
+whether through litigation or publicity campaigns, may not be successful. Any of the foregoing developments may adversely affect our business
+and operating results. 
+
+44 
+
+Negative media campaigns may adversely impact
+our financial performance, results of operations, and relationships with our business partners, including content creators and advertisers. 
+
+Our commitment to diversity
+of opinion and refusal to censor content on our platforms has in the past resulted and is likely to continue to result in malicious media
+campaigns and advertiser boycotts directed against us. For example, in August 2024, we filed a lawsuit against the World Federation of
+Advertisers, as well as the advertising agency WPP and its subsidiary GroupM. Our lawsuit alleges that an initiative called the Global
+Alliance for Responsible Media (GARM), created by the WFA, established arbitrary standards for the content on digital platforms where
+its members may want to advertise. GARM used those one-size-fits-all standards to perpetrate an advertiser boycott against Rumble and
+other platforms. The suit also notes that GARM has vast reach since it counts the six largest ad agency holding companies among its members,
+including defendant WPP. We subsequently amended our complaint to add Diageo plc as a defendant. 
+
+Media campaigns and advertising
+boycotts against us may be intended to interfere with our relationships with streaming partners and advertisers, and these campaigns and
+boycotts may intensify if political polarization increases in the United States and Canada. 
+
+We expect that the proliferation
+of alternative media, including on our platform, will continue to be viewed as a growing competitive threat by established news organizations,
+and may result in an escalation, both in frequency and intensity, of negative publicity campaigns against us and our creators. Such campaigns,
+even if groundless in nature, may result in negative public perception and damage to relationships with our business partners, including
+additional or more intense advertiser boycotts, which may negatively impact our operating results and future growth potential. 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES
+AND USE OF PROCEEDS. 
+
+None. 
+
+Item 3.
+Defaults Upon Senior Securities. 
+
+Not applicable. 
+
+Item 4.
+Mine Safety DisclosureS. 
+
+Not applicable. 
+
+Item 5.
+Other Information. 
+
+. 
+
+45 
+
+ITEM 6. EXHIBITS. 
+
+The following exhibits are
+filed as part of, or incorporated by reference into, this Quarterly Report. 
+
+Exhibit No. 
+ 
+ Description 
+ 
+ 1.1 
+ 
+ Controlled Equity OfferingSM Sales Agreement, dated October 18, 2024, by and between Rumble Inc. and Cantor Fitzgerald Co. (incorporated by reference to Exhibit 1.2 to the Company s Registration on Form S-3 filed on October 18, 2024). 
+ 
+ 31.1 
+ 
+ Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as amended. 
+ 
+ 31.2 
+ 
+ Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as amended. 
+ 
+ 32.1 
+ 
+ Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 32.2 
+ 
+ Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 
+ 101.INS 
+ 
+ Inline XBRL Instance Document. 
+ 
+ 101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema Document. 
+ 
+ 101.CAL 
+ 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document. 
+ 
+ 101.DEF 
+ 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document. 
+ 
+ 101.LAB 
+ 
+ Inline XBRL Taxonomy Extension Label Linkbase Document. 
+ 
+ 101.PRE 
+ 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document. 
+ 
+ 104 
+ 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+
+Filed herewith 
+
+46 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+RUMBLE INC. 
+
+Date: November 12, 2024 
+ 
+ /s/ Chris Pavlovski 
+
+Name: 
+ Chris Pavlovski 
+
+Title: 
+ Chief Executive Officer and Chairman 
+
+Date: November 12, 2024 
+ 
+ /s/ Brandon Alexandroff 
+
+Name: 
+ Brandon Alexandroff 
+
+Title: 
+ Chief Financial Officer 
+
+47 
+
+<EX-31.1>
+ 2
+ ea022061001ex31-1_rumble.htm
+ CERTIFICATION
+
+Exhibit 31.1 
+
+CERTIFICATIONS 
+
+I, Chris Pavlovski, certify that: 
+
+1. 
+ I have reviewed this Quarterly Report on Form 10-Q of Rumble Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ 
+ The registrant s other certifying officer
+ and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+ and internal 
+ control over financial reporting (as defined in
+ Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 12, 2024 
+ /s/ Chris Pavlovski 
+
+Chris Pavlovski 
+
+Chief Executive Officer and Chairman 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ea022061001ex31-2_rumble.htm
+ CERTIFICATION
+
+Exhibit 31.2 
+
+CERTIFICATIONS 
+
+I, Brandon Alexandroff, certify that: 
+
+1. 
+ I have reviewed this Quarterly Report on Form 10-Q of Rumble Inc.; 
+
+2. 
+ Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+ Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+ 
+ The registrant s other certifying officer
+ and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e))
+ and internal 
+ control over financial reporting (as defined in
+ Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) 
+ Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) 
+ Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) 
+ Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) 
+ Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+ The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+ All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+ Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 12, 2024 
+ /s/ Brandon Alexandroff 
+
+Brandon Alexandroff 
+
+Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ea022061001ex32-1_rumble.htm
+ CERTIFICATION
+
+Exhibit 32.1 
+
+CERTIFICATION 
+
+In connection with the
+Quarterly Report on Form 10-Q of Rumble Inc. (the Company for the period ended September 30, 2024, as filed with
+the Securities and Exchange Commission on the date hereof (the Report ), Chris Pavlovski, Chief Executive Officer and Chairman
+of the Board of Directors of the Company, hereby certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that: 
+
+1. 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: November 12, 2024 
+ /s/ Chris Pavlovski 
+
+Chris Pavlovski 
+
+Chief Executive Officer and Chairman 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ea022061001ex32-2_rumble.htm
+ CERTIFICATION
+
+Exhibit 32.2 
+
+CERTIFICATION 
+
+In connection with the
+Quarterly Report on Form 10-Q of Rumble Inc. (the Company for the period ended September 30, 2024, as filed with
+the Securities and Exchange Commission on the date hereof (the Report ), Brandon Alexandroff, Chief Financial Officer of
+the Company, hereby certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, that: 
+
+1. 
+ The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+2. 
+ The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: November 12, 2024 
+ /s/ Brandon Alexandroff 
+
+Brandon Alexandroff 
+
+Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 8
+ rum-20240930.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ rum-20240930_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ rum-20240930_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ rum-20240930_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ rum-20240930_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

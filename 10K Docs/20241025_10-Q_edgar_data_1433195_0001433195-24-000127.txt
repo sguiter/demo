@@ -1,0 +1,615 @@
+<Header>
+<FileStats>
+    <FileName>20241025_10-Q_edgar_data_1433195_0001433195-24-000127.txt</FileName>
+    <GrossFileSize>5602247</GrossFileSize>
+    <NetFileSize>66436</NetFileSize>
+    <NonText_DocumentType_Chars>1001708</NonText_DocumentType_Chars>
+    <HTML_Chars>2035393</HTML_Chars>
+    <XBRL_Chars>1255764</XBRL_Chars>
+    <XML_Chars>1135454</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001433195-24-000127.hdr.sgml : 20241025
+<ACCEPTANCE-DATETIME>20241024205418
+ACCESSION NUMBER:		0001433195-24-000127
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		75
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241025
+DATE AS OF CHANGE:		20241024
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			APPFOLIO INC
+		CENTRAL INDEX KEY:			0001433195
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				260359894
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37468
+		FILM NUMBER:		241393866
+
+	BUSINESS ADDRESS:	
+		STREET 1:		70 CASTILIAN DRIVE
+		CITY:			SANTA BARBARA
+		STATE:			CA
+		ZIP:			93117
+		BUSINESS PHONE:		8053646047
+
+	MAIL ADDRESS:	
+		STREET 1:		70 CASTILIAN DRIVE
+		CITY:			SANTA BARBARA
+		STATE:			CA
+		ZIP:			93117
+
+</SEC-Header>
+</Header>
+
+ 0001433195-24-000127.txt : 20241025
+
+10-Q
+ 1
+ appf-20240930.htm
+ 10-Q
+
+appf-20240930 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ (Mark one) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended . 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from ________ to ________. 
+ 
+ Commission File Number 
+ 
+ (Exact name of registrant as specified in its charter) 
+ (State of incorporation or organization) (I.R.S. Employer Identification No.) (Address of principal executive offices) (Zip Code) 
+ ) 
+ (Registrant s telephone number, including area code) 
+ N/A 
+ (Former name, former address and former fiscal year, if changed since last report) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+ 
+ Accelerated filer 
+ Non-accelerated filer 
+ Smaller reporting company 
+ Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ 
+ As of October 17, 2024, the number of shares of the registrant s Class A common stock outstanding was and the number of shares of the registrant s Class B common stock outstanding was . 
+
+Table of Contents 
+
+ TABLE OF CONTENTS 
+ 
+ Page No. Forward-Looking Statements 
+ 1 
+ Part I. Financial Information 
+ 2 
+ Item 1. Condensed Consolidated Financial Statements (Unaudited) 
+ 2 
+ Condensed Consolidated Balance Sheets as of September 30, 2024 and December 31, 2023 
+ 3 
+ Condensed Consolidated Statements of Operations for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 4 
+ Condensed Consolidated Statements of Comprehensive Income (Loss) for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 5 
+ Condensed Consolidated Statements of Stockholders' Equity for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 6 
+ Condensed Consolidated Statements of Cash Flows for the Nine Months Ended Se ptember 30, 2024 and 2023 
+ 8 
+ Notes to Condensed Consolidated Unaudited Financial Statements 
+ 9 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 18 
+ Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+ 24 
+ Item 4. Controls and Procedures 
+ 24 
+ Part II. Other Information 
+ 25 
+ Item 1. Legal Proceedings 
+ 25 
+ Item 1A. Risk Factors 
+ 25 
+ Item 5. Other Information 
+ 25 
+ Item 6. Exhibits 
+ 25 
+ Signatures 
+
+Table of Contents 
+
+ FORWARD-LOOKING STATEMENTS 
+ 
+ This Quarterly Report on Form 10-Q for the fiscal quarter ended September 30, 2024 (this "Quarterly Report"), contains forward-looking statements within the meaning of the federal securities laws, including the Private Securities Litigation Reform Act of 1995 (the PSLRA ), which statements involve substantial risks and uncertainties. The forward-looking statements made in this Quarterly Report are intended to qualify for the protection of the safe harbor provided by the PSLRA and are based primarily on our current expectations and projections about future events and trends that we believe may affect our business, financial condition, operating results, cash flows and/or prospects. Forward-looking statements include all statements that are not statements of historical fact. Forward-looking statements can also be identified by words such as may, will, should, might, expects, plans, anticipates, could, intends, target, projects, contemplates, believes, estimates, predicts, potential, future, or continue, or the negative of these words or other similar terms or expressions. Examples of forward-looking statements include, among others, statements regarding changes in the competitive environment, responding to customer needs, research and product development plans, future products and services, growth in the size of our business and number of customers, strategic plans and objectives, business forecasts and plans, our future or assumed financial condition, results of operations and liquidity, trends affecting our business and industry, capital needs and financing plans, capital resource allocation plans, share repurchase plans, and commitments and contingencies, including with respect to the outcome of legal proceedings or regulatory matters. We cannot assure you that the results, events, and circumstances reflected in the forward-looking statements will be achieved or occur, and actual results, events, or circumstances could differ materially from those described in the forward-looking statements. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties, and other factors, including those risks, uncertainties and other factors described in the section entitled "Management's Discussion and Analysis of Financial Condition and Results of Operations" in this Quarterly Report and "Risk Factors" in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 (our "Annual Report"), as well as in the other reports we file with the Securities and Exchange Commission (the "SEC"). You should read this Quarterly Report, and the other documents we file with the SEC, with the understanding that our actual future results may be materially different from the results expressed or implied by these forward-looking statements. As such, you should not rely upon forward-looking statements as predictions of future events. Any forward-looking statement made by us in this Quarterly Report is based only on information currently available to us and speaks only as of the date on which it is made. We undertake no obligation to update any forward-looking statements made in this Quarterly Report to reflect events or circumstances after the date of this Quarterly Report or to reflect new information or the occurrence of unanticipated events, except as required by law. 
+
+1 
+
+Table of Contents 
+
+ PART I. FINANCIAL INFORMATION 
+ Item 1. Condensed Consolidated Financial Statements 
+ 2 
+
+Table of Contents 
+
+ APPFOLIO, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (UNAUDITED) 
+ (in thousands) 
+ September 30, 2024 December 31, 2023 Assets Current assets Cash and cash equivalents Investment securities current Accounts receivable, net Prepaid expenses and other current assets Total current assets Property and equipment, net Operating lease right-of-use assets Capitalized software development costs, net Goodwill Other long-term assets Total assets Liabilities and Stockholders Equity Current liabilities Accounts payable Accrued employee expenses Accrued expenses Other current liabilities Total current liabilities Operating lease liabilities Other liabilities Total liabilities Commitments and contingencies (Note 8) Class B common stock Additional paid-in capital Accumulated other comprehensive Income (loss) Treasury stock ) ) Retained earnings Total stockholders equity Total liabilities and stockholders equity 
+ The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+ 3 
+
+Table of Contents 
+
+ APPFOLIO, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (UNAUDITED) 
+ (in thousands, except per share amounts) 
+
+Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenue Costs and operating expenses: Cost of revenue (exclusive of depreciation and amortization) (1) 
+ Sales and marketing (1) 
+ Research and product development (1) 
+ General and administrative (1) 
+ Depreciation and amortization Total costs and operating expenses Income (loss) from operations ) ) Other income (loss), net ) ) Interest income, net Income (loss) before provision for income taxes ) Provision for (benefit from) income taxes ) Net income (loss) ) Net income (loss) per common share: Basic ) Diluted ) Weighted average common shares outstanding: Basic Diluted 
+ (1) 
+ Sales and marketing Research and product development General and administrative Total stock-based compensation expense 
+ 
+ The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+ 
+ 4 
+
+Table of Contents 
+
+APPFOLIO, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) 
+ (UNAUDITED) 
+ (in thousands) 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net income (loss) ) Other comprehensive income: Changes in unrealized gains on investment securities, net of tax Comprehensive income (loss) ) 
+ The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+ 
+ 5 
+
+Table of Contents 
+
+APPFOLIO, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY 
+ (UNAUDITED) 
+ (in thousands) 
+ Accumulated Additional Other Common Stock Common Stock Paid-in Comprehensive Treasury Retained Class A Class B Capital Income (Loss) 
+ Stock Earnings Total Shares Amount Shares Amount Balance at December 31, 2023 ) Exercise of stock options Stock-based compensation Vesting of restricted stock units, net of shares withheld for taxes ) ) Conversion of Class B common stock to Class A common stock ) Other comprehensive loss ) ) Net Income Balance at March 31, 2024 ) ) Exercise of stock options Stock based compensation Vesting of restricted stock units, net of shares withheld for taxes ) ) Conversion of Class B common stock to Class A common stock ) Other comprehensive loss ) ) Net Income Balance at June 30, 2024 ) ) Exercise of stock options Stock based compensation Vesting of restricted stock units, net of shares withheld for taxes ) ) Conversion of Class B common stock to Class A common stock ) Other comprehensive income Net Income Balance at September 30, 2024 ) 
+ The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+
+6 
+
+Table of Contents 
+
+ Accumulated Additional Other Common Stock Common Stock Paid-in Comprehensive Treasury Retained Class A Class B Capital Income (Loss) 
+ Stock Earnings Total Shares Amount Shares Amount Balance at December 31, 2022 ) ) Exercise of stock options Stock-based compensation Vesting of restricted stock units, net of shares withheld for taxes ) ) Conversion of Class B common stock to Class A common stock ) Issuance of restricted stock awards Other comprehensive income Net loss ) ) Balance at March 31, 2023 ) ) Exercise of stock options Stock-based compensation Vesting of restricted stock units, net of shares withheld for taxes ) ) Issuance of restricted stock awards Other comprehensive income Net loss ) ) Balance at June 30, 2023 ) ) Exercise of stock options Stock-based compensation Vesting of restricted stock units, net of shares withheld for taxes ) ) Conversion of Class B common stock to Class A common stock ) Other comprehensive income Net income Balance at September 30, 2023 ) ) 
+ The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+ 
+ 7 
+
+Table of Contents 
+
+ APPFOLIO, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (UNAUDITED) 
+ (in thousands) 
+ Nine Months Ended September 30, 2024 2023 Cash from operating activities Net Income (loss) 
+ ) Adjustments to reconcile net income (loss) to net cash provided by operating activities: Depreciation and amortization Amortization of operating lease right-of-use assets Gain on lease modification ) Stock-based compensation, including as amortized Other ) ) Changes in operating assets and liabilities: Accounts receivable ) ) Prepaid expenses and other current assets ) Accounts payable ) ) Operating lease liabilities ) ) Accrued expenses and other liabilities Net cash provided by operating activities Cash from investing activities Purchases of available-for-sale investments ) ) Proceeds from sales of available-for-sale investments Proceeds from maturities of available-for-sale investments Purchases of property and equipment ) ) Capitalization of software development costs ) ) Proceeds from sale of business, net of cash divested Net cash used in investing activities ) ) Cash from financing activities Proceeds from stock option exercises Tax withholding for net share settlement ) ) Net cash used in financing activities ) ) Net increase (decrease) in cash, cash equivalents and restricted cash ) Cash, cash equivalents and restricted cash Beginning of period End of period Cash, cash equivalents and restricted cash at end of period: Cash and cash equivalents Restricted cash included in prepaid expenses and other current assets 
+ Total cash, cash equivalents and restricted cash shown in the consolidated statements of cash flows Supplemental disclosure of cash flow information Cash paid for amounts included in the measurement of lease liabilities included in operating cash flows 
+ The accompanying Notes to Condensed Consolidated Financial Statements are an integral part of these statements. 
+ 8 
+
+Table of Contents 
+
+ APPFOLIO, INC. 
+ NOTES TO CONDENSED CONSOLIDATED UNAUDITED FINANCIAL STATEMENTS 
+ 
+ 1. 
+ 
+ 2. 
+ The operating results for the three and nine months ended September 30, 2024 are not necessarily indicative of the results expected for the full year ending December 31, 2024. 
+
+9 
+
+Table of Contents 
+
+) Less: undistributed earnings to participating securities Net income (loss) attributable to common stockholders ) Denominator Weighted average common shares outstanding Less: Weighted average unvested restricted shares subject to repurchase Weighted average common shares outstanding; basic Net income (loss) per common share; basic ) Diluted net income (loss) per share: Numerator Net income (loss) attributable to common stockholders ) Denominator Weighted average common shares outstanding; basic Add: Weighted average dilutive options outstanding Add: Weighted average dilutive RSUs outstanding Weighted average common shares outstanding; diluted Net income (loss) per common share; diluted ) 
+ Options Restricted Stock Units Total potentially dilutive securities 
+ 
+ 10 
+
+Table of Contents 
+
+ 3. 
+ ) Total available-for-sale investment securities ) 
+ December 31, 2023 Amortized Cost Gross Unrealized Gains Gross Unrealized Losses Estimated Fair Value U.S. government and agency securities ) Total available-for-sale investment securities ) 
+ As of September 30, 2024, the decline in fair value below amortized cost basis was not considered other than temporary as it is more likely than not we will hold the securities until maturity or recovery of the cost basis. allowance for credit losses for available-for-sale investment securities was recorded as of September 30, 2024 or December 31, 2023. 
+ Total available-for-sale investment securities 
+ Total 
+ Nine Months Ended September 30, 2023 Gross Realized Gains Gross Realized Losses Gross Proceeds from Sales Gross Proceeds from Maturities Corporate bonds U.S. government and agency securities Total 
+ The tables above do not include our non-marketable debt securities of million, which are recorded in Other long term assets in the Condensed Consolidated Balance Sheet as of September 30, 2024. 
+ Fair Value Measurements 
+ Recurring Fair Value Measurements 
+ 11 
+
+Table of Contents 
+
+ Available-for-sale investment securities: U.S. government and agency securities Total 
+ December 31, 2023 Level 1 Level 2 Total Fair Value Cash equivalents: Money market funds Available-for-sale investment securities: U.S. government and agency securities Total 
+ The carrying amounts of cash and cash equivalents, restricted cash, accounts receivable, accounts payable and accrued liabilities approximate their fair value because of the short maturity of these items. 
+ Fair value for our Level 1 investment securities is based on market prices for identical assets. Our Level 2 securities were priced by a pricing vendor. The pricing vendor utilizes the most recent observable market information in pricing these securities or, if specific prices are not available for these securities, other observable inputs like market transactions involving comparable securities are used. 
+ 
+ 4. 
+ Less: Accumulated amortization ) ) Capitalized software development costs, net 
+ Capitalized software development costs were million and million for the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. Amortization expense with respect to capitalized software development costs totaled million and million for the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. We disposed of fully amortized capitalized software development costs of million and million, during the three months ended September 30, 2024 and 2023, respectively, and million and million, during the nine months ended September 30, 2024 and 2023, respectively. 
+ 2025 2026 2027 Total amortization expense 
+ 12 
+
+Table of Contents 
+
+ 5. 
+ Accrued bonuses Accrued payroll, severance and related personnel cost Total accrued employee expenses 
+ In the third quarter of 2023, we accrued million of severance and related personnel costs associated with our workforce reduction. Refer to Note 12, Workforce Reduction for additional information. 
+
+6. 
+ Operating lease liabilities-current Other Total other current liabilities 
+ For additional information, refer to Note 8, Commitments and Contingencies and Note 7, Leases. 
+ 
+ 7. 
+ to , some of which include options to extend the leases for up to . These options to extend have not been recognized as part of our operating lease right-of-use assets and lease liabilities as it is not reasonably certain that we will exercise these options. Our lease agreements do not contain any residual value guarantees or material restrictive covenants. Certain leases contain provisions for property-related costs that are variable in nature for which we are responsible, including common area maintenance, which are expensed as incurred. 
+ Variable lease cost Total lease cost 
+ 13 
+
+Table of Contents 
+
+Liabilities Other current liabilities Operating lease liabilities Total lease liabilities 
+ In January 2023, we entered into an amendment to the lease agreement for our San Diego facility. We remeasured the lease liability and recorded a reduction to the lease liability and right-of-use asset using the discount rate at the modification date, which resulted in a gain of million in the Condensed Consolidated Statements of Operations. 
+ In June 2023, we entered into a second amendment to reduce the rentable square footage and our future rental payment obligations under the San Diego Lease pursuant to which we made a one-time payment of million. We again remeasured the lease liability and recorded a reduction to the lease liability using the discount rate at the modification date. As a result, we recorded a gain of million in the Consolidated Statements of Operations. 
+ In July 2023, we entered into an agreement to sublet one of our office spaces in Santa Barbara through December 31, 2031 (the "Santa Barbara 90 Sublease"). The total rental commitment over the term of the Santa Barbara 90 Sublease is million. We performed impairment testing in accordance with ASC 360, and impairment related to the right-of-use assets was recorded for the three months ended September 30, 2023. 
+ 2025 2026 2027 2028 Thereafter Total future minimum lease payments Less: imputed interest ) Total 
+ 
+ 8. 
+ quota share of the liability to landlord insurance policies placed with our customers by our third-party service provider. We accrue for reported claims, and include an estimate of losses incurred but not reported by our property manager customers, in cost of revenue because we bear the risk related to all such claims. Our estimated liability for reported claims and incurred but not reported claims as of September 30, 2024 and December 31, 2023 was million and million, respectively, and is included in Other current liabilities on our Condensed Consolidated Balance Sheets. 
+ Included in Prepaid expenses and other current assets as of September 30, 2024 and December 31, 2023 are million and million, respectively, of deposits held with a third party related to requirements to maintain collateral for this insurance service. 
+ 14 
+
+Table of Contents 
+
+9. 
+ Options exercised ) Options cancelled/forfeited ) Options outstanding as of September 30, 2024 
+ Our stock-based compensation expense for stock options were not material for the periods presented. 
+ As of September 30, 2024, the total estimated remaining stock-based compensation expense for the aforementioned stock options was million, which is expected to be recognized over a weighted average period of years. 
+ 15 
+
+Table of Contents 
+
+ Granted Vested ) Forfeited ) Unvested as of September 30, 2024 
+ Unvested RSUs as of September 30, 2024 were composed of million RSUs with only service conditions and million performance share units ("PSUs") with both service conditions and performance conditions. RSUs granted with only service conditions generally vest over a period, assuming continued employment through the applicable vesting date. The number of PSUs granted, as included in the above table, assumes achievement of the performance metric at of the performance target. The unvested PSUs as of September 30, 2024, are subject to vesting based on the achievement of pre-established performance metrics for the year ending December 31, 2024 and will vest over a period, assuming continued employment through each vesting date. The actual number of shares to be issued at the end of the performance period will range from to of the target number of shares depending on achievement relative to the performance metric over the applicable period. 
+ We recognized stock-based compensation expense for the RSUs and PSUs of million and million for the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. As of September 30, 2024, the total estimated remaining stock-based compensation expense for the aforementioned RSUs and PSUs was million, which is expected to be recognized over a weighted average period of years. 
+ 
+ 10. 
+ 
+ million and million, respectively, representing an effective tax rate of and , respectively. For the three months ended September 30, 2024, our effective tax rate differs from the U.S. federal statutory rate of 21 primarily due to the change in valuation allowance against deferred tax assets, state income taxes and non-deductible officers' compensation partially offset by excess tax benefits from stock-based compensation. For the nine months ended September 30, 2024, our effective tax rate differs from the U.S. federal statutory rate of 21 primarily due to excess tax benefits from stock-based compensation. 
+ 
+ We assess our ability to realize our deferred tax assets on a quarterly basis and we establish a valuation allowance if it is more-likely-than-not that some portion of the deferred tax assets will not be realized. We weigh all available positive and negative evidence, including our earnings history and results of recent operations, scheduled reversals of deferred tax liabilities, projected future taxable income and tax planning strategies. Due to a history of cumulative losses, including permanent adjustments, and assessing all available positive and negative evidence, we have determined that it is more likely than not that our federal and state deferred tax assets would not be realized. Accordingly, we have been maintaining full valuation allowance against our deferred tax assets. However, based on our current and projected future earnings, we believe that there is reasonable possibility that sufficient positive evidence of sustained profitability may be achieved during the current year to reach a conclusion that part or all of our deferred tax assets may become realizable, resulting in a possible release of all or a portion of the valuation allowance. Such valuation allowance release may result in a material increase to our deferred tax assets and a corresponding decrease in income tax expense. The exact timing and amount of the valuation allowance release are subject to our projection of earnings and level of profitability. 
+ 16 
+
+Table of Contents 
+
+11. 
+ Value Added Services Other Total revenue 
+ Our revenue is generated primarily from customers in the United States. All of our property and equipment is located in the United States. 
+ 
+ 12. 
+ employees in order to scale the business more efficiently. Impacted employees were notified in August 2023. There were workforce reductions during the three and nine months ended September 30, 2024. 
+ Sales and marketing Research and product development General and administrative Total (1) 
+ 
+ million of accelerated stock-based compensation expense recognized during the three months ended September 30, 2023. 
+ Severance and related personnel cost Cash Payments ) Balance as of September 30, 2023 
+ For the balance as of September 30, 2023, million of accrued severance was paid in the fourth quarter of 2023, and the remainder was paid in 2024. 
+ 
+ 13. 
+ 
+ million in cash, subject to customary adjustment. 
+ 17 
+
+Table of Contents 
+
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following discussion and analysis of our financial condition, results of operations and liquidity should be read together with our Condensed Consolidated Financial Statements and the related notes included elsewhere in this Quarterly Report and in our Annual Report. 
+ 
+ Overview 
+ We are a technology leader powering the future of the real estate industry. Our solutions are designed to enable our property manager customers to digitally transform their businesses, address critical business operations and deliver a better customer experience. Our products assist our customers with an interconnected and growing network of stakeholders in their business ecosystems, including property owners, real estate investment managers, rental prospects, residents, and service providers, and provide key functionality related to critical transactions across the real estate lifecycle, including screening potential tenants, sending and receiving payments and risk mitigation services. AppFolio s intuitive interface, coupled with streamlined and automated workflows, make it easier for our customers to eliminate redundant and manual processes so they can deliver a great experience for their network of stakeholders while improving financial and operational performance. 
+ We rely heavily on our talented team of employees to execute our growth plans and achieve our long-term strategic objectives. We believe our people are at the heart of our success and our customers' success, and we have worked hard not only to attract and retain talented individuals, but also to provide a challenging and rewarding work environment to motivate and develop our valuable human capital. As we navigate the challenges of increased competition for talent, we continue to evolve our compensation and employee reward practices. 
+ Property management units under management . We believe that our ability to increase our number of property management units under management is an indicator of our market penetration, growth, and potential future business opportunities. We define property management units under management as active or committed units under management at the period end date. We had 8.5 million and 7.8 million property management units under management as of September 30, 2024 and 2023, respectively. 
+
+Key Components of Results of Operations 
+ Revenue 
+ Our core solutions and certain of our Value Added Services are offered on a subscription basis. Our core solutions subscription fees vary by property type and are designed to scale with the size of our customers businesses. We recognize revenue for subscription-based services on a straight-line basis over the contract term beginning on the date that our service is made available. We generally invoice monthly or, to a lesser extent, annually in advance of the subscription period. 
+ We also offer certain Value Added Services, which are not covered by our subscription fees, on a per-use basis. Usage-based fees are charged either as a percentage of the transaction amount (e.g., for certain of our payment services) or on a flat fee per transaction basis with no minimum usage commitments (e.g., for our tenant screening and risk mitigation services). We recognize revenue for usage-based services in the period the service is rendered. Our payments services fees are recorded gross of the interchange and payment processing related fees. We generally invoice our usage-based services on a monthly basis or collect the fee at the time of service. A significant majority of our Value Added Services revenue comes from the use of our payment services, tenant screening services, and risk mitigation services. 
+ In addition, we charge our customers for assistance onboarding onto our core solutions and for certain other non-recurring services. We generally invoice for these other services in advance of the services being completed and recognize revenue in the period the service is rendered. We generate revenue from the legacy customers of previously acquired businesses by providing services outside of our property management core solution platform. Revenue derived from these services is recorded in Other revenue. As of September 30, 2024 and 2023, we had 20,403 and 19,418 property management customers, respectively. 
+ 18 
+
+Table of Contents 
+
+ Costs and Operating Expenses 
+ Cost of Revenue (Exclusive of Depreciation and Amortization). Many of our Value Added Services are facilitated by third-party service providers. Cost of revenue paid to these third-party service providers includes the cost of electronic interchange and payment processing-related services to support our payments services, the cost of credit reporting services for our tenant screening services, and various costs associated with our risk mitigation service providers. These third-party costs vary both in amount and as a percent of revenue for each Value Added Service offering. Cost of revenue also includes personnel-related costs for our employees focused on customer service and the support of our operations (including salaries, performance-based compensation, benefits, and stock-based compensation), platform infrastructure costs (such as data center operations and hosting-related costs), and allocated shared and other costs. Cost of revenue excludes depreciation of property and equipment, amortization of capitalized software development costs and amortization of intangible assets. 
+ Sales and Marketing. Sales and marketing expense consists of personnel-related costs for our employees focused on sales and marketing (including salaries, sales commissions, performance-based compensation, benefits, and stock-based compensation), costs associated with sales and marketing activities, and allocated shared and other costs. Marketing activities include advertising, online lead generation, lead nurturing, customer and industry events, and the creation of industry-related content and collateral. We focus our sales and marketing efforts on generating awareness of our software solutions, creating sales leads, establishing and promoting our brands, and cultivating an educated community of successful and vocal customers. 
+ Research and Product Development. Research and product development expense consists of personnel-related costs for our employees focused on research and product development (including salaries, performance-based compensation, benefits, and stock-based compensation), fees for third-party development resources, and allocated shared and other costs. Our research and product development efforts are focused on expanding functionality and the ease of use of our existing software solutions by adding new core functionality, Value Added Services and other improvements, as well as developing new products and services. We capitalize our software development costs that meet the criteria for capitalization. Amortization of capitalized software development costs is included in depreciation and amortization expense. 
+ General and Administrative. General and administrative expense consists of personnel-related costs for employees in our executive, finance, information technology, human resources, legal, compliance, and administrative organizations (including salaries, performance-based compensation, benefits, and stock-based compensation). In addition, general and administrative expense includes fees for third-party professional services (including audit, legal, compliance, and tax services), regulatory fees, other corporate expenses, impairment of long-lived assets, gains on lease modifications, and allocated shared and other costs. 
+ Depreciation and Amortization. Depreciation and amortization expense includes depreciation of property and equipment, amortization of capitalized software development costs, and amortization of intangible assets. We depreciate or amortize property and equipment, software development costs, and intangible assets over their expected useful lives on a straight-line basis, which approximates the pattern in which the economic benefits of the assets are consumed. 
+ Other Income (Loss), Net. Other income (loss), net includes gains and losses associated with the sale of businesses and property and equipment. 
+ Interest Income, Net. Interest income, net includes interest earned on investment securities, amortization and accretion of the premium and discounts paid from the purchase of investment securities, and interest earned on cash deposited in our bank accounts. 
+ Provision for (benefit from) income taxes. Provision for (benefit from) income taxes consists of federal and state income taxes in the United States. 
+ 19 
+
+Table of Contents 
+
+ Results of Operations 
+ 
+ Revenue 
+ Three Months Ended September 30, Change Nine Months Ended September 30, Change 2024 2023 Amount 2024 2023 Amount (dollars in thousands) Core solutions 46,030 39,756 6,274 16 132,974 115,440 17,534 15 Value Added Services 157,726 123,188 34,538 28 451,677 326,108 125,569 39 Other 1,977 2,496 (519) (21) 5,887 7,067 (1,180) (17) Total revenue 205,733 165,440 40,293 24 590,538 448,615 141,923 32 
+ 
+ The increase in revenue for the three and nine months ended September 30, 2024, compared to the same period in the prior year, was primarily attributable to an increase in the usage of our payments, tenant screening, and risk mitigation services. During the three and nine- month periods ended September 30, 2024, we also experienced growth of 9 in the number of property management units under management compared to the same periods in the prior year, which drove growth in users of our subscription and usage-based services. 
+ Our payment services experienced increased usage during the comparative periods as residents and property managers transacted more business online. 
+ We expect total revenue for the year ending December 31, 2024 to increase compared to the year ended December 31, 2023 as we continue to add new customers and property management units under management, along with increased adoption and utilization of our Value Added Services. 
+ 
+ Cost of Revenue (Exclusive of Depreciation and Amortization) 
+ Three Months Ended September 30, Change Nine Months Ended September 30, Change 2024 2023 Amount 2024 2023 Amount (dollars in thousands) Cost of revenue (exclusive of depreciation and amortization) 71,631 62,739 8,892 14 205,878 176,801 29,077 16 Percentage of revenue 34.8 37.9 34.9 39.4 Stock-based compensation, included above 1,126 1,149 (23) (2) 3,261 2,905 356 12 Percentage of revenue 0.5 0.7 0.6 0.6 
+ 
+ For the three and nine months ended September 30, 2024, the cost of revenue (exclusive of depreciation and amortization) increased, primarily due to higher expenditures related to third-party service providers for delivering our Value Added Services, which increased by 10.4 million and 30.6 million, respectively, compared to the same period in the prior year. The increases in expenditures related to third-party service providers were (1) driven by greater adoption and utilization of our Value Added Services and (2) partially offset by decreases of 2.5 million and 2.8 million for the three and nine months ended September 30, 2024, respectively, in personnel-related costs, including stock-based and performance-based compensation. The decreases included 2.4 million in severance and related personnel costs we incurred from the workforce reduction in the third quarter of 2023. 
+ We expect cost of revenue (exclusive of depreciation and amortization) for the year ending December 31, 2024, to decrease as a percentage of revenue compared to the year ended December 31, 2023, primarily due to increased revenue from eCheck transaction fees, product mix, and continued leverage from headcount efficiencies. 
+ 20 
+
+Table of Contents 
+
+ Sales and Marketing 
+ Three Months Ended September 30, Change Nine Months Ended September 30, Change 2024 2023 Amount 2024 2023 Amount (dollars in thousands) Sales and marketing 25,406 29,701 (4,295) (14) 77,161 86,101 (8,940) (10) Percentage of revenue 12.3 18.0 13.1 19.2 Stock-based compensation, included above 2,071 2,041 30 1 5,284 4,902 382 8 Percentage of revenue 1.0 1.2 0.9 1.1 
+ Sales and marketing expense for the three and nine months ended September 30, 2024 decreased, compared to the same period in the prior year, primarily due to reductions of 3.7 million and 7.2 million, respectively, in personnel-related costs, including stock-based and performance-based compensation. The reductions were driven by reduced headcount and 3.8 million in severance and related personnel costs we incurred from the workforce reduction in the third quarter of 2023. 
+ We expect sales and marketing expense for the year ending December 31, 2024 to decrease as a percentage of revenue compared to the year ended December 31, 2023, as we continue to leverage headcount efficiencies. 
+ Research and Product Development 
+ Three Months Ended September 30, Change Nine Months Ended September 30, Change 2024 2023 Amount 2024 2023 Amount (dollars in thousands) Research and product development 40,662 41,592 (930) (2) 118,079 116,517 1,562 1 Percentage of revenue 19.8 25.1 20.0 26.0 Stock-based compensation, included above 7,471 6,064 1,407 23 19,625 15,851 3,774 24 Percentage of revenue 3.6 3.7 3.3 3.5 
+ Research and product development expense decreased slightly for the three months ended September 30, 2024, compared to the same period in the prior year, primarily due to a 1.5M reduction in personnel-related costs, including stock-based and performance-based compensation. This included 3.4 million in severance and related personnel costs we incurred from the workforce reduction in the third quarter of 2023. 
+ Research and product development expense increased for the nine months ended September 30, 2024, compared to the same period in the prior year, primarily due to a 3.2 million increase in allocated shared and other costs, driven by higher technology costs. This increase in allocated shared and other costs was partially offset by a 1.6 million reduction in personnel-related costs, including stock-based and performance-based compensation. This reduction included 3.4 million in severance and related personnel costs we incurred from the workforce reduction in the third quarter of 2023. 
+ We expect research and product development expenses for the year ending December 31, 2024 to decrease as a percentage of revenue compared to the year ended December 31, 2023, as we continue to leverage headcount efficiencies. 
+ General and Administrative Three Months Ended September 30, Change Nine Months Ended September 30, Change 2024 2023 Amount 2024 2023 Amount (dollars in thousands) General and administrative 21,139 23,907 (2,768) (12) 62,525 74,417 (11,892) (16) Percentage of revenue 10.3 14.5 10.6 16.6 Stock-based compensation, included above 5,367 6,003 (636) (11) 16,133 16,274 (141) (1) Percentage of revenue 2.6 3.6 2.7 3.6 
+ 21 
+
+Table of Contents 
+
+ General and administrative expense decreased for the three months ended September 30, 2024, compared to the same period in the prior year, primarily due to a 3.4 million reduction in personnel-related costs, including stock-based and performance-based compensation. The reduction included 2.5 million in severance and related personnel costs we incurred from the workforce reduction in the third quarter of 2023. 
+ General and administrative expense decreased for the nine months ended September 30, 2024, compared to the same period in the prior year, primarily due to a 18.8 million reduction in personnel-related costs, including stock-based and performance-based compensation. which was partially offset by a 6.9 million increase in allocated shared and other costs, The decrease in personnel-related costs was primarily due to severance costs associated with our former Chief Executive Officer's separation in the first quarter of 2023 and the severance related costs we incurred from the workforce reduction in the third quarter of 2023. The increase in allocated shared and other costs was primarily due to a 4.3 million decrease in gains related to lease modifications recognized in the nine months ended September 30, 2023, and an increase in allocated shared and other costs of 2.6 million, driven by expenses to support our growth. 
+ We expect general and administrative expenses for the year ending December 31, 2024 to decrease as a percentage of revenue compared to the year ended December 31, 2023, as we continue to leverage headcount efficiencies. 
+ Depreciation and Amortization 
+ Three Months Ended September 30, Change Nine Months Ended September 30, Change 2024 2023 Amount 2024 2023 Amount (dollars in thousands) Depreciation and amortization 4,327 7,568 (3,241) (43) 14,209 22,055 (7,846) (36) Percentage of revenue 2.1 4.6 2.4 4.9 
+ Depreciation and amortization expense for the three and nine months ended September 30, 2024 decreased, compared to the same period in the prior year, primarily due to decreased amortization expense associated with capitalized software development and intangible balances. 
+ We expect depreciation and amortization expenses for the year ending December 31, 2024 to decrease as a percentage of revenue compared to the year ended December 31, 2023 due to a decrease in amortization of accumulated capitalized software development costs and intangible assets balances. 
+ Interest Income, Net 
+ Three Months Ended September 30, Change Nine Months Ended September 30, Change 2024 2023 Amount 2024 2023 Amount (dollars in thousands) Interest income, net 4,014 1,788 2,226 124 10,482 4,627 5,855 127 Percentage of revenue 2.0 1.1 1.8 1.0 
+ 
+ Interest income for the three and nine months ended September 30, 2024 increased, compared to the same period in the prior year, primarily due to higher interest rates and purchases of available-for-sale investment securities. 
+ Provision for (benefit from) Income Taxes 
+ Three Months Ended September 30, Change Nine Months Ended September 30, Change 2024 2023 Amount 2024 2023 Amount (dollars in thousands) Income (loss) before provision for income taxes 46,582 1,472 45,110 3,065 123,168 (22,932) 146,100 (637) Provision for (benefit from) income taxes 13,576 (24,973) 38,549 21,834 4,634 17,200 Effective tax rate 29.1 (1,696.5) 17.7 (20.2) 
+ Percentage not meaningful 
+ For the three months ended September 30, 2024, our effective tax rate differed from the U.S. federal statutory rate of 21 primarily due to a change in valuation allowance against deferred tax assets, state income taxes and non-deductible 
+ 22 
+
+Table of Contents 
+
+ officers' compensation partially offset by excess tax benefits from stock-based compensation. For the nine months ended September 30, 2024, our effective tax rate differed from the U.S. federal statutory rate of 21 primarily due to excess tax benefits from stock-based compensation. Our effective tax rates for the three and nine months ended September 30, 2023 differed from the U.S. federal statutory rate of 21 primarily due to the change in valuation allowance against deferred tax assets, non-deductible officers' compensation and state income taxes, partially offset by tax benefits from stock-based compensation research and development tax credits. 
+ Our effective tax rates for the three and nine months ended September 30, 2024, as compared to the same periods in 2023, are significantly different primarily due to the substantial increase in our pre-tax income in the current year and changes in discrete tax benefits year over year. 
+ 
+ Liquidity and Capital Resources 
+ Our principal sources of liquidity continue to be cash, cash equivalents, and investment securities totaling 331.4 million, as well as cash flows generated from our operations. We have financed our operations primarily through cash generated from operations. We believe that our existing cash and cash equivalents, investment securities, and cash generated from operating activities will be sufficient to meet our working capital and capital expenditure requirements for at least the next twelve months. 
+ Capital Requirements 
+ Our future capital requirements will depend on many factors, including continued market acceptance of our software solutions, changes in the number of our customers, adoption and utilization of our Value Added Services by new and existing customers, the timing and extent of the introduction of new core functionality, products and Value Added Services, and the timing and extent of our investments across our organization. In addition, we have in the past entered into, and may in the future enter into, arrangements to acquire or invest in new technologies or markets adjacent to those we serve today. Furthermore, our Board of Directors has authorized the repurchase of up to 100.0 million of shares of our Class A common stock from time to time. To date, we have repurchased 4.2 million of our Class A common stock under the share repurchase program. 
+ Cash Flows 
+ The following table summarizes our cash flows for the periods indicated (in thousands): 
+ Nine Months Ended September 30, 2024 2023 Net cash provided by operating activities 151,593 29,100 Net cash used in investing activities (107,497) (22,351) Net cash used in financing activities (31,188) (17,581) Net increase (decrease) in cash, cash equivalents and restricted cash 12,908 (10,832) 
+ Operating Activities 
+ Our primary source of operating cash inflows is cash collected from our customers in connection with their use of our core solutions and Value Added Services. Our primary uses of cash from operating activities are for personnel-related expenditures and third-party costs incurred to support the delivery of our software solutions. 
+ The net increase in cash provided by operating activities for the nine months ended September 30, 2024, compared to the same period in the prior year, was primarily due to an increase in cash collections from customers. 
+ Investing Activities 
+ Cash used in investing activities is generally composed of purchases of investment securities, maturities of investment securities, purchases of property and equipment, and additions to capitalized software development. 
+ The net increase in cash used in investing activities for the nine months ended September 30, 2024, compared to the same period in the prior year, was primarily due to higher purchases of available-for-sale investment securities. 
+ Financing Activities 
+ 23 
+
+Table of Contents 
+
+ Cash used in financing activities is generally composed of net share settlements for employee tax withholdings associated with the vesting of equity awards offset by proceeds from the exercise of stock options. 
+ The net increase in cash used in financing activities for the nine months ended September 30, 2024, compared to the same period in the prior year, was primarily due to an increase in net share settlements for employee tax withholdings associated with the vesting of equity awards. 
+ 
+ Critical Accounting Policies and Estimates 
+ Our Condensed Consolidated Financial Statements and the related notes are prepared in accordance with GAAP. The preparation of our Condensed Consolidated Financial Statements requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities at the dates of the financial statements, and the reported amounts of revenues and expenses during the reporting period. 
+ There have been no material changes to our critical accounting policies and estimates described in our Annual Report that have had a material impact on our Condensed Consolidated Financial Statements and related notes. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+ Interest Rate Risk 
+ Investment Securities 
+ As of September 30, 2024, we had 269.0 million of investment securities consisting of United States government and agency securities. The primary objective of investing in securities is to support our liquidity and capital needs. We did not purchase these investments for trading or speculative purposes and have not used any derivative financial instruments to manage our interest rate risk exposure. 
+ Our investment securities are exposed to market risk due to interest rate fluctuations. While fluctuations in interest rates do not impact our interest income from our investment securities as all of these securities have fixed interest rates, changes in interest rates may impact the fair value of the investment securities. Since our investment securities are held as available for sale, all changes in fair value impact our other comprehensive (loss) income unless an investment security is considered impaired in which case changes in fair value are reported in other expense. As of September 30, 2024, a hypothetical 100 basis point decrease in interest rates would have resulted in an increase in the fair value of our investment securities of approximately 1.1 million and a hypothetical 100 basis point increase in interest rates would have resulted in a decrease in the fair value of our investment securities of approximately 1.1 million. This estimate is based on a sensitivity model which measures an instant change in interest rates by 100 basis points at September 30, 2024. 
+ 
+ Item 4. Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ Our management, with the supervision and participation of our principal executive officer and principal financial officer, evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by this Quarterly Report. Based on this evaluation, our principal executive officer and principal financial officer concluded that, as of the end of the period covered by this Quarterly Report, our disclosure controls and procedures were designed at the reasonable assurance level and were effective to provide reasonable assurance that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC's rules and forms, and that such information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. 
+ Changes in Internal Control over Financial Reporting 
+ There were no changes in our internal control over financial reporting identified in connection with the evaluation required by Rule 13a-15(d) and 15d-15(d) of the Exchange Act that occurred during the period covered by this Quarterly Report that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 24 
+
+Table of Contents 
+
+ PART II. OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings 
+ For information regarding legal proceedings, refer to Note 8, Commitments and Contingencies of our Condensed Consolidated Financial Statements. 
+ 
+ Item 1A. Risk Factors 
+ An investment in our Class A common stock involves risks. Before making an investment decision, you should carefully consider all of the information in this Quarterly Report, including in the section entitled Management s Discussion and Analysis of Financial Condition and Results of Operations and the Condensed Consolidated Financial Statements and related notes. In addition, you should carefully consider the risks and uncertainties described in the section entitled Risk Factors in our Annual Report, which was filed with the SEC on February 1, 2024. If any of the identified risks are realized, our business, financial condition, operating results and prospects could be materially and adversely affected. In that case, the trading price of our Class A common stock may decline. In addition, other risks of which we are currently unaware, or which we do not currently view as material, could have a material adverse effect on our business, financial condition, operating results and prospects. As of the date of this Quarterly Report, there have been no material changes to the risk factors previously disclosed under the section entitled "Risk Factors" in Part I, Item IA of our 2023 Annual Report. 
+
+Item 5. Other Information 
+ 
+ None. 
+ 
+ Item 6. Exhibits 
+ Exhibit Number Description of Document 31.1 Certification of Chief Executive Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) promulgated under the Securities Exchange Act of 1934, as amended 
+ 31.2 Certification of Principal Financial Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) promulgated under the Securities Exchange Act of 1934, as amended 
+ 32.1 Certifications of Chief Executive Officer and Principal Financial Officer, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 101.INS Inline XBRL Instance Document 
+ 101.SCH Inline XBRL Taxonomy Extension Schema Document 
+ 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 
+ 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 
+ 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 
+ 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+ 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) The certifications attached as Exhibit 32.1 accompany this Quarterly Report pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, and shall not be deemed filed by the registrant for purposes of Section 18 of the Exchange Act, and are not to be incorporated by reference into any of the registrant s filings under the Securities Act or the Exchange Act, whether made before or after the date of this Quarterly Report, irrespective of any general incorporation language contained in any such filing. 
+ 25 
+
+Table of Contents 
+
+ SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ AppFolio, Inc. Date: October 24, 2024 By: /s/ Shane Trigg Shane Trigg Chief Executive Officer (Principal Executive Officer) Date: October 24, 2024 By: /s/ Fay Sien Goon Fay Sien Goon Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+<EX-31.1>
+ 2
+ a093024exhibit311.htm
+ EX-31.1
+
+Document 
+
+EXHIBIT 31.1 
+ 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Shane Trigg, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of AppFolio, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date October 24, 2024 s Shane Trigg Shane Trigg Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a093024exhibit312.htm
+ EX-31.2
+
+Document 
+
+EXHIBIT 31.2 
+ 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Fay Sien Goon, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of AppFolio, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date October 24, 2024 s Fay Sien Goon Fay Sien Goon Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ a093024exhibit321.htm
+ EX-32.1
+
+Document 
+
+EXHIBIT 32.1 
+
+CERTIFICATIONS OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER 
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ The following certifications are hereby made in connection with the Quarterly Report on Form 10-Q of AppFolio, Inc. (the Company for the period ended September 30, 2024, as filed with the Securities and Exchange Commission on the date hereof (the Report 
+ 
+ I, Shane Trigg, President and Chief Executive Officer of the Company, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge, (i) the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and (ii) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company as of the dates and for the periods presented. 
+ Date October 24, 2024 By s Shane Trigg Shane Trigg President and Chief Executive Officer 
+
+I, Fay Sien Goon, Chief Financial Officer of the Company, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge, (i) the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and (ii) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company as of the dates and for the periods presented. 
+ Date October 24, 2024 By s Fay Sien Goon Fay Sien Goon Chief Financial Officer 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ appf-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ appf-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ appf-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ appf-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ appf-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

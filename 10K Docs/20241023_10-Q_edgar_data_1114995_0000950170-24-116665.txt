@@ -1,0 +1,3005 @@
+<Header>
+<FileStats>
+    <FileName>20241023_10-Q_edgar_data_1114995_0000950170-24-116665.txt</FileName>
+    <GrossFileSize>9503556</GrossFileSize>
+    <NetFileSize>184356</NetFileSize>
+    <NonText_DocumentType_Chars>1367421</NonText_DocumentType_Chars>
+    <HTML_Chars>3606025</HTML_Chars>
+    <XBRL_Chars>1565575</XBRL_Chars>
+    <XML_Chars>2464592</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950170-24-116665.hdr.sgml : 20241023
+<ACCEPTANCE-DATETIME>20241023162521
+ACCESSION NUMBER:		0000950170-24-116665
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		72
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241023
+DATE AS OF CHANGE:		20241023
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			IMPINJ INC
+		CENTRAL INDEX KEY:			0001114995
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPONENTS, NEC [3679]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				912041398
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37824
+		FILM NUMBER:		241389503
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 FAIRVIEW AVENUE NORTH
+		STREET 2:		SUITE 1200
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+		BUSINESS PHONE:		206-517-5300
+
+	MAIL ADDRESS:	
+		STREET 1:		400 FAIRVIEW AVENUE NORTH
+		STREET 2:		SUITE 1200
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98109
+
+</SEC-Header>
+</Header>
+
+ 0000950170-24-116665.txt : 20241023
+
+10-Q
+ 1
+ pi-20240930.htm
+ 10-Q
+
+10-Q 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, DC 20549 
+ 
+ FORM 
+ 
+ 	QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ 	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to . 
+ Commission File Number: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of incorporation or organization) 
+ 
+ (I.R.S. Employer Identification No.) 
+
+, , , 
+
+(Address of principal executive offices) 
+ 
+ (Zip Code) 
+
+Registrant s telephone number, including area code: 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+ Trading symbol(s) 
+ Name of each exchange on which registered 
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Accelerated filer 
+
+Non-accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ As of October 11, 2024 , shares of common stock were outstanding. 
+
+Table of Contents 
+
+ IMPINJ, INC. 
+ QUARTERLY REPORT ON FORM 10-Q 
+ 
+ Table of Contents 
+
+Page 
+
+Risk Factor Summary 
+ 
+ 3 
+
+PART I. FINANCIAL INFORMATION 
+
+Item 1. 
+ 
+ Financial Statements (Unaudited) 
+ 
+ 4 
+
+Condensed Consolidated Balance Sheets 
+ 
+ 4 
+
+Condensed Consolidated Statements of Operations 
+ 
+ 5 
+
+Condensed Consolidated Statements of Comprehensive Income (Loss) 
+ 
+ 6 
+
+Condensed Consolidated Statements of Cash Flows 
+ 
+ 7 
+
+Condensed Consolidated Statements of Changes in Stockholders' Equity 
+ 
+ 8 
+
+Notes to Condensed Consolidated Financial Statements 
+ 
+ 9 
+
+Item 2. 
+ 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 19 
+
+Item 3. 
+ 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ 29 
+
+Item 4. 
+ 
+ Controls and Procedures 
+ 
+ 30 
+
+PART II. OTHER INFORMATION 
+
+Item 1. 
+ 
+ Legal Proceedings 
+ 
+ 31 
+
+Item 1A. 
+ 
+ Risk Factors 
+ 
+ 31 
+
+Item 2. 
+ 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ 49 
+
+Item 3. 
+ 
+ Defaults Upon Senior Securities 
+ 
+ 49 
+
+Item 4. 
+ 
+ Mine Safety Disclosures 
+ 
+ 49 
+
+Item 5. 
+ 
+ Other Information 
+ 
+ 49 
+
+Item 6. 
+ 
+ Exhibits 
+ 
+ 50 
+
+Signatures 
+ 
+ 51 
+
+2 
+
+Table of Contents 
+
+Ri sk Factor Summary 
+ 
+ Our business is subject to numerous risks and uncertainties, including those highlighted in the section of this report captioned Risk 
+ Factors. These risks include, but are not limited to, the following: 
+ 
+ we operate in a very competitive market; 
+
+RAIN adoption is concentrated in key markets and the extent and pace of RAIN market adoption beyond these markets is uncertain; 
+
+our ability to deliver enterprise solutions at scale are nascent; 
+
+poor product quality could result in significant costs to us and impair our ability to sell our products; 
+
+end users and partners must design our products into their products and business processes; 
+
+an inability or limited ability of end user systems to exploit RAIN information may adversely affect the market for our products; 
+
+alternative technologies may enable products and services that compete with ours; 
+
+we obtain the products we sell through a limited number of third parties with whom we do not have long-term supply contracts; 
+
+shortages of silicon wafers, integrated-circuit (IC) post-processing capacity or components used in our readers and gateways may adversely affect our ability to meet demand for our products and adversely affect our revenue and/or gross margins; 
+
+we rely on a small number of customers for a large share of our revenue; 
+
+our ability to affect or determine end-user demand is limited in part because we sell and fulfill primarily through partners and rarely to end users; 
+
+our growth strategy depends in part on the success of strategic relationships with third parties and their continued performance and alignment; 
+
+inherent difficulties protecting and enforcing our intellectual property; 
+
+we have been, and may in the future be, party to intellectual property disputes which could be time consuming and costly to prosecute, defend or settle, result in the loss of significant rights and adversely affect RAIN adoption or adoption of our products or platform; 
+
+we have a history of losses and have only achieved profitability periodically and we cannot be certain that we will attain or sustain profitability in the future; 
+
+we have a history of significant fluctuations in our quarterly and annual operating results; 
+
+our executive officers, directors and principal stockholders, together with their affiliates, beneficially owned approximately 47.2 of our outstanding common stock as of September 30, 2024, and as a result are able to exercise significant influence over matters subject to stockholder approval; and 
+
+we may not have sufficient cash flow or access to cash necessary to satisfy our obligations under the 287.5 million aggregate principal amount 1.125 convertible senior notes due 2027, also referred to as the 2021 Notes, and our current and future indebtedness may restrict our business. 
+
+3 
+
+Table of Contents 
+
+ PART I FINANC IAL INFORMATION 
+ 
+ Item 1. 	Financial St atements (unaudited). 
+ IMPINJ, INC. 
+ CONDENSED CONSOLIDA TED BALANCE SHEETS 
+ (in thousands, except par value, unaudited) 
+
+September 30, 2024 
+
+December 31, 2023 
+
+Assets: 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+Short-term investments 
+
+Accounts receivable, net 
+
+Inventory 
+
+Prepaid expenses and other current assets 
+
+Total current assets 
+
+Long-term investments 
+
+Property and equipment, net 
+
+Intangible assets, net 
+
+Operating lease right-of-use assets 
+
+Other non-current assets 
+
+Goodwill 
+
+Total assets 
+
+Liabilities and stockholders' equity: 
+
+Current liabilities: 
+
+Accounts payable 
+
+Accrued compensation and employee related benefits 
+
+Accrued and other current liabilities 
+
+Current portion of operating lease liabilities 
+
+Current portion of long-term debt 
+
+Current portion of deferred revenue 
+
+Total current liabilities 
+
+Long-term debt 
+
+Operating lease liabilities, net of current portion 
+
+Deferred tax liabilities, net 
+
+Deferred revenue, net of current portion 
+
+Total liabilities 
+
+Commitments and contingencies (Note 6) 
+
+Stockholders' equity: 
+
+Preferred stock, par value shares authorized, shares issued and outstanding at September 30, 2024 and December 31, 2023 
+
+Common stock, par value shares authorized, and shares issued and outstanding at September 30, 2024 and December 31, 2023, respectively 
+
+Additional paid-in capital 
+
+Accumulated other comprehensive income 
+
+Accumulated deficit 
+ 
+ () 
+
+() 
+
+Total stockholders' equity 
+
+Total liabilities and stockholders' equity 
+
+See accompanying notes to condensed consolidated financial statements. 
+ 
+ 4 
+
+Table of Contents 
+
+ IMPINJ, INC. 
+ CONDENSED CONSOLIDATED S TATEMENTS OF OPERATIONS 
+ (in thousands, except per share data, unaudited) 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+Revenue 
+
+Cost of revenue 
+
+Gross profit 
+
+Operating expenses: 
+
+Research and development 
+
+Sales and marketing 
+
+General and administrative 
+
+Amortization of intangibles 
+
+Restructuring costs 
+
+Total operating expenses 
+
+Loss from operations 
+ 
+ () 
+
+() 
+
+() 
+
+() 
+
+Other income, net 
+
+Income from settlement of litigation 
+
+Interest expense 
+ 
+ () 
+
+() 
+
+() 
+
+() 
+
+Income (loss) before income taxes 
+
+() 
+
+() 
+
+Income tax benefit (expense) 
+ 
+ () 
+
+() 
+
+Net income (loss) 
+
+() 
+
+() 
+
+Net income (loss) per share basic 
+
+() 
+
+() 
+
+Net income (loss) per share diluted 
+
+() 
+
+() 
+
+Weighted-average shares outstanding basic 
+
+Weighted-average shares outstanding diluted 
+
+See accompanying notes to condensed consolidated financial statements. 
+ 
+ 5 
+
+Table of Contents 
+
+ IMPINJ, INC. 
+ CONDENSED CONSOLIDATED STATEMENT S OF COMPREHENSIVE INCOME (LOSS) 
+ (in thousands, unaudited) 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+Net income (loss) 
+
+() 
+
+() 
+
+Other comprehensive income (loss), net of tax: 
+
+Unrealized gain (loss) on investments 
+ 
+ () 
+
+Foreign currency translation adjustment 
+
+() 
+
+() 
+
+Total other comprehensive income (loss) 
+
+() 
+
+Comprehensive income (loss) 
+
+() 
+
+() 
+
+See accompanying notes to condensed consolidated financial statements. 
+ 
+ 6 
+
+Table of Contents 
+
+ IMPINJ, INC. 
+ CONDENSED CONSOLIDATED S TATEMENTS OF CASH FLOWS 
+ (in thousands, unaudited) 
+
+Nine Months Ended September 30, 
+
+2024 
+
+2023 
+
+Operating activities: 
+
+Net income (loss) 
+
+() 
+
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+
+Depreciation and amortization 
+
+Stock-based compensation 
+
+Restructuring equity modification expense 
+
+Accretion of discount or amortization of premium on investments 
+
+() 
+
+() 
+
+Amortization of debt issuance costs 
+
+Deferred tax expense 
+
+() 
+
+() 
+
+Revaluation of acquisition-related contingent consideration liability 
+
+Changes in operating assets and liabilities, net of amounts acquired: 
+
+Accounts receivable 
+
+() 
+
+Inventory 
+
+() 
+
+Prepaid expenses and other assets 
+
+() 
+
+Accounts payable 
+
+() 
+
+Accrued compensation and employee related benefits 
+
+() 
+
+Accrued and other liabilities 
+
+Acquisition-related contingent consideration liability 
+
+() 
+
+Operating lease right-of-use assets 
+
+Operating lease liabilities 
+
+() 
+
+() 
+
+Deferred revenue 
+
+() 
+
+Net cash provided by (used in) operating activities 
+
+() 
+
+Investing activities: 
+
+Purchases of investments 
+
+() 
+
+Proceeds from sales of investments 
+
+Proceeds from maturities of investments 
+
+Proceeds from sale of property and equipment 
+
+Purchases of intangible assets 
+
+() 
+
+Purchases of property and equipment 
+
+() 
+
+() 
+
+Business acquisitions, net of cash acquired 
+
+() 
+
+Net cash provided by (used in) investing activities 
+
+() 
+
+Financing activities: 
+
+Proceeds from exercise of stock options and employee stock purchase plan 
+
+Payment of acquisition-related contingent consideration 
+
+() 
+
+Net cash provided by financing activities 
+
+Effect of exchange rate changes on cash and cash equivalents 
+
+() 
+
+Net increase (decrease) in cash and cash equivalents 
+
+() 
+
+Cash and cash equivalents 
+
+Beginning of period 
+
+End of period 
+
+Supplemental disclosure of cashflow information: 
+
+Cash paid for interest 
+
+Purchases of property and equipment not yet paid 
+
+Operating lease liabilities arising from obtaining ROU assets 
+
+Lease liabilities arising from remeasurement of ROU assets 
+
+shares of common stock issued for Voyantic Oy acquisition 
+
+Acquisition-related contingent consideration liability 
+
+See accompanying notes to condensed consolidated financial statements. 
+ 
+ 7 
+
+Table of Contents 
+
+ IMPINJ, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY 
+ (in thousands, unaudited) 
+
+Accumulated 
+
+Additional 
+
+Other 
+
+Total 
+
+Common Stock 
+
+Paid-in 
+
+Accumulated 
+
+Comprehensive 
+
+Stockholders' 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+Income (Loss) 
+
+Equity 
+
+Balance at December 31, 2023 
+
+() 
+
+Issuance of common stock 
+
+Stock-based compensation 
+
+Restructuring equity modification expense 
+
+Net income 
+
+Other comprehensive loss 
+
+() 
+
+() 
+
+Balance at March 31, 2024 
+
+() 
+
+() 
+
+Issuance of common stock 
+
+Stock-based compensation 
+
+Net income 
+
+Other comprehensive loss 
+
+() 
+
+() 
+
+Balance at June 30, 2024 
+
+() 
+
+() 
+
+Issuance of common stock 
+
+Stock-based compensation 
+
+Net income 
+
+Other comprehensive income 
+
+Balance at September 30, 2024 
+
+() 
+
+Accumulated 
+
+Additional 
+
+Other 
+
+Total 
+
+Common Stock 
+
+Paid-in 
+
+Accumulated 
+
+Comprehensive 
+
+Stockholders' 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+Income (Loss) 
+
+Equity 
+
+Balance at December 31, 2022 
+
+() 
+
+() 
+
+Issuance of common stock 
+
+Stock-based compensation 
+
+Net loss 
+
+() 
+
+() 
+
+Other comprehensive income 
+
+Balance at March 31, 2023 
+
+() 
+
+() 
+
+Issuance of common stock 
+
+Stock-based compensation 
+
+Net loss 
+
+() 
+
+() 
+
+Common stock issued for Voyantic Acquisition (Note 4) 
+
+Other comprehensive income 
+
+Balance at June 30, 2023 
+
+() 
+
+() 
+
+Issuance of common stock 
+
+Stock-based compensation 
+
+Net loss 
+
+() 
+
+() 
+
+Other comprehensive loss 
+
+() 
+
+() 
+
+Balance at September 30, 2023 
+
+() 
+
+() 
+
+See accompanying notes to condensed consolidated financial statements. 
+ 8 
+
+Table of Contents 
+
+ IMPINJ, INC. 
+ NOTES TO CONDENSED CONSOLID ATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+million and agreed to make annual license fee payments on April 1 of each year, starting on April 1, 2024, until the termination of the Settlement Agreement. The annual license fee payment for 2024 was million and will increase each subsequent year by a fixed percentage. We allocated the consideration from the Settlement Agreement to the related components of the agreement. During first-quarter 2024, we recorded the million payment in income from settlement of litigation in the condensed consolidated statements of operations upon receipt. We will recognize the license fee, which relates to annual usage of the license from April 1 to March 31 of each applicable year, as revenue in the second quarter of each until the Settlement Agreement terminates. We recognized the license fee for the first annual usage period in second-quarter 2024. We recognize revenue from licensing the right to use functional intellectual property, such as the Settlement Agreement discussed above, at the point in time the control of the license transfers to the customer, which is generally upon delivery, or as usage occurs. See Note 6 Commitments and Contingencies for additional details of the Settlement Agreement with NXP. 
+
+9 
+
+Table of Contents 
+
+ million in second-quarter 2024 . 
+
+U.S. Treasury securities 
+
+7,973 
+
+Commercial paper 
+
+30,815 
+
+Total cash equivalents 
+
+38,788 
+
+Short-term investments: 
+
+U.S. Government agency securities 
+
+U.S. Treasury securities 
+
+Yankee bonds 
+
+Agency bonds 
+
+Asset-backed securities 
+
+Corporate notes and bonds 
+
+Commercial paper 
+
+Total short-term investments 
+
+Long-term investments: 
+
+U.S. Government agency securities 
+
+U.S. Treasury securities 
+
+Corporate notes and bonds 
+
+Total long-term investments 
+
+Total 
+
+Acquisition related contingent consideration liability 
+
+Total liabilities at fair value 
+
+10 
+
+Table of Contents 
+
+Change in fair value of contingent consideration liability due to remeasurement 
+
+Contingent consideration payment made 
+
+() 
+
+Balance as of September 30 
+
+At the acquisition date, we recorded the contingent consideration related to the Voyantic Oy acquisition at its fair value using unobservable inputs and used the Monte Carlo simulation option pricing framework, incorporating contractual terms and assumptions regarding financial forecasts, discount rates and volatility of forecasted revenue and gross margins. Developing and determining the unobservable inputs for Level 3 fair-value measurements and fair-value calculations is management's responsibility with assistance from a third-party valuation specialist. During second-quarter 2024, we paid the contingent consideration and as of September 30, 2024 , the contingent consideration liability is . As of December 31, 2023, the contingent consideration liability was million. We expect short-term investments to mature within 1 year and long-term investments within 1 to 3 years of the reporting date. See Note 7 for the carrying amount and estimated fair value of our convertible senior notes due . Investments 
+
+U.S. Government agency securities 
+
+() 
+
+U.S. Treasury securities 
+
+() 
+
+Corporate notes and bonds 
+
+() 
+
+Commercial paper 
+
+Total 
+
+() 
+
+December 31, 2023 
+
+Cost or 
+
+Gross 
+
+Gross 
+
+Total Estimated 
+
+Amortized Cost 
+
+Unrealized Gains 
+
+Unrealized Losses 
+
+Fair Value 
+
+Description: 
+
+Money market funds 
+
+U.S. Government agency securities 
+
+() 
+
+Yankee bonds 
+
+() 
+
+Agency bond 
+
+() 
+
+Asset-backed securities 
+
+() 
+
+Total 
+
+() 
+
+Marketable securities in a continuous loss position for less than 12 months had an estimated fair value of million and million in unrealized losses as of September 30, 2024 , and an estimated fair value of million and in unrealized losses as of December 31, 2023. Marketable securities in a continuous loss position for greater than 12 months had a fair value of and in unrealized losses as of September 30, 2024 , and an estimated fair value of million and in unrealized losses as of December 31, 2023. 
+
+ 11 
+
+Table of Contents 
+
+Work-in-process 
+
+Finished goods 
+
+Total inventory 
+
+million. Our acquisition of Voyantic Oy adds label design, manufacturing and testing to our systems offerings, to advance the quality, reliability and readability of partner inlays. The consideration comprised (i) million in shares of our common stock valued using the market price on the date of the acquisition, (ii) million in deferred payments contingent upon revenue and gross margin performance over a one-year period from the acquisition date and (iii) the remainder in cash paid at closing. We recorded the assets acquired and liabilities assumed at their estimated fair values as of the acquisition date. We recorded the excess of the purchase price over the assets acquired and liabilities assumed as goodwill. The fair value of net assets acquired, goodwill, intangible assets and deferred tax liability were million, million, million and million, respectively. The goodwill amount represents synergies we expect to realize from the business combination and assembled workforce. We allocated the goodwill to our one reporting unit and reportable segment. The acquired goodwill and intangible assets were not deductible for tax purposes. The transaction-related costs for the acquisition were and million for the three and nine months ended September 30, 2024. These costs are related to the revaluation of the contingent consideration subsequent to the acquisition date and are included in general and administrative expenses in the condensed consolidated statements of operations. See Note 2. Fair Value Measures for additional information on the contingent consideration. This acquisition did not have a material impact on our reported revenue or net loss amounts for any period presented; therefore, we have not presented historical and pro forma disclosures. Goodwill represents the excess of the purchase price over the fair value of the net assets acquired in business combinations accounted for under the purchase method of accounting. 
+
+Additions from acquisition 
+
+Foreign currency translation adjustment 
+
+() 
+
+Total 
+
+() 
+
+Customer Relationships 
+
+() 
+
+Developed Technology 
+
+() 
+
+Patent 
+
+() 
+
+Tradename 
+
+() 
+
+Total definite-lived intangible assets (1) 
+
+() 
+
+(1) Foreign intangible asset carrying amounts are affected by foreign currency translation 
+
+We amortize identifiable intangible assets with finite lives over their useful lives on a straight-line basis. The weighted average life of our intangible assets is approximately . Amortization of intangible assets was million and million for the three and nine months ended September 30, 2024 , respectively and million and million for the three and nine months ended September 30, 2023, respectively. 
+
+ 12 
+
+Table of Contents 
+
+2025 
+
+2026 
+
+2027 
+
+2028 
+
+Thereafter 
+
+Total 
+
+Granted 
+
+Vested 
+
+() 
+
+() 
+
+Forfeited 
+
+() 
+
+() 
+
+Outstanding at September 30, 2024 
+
+Stock-Based Compensation Expense 
+
+Research and development expense 
+
+Sales and marketing expense 
+
+General and administrative expense 
+
+Total stock-based compensation expense 
+
+13 
+
+Table of Contents 
+
+ million of inventory as of September 30, 2024. Litigation From time to time, we are subject to various legal proceedings or claims that arise in the ordinary course of business. We accrue a liability when management believes that it is both probable that we have incurred a liability and we can reasonably estimate the amount of loss. As of September 30, 2024 and December 31, 2023 , we did t have accrued contingency liabilities. The following is a description of our significant legal proceedings. Patent Infringement Claims and Counterclaims Impinj Patent Infringement Claims Against NXP From 2019 to 2023, we engaged in active patent litigation against our primary endpoint IC competitor, NXP Semiconductors N.V., or NXP. During this time, we filed three patent infringement lawsuits against subsidiaries of NXP in federal courts in California and Texas. Our complaints alleged that certain NXP endpoint ICs infringed a number of our U.S. patents. In response, NXP filed a suit against us in federal court in Delaware, later transferred to Washington, countersued us in Texas, and filed three lawsuits against our subsidiary in China. NXP s complaints alleged that certain of our endpoint ICs infringed a number of their own U.S. or Chinese patents or U.S. patents that they exclusively licensed from a third-party to assert against us. Through 2023, we prevailed in these lawsuits. In three U.S. trials held in 2023, juries in California and Texas returned verdicts that NXP endpoint ICs infringed five of our patents that made it to trial, and juries in Washington and Texas ruled that we did not infringe any of the three patents NXP accused us in court of infringing. Also in 2023, NXP withdrew all three cases it filed against us in China. On March 13, 2024, while additional trials were pending in China and Texas, and post-trial motions and appeals were pending in China and the U.S., we and NXP entered into the Settlement Agreement. Under the agreement we and NXP agreed to terminate and withdraw all pending proceedings and release one another for all patent infringement claims preceding March 31, 2024 and grant to each other non-exclusive, worldwide patent licenses to make, have made, import, use, offer for sale, and sell their respective products and services, subject to the terms of the agreement. The Settlement Agreement will remain in force until all the valid claims of a specified set of Impinj patents (the Indicator Patents expire in about ten years. Either party can terminate the Settlement Agreement if the other party materially breaches the terms of the Agreement and NXP can terminate the Settlement Agreement if it successfully designs out all valid claims of the Indicator Patents. Under the Settlement Agreement, NXP paid us a one-time amount of million and agreed to make annual license fee payments, if the specified set of Indicator Patents are still in use, on April 1 of each year, effective April 1, 2024. The annual license fee will increase by a fixed percentage each year after 2024 for the remaining term of the Settlement Agreement. We have no obligation to pay NXP under the Settlement Agreement. We allocated the consideration from the Settlement Agreement to the components of the Settlement Agreement. We recorded the million payment in income from settlement of litigation in the condensed consolidated statements of operations in first-quarter 2024, upon receipt. Licensing of our intellectual property is part of our ongoing operations and therefore, we will recognize the license fee, which relates to annual usage of the license from April 1 to March 31 of each applicable year, as revenue in the second quarter of each year until the Settlement Agreement terminates. We recognized the first annual license fee of million in revenue in second-quarter 2024. 
+
+14 
+
+Table of Contents 
+
+ million aggregate principal amount of convertible promissory notes due (the 2021 Notes ). 
+
+() 
+
+() 
+
+The 2021 Notes are senior unsecured obligations, do not contain any financial covenants and are governed by indentures (the Indentures). The total net proceeds from the 2021 Notes, after deducting initial debt issuance costs, fees and expenses, was million. We used approximately million of the 2021 Notes net proceeds, excluding accrued intere st, to repurchase approximately million aggregate principal amount of convertible notes due 2026 (the 2019 Notes and, together with the 2021 Notes, the Notes through individual privately negotiated transactions concurrent with us offering the 2021 Notes. We used approximately million, excluding accrued interest, to repurchase the remaining million aggregate principal amount of the 2019 Notes in June 2022. We w ill use the remainder of the net proceeds from the 2021 Notes for general corporate purposes. Terms of the 2021 Notes The holders of the 2021 Notes may convert their respective 2021 Notes at their option at any time prior to the close of business on the business day immediately preceding the respective conversion dates under the following circumstances: during any fiscal quarter commencing after the fiscal quarter ending on March 31, 2022 (and only during such fiscal quarter), if the last reported sale price of our common stock, for at least trading days (whether or not consecutive) during a period of consecutive trading days ending on, and including, the last trading day of the immediately preceding fiscal quarter is greater than or equal to of the conversion price on each applicable trading day; 
+
+ during the business day period after any consecutive trading day period in which the trading price per 1,000 principal amount of the 2021 Notes for each trading day was less than of the product of the last reported sale price of our common stock and the conversion rate on each such trading day; 
+
+ prior to the close of business on the second scheduled trading day immediately preceding the redemption date if we call the 2021 Notes for redemption; or 
+
+ upon the occurrence of specified corporate events, as described in the indenture. 
+
+ We may redeem all or a portion of the 2021 Notes for cash, at our option, on or after November 20, 2024, if the last reported sale price of our common stock has been at least of the conversion price at least trading days (whether or not consecutive) during any consecutive trading day period at a redemption price equal to 100 of the principal amount of the 2021 Notes being redeemed, plus any accrued and unpaid interest to, but excluding, the redemption date. Holders who convert their 2021 Notes in connection with certain corporate events that constitute a make-whole fundamental change (as defined in the indenture) are, under certain circumstances, entitled to an increase in the conversion rate. Additionally in the event of a corporate event constituting a fundamental change (as defined in the indenture), holders of the 2021 Notes may require us to repurchase all or a portion of their 2021 Notes at a repurchase price equal to of the principal amount of the 2021 Notes being repurchased, plus any accrued and unpaid interest to, but excluding, the repurchase date. 
+
+ 15 
+
+Table of Contents 
+
+ of the conversion price of the 2021 Notes for more than trading days during the consecutive trading days ended September 30, 2024. Accordingly, the 2021 Notes are convertible at the option of the holders as of September 30, 2024 and therefore, have remained classified as current portion of long-term debt on the condensed consolidated balance sheet as of September 30, 2024. The if-converted value exceeded the principal amounts by million based on the closing price of our common stock of as of September 30, 2024. 
+
+Cash interest expense 
+
+Total interest expense 
+
+Accrued interest related to the 2021 Notes as of September 30, 2024 and December 31, 2023 wa s million and million, respectively. We record accrued interest in accrued liabilities in our consolidated balance sheet. We estimate the fair value of the 2021 Notes to be million and million as of September 30, 2024 and December 31, 2023, respectively, which we determined through consideration of quoted market prices. The fair value for the 2021 Notes is classified as Level 2, as defined in Note 2. Capped Calls In connection with the issuance of the 2019 Notes, we entered into privately negotiated capped-call transactions with certain financial counterparties. The capped call transactions are generally designed to reduce the potential dilution to our common stock upon any conversion or settlement of the 2019 Notes, or to offset any cash payments we are required to make in excess of the principal amount upon conversion of the 2019 Notes, as the case may be, with the reduction or offset subject to a cap based on the cap price. If, however, the market price per share of our common stock exceeds the cap price of the capped-call transactions, then our stock would experience some dilution and/or the capped call would not fully offset the potential cash payments, in each case, to the extent then-market price per share of our common stock exceeds the cap price. The capped call remains outstanding even though we have repurchased the 2019 Notes. The initial cap price of the capped call transactions is per share, subject to certain adjustments under the terms of the capped call transactions. The capped call transactions expire over consecutive scheduled trading days ending on . The capped call transactions meet the criteria for classification in equity, are not accounted for as derivatives and are not remeasured each reporting period. 
+
+16 
+
+Table of Contents 
+
+() 
+
+() 
+
+Interest add back 
+
+Net income (loss) attributable to common stock holders 
+
+() 
+
+() 
+
+Denominator: 
+
+Weighted average common shares outstanding, basic 
+
+Dilutive effect of: 
+
+Stock plans 
+
+2021 Notes 
+
+Weighted average common shares outstanding, diluted 
+
+Net earnings (loss) per share basic 
+
+() 
+
+() 
+
+Net earnings (loss) per share diluted 
+
+() 
+
+() 
+
+Basic net earnings (loss) per share is calculated using our net income (loss) and our weighted average outstanding common shares. Diluted net earnings (loss) per share is calculated using our net income (loss) attributable to common stockholders with interest charges applicable to our convertible debt added back under the if converted method, if dilutive, and our weighted average outstanding common shares including the dilutive effect of stock awards and employee stock purchase plan shares as determined under the treasury stock method and of our convertible notes using the if converted method, if dilutive. In periods when we recognize a net loss, we exclude the impact of outstanding stock awards and the potential share settlement impact related to our convertible notes from the diluted loss per share calculation as their inclusion would have an antidilutive effect. 
+
+RSUs, MSUs and PSUs 
+
+Employee stock purchase plan shares 
+
+2021 Notes 
+
+reportable and operating segment: developing and selling of our RAIN products and services. We identified our operating segment based on how our chief operating decision-maker manages our business, makes operating decisions and evaluates our operating performance. Our chief executive officer acts as the chief operating decision-maker and reviews financial and operational information on an entity-wide basis. Accordingly, we have determined we have a single reportable and operating segment. Our chief executive officer reviews information about our revenue categories, endpoint ICs, including licensing revenue, and systems, defined as reader ICs, readers, gateways, test and measurement solutions and software and cloud services. 
+
+Systems 
+
+Total revenue 
+
+17 
+
+Table of Contents 
+
+ million of revenue related to amounts included in deferred revenue as of December 31, 2023 for the nine months ended September 30, 2024. We recognized million of reven ue related to amounts included in deferred revenue as of December 31, 2022 for the nine months ended September 30, 2023. 
+
+Opening balance from Voyantic acquisition 
+
+Deferral of revenue 
+
+Recognition of deferred revenue 
+ 
+ () 
+
+() 
+
+Balance at end of period 
+
+. The patent is included in the Indicator Patents, expires on July 17, 2026 and does not have renewal rights. This patent is included in our intangible assets on our condensed consolidated balance sheet as of September 30, 2024. 
+
+of our employees. We incurred restructuring charges of million for employee terminations benefits, including equity modification expense in first-quarter 2024. Restructuring payments were complete in second-quarter 2024. 
+
+Non cash payments 
+
+() 
+
+Cash payments 
+
+() 
+
+Accrued restructuring costs as of September 30, 2024 
+
+18 
+
+Table of Contents 
+
+ Item 2.	Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ This report contains certain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Statements containing words such as may, believe, anticipate, expect, intend, plan, project, projections, business outlook, estimate, or similar expressions constitute forward-looking statements. You should read these statements carefully because they discuss future expectations, contain projections of future results of operations or financial condition or state other forward-looking information. These statements relate to our future plans, objectives, expectations, intentions and financial performance and the assumptions that underlie these statements. They include, but are not limited to, statements about: 
+ our market opportunity; 
+
+the adoption of RAIN technology and solutions; 
+
+our ability to compete effectively against competitors and competing technologies; 
+
+our market share and product leadership; 
+
+our business model, strategic plans and product-development plans; 
+
+the impact of any future health outbreak or pandemic, including a potential resurgence of Covid-19 on our business, operations and financial condition as well as on macroeconomic conditions; 
+
+our future financial performance, including our average selling prices, or ASPs, gross margins and the dependency of our future financial performance on macroeconomic conditions; 
+
+the performance of third parties on which we rely for product development, manufacturing, assembly and testing; and our relationship with other third parties on which we rely for product distribution, sales, integration and deployment; 
+
+our ability to adequately protect our intellectual property; 
+
+the regulatory environment for our products and services; and 
+
+our leadership in industry and standards-setting bodies. 
+
+Our actual results may differ materially from those contained in or implied by any forward-looking statements. Factors that could cause or contribute to these differences include those discussed below and elsewhere in this report, including those factors discussed in Part II, Item 1A (Risk Factors). 
+ Considering the significant uncertainties and risks inherent in these forward-looking statements, you should not regard these statements as a representation or warranty by us or anyone else that we will achieve our objectives and plans in any specified time frame, or at all, or as predictions of future events. Moreover, neither we nor any other person assumes responsibility for the accuracy and completeness of the forward-looking statements. We undertake no obligation to publicly update any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law. 
+ Our Business 
+ Our vision is a world in which every item that enterprises manufacture, transport and sell, and that people own, use and recycle, is wirelessly and ubiquitously connected to the cloud. And a world in which the ownership, history and linked information for every one of those items is seamlessly available to enterprises and people. We call our expansive vision a Boundless Internet of Things, or IoT. We design and sell a platform that enables that wireless item-to-cloud connectivity and with which we and our partners innovate Internet of Things, or IoT, solutions. 
+ We have enabled connectivity for more than 100 billion items to date, delivering item visibility and improving operational efficiencies for retailers, supply chain and logistics, or SC L providers, restaurants and food-service providers, airlines, automobile manufacturers, healthcare companies and many more. We are today focused on extending item connectivity from tens of billions to trillions of items, and delivering item data not just to enterprises but to people, so they too can derive value from their connected items. We believe the Boundless IoT we are enabling will, in the not-too-distant future, give people ubiquitous access to cloud-based digital twins of every item, each storing the item s history and linked information and helping people explore and learn about the item. We believe that that connectivity will transform the world. 
+ We and our partner ecosystem build item-visibility solutions using products that we design and either sell or license, including silicon RAIN radios; manufacturing, test, encoding and reading systems, software and cloud services that encapsulate our solutions know-how and intellectual property. We sell two types of silicon integrated circuit, or IC, radios. The first are endpoint ICs that store a serialized number to wirelessly identify an item. Our partners embed endpoint ICs into an item or its packaging. The ICs may also contain a cryptographic key to authenticate the item. The second are reader ICs that our partners use in finished readers to wirelessly discover, inventory and engage the endpoint ICs. Those readers may also protect an item or consumer, for example by authenticating the item as genuine or privatizing the item by rendering the endpoint IC unresponsive without the consumer first providing a password. Our manufacturing, test and encoding systems enable partner products and facilitate enterprise deployments. Our reading 
+ 19 
+
+Table of Contents 
+
+ systems comprise high-performance finished readers and gateways for autonomous reading solutions. Our software and cloud services focus on solutions enablement. 
+ We sell our products, individually or as a whole platform offering primarily with or through our partner ecosystem. That ecosystem comprises original equipment manufacturers, or OEMs, tag service bureaus, original device manufacturers, or ODMs, systems integrators, or SIs, value-added resellers, or VARs, independent software vendors, or ISVs, and other solution partners. 
+ Our silicon radios follow the RAIN industry s air-interface standard for their core functionality. We create partner and enterprise preference for our radios and solutions by adding differentiated features into our products, and supporting or licensing those features across our platform, to deliver solutions capabilities and performance that surpasses mix-and-match solutions built from competitor products. 
+ Factors Affecting Our Performance 
+ Inventory Supply 
+ Most of our revenue derives from endpoint ICs that our partners embed into or onto enterprise items and is therefore affected by macroeconomic trends. Further, we sell most of our products, both endpoint ICs and systems, through partners and distributors, limiting our visibility to enterprise demand. We work closely with those partners and distributors to gain as accurate a view as possible, however, correctly forecasting demand for our products and identifying market shifts in a timely manner remains a challenge. As a result, we sometimes experience inventory overages or shortages. Inventory overages can increase expenses, expose us to product obsolescence and/or increased reserves and negatively affect our business. Inventory shortages can cause long lead times, missed opportunities, market-share losses and/or damaged customer relationships, also negatively affecting our business. 
+ In 2021 and 2022, demand for our endpoint ICs increased while worldwide wafer demand also increased, leading to wafer shortfalls for many semiconductor companies, including us. These wafer shortfalls prevented us from fully meeting customer demand and, in some cases, caused customers to cancel orders, qualify alternative suppliers or purchase from our competitors. In 2023, macroeconomic conditions led to softness in demand and inventory overages. 
+ Product Adoption and Unit Growth Rates 
+ Enterprises have significantly adopted RAIN in retail apparel, our largest market, and SC L, but the rate of adoption and unit growth rates have been uneven and unpredictable. From 2010 to 2023, our overall endpoint IC sales volumes increased at a 26 compounded annual growth rate; however, we have experienced uneven growth rates in various periods. 
+ Regardless of the uneven pace of retail, SC L and other industry adoption and growth rates, we believe the long-term trend is continued RAIN adoption and growth and we intend to continue investing in developing new products and expanding our product offerings for the foreseeable future. However, we cannot predict whether historical annual growth rates are indicative of the pace of future growth. 
+ Our systems business, at least for readers and gateways, depends significantly on large-scale deployments at discrete end users, and deployment timing causes large yearly variability in our systems revenue. For example, we generated 14 of total 2019 revenue from a gateway deployment at a large North American SC L provider. We did not have comparable project-based revenue in 2020. Similarly, in second-quarter 2021, we generated 13 of our revenue from a project-based gateway deployment for RAIN-based self-checkout and loss prevention at a large Europe-based global retailer. We did not have comparable project-based revenue in 2022, 2023 or in the first three quarters of 2024. 
+ Seasonality and Pricing 
+ We typically negotiate pricing with most of our endpoint IC OEMs with an effective date of the first quarter of the calendar year. In the past, this negotiation typically resulted in reduced revenue and gross margins in the first quarter compared to prior periods, which then normalized in subsequent quarters as we reduced costs and adjust product mix by migrating those OEMs and end users to newer, lower-cost products. 
+ Endpoint IC volumes tend to be lower in the fourth quarter than in the third quarter. System sales tend to be higher in the fourth quarter and lower in the first quarter, we believe due to the availability of residual funding for capital expenditures prior to the end of many end users fiscal years. 
+ We did not see these seasonal trends in 2023. We do expect continued quarter-to-quarter revenue variability due to changing macroeconomic conditions and timing of program launches that could impact seasonal trends in the future. 
+ 20 
+
+Table of Contents 
+
+ Results of Operations 
+ The following table presents our results of operations for the periods indicated: 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+(in thousands, except percentages) 
+ 
+ 2024 
+
+2023 
+
+Change 
+
+2024 
+
+2023 
+
+Change 
+
+Revenue 
+
+95,198 
+
+65,005 
+
+30,193 
+
+274,518 
+
+236,888 
+
+37,630 
+
+Gross profit 
+
+47,569 
+
+30,768 
+
+16,801 
+
+142,633 
+
+118,112 
+
+24,521 
+
+Gross margin 
+
+50.0 
+
+47.3 
+
+2.7 
+
+52.0 
+
+49.9 
+
+2.1 
+
+Loss from operations 
+
+(769) 
+
+(15,834) 
+
+15,065 
+
+(3,456) 
+
+(28,645) 
+
+25,189 
+
+Three months ended September 30, 2024 compared with three months ended September 30, 2023 
+ Revenue and gross profit increased, due primarily to higher endpoint IC revenue partially offset by lower systems revenue. The endpoint IC revenue increase was driven primarily by higher endpoint IC shipment volumes when compared to the prior-year period. Systems revenue decreased, due primarily to lower shipment volumes. Gross margin increased, due primarily to lower excess and obsolescence charges in the current-year period compared to the prior-year period. Loss from operations decreased, due primarily to increased gross profit, partially offset by increased operating expenses. The operating expense increase was due to higher research and development costs, partially offset by lower general and administrative costs, sales and marketing costs and amortization of intangibles. 
+ Nine months ended September 30, 2024 compared with nine months ended September 30, 2023 
+ Revenue and gross profit increased, due primarily to higher endpoint IC revenue partially offset by lower systems revenue. The endpoint IC revenue increase was driven primarily by licensing revenue as well as higher endpoint IC shipment volumes when compared to the prior-year period. Systems revenue decreased, due primarily to lower shipment volumes. Gross margin increased, due primarily to the high-margin licensing revenue contribution. Loss from operations decreased, due primarily to increased gross profit and a slight decrease in operating expenses. The operating expense decrease was due primarily to lower general and administrative costs, sales and marketing costs, and amortization of intangibles, partially offset by higher research and development and restructuring costs. 
+ Revenue 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+(in thousands) 
+ 
+ 2024 
+
+2023 
+
+Change 
+
+2024 
+
+2023 
+
+Change 
+
+Endpoint ICs 
+
+80,966 
+
+48,592 
+
+32,374 
+
+231,864 
+
+180,546 
+
+51,318 
+
+Systems 
+
+14,232 
+
+16,413 
+
+(2,181) 
+
+42,654 
+
+56,342 
+
+(13,688) 
+
+Total revenue 
+
+95,198 
+
+65,005 
+
+30,193 
+
+274,518 
+
+236,888 
+
+37,630 
+
+We currently derive substantially all our revenue from sales of endpoint ICs, reader ICs, readers, gateways, test and measurement solutions and licensing. We sell our endpoint ICs and test and measurement solutions primarily to inlay manufacturers; our reader ICs primarily to OEMs and ODMs through distributors; and our readers and gateways to solutions providers, VARs and SIs, also primarily through distributors. We expect endpoint IC sales to represent the majority of our revenue for the foreseeable future. 
+ Three months ended September 30, 2024 compared with three months ended September 30, 2023 
+ Endpoint IC revenue increased 32.4 million, due to a 38.2 million increase in shipment volumes, partially offset by a 5.8 million decrease from lower ASP due primarily to product mix, and to a lesser extent, short-term pricing incentives on legacy products. 
+ Systems revenue decreased 2.2 million, due primarily to a decrease in shipment volumes. Reader and gateway revenues decreased 1.0 million and 2.9 million, respectively and nonrecurring engineering revenue decreased by 0.4 million. These decreases were partially offset by increases of 1.5 million and 0.6 million in reader IC and test and measurement solution revenue, respectively. 
+ 21 
+
+Table of Contents 
+
+ Nine months ended September 30, 2024 compared with nine months ended September 30, 2023 
+ Endpoint IC revenue increased 51.3 million due to a 54.5 million increase in shipment volumes and a 15.0 million increase in licensing revenue that did not occur in the prior-year period, partially offset by a 18.2 million decrease in ASP due primarily to product mix shift, and to a lesser extent, short-term pricing incentives on legacy products. 
+ Systems revenue decreased by 13.7 million due primarily to a decrease in shipment volumes. Reader and gateway revenues decreased 7.9 million and 8.2 million, respectively, and nonrecurring engineering revenue decreased 0.8 million. These decreases were partially offset by an increase of 3.5 million from test and measurement solutions revenue. 
+ Gross Profit and Gross Margin 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+(in thousands, except percentages) 
+ 
+ 2024 
+
+2023 
+
+Change 
+
+2024 
+
+2023 
+
+Change 
+
+Cost of revenue 
+
+47,629 
+
+34,237 
+
+13,392 
+
+131,885 
+
+118,776 
+
+13,109 
+
+Gross profit 
+
+47,569 
+
+30,768 
+
+16,801 
+
+142,633 
+
+118,112 
+
+24,521 
+
+Gross margin 
+
+50.0 
+
+47.3 
+
+2.7 
+
+52.0 
+
+49.9 
+
+2.1 
+
+Cost of revenue includes costs associated with manufacturing our endpoint ICs, reader ICs, readers, gateways and test and measurement solutions, including direct materials and outsourced manufacturing costs as well as associated overhead costs such as logistics, quality control, planning and procurement. Cost of revenue also includes charges for excess and obsolescence and warranty costs. Our gross margin varies from period to period based on the mix of endpoint IC and systems; underlying product margins driven by changes in mix, ASPs or costs; as well as from inventory excess and obsolescence charges. 
+ Three months ended September 30, 2024 compared with three months ended September 30, 2023 
+ Gross profit increased, due primarily to increased endpoint IC revenue, partially offset by decreased systems revenue. Gross margin increased, due primarily to lower excess and obsolescence charges compared to the prior-year period. 
+ Nine months ended September 30, 2024 compared with nine months ended September 30, 2023 
+ Gross profit increased, due primarily to increased endpoint IC revenue partially offset by decreased systems revenue. Gross margin increased, due primarily to high-margin licensing revenue recognized in the year that did not occur in the prior year. 
+ Operating Expenses 
+ Research and Development 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+(in thousands) 
+ 
+ 2024 
+
+2023 
+
+Change 
+
+2024 
+
+2023 
+
+Change 
+
+Research and development 
+
+25,492 
+
+21,588 
+
+3,904 
+
+72,935 
+
+67,426 
+
+5,509 
+
+Research and development expense comprises primarily personnel expenses (salaries, benefits and other employee related costs) and stock-based compensation expense for our product-development personnel; product development costs which include external consulting and service costs, prototype materials and other new-product development costs; and an allocated portion of infrastructure costs which include occupancy, depreciation and software costs. We expect research and development expense to increase in absolute dollars in future periods as we continue to focus on new product development and introductions. 
+ Three months ended September 30, 2024 compared with three months ended September 30, 2023 
+ Research and development expense increased 3.9 million, due primarily to increases of 2.8 million in personnel expenses related to higher bonus achievement; 1.4 million in stock-based compensation expense primarily related to increased outstanding equity grants; and 0.3 million in infrastructure costs; partially offset by a decrease of 0.6 million in product development costs due to timing. 
+ 22 
+
+Table of Contents 
+
+ Nine months ended September 30, 2024 compared with nine months ended September 30, 2023 
+ Research and development expense increased 5.5 million, due primarily to increases of 6.1 million in personnel expenses from higher bonus achievement and higher headcount; 2.7 million in stock-based compensation expense primarily related to increased outstanding equity grants; and 1.0 million in infrastructure costs; partially offset by a decrease of 4.1 million in product development costs due to timing. 
+ Sales and Marketing 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+(in thousands) 
+ 
+ 2024 
+
+2023 
+
+Change 
+
+2024 
+
+2023 
+
+Change 
+
+Sales and marketing 
+
+9,888 
+
+10,073 
+
+(185) 
+
+29,891 
+
+30,678 
+
+(787) 
+
+Sales and marketing expense comprises primarily personnel expenses (salaries, incentive sales compensation, or commission, benefits and other employee-related costs) and stock-based compensation expense for our sales and marketing personnel; travel, advertising and promotional expenses; and an allocated portion of infrastructure costs which include occupancy, depreciation and software costs. 
+ Three months ended September 30, 2024 compared with three months ended September 30, 2023 
+ Sales and marketing expense was comparable for the periods with offsetting fluctuations. Personnel expenses decreased resulting from a decrease in headcount, which was offset by higher bonus achievement and commissions. 
+ Nine months ended September 30, 2024 compared with nine months ended September 30, 2023 
+ Sales and marketing expense decreased 0.8 million, due primarily to decreases of 0.6 million in personnel expenses resulting from a decrease in headcount, partially offset by higher bonus achievement and commissions. 
+ General and Administrative 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+(in thousands) 
+ 
+ 2024 
+
+2023 
+
+Change 
+
+2024 
+
+2023 
+
+Change 
+
+General and administrative 
+
+12,452 
+
+13,532 
+
+(1,080) 
+
+39,040 
+
+45,098 
+
+(6,058) 
+
+General and administrative expense comprises primarily personnel expenses (salaries, benefits and other employee related costs) and stock-based compensation expense for our executive, finance, human resources and information technology personnel; legal, accounting and other professional service fees; travel and insurance expense; and an allocated portion of infrastructure costs which include occupancy, depreciation and software costs. 
+ Three months ended September 30, 2024 compared with three months ended September 30, 2023 
+ General and administrative expense decreased 1.1 million, due primarily to a decrease of 3.8 million in professional services related to legal fees. This decrease was partially offset by increases of 1.5 million in personnel expenses related to higher bonus achievement and 1.0 million in stock compensation expense related to increased outstanding equity grants. 
+ Nine months ended September 30, 2024 compared with nine months ended September 30, 2023 
+ General and administrative expense decreased 6.1 million, due primarily to a decrease of 12.3 million in professional services related to legal fees and transaction expenses in the current year. This decrease was offset by an increase of 3.5 million in personnel expenses from higher bonus achievement, higher headcount and higher taxes associated with equity vesting, and an increase of 2.4 million in stock-based compensation expense, from increased outstanding equity grants. 
+ Amortization of Intangibles 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+(in thousands) 
+ 
+ 2024 
+
+2023 
+
+Change 
+
+2024 
+
+2023 
+
+Change 
+
+Amortization of intangibles 
+
+506 
+
+1,409 
+
+(903) 
+
+2,411 
+
+3,555 
+
+(1,144) 
+
+23 
+
+Table of Contents 
+
+ Three months ended September 30, 2024 compared with three months ended September 30, 2023 
+ Amortization of intangibles decreased 0.9 million. The decrease relates to the intangibles acquired as part of our April 3, 2023 acquisition of Voyantic Oy. Certain intangible assets acquired had a useful life of less than 1 year, resulting in a higher amortization expense in the prior-year period. 
+ Nine months ended September 30, 2024 compared with nine months ended September 30, 2023 
+ Amortization of intangibles decreased 1.1 million. The decrease relates to the intangibles acquired as part of our April 3, 2023 acquisition of Voyantic Oy. Certain intangible assets acquired had a useful life of less than 1 year, resulting in a higher amortization expense in the prior-year period. 
+ Restructuring Costs 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+(in thousands) 
+ 
+ 2024 
+
+2023 
+
+Change 
+
+2024 
+
+2023 
+
+Change 
+
+Restructuring costs 
+
+1,812 
+
+1,812 
+
+Three months ended September 30, 2024 compared with three months ended September 30, 2023 
+ There were no restructuring costs for the three months ended September 30, 2024 and 2023. 
+ Nine months ended September 30, 2024 compared with nine months ended September 30, 2023 
+ The increase in restructuring costs relates to the restructuring we initiated on February 7, 2024. See Note 12, Restructuring for further details. 
+ Other Income, net 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+(in thousands) 
+ 
+ 2024 
+
+2023 
+
+Change 
+
+2024 
+
+2023 
+
+Change 
+
+Other income, net 
+
+2,416 
+
+1,090 
+
+1,326 
+
+5,830 
+
+3,620 
+
+2,210 
+
+Other income, net comprises primarily interest income on our short-term investments. 
+ Three months ended September 30, 2024 compared with three months ended September 30, 2023 
+ Other income, net increased from the prior period due to increased interest income given higher invested balances and higher interest rates. 
+ Nine months ended September 30, 2024 compared with nine months ended September 30, 2023 
+ Other income, net increased from the prior period due to increased interest income given higher invested balances and higher interest rates. 
+ Income From Settlement of Litigation 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+(in thousands) 
+ 
+ 2024 
+
+2023 
+
+Change 
+
+2024 
+
+2023 
+
+Change 
+
+Income from settlement of litigation 
+
+45,000 
+
+45,000 
+
+Three months ended September 30, 2024 compared with three months ended September 30, 2023 
+ There was no income from litigation for the three months ended September 30, 2024 and 2023. 
+ 24 
+
+Table of Contents 
+
+ Nine months ended September 30, 2024 compared with nine months ended September 30, 2023 
+ The increase in income from settlement of litigation relates to the Settlement Agreement with NXP on March 13, 2024. See Note 6, Commitments and Contingencies for further details. 
+ Interest Expense 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+(in thousands) 
+ 
+ 2024 
+
+2023 
+
+Change 
+
+2024 
+
+2023 
+
+Change 
+
+Interest expense 
+
+1,219 
+
+1,213 
+
+6 
+
+3,652 
+
+3,633 
+
+19 
+
+Interest expense comprises primarily cash interest and amortization of debt issuance costs on our debt. 
+ Three months ended September 30, 2024 compared with three months ended September 30, 2023 
+ Interest expense was comparable for the periods. 
+ Nine months ended September 30, 2024 compared with nine months ended September 30, 2023 
+ Interest expense was comparable for the periods. 
+ Income Tax Expense 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+(in thousands) 
+ 
+ 2024 
+
+2023 
+
+Change 
+
+2024 
+
+2023 
+
+Change 
+
+Income tax benefit (expense) 
+
+(207) 
+
+195 
+
+(402) 
+
+(194) 
+
+472 
+
+(666) 
+
+We are subject to federal and state income taxes in the United States and foreign jurisdictions. Income tax expense increased 0.4 million and 0.7 million for the three and nine months ended September 30, 2024, respectively, compared to the prior-year periods due to changes in our estimated effective tax rate. 
+ Non-GAAP Financial Measures 
+ Our key non-GAAP performance measures include adjusted EBITDA and non-GAAP net income (loss), as defined below. We use adjusted EBITDA and non-GAAP net income (loss) as key measures to understand and evaluate our core operating performance and trends, to prepare and approve our annual budget and to develop short- and long-term operating plans. We believe these measures provide useful information for period-to-period comparisons of our business to allow investors and others to understand and evaluate our operating results in the same manner as our management and board of directors. Our presentation of these non-GAAP financial measures is not meant to be considered in isolation or as a substitute for our financial results prepared in accordance with GAAP, and our non-GAAP measures may be different from similarly termed non-GAAP measures used by other companies. 
+ 25 
+
+Table of Contents 
+
+ Adjusted EBITDA 
+ We define adjusted EBITDA as net income (loss) determined in accordance with GAAP, excluding, if applicable for the periods presented, the effects of stock-based compensation; depreciation and amortization; restructuring costs; settlement income and related costs; induced conversion expense; other income, net; interest expense; acquisition related expense and related purchase accounting adjustments; and income tax benefit (expense). During the year ended December 31, 2023, we revised our definition of adjusted EBITDA to exclude acquisition related expenses, related purchase accounting adjustments and amortization of intangibles in connection with our Voyantic Oy acquisition. During the three months ended March 31, 2024, we further revised our definition of adjusted EBITDA to exclude settlement income. We have excluded these items because we do not believe they reflect our core operations and us excluding them enables more consistent evaluation of our operating performance. The revision to our definition of adjusted EBITDA did not impact adjusted EBITDA for any previously reported periods because there was no impact of a similar nature in such prior periods affecting comparability. 
+ The following table presents a reconciliation of net loss to adjusted EBITDA: 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+(in thousands) 
+ 
+ 2024 
+
+2023 
+
+Change 
+
+2024 
+
+2023 
+
+Change 
+
+Net income (loss) 
+
+221 
+
+(15,762) 
+
+15,983 
+
+43,528 
+
+(28,186) 
+
+71,714 
+
+Adjustments: 
+
+Other income, net 
+
+(2,416) 
+
+(1,090) 
+
+(1,326) 
+
+(5,830) 
+
+(3,620) 
+
+(2,210) 
+
+Interest expense 
+
+1,219 
+
+1,213 
+
+6 
+
+3,652 
+
+3,633 
+
+19 
+
+Income tax expense (benefit) 
+
+207 
+
+(195) 
+
+402 
+
+194 
+
+(472) 
+
+666 
+
+Depreciation and amortization 
+
+3,247 
+
+3,668 
+
+(421) 
+
+10,155 
+
+9,734 
+
+421 
+
+Stock-based compensation 
+
+14,841 
+
+12,307 
+
+2,534 
+
+41,336 
+
+35,679 
+
+5,657 
+
+Restructuring costs 
+
+1,812 
+
+1,812 
+
+Acquisition related expense 
+
+4 
+
+(4) 
+
+986 
+
+1,676 
+
+(690) 
+
+Purchase accounting adjustments 
+
+112 
+
+(112) 
+
+388 
+
+(388) 
+
+Income on settlement of litigation 
+
+(45,000) 
+
+(45,000) 
+
+Adjusted EBITDA 
+
+17,319 
+
+257 
+
+17,062 
+
+50,833 
+
+18,832 
+
+32,001 
+
+Non-GAAP Net Income (Loss) 
+ We define non-GAAP net income as net income (loss), excluding, if applicable for the periods presented, the effects of stock-based compensation; depreciation and amortization; restructuring costs; settlement income and related costs; induced conversion expense; acquisition related expense and related purchase accounting adjustments; and the corresponding income tax impacts of adjustments to net income (loss). 
+ During the year ended December 31, 2023, we revised our definition of non-GAAP net income to adjust for acquisition related expenses, related purchase accounting adjustments and amortization of intangibles in connection with our Voyantic Oy acquisition. During the three months ended March 31, 2024, we further revised our definition of non-GAAP net income to exclude settlement income. The revisions to our definition of non-GAAP net income did not impact non-GAAP net income for any previously reported periods because there was no impact of a similar nature in such prior periods affecting comparability. 
+ Additionally, during the year ended December 31, 2023, we revised our definition of non-GAAP net income (loss) to adjust for income tax effects of adjustments to net income (loss), calculated at the statutory rate for current and historical periods. We have revised the prior period amounts to conform to our current period presentation. 
+ 26 
+
+Table of Contents 
+
+ The following table presents a reconciliation of net loss to non-GAAP net income (loss): 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+(in thousands) 
+ 
+ 2024 
+
+2023 
+
+Change 
+
+2024 
+
+2023 
+
+Change 
+
+Net income (loss) 
+
+221 
+
+(15,762) 
+
+15,983 
+
+43,528 
+
+(28,186) 
+
+71,714 
+
+Adjustments: 
+
+Depreciation and amortization 
+
+3,247 
+
+3,668 
+
+(421) 
+
+10,155 
+
+9,734 
+
+421 
+
+Stock-based compensation 
+
+14,841 
+
+12,307 
+
+2,534 
+
+41,336 
+
+35,679 
+
+5,657 
+
+Restructuring costs 
+
+1,812 
+
+1,812 
+
+Acquisition related expense 
+
+4 
+
+(4) 
+
+986 
+
+1,676 
+
+(690) 
+
+Purchase accounting adjustments 
+
+112 
+
+(112) 
+
+388 
+
+(388) 
+
+Income on settlement of litigation 
+
+(45,000) 
+
+(45,000) 
+
+Income tax effects of adjustments (1) 
+
+(1,410) 
+
+(207) 
+
+(1,203) 
+
+(4,434) 
+
+(1,990) 
+
+(2,444) 
+
+Non-GAAP net income 
+
+16,899 
+
+122 
+
+16,777 
+
+48,383 
+
+17,301 
+
+31,082 
+
+(1) The tax effects of the adjustments are calculated using the statutory rate, taking into consideration the nature of the item and relevant taxing jurisdiction. 
+
+Liquidity and Capital Resources 
+ As of September 30, 2024, we had cash, cash equivalents and short-term investments of 170.3 million, comprising cash deposits held at major financial institutions and short-term investments in a variety of securities, including U.S. government securities, treasury bills, corporate notes and bonds, commercial paper, and money market funds. As of September 30, 2024, we had working capital of (2.0) million, down from 39.4 million as of June 30, 2024. The decrease was driven by purchases of long-term investments in third-quarter 2024. 
+ Historically, we have funded our operations primarily through cash generated from operations and by issuing equity securities, convertible-debt offerings and/or borrowing under our prior senior credit facility. 
+ We believe, based on our current operating plan, that our existing cash, cash equivalents and short-term investments will be sufficient to meet our anticipated cash needs for at least the next 12 months. Over the longer term, we plan to continue investing to enhance and extend our platform. If our available funds are insufficient to fund our future activities or execute our strategy, then we may raise additional capital through equity, equity-linked or debt financing, to the extent such funding sources are available. Alternatively, we may need to reduce expenses to manage liquidity; however, any such reductions could adversely impact our business and competitive position. 
+ Sources of Funds 
+ From time to time, we may explore additional financing sources and ways to reduce our cost of capital, including equity, equity-linked and debt financing. In addition, in connection with any future acquisitions, we may pursue additional financing which may be debt, equity or equity-linked financing or a combination thereof. We can provide no assurance that any additional financing will be available to us on acceptable terms. 
+ 2021 Notes 
+ In November 2021, we issued convertible notes due 2027 in an aggregate principal amount of 287.5 million which we refer to as the 2021 Notes. The 2021 Notes are our senior unsecured obligation, bearing interest at a fixed rate of 1.125 per year, payable semi-annually in arrears on May 15 and November 15 of each year, beginning on May 15, 2022. The 2021 Notes are convertible into cash, shares of our common stock or a combination thereof, at our election, and will mature on May 15, 2027 unless earlier repurchased, redeemed or converted in accordance with the indenture terms. 
+ The net proceeds from the 2021 Notes were approximately 278.4 million after initial debt issuance costs, fees and expenses. We used approximately 183.6 million of the net proceeds to repurchase approximately 76.4 million aggregate principal amount of convertible notes due 2026, or the 2019 Notes, through individual privately negotiated transactions concurrent with the 2021 Notes offering. We used 17.6 million to repurchase the remaining 9.85 million aggregate principal of the 2019 Notes through individual privately negotiated transactions in June 2022. We will use the rest of the net proceeds for general corporate purposes. 
+ For further information on the terms of this debt, please refer to Note 7 to our condensed consolidated financial statements included elsewhere in this report. 
+ 27 
+
+Table of Contents 
+
+ Cash Flows 
+ The following table shows a summary of our cash flows for the periods indicated: 
+
+Nine Months Ended September 30, 
+
+(in thousands) 
+ 
+ 2024 
+
+2023 
+
+Net cash provided by (used in) operating activities 
+
+115,687 
+
+(50,809) 
+
+Net cash provided by (used in) investing activities 
+
+(148,705) 
+
+101,480 
+
+Net cash provided by financing activities 
+
+11,897 
+
+7,890 
+
+Operating Cash Flows 
+ For the nine months ended September 30, 2024, we generated 115.7 million of net cash from operating activities. These net cash proceeds were due primarily to 96.9 million of net income adjusted for non-cash items and 18.8 million in working capital due primarily to higher accounts payable, accrued compensation and lower inventory, partially offset by higher accounts receivable. 
+ For the nine months ended September 30, 2023, we used 50.8 million of net cash from operating activities. This net cash usage was due primarily to 67.0 million in working capital due primarily to higher inventory and lower accounts payable and 16.2 million of net loss adjusted for non-cash items. 
+ Investing Cash Flows 
+ For the nine months ended September 30, 2024, we used 148.7 million of net cash from investing activities. This net cash usage was due to purchases of investments of 154.3 million, cash paid for equipment purchases of 13.0 million, partially offset by cash generated by investment maturities of 18.6 million. 
+ For the nine months ended September 30, 2023, we generated 101.5 million of net cash from investing activities. These net cash proceeds were due primarily to investment maturities of 127.5 million and investment sales of 13.4 million, partially offset by cash paid for the Voyantic Oy acquisition of 23.4 million and net property and equipment purchases of 16.0 million. 
+ Financing Cash Flows 
+ For the nine months ended September 30, 2024, we generated 11.9 million of net cash from financing activities. These net cash proceeds were due to stock-option exercises and our employee stock purchase plan, offset by 4.6 million of cash paid for the earnout payment related to the Voyantic Oy acquisition. 
+ For the nine months ended September 30, 2023, we generated 7.9 million of net cash from financing activities. These net cash proceeds were due primarily to 7.9 million from stock-option exercises and our employee stock purchase plan. 
+ Cash Requirements and Contractual Obligations 
+ Our primary cash requirements are for operating expenses and capital expenditures. Our operating expenses have generally increased as we invest in developing products and technologies that we believe have the potential to drive long-term business growth. 
+ Convertible Notes As of September 30, 2024 the principal balance outstanding on the 2021 Notes is 287.5 million. Refer to Note 7 of our Notes to Condensed Consolidated Financial Statements in this Quarterly Report on Form 10-Q for maturity date, stated interest rate and additional information on our 2021 Notes. 
+ Operating Lease Obligations Our lease portfolio comprises primarily operating leases for our office space. For additional information regarding our operating leases, see Note 11 of our Notes to Consolidated Financial Statements of our Annual Report on Form 10-K for the year ended December 31, 2023. 
+ Purchase Commitments Purchase commitments as of September 30, 2024 total 32.9 million and comprise noncancelable commitments to purchase inventory. 
+ Off-Balance-Sheet Arrangements 
+ Since inception, we have not had any relationships with unconsolidated entities, such as entities often referred to as structured finance or special-purpose entities, or financial partnerships that would have been established for the purpose of facilitating off-balance-sheet arrangements or for another contractually narrow or limited purpose. 
+ Critical Accounting Policies and Significant Estimates 
+ We have prepared our condensed consolidated financial statements in accordance with GAAP. Our preparation of these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, 
+ 28 
+
+Table of Contents 
+
+ expenses and related disclosures. We evaluate our estimates and assumptions on an ongoing basis. Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances. Our actual results could differ from these estimates and assumptions. For information on our critical accounting policies and estimates, see Part II, Item 7 (Management s Discussion and Analysis of Financial Condition and Results of Operations) of our Annual Report on Form 10-K for the year ended December 31, 2023. 
+ Item 3.	Quantitative and Qualitati ve Disclosures About Market Risk. 
+ We are exposed to market risks in the ordinary course of our business. 
+ Interest Rate Risk 
+ Under our current investment policy, we invest our excess cash in money market funds, U.S. government securities, corporate bonds and notes and commercial paper. Our current investment policy seeks first to preserve principal, second to provide liquidity for our operating and capital needs and third to maximize yield without putting our principal at risk. We do not enter into investments for trading or speculative purposes. 
+ We had cash, cash equivalents and short-term investments of 170.3 million as of September 30, 2024. Our investments are exposed to market risk due to fluctuations in prevailing interest rates, which may reduce the yield on our investments or their fair value. Because most of our investment portfolio is short-term in nature, we do not believe an immediate 10 increase in interest rates would have a material effect on the fair market value of our portfolio, and therefore we do not expect our results of operations or cash flows to be materially affected by a sudden change in market interest rates. 
+ Our convertible notes have fixed interest rates, thus a hypothetical 100 basis point increase in interest rates would not impact interest expense. 
+ Inflation Risk 
+ We do not believe that inflation has had a material effect on our business, financial condition or results of operations. To date, we have been able to substantially offset higher product costs by increasing our product selling prices. If our product costs became subject to significant future inflationary pressures, then we may not be able to fully offset these higher costs through price increases. Our inability or failure to do so could adversely affect our business, financial condition and results of operations. 
+ 29 
+
+Table of Contents 
+
+ Foreign Currency Exchange Risk 
+ We are subject to risks associated with transactions that are denominated in currencies other than our functional currency and the effects of translating amounts denominated in a foreign currency to the U.S. dollar as a normal part of our reporting process. The functional currency of the majority of our foreign subsidiaries is the U.S. dollar. Accordingly, gains and losses resulting from remeasuring transactions denominated in currencies other than U.S. dollars are included in other income, net on the consolidated statements of operations. One of our European subsidiaries utilize Euros as their functional currency, which results in a translation adjustment that we include as a component of accumulated other comprehensive income. For any of the periods presented, we did not have material impact from exposure to foreign currency fluctuation. As we grow operations, our exposure to foreign currency risk will likely become more significant. 
+ Item 4.	Controls and Procedures. 
+ Evaluation of Disclosure Controls and Procedures 
+ Our management, including our chief executive officer and principal financial officer, evaluated the effectiveness of our disclosure controls and procedures as of September 30, 2024. Disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is (1) recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms and (2) accumulated and communicated to management, including its principal executive officer and principal financial officer, as appropriate to allow timely decisions regarding required disclosure. Based on the evaluation of our disclosure controls and procedures, our chief executive officer and principal financial officer concluded that our disclosure controls and procedures were effective at a reasonable assurance level as of September 30, 2024. 
+ Changes in Internal Control over Financial Reporting 
+ There were no changes that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting during the three months ended September 30, 2024. 
+ Limitations on Controls 
+ Our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of achieving the desired control objectives. Our management recognizes that any control system, no matter how well designed and operated, is based upon certain judgments and assumptions and cannot provide absolute assurance that its objectives will be met. Similarly, an evaluation of controls cannot provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, have been detected. 
+ 30 
+
+Table of Contents 
+
+ PART II OTHE R INFORMATION 
+ Item 1.	Legal Proceedings. 
+ In the normal course of business, we may be named as a party to various legal claims, actions and complaints. We cannot predict whether any resulting liability will have a material adverse effect on our financial position, results of operations, cash flows, market position or stock price. 
+ Item 1A.	Ris k Factors. 
+ You should carefully consider the following risk factors, in addition to the other information contained in this report, including the section of this report captioned Management s Discussion and Analysis of Financial Condition and Results of Operations and our financial statements and related notes. If any of the events described in the following risk factors and the risks described elsewhere in this report occur, then our business, operating results and financial condition could be materially impacted. This report also contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those anticipated in the forward-looking statements due to factors that are described below and elsewhere in this report. 
+ Risks Relating to Our Platform, Products and Technologies 
+ We operate in a very competitive market. 
+ Our primary competitors are: 
+ Endpoint ICs: NXP, EM Microelectronic, Kiloway, Quanray, Shanghai Fudan Microelectronics Group, Alibaba and Alien. 
+
+Reader ICs: Phychips Inc, Shanghai Fudan Microelectronics Group and MagicRF. 
+
+Readers and gateways: Zebra. 
+
+Test and measurement systems: CISC. 
+
+These competitors include companies that have much greater financial, operating, research and development, marketing and other resources than us. To gain market share, they could discount their products and accept lower margins, or they could maintain margins by achieving cost savings through better, more efficient designs or production methods. They could devote more resources than we can to product development, promotion, sales and support. They could also bundle other technologies, including those we do not have in our product portfolio, with their RAIN products. 
+ Our partners, including our OEMs, ODMs, distributors, SIs, VARs and solution partners, may choose to compete with us rather than purchase our products, which would not only reduce our customer base but also increase competition in the market. Companies in adjacent markets or newly formed companies may decide to enter our market, particularly as RAIN adoption grows. Further, the Chinese government has made development of the Chinese semiconductor industry a priority, potentially increasing competition for us globally while possibly restricting our ability to participate in the Chinese market. 
+ RAIN adoption is concentrated in key markets and the extent and pace of RAIN market adoption beyond those markets is uncertain. 
+ Our financial performance depends on the pace of end-user RAIN adoption in key markets, such as retail apparel (our largest market), retail general merchandise and SC L. Although RAIN has been adopted to some degree by end users in those markets, those end users as well as the markets themselves are subject to business cycles and macroeconomic trends. Continued RAIN adoption by those end users and in those markets may be at risk if and when negative business or economic conditions arise. 
+ The RAIN opportunity is still developing. RAIN adoption, as well as adoption of our platform and products, depends on many factors, including the extent to which end users understand and embrace the benefits that RAIN offers; whether the benefits of RAIN adoption outweigh the cost and time to replace or modify end users existing systems and processes; and whether RAIN products and applications meet end users current or anticipated needs. 
+ We have, at times, anticipated and forecasted a pace of end-user adoption that exceeded the actual pace of adoption. We expect continued difficulty forecasting the pace of adoption. As a result, we may be unable to accurately forecast our future operating results including revenue, gross margins, cash flows and profitability, any or all of which could negatively impact our financial performance. 
+ We must introduce new products, product enhancements and services to compete effectively. 
+ 31 
+
+Table of Contents 
+
+ We introduce new products and services to advance our business, satisfy increasingly demanding end-user requirements and grow RAIN market adoption. We commit significant resources developing and introducing these new products and services, and to improving the performance and reliability of, and reducing the costs of, our existing products and services. 
+ Whether our new or enhanced products and services will succeed is uncertain. Our success developing the technologies, processes or capabilities necessary or desired for new or enhanced products and services, or licensing or otherwise acquiring them from third parties, and our ability to introduce new or enhanced products and services before our competition, depends on many factors, including: 
+ 
+ our ability to identify new product capabilities or services that end users will widely adopt; 
+
+our timely and efficient completion of the design process; 
+
+our timely and efficient implementation of manufacturing, assembly and testing procedures; 
+
+our attainment of appropriate product or service performance levels and product certifications; 
+
+partnering successfully with others to deliver complementary products or services; 
+
+the quality, reliability and selling price of our product or service; and 
+
+the effectiveness of our marketing, sales and support. 
+
+When we introduce new products and services, our success in ramping adoption depends, in part, on us making those products and services easy for our partners and end users to deploy and use. For example, for our new M800-family endpoint ICs, we are currently significantly supporting our inlay partners to produce high-performing, high-quality inlays. Until our partners are able to deploy our products widely, adoption and our operating results could suffer. 
+ Our ability to deliver enterprise solutions at scale are nascent. 
+ We believe we are still at a very early stage in our ability to deliver enterprise solutions. We are developing solutions for retail self-checkout and loss prevention and SC L package routing that have been, or that we expect to be, deployed by the industry-leading enterprise end users. However, to fully capitalize on our platform's potential, we must make our current offerings repeatable across multiple enterprises as well as deliver additional solutions to enterprise needs. We must also develop relationships with top-tier solution partners to gain access to and address challenging new use cases. If we do not succeed in identifying, developing, selling and deploying enterprise solutions, particularly solutions that rely on autonomous reading, with top-tier partners and end users and across a range of markets and use cases, then our business prospects will suffer. 
+ Delivering enterprise solutions requires a network of partner products and services that complement our own product offerings and that together address enterprise needs. Convincing enterprises to partner with us to solve their business problems including evaluation, design, deployment, operations and services, as well as integrating RAIN data into the enterprise's information systems requires tight coordination among our and our partners' sales, marketing, operations and engineering teams. We, or our partners, may be unable to successfully acquire customers for our enterprise solutions, or successfully address our market opportunity. Although we have partners who can successfully introduce our platform, or aspects of it, to their customers, even today their knowledge of our platform and RAIN in general is often still nascent. If we do not build our network of solutions, and partners to deliver those solutions, and broaden our efforts to deliver solutions that leverage our platform in large, complex enterprise opportunities, then our business prospects will suffer. 
+ We rely on endpoint IC sales to generate most of our revenue. 
+ We derive, and expect to continue to derive, most of our revenue from our endpoint ICs. If demand declines, or if we are unable to procure enough wafers to meet the demand we have, or if we are unable to raise prices to offset cost increases, then our business and operating results will suffer. In addition, the continued adoption of, and demand for, our endpoint ICs, derives in part from us demonstrating the benefits of using our systems. If we fail to establish those benefits then we may be unsuccessful in countering competitive endpoint IC price pressures and our business and operating results could be adversely affected. 
+ The average selling prices of our products could fluctuate substantially. 
+ The average selling price, or ASP, of our products has historically decreased with time or to meet end-user demands, encourage adoption, address macroeconomic conditions or respond to competitive pressure. As demand for older products declines, or as competition from competitors with lower product costs or lower profitability expectations increases, or during times of oversupply, ASPs may decline quickly. 
+ 32 
+
+Table of Contents 
+
+ To compete profitably we must continually improve our technology and processes, reduce unit costs in line with lower selling prices, and introduce new, higher margin products. If we are unable to offset ASP reductions with increased sales volumes or reduced product costs, or if we are unable to introduce new products that command higher prices and better gross margins, then our overall revenue and gross margins will suffer. 
+ Though less common, we have also increased prices from time to time, especially during times of increasing wafer costs. For example, we raised prices in 2021, 2022 and 2023 to accommodate higher costs. We may be required to raise prices again if macroeconomic conditions, including inflation, create upward pressure on our product costs. Increased prices could dampen adoption and market growth. 
+ Pricing commitments and other restrictive provisions in our customer agreements could adversely affect our operating results. 
+ In the ordinary course of our business, we enter into agreements containing pricing terms that could, in some instances, adversely affect our operating results and gross margins. For example, some contracts specify future IC, reader or gateway pricing or contain most-favored-customer pricing for certain products. Other agreements contain exclusivity terms that prevent us from pursuing certain business with other customers during the exclusivity period. Reducing prices or offering favorable terms to one customer could adversely affect our ability to negotiate favorable terms with other customers. 
+ Changes in our product mix could adversely affect our overall gross margin. 
+ Endpoint IC sales, which constitute and likely will continue to constitute the majority of our product revenue, have, for the most part, lower gross margins than our systems product sales. Our overall product gross margins are affected by product mix, which can fluctuate based on supply and demand, competitive pressures and end-user needs and demand. A shift in sales mix away from our higher margin products to lower margin products, either within our endpoint IC product portfolio or from our systems business to our endpoint ICs, could negatively affect our gross margins. 
+ Poor product quality could result in significant costs to us and impair our ability to sell our products. 
+ Our products must meet increasingly demanding specifications for quality, reliability and performance. Our products are both highly technical and deployed in large, complex systems in which errors, defects or incompatibilities can be problematic for our partners and end users. 
+ If we are unable to identify or correct errors, defects, incompatibilities or other problems in our products, we could experience: 
+ loss of customer orders or customers; 
+
+lost or delayed market acceptance (either of our products and solutions or RAIN generally); 
+
+lost or delayed sales; 
+
+loss of market share; 
+
+damage to our brand and reputation; 
+
+impaired ability to attract new customers; 
+
+diversion of development resources; 
+
+increased service and warranty costs; 
+
+replacement costs; 
+
+legal actions by our partners or end users; and 
+
+increased insurance costs. 
+
+Moreover, if we encounter product quality issues, then we may be required to incur significant time and costs to diagnose, test and fix the issues. There can be no assurance that such remediation efforts would be successful. Even if successful, these efforts could further constrain our ability to supply our partners and end users with new products until we have resolved the issues. 
+ End users and partners must design our products into their products and business processes. 
+ Persuading end users or partners to design our products into their business processes or products requires educating them about RAIN s and our products value. They may use other technologies or products and may not be receptive to introducing RAIN into their business processes or products. Even when convinced, they often undertake long pilot programs and qualifications prior to placing orders. These pilot programs and qualifications can be time-consuming and expensive, and there is no assurance they will 
+ 33 
+
+Table of Contents 
+
+ result in an order for our products. If we fail to develop new products that adequately or competitively address end users or our partners needs, then we may not receive product orders, which could adversely affect our business, prospects and operating results. 
+ Our visibility into the length of the sales and deployment cycles for our products is limited. 
+ We have limited visibility into end user sales and deployment cycles, and these cycles are often longer than we anticipate. Many factors contribute to our limited visibility, including the time our partners and end users spend evaluating our products, the time educating them on RAIN s benefits and the time integrating our products with end users systems. The length and uncertain timing of the sales and deployment cycles can lead to delayed product orders. In anticipation of those orders, we may incur substantial costs before the sales cycle is complete and before we receive any customer orders or payments, if we receive them at all. 
+ An inability or limited ability of end user systems to exploit RAIN information may adversely affect the market for our products. 
+ A successful end-user deployment requires not only tags and readers or gateways, but RAIN integration with information systems and applications that create business value from the RAIN data. Unless third parties continue developing and advancing business analytics tools, and end users enhance their information systems to use these tools, RAIN deployments could stall. Our efforts to foster third-party development and deployment of these tools could fail. In addition, our guidance to business-analytics providers for integrating our products with their tools could prove ineffective. 
+ Solution providers and SIs are essential to the RAIN market. They provide deployment know-how to enable end users to successfully deploy RAIN solutions. Integrating our products with end-user information systems could prove more difficult or time-consuming than we or they anticipate, which could delay deployments. 
+ Alternative technologies may enable products and services that compete with ours. 
+ Technology developments may affect our business negatively. Breakthroughs in legacy RFID technologies or markets, including those using low frequency or high frequency RFID technology, or in other radio technologies, could adversely affect RAIN market growth and demand for our products. Likewise, new technologies may enable lower-cost ICs than our products. If we are unable to innovate using new or enhanced technologies or are slow to react to changes in existing technologies or in the market, or if we have difficulty competing with advances in new or legacy technologies, then our development of new or enhanced products could be impacted and result in product obsolescence, decreased revenue and reduced market share. 
+ Significant changes in RAIN standards bodies, standards or qualification processes could impede our ability to sell our products and services. 
+ We have historically taken a leadership position in developing RAIN industry standards, including with GS1 and ISO, and have designed our products to comply with those standards. We could lose that leadership position; our influence in standards development could diminish; or we could choose not to participate in certain standards activities. 
+ New or changed industry standards could affect us negatively. If industry standards diverge from our or the RAIN market s needs, then our products may fail to keep pace with the market or cause end users to delay their deployments. Moreover, the adoption or expected adoption of new or changed standards could slow sales of our existing products before we can introduce new products that meet the new or changed standards. New standards or changes to existing standards could also limit our ability to implement new features in our products. The lost opportunities as well as time and expense to develop new products or change our existing products to comply with new or changed standards could be substantial, and we may not ultimately succeed in developing products that comply with the new or changed standards. 
+ Certain organizations develop requirements for RAIN tags and test tags against those requirements. For example, the ARC Program at Auburn University develops tag performance and quality requirements for end users that engage them. Some participants in the RAIN market are ARC sponsors, but we are not among them. If ARC or a similar organization fails to certify or delays certifying tags incorporating our endpoint ICs, adoption and sales of our products could suffer. 
+ Changes in government spectrum regulations or in their enforcement could adversely affect our ability to sell our products. 
+ Our readers and gateways are collectively certified for use in more than 40 countries worldwide, including the United States, Canada, Mexico, China, Japan, South Korea and every country in the European Union, or the EU. 
+ Our products operate in spectrum bands in which governments permit the use of RFID/RAIN technology. If spectrum regulations or the application or enforceability or such regulations should change, or if our products were found to be noncompliant despite being certified, we could need to redesign our products, potentially resulting in significant costs, including costs associated with obsolete inventory. Regulatory changes may also cause us to forego opportunities, adversely affecting our business. 
+ In April 2024, NextNav Inc. asked the Federal Communications Commission, or the FCC, to initiate a proceeding that would consider whether to reconfigure the 902 928 MHz ISM spectrum, or Lower 900 MHz Band, in which RAIN and other unlicensed 
+ 34 
+
+Table of Contents 
+
+ services operate to enable a terrestrial backup to the U.S. Global Positioning System. To pay for the backup system, NextNav also asked for a license to use certain spectrum bands, including parts of the Lower 900 MHz Band used for RAIN operations, to deliver 5G broadband services. If approved as proposed, this ISM spectrum reconfiguration could interfere with RAIN radio transmissions and negatively impact the RAIN industry. 
+ We and other RAIN providers and end users, as well as other Lower 900 MHz Band users, have already registered our opposition to NextNav s petition and asked the FCC to reject it quickly. If the FCC declines to do so then we expect there to be a protracted decision-making process. The FCC would be required to consider all relevant comments and material of record before it decides whether to proceed with the proposal, issue a new or modified proposal, or take no action on the proposal. The fate of NextNav s petition is uncertain at this time, but if the FCC were to adopt NextNav's proposal and customers were not able to consistently use our RAIN products without interference, then our business would be significantly and negatively affected. 
+ Sales of some of our products could cannibalize revenue from other products. 
+ Some of our partners develop products that compete with our products. For example, some of our OEM partners use our reader ICs to build and sell readers and gateways that compete with our readers and gateways. Similarly, some of our partners use our readers to build and sell gateways that compete with our gateways. If we fail to manage such conflicts successfully, then our business and operating results could be negatively affected. 
+ Our licensing program is nascent. 
+ While we believe we have valuable RAIN intellectual property and aspire to monetize that intellectual property by licensing it to third parties, including third parties who compete with us to some extent, our experience in doing so is nascent, and our ability to grow licensing revenue remains subject to numerous risks and uncertainties. To materially grow our licensing program and revenues, we will need to maintain and grow our intellectual property portfolio and continue to research and develop RAIN innovations that will generate and maintain demand for licenses to our technology and features. We will also need to develop and maintain an ability to monitor infringement of our intellectual property rights by others and possibly seek enforcement action against those who attempt to infringe our intellectual property rights. These enforcement actions could require significant investments in management time and attention as well as cash as we incur legal and other expenses. They could also compete with our objectives in other areas of our business such as wanting to maintain close, strategic relationships with important partners or end users of our products. These are just some of the risks and uncertainties we face with respect to our nascent licensing program. 
+ We currently derive a substantial share of our licensing revenues from NXP, our primary endpoint IC competitor, based on our Settlement Agreement with them. For more information regarding the terms of our Settlement Agreement with NXP, please refer to Note 6 of our condensed consolidated financial statements included elsewhere in this report. If NXP were to breach its license payment obligations, or if NXP were to design around our intellectual property rights and exercise its right to terminate our license before the end of the agreement's 10-year term, our licensing revenues would decline and our overall results of operations and cash flows would suffer. 
+ Risks Relating to Our Personnel and Business Operations 
+ We obtain the products we sell through a limited number of third parties with whom we do not have long-term supply contracts. 
+ Our ability to secure cost-effective, quality products in a timely manner could be adversely affected by many factors, including: 
+ Third-party manufacturing capacity may not be available when we need it, particularly from our foundry partners from whom we procure silicon wafers. 
+
+Efforts to diversify our supplier base may be unsuccessful or may not result in us obtaining the anticipated benefits of such diversification. 
+
+Some products have long lead times, and we place orders for them many months before our anticipated delivery dates to our customers. If we inaccurately forecast customer demand, then we may be unable to meet our customers delivery requirements or we may accumulate excess inventory, increasing our costs. 
+
+Supply disruptions may affect our ability to meet partner or end-user demand, whether in a cost-effective manner or at all, potentially causing those partners or end users to cancel orders, qualify alternative suppliers or purchase from our competitors. Supply disruptions can also distort demand, making it even harder to meet true demand. 
+
+If our suppliers fail to manufacture our products at reasonable prices or with satisfactory quality levels, then our ability to bring those products to market and our reputation could both suffer. If supplier capacity diminishes, whether from equipment failures, closures, bankruptcy, capacity allocation, in response to public health events (such as Covid-19), catastrophic loss of facilities or otherwise, then we could have difficulty fulfilling orders, our revenue could decline and our growth prospects could be impaired. Transitioning our product manufacturing to new providers would take many months and, in the case of ICs, could take years. Any 
+ 35 
+
+Table of Contents 
+
+ transition would require a requalification by our customers or end users, which could also adversely affect our ability to sell our products as well as our operating results. 
+ Shortages of silicon wafers, integrated-circuit (IC) post-processing capacity or components used in our readers and gateways may adversely affect our ability to meet demand for our products and adversely affect our revenue and/or gross margins. 
+ Wafer shortfalls limit sales and may cause market-share losses. We expect wafer capacity in at least some of the semiconductor nodes we use to be tight for the foreseeable future. We procure wafers on a purchase-order basis, so our wafer supply is not guaranteed, and we may not receive adequate supply from our foundry partners when shortages occur. 
+ Wafer shortages may also artificially increase bookings as customers over-order our products, and then cause sales declines as those customers consume their accumulated inventory. Additionally, if our suppliers charge us more but we are unable to raise our prices to cover those higher costs, our gross margins and other financial results could suffer. 
+ Shortages of our silicon products can also occur due to post-processing constraints. To convert the wafers we receive from our foundry partner into saleable ICs, we perform additional steps including testing, thinning, bumping and dicing. If our third-party suppliers are unable to efficiently perform these steps, and our production capacity is constrained as a result, we may be unable to satisfy demand for our products and our financial results could suffer. 
+ We have also experienced shortages and price increases for components we use in our readers and gateways, as well as in packaging and test capacity for our reader ICs, and we may continue to experience such shortages and price increases in the future. Any such shortages or price increases will negatively impact our product availability and costs and our financial results will suffer. 
+ We bear inventory risks because our products have relatively long lead times, demand for our products are hard to accurately forecast, and we rely on partners to sell and distribute our products. 
+ We maintain inventory to meet customer demand. To guard against wafer shortages, and to allow for production risks given the relatively long lead times for our many of our products, we may invest in inventory to support anticipated business growth, like we did with endpoint IC inventory in 2017, 2020 and late 2022/early 2023. When we introduce new products, we may also initially carry higher inventory or have slower inventory turns depending on market acceptance. 
+ We typically order products from our suppliers based on partner forecasts before we receive purchase orders. However, many of our partners have difficulty accurately forecasting their demand and the timing of that demand, and sometimes cancel orders or reschedule product shipments, in some cases with little or no advance notice to us. Partners will also sometimes give us soft commitments for large orders that do not materialize. We have additional uncertainty arising from competition and from unanticipated external events, such as macroeconomic trends or events and changes in regulatory standards, all of which can adversely affect demand and consequently our inventory levels, sales and operating results. 
+ High inventory levels can increase expenses or reserves and expose us to a higher risk of product obsolescence, especially when we introduce new products and technologies. If we are unable to sell the inventory we purchased, or if we must sell it at lower prices, then our business will be negatively impacted. 
+ Acquisitions could result in operating difficulties, dilution and other harmful consequences. 
+ We regularly evaluate potential strategic transactions, and we may pursue them if complementary to our business. For example, in April 2023 we completed our acquisition of Voyantic Oy, a global provider of RFID (primarily RAIN and NFC) inlay and label design, manufacturing and test systems. Strategic transactions could be material to our financial condition and operating results. We have limited experience executing acquisitions. Integrating an acquired company, business or technology may create unforeseen operating difficulties and expenditures. Acquisition-related risks include: 
+ 
+ difficulties integrating acquired products or lines of business into our strategy and product plans; 
+
+customers switching from us to new suppliers because of the acquisition; 
+
+inability to retain employees from the business we acquire; 
+
+challenges associated with integrating employees from the acquired company into our organization; 
+
+difficulties integrating accounting, management information, human resource, legal and other administrative systems to permit effective management of the business we acquire; 
+
+potential requirements for remediating controls, procedures and policies appropriate for a public company in the acquired business that, prior to the acquisition, lacked these controls, procedures and policies; 
+
+36 
+
+Table of Contents 
+
+ potential liability for past or present environmental, hazardous substance or contamination concerns associated with the acquired business or its predecessors; 
+
+possible write-offs or impairment charges resulting from the acquisition; and 
+
+unanticipated or unknown liabilities relating to the acquired business. 
+
+Foreign acquisitions involve additional risks beyond those above, including those related to integrating operations across different cultures and languages, currency risks and the economic, political and regulatory risks associated with other countries. Also, the anticipated benefit of any acquisition, domestic or foreign, may not materialize. Future acquisitions or dispositions could result in potentially dilutive issuances of our equity securities, debt incurrence, contingent liabilities or amortization expenses or goodwill write-offs, any of which could harm our financial condition. Future acquisitions may require us to obtain additional equity or debt financing, which may not be available on favorable terms or at all. 
+ Changes in global trade policies could have a material adverse effect on us. 
+ Changes in U.S. and foreign laws and policies governing foreign trade, manufacturing, development and investment in the jurisdictions where we currently develop and sell products, and any negative consequences resulting from such changes, could materially affect our business. 
+ The U.S. government has imposed significant tariffs on a variety of items imported from other countries, particularly China. China responded by imposing significant tariffs on a variety of items imported from the United States. These tariffs could materially and adversely affect our ability to compete internationally. Although the United States and China signed a preliminary trade agreement in early 2020, the tariffs remain in place as negotiations between the countries continue. The future of these tariffs, as well as the possibility for new tariffs, remains uncertain. Changes in U.S. and Chinese industrial policy also contribute to uncertainty regarding the global trade environment. 
+ Other causes of uncertainty include the effects of sanctions and other actions against Russia after Russia invaded Ukraine. While we do not today have business with Russian partners or end users, the effect of these sanctions on global trade and macroeconomic conditions generally such as increasing energy costs and inflation could nevertheless negatively affect our business. 
+ We are subject to risks inherent in operating abroad and may not be able to successfully maintain or expand our international operations. 
+ In 2023, we derived 72 of our total revenue from sales outside the United States. We anticipate growing our business, in part, by growing our international operations, which presents a variety of risks, including: 
+ changes, some unexpected or unanticipated, in regulatory requirements, taxes, trade laws, tariffs, export quotas, custom duties or other trade restrictions; 
+
+lack of established, clear or fairly implemented standards or regulations with which our products must comply; 
+
+greater difficulty in enforcing contracts, judgments and arbitration awards in international courts, and in collecting accounts receivable as well as longer payment and collection periods; 
+
+limited or unfavorable intellectual property protection; 
+
+misappropriation of our intellectual property; 
+
+inflation and fluctuations in foreign currency exchange and interest rates; 
+
+restrictions, or changes thereof, on foreign trade or investment, including currency-exchange controls, including as a result of sanctions against Russia; 
+
+changes in a country s or region s political, regulatory, legal or economic conditions, including, for example, global and regional economic disruptions caused by any future public health outbreaks or pandemics, including a resurgence of Covid-19; 
+
+political, social and economic instability abroad; wars and other armed conflicts, such as those in Ukraine and the Gaza Strip; geopolitical tensions, such as those between the United States, China and Taiwan; and terrorist attacks and security concerns in general; 
+
+differing regulations with regard to maintaining operations, products and public information; 
+
+inequities or difficulties obtaining or maintaining export and import licenses; 
+
+37 
+
+Table of Contents 
+
+ differing labor regulations, including where labor laws may be more advantageous to employees than in the United States; 
+
+restrictions on earnings repatriation; 
+
+corrupt or unethical practices in foreign jurisdictions that may subject us to exposure under applicable anti-corruption and anti-bribery laws such as the U.S. Foreign Corrupt Practices Act of 1977, as amended, and the United Kingdom Bribery Act of 2010; and 
+
+regulations, and changes thereof, relating to data privacy, cybersecurity and the unauthorized use of, or access to, commercial and personal information, particularly in Europe. 
+
+We are subject to governmental export and import controls that could subject us to liability or impair our ability to compete in international markets. 
+ We must export and import our products in compliance with U.S. export controls, including the Commerce Department s Export Administration Regulations and economic and trade sanctions established by the Treasury Department s Office of Foreign Assets Controls, as well as similar controls established in the countries in which we do business. For example, the U.S. Commerce Department recently strengthened rules regarding semiconductor- and supercomputer-related products and restrictions against sending certain chips and chip-related technology and software to China without an export license. The modifications included an expansion of the products and destinations that require licensing. In addition, the United States and other countries continue to expand the economic sanctions and export control restrictions imposed against Russia and Belarus and certain Russian nationals and entities after Russia invaded Ukraine. We must undertake additional diligence efforts to comply with these rules, which may be time-consuming and result in delayed or lost opportunities. We may not always be successful in obtaining necessary export or import licenses, and our failure to obtain required export or import approval for our products or limitations on our ability to export or sell our products may harm our domestic and international sales and negatively affect our revenue. 
+ Tariffs could also have a material impact on our product costs and decrease our ability to sell our products to existing or potential customers as well as harm our ability to compete internationally. For more information, see Changes in global trade policies could have a material adverse effect on us. Any changes in our product or in export or import regulations or legislation; shifts or changes in enforcement; or changes in the countries, persons or technologies targeted by these regulations could delay us introducing new products in international markets, decrease use of our products by, or decrease our ability to export or sell our products to, existing or potential customers with international operations, adversely affecting our business and results of operations. 
+ Instability or deterioration in the political, social, business or economic conditions in key jurisdictions could harm our supply or development of products. 
+ Deterioration in the political, social, business or economic conditions in any jurisdictions in which we have significant suppliers, distributors or end users including as a result of natural disasters, labor strikes, public health crises, geopolitical events or other developments could slow or halt product shipments or disrupt our ability to manufacture, test or post-process our products., as well as our ability to effectively and timely execute on end user deployments. We outsource our manufacturing and production to suppliers in a small number of Asian jurisdictions, including Thailand, Malaysia, Taiwan and China. Some of these jurisdictions experienced significant restrictions during the Covid-19 pandemic. These jurisdictions have also experienced significant changes in political, social, business or economic conditions in the past and may experience them in the future. 
+ We could be forced to transfer our manufacturing, testing and post-processing activities to more stable, and potentially more costly, regions or find alternative suppliers. 
+ We source a significant portion of our wafers from suppliers in Taiwan, and our supply of wafers and other critical components may be materially and adversely affected by diplomatic, geopolitical and other developments between China and Taiwan. Notably, China has refused to renounce the use of military force against Taiwan, and there can be no assurance that relations between China and Taiwan will not deteriorate further, particularly in light of ongoing tensions between the United States and China. Any such developments could materially and adversely affect our business, financial condition and results of operations. 
+ Our business operations could be adversely affected by public health outbreaks and pandemics, or by natural disasters. 
+ Starting in 2020, Covid-19 created significant worldwide economic volatility, uncertainty and disruption, and presented our business with several risks and challenges. Although the Covid-19 global health emergency officially ended in 2023, experts caution that Covid-19 remains a public health risk, and the extent to which any public health outbreak or pandemic could impact future market demand and our business results is uncertain. 
+ In addition, other disasters, whether natural or manmade, could decrease demand for our products, disable our facilities, disrupt operations or cause catastrophic losses. We have facilities in areas with known seismic activity, such as our headquarters in Seattle, Washington. We have facilities in areas with known flooding, such as our office in Shanghai, China. We have a wafer post-processing 
+ 38 
+
+Table of Contents 
+
+ subcontractor in Thailand, a region with a known, and recent, history of flooding. A loss at any of these or other of our or our suppliers facilities could disrupt operations, delay production and shipments, reduce revenue and engender potentially large expenses. We do not carry insurance covering potential losses caused by pandemics, earthquakes, floods or other disasters. 
+ Risks Relating to Our Relationships with Partners and End Users 
+ We rely on a small number of customers for a large share of our revenue. 
+ We sell our endpoint ICs directly to inlay and tag OEMs and ODMs. We sell our reader ICs to OEMs and ODMs and our readers and gateways to solution providers, VARs and SIs, all primarily through distribution. If we fail to retain our endpoint IC, reader IC, reader or gateway partners or distributors or fail to establish relationships with new partners, then our business, financial condition or operating results could be harmed. 
+ In 2023, sales to tag OEMs Avery Dennison and Arizon accounted for 33 and 11 of our total revenue, respectively. Sales concentration to a small number of OEMs decreases our bargaining power and increases the risk that our pricing or sales could decline based on actions taken by our competitors or our own failure to compete effectively. 
+ Our competitors relationships with, or acquisitions of, these partners or distributors could interfere with our relationships with them. Any such interference could impair or delay our product sales or increase our cost of sales. 
+ We engage directly with some end users. Their projects, often involving large purchases of our readers and gateways, are often discrete deployments that can result in significant sales for periods of time. They also increase the volatility of our revenue and operating results. If we are unable to replace project-based revenue with new revenue streams, or if end users with large projects change or delay those projects without providing us with adequate notice, then our sales could decline from period to period and harm our stock price. 
+ Our ability to affect or determine end-user demand is limited in part because we sell and fulfill primarily through partners and rarely directly to end users. 
+ End users drive demand for our products but because we sell our products primarily through partners, we are one step removed from those end users and are often unable to directly assess and affect their demand. Our partners may choose to prioritize selling our competitors products over ours, or they may offer products that compete with our products or limit sales of our products. If our partners do not sell enough of our products or if they choose to decrease their inventories of our products, then our sales to those partners and our revenue will decline. 
+ Our partners may not properly forecast end users demand for our products. 
+ Our reserve estimates for products stocked by our distributors are based primarily on reports provided to us by those distributors, typically monthly. If the inventory and resale information our partners and distributors provide is inaccurate, or if we do not receive it in a timely manner, then we may not have a reliable view of products being sold to end users which could negatively impact our operating results. If our partners overestimate demand, they may invest in building too much capacity, which would put pricing pressure on the RAIN industry. In the short term, our partners might purchase more of our products than they need, increasing their inventory and reducing our future sales to them, and distributors may, subject to time and quality limitations, seek to return products in exchange for other products. If our partners underestimate demand, we may not be able to satisfy their needs and that of their customers, and adoption might suffer. In either case, our business and operating results could be negatively affected. 
+ Our growth strategy depends in part on the success of strategic relationships with third parties and their continued performance and alignment. 
+ We invest in relationships with solution providers, SIs, VARs and software providers whose product and/or solution offerings complement ours and through which we often fulfill our product sales. Our business will be harmed if we fail to develop and grow these partner relationships. For example, our operating results may suffer if our efforts developing partner relationships increase our costs but do not increase revenue. Partner relationships may also include exclusivity provisions, multiple levels of distribution, discounted pricing or investments in other companies. The cost of developing and maintaining these partner relationships may go unrecovered and our efforts may not generate a corresponding revenue increase. 
+ Occasionally we also engage directly with end users, often at their request, to help them develop solutions for challenging use cases. Such direct engagements could cause, or could be perceived to cause, conflicts with partners that could harm our partner relationships and our business, results of operations or financial condition. 
+ 39 
+
+Table of Contents 
+
+ If we fail to maintain or enhance our brand recognition or reputation on which our business depends, then our business could be harmed. 
+ We believe that building our brand and reputation is key to our relationships with partners and end users and our ability to attract new partners and end users. We also believe that our brand and reputation will be increasingly important as market competition increases. Our success depends on a range of factors, including: 
+ continuing to deliver high-quality, innovative and defect-free products; 
+
+maintaining high partner and end-user satisfaction; 
+
+successfully differentiating our products from those of our competitors; and 
+
+managing both positive and negative publicity. 
+
+Product supply shortages have challenged our ability to meet market needs and we have increased prices in response to our suppliers increasing their prices to us. Our inability to supply partners and end users with products they need, and/or our need to increase our prices could result in long-lasting, negative consequences to our relationships with those partners and end users, to RAIN adoption and to our business overall. 
+ Increasing attention to environmental, social and governance and regulatory matters may cause us to incur additional costs or expose us to additional risks. 
+ Investors, governmental and nongovernmental organizations, partners and end users are increasingly focusing on environmental, social and governance, or ESG, practices. Our ESG practices may not meet their standards, and they as well as advocacy groups may campaign for us to change our business or practices to address their ESG-related concerns. Our failure, or perceived failure, to adequately respond to any such campaigns could harm our business and reputation and negatively impact the market price of our securities. Moreover, with the continued evolution of ESG practices and reporting and disclosure requirements, our costs related to those ESG practices and reporting and disclosure requirements could increase, which could negatively affect our operating results. For example, the SEC has adopted final rules regarding climate-related disclosures in public companies periodic reporting, and compliance with these rules including the implementation of necessary internal controls and reporting procedures may lead to increased expenses and additional demands on our management and board of directors. 
+ We are subject to disclosure and reporting requirements for companies that use conflict minerals mined from the Democratic Republic of Congo and adjoining countries in their products, whether or not these products are manufactured by third parties. These requirements could affect the sourcing and availability of minerals that are used in the manufacture of our products. We have to date incurred costs and expect to incur significant additional costs associated with complying with the disclosure requirements, including for example, due diligence in regard to the sources of any conflict minerals used in our products, in addition to the cost of remediation and other changes to products, processes or sources of supply as a consequence of such verification activities. Additionally, we may face reputational challenges with our customers and other stakeholders if we are unable to sufficiently verify the origins of all minerals used in our products through the due diligence procedures that we implement. We may also face challenges with government regulators and our customers and suppliers if we are unable to sufficiently verify that the metals used in our products are conflict free. 
+ Risks Relating to Our Intellectual Property 
+ If we are unable to protect and enforce our intellectual property, then our business could be adversely affected. 
+ Our success depends in part upon our ability to obtain, maintain and enforce our patents, copyrights, trade secrets, trademarks and other intellectual property rights and prevent third parties from infringing, misappropriating or circumventing those rights. We have historically focused on filing U.S. patent applications, for many reasons, including the fact that a significant portion of RAIN products are sold for use in the United States. We have only a small number of foreign patents and applications. We also only have registered trademarks and domain names in select countries where we believe filing for such protection is appropriate. By focusing our intellectual property protection on the United States and a small number of foreign countries, we have a limited ability to assert intellectual property rights outside the United States, including in some significant foreign markets such as China or Europe. Moreover, the global manufacturing and distribution systems for tags or labels incorporating our endpoint IC products could complicate our efforts to enforce our U.S. patents. 
+ As we increasingly work with third parties, possibly including parties that compete with us to an extent, to advance our technical innovations and features, we cannot guarantee that our efforts to protect our intellectual property will be completely effective. 
+ We cannot guarantee that: 
+ any of the patents, trademarks, copyrights, trade secrets or other intellectual property rights we presently employ in our business will not lapse or be invalidated, circumvented, challenged or abandoned; 
+
+40 
+
+Table of Contents 
+
+ our intellectual property rights will provide competitive advantages to us; 
+
+our ability to assert our intellectual property rights against potential competitors or to settle current or future disputes will not be limited by our agreements with third parties; 
+
+any of our pending or future patent applications will issue or have the coverage we originally sought; 
+
+our intellectual property rights can or will be enforced, particularly in jurisdictions where competition may be intense or where legal protections may be weak; 
+
+we will not lose the ability to assert our intellectual property rights against, or to license our technology to, others and collect royalties or other payments; or 
+
+we will retain the right to ask for a royalty-bearing license to an industry standard if we fail to file an intellectual property declaration pursuant to the standards process. 
+
+Monitoring and addressing unauthorized use of our intellectual property is difficult and costly, and litigation to enforce our intellectual property rights is time consuming, distracting, expensive and uncertain. Our failure to identify unauthorized use of, or otherwise adequately protect our intellectual property could adversely affect our business. 
+ We have been and may in the future be party to intellectual property disputes which could be time consuming and costly to prosecute, defend or settle, result in the loss of significant rights, and adversely affect RAIN adoption or adoption of our products or platform. 
+ Patent litigation is complex and uncertain. We may or may not prevail in patent-related proceedings and such proceedings may result in increased legal expenses, additional demands on our management s time and attention, and negative effects on our relationships with partners or end users. If any pending or future proceedings result in an adverse outcome, our intellectual property rights could be weakened and we could be required to: 
+ cease manufacturing, using or selling the infringing products, processes or technology; 
+
+pay substantial damages for infringement; 
+
+expend significant resources to develop noninfringing products, processes or technology; 
+
+license technology from the party claiming infringement, which license may not be available on commercially reasonable terms or at all; 
+
+cross-license our technology to a competitor to resolve an infringement claim, which could weaken our ability to compete with that competitor; or 
+
+pay substantial damages to our partners or end users for them to discontinue using, or replace, infringing products with noninfringing products. 
+
+Even if we do prevail in patent-related proceedings, verdicts and judgments can be modified or even reversed by trial or appellate courts. License agreements entered in settlement of patent litigation, particularly any entered into with our competition, may not be as effective over the long term in providing us with all the benefits we bargained for when we entered into them. 
+ Many companies in our industry, as well as nonpracticing entities, hold patents and other intellectual property rights and may pursue, protect and enforce those intellectual property rights. We receive invitations to license patent and other intellectual property rights to technologies that could be important to our business. We also receive assertions against us, our partners and end users claiming we or they infringe patent or other intellectual property rights. If we decline to accept an invitation to license or to refute an asserted claim, then the offering or claiming party may pursue litigation against us. 
+ Intellectual property disputes have adversely affected RAIN adoption in the past and could disrupt growth prospects in the future. In 2011, Round Rock Research filed lawsuits against 11 end users, including Walmart and Macy s, for RAIN-related patent infringement. Despite the subsequent availability of an industry-wide license, we believe those lawsuits adversely affected demand for our products from 2011 to 2019. Subsequent litigation, including our patent litigation against NXP between 2019 and early 2024, may not have had as pronounced effects on demand as the Round Rock litigation, but could have dampened RAIN growth particularly in categories beyond those where RAIN is already established such as retail apparel. We, our partners, suppliers or end users could continue to be involved in intellectual property disputes in the future which could adversely affect our operating results and growth prospects. 
+ Many of our agreements require us to indemnify and defend partners and end users from third-party infringement claims and pay damages in the case of adverse rulings. These damages could be sizable and disproportionate to the business we derive from those partners or end users. Moreover, we may not know whether we are infringing a third party s intellectual property rights due to the 
+ 41 
+
+Table of Contents 
+
+ large number of RAIN-related patents or other systemic factors. For example, patent applications in the United States are maintained in confidence for up to 18 months after filing or, in some instances, for the entire time prior to patent issuance. Consequently, we may not be able to account for such rights until after a patent issues. 
+ Intellectual property policies of industry standards organizations in whose working groups we participate could require us to provide royalty-free licenses of some to our intellectual property. 
+ When participating in GS1, ISO, RAIN and other industry-standards organizations, it is a general policy that those who participate in developing a protocol or standard must license, either royalty-free or under reasonable and nondiscriminatory, or RAND, terms, intellectual property that is necessary to implement all or part of the protocol or standard. The standards body may require that the license be granted to members, as in the case of GS1, or to all parties, as in the case of ISO, that implement the protocol or standard. 
+ As a participant in developing GS1 EPCglobal UHF Gen2, UHF Gen2 V2, UHF Gen2 V3, tag data standards, low-level reader protocol and other GS1 EPCglobal protocols, we agreed to license to other GS1 EPCglobal members, on a royalty-free basis, those of our patents necessary to practice those protocols, subject to us receiving reciprocal royalty-free rights from the other GS1 EPCglobal member practicing the protocol. As a participant in developing ISO standards, we agreed to license on a RAND basis those of our patents necessary to practice those standards, subject to us receiving a reciprocal RAND license from the other entity practicing the standard. 
+ Although the policies themselves seek to advance protocol or standards development, disputes can arise because it may not be clear whether certain intellectual property is necessary to practice a protocol or standard. Such uncertainty could complicate us asserting our not-necessary patents against others, or to use those patents in our own defense, thereby devaluing our intellectual property. Further, some GS1 EPCglobal members declined to license their intellectual property on royalty-free terms, instead retaining the right to license their technology on RAND terms. These members may choose to assert their intellectual property, in which case we will need to defend ourselves within the confines of the GS1 and ISO intellectual property policies. 
+ We rely on third-party license agreements which, if impaired or terminated, could cause production or shipment delays that could harm our business. 
+ We have license agreements with third parties for patents, software and technology we use in our operations and in our products. For example, we license tools from design-automation software vendors to design our silicon ICs. Third-party licenses for patents, software and other technology important to our business may not continue to be available on commercially reasonable terms or may not be available at all. Loss of any such licenses could cause manufacturing interruptions or delays or reductions in product shipments until we can develop, license, integrate and deploy alternative technologies which, if even possible, could harm our business and operating results. 
+ Our use of open-source software may expose us to additional risks and weaken our intellectual property rights. 
+ Our products, processes and technology sometimes use or incorporate software that is subject to an open-source license. Certain open-source licenses require a user who intends to distribute the open-source software as a component of the user s software to disclose publicly part or all of the user s source code. In addition, certain open-source software licenses require the user of such software to make derivative works of the open-source software available to others at low or no cost. Open-source licensors generally do not provide warranties or other contractual protections regarding infringement claims or the quality of their code, opening us to business risks that could materially harm our operating results. 
+ We cannot guarantee that we have incorporated open-source software in a manner that is consistent with our policies and procedures relative to such open-source software, or in a manner that will not subject us to liability. 
+ Risks Relating to Privacy and Cybersecurity 
+ Privacy and security concerns relating to RAIN could damage our reputation and deter current or potential customers from using our products. 
+ Privacy advocates and others have raised and may continue raising concerns about RAIN compromising consumer privacy or facilitating theft. These concerns include unauthorized parties potentially collecting personal information or personal data, tracking consumers, stealing identities or causing other issues relating to privacy or data protection. Any such incident could cause our or our partners or end users operations to be disrupted and subject us or them to regulatory investigations or proceedings and claims, demands or litigation; consequently, we could face potential liability and significant costs and expenses to remediate or otherwise respond to the incident. Any failure or perceived failure to comply with any privacy- or security-related laws, regulations or contractual or other obligations to which we are or may be subject may result in regulatory actions, claims or litigation; legal and other costs; substantial time and resources; and fines, penalties or other liabilities. Any actions or concerns about security and privacy may be expensive to defend, cause us to expend substantial time and resources and damage our reputation and operating results or negatively impact overall RAIN industry development, even if unfounded. 
+ 42 
+
+Table of Contents 
+
+ We cannot be sure that any limitation-of-liability provisions in our agreements with customers, contracts with third-party vendors and service providers or other contracts are enforceable or adequate or will protect us from any liabilities or damages against claims relating to a security breach or other privacy- or security-related issue. 
+ Government regulations and guidelines and other standards relating to consumer privacy and cybersecurity may adversely impact adoption of our products, require us to make design changes or constrain our ability to implement new and desired product features, and actual or alleged violations of laws relating to privacy or cyber security may result in claims, proceedings and liability. 
+ Our partners and end users are subject to laws and regulations related to collecting, storing, transmitting and using personal information and personal data, as well as to additional laws and regulations that address privacy and cybersecurity related to RFID in general. Because RAIN is a type of RFID, we believe these laws and regulations apply to RAIN. 
+ The European Commission, or the EC, has issued guidance to address privacy concerns about RFID. In May 2009, the EC issued a recommendation that retailers in the EU inform their customers when RFID tags are either on or embedded within products. In April 2011, the EC signed a voluntary agreement with private and public entities to develop privacy guidelines for companies using RFID in the EU. Whereas compliance is voluntary, our partners and end users that do business in the EU prefer products that comply with the guidelines. If our products do not comply or enable compliance with the guidelines, then our business may suffer. 
+ More generally, the data security and privacy legislative and regulatory landscape in the United States, EU and other jurisdictions continues evolving. Aspects of key privacy laws and regulations including the California Consumer Privacy Act of 2018, the California Privacy Rights Act, similar privacy laws enacted in other states and the EU General Data Protection Regulation remain unclear as of the date of this report and continue evolving, potentially with far-reaching implications. Laws and regulations relating to privacy, data protection and security; related industry standards and guidelines; and continued evolution of these laws, regulations, standards, guidelines and other actual and asserted obligations, as well as their interpretation and enforcement, may require us to modify our products, practices and policies, which we may not be able to do on commercially reasonable terms or at all, and otherwise could cause us to incur substantial costs and expenses. Any failure or perceived failure by us or any third parties with which we do business to comply with these laws and regulations or other actual or asserted obligations may result in claims or litigation; actions against us by governmental entities; legal and other costs; substantial time and resources and fines, penalties or other liabilities. Any such actions may be expensive to defend, may incur substantial legal and other costs and substantial time and resources and likely would damage our reputation and adversely affect our business, financial condition and results of operations. 
+ Additionally, if we fail to develop products that meet end-user privacy requirements, then end users may choose not to use our products. 
+ Although the Gen2 V3 protocol includes features for addressing consumer privacy and authenticating a tag, and although we have incorporated custom features in our products designed to further protect consumer privacy, a third party may still breach these features, including as implemented in our products, in which case our reputation could be damaged and our business and prospects could suffer. 
+ A breach of security or other security incident impacting our systems or others used in our business could have an adverse effect on our business. 
+ We face risks of security breaches and incidents from a variety of sources including viruses, ransomware, hacking, malicious code, supply-chain attacks as well as social engineering or other employee or contractor negligence, malfeasance or unintentional acts. Accidental or willful security breaches or incidents, or unauthorized access to our facilities or information systems, or to others used in our business, could compromise the security of those facilities or information systems and the confidentiality, integrity and availability of confidential, personal or proprietary information. These risks may be heightened in connection with geopolitical tensions and events. 
+ The consequences of loss, unavailability, misuse, corruption or other unauthorized processing of confidential, personal or proprietary information could include, among other things, unfavorable publicity, reputational damage, difficulty marketing or selling our products, customer allegations of breach of contract, loss or theft of intellectual property, claims and litigation, governmental and regulatory investigations and other proceedings and fines, penalties and other damages and liabilities. Any of these consequences could have a material adverse effect on our business, financial condition, reputation and business relationships. 
+ We rely on third-party services to store and process data on our behalf, and on third-party security systems in a variety of applications. Our platform operates in conjunction with, and depends on, third-party products, services and components for security. The cybersecurity threat environment continues evolving, especially with heightened activity by state-sponsored actors. If we, our platform, or any of the third parties on which we rely suffers or is believed to have suffered a security breach or incident, vulnerability, error, ransomware or malicious event, then we could face increased costs, claims, liability, reduced revenue and harm to our reputation. 
+ 43 
+
+Table of Contents 
+
+ We devote resources to detect and prevent security breaches and other security-related incidents. In the event of an actual or perceived security breach or incident we may need to expend significant resources to mitigate, notify third parties of, and otherwise address the breach or incident, its root cause and take steps to prevent further breaches or incidents. Our insurance may not adequately cover claims relating to an actual or perceived security breach or incident and any breach or incident may increase our insurance costs as well as reduce or eliminate the future availability of such insurance, harming our business and reputation. 
+ Risks Relating to Our Financial Position and Capital Needs 
+ We have a history of losses and have only achieved profitability periodically. We cannot be certain that we will attain or sustain profitability in the future. 
+ We have incurred losses since our inception in 2000, with a net loss of 43.4 million for the year ended December 31, 2023, and an accumulated deficit of 430.2 million as of December 31, 2023. Although we reported GAAP net income for the first three quarters of 2024, there can be no assurance that we will be able to sustain profitability in the future. Our ability to attain or sustain profitability depends on numerous factors, many of which are out of our control, including continued RAIN industry adoption and us maintaining or growing our market share. Our costs to support operations, product development and business and personnel expansion in sales, engineering and marketing are significant and are likely to increase as we invest to grow the market and our share of it, reduce our costs and improve our operations. If we fail to increase our revenue or manage our expenses, or if our investments in growing the market or our share of it fail, then we may not attain or sustain profitability. 
+ We have a history of significant fluctuations in our quarterly and annual operating results. 
+ Our history shows significant sales volatility and a limited ability to forecast sales. We anticipate that, for the foreseeable future, our visibility to future sales, including volumes and prices, will continue to be limited. That limited visibility may cause fluctuations in our operating results and differences between actual and expected quarterly or annual operating results. 
+ Many factors, some outside our control, may cause or contribute to fluctuations in our quarterly and annual operating results. These fluctuations make financial planning and forecasting difficult. These fluctuations may also cause unanticipated decreases in our available cash, which could negatively affect our business and prospects. Material factors that contribute to fluctuations in our operating results include: 
+ macroeconomic conditions, including inflation, recession or economic slowdown, and their impact on our business and that of our suppliers, partners and end users; 
+
+fluctuations or delays in RAIN adoption and deployment by end users; 
+
+changes in the pace or direction of major deployments, whether due to macroeconomic conditions or enterprise-specific events or circumstances, and our, or our partners', ability to win business from these deployments; 
+
+fluctuations in demand for our products or platform, including by tag OEMs and other significant partners and end users on whom we rely for a substantial portion of our revenue; 
+
+fluctuations in the pricing and availability or supply of our products or key elements or components of those products, especially semiconductor wafers; 
+
+degradations in product quality, whether due to us or our suppliers, including quality claims or product returns; 
+
+delays in new-product introductions and in the maturity of our new-product technologies; 
+
+decreases in selling prices for our products; 
+
+delays in our product-shipment timing, customer or end-user sales or deployment cycles, or work performed under development contracts; 
+
+intellectual property disputes involving us, our partners, end users or other participants in our industry, or the timing of license payments for our intellectual property; 
+
+adverse outcomes of litigation or governmental proceedings; 
+
+timing variability in product introductions, enhancements, services and technologies by us and our competitors as well as market acceptance of new or enhanced products, services and technologies; 
+
+unanticipated excess or obsolete inventory as a result of significant demand fluctuations, supply-chain mismanagement, new-product introduction, quality issues or otherwise; 
+
+changes in the amount and timing of our operating costs, including those related to expanding our business, operations and infrastructure; 
+
+44 
+
+Table of Contents 
+
+ changes in business cycles or seasonal fluctuations that affect the markets in which we sell; 
+
+changes in industry standards or specifications, or changes in government regulations, relating to our products or our platform; 
+
+late, delayed or cancelled payments from our partners or end users; and 
+
+unanticipated impairment of long-lived assets and goodwill. 
+
+A substantial portion of our operating expenses are fixed in the short term, and as a result, fluctuations in revenue or unanticipated expenses can have a material and immediate impact on our profitability and negatively affect our operating results, which could cause the price of our common stock to decline. 
+ We may need to raise additional capital, which may not be available on favorable terms or at all. 
+ In the future, we may need to raise additional capital, including pursuant to shelf registration statements we may file from time to time with the SEC, potentially diluting our stockholders, restricting our operations or otherwise adversely affecting our business. 
+ Debt financing, if available, may include covenants limiting or restricting our ability to take specific actions such as incurring additional debt, expending capital or declaring dividends, or may impose financial covenants that limit our ability to achieve our business objectives. 
+ Our management has broad discretion in how to invest and spend our cash and cash equivalents and the proceeds from financings, including on capital expenditures, product development, working capital and other general corporate purposes. We may spend our cash and cash equivalents in ways that our stockholders may not agree with or that do not yield favorable returns. 
+ If we need additional capital but cannot raise it on acceptable terms, if at all, then we may not be able to meet our business objectives, financial obligations or both. If we raise additional capital but do not deploy it effectively then our business, financial condition, results of operations and prospects could be harmed and the market price of our common stock could suffer. 
+ Risks Relating to U.S. Federal Income Tax 
+ Our ability to use net operating losses and research and development credits to offset future taxable income and income taxes may be limited. 
+ As of December 31, 2023, we had federal U.S. net operating loss carryforwards, or NOLs, of 230.5 million and U.S. federal research and development credit carryforwards of 30.5 million, which we may use to reduce future taxable income or income taxes. We have established a valuation allowance against the carrying value of these deferred tax assets. The U.S. federal NOLs and U.S. federal research and development credit carryforwards began expiring in 2020. 
+ Under Sections 382 and 383 of the U.S. Internal Revenue Code, or the Code, a corporation that experiences a more-than 50 ownership change by one or more stockholders or groups of stockholders who own at least 5 of a company's stock over a three-year testing period is limited in its ability to use its pre-change NOLs and other tax assets to offset future taxable income or income taxes. If we undergo a future ownership change then our ability to use our NOLs and credit carryforwards could be limited by Sections 382 and 383 of the Code. Our NOLs may also be limited under state law. As a result of these limitations, we may not be able to utilize a material portion of, or possibly any of, our NOLs and/or credit carryforwards to reduce future taxable income or income taxes. 
+ We could be subject to additional income tax liabilities. 
+ We are subject to income taxes in the United States and certain foreign jurisdictions. During the ordinary course of business, we use significant judgment in evaluating our worldwide income tax obligations and we conduct many transactions for which the ultimate tax determination is uncertain. Although we believe our tax determinations are proper, the final determination of any tax audits and any possible litigation could be materially different from our historical income tax provisions and accruals. The results of an audit or litigation could have a material effect on our operating results or cash flows in the period or periods for which that determination is made. 
+ Changes in tax laws could have a material adverse effect on our business, cash flow, results of operations or financial conditions. 
+ We are subject to tax laws, regulations and policies of several taxing jurisdictions. Changes in tax laws, as well as other factors, could cause us to experience fluctuations in our tax obligations and effective tax rates and otherwise adversely affect our tax positions and results of our operations. For example, in August 2022, as part of the Inflation Reduction Act of 2022, the United States enacted a 1 excise tax on stock buybacks and a 15 alternative minimum tax on adjusted financial statement income. Additionally, beginning in 2022, the Code eliminated the right to deduct research and development expenditures and instead requires taxpayers to capitalize and amortize U.S. and foreign research and development expenditures over five and 15 tax years, respectively. We have accounted for 
+ 45 
+
+Table of Contents 
+
+ these changes in accordance with our understanding of the guidance available as of the date of this filing and as described in more detail in our financial statements. 
+ The CHIPS and Science Act, enacted August 9, 2022, provides tax credits for semiconductor manufacturing activities within the United States, but because we outsource our semiconductor manufacturing we do not expect to be entitled to these tax credits. 
+ Many countries, as well as organizations such as the Organization for Economic Cooperation and Development, have implemented or proposed changes to existing tax laws, including a 15 global minimum tax. Any of these developments or changes in U.S. federal, state or international tax laws or tax rulings could adversely affect our effective tax rate and our operating results. There can be no assurance that our effective tax rates, tax payments or tax credits and incentives will not be adversely affected by these or other developments or changes in law. 
+ Taxing authorities may successfully assert that we should have collected or in the future should collect sales and use, value-added or similar taxes. 
+ We do not collect sales and use, value-added or similar taxes in all jurisdictions in which we have sales, based on our belief that such taxes are either not applicable or an exemption from such taxes applies. Certain jurisdictions may assert that such taxes are applicable, which could result in tax assessments, penalties and interest, and we may be required to collect such taxes in the future, including as a result of a change in law. Such tax assessments, penalties and interest or future requirements may negatively affect our operating results. 
+ Risks Relating to Our Financial Reporting and Disclosure 
+ Any failure to maintain an effective system of disclosure and internal controls over financial reporting, or our ability to produce timely and accurate financial statements, could adversely affect investor confidence in us. 
+ As a public company, we must maintain effective disclosure controls and procedures and internal control over financial reporting. Effective internal controls are necessary for us to provide reliable financial reports and prevent fraud. 
+ Any failure to implement and maintain effective disclosure controls and procedures and internal control over financial reporting, including identifying material weaknesses, could cause investors to lose confidence in the accuracy and completeness of our financial statements and reports, which could adversely affect the market price of our common stock. We could also be subject to sanctions or investigations by The Nasdaq Stock Market, the SEC and other regulatory authorities. 
+ Risks Relating to Owning or Trading Our Securities 
+ The market price of our common stock has been and will likely continue to be volatile, and the value of your investment could decline significantly. 
+ The trading price of our common stock has fluctuated and is likely to continue to fluctuate substantially. The following factors, in addition to general risks and other risks described in this report, may have a material effect on the trading price of our common stock: 
+ price and volume fluctuations in the overall stock market; 
+
+changes in operating performance, stock market valuations and volatility in the market prices of other technology companies generally, and of those in our industry in particular; 
+
+actual or anticipated quarterly variations in our results of operations or those of our competitors; 
+
+actual or anticipated changes in our growth rate relative to our competitors; 
+
+delays in end-user deployments of RAIN solutions; 
+
+announcements by us or our competitors of acquisitions, new products, significant contracts, commercial relationships or capital commitments; 
+
+supply interruptions, including semiconductor wafer or other product or component shortfalls; 
+
+developments relating to intellectual property rights or in disputes relating to those rights; 
+
+our ability to develop and market new and enhanced products on a timely basis; 
+
+commencement of, or our involvement in, litigation; 
+
+changes in our board of directors or management; 
+
+changes in governmental regulations or in the status of our regulatory approvals; 
+
+46 
+
+Table of Contents 
+
+ unstable political and economic conditions, including instability resulting from wars and other armed conflicts, such as those in Ukraine and the Gaza Strip, or geopolitical tensions, such as those between the U.S., China and Taiwan; 
+
+the trading volume of our stock; 
+
+actual or perceived security breaches or incidents; 
+
+limited public float; 
+
+any future sales of our common stock or other securities; 
+
+financial analysts dropping or reducing their coverage of us; changes in financial estimates by analysts who do cover us; or our failure to meet analyst estimates or investor expectations; 
+
+fluctuations in the values of companies that investors perceive to be comparable to us; 
+
+the financial projections we may provide to the public, as well as any changes in those projections or our failure to meet those projections; and 
+
+general economic conditions and slow or negative growth in the markets in which we operate. 
+
+Technology stocks like ours have experienced extreme price and volume fluctuations, often unrelated or disproportionate to the company s underlying operating performance. Stock price volatility can cause stockholders to institute securities class-action litigation or stockholder derivative litigation, as occurred to us between 2018 and 2020. If any of our stockholders were to sue us, the defense and disposition of the lawsuit could be costly and divert the time and attention of our management, harm our operating results and negatively impact the trading price of our common stock. 
+ Transactions relating to the 2021 Notes may affect our stock s value. 
+ If the 2021 Notes are converted by holders, then we are entitled to deliver cash, stock or any combination of cash or stock, at our election. If we elect to deliver stock, the ownership interests of our existing stockholders will be diluted, and public market sales of stock issued upon a conversion could decrease our stock price. Anticipated future conversions of the 2021 Notes into stock could also decrease our stock price, as could short selling by holders of the 2021 Notes to hedge their positions. 
+ In December 2019, we issued the 2019 Notes. When we did so, we entered into privately negotiated capped-call transactions with financial counterparties to mitigate the dilutive impact on the Company above a given stock price. We left those capped-call transactions intact after we acquired the remainder of the outstanding 2019 Notes in June 2022. From time to time, the financial counterparties to the capped calls may modify their hedge positions by entering into or unwinding various derivative transactions involving our stock or by purchasing or selling our stock or other securities of ours in secondary market transactions prior to the maturity of the capped calls. This activity could cause a decrease in our stock price. 
+ For more information on the 2019 Notes, the 2021 Notes and the capped-call transactions, see Note 7 of our condensed consolidated financial statements included elsewhere in this report. 
+ Our principal stockholders and management own a significant percentage of our stock and are able to exercise significant influence over matters subject to stockholder approval. 
+ As of September 30, 2024, our executive officers, directors and principal stockholders, together with their respective affiliates, beneficially owned approximately 47.2 of our stock. As a result, our executive officers, directors and principal stockholders may be able to significantly influence, in their capacity as stockholders, matters requiring approval by our stockholders, including electing directors and approving mergers, acquisitions or other transactions. They may have interests that differ from yours and may vote in a way with which you disagree and which may be adverse to your interests. This ownership concentration could have the effect of delaying or preventing a change in our control or otherwise discouraging a potential acquirer from attempting to obtain control of us, which in turn could have a material adverse effect on our stock price. This ownership concentration could also prevent attempts by our stockholders to replace or remove our board of directors or management. 
+ We may not have sufficient cash flow or access to cash necessary to satisfy our obligations under the 2021 Notes, and our current and future indebtedness may restrict our business. 
+ Our ability to make scheduled payments of the principal of, to pay interest on or to refinance any current or future indebtedness, including the 2021 Notes, or to make cash payments in connection with any conversion of the 2021 Notes or upon any fundamental change if holders require us to repurchase their 2021 Notes for cash, depends on our future performance, which is subject to economic, financial, competitive and other factors beyond our control. Our business may not generate sufficient future cash from operations to service our indebtedness and make necessary capital expenditures. If we are unable to generate sufficient cash flow, then we may be required to pursue other alternatives, such as selling assets, restructuring indebtedness or obtaining additional equity capital on terms that may be onerous or highly dilutive. Our ability to refinance any of our indebtedness, including the 2021 Notes, will depend on the 
+ 47 
+
+Table of Contents 
+
+ capital markets and our financial condition at that time. We may not be able to pursue these alternatives on favorable terms or at all, which could result in us defaulting on our debt obligations. 
+ Our existing and future indebtedness could have important consequences to our stockholders and significant effects on our business. For example, it could: 
+ make it more difficult for us to satisfy our debt obligations, including the 2021 Notes; 
+
+increase our vulnerability to general adverse economic and industry conditions; 
+
+require us to dedicate a substantial portion of our cash flow from operations to payments on our indebtedness, thereby reducing the cash available to run our business; 
+
+limit our flexibility in planning for, or reacting to, changes in our business or in our industry; 
+
+restrict us from exploiting business opportunities; 
+
+place us at a competitive disadvantage compared to our competitors that have less indebtedness; and 
+
+limit our ability to borrow additional funds for working capital, capital expenditures, acquisitions, debt service requirements, executing our business strategy or for other purposes. 
+
+Anti-takeover provisions in our charter documents and under Delaware or Washington law could prevent, delay or impede an acquisition of us and constrain our stock price. 
+ Provisions of our certificate of incorporation and our bylaws may delay or discourage transactions involving an actual or potential change in our control or in our management, including transactions in which stockholders might otherwise receive a premium for their shares, or transactions that our stockholders might otherwise deem to be in their best interests. These provisions could, therefore, adversely affect our stock price. Among other things, our certificate of incorporation and bylaws: 
+ permit our board of directors to issue up to 5,000,000 shares of preferred stock, with any rights, preferences and privileges as they may designate; 
+
+provide that the authorized number of directors may be changed only by resolution of the board of directors; 
+
+provide that all vacancies, including newly created directorships, may, except as otherwise required by law, be filled by the affirmative vote of a majority of directors then in office, even if less than a quorum; 
+
+restrict the forum for certain litigation against us to Delaware; 
+
+require that any action taken by our stockholders be effected at a duly called annual or special meeting of stockholders and not by written consent; 
+
+provide that stockholders seeking to present proposals before a meeting of stockholders or to nominate candidates for election as directors at a meeting of stockholders must provide notice in writing in a timely manner, and also specify requirements as to the form and content of a stockholder s notice; 
+
+do not provide for cumulative voting rights (therefore allowing the holders of a majority of the shares of common stock entitled to vote in any uncontested election of directors to elect all of the directors standing for election, if they should so choose); and 
+
+provide that special meetings of our stockholders may be called only by the chair of the board, our chief executive officer or the board of directors. 
+
+In addition, because we are incorporated in Delaware, we are governed by the provisions of Section 203 of the Delaware General Corporation Law, which generally prohibits a Delaware corporation from engaging in any of a broad range of business combinations with any interested stockholder for a period of three years following the date on which the stockholder became an interested stockholder. Likewise, because our principal executive offices are located in Washington, the anti-takeover provisions of the Washington Business Corporation Act may apply to us under certain circumstances now or in the future. These provisions prohibit a target corporation from engaging in any of a broad range of business combinations with any stockholder constituting an acquiring person for a period of five years following the date on which the stockholder became an acquiring person. 
+ Our bylaws include provisions that could limit our stockholders ability to obtain a favorable judicial forum for disputes with us or our directors, officers or employees. 
+ Our bylaws provide that, unless we otherwise consent in writing, the Court of Chancery of the State of Delaware is the exclusive forum for any derivative action or proceeding brought on our behalf; any action asserting a breach of fiduciary duty; any action 
+ 48 
+
+Table of Contents 
+
+ asserting a claim against us arising pursuant to the Delaware General Corporation Law, our certificate of incorporation or our bylaws; or any action asserting a claim against us that is governed by the internal affairs doctrine. The choice of forum provision may limit stockholders ability to bring a claim in a judicial forum favorable for disputes with us or our directors, officers or other employees, which may discourage such lawsuits against us and our directors, officers and other employees. Alternatively, if a court were to find the choice of forum provision contained in our bylaws to be inapplicable or unenforceable in an action, we may incur additional costs associated with resolving such action in other jurisdictions, which could adversely affect our business and financial condition. 
+ Item 2.	Unregistered Sales of Equit y Securities and Use of Proceeds. 
+ None. 
+ Item 3.	Defaults Upon Senior Securities. 
+ 
+ None. 
+ Item 4.	Mine Safety Disclosures. 
+ 
+ Not applicable. 
+ Item 5.	Other Information. 
+ Securities Trading Plans of Directors and Executive Officers 
+ director or officer, as defined in Rule 16a-1(f), adopted or terminated a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement, each as defined in Item 408 of Regulation S-K, except as follows: 
+ , 
+
+- 
+
+Up to 
+
+, 
+
+- 
+
+Up to 
+ 
+ (1) Except as indicated by footnote, each trading arrangement marked as a Rule 10b5-1 Trading Arrangement is intended to satisfy the affirmative defense of Rule 10b5-1(c), as amended (the Rule ). (2) Except as indicated by footnote, each trading arrangement permits transactions through and including the earlier of (a) the execution or expiration of all trades specified under the trading arrangement or (b) the date listed in the table. Each trading arrangement marked as a Rule 10b5-1 Trading Arrangement only permits transactions upon expiration of the applicable mandatory cooling-off period under the Rule. 
+
+ 49 
+
+Table of Contents 
+
+ Item 6.	E xhibits 
+
+Incorporation by Reference 
+
+Exhibit Number 
+ 
+ Exhibit Description 
+ 
+ Form 
+ 
+ Date 
+ 
+ Number 
+ 
+ Filed Herewith 
+
+3.1(a) 
+ 
+ Amended and Restated Certificate of Incorporation of Impinj, Inc., as filed with the Secretary of State of the State of Delaware on June 10, 2020 
+ 
+ 8-K 
+ 
+ 6/12/2020 
+ 
+ 3.1 
+
+3.1(b) 
+ 
+ Certificate of Amendment to the Amended and Restated Certificate of Incorporation of Impinj, Inc., as filed with the Secretary of State of the State of Delaware on June 6, 2024 
+ 
+ 8-K 
+ 
+ 6/7/2024 
+ 
+ 3.1 
+
+3.2 
+ 
+ Amended and Restated Bylaws of Impinj, Inc. adopted as of February 23, 2023 
+ 
+ 8-K 
+ 
+ 2/23/2023 
+ 
+ 3.1 
+
+31.1 
+ 
+ Certification of Principal Executive Officer Required Under Rule 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended 
+
+X 
+
+31.2 
+ 
+ Certification of Principal Financial Officer Required Under Rule 13a-14(a) and 15d-14(a) of the Securities Exchange Act of 1934, as amended 
+
+X 
+
+32.1 
+ 
+ Certification of Principal Executive Officer Required Under Rule 13a-14(b) of the Securities Exchange Act of 1934, as amended, and 18 U.S.C. 1350 
+
+X 
+
+32.2 
+ 
+ Certification of Principal Financial Officer Required Under Rule 13a-14(b) of the Securities Exchange Act of 1934, as amended, and 18 U.S.C. 1350 
+
+X 
+
+101 
+ 
+ Inline XBRL Document Set for the condensed consolidated financial statements and accompanying notes in Part I, Item 1, Financial Statements of this Quarterly Report on Form 10-Q. 
+
+X 
+
+104 
+ 
+ Inline XBRL for the cover page of this Quarterly Report on Form 10-Q, included in the Exhibit 101 Inline XBRL Document Set. 
+
+X 
+
+The certifications attached as Exhibits 32.1 and 32.2 that accompany this Quarterly Report on Form 10-Q are not deemed filed with the Securities and Exchange Commission and are not to be incorporated by reference into any filing of Impinj, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date of this Form 10-Q, irrespective of any general incorporation language contained in such filing. 
+
+50 
+
+Table of Contents 
+
+ SIGNAT URES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Impinj, Inc. 
+
+Date: October 23, 2024 
+ 
+ By: 
+ 
+ /s/ Cary Baker 
+
+Cary Baker Chief Financial Officer (principal financial officer and duly authorized signatory) 
+
+51 
+
+<EX-31.1>
+ 2
+ pi-ex31_1.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1 
+ CERTIFICATIONS 
+ I, Chris Diorio, Ph.D., certify that: 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Impinj, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a)	Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ (b)	Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ (c)	Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ (d)	Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a)	All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+ (b)	Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date: October 23, 2024 
+
+/s/ Chris Diorio 
+
+Chris Diorio, Ph.D. 
+
+Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ pi-ex31_2.htm
+ EX-31.2
+
+EX-31.2 
+
+Exhibit 31.2 
+ CERTIFICATIONS 
+ I, Cary Baker, certify that: 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Impinj, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a)	Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ (b)	Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ (c)	Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ (d)	Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a)	All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+ (b)	Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date: October 23, 2024 
+
+/s/ Cary Baker 
+
+Cary Baker 
+
+Chief Financial Officer (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ pi-ex32_1.htm
+ EX-32.1
+
+EX-32.1 
+
+Exhibit 32.1 
+ IMPINJ, INC. 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Impinj, Inc. (the Company on Form 10-Q for the quarter ended September 30, 2024, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Chris Diorio, Ph.D., Chief Executive Officer (Principal Executive Officer) of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge: 
+ (1) 	 The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ (2) 	 The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ Chris Diorio 
+
+Chris Diorio, Ph.D. 
+
+Chief Executive Officer (Principal Executive Officer) 
+
+Date: October 23, 2024 
+ A signed original of this written statement required by Section 906 of the Sarbanes-Oxley Act of 2002 has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+ This certification accompanies the Report to which it relates, is not deemed filed with the Securities and Exchange Commission and is not to be incorporated by reference into any filing of Impinj, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before or after the date of the Report), irrespective of any general incorporation language contained in such filing. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ pi-ex32_2.htm
+ EX-32.2
+
+EX-32.2 
+
+Exhibit 32.2 
+ IMPINJ, INC. 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Impinj, Inc. (the Company on Form 10-Q for the quarter ended September 30, 2024, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Cary Baker, Chief Financial Officer (Principal Financial Officer) of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge: 
+ (1) 	 The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ (2) 	 The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+/s/ Cary Baker 
+
+Cary Baker 
+
+Chief Financial Officer (Principal Financial Officer) 
+
+Date: October 23, 2024 
+ A signed original of this written statement required by Section 906 of the Sarbanes-Oxley Act of 2002 has been provided to the Company and will be retained by the Company and furnished to the Securities and Exchange Commission or its staff upon request. 
+ This certification accompanies the Report to which it relates, is not deemed filed with the Securities and Exchange Commission and is not to be incorporated by reference into any filing of Impinj, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before or after the date of the Report), irrespective of any general incorporation language contained in such filing. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ pi-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT
+
+</EX-101.SCH>
+

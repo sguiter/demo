@@ -1,0 +1,999 @@
+<Header>
+<FileStats>
+    <FileName>20241107_10-Q_edgar_data_1516513_0001516513-24-000102.txt</FileName>
+    <GrossFileSize>8008302</GrossFileSize>
+    <NetFileSize>112686</NetFileSize>
+    <NonText_DocumentType_Chars>1393774</NonText_DocumentType_Chars>
+    <HTML_Chars>2941043</HTML_Chars>
+    <XBRL_Chars>1819394</XBRL_Chars>
+    <XML_Chars>1583634</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001516513-24-000102.hdr.sgml : 20241107
+<ACCEPTANCE-DATETIME>20241107160921
+ACCESSION NUMBER:		0001516513-24-000102
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		88
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241107
+DATE AS OF CHANGE:		20241107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Doximity, Inc.
+		CENTRAL INDEX KEY:			0001516513
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING SERVICES [7371]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				272485512
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40508
+		FILM NUMBER:		241435678
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 THIRD STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+		BUSINESS PHONE:		(650) 549-4330
+
+	MAIL ADDRESS:	
+		STREET 1:		500 THIRD STREET
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+
+</SEC-Header>
+</Header>
+
+ 0001516513-24-000102.txt : 20241107
+
+10-Q
+ 1
+ docs-20240930.htm
+ 10-Q
+
+docs-20240930 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ _________________________________________________________________________________________________________________ 
+ FORM 
+ _________________________________________________________________________________________________________________ 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the transition period from to 
+ Commission file number 
+ _________________________________________________________________________________________________________________ 
+ 
+ (Exact Name of Registrant as Specified in its Charter) 
+ _________________________________________________________________________________________________________________ 
+ (State or Other Jurisdiction of Incorporation or Organization) 
+ (I.R.S. Employer Identification Number) 
+
+, 
+ (Address of principal executive offices, including zip code) 
+ ) 
+ (Registrant's telephone number, including area code) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of exchange on which registered 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+ 
+ Accelerated filer 
+ Non-accelerated filer 
+ Smaller reporting company 
+ Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ The registrant had outstanding shares of Class A common stock and shares of Class B common stock as of October 31, 2024. 
+
+Table of Contents 
+
+ TABLE OF CONTENTS 
+ Part I Financial Information 
+ Page Item 1. 
+ Condensed Consolidated Financial Statements (Unaudited) : 
+ Condensed Consolidated Balance Sheets as of September 30, 2024 and March 31, 2024 
+ 1 
+ Condensed Consolidated Statements of Operations for the three and six months ended September 30, 2024 and 2023 
+ 2 
+ Condensed Consolidated Statements of Comprehensive Income for the three and six months ended September 30, 2024 and 2023 
+ 3 
+ Condensed Consolidated Statements of Stockholders Equity for the three and six months ended September 30, 2024 and 2023 
+ 4 
+ Condensed Consolidated Statements of Cash Flows for the six months ended September 30, 2024 and 2023 
+ 6 
+ Notes to Condensed Consolidated Financial Statements 
+ 7 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 24 
+ Item 3. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 34 
+ Item 4. 
+ Controls and Procedures 
+ 35 
+ Part II Other Information 
+ Item 1. 
+ Legal Proceedings 
+ 36 
+ Item 1A. 
+ Risk Factors 
+ 36 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 36 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 37 
+ Item 4. 
+ Mine Safety Disclosures 
+ 37 
+ Item 5. 
+ Other Information 
+ 37 
+ Item 6. 
+ Exhibits 
+ 38 
+ Signatures 
+ 40 
+
+Table of Contents 
+
+ SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the federal securities laws, which are statements that involve substantial risks and uncertainties. Forward-looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain words such as may, will, shall, should, expects, plans, anticipates, could, intends, target, projects, contemplates, believes, estimates, predicts, potential, or continue or the negative of these words or other similar terms or expressions that concern our expectations, strategy, plans, or intentions. Forward-looking statements contained in this Quarterly Report on Form 10-Q include, but are not limited to, statements about: 
+ our expectations regarding our revenue, expenses, and other operating results; 
+ our future financial performance; 
+ our expectations and management of future growth; 
+ our ability to acquire new members and successfully retain existing members; 
+ our ability to acquire new customers and successfully retain existing customers; 
+ our ability to achieve or maintain our profitability; 
+ future investments in our business, our anticipated capital expenditures, and our estimates regarding our capital requirements; 
+ the costs and success of our sales and marketing efforts, and our ability to promote our brand; 
+ our ability to effectively manage our growth, including our ability to identify, retain, and recruit personnel, and maintain our culture; 
+ our ability to comply with laws and regulations; 
+ our ability to successfully defend litigation brought against us; 
+ our ability to maintain, protect, and enhance our intellectual property rights and any costs associated therewith; 
+ our ability to maintain data privacy and data security; 
+ our ability to respond to rapid technological changes; 
+ our expectations regarding the impact of uncertainty in the current economic environment and macroeconomic uncertainty; 
+ our ability to compete effectively with existing competitors and new market entrants; 
+ the growth rates of the markets in which we compete; 
+ the increased expenses associated with being a public company; 
+ the impact of any cost-savings or restructuring activities we may undertake in the future; 
+ the sufficiency of our cash and cash equivalents and marketable securities to meet our liquidity needs; 
+ our ability to comply with modified or new laws and regulations applying to our business; 
+ our ability to successfully identify, acquire, and integrate companies and assets; 
+ developments and projections relating to our competitors and our industry, including competing solutions; 
+ impact from future regulatory, judicial, and legislative changes or developments that may affect our customers or our business; and 
+ the risks related to our Class A common stock and our dual class common stock structure. 
+ We caution you that the foregoing list may not contain all of the forward-looking statements made in this Quarterly Report on Form 10-Q. 
+
+Table of Contents 
+
+ You should not rely upon forward-looking statements as predictions of future events. We have based the forward-looking statements contained in this Quarterly Report on Form 10-Q primarily on our current expectations and projections about future events and trends that we believe may affect our business, results of operations, financial condition, and prospects. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties, and other factors described in the section titled Risk Factors in Part I, Item 1A of our Annual Report on Form 10-K for the fiscal year ended March 31, 2024 filed with the Securities and Exchange Commission, the SEC, on May 23, 2024, and elsewhere in this Quarterly Report on Form 10-Q, as well as in our other filings with the SEC. Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Quarterly Report on Form 10-Q. The results, events, and circumstances reflected in the forward-looking statements may not be achieved or occur, and actual results, events, or circumstances could differ materially from those described in the forward-looking statements. 
+ The forward-looking statements made in this Quarterly Report on Form 10-Q relate only to events as of the date on which the statements are made. We undertake no obligation to update any forward-looking statements made in this Quarterly Report on Form 10-Q to reflect events or circumstances after the date of this Quarterly Report on Form 10-Q or to reflect new information or the occurrence of unanticipated events, except as required by law. We may not actually achieve the plans, intentions, or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures, or investments we may make. 
+ In addition, statements that we believe and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this Quarterly Report on Form 10-Q, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and you are cautioned not to unduly rely upon these statements. 
+
+Table of Contents 
+
+ PART I FINANCIAL INFORMATION 
+ 
+ Item 1. Condensed Consolidated Financial Statements (Unaudited) 
+ 
+ DOXIMITY, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (in thousands, except per share data) 
+ (unaudited) 
+ September 30, 2024 March 31, 2024 Assets Current assets: Cash and cash equivalents Marketable securities Accounts receivable, net of allowance for doubtful accounts of and at September 30, 2024 and March 31, 2024, respectively 
+ Prepaid expenses and other current assets Total current assets Property and equipment, net Deferred income tax assets Operating lease right-of-use assets Intangible assets, net Goodwill Other assets Total assets Liabilities and Stockholders Equity Current liabilities: Accounts payable Accrued expenses and other current liabilities Deferred revenue, current Operating lease liabilities, current Total current liabilities Deferred revenue, non-current Operating lease liabilities, non-current Contingent earn-out consideration liability, non-current Other liabilities, non-current Total liabilities Commitments and contingencies (Note 12) 
+ par value; shares authorized as of September 30, 2024 and March 31, 2024, respectively; shares issued and outstanding as of September 30, 2024 and March 31, 2024, respectively 
+ Class A and Class B common stock, par value; shares authorized as of September 30, 2024 and March 31, 2024, respectively; and shares issued and outstanding as of September 30, 2024 and March 31, 2024, respectively 
+ Additional paid-in capital Accumulated other comprehensive income (loss) ) Retained earnings Total stockholders equity Total liabilities and stockholders equity 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 1 
+
+Table of Contents 
+
+ DOXIMITY, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (in thousands, except per share data) 
+ (unaudited) 
+ Three Months Ended September 30, Six Months Ended September 30, 2024 2023 2024 2023 Revenue Cost of revenue Gross profit Operating expenses: Research and development Sales and marketing General and administrative Restructuring and impairment charge 
+ Total operating expenses Income from operations Other income, net Income before income taxes Provision for income taxes Net income Net income per share attributable to Class A and Class B common stockholders: Basic Diluted Weighted-average shares used in computing net income per share attributable to Class A and Class B common stockholders: Basic Diluted 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 2 
+
+Table of Contents 
+
+ DOXIMITY, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+ (in thousands) 
+ (unaudited) 
+ Three Months Ended September 30, Six Months Ended September 30, 2024 2023 2024 2023 Net income Other comprehensive income Change in unrealized gain on available-for-sale-securities, net of tax provision of , , and , respectively 
+ Comprehensive income 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 3 
+
+Table of Contents 
+
+DOXIMITY, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY 
+ (in thousands) 
+ (unaudited) 
+ Three Months Ended September 30, 2024 Class A and Class B Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Income (Loss) Retained Earnings Stockholders' Equity Shares Amount Balance as of June 30, 2024 ) Stock-based compensation Exercise of stock options and common stock warrants 
+ Vesting of restricted stock units Tax withholding on shares under stock-based compensation awards ) ) Repurchase and retirement of common stock, including excise tax 
+ ) ) ) Common stock warrant expense Issuance of common stock in connection with the employee stock purchase plan Other comprehensive income Net income Balance as of September 30, 2024 
+ Three Months Ended September 30, 2023 Class A and Class B Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Loss Retained Earnings Stockholders' Equity Shares Amount Balance as of June 30, 2023 ) Stock-based compensation Exercise of stock options 
+ Vesting of restricted stock units Tax withholding on shares under stock-based compensation awards ) ) Repurchase and retirement of common stock, including excise tax 
+ ) ) ) ) Common stock warrant expense Issuance of common stock in connection with the employee stock purchase plan Other comprehensive income Net income Balance as of September 30, 2023 ) 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 4 
+
+Table of Contents 
+
+DOXIMITY, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY 
+ (in thousands) 
+ (unaudited) 
+ Six Months Ended September 30, 2024 Class A and Class B Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Income (Loss) Retained Earnings Stockholders' Equity Shares Amount Balance as of March 31, 2024 ) Stock-based compensation Exercise of stock options and common stock warrants 
+ Vesting of restricted stock units Tax withholding on shares under stock-based compensation awards ) ) Repurchase and retirement of common stock, including excise tax 
+ ) ) ) ) Common stock warrant expense Issuance of common stock in connection with the employee stock purchase plan Other comprehensive income Net income Balance as of September 30, 2024 
+ Six Months Ended September 30, 2023 Class A and Class B Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Loss Retained Earnings Stockholders' Equity Shares Amount Balance as of March 31, 2023 ) Stock-based compensation Exercise of stock options 
+ Vesting of restricted stock units Tax withholding on shares under stock-based compensation awards ) ) Repurchase and retirement of common stock, including excise tax 
+ ) ) ) ) Common stock warrant expense Issuance of common stock in connection with the employee stock purchase plan Other comprehensive income Net income Balance as of September 30, 2023 ) 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 5 
+
+Table of Contents 
+
+ DOXIMITY, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (in thousands) 
+ (unaudited) Six Months Ended September 30, 2024 2023 Cash flows from operating activities Net income Adjustments to reconcile net income to net cash provided by operating activities: 
+ Depreciation and amortization Deferred income taxes Stock-based compensation, net of amounts capitalized Non-cash lease expense Accretion of discount on marketable securities, net ) ) Amortization of deferred contract costs Impairment of long-lived assets 
+ Other ) Changes in operating assets and liabilities: 
+ Accounts receivable ) Prepaid expenses and other assets ) Deferred contract costs ) ) Accounts payable, accrued expenses and other liabilities ) ) Deferred revenue ) ) Operating lease liabilities ) ) Net cash provided by operating activities Cash flows from investing activities Purchases of property and equipment ) Internal-use software development costs ) ) Purchases of marketable securities ) ) Maturities of marketable securities Sales of marketable securities Net cash provided by investing activities Cash flows from financing activities Proceeds from issuance of common stock upon exercise of stock options and common stock warrants 
+ Proceeds from issuance of common stock in connection with the employee stock purchase plan Taxes paid related to net share settlement of equity awards ) ) Repurchase of common stock ) ) Payment of contingent consideration related to a business combination ) ) Net cash used in financing activities ) ) Net increase (decrease) in cash and cash equivalents ) Cash and cash equivalents, beginning of period Cash and cash equivalents, end of period 
+ Supplemental disclosures of cash flow information Cash paid for taxes, net of refunds 
+ Non-cash financing and investing activities Share repurchases included in accrued expenses 
+ Excise tax payable on share repurchases 
+ 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 6 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+
+1. 
+ 
+ 2. 
+ 7 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ revenue for the three and six months ended September 30, 2024 and 2023. 
+ Customer B Customer C 
+ _______________ 
+ Less than 10 
+
+3. 
+ 8 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ months or less. Customers are generally billed for a portion of the contract upon contract execution and then billed throughout the remainder of the contract based on various time-based milestones. Certain Marketing Solutions contracts are cancelable with a customary notice period. The Company does not refund customer payments, and customers are responsible for amounts invoiced where payment was not made upon cancellation. The contractual term for Hiring Solutions contracts is generally months. Hiring Solutions contracts are noncancelable and customers are billed in annual, quarterly, or monthly installments in advance of the service period. 
+ 2) Identify the performance obligations in the contract 
+ Performance obligations promised in a contract are identified based on the services that will be transferred to the customer that are both capable of being distinct, whereby the customer can benefit from the service either on its own or together with other resources that are readily available, and are distinct in the context of the contract, whereby the transfer of the services is separately identifiable from other promises in the contract. 
+ Marketing Solutions customers may purchase a subscription for a specific module to be used over a defined period of time. These customers may purchase more than one module with either the same or different subscription periods. Modules are the core building blocks of the customers marketing plan and can be broadly categorized as Awareness, Interactivity, and Peer. As an example, the Company s Awareness modules may include a sponsored article, short animated videos or other short-form content that is presented to the targeted member. 
+ Each module targets a consistent number of Doximity members per month for the duration of the subscription period. The Company treats each subscription to a specific module as a distinct performance obligation because each module is capable of being distinct as the customer can benefit from the subscription to each module on their own and each subscription can be sold standalone. Furthermore, the subscriptions to individual modules are distinct in the context of the contract as (1) the Company is not integrating the services with other services promised in the contract into a bundle of services that represent a combined output, (2) the subscriptions to specific modules do not significantly modify or customize the subscription to another module, and (3) the specific modules are not highly interdependent or highly interrelated. The subscription to each module is treated as a series of distinct performance obligations because it is distinct and substantially the same, satisfied over time, and has the same measure of progress. 
+ Marketing Solutions customers may also purchase integrated subscriptions for a fixed subscription fee that are not tied to a single module but allow customers to utilize any combination of modules during the subscription period, subject to limits on the total number of modules launched in a given period of time, active at any given time, and members targeted. These represent stand-ready obligations in that the delivery of the underlying sponsored content is within the control of the customer and the extent of use in any given period does not diminish the remaining services. 
+ Subscriptions to Hiring Solutions provide customers access to the platform to place targeted job postings and send a fixed number of monthly messages. Each subscription is treated as a series of distinct performance obligations that are satisfied over time. 
+ 3) Determine the transaction price 
+ The transaction price is determined based on the consideration the Company expects to be entitled to in exchange for transferring services to the customer. Variable consideration is included in the transaction price if, in the Company s judgment, it is probable that a significant future reversal of cumulative revenue recognized under the contract will not occur. 
+ The Company may generate sales through the use of third-party media agencies that are authorized to enter into contracts on behalf of an end customer. The Company acts as the principal in these transactions since it maintains control prior to transferring the service to the customer and is primarily responsible for the fulfillment that occurs through the Company s platform. The Company records revenue for the amount to which it is entitled from the third-party media agencies as the Company does not know and expects not to know the price charged by the third-party media agencies to its customers. 
+ 9 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ Other Total revenue 
+ Contract Balances 
+ Timing of revenue recognition may differ from the timing of invoicing to customers. Marketing Solutions customers are generally billed for a portion of the contract upon contract execution and then billed throughout the remainder of the contract based on various time-based milestones, starting when the tailored content is first shared on the Doximity platform. Hiring Solutions customers are generally billed periodically throughout the service period. The Company s contracts do not contain significant financing components. 
+ 10 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ million and million as of September 30, 2024 and March 31, 2024, respectively. 
+ Deferred revenue consists of noncancelable customer billings or payments received in advance of revenue recognition. Deferred revenue balances are generally expected to be recognized within months. Since the majority of the Company s contracts have a duration of one year or less, the Company has elected not to disclose remaining performance obligations in accordance with the optional exemption in ASC 606. Remaining performance obligations for contracts with an original duration greater than one year are not material. 
+ Revenue recognized for the three months ended September 30, 2024 and 2023 from amounts included in deferred revenue as of the beginning of the period was million and million, respectively. Revenue recognized for the six months ended September 30, 2024 and 2023 from amounts included in deferred revenue as of the beginning of the period was million and million, respectively. 
+ Deferred Contract Costs 
+ The Company capitalizes sales compensation that is considered to be an incremental and recoverable cost of obtaining a contract with a customer. The Company pays commissions based on signing new arrangements with customers and upon renewals and expansion of existing contracts with customers. 
+ Deferred compensation is generally amortized over the weighted-average contractual term, ranging from months to months. The portion of deferred compensation expected to be recognized within one year of the balance sheet date is included in prepaid expenses and other current assets, and the remaining portion is recorded as other assets on the condensed consolidated balance sheets. The amortization of deferred contract costs is included in sales and marketing expense in the condensed consolidated statements of operations. Sales compensation that is not considered an incremental cost is expensed in the same period that it was earned. 
+ The Company capitalized million and million of contract acquisition costs for the three and six months ended September 30, 2024, respectively, and million and million of contract acquisition costs for the three and six months ended September 30, 2023. Amortization of deferred contract costs was million and million for the three and six months ended September 30, 2024, respectively, and million and million for the three and six months ended September 30, 2023. As of September 30, 2024, the Company s current and non-current deferred contract cost balances were million and million, respectively. As of March 31, 2024, the Company s current and non-current deferred contract cost balances were million and million, respectively. 
+ impairment losses relating to deferred contract costs during the three and six months ended September 30, 2024 and 2023. 
+ 11 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ 4. 
+ ) Money market funds Total cash equivalents ) Marketable securities: Commercial paper Corporate notes and bonds ) U.S. government and agency securities Total marketable securities ) Total cash equivalents and marketable securities ) 
+ Due in one to two years Total 
+ Actual maturities may differ from contractual maturities because certain borrowers have the right to call or prepay certain obligations. 
+ Money market funds Total cash equivalents Marketable securities: Asset-backed securities Commercial paper ) Corporate notes and bonds ) Sovereign bonds ) U.S. government and agency securities ) Total marketable securities ) Total cash equivalents and marketable securities ) 
+ As of September 30, 2024 and March 31, 2024, the Company has recognized accrued interest of million and million, respectively, which is included in prepaid expenses and other current assets in the condensed consolidated balance sheets. 
+ 12 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ t recognize any impairment on these securities as of September 30, 2024 or March 31, 2024. The Company did t recognize any credit losses related to the Company s debt securities as of September 30, 2024 or March 31, 2024. The fair value related to the debt securities with unrealized losses for which no credit losses were recognized was million and million as of September 30, 2024 and March 31, 2024, respectively. 
+ ) ) Corporate notes and bonds ) ) Total 
+ ) ) 
+ As of March 31, 2024 Less than 12 months 12 months or greater Total Fair Value Gross Unrealized Losses Fair Value Gross Unrealized Losses Fair Value Gross Unrealized Losses Asset-backed securities Commercial paper ) ) Corporate notes and bonds ) ) Sovereign bonds ) ) U.S. government and agency securities 
+ ) ) ) Total 
+ ) ) ) 
+ 
+ 5. 
+ 13 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ Money market funds Total cash equivalents Marketable securities: Commercial paper Corporate notes and bonds U.S. government and agency securities Total marketable securities Total cash equivalents and marketable securities Liabilities: Contingent earn-out consideration liability Total contingent earn-out consideration liability 
+ As of March 31, 2024 Level 1 Level 2 Level 3 Total Cash equivalents: Corporate notes and bonds Money market funds Total cash equivalents Marketable securities: Asset-backed securities Commercial paper Corporate notes and bonds Sovereign bonds U.S. government and agency securities Total marketable securities Total cash equivalents and marketable securities Liabilities: Contingent earn-out consideration liability Total contingent earn-out consideration liability 
+ During the six months ended September 30, 2024 and 2023, the Company had no transfers between levels of the fair value hierarchy. 
+ 14 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ Additions in the period Change in fair value Payments ) ) Ending fair value 
+ The contingent earn-out consideration liability relates to the AMiON acquisition, which closed on April 1, 2022. The fair value of the liability is remeasured at each reporting date until the related contingency is resolved, with any changes to the fair value recognized as sales and marketing expense in the condensed consolidated statements of operations. 
+
+6. 
+ Computers and software Leasehold improvements Internal-use software development costs Total property and equipment Less: accumulated depreciation and amortization ) ) Total property and equipment, net 
+ Depreciation and amortization expense on property and equipment was million and million for the three and six months ended September 30, 2024, respectively, and million and million for the three and six months ended September 30, 2023, respectively. Included in these amounts was amortization expense for internal-use software development costs of million and million for the three and six months ended September 30, 2024, respectively, and million and million for the three and six months ended September 30, 2023, respectively. The amortization of the internal-use software development costs is included in cost of revenue in the condensed consolidated statements of operations. 
+ During the three and six months ended September 30, 2024, the Company capitalized million and million, respectively, and during the three and six months ended September 30, 2023, capitalized million and million, respectively, of internal-use software development costs, which are included in property and equipment, net in the condensed consolidated balance sheets. 
+ During the three and six months ended September 30, 2024, an immaterial impairment charge was recognized on property and equipment. See Note 11 for further details. impairment was recognized on property and equipment during the three and six months ended September 30, 2023. 
+ 
+ 15 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ 7. 
+ Accrued payroll, bonus, and related expenses Employee contributions under employee stock purchase plan Rebate liabilities Sales and other tax liabilities Income taxes payable Current portion of contingent earn-out consideration liability Share repurchase liability 
+ Transferable federal tax credits payable 
+ Other Total accrued expenses and other current liabilities 
+
+8. 
+ Other intangibles Total intangible assets Less: accumulated amortization ) ) Total intangible assets, net 
+ Amortization expense for intangible assets was million and million for three months ended September 30, 2024 and 2023, respectively, and million and million for the six months ended September 30, 2024 and 2023, respectively. 
+ impairment charges on intangible assets were recorded during the three and six months ended September 30, 2024 and 2023. 
+ 2026 2027 2028 2029 2030 Thereafter Total future amortization expense 
+ 16 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ million. impairment charges on goodwill were recorded during the three and six months ended September 30, 2024 and 2023. 
+ 
+ 9. 
+ shares of undesignated preferred stock with a par value of per share with rights and preferences, including voting rights, designated from time to time by the board of directors. As of September 30, 2024 and March 31, 2024, there were shares of preferred stock issued and outstanding. 
+ Common Stock and Creation of Dual-Class Structure 
+ The Company has classes of common stock authorized: Class A common stock and Class B common stock, and are collectively referred to as common stock throughout the notes to the condensed consolidated financial statements, unless otherwise noted. On June 8, 2021, the Company s board of directors and stockholders approved an amendment to the Company s amended and restated certificate of incorporation which authorized shares of Class A common stock with par value of and vote per share, and shares of Class B common stock with par value of and votes per share. The holders of common stock are entitled to receive dividends, as may be declared by the board of directors. Each of the Company s shares of then-existing common stock outstanding was reclassified into Class B common stock. Each outstanding share of Class B common stock may be converted at any time at the option of the holder into share of Class A common stock. As of September 30, 2024, there were shares of Class A common stock, and shares of Class B common stock outstanding. 
+ Stock Repurchase Program 
+ Prior to March 31, 2024, the Company s board of directors authorized various programs to repurchase up to million of the Company s Class A common stock. Under these programs, the Company repurchased and retired shares of Class A common stock. All of these programs were completed as of April 2024. 
+ On May 1, 2024 the Company s board of directors authorized a program to repurchase up to million of the Company s Class A common stock with no expiration date. As of September 30, 2024, the Company repurchased and retired shares of Class A common stock under this program for an aggregate purchase price of million and million remained available and authorized for repurchase. 
+ All repurchases are subject to general business and market conditions and other investment opportunities and may be executed through open market purchases or privately negotiated transactions, including through Rule 10b5-1 plans. Immediately upon the repurchase of any shares of Class A common stock, such shares shall be retired by the Company and shall automatically return to the status of authorized but unissued shares of Class A common stock. 
+ Effective January 1, 2023, the Company s share repurchases in excess of allowable share issuances are subject to a 1 excise tax as a result of the Inflation Reduction Act of 2022. As of March 31, 2024 and September 30, 2024, the Company had accrued excise taxes of million, all of which remained unpaid as of September 30, 2024. 
+ Common Stock Warrants 
+ In March 2017, the Company issued a warrant to purchase shares of common stock at an exercise price of per share in connection with a contract signed between the Company and U.S. News World Report, L.P., or U.S. News. All shares under the warrant were exercised as of March 31, 2024 for an aggregate intrinsic value of million. 
+ In October 2021, the Company issued a warrant to U.S. News (the U.S. News Warrant to purchase shares of Class A common stock with an exercise price of per share in connection with the execution of a commercial agreement with U.S. News. The U.S. News Warrant expires years from the date of grant. The first tranche of the U.S. News Warrant vested on May 1, 2022 and the remainder will vest on a monthly basis over approximately years. The grant-date fair value of the U.S. News Warrant was million, which was determined using the Black-Scholes option-pricing model on the date of 
+ 17 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ years. During the six months ended September 30, 2024 and 2023, million was recognized as stock-based compensation expense relating to the U.S. News Warrant. During the six months ended September 30, 2024, shares with an intrinsic value of million were exercised under the warrant. The remaining shares under the warrant were outstanding as of September 30, 2024. As of September 30, 2024, unamortized stock-based compensation expense related to the unvested warrants was million, which is expected to be recognized over the remaining vesting period of years. 
+ Equity Incentive Plans 
+ The Company maintains equity incentive plans: the 2010 Equity Incentive Plan (the 2010 Plan ), the 2021 Stock Option and Incentive Plan (the 2021 Plan ), and the 2021 Employee Stock Purchase Plan (the ESPP ). Upon IPO, the 2021 Plan became effective and the 2010 Plan was terminated. The 2010 Plan continues to govern the terms of outstanding awards that were granted prior to the termination of the 2010 Plan. The 2021 Plan provides for the granting of incentive stock options, nonstatutory stock options, restricted stock units, and restricted stock awards to employees, non-employee directors, and consultants of the Company. 
+ The Company granted stock options under the terms of the Plans and outside of the Plans, as approved by the board of directors. During fiscal 2018, the Company granted options outside of the Plans, of which options were exercised and were outstanding as of September 30, 2024. 
+ 2010 Plan Options outstanding 2021 Plan 
+ Awards outstanding 
+ Shares available for future grant 2021 ESPP Options outstanding outside the plans Total 
+ Stock Options 
+ Stock options granted generally vest over with service-based, performance-based, and/or market-based conditions and expire from the date of grant. 
+ Options exercised ) Options forfeited or expired ) Balance, September 30, 2024 Vested and exercisable as of September 30, 2024 Vested and expected to vest as of September 30, 2024 
+ 18 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ million and million, respectively. 
+ As of September 30, 2024, unamortized stock-based compensation expense related to unvested stock options was million, which is expected to be recognized over a weighted-average period of years. 
+ The Company has not granted any stock options since the first quarter of fiscal 2022. 
+ Restricted Stock Units RSUs 
+ RSUs granted by the Company generally vest over three or based on continued service. 
+ Granted Vested ) Forfeited ) Unvested balance, September 30, 2024 
+ The total fair value of RSUs vested during the six months ended September 30, 2024 and 2023 was million and million, respectively. 
+ As of September 30, 2024, total unrecognized stock-based compensation expense related to unvested RSUs was million, which is expected to be recognized over a weighted-average period of years. 
+ Performance-Based Restricted Stock Units PSUs 
+ During the six months ended September 30, 2024, the Company granted PSUs that are subject to both service-based and performance-based vesting conditions. During the six months ended September 30, 2024, PSUs vested. As of September 30, 2024, the unamortized stock-based compensation expense related to unvested PSUs was million. The amount to be recognized will be based on the extent the performance metrics are achieved. 
+ Stock-Based Compensation Expense 
+ Research and development Sales and marketing General and administrative Restructuring 
+ Total stock-based compensation expense 
+ 19 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ 10. 
+ Denominator 
+ Weighted-average shares used in computing net income per share attributable to Class A and Class B common stockholders, basic 
+ Dilutive effect of stock options Dilutive effect of common stock warrants Dilutive effect of other share-based awards Weighted-average shares used in computing net income per share attributable to Class A and Class B common stockholders, diluted 
+ Net income per share attributable to Class A and Class B common stockholders: 
+ Basic Diluted 
+ Common stock warrants Total 
+ 
+ 11. 
+ . The Company incurred million in restructuring expense in the second quarter of fiscal 2024 in connection with the workforce reduction under the Restructuring Plan, consisting of million of severance payments and employee benefits and million of stock-based compensation expense for the accelerated vesting of equity awards. The actions associated with the workforce reduction under the Restructuring Plan were completed as of March 31, 2024. 
+ Impairment Charge 
+ During the three months ended September 30, 2024, the Company executed a sublease for a portion of its Curative office space in Irving, Texas. The Company evaluated the associated asset group for impairment, which included the right-of-use assets and underlying property and equipment for the lease. The Company compared the expected future undiscounted cash flows to the carrying value and determined the respective asset group was not fully recoverable. The Company calculated the fair value based on the present value of the estimated cash flows from the sublease for the remaining lease term and compared the estimated fair value to its carrying value, which resulted in a million impairment charge. The fair value of the operating lease right-of-use assets and associated property and equipment was estimated as of the sublease execution date using level 3 
+ 20 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+12. 
+ shareholder derivative lawsuits have also been filed and are consolidated under the caption In re Doximity, Inc. Derivative Litigation, No. 5:24-cv-02801-EKL (N.D. Cal.). The complaints assert claims for, among other things, breach of fiduciary duties, unjust enrichment, abuse of control, gross mismanagement, and waste against certain of our directors and officers on a similar basis to the securities lawsuit. Other similar lawsuits or proceedings may be initiated in the future. The defendants intend to defend vigorously against these actions. In light of, among other things, the early stage of the litigation, the Company is unable to predict the outcome of these matters and is unable to reasonably estimate the amount or range of loss, if any, that could result from an unfavorable outcome. 
+ material loss contingencies were recorded for the three and six months ended September 30, 2024 and 2023. 
+ 
+ 21 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ 13. 
+ Variable lease cost Total lease cost 
+ During the three months ended September 30, 2024, the Company executed a sublease for a portion of its Curative office space in Irving, Texas. Any impairment to the associated right-of-use assets and underlying property and equipment as a result of a sublease is recognized in the period the sublease is executed and recorded in the consolidated statements of operations. See Note 11 for further details. 
+ The sublease will commence in November 2024 and has a lease term of approximately years. The Company has classified the sublease as an operating lease. Total lease payments under the sublease are million over the lease term of the sublease. The Company will recognize sublease income as a reduction of lease expense in the Company s consolidated statements of operations. sublease income was recognized for the three and six months ended September 30, 2023 and 2024. 
+ 
+ Supplemental balance sheet information related to leases was as follows: 
+ September 30, 2024 March 31, 2024 Weighted-average remaining lease term (in years) Weighted-average discount rate 
+ 2026 2027 2028 2029 Thereafter Total future lease payments Less: imputed interest ) Present value of lease liabilities 
+ 
+ 22 
+
+Table of Contents 
+ DOXIMITY, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (unaudited) 
+
+ 14. 
+ Net gain (loss) on sale of marketable securities ) Other income (expense) ) ) ) Other income, net 
+ 
+ 15. 
+ and , respectively, and for the three and six months ended September 30, 2023 were and , respectively. 
+ The Company's effective tax rate differs from the U.S. federal statutory rate, primarily due to state income taxes, stock-based compensation related tax benefits, which are subject to limitations for certain executive officers under IRC section 162(m), and federal and state research and development tax credits. The Company s effective tax rate is based on forecasted annual income before income taxes which may fluctuate through the rest of the year. 
+ million and million, respectively, which are primarily included in other liabilities, non-current in our consolidated balance sheets. If realized, million would impact the effective tax rate while the remainder would reduce deferred tax assets subject to a full valuation allowance. The Company does not expect any material changes to its UTBs within the next 12 months. 
+ 
+ 16. 
+ operating and reportable segment. 
+ Substantially all of the Company s long-lived assets were based in the United States as of September 30, 2024 and March 31, 2024. No country outside of the United States accounted for more than 10 of total revenue for the three and six months ended September 30, 2024 and 2023. Substantially all of the Company s revenue was derived in the United States for the three and six months ended September 30, 2024 and 2023. 
+ 23 
+
+Table of Contents 
+
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ You should read the following discussion and analysis of our financial condition and results of operations together with our condensed consolidated financial statements and accompanying notes that are included elsewhere in this Quarterly Report on Form 10-Q and our Annual Report on Form 10-K, filed with the SEC on May 23, 2024. This discussion contains forward-looking statements based upon current expectations that involve risks and uncertainties, as described under the heading Special Note Regarding Forward-Looking Statements in this Quarterly Report on Form 10-Q. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under the section titled Risk Factors in Part 1, Item 1A of our Annual Report on Form 10-K or in other parts of this Quarterly Report on Form 10-Q. Our historical results are not necessarily indicative of the results that may be expected for any period in the future, and our interim results are not necessarily indicative of the results that may be expected for the full fiscal year or any other period. The last day of our fiscal year is March 31 st . Our fiscal quarters end on June 30 th , September 30 th , December 31 st , and March 31 st . Fiscal 2025, our current fiscal year, will end on March 31, 2025. 
+ 
+ Overview 
+ We are the leading digital platform for U.S. medical professionals, as measured by the number of members. Our members include more than 80 of U.S. physicians, spanning all 50 states and every medical specialty. 
+ Our mission is to help every physician be more productive and provide better care for their patients. We are physicians-first, putting technology to work for doctors instead of the other way around. That guiding principle has enabled Doximity to become an essential and trusted professional platform for physicians. Our physician cloud puts modern software in the hands of physicians and other medical professionals, enabling our members to collaborate with colleagues, stay up to date with the latest medical news and research, manage their careers and on-call schedules, streamline documentation and administrative paperwork, and conduct virtual patient visits. Our revenue-generating customers, primarily pharmaceutical manufacturers and healthcare systems, have access to a suite of commercial solutions that benefit from broad physician usage. 
+ At the core of our platform is the largest medical professional network in the nation, which creates proximity within our community of doctors and hundreds of thousands of other medical professionals. Verified members can search and connect with colleagues and specialists, which allows them to better coordinate patient care and streamline referrals. Our newsfeed addresses the ever increasing sub-specialization of medical expertise and volume of medical research by delivering news and information that is relevant to each physician's clinical practice. We also support physicians in their day-to-day practice of medicine with mobile-friendly and easy-to-use productivity tools such as voice and video dialer, secure messaging, digital faxing, and Doximity GPT. Our business model is designed to both respect and support physicians while driving value for our customers through our Marketing, Hiring, and Productivity Solutions. Our revenue-generating customers, primarily pharmaceutical manufacturers and health systems, have access to a suite of commercial solutions that benefit from broad physician usage. 
+ Our business model has delivered high revenue growth at scale with profitability. For the three months ended September 30, 2024 and 2023, we recognized revenue of 136.8 million and 113.6 million, respectively, representing a year-over-year growth rate of 20 . For the six months ended September 30, 2024 and 2023, we recognized revenue of 263.5 million and 222.1 million, respectively, representing a year-over-year growth rate of 19 . For the three months ended September 30, 2024 and 2023, our net income was 44.2 million and 30.6 million and our adjusted EBITDA was 76.1 million and 54.2 million, respectively. For the six months ended September 30, 2024 and 2023, our net income was 85.5 million and 59.0 million and our adjusted EBITDA was 142.1 million and 100.7 million, respectively. We have accomplished this while focusing on our core mission to help every physician be more productive and provide better care for their patients. 
+ 
+ 24 
+
+Table of Contents 
+
+ Key Business and Financial Metrics 
+ We monitor a number of key business and financial metrics to assess the health and success of our business, including: 
+ Customers with Trailing 12-Month Subscription Revenue Greater than 500,000. The number of customers with trailing 12-month TTM subscription revenue greater than 500,000 is a key indicator of the scale of our business, and is calculated by counting the number of customers that contributed more than 500,000 in subscription revenue in the TTM period. Our customer count is subject to adjustments for acquisitions, consolidations, spin-offs, and other market activity, and we present our total customer count for historical periods reflecting these adjustments. 
+ The number of customers with at least 500,000 of revenue has grown steadily in recent years as we have engaged new customers and expanded within existing ones. This cohort of customers accounted for approximately 83 of our revenue for the TTM ended September 30, 2024. 
+ September 30, 2024 2023 Number of customers with at least 500,000 of revenue 
+ 103 92 
+ Net Revenue Retention Rate. Net revenue retention rate is calculated by taking the TTM subscription-based revenue from our customers that had revenue in the prior TTM period and dividing that by the total subscription-based revenue for the prior TTM period. For the purposes of this calculation, subscription revenue excludes subscriptions for individuals and small practices and other non-recurring items. Our net revenue retention rate compares our subscription revenue from the same set of customers across comparable periods, and reflects customer renewals, expansion, contraction, and churn. Our net revenue retention rate is directly tied to our revenue growth rate and thus fluctuates as that growth rate fluctuates. 
+ September 30, 2024 2023 Net revenue retention rate 116 114 
+
+Non-GAAP Financial Measures 
+ We use adjusted EBITDA and free cash flow to measure our performance, identify trends, formulate financial projections, and make strategic decisions. 
+ Adjusted EBITDA 
+ We define adjusted EBITDA as net income before interest, income taxes, depreciation, and amortization, and as further adjusted for stock-based compensation expense, restructuring and impairment charge, change in fair value of contingent earn-out consideration liability, and other income, net. Net income margin represents net income as a percentage of revenue and adjusted EBITDA margin represents adjusted EBITDA as a percentage of revenue. 
+ Adjusted EBITDA is a key measure we use to assess our financial performance and is also used for internal planning and forecasting purposes. We believe adjusted EBITDA is helpful to investors, analysts, and other interested parties because it can assist in providing a more consistent and comparable overview of our operations across our historical financial periods. 
+ Adjusted EBITDA and adjusted EBITDA margin are non-GAAP measures and are presented for supplemental informational purposes only and should not be considered as alternatives or substitutes to the financial information presented in accordance with GAAP. These measures have certain limitations in that they do not include the impact of certain expenses that are reflected in our condensed consolidated statements of operations that are necessary to run our business. Other companies, including other companies in our industry, may not use these measures or may calculate these measures differently than as presented in this Quarterly Report on Form 10-Q, limiting their usefulness as comparative measures. 
+ 
+ 25 
+
+Table of Contents 
+
+ The following table presents a reconciliation of net income to adjusted EBITDA, adjusted EBITDA margin, and net income margin (in thousands, except percentages): 
+ Three Months Ended September 30, Six Months Ended September 30, 2024 2023 2024 2023 Net income 44,154 30,602 85,531 59,008 Adjusted to exclude the following: Stock-based compensation 17,868 9,801 34,958 23,802 Depreciation and amortization 2,613 2,604 5,175 5,208 Provision for income taxes 18,017 9,093 29,809 15,209 Restructuring and impairment charge 
+ 2,304 7,936 2,304 7,936 Change in fair value of contingent earn-out consideration liability 221 47 423 316 Other income, net (9,029) (5,903) (16,145) (10,742) Adjusted EBITDA 76,148 54,180 142,055 100,737 Revenue 136,832 113,612 263,508 222,081 Net income margin 32 27 32 27 Adjusted EBITDA margin 56 48 54 45 
+ Free Cash Flow 
+ Free cash flow is a key performance measure that our management uses to assess our overall performance. We consider free cash flow to be a liquidity measure that provides useful information to management and investors about the amount of cash generated by our business that can be used for strategic opportunities, including investing in our business, making strategic acquisitions, and strengthening our financial position. 
+ We calculate free cash flow as cash flow from operating activities less purchases of property and equipment and internal-use software development costs. 
+ Although we believe free cash flow is a useful indicator of business performance, free cash flow is presented for supplemental informational purposes only and should not be considered a substitute for financial information presented in accordance with GAAP. Free cash flow has limitations as an analytical tool, and it should not be considered in isolation or as a substitute for analysis of other GAAP financial measures, such as net cash provided by operating activities. Some of the limitations of free cash flow are that it may not properly reflect future contractual commitments that have not been realized in the current period. Our free cash flow may not be comparable to similarly titled measures of other companies because they may not calculate free cash flow in the same manner as we calculate the measure, limiting its usefulness as a comparative measure. 
+ The following table presents a reconciliation of our free cash flow to the most comparable GAAP measure, net cash provided by operating activities, for each of the periods indicated (in thousands): 
+ Six Months Ended September 30, 2024 2023 Net cash provided by operating activities 109,589 70,098 Purchases of property and equipment (111) Internal-use software development costs (3,247) (2,732) Free cash flow 106,342 67,255 Other cash flow components: Net cash provided by investing activities 54,099 67,224 Net cash used in financing activities (76,225) (186,946) 
+ 
+ 26 
+
+Table of Contents 
+
+ Components of Results of Operations 
+ Revenue 
+ Marketing Solutions. Our customers purchase a subscription to Marketing Solutions, either directly or through marketing agencies, for the ability to share tailored content on the Doximity platform via a variety of modules for defined time periods. We generally bill customers a portion of the contract upon contract execution and then bill throughout the remainder of the contract based on various time-based milestones. Generally, we bill in advance of revenue recognition. When revenue is recognized in advance of billings, we record unbilled revenue. Unbilled revenue is recorded on the condensed consolidated balance sheets within prepaid expenses and other current assets. Subscriptions to Marketing Solutions include the following contractual arrangements: 
+ Subscriptions for specific modules delivered on a monthly basis to a consistent number of targeted Doximity members during the subscription period. Pricing is based on the number and composition of the targeted Doximity members, and on the specific modules purchased. 
+ Integrated subscriptions for a fixed subscription fee that are not tied to a single module, allowing customers to utilize any combination of modules during the subscription period. 
+ For these subscription-based contractual arrangements, we recognize revenue over time as control of the service is transferred to the customer. 
+ Hiring Solutions. We provide customers access to our platform which enables them to post job openings or deliver a fixed number of monthly messages to our network of medical professionals. Hiring Solutions contracts are noncancelable and customers are billed in annual, quarterly, or monthly installments in advance of the service period, and revenue is recognized ratably over the contractual term. 
+ We also generate revenue from temporary and permanent medical recruiting services which we charge on an hourly-fee, and retainer and placement-fee basis, respectively. For the three and six months ended September 30, 2024 and 2023, the revenue from temporary and permanent medical recruiting services was not significant to our total revenue. 
+ For a description of our revenue accounting policies, see Note 2 Summary of Significant Accounting Policies included in Part II, Item 8 of our Annual Report on Form 10-K for the fiscal year ended March 31, 2024 and filed with the SEC on May 23, 2024. 
+ Cost of Revenue 
+ Cost of revenue is primarily comprised of expenses related to cloud hosting, personnel-related expenses for our customer success team, costs for third-party platform access, information technology and software-related services and contractors, and other services used in connection with the delivery and support of our platform. Our cost of revenue also includes the amortization of internal-use software development costs, editorial and other content-related expenses, and allocated overhead. Cost of revenue is driven by the growth of our member network and utilization of our productivity tools. We intend to continue to invest additional resources in our cloud infrastructure and our customer support organizations to support the growth of our business. 
+ Gross Profit and Gross Margin 
+ Gross profit is total revenue less total cost of revenue. Gross margin is gross profit expressed as a percentage of total revenue. Gross profit and gross margin has been and will continue to be affected by a number of factors, including the timing of our acquisition of new customers and sa les of additional solutions to existing customer s , the timing and extent of our investments in our operations, cloud hosting costs, growth in our customer success team, and the timing of amortization of internal-use software development costs. We expect our gross margin to remain relatively steady over the near term, although our quarterly gross margin is expected to fluctuate from period to period depending on the interplay of these and other factors. 
+ Operating Expenses 
+ Our operating expenses consist of research and development, sales and marketing, general and administrative expenses, and restructuring and impairment charge. 
+ 
+ 27 
+
+Table of Contents 
+
+ Research and Development 
+ Research and development expense is primarily comprised of personnel-related expenses associated with our engineering and product teams who are responsible for building new products and improving existing products. Research and development expense also includes costs for third-party services and contractors, information technology and software-related costs, and allocated overhead. Other than internal-use software development costs that qualify for capitalization, research and development costs are expensed as incurred. We expect research and development expenses will increase on an absolute dollar basis as we continue to grow our platform and product offerings. 
+ Sales and Marketing 
+ Sales and marketing expense is primarily comprised of personnel-related expenses , sales incentive compensation, advertising costs, travel, and other event expenses. Sales and marketing expense also includes costs for third-party services and contractors, information technology and software-related costs, allocated overhead, amortization of intangible assets, and change in fair value of contingent earn-out consideration liability. We capitalize sales incentive compensation that is considered to be an incremental and recoverable cost of obtaining a contract with a customer. These sales incentive compensation costs are amortized over the period of benefit. We expect sales and marketing expense to increase and to be our largest expense on an absolute basis. 
+ General and Administrative 
+ General and administrative expense is primarily comprised of personnel-related expenses associated with our executive, finance, legal, human resources, information technology, and facilities employees. General and administrative expense includes fees for third-party legal and accounting services, insurance expense, information technology and software-related costs, and allocated overhead. We expect that general and administrative expense will increase on an absolute dollar basis as we incur compliance costs associated with being a publicly-traded company, including legal, audit, and consulting fees. 
+ Restructuring and Impairment Charge 
+ Restructuring expenses primarily consist of severance payments, employee benefits, and stock-based compensation in relation to the modification of equity awards associated with the management-approved plan. One-time employee termination benefits are recognized at the time of communication of the terms of the plan to the employees, unless future service is required, in which case the costs are recognized over the future service period. Impairment charges primarily include impairment of right-of-use and other property and equipment recognized upon the execution of a sublease for a portion of our office space. 
+ Other Income, Net 
+ Other income, net consists primarily of investment income earned on our cash equivalents and marketable securities. 
+ Provision for Income Taxes 
+ Provision for income taxes consists primarily of income taxes in U.S. federal, state, and local jurisdictions in which we conduct business. We calculate income taxes in interim periods by applying an estimated annual effective tax rate to income before income taxes and by calculating the tax effect of discrete items recognized during the period. Our effective income tax rate generally differs from the U.S. statutory tax rate of 21.0 primarily due to U.S. federal and state research and development tax credits and stock-based compensation related tax benefits, and state income taxes. 
+ 
+ 28 
+
+Table of Contents 
+
+ Results of Operations 
+ The following tables set forth our condensed consolidated results of operations data and such data as a percentage of revenue for the periods presented. 
+ Three Months Ended September 30, Six Months Ended September 30, 2024 2023 2024 2023 (in thousands) Revenue 136,832 113,612 263,508 222,081 Cost of revenue (1) 
+ 13,676 12,759 27,226 25,912 Gross profit 123,156 100,853 236,282 196,169 Operating expenses: Research and development (1) 
+ 23,240 19,958 45,814 41,889 Sales and marketing (1) 
+ 34,367 30,201 69,611 64,656 General and administrative (1) 
+ 10,103 8,966 19,358 18,213 Restructuring and impairment charge (1) 
+ 2,304 7,936 2,304 7,936 Total operating expenses 70,014 67,061 137,087 132,694 Income from operations 53,142 33,792 99,195 63,475 Other income, net 9,029 5,903 16,145 10,742 Income before income taxes 62,171 39,695 115,340 74,217 Provision for income taxes 18,017 9,093 29,809 15,209 Net income 44,154 30,602 85,531 59,008 
+ _______________ 
+ (1) Costs and expenses include stock-based compensation expense as follows: 
+ Three Months Ended September 30, Six Months Ended September 30, 2024 2023 2024 2023 (in thousands) Cost of revenue 2,661 2,278 5,555 4,739 Research and development 5,447 2,538 10,131 5,794 Sales and marketing 6,808 2,697 13,394 8,692 General and administrative 2,952 2,288 5,878 4,577 Restructuring 
+ 3,646 3,646 Total stock-based compensation expense 17,868 13,447 34,958 27,448 
+ Three Months Ended September 30, Six Months Ended September 30, 2024 2023 2024 2023 (percentages of revenue) Revenue 100 100 100 100 Cost of revenue 10 11 10 12 Gross profit 90 89 90 88 Operating expenses: Research and development 17 18 17 19 Sales and marketing 25 27 27 29 General and administrative 8 7 8 7 Restructuring and impairment charge 
+ 2 7 1 4 Total operating expenses 52 59 53 59 Income from operations 38 30 37 29 Other income, net 7 5 6 5 Income before income taxes 45 35 43 34 Provision for income taxes 13 8 11 7 Net income 32 27 32 27 
+
+29 
+
+Table of Contents 
+
+ Comparison of the three and six months ended September 30, 2024 and 2023. 
+ Revenue 
+ Three Months Ended September 30, Change Six Months Ended September 30, Change 2024 2023 2024 2023 (in thousands, except percentages) Revenue 136,832 113,612 23,220 20 263,508 222,081 41,427 19 
+ Revenue for the three months ended September 30, 2024 increased 23.2 million as compared to the same period in 2023. The increase was primarily driven by a 23.0 million increase in subscription revenue. Of the increase in subscription revenue, 5.7 million was driven by the addition of new subscription customers 1 and 17.3 million was due to the expansion of existing customers. The expansion of existing customers was primarily driven by average revenue per existing Marketing Solutions customers increasing by approximately 22 as a result of adding new and growing existing brands and service lines. Approximately 95 of our revenue for the three months ended September 30, 2024 was derived from subscription customers. 
+ Revenue for the six months ended September 30, 2024 increased 41.4 million as compared to the same period in 2023. The increase was primarily driven by a 41.7 million increase in subscription revenue. Of the increase in subscription revenue, 9.0 million was driven by the addition of new subscription customers 1 and 32.7 million was due to the expansion of existing customers. The expansion of existing customers was primarily driven by average revenue per existing Marketing Solutions customers increasing by approximately 20 as a result of adding new and growing existing brands and service lines. Approximately 95 of our revenue for the six months ended September 30, 2024 was derived from subscription customers. 
+ Cost of revenue, gross profit and gross margin 
+ Three Months Ended September 30, Change Six Months Ended September 30, Change 2024 2023 2024 2023 (in thousands, except percentages) Cost of revenue 13,676 12,759 917 7 27,226 25,912 1,314 5 Gross profit 123,156 100,853 22,303 22 236,282 196,169 40,113 20 Gross margin 90 89 90 88 
+ Cost of revenue for the three months ended September 30, 2024 increased 0.9 million as compared to the same period in 2023. The increase was driven by a 0.4 million increase in stock-based compensation as a result of new awards granted to existing employees and a 0.3 million increase in third-party software costs to support revenue growth. 
+ Cost of revenue for the six months ended September 30, 2024 increased 1.3 million as compared to the same period in 2023. The increase was primarily driven by a 0.8 million increase in stock-based compensation as a result of new awards granted to existing employees and a 0.3 million increase in third-party software costs to support revenue growth. 
+ The gross margin for the three and six months ended September 30, 2024 increased due to the growth in our revenue outpacing the growth in our cost of revenue. 
+ 
+ 1 We define new subscription customers as revenue-generating subscription customers in the current fiscal period who did not contribute any revenue for the same period in the prior fiscal year. 
+ 
+ 30 
+
+Table of Contents 
+
+ Operating Expenses 
+ Research and development 
+ Three Months Ended September 30, Change Six Months Ended September 30, Change 2024 2023 2024 2023 (in thousands, except percentages) Research and development 23,240 19,958 3,282 16 45,814 41,889 3,925 9 
+ Research and development expense for the three months ended September 30, 2024 increased 3.3 million as compared to the same period in 2023, primarily driven by a 2.9 million increase in stock-based compensation as a result of new awards granted to existing employees. 
+ Research and development expense for the six months ended September 30, 2024 increased 3.9 million as compared to the same period in 2023. The increase was driven by a 4.3 million increase in stock-based compensation, primarily due to new awards granted to existing employees, a 0.6 million increase due to employee events and travel-related expenses, partially offset by a 0.9 million decrease in personnel costs due to reduction in average headcount as a result of the Company s restructuring plan executed in August 2023. 
+ Sales and marketing 
+ Three Months Ended September 30, Change Six Months Ended September 30, Change 2024 2023 2024 2023 (in thousands, except percentages) Sales and marketing 34,367 30,201 4,166 14 69,611 64,656 4,955 8 
+ Sales and marketing expense for the three months ended September 30, 2024 increased 4.2 million as compared to the same period in 2023. The increase was driven by a 4.1 million increase in stock-based compensation primarily due to new awards granted to existing and new employees and the reversal of expense in the prior period from award forfeitures as a result of the August 2023 restructuring plan and a 0.7 million increase in sales incentive compensation. These increases were partially offset by a 0.7 million decrease in personnel costs due to a reduction in average headcount. 
+ Sales and marketing expense for the six months ended September 30, 2024 increased 5.0 million as compared to the same period in 2023. The increase was driven by a 4.7 million net increase in stock-based compensation as a result of new awards granted to existing and new employees, partially offset by a decrease in stock-based compensation from awards fully vested since the prior year, a 1.7 million increase in sales incentive compensation, and a 0.6 million increase in third-party software and contractor costs. These increases were partially offset by a 2.3 million decrease in personnel costs due to a reduction in average headcount. 
+ General and administrative 
+ Three Months Ended September 30, Change Six Months Ended September 30, Change 2024 2023 2024 2023 (in thousands, except percentages) General and administrative 10,103 8,966 1,137 13 19,358 18,213 1,145 6 
+ General and administrative expense for the three months ended September 30, 2024 increased 1.1 million as compared to the same period in 2023, primarily driven by a 0.7 million increase in stock-based compensation as a result of new awards granted to existing employees and a 0.4 million increase in legal costs. 
+ General and administrative expense for the six months ended September 30, 2024 increased 1.1 million as compared to the same period in 2023, primarily driven by a 1.3 million increase in stock-based compensation as a result of new awards granted to existing employees, and a 0.4 million increase in legal costs. These increases were partially offset by a 0.3 million decrease in personnel costs due to reduction in average headcount. 
+ 
+ 31 
+
+Table of Contents 
+
+ Restructuring and impairment charge 
+ Three Months Ended September 30, Change Six Months Ended September 30, Change 2024 2023 2024 2023 (in thousands, except percentages) Restructuring and impairment charge 
+ 2,304 7,936 (5,632) (71) 2,304 7,936 (5,632) (71) 
+ During the three and six months ended September 30, 2024, the Company executed a sublease for its Curative office space in Irving, Texas, which resulted in a 2.3 million impairment charge for the subleased asset group. 
+ In August 2023, the Company initiated a restructuring plan to better align the Company s resources with its priorities, and reduced its workforce by 10 . The 7.9 million in restructuring charges incurred during the three and six months ended September 30, 2023 consisted of 4.3 million of severance payments and employee benefits and 3.6 million of stock-based compensation expense for the accelerated vesting of equity awards. 
+ Other income, net 
+ Three Months Ended September 30, Change Six Months Ended September 30, Change 2024 2023 2024 2023 (in thousands, except percentages) Other income, net 9,029 5,903 3,126 53 16,145 10,742 5,403 50 
+ Other income, net for the three and six months ended September 30, 2024 increased 3.1 million and 5.4 million as compared to the same periods in 2023, primarily driven by increases in interest income due to higher yields earned on our cash equivalents and marketable securities portfolio, partially offset by lower average portfolio balances. 
+ Provision for income taxes 
+ Three Months Ended September 30, Change Six Months Ended September 30, Change 2024 2023 2024 2023 (in thousands, except percentages) Provision for income taxes 18,017 9,093 8,924 98 29,809 15,209 14,600 96 
+ Income tax expense for the three and six months ended September 30, 2024 increased 8.9 million and 14.6 million as compared to the same periods in 2023, primarily driven by higher income before taxes and decreased tax deductions from stock award activities. 
+ 
+ Liquidity and Capital Resources 
+ Since inception, we have financed operations primarily through proceeds received from sales of equity securities and payments received from our customers. As of September 30, 2024, our principal sources of liquidity were cash and cash equivalents and marketable securities of 805.6 million. Our marketable securities consist of U.S. government and agency securities, corporate notes and bonds, and commercial paper. 
+ Prior to March 31, 2024, the Company s board of directors authorized various programs to repurchase up to 410 million of the Company s Class A common stock. Under these programs, the Company repurchased and retired 16,480,514 shares of Class A common stock. All of these programs were completed as of April 2024. 
+ On May 1, 2024 the Company s board of directors authorized a program to repurchase up to 500 million of the Company s Class A common stock with no expiration date. As of September 30, 2024, the Company repurchased and retired 1,021,233 shares of Class A common stock under this program for an aggregate purchase price of 30.0 million and 470.0 million remained available and authorized for repurchase. 
+ All repurchases are subject to general business and market conditions and other investment opportunities and may be executed through open market purchases or privately negotiated transactions, including through Rule 10b5-1 plans. 
+ 
+ 32 
+
+Table of Contents 
+
+ Immediately upon the repurchase of any shares of Class A common stock, such shares shall be retired by the Company and shall automatically return to the status of authorized but unissued shares of Class A common stock. 
+ Effective January 1, 2023, the Company s share repurchases in excess of allowable share issuances are subject to a 1 excise tax as a result of the Inflation Reduction Act of 2022. As of March 31, 2024 and September 30, 2024, the Company had accrued excise taxes of 1.5 million, all of which remained unpaid as of September 30, 2024. 
+ We believe that our existing cash and cash equivalents and marketable securities will be sufficient to support working capital and capital expenditure requirements for at least the next 12 months. 
+ Our future capital requirements will depend on many factors, including our revenue growth rate, the timing and the amount of cash received from customers, the expansion of sales and marketing activities, timing of share repurchases, and the timing and extent of spending to support research and development efforts. Further, we may in the future enter into arrangements to acquire or invest in businesses and technologies. We may be required to seek additional equity or debt financing. In the event that additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital when desired, our business, financial condition, and results of operations could be adversely affected. 
+ We have not entered into any off-balance sheet arrangements and do not have any holdings in variable interest entities. 
+ For further details regarding our cash requirements from noncancelable operating lease obligations and other contractual commitments, see Note 12 Commitments and Contingencies and Note 13 Leases included in Part I, Item 1 of this Quarterly Report on Form 10-Q. 
+ Cash Flows 
+ Six Months Ended September 30, 2024 2023 (in thousands) Net cash provided by operating activities 109,589 70,098 Net cash provided by investing activities 54,099 67,224 Net cash used in financing activities (76,225) (186,946) 
+ Net cash provided by operating activities 
+ Cash provided by operating activities was 109.6 million for the six months ended September 30, 2024. This consisted of net income of 85.5 million, adjusted for non-cash items of 42.9 million and a net outflow from operating assets and liabilities of 18.8 million. Non-cash items primarily consisted of stock-based compensation expense of 35.0 million, depreciation and amortization expense of 5.2 million, amortization of deferred contract costs of 4.8 million, impairment of long-lived assets of 2.3 million, and non-cash lease expense of 1.0 million, partially offset by the accretion of discount on marketable securities of 5.4 million. The net outflow from operating assets and liabilities was driven by a 23.5 million increase in accounts receivable due to the timing of billings and collections, a 5.5 million decrease in accounts payable, accrued expenses, and other liabilities which was primarily due to the timing of income tax and transferable tax credit payments, a 5.5 million decrease in deferred revenue due to the timing of customer billings and program launches, and a 3.2 million increase in deferred contract costs. The outflows were partially offset by a 19.9 million decrease in prepaid expenses and other assets primarily due to prepaid taxes. During the six months ended September 30, 2024 and 2023, the Company made 22.0 million and 29.4 million, respectively, in payments for taxes. The increase in cash paid for income taxes in these periods, as compared to prior years, was partially related to the Tax Cuts and Jobs Act of 2017, which eliminated the option to deduct research and development expenditures and required taxpayers to capitalize and amortize them over five or fifteen years. Although Congress is considering legislation that would defer the amortization requirement to later years, we have no assurance that the provision will be so deferred, repealed or otherwise modified. The requirement may also reduce our cash flows from operating activities in future periods, the amounts and specific periods of which we are unable to estimate at this time. 
+ Cash provided by operating activities was 70.1 million for the six months ended September 30, 2023. This consisted of net income of 59.0 million, adjusted for non-cash items of 36.8 million and a net outflow from operating assets and liabilities of 25.7 million. Non-cash items primarily consisted of stock-based compensation expense of 27.4 million, depreciation and amortization expense of 5.2 million, amortization of deferred contract costs of 4.7 million, non-cash lease expense of 1.1 million, partially offset by the accretion of discount on marketable securities of 1.8 million. The net outflow from operating assets and liabilities was driven by a 13.8 million decrease in deferred revenue due to the timing of customer billings and program launches, a 10.5 million increase in prepaid expenses and other assets primarily due to prepayment of income 
+ 
+ 33 
+
+Table of Contents 
+
+ taxes, an 8.1 million decrease in accounts payable, accrued expenses, and other liabilities which was primarily due to the timing of commissions and agency rebate payments, and a 2.4 million increase in deferred contract costs. These outflows were partially offset by a 9.6 million decrease in accounts receivable due to the timing of billings and collections. 
+ Net cash provided by investing activities 
+ Cash provided by investing activities was 54.1 million for the six months ended September 30, 2024, which primarily consisted of proceeds from the maturities of marketable securities of 417.9 million and 7.2 million of proceeds from the sale of marketable securities, partially offset by 367.8 million of marketable securities purchases and 3.2 million for internal-use software development costs. 
+ Cash provided by investing activities was 67.2 million for the six months ended September 30, 2023, which primarily consisted of proceeds from the maturities of marketable securities of 212.8 million and proceeds from the sale of marketable securities of 37.5 million. These inflows were partially offset by 180.2 million of marketable securities purchases and 2.7 million for internal-use software development costs. 
+ Net cash used in financing activities 
+ Cash used in financing activities was 76.2 million for the six months ended September 30, 2024, which primarily consisted of common stock repurchases of 74.2 million, 5.5 million of payments for contingent consideration related to the AMiON acquisition, and 8.2 million of taxes paid related to the net share settlement of equity awards. These payments were partially offset by 10.2 million of proceeds from the exercise of stock options and common stock warrants, and 1.4 million of proceeds from the issuance of common stock in connection with the Company s employee stock purchase plan. 
+ Cash used in financing activities was 186.9 million for the six months ended September 30, 2023, which primarily consisted of common stock repurchases of 186.2 million, 5.4 million of payments for contingent consideration related to the AMiON acquisition, and 4.1 million of taxes paid related to the net share settlement of equity awards. These payments were partially offset by 7.2 million of proceeds from the exercise of stock options, and 1.5 million of proceeds from the issuance of common stock related to the employee stock purchase plan. 
+ 
+ Critical Accounting Policies and Estimates 
+ Our condensed consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report on Form 10-Q are prepared in accordance with GAAP. The preparation of our financial statements also requires us to make estimates and assumptions that affect the amounts stated in the condensed consolidated financial statements and accompanying notes. We base our estimates and judgments on historical experience and on various other assumptions that we believe are reasonable under the circumstances. Actual results could differ significantly from the estimates made by management. To the extent that there are differences between our estimates and actual results, our future financial statement presentation, financial condition, results of operations, and cash flows will be affected. 
+ There have been no material changes to our critical accounting policies and estimates during the three and six months ended September 30, 2024 as compared to those described in the section titled Management s Discussion and Analysis of Financial Condition and Results of Operations set forth in our Annual Report on Form 10-K for the fiscal year ended March 31, 2024 and filed with the SEC on May 23, 2024. 
+ 
+ Recent Accounting Pronouncements 
+ Refer to Note 2 Summary of Significant Accounting Policies included in Part I, Item 1 of this Quarterly Report on Form 10-Q for recently adopted accounting pronouncements and recently issued accounting pronouncements not yet adopted. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+ Substantially all of our operations are within the United States and we do not have any foreign currency exposure. We are exposed to market risks in the ordinary course of our business, including the effects of interest rate changes and inflation. 
+ Interest Rate Risk 
+ Our cash and cash equivalents and marketable securities primarily consist of cash on hand and highly liquid investments in money market funds, corporate notes and bonds, commercial paper, and U.S. government and agency securities. As of September 30, 2024, we had cash and cash equivalents of 184.2 million and marketable securities of 621.3 million. We do not enter into investments for trading or speculative purposes. Our investments are exposed to market risk due to fluctuations in 
+ 
+ 34 
+
+Table of Contents 
+
+ interest rates, which may affect our interest income and the fair value of our investments. Fixed rate securities may have their market value adversely affected due to a rise in interest rates, while floating rate securities may produce less income than expected if interest rates fall. Due in part to these factors, our future investment income may fall short of expectation due to changes in interest rates or we may suffer losses in principal if we are forced to sell securities that decline in market value due to changes in interest rates. 
+ A hypothetical 100 basis point increase in interest rates would have resulted in a decrease of 5.0 million and 3.4 million, respectively, in the market value of our cash equivalents and marketable securities as of September 30, 2024 and March 31, 2024. This estimate is based on a sensitivity model that measures market value changes when changes in interest rates occur. Fluctuations in the value of our investments caused by a change in interest rates are recorded in other comprehensive income and are realized in net income only if we sell the underlying securities. 
+ Impact of Inflation 
+ We do not believe that inflation has had a material effect on our business, results of operations, or financial condition. Nonetheless, if our costs were to become subject to significant inflationary pressures, we may not be able to fully offset such higher costs. Our inability or failure to do so could harm our business, financial condition, and results of operations. 
+ 
+ Item 4. Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by this Quarterly Report on Form 10-Q. In designing and evaluating our disclosure controls and procedures, our management recognizes that disclosure controls and procedures, no matter how well conceived and operated, can provide only reasonable assurance that the objectives of the disclosure controls and procedures are met. Based on such evaluation, our Chief Executive Officer and Chief Financial Officer concluded that, as of the end of the period covered by this Quarterly Report on Form 10-Q, our disclosure controls and procedures were effective at the reasonable assurance level. 
+ Changes in Internal Control over Financial Reporting 
+ There were no changes in our internal control over financial reporting identified in connection with the evaluation required by Rules 13a-15(d) and 15d-15(d) of the Exchange Act that occurred during the period covered by this Quarterly Report on Form 10-Q that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ Inherent Limitations on Effectiveness of Controls 
+ Our management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent or detect all errors and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+ 
+ 35 
+
+Table of Contents 
+
+ PART II OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings 
+ Beginning in April 2024, the Company and certain of our directors and officers have been named in lawsuits in the United States District Court for the Northern District of California. The first lawsuit is captioned In re Doximity, Inc. Securities Litigation, No. 5:24-cv-02281-EKL (N.D. Cal.). The operative complaint brings securities law claims on behalf of a putative class of our investors from June 24, 2021 and August 8, 2023 against the Company and our CEO related to our disclosure of user count and engagement rates. Two shareholder derivative lawsuits have also been filed and are consolidated under the caption In re Doximity, Inc. Derivative Litigation, No. 5:24-cv-02801-EKL (N.D. Cal.). The complaints assert claims for, among other things, breach of fiduciary duties, unjust enrichment, abuse of control, gross mismanagement, and waste against certain of our directors and officers on a similar basis to the securities lawsuit. Other similar lawsuits or proceedings may be initiated in the future. The defendants intend to defend vigorously against these actions. 
+ For further discussion of our legal proceedings, please refer to Note 12 Commitments and Contingencies included in Part I, Item 1 of this Quarterly Report on Form 10-Q. 
+ 
+ Item 1A. Risk Factors 
+ We are subject to various risks that could have a material adverse impact on our financial position, results of operations, or cash flows. Although it is not possible to predict or identify all such risks and uncertainties, they may include, but are not limited to, the factors discussed under Risk Factors in Part I, Item 1A of our Annual Report on Form 10-K for the fiscal year ended March 31, 2024. Additional risks and uncertainties not currently known to us or that we currently deem immaterial may also materially adversely affect our financial position, results of operations, or cash flows. There have been no material changes to the risk factors included in our Annual Report on Form 10-K for the fiscal year ended March 31, 2024. 
+ 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ Unregistered Sales of Equity Securities 
+ Common Stock Warrant Exercises 
+ On August 8, 2024 and August 14, 2024, the Company issued 100,000 and 100,667 shares of Class A common stock, respectively, upon the exercise of the warrant issued to U.S. News World Report, L.P. in June 2021, at an exercise price of 12.56 per share and aggregate consideration of 1.3 million and 1.3 million, respectively. 
+ The foregoing transaction did not involve any underwriters, underwriting discounts, or commissions, or any public offering. We believe the issuance of the above securities was exempt from registration by virtue of Section 4(a)(2) of the Securities Act because the issuance of the securities to the recipients was a transaction that did not involve a public offering. The recipient of the securities in the transaction represented (i) its intentions to acquire the securities for investment only and not with a view to or for sale in connection with any distribution thereof, and (ii) that it is an accredited investor under Regulation D of the Securities Act. Appropriate legends were placed upon the stock certificates issued in the transaction. The recipient had adequate access, through its relationships with us, to information about us. The issuance of these securities was made without any general solicitation or advertising. 
+ 
+ 36 
+
+Table of Contents 
+
+ Share Repurchases 
+ The following table presents information with respect to the repurchases of our Class A common stock during the three months ended September 30, 2024: 
+ Period Total Number of Shares Repurchased (1) 
+ Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Program (1) 
+ Approximate Dollar Value of Shares that May Yet Be Purchased Under the Program (in thousands) July 1 - 31, 2024 394,319 27.63 394,319 481,181 August 1 - 31, 2024 191,932 26.99 191,932 476,002 September 1 - 30, 2024 153,412 39.14 153,412 469,998 Total 739,663 739,663 
+ _______________ 
+ (1) On May 1, 2024, the Company s board of directors authorized a program to repurchase up to 500 million of the Company s Class A common stock with no expiration date. The repurchases can be executed through open market purchases or privately negotiated transactions, including through Rule 10b5-1 plans. 
+ Use of Proceeds 
+ On June 28, 2021, we closed our IPO of 22,505,750 shares of our Class A common stock sold by us, including 3,495,000 shares pursuant to the exercise of the underwriters option to purchase additional shares of our Class A common stock, and 4,289,250 shares of Class A common stock sold by an existing stockholder, at an offering price of 26.00 per share, resulting in proceeds to us of 548.5 million after deducting underwriting discounts and commissions as well as deferred offering costs. All of the shares issued and sold in our IPO were registered under the Securities Act pursuant to a registration statement on Form S-1 (File No. 333-256584), which was declared effective by the SEC on June 23, 2021. Morgan Stanley Co. LLC, Goldman Sachs Co. LLC, J.P. Morgan Securities LLC, Piper Sandler Co., William Blair Company, L.L.C., Canaccord Genuity LLC, Needham Company, LLC, Raymond James Associates, Inc., and SVB Leerink LLC acted as underwriters for the offering. We incurred offering expenses of approximately 5.5 million. No payments for such expenses were made to our directors or officers or their associates, holders of 10 or more of any class of our equity securities, or to our affiliates. Upon completion of the sale of the shares of our Class A common stock referenced in the preceding sentences, the IPO terminated. There has been no material change in the planned use of proceeds from our IPO from those disclosed in the Company s Annual Report on Form 10-K for the fiscal year ended March 31, 2024. 
+ 
+ Item 3. Defaults Upon Senior Securities 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures 
+ None. 
+ 
+ Item 5. Other Information 
+ 
+ During the quarter ended September 30, 2024, none of our directors or executive officers as defined in Rule 16a-1(f) of the Securities Exchange Act of 1934 , modified or a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement (as such terms are defined in Item 408 of Regulation S-K). 
+ 
+ 37 
+
+Table of Contents 
+
+ Item 6. Exhibits. 
+ Incorporated by Reference Exhibit Number Exhibit Title Form File No. Exhibit Filing Date 3.1 Amended and Restated Certificate of Incorporation of the Registrant. 
+ S-1/A 333-256584 3.2 June 15, 2021 3.2 Amended and Restated Bylaws of the Registrant 
+ S-1/A 333-256584 3.4 June 15, 2021 4.1 Form of Class A common stock certificate of the Registrant. 
+ S-1 333-256584 4.1 May 28, 2021 4.2 Amended and Restated Investors Rights Agreement, dated April 10, 2014, by and among the Registrant and certain of its stockholders. 
+ S-1 333-256584 4.2 May 28, 2021 4.3 Warrant to Purchase Shares of Common Stock issued to U.S. News World Report, L.P., dated March 10, 2017. 
+ S-1 333-256584 4.3 May 28, 2021 4.4 Warrant to Purchase Shares of Class A Common Stock issued to U.S. News World Report, L.P., dated June 14, 2021. 
+ 10-Q 001-40508 4.2 August 12, 2021 4.5 Amendment to Warrant to Purchase Shares of Class A Common Stock issued to U.S. News World Report, L.P., dated September 2, 2021. 
+ 10-Q 001-40508 4.3 November 10, 2021 4.6 Second Amendment to Warrant to Purchase Shares of Class A Common Stock issued to U.S. News World Report, L.P., dated October 8, 2021. 
+ 10-Q 001-40508 4.4 November 10, 2021 10.1 Form of Indemnification Agreement between the Registrant and each of its directors and executive officers. 
+ S-1/A 333-256584 10.1 June 15, 2021 10.2# 2010 Equity Incentive Plan, as amended, and forms of agreements thereunder. 
+ S-1/A 333-256584 10.2 June 15, 2021 10.3# 2021 Stock Option and Incentive Plan, and forms of agreements thereunder. 
+ 10-K 001-40508 10.3 May 27, 2022 10.4# 2021 Employee Stock Purchase Plan. 
+ S-1/A 333-256584 10.4 June 15, 2021 10.5# Senior Executive Cash Incentive Bonus Plan. 
+ S-1/A 333-256584 10.5 June 15, 2021 10.6# Non-Employee Director Compensation Policy. 
+ 10-Q 001-40508 10.6 
+ August 8, 2024 
+ 10.8# Jennifer Chaloemtiarana Offer Letter 
+ 10-Q 001-40508 10.8 
+ August 8, 2023 
+ 31.1 Certification of Chief Executive Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ Filed herewith 31.2 Certification of Chief Financial Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ Filed herewith 32.1 Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ Furnished herewith 32.2 Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ Furnished herewith 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. Filed herewith 
+ 
+ 38 
+
+Table of Contents 
+
+ 101.SCH Inline XBRL Taxonomy Extension Schema Document Filed herewith 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document Filed herewith 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document Filed herewith 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document Filed herewith 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document Filed herewith 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) Filed herewith 
+ __________________ 
+ The certifications attached as Exhibit 32.1 and 32.2 that accompany this Quarterly Report on Form 10-Q are deemed furnished and not filed with the SEC and are not to be incorporated by reference into any filing of the Company under the Securities Act or the Exchange Act, whether made before or after the date of this Quarterly Report on Form 10-Q, irrespective of any general incorporation language contained in such filing. 
+ # Indicates management contract or compensatory plan, contract or agreement. 
+ 
+ 39 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ DOXIMITY, INC. Date: November 7, 2024 
+ By: /s/ Jeffrey Tangney 
+ Jeffrey Tangney 
+ Chief Executive Officer 
+ (Principal Executive Officer) 
+ Date: November 7, 2024 
+ By: /s/ Anna Bryson 
+ Anna Bryson 
+ Chief Financial Officer 
+ (Principal Financial Officer and Principal Accounting Officer) 
+
+40 
+
+<EX-31.1>
+ 2
+ exhibit31193024.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO EXCHANGE ACT RULES 13a-14(a) AND 15d-14(a), AS ADOPTED 
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Jeffrey Tangney, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Doximity, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ Date November 7, 2024 
+ By s Jeffrey Tangney 
+ Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ exhibit31293024.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO EXCHANGE ACT RULES 13a-14(a) AND 15d-14(a), AS ADOPTED 
+ PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Anna Bryson, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Doximity, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ Date November 7, 2024 
+ By s Anna Bryson 
+ Chief Financial Officer 
+ (Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ exhibit32193024.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO 18 U.S.C. SECTION 1350 AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Jeffrey Tangney, Chief Executive Officer of Doximity, Inc. (the Company ), do hereby certify, to the best of my knowledge and pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ the Quarterly Report on Form 10-Q of the Company for the period ended September 30, 2024 (the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date November 7, 2024 
+ By s Jeffrey Tangney 
+ Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ exhibit32293024.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO 18 U.S.C. SECTION 1350 AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Anna Bryson, Chief Financial Officer of Doximity, Inc. (the Company ), do hereby certify, to the best of my knowledge and pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ the Quarterly Report on Form 10-Q of the Company for the period ended September 30, 2024 (the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date November 7, 2024 
+ By s Anna Bryson 
+ Chief Financial Officer 
+ (Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ docs-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ docs-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ docs-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ docs-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ docs-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

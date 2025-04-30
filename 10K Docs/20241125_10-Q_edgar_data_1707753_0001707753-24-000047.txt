@@ -1,0 +1,958 @@
+<Header>
+<FileStats>
+    <FileName>20241125_10-Q_edgar_data_1707753_0001707753-24-000047.txt</FileName>
+    <GrossFileSize>7981834</GrossFileSize>
+    <NetFileSize>111334</NetFileSize>
+    <NonText_DocumentType_Chars>1414137</NonText_DocumentType_Chars>
+    <HTML_Chars>2896140</HTML_Chars>
+    <XBRL_Chars>1832588</XBRL_Chars>
+    <XML_Chars>1569952</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001707753-24-000047.hdr.sgml : 20241125
+<ACCEPTANCE-DATETIME>20241125160818
+ACCESSION NUMBER:		0001707753-24-000047
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		87
+CONFORMED PERIOD OF REPORT:	20241031
+FILED AS OF DATE:		20241125
+DATE AS OF CHANGE:		20241125
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Elastic N.V.
+		CENTRAL INDEX KEY:			0001707753
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			P7
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38675
+		FILM NUMBER:		241495949
+
+	BUSINESS ADDRESS:	
+		STREET 1:		KEIZERSGRACHT 281
+		CITY:			AMSTERDAM
+		STATE:			P7
+		ZIP:			1016 ED
+		BUSINESS PHONE:		(650) 458-2620
+
+	MAIL ADDRESS:	
+		STREET 1:		88 KEARNY STREET
+		STREET 2:		FLOOR 19
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94108
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Elastic B.V.
+		DATE OF NAME CHANGE:	20180612
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Elasticsearch Global BV
+		DATE OF NAME CHANGE:	20170605
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ELasticsearch Global BV
+		DATE OF NAME CHANGE:	20170526
+
+</SEC-Header>
+</Header>
+
+ 0001707753-24-000047.txt : 20241125
+
+10-Q
+ 1
+ estc-20241031.htm
+ 10-Q
+
+estc-20241031 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ ____________________________________________________________________________________________________________________________________________________________________________________________ 
+ FORM 
+ ____________________________________________________________________________________________________________________________________________________________________________________________ 
+ (Mark One) 
+ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission File Number 
+ _____________________________________________________________________________________________________________________________________________________________________________________________ 
+ 
+ (Exact name of registrant as specified in its charter) 
+ ____________________________________________________________________________________________________________________________________________________________________________________________ 
+ The 
+ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ Not Applicable 1 
+ (Address of principal executive offices, including zip code) 
+ Registrant s telephone number, including area code: Not Applicable 1 
+ ____________________________________________________________________________________________________________________________________________________________________________________________ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Accelerated filer 
+ Non-accelerated filer 
+ 
+ Smaller reporting company 
+ Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ 
+ As of November 18, 2024, the registrant had ordinary shares, par value 0.01 per share, outstanding. 
+ 
+ 1 We are a distributed company. Accordingly, we do not have a principal executive office. For purposes of compliance with applicable requirements of the Securities Act of 1933, as amended, and the Securities Exchange Act of 1934, as amended, any shareholder communication required to be sent to our principal executive offices may be directed to the email address ir@elastic.co or to Elastic N.V., 88 Kearny St., Floor 19, San Francisco, CA 94108. 
+
+Table of Contents 
+ Page Note Regarding Forward-Looking Statements 
+ 3 
+ PART I. 
+ FINANCIAL INFORMATION 
+ 5 
+ Item 1. Financial Statements (Unaudited) 
+ 5 
+ Condensed Consolidated Balance Sheets 
+ 5 
+ Condensed Consolidated Statements of Operations 
+ 6 
+ Condensed Consolidated Statements of Comprehensive Loss 
+ 7 
+ Condensed Consolidated Statements of Shareholders Equity 
+ 8 
+ Condensed Consolidated Statements of Cash Flows 
+ 10 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+ 11 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 26 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 39 
+ Item 4. Controls and Procedures 
+ 40 
+ PART II. OTHER INFORMATION 
+ 41 
+ Item 1. Legal Proceedings 
+ 41 
+ Item 1A. Risk Factors 
+ 41 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 42 
+ Item 3. Defaults Upon Senior Securities 
+ 42 
+ Item 4. Mine Safety Disclosures 
+ 42 
+ Item 5. Other Information 
+ 42 
+ Item 6. Exhibits 
+ 42 
+ Signatures 
+ 43 
+
+2 
+
+Table of Contents 
+
+Note Regarding Forward-Looking Statements 
+ This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ), which involve substantial risks and uncertainties. Forward-looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain words such as may, might, will, should, expects, plans, anticipates, could, intends, target, projects, contemplates, believes, estimates, predicts, potential, or continue or the negative of these words or other similar terms or expressions that concern our expectations, strategy, plans, or intentions. Forward-looking statements contained in this Quarterly Report on Form 10-Q include, but are not limited to, statements about: 
+ our business strategy and our plan to build our business; 
+ the impact of macroeconomic conditions, including declining rates of economic growth, inflationary pressures, changing interest rates, and other conditions discussed in this report, on information technology spending, sales cycles, and other factors affecting the demand for our offerings and our results of operations; 
+ our initiatives and investments involving artificial intelligence AI 
+ our future financial performance, including our expectations regarding our revenue, cost of revenue, gross profit or gross margin, operating expenses (which include changes in sales and marketing, research and development and general and administrative expenses), and our ability to achieve and maintain future profitability; 
+ our ability to continue to deliver and improve our offerings and successfully develop new offerings; 
+ customer acceptance and purchase of our existing offerings and new offerings, including the expansion and adoption of our cloud-based offerings; 
+ the impact of geopolitical turmoil, such as the evolving conflict in Israel and Gaza and Russia s war with Ukraine, on our business and on the businesses of our customers and partners, including their spending priorities; 
+ impacts of the 2024 U.S. elections; 
+ the impact that increased adoption of consumption-based arrangements could have on our revenue or operating results; 
+ the impact of changes to our licensing of our products, particularly Elasticsearch and Kibana; 
+ our assessments of the strength of our solutions and products; 
+ our service performance and security, including the resources and costs required to prevent, detect and remediate potential security breaches or incidents, including by threat actors; 
+ our ability to maintain and expand our user and customer base; 
+ continued development of the market for our products; 
+ competition from other products and companies with more resources, recognition and presence in our industry; 
+ the impact of foreign currency exchange rate and interest rate fluctuations on our results; 
+ the pace of change and innovation in the markets in which we operate and the competitive nature of those markets; 
+ our ability to effectively manage our growth, including any changes to our pace of hiring; 
+ our international expansion strategy; 
+ our strategy of acquiring complementary businesses and our ability to successfully integrate acquired businesses and technologies; 
+ the impact of acquisitions on our future product offerings; 
+ our objectives and expectations for future operations; 
+ our relationships with and reliance on third parties, including partners; 
+ our ability to protect our intellectual property rights; 
+ our ability to develop our brands; 
+ the impact on our results of operations of expensing stock options and other equity awards; 
+ 3 
+
+Table of Contents 
+
+ the sufficiency of our capital resources; 
+ our ability to successfully defend litigation brought against us; 
+ our ability to successfully execute our go-to-market strategy, including the positioning of our solutions and products, and to expand in our existing markets and into new markets; 
+ sufficiency of our liquidity sources to meet our cash needs for at least the next 12 months; 
+ our ability to comply with laws and regulations that currently apply or may become applicable to our business both in the United States and internationally; 
+ our ability to attract and retain qualified employees and key personnel; 
+ the effect of the loss of key personnel; 
+ our expectations about the impact of natural disasters and public health epidemics and pandemics on our business, results of operations and financial condition; 
+ the seasonality of our business; 
+ the future trading prices of our ordinary shares; and 
+ our ability to service our debt obligations. 
+ In addition, statements that we believe and similar statements reflect our beliefs and opinions. These statements are based upon information available to us as of the date of this Quarterly Report on Form 10-Q, and while we believe this information forms a reasonable basis for such statements, the information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and subject to the risks and other factors described in Item 1A. Risk Factors of our Annual Report on Form 10-K for the fiscal year ended April 30, 2024 filed with the SEC on June 14, 2024. Among other limitations, our forward-looking statements may not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures, or investments that we may make. As a result, investors are cautioned not to place undue reliance on any forward-looking statements. 
+ The forward-looking statements made in this Quarterly Report on Form 10-Q relate only to events or circumstances on the date as of which such statements are made. We undertake no obligation to update any forward-looking statements after the date as of which they are made or to conform such statements to actual results or revised expectations, except as required by law. We may not actually achieve the plans, intentions, or expectations disclosed in our forward-looking statements. 
+ 4 
+
+Table of Contents 
+
+ PART I FINANCIAL INFORMATION 
+ 
+ Item 1. Financial Statements 
+ 
+ Elastic N.V. 
+ Condensed Consolidated Balance Sheets 
+ (in thousands, except share and per share data) (unaudited) 
+ As of October 31, 2024 As of April 30, 2024 Assets Current assets: Cash and cash equivalents Restricted cash Marketable securities Accounts receivable, net of allowance for credit losses of and as of October 31, 2024 and April 30, 2024, respectively 
+ Deferred contract acquisition costs Prepaid expenses and other current assets Total current assets Property and equipment, net Goodwill Operating lease right-of-use assets Intangible assets, net Deferred contract acquisition costs, non-current Deferred tax assets Other assets Total assets Liabilities and Shareholders Equity Current liabilities: Accounts payable Accrued expenses and other liabilities Accrued compensation and benefits Operating lease liabilities Deferred revenue Total current liabilities Deferred revenue, non-current Long-term debt, net Operating lease liabilities, non-current Other liabilities, non-current Total liabilities Commitments and contingencies (Notes 8 and 9) 
+ 
+ par value; shares authorized, shares issued and outstanding as of October 31, 2024 and April 30, 2024 
+ Ordinary shares, par value per share: shares authorized; shares issued and outstanding as of October 31, 2024 and shares issued and outstanding as of April 30, 2024 
+ Treasury stock ) ) Additional paid-in capital Accumulated other comprehensive loss ) ) Accumulated deficit ) ) Total shareholders equity Total liabilities and shareholders equity 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 5 
+
+Table of Contents 
+
+ Elastic N.V. 
+ Condensed Consolidated Statements of Operations 
+ (in thousands, except share and per share data) (unaudited) 
+ Three Months Ended October 31, Six Months Ended October 31, 2024 2023 2024 2023 Revenue Subscription Services Total revenue Cost of revenue Subscription Services Total cost of revenue Gross profit Operating expenses Research and development Sales and marketing General and administrative Restructuring and other related charges Total operating expenses Operating loss ) ) ) ) Other income, net Interest expense ) ) ) ) Other income, net Loss before income taxes ) ) ) ) Provision for income taxes Net loss ) ) ) ) Net loss per share attributable to ordinary shareholders, basic and diluted Weighted-average shares used to compute net loss per share attributable to ordinary shareholders, basic and diluted 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 6 
+
+Table of Contents 
+
+ Elastic N.V. 
+ Condensed Consolidated Statements of Comprehensive Loss 
+ (in thousands) (unaudited) 
+ Three Months Ended October 31, Six Months Ended October 31, 2024 2023 2024 2023 Net loss ) ) ) ) Other comprehensive income (loss): Unrealized gain (loss) on available-for-sale securities, net of taxes ) ) Foreign currency translation adjustments ) ) Other comprehensive income (loss) ) ) Total comprehensive loss ) ) ) ) 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 7 
+
+Table of Contents 
+
+ Elastic N.V. 
+ Condensed Consolidated Statements of Shareholders Equity 
+ (in thousands, except share data) (unaudited) 
+ Ordinary Shares Treasury Shares Amount Additional Paid-in Capital Accumulated Other Comprehensive Loss Accumulated Deficit Total Shareholders' Equity Shares Amount Balances as of July 31, 2024 ) ) ) Issuance of ordinary shares upon exercise of stock options Issuance of ordinary shares upon release of restricted stock units ) Issuance of ordinary shares under employee stock purchase plan Stock-based compensation Net loss ) ) Other comprehensive income Balances as of October 31, 2024 ) ) ) Ordinary Shares Treasury Shares Amount Additional Paid-in Capital Accumulated Other Comprehensive Loss Accumulated Deficit Total Shareholders' Equity Shares Amount Balances as of July 31, 2023 ) ) ) Issuance of ordinary shares upon exercise of stock options Issuance of ordinary shares upon release of restricted stock units ) Issuance of ordinary shares under employee stock purchase plan Stock-based compensation Net loss ) ) Other comprehensive loss ) ) Balances as of October 31, 2023 ) ) ) 
+ 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 8 
+
+Table of Contents 
+
+ Elastic N.V. 
+ Condensed Consolidated Statements of Shareholders Equity 
+ (in thousands, except share data) (unaudited) 
+ Ordinary Shares Treasury Shares Amount Additional Paid-in Capital Accumulated Other Comprehensive Loss Accumulated Deficit Total Shareholders' Equity Shares Amount Balances as of April 30, 2024 ) ) ) Issuance of ordinary shares upon exercise of stock options Issuance of ordinary shares upon release of restricted stock units ) Issuance of ordinary shares under employee stock purchase plan Stock-based compensation Net loss ) ) Other comprehensive income Balances as of October 31, 2024 ) ) ) Ordinary Shares Treasury Shares Amount Additional Paid-in Capital Accumulated Other Comprehensive Loss Accumulated Deficit Total Shareholders' Equity Shares Amount Balances as of April 30, 2023 ) ) ) Issuance of ordinary shares upon exercise of stock options Issuance of ordinary shares upon release of restricted stock units ) Issuance of ordinary shares under employee stock purchase plan Stock-based compensation Net loss ) ) Other comprehensive loss ) ) Balances as of October 31, 2023 ) ) ) 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 9 
+
+Table of Contents 
+
+ Elastic N.V. 
+ Condensed Consolidated Statements of Cash Flows 
+ (in thousands) (unaudited) 
+ Six Months Ended October 31, 2024 2023 Cash flows from operating activities Net loss ) ) Adjustments to reconcile net loss to cash provided by operating activities: Depreciation and amortization Amortization of premium and accretion of discount on marketable securities, net ) ) Amortization of deferred contract acquisition costs Amortization of debt issuance costs Non-cash operating lease cost Stock-based compensation expense Deferred income taxes Unrealized foreign currency transaction loss Other ) ) Changes in operating assets and liabilities: Accounts receivable, net Deferred contract acquisition costs ) ) Prepaid expenses and other current assets Other assets ) Accounts payable ) Accrued expenses and other liabilities ) ) Accrued compensation and benefits ) ) Operating lease liabilities ) ) Deferred revenue ) ) Net cash provided by operating activities Cash flows from investing activities Purchases of property and equipment ) ) Purchases of marketable securities ) ) Sales, maturities, and redemptions of marketable securities Net cash provided by (used in) investing activities ) Cash flows from financing activities Proceeds from issuance of ordinary shares under employee stock purchase plan 
+ Proceeds from issuance of ordinary shares upon exercise of stock options 
+ Net cash provided by financing activities Effect of exchange rate changes on cash, cash equivalents, and restricted cash ) ) Net increase (decrease) in cash, cash equivalents, and restricted cash ) Cash, cash equivalents, and restricted cash, beginning of period Cash, cash equivalents, and restricted cash, end of period Supplemental disclosures of cash flow information Cash paid for interest Cash paid for income taxes, net Cash paid for operating lease liabilities Supplemental disclosures of non-cash investing and financing information Property and equipment included in accounts payable 
+ Operating lease right-of-use assets for new lease obligations 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 10 
+
+Table of Contents 
+
+ Elastic N.V. 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ Note Page 1. Organization and Description of Business 
+ 12 
+ 2. Summary of Significant Accounting Policies 
+ 12 
+ 3. Revenue 
+ 13 
+ 4. Fair Value Measurements 
+ 14 
+ 5. Acquisitions 
+ 17 
+ 6. Balance Sheet Components 
+ 17 
+ 7. Senior Notes 
+ 19 
+ 8. Commitments and Contingencies 
+ 20 
+ 9. Leases 
+ 20 
+ 10. Ordinary Shares 
+ 21 
+ 11. Equity Incentive Plans 
+ 22 
+ 12. Net Loss Per Share Attributable to Ordinary Shareholders 
+ 24 
+ 13. Income Taxes 
+ 24 
+ 14. Employee Benefit Plans 
+ 25 
+ 15. Segment Information 
+ 25 
+
+11 
+
+Table of Contents 
+
+ 1. 
+ 
+ 2. 
+
+12 
+
+Table of Contents 
+
+ Significant Accounting Policies 
+ There have been no changes to the Company s significant accounting policies described in the Company s Annual Report on Form 10-K that have had a material impact on its condensed consolidated financial statements and related notes. 
+
+3. 
+ Other subscription Total subscription Services Total revenue 
+ 13 
+
+Table of Contents 
+
+ customer, a channel partner, accounted for and of net accounts receivable as of October 31, 2024 and April 30, 2024, respectively. The same customer accounted for of total revenue during the three and six months ended October 31, 2024 and of total revenue during the three and six months ended October 31, 2023. 
+ 
+ million and million during the six months ended October 31, 2024 and 2023, respectively, that was included in the deferred revenue balance at the beginning of each of the respective periods. 
+ 
+ million and million, respectively. 
+ 
+ billion of remaining performance obligations. As of October 31, 2024, the Company expects to recognize approximately of its remaining performance obligations as revenue over the next months and the remainder thereafter. 
+ 
+ million and million for the three and six months ended October 31, 2024, respectively, and million and million for the three and six months ended October 31, 2023, respectively. The Company did recognize any impairment of deferred contract acquisition costs for the three and six months ended October 31, 2024 and 2023. 
+ 
+ 4. 
+ 
+ 14 
+
+Table of Contents 
+
+ U.S. treasury securities Certificates of deposit Commercial paper Total included in cash equivalents 
+ Marketable securities: 
+ Certificates of deposit Commercial paper Municipal securities U.S. treasury securities International treasuries Corporate debt securities U.S. agency bonds Total marketable securities Mutual fund investments (1) 
+ Total financial assets 
+ (1) 
+ 15 
+
+Table of Contents 
+
+ U.S. treasury securities 
+ Corporate debt securities 
+ Total included in cash equivalents 
+ Marketable securities: 
+ Certificates of deposit Commercial paper Municipal securities 
+ U.S. treasury securities International treasuries 
+ Corporate debt securities U.S. agency bonds Total marketable securities Mutual fund investments (1) 
+ Total financial assets 
+ (1) 
+ 
+ million and million for the three and six months ended October 31, 2024, respectively, and million and million for the three and six months ended October 31, 2023, respectively, and is included in Other income, net in the condensed consolidated statements of operations. 
+ As of October 31, 2024 and April 30, 2024, gross unrealized gains and losses on the marketable securities were insignificant. The fluctuations in market interest rates impacted the unrealized losses or gains on these securities. 
+ Due between 1 year and 3 years Total marketable securities 
+ Financial Liabilities 
+ In July 2021, the Company issued million aggregate principal amount of Senior Notes due July 15, 2029 (the Senior Notes in a private placement. Based on the trading prices of the Senior Notes, the fair value of the Senior Notes as of October 31, 2024 was approximately million. While the Senior Notes are recorded at cost, the fair value of the Senior Notes was determined based on quoted prices in markets that are not active; accordingly, the Senior Notes are categorized as Level 2 for purposes of the fair value measurement hierarchy. 
+ 16 
+
+Table of Contents 
+
+ 5. 
+ of the share capital of Opster Ltd. Opster for a total purchase consideration of million. The purchase consideration includes million held back by the Company for indemnity obligations which will be released upon the 18-month anniversary of the acquisition. 
+ The acquisition was accounted for as a business combination in accordance with ASC 805, Business Combinations, and, accordingly, the total purchase consideration was allocated to the tangible and intangible assets acquired and liabilities assumed based on their estimated fair values on the acquisition date. The total purchase price allocated to developed technology and goodwill was million and million, respectively. The fair value assigned to developed technology was determined using the cost to recreate approach. The developed technology asset is being amortized on a straight-line basis over the useful life of years, which approximates the pattern in which the developed technology is utilized. Goodwill resulted primarily from the expectation of enhancing the efficiency and management of the Elastic Stack and is not deductible for income tax purposes. 
+
+6. 
+ 
+ Computer hardware and software Furniture and fixtures - 
+ Assets under construction Total property and equipment Less: accumulated depreciation ) ) Property and equipment, net 
+ Depreciation expense related to property and equipment was million and million for the three and six months ended October 31, 2024, respectively, and million and million for the three and six months ended October 31, 2023, respectively. 
+ Intangible Assets, Net 
+ Foreign currency translation adjustment ) Total 
+ 17 
+
+Table of Contents 
+
+ Foreign currency translation adjustment ) Total 
+ Sales and marketing Total amortization of acquired intangible assets 
+ 2026 2027 2028 2029 Total 
+ Goodwill 
+ Foreign currency translation adjustment Balance as of October 31, 2024 
+ There was impairment of goodwill during the six months ended October 31, 2024 and 2023. 
+ 
+ Income taxes payable Value added taxes payable Accrued interest Other Total accrued expenses and other liabilities 
+ 18 
+
+Table of Contents 
+
+ Accrued commissions Accrued payroll and withholding taxes Other Total accrued compensation and benefits 
+ 
+ Bad debt expense Accounts written off ) ) Ending balance 
+ 
+ 7. 
+ million aggregate principal amount of Senior Notes in a private placement. 
+ Interest on the Senior Notes is payable semi-annually in arrears on January 15 and July 15 of each year. The Company received net proceeds from the offering of the Senior Notes of million after deducting underwriting commissions of million and incurred additional issuance costs of million. Total debt issuance costs of million are being amortized to interest expense using the effective interest method over the term of the Senior Notes. The Company may at its election redeem all or a part of the Senior Notes on or after July 15, 2024, on any one or more occasions, at the redemption prices set forth in the indenture governing the Senior Notes (the Indenture ), plus, in each case, accrued and unpaid interest thereon, if any, to, but excluding, the applicable redemption date. The Company may also at its election redeem the Senior Notes in whole, but not in part, at a price equal to of the principal amount thereof plus accrued and unpaid interest, if any, if certain changes in tax law occur as set forth in the Indenture. 
+ If the Company experiences a change of control triggering event (as defined in the Indenture), the Company must offer to repurchase the Senior Notes at a repurchase price equal to of the principal amount of the Senior Notes to be repurchased, plus accrued and unpaid interest, if any, to the repurchase date. 
+ The Indenture contains covenants limiting the Company s ability and the ability of certain subsidiaries to create liens on certain assets to secure debt; grant a subsidiary guarantee of certain debt without also providing a guarantee of the Senior Notes; and consolidate or merge with or into, or sell or otherwise dispose of all or substantially all of its assets to, another person. These covenants are subject to a number of limitations and exceptions. Certain of these covenants will not apply during any period in which the Senior Notes are rated investment grade by Moody s Investors Service, Inc. and Standard Poor s Ratings Services. 
+ Unamortized debt issuance costs ) ) Net carrying amount 
+ 19 
+
+Table of Contents 
+
+ Amortization of debt issuance costs Total interest expense related to the Senior Notes 
+ 
+ 8. 
+
+million in letters of credit outstanding as of October 31, 2024, primarily in favor of certain landlords for office space. 
+ Legal Matters 
+ From time to time, the Company has become involved in claims and other legal matters arising in the ordinary course of business. The Company investigates these claims as they arise. Although claims are inherently unpredictable, the Company is currently not aware of any matters that, if determined adversely to the Company, would individually or taken together have a material adverse effect on its business, results of operations, financial position or cash flows. 
+ The Company accrues estimates for resolution of legal and other contingencies when losses are probable and reasonably estimable. 
+ Indemnification 
+ The Company enters into indemnification provisions under its agreements with other companies in the ordinary course of business, including business partners, landlords, contractors and parties performing its research and development. Pursuant to these arrangements, the Company agrees to indemnify, hold harmless, and reimburse the indemnified party for certain losses suffered or incurred by the indemnified party as a result of the Company s activities. The maximum potential amount of future payments the Company could be required to make under these agreements is not determinable. The Company to date has not incurred costs to defend lawsuits or settle claims related to these indemnification agreements. As a result, the Company believes the fair value of these agreements is not material. The Company maintains commercial general liability insurance and product liability insurance to offset certain of the Company s potential liabilities under these indemnification provisions. 
+ In addition, the Company indemnifies its officers, directors and certain key employees against certain liabilities that may arise as a result of their affiliation with the Company. To date, there have been claims under any indemnification provisions. 
+ 
+ 9. 
+ Short-term lease cost Variable lease cost Total lease cost 
+ 20 
+
+Table of Contents 
+
+ Weighted average discount rate 
+ 2026 2027 2028 2029 Thereafter Total minimum lease payments Less imputed interest ) Present value of future minimum lease payments Less current lease liabilities ) Operating lease liabilities, non-current 
+ Future minimum lease payments as of October 31, 2024 include future cash payments on leases with corresponding right-of-use assets which were written down for impairment due to facilities-related cost optimization actions during fiscal 2023. 
+ During the six months ended October 31, 2024, the Company executed an operating lease agreement for an office space with an expected commencement date in the fourth quarter of fiscal 2025. The lease term is approximately years with undiscounted future minimum lease payments of approximately million. 
+ 
+ 10. 
+ million ordinary shares at a par value per ordinary share of . 
+ Each holder of ordinary shares has the right to . The holders of ordinary shares are also entitled to receive dividends whenever funds are legally available and when proposed by the Company s board of directors and adopted by the general meeting of shareholders, subject to the prior rights of holders of all classes of shares outstanding having priority rights to dividends. dividends have been declared from the Company s inception through October 31, 2024. 
+ The board of directors has been authorized by the general meeting of shareholders, on the Company s behalf, to issue the Company s ordinary shares and grant rights to acquire the Company s ordinary shares in an amount up to 20 of the issued share capital of the Company as of August 21, 2024. This authorization is valid for a period of 18 months from October 1, 2024, the date of such general meeting of shareholders, until April 1, 2026. 
+ Ordinary Shares Reserved for Issuance 
+ RSUs issued and outstanding 
+ Available for future grants 
+ Available for 2022 ESPP 
+ Total ordinary shares reserved 
+ 
+ 21 
+
+Table of Contents 
+
+ million preference shares at a par value per preference share of . Each holder of preference shares has rights and preferences, including the right to one vote per preference share. As of October 31, 2024, there were preference shares issued or outstanding. 
+ Preference shares in the capital of the Company may currently only be issued pursuant to a resolution adopted by the general meeting of shareholders at the proposal of the board of directors. 
+ 
+ 11. 
+ million of the Company s ordinary shares for future purchase and issuance under the 2022 ESPP in January 2023. The 2022 ESPP allows eligible employees to acquire ordinary shares of the Company at a discount at periodic intervals through accumulated payroll deductions. Eligible employees purchase ordinary shares of the Company during a purchase period at of the market value of the Company s ordinary shares at either the beginning or end of an offering period, whichever is lower. Offering periods under the 2022 ESPP are approximately long and begin on each of March 16 or September 16 or the next trading day thereafter. 
+ For the three and six months ended October 31, 2024, there were ordinary shares purchased under the 2022 ESPP. Stock-based compensation expense recognized related to the 2022 ESPP was million and million for the three and six months ended October 31, 2024, respectively, and million and million for the three and six months ended October 31, 2023, respectively. 
+ 
+ , subject to the employees continued service to the Company. The Company s compensation committee may explicitly deviate from the general vesting schedules in its approval of an equity-based award as it may deem appropriate. Stock options expire ten years after the date of grant. Stock options and RSUs that are canceled under certain conditions become available for future grant or sale under the 2012 Plan unless the 2012 Plan is terminated. 
+ Shares authorized 
+ Options canceled 
+ RSUs granted 
+ ) RSUs canceled 
+ Available at end of period 
+ 22 
+
+Table of Contents 
+
+ Stock options exercised ) Stock options canceled ) Stock options assumed in acquisition canceled ) Balance as of October 31, 2024 Exercisable as of October 31, 2024 
+ Aggregate intrinsic value represents the difference between the exercise price of the stock options to purchase the Company s ordinary shares and the fair value of the Company s ordinary shares. stock options were granted during the three and six months ended October 31, 2024 and 2023. 
+ As of October 31, 2024, the Company had unrecognized stock-based compensation expense of million related to unvested stock options that the Company expects to recognize over a weighted-average period of years. 
+ RSUs 
+ RSUs granted 
+ RSUs released ) RSUs canceled 
+ ) Outstanding and unvested at October 31, 2024 
+ As of October 31, 2024, the Company had unrecognized stock-based compensation expense of million related to RSUs that the Company expects to recognize over a weighted-average period of years. 
+ 
+ Services Research and development Sales and marketing General and administrative Total stock-based compensation expense 
+ 23 
+
+Table of Contents 
+
+ 12.) ) ) ) Denominator: Weighted-average shares used to compute net loss per share attributable to ordinary shareholders, basic and diluted Net loss per share attributable to ordinary shareholders, basic and diluted 
+ RSUs 2022 ESPP 
+ Total 
+ 
+ 13. 
+ 
+ million and million for the three and six months ended October 31, 2024, respectively, and million and million for the three and six months ended October 31, 2023, respectively. The Company s effective tax rate is affected by recurring items, such as tax rates in jurisdictions outside the Netherlands and the relative amounts of income that is earned in those jurisdictions, non-deductible stock-based compensation as well as one-time tax benefits or charges and Base Erosion and Anti-abuse Tax (the BEAT legislation in the U.S. For the six months ended October 31, 2024, the provision for income taxes includes a one-time charge of million associated with acquisition-related integration. The calculation of income taxes is based upon the estimated annual effective tax rates for the year applied to the current period income before tax plus the tax effect of any significant unusual items, discrete events, or changes in tax law. 
+ The Company assesses uncertain tax positions in accordance with ASC 740-10, Accounting for Uncertainties in Tax. The Company anticipates that the amount of reasonably possible unrecognized tax benefits that could decrease over the next twelve months due to the expiration of certain statutes of limitations and settlement of tax audits is not material to the Company s condensed consolidated financial statements. 
+ In 2021, the Organization for Economic Cooperation and Development OECD published Pillar Two Model Rules defining a global minimum tax, which calls for the taxation of large corporations at a minimum rate of 15 . The OECD has since issued administrative guidance providing transition and safe harbor rules concerning the implementation of the Pillar Two global minimum tax. A number of countries have proposed or enacted legislation to implement core elements of the Pillar Two proposal. Pillar Two did not have a significant impact on the Company s condensed consolidated financial statements for the three and six months ended October 31, 2024. Although the Company is monitoring developments and evaluating the potential impact on future periods, the Company does not expect Pillar Two to have a significant impact on its consolidated financial statements for the fiscal year ending April 30, 2025. The Company continues to monitor the impact of proposed and enacted global tax legislation. 
+ 24 
+
+Table of Contents 
+
+ 14. 
+ of the participating employee s W-2 earnings and wages. The Company recorded million and million of expense for the three and six months ended October 31, 2024, respectively, and million and million for the three and six months ended October 31, 2023, respectively, related to the 401(k) Plan. 
+ million and million of expense for the three and six months ended October 31, 2024, respectively, and million and million for the three and six months ended October 31, 2023, respectively. 
+ 
+ 15. 
+ Rest of world Total revenue 
+ Other than the United States, no individual country accounted for 10 or more of total revenue during the periods presented. 
+ The Netherlands United Kingdom India 
+ Rest of world Total long-lived assets 
+ 25 
+
+Table of Contents 
+
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our condensed consolidated financial statements and related notes included elsewhere in this Quarterly Report on Form 10-Q and with our Management s Discussion and Analysis of Financial Condition and Results of Operations and audited consolidated financial statements included in our Annual Report on Form 10-K for the fiscal year ended April 30, 2024. As discussed in the section titled Note Regarding Forward-Looking Statements, the following discussion and analysis contains forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those discussed below. Factors that could cause or contribute to such difference include, but are not limited to, those identified below and those discussed in our risk factors disclosed in Item 1A. Risk Factors of our Annual Report on Form 10-K for the fiscal year ended April 30, 2024 filed with the SEC on June 14, 2024 (the Company s Annual Report on Form 10-K ). 
+ Our fiscal year end is April 30, and our fiscal quarters end on July 31, October 31, January 31, and April 30. Our fiscal year ended April 30, 2024 is referred to as fiscal 2024, and our fiscal year ending April 30, 2025 is referred to as fiscal 2025. 
+ 
+ Overview 
+ Elastic, the Search AI Company, enables our customers to find the answers they need in real time, using all of their data, at scale. Our platform combines the power of search with AI to help companies solve real-time business problems, unlock potential value, and achieve better outcomes. Our platform, available as both a hosted, managed service across public clouds as well as self-managed software, allows our customers to find insights and drive AI and machine learning use cases from large amounts of data. 
+ We offer three search-powered solutions Search, Observability, and Security that are built on the platform. We help organizations, their employees, and their customers find what they need faster, while keeping mission-critical applications running smoothly, and protecting against cyber threats. 
+ Our platform is built on the Elastic Stack, a powerful set of software products that ingest data from any source, in any format, and perform search, analysis, and visualization of that data. At the core of the Elastic Stack is Elasticsearch - a highly scalable document store and search engine, and the unified data store for all of our solutions and use cases. Our platform also includes the Elasticsearch Relevance Engine TM ESRE ), which combines advanced AI with Elastic s text search to give developers a full suite of sophisticated retrieval algorithms and the ability to integrate with large language models. The Elastic Stack can be used by developers and IT decision makers to power a variety of use cases. It is a distributed, real-time vector search and analytics engine and data store for all types of data, including textual, numerical, geospatial, structured, and unstructured. 
+ We make our platform available as a hosted, managed service across major cloud providers. Customers can also deploy our platform across hybrid clouds, public or private clouds, and multi-cloud environments. As digital transformation drives mission-critical business functions to the cloud, we believe that every company must incorporate search AI capabilities across IT and line-of-business organizations to find the answers that matter from all of its data in real-time and at scale. 
+ Our business model is based primarily on a combination of a paid Elastic-managed hosted service offering and paid and free proprietary self-managed software. Our paid offerings for our platform are sold via subscription through resource-based pricing, and all customers and users have access to varying levels of features across all solutions. In Elastic Cloud, our family of cloud-based offerings, we offer various subscription tiers tied to different features. For users who download our software, we make some of the features of our software available free of charge, allowing us to engage with a broad community of developers and practitioners and introduce them to the value of the Elastic Stack. We believe in the importance of an open software development model, and we develop the majority of our software in public repositories as open code under a proprietary license. Unlike some companies, we do not build an enterprise version that is separate from our free distribution. We maintain a single code base across both our self-managed software and Elastic-hosted services. All of these actions help us build a powerful commercial business model that we believe is optimized for product-driven growth. 
+ We generate revenue primarily from sales of subscriptions to our platform. We offer various paid subscription tiers that provide different levels of rights to use proprietary features and access to support. We do not sell support separately. Our subscription agreements typically range from one to three years and are usually billed annually in advance. Our subscription agreements are both term-based and consumption-based, with the vast majority of Elastic Cloud subscriptions being consumption-based. We sell subscriptions in various currencies, with the majority of our subscriptions contracted in U.S. dollars, and a smaller portion contracted in Euro, British Pound Sterling, and other currencies. Elastic Cloud customers may also purchase subscriptions on a month-to-month basis without a commitment, with usage billed at the end of each month. Subscriptions accounted for 93 and 92 of total revenue for the six months ended October 31, 2024 and 2023, respectively. We also generate revenue from consulting and training services. 
+ 26 
+
+Table of Contents 
+
+ We make it easy for users to begin using our products in order to drive rapid adoption. Users can either sign up for a free trial on Elastic Cloud or download our software directly from our website without any sales interaction, and immediately begin using the full set of features. Users can also sign up for Elastic Cloud through public cloud marketplaces. We conduct low-touch campaigns to keep users and customers engaged once they have begun using Elastic Cloud or have downloaded our software. As of October 31, 2024, we had approximately 21,300 customers compared to approximately 20,700 customers as of October 31, 2023. The majority of our new customers use Elastic Cloud. We define a customer as an entity that generated revenue in the quarter ending on the measurement date from an annual or month-to-month subscription. Affiliated entities are typically counted as a single customer. 
+ Many of these customers start with limited initial spending on our products but can significantly increase their spending over time. We drive high-touch engagement with qualified prospects and customers to drive further awareness, adoption, and expansion of our products with paid subscriptions. Expansion includes increasing the number of developers and practitioners using our products, increasing the utilization of our products for a particular use case, and utilizing our products to address new use cases. The number of customers who represented greater than 100,000 in annual contract value ACV was over 1,420 and over 1,220 as of October 31, 2024 and 2023, respectively. The ACV of a customer s commitments is calculated based on the terms of that customer s subscriptions, and represents the total committed annual subscription amount as of the measurement date. Month-to-month subscriptions are not included in the calculation of ACV. 
+ Our sales teams are organized primarily by geography and secondarily by customer segments. They focus on both seeking to obtain new customers and on pursuing additional sales to existing customers. In addition to our direct sales efforts, we maintain partnerships to further extend our reach and awareness of our products around the world. 
+ 
+ We continue to make substantial investments in developing the Elastic Stack and expanding our global sales and marketing footprint. With a distributed team spanning over 35 countries, we are able to recruit, hire, and retain high-quality, experienced technical and sales personnel and operate at a rapid pace to drive product releases, fix bugs, and create and market new products. We had 3,372 employees as of October 31, 2024. 
+ Current Economic Conditions 
+ Macroeconomic events, including a possible resurgence in inflation, fluctuations in economic growth, and political unrest, continue to evolve and impact worldwide economic activity. Governmental and corporate responses to these factors, including changing interest rates and unpredictable and decreased spending, will continue to affect the macroeconomic conditions. We have experienced and, if economic conditions deteriorate, may continue to experience longer and more unpredictable sales cycles, increased scrutiny of deals, slowing consumption and overall customer expenditures, and the impacts of changing foreign exchange rates with a strengthening or weakening U.S. dollar. We continue to closely monitor the macroeconomic environment and its effects on our business and on global economic activity, including customer spending behavior. For a discussion of these risks, see Item 1A. Risk Factors of the Company's Annual Report on Form 10-K. 
+ Key Factors Affecting our Performance 
+ We believe that the growth and future success of our business depends on many factors, including those described below. While each of these factors presents significant opportunities for our business, they also pose important challenges that we must successfully address in order to sustain our growth and improve our results of operations. 
+ Increasing adoption of Elastic Cloud. Elastic Cloud, our family of cloud-based offerings, is an important growth opportunity for our business. Organizations are increasingly looking for hosted deployment alternatives with reduced administrative burdens. In some cases, users of our source available software that have been self-managing deployments of the Elastic Stack subsequently become paying subscribers of Elastic Cloud. For the six months ended October 31, 2024 and 2023, Elastic Cloud contributed 46 and 42 of our total revenue, respectively. We believe that offering Elastic Cloud is important for achieving our long-term growth potential, and we expect Elastic Cloud s contribution to our subscription revenue to continue to increase over time. However, we expect that an increase in the relative contribution of Elastic Cloud to our business will continue to have a modest adverse impact on our gross margin as a result of the associated third-party hosting costs. 
+ Growing the Elastic community. Our strategy consists of providing access to source available software, on both a paid and free-of-charge basis, and fostering a community of users and developers. Our strategy is designed to pursue what we believe to be significant untapped potential for the use of our technology. After developers begin to use our software and start to participate in our developer community, they become more likely to apply our technology to additional use cases and promote our technology within their organizations. This reduces the time required for our sales force to educate potential customers on our solutions. To capitalize on our opportunity, we intend to make further investments to keep the Elastic Stack accessible and well known to software developers around the world. We intend to continue to invest in our products and support and engage our user base and developer community through content, events, and conferences in the United States and internationally. Our results of operations may fluctuate as we make these investments. 
+ 27 
+
+Table of Contents 
+
+ Developing new features for the Elastic Stack. The Elastic Stack is applied to various use cases by customers, including through the solutions we offer. Our revenue is derived primarily from subscriptions of Search, Observability and Security built into the Elastic Stack. We believe that releasing additional features of the Elastic Stack, including our solutions, drives usage of our products and ultimately drives our growth. To that end, we plan to continue to invest in building new features and solutions that expand the capabilities of the Elastic Stack. These investments may adversely affect our operating results prior to generating benefits, to the extent that they ultimately generate benefits at all. 
+ Growing our customer base by converting users of our software to paid subscribers. Our financial performance depends on growing our paid customer base by converting free users of our software into paid subscribers. Our distribution model has resulted in rapid adoption by developers around the world. We have invested, and expect to continue to invest, heavily in sales and marketing efforts to convert additional free users to paid subscribers. Our investment in sales and marketing is significant given our large and diverse user base. These investments are likely to occur before we realize the anticipated benefits of such investments, such that they may adversely affect our operating results in the near term. 
+ We recently added the Affero General Public License AGPL as an option to license the free part of our Elasticsearch and Kibana source code that has been available under the Elastic License 2.0 and Server Side Public License Version 1.0 SSPL ). AGPL is an Open Source Initiative approved open-source license. We anticipate that the addition of this license will drive further engagement and adoption of our software in areas such as vector search within our large community, further increasing our appeal for driving AI and machine learning use cases from large amounts of data. Subject to compliance with the conditions of AGPL, anyone may also redistribute our software in modified or unmodified form or use it to provide a competitive product or service offering. 
+ Expanding within our current customer base. Our future growth and profitability depend on our ability to drive additional sales to existing customers. Customers often expand the use of our software within their organizations by increasing the number of developers using our products, increasing the utilization of our products for a particular use case, and expanding use of our products to additional use cases. We focus some of our direct sales efforts on encouraging these types of expansion within our customer base. 
+ We believe that a useful indication of how our customer relationships have expanded over time is through our Net Expansion Rate, which is based upon trends in the rate at which customers increase their spend with us. To calculate an expansion rate as of the end of a given month, we start with the annualized spend from all such customers as of twelve months prior to that month end, or Prior Period Value. A customer s annualized spend is measured as its ACV, or in the case of customers charged on usage-based arrangements, by annualizing the usage for that month. We then calculate the annualized spend from these same customers as of the given month end, or Current Period Value, which includes any growth in the value of their subscriptions or usage and is net of contraction or attrition over the prior twelve months. We then divide the Current Period Value by the Prior Period Value to arrive at an expansion rate. The Net Expansion Rate at the end of any period is the weighted average of the expansion rates as of the end of each of the trailing twelve months. The Net Expansion Rate includes the dollar-weighted value of our subscriptions or usage that expand, renew, contract, or experience attrition. For instance, if each customer had a one-year subscription and renewed its subscription for the same amount, the Net Expansion Rate would be 100 . Customers who reduced their annual subscription dollar value (contraction) or did not renew their annual subscription (attrition) would adversely affect the Net Expansion Rate. Our Net Expansion Rate was approximately 112 as of October 31, 2024. 
+ As large organizations expand their use of the Elastic Stack across multiple use cases, projects, divisions and users, they often begin to require centralized provisioning, management and monitoring across multiple deployments. To satisfy these requirements, our Enterprise subscription tier provides access to key orchestration and deployment management capabilities. We will continue to focus some of our direct sales efforts on driving adoption of our paid offerings. 
+ 
+ Components of Results of Operations 
+ Revenue 
+ Subscription. Our revenue is primarily generated through the sale of subscriptions to software, which is either self-managed by the user or hosted and managed by us in the cloud. Subscriptions provide the right to use paid proprietary software features and access to support for our paid and unpaid software. Our subscription agreements are either term-based or consumption-based, with the vast majority of Elastic Cloud subscriptions being consumption-based. 
+ A portion of the revenue from self-managed subscriptions is generally recognized up front at the point in time when the license is delivered and the remainder is recognized ratably over the subscription term. Revenue from subscriptions that require access to the cloud or that are hosted and managed by us is recognized ratably over the subscription term or on a usage basis for consumption-based arrangements. Both are presented within Subscription revenue in our condensed consolidated statements of operations. 
+ 28 
+
+Table of Contents 
+
+ Services. Services is composed of implementation and other consulting services as well as public and private training. Revenue for services is recognized as these services are delivered. 
+ Cost of Revenue 
+ Subscription. Cost of subscription consists primarily of personnel and related costs for employees associated with supporting our subscription arrangements, certain third-party expenses, and amortization of certain intangible and other assets. Personnel and related costs comprise cash compensation, benefits and stock-based compensation to employees, costs of third-party contractors, and allocated overhead costs. Third-party expenses consist of cloud hosting costs and other expenses directly associated with our customer support. We expect our cost of subscription to increase in absolute dollars as our subscription revenue increases. 
+ Services. Cost of services revenue consists primarily of personnel costs directly associated with delivery of training, implementation and other services, costs of third-party contractors, facility rental charges and allocated overhead costs. We expect our cost of services to increase in absolute dollars as we invest in our business and as services revenue increases. 
+ Gross profit and gross margin. Gross profit represents revenue less cost of revenue. Gross margin, or gross profit as a percentage of revenue, has been and will continue to be affected by a variety of factors, including the timing of our acquisition of new customers and our renewals with existing customers, the average sales price of our subscriptions and services, the amount of our revenue represented by hosted services, the mix of subscriptions sold, the mix of revenue between subscriptions and services, the mix of services between consulting and training, transaction volume growth and support case volume growth. We expect our gross margin to fluctuate over time depending on the factors described above. We expect our revenue from Elastic Cloud to continue to increase as a percentage of total revenue, which we expect will continue to have a modest unfavorable impact on our gross margin as a result of the associated third-party hosting costs. 
+ 
+ Operating Expenses 
+ Research and development. Research and development expense primarily consists of personnel and related costs and allocated overhead costs. We expect our research and development expense to increase in absolute dollars for the foreseeable future as we continue to develop new technology and invest further in our existing products. 
+ Sales and marketing. Sales and marketing expense primarily consists of personnel and related costs, commissions, allocated overhead costs and costs related to marketing programs and user events. Marketing programs consist of advertising, events, brand-building and customer acquisition and retention activities. We expect our sales and marketing expense to increase in absolute dollars as we expand our sales force and increase our investments in marketing resources. We capitalize sales commissions and associated payroll taxes paid to internal sales personnel that are related to the acquisition of certain customer contracts. Deferred contract acquisition costs are amortized over the expected benefit period. 
+ General and administrative. General and administrative expense primarily consists of personnel and related costs for our management, finance, legal, human resources, and other administrative employees. Our general and administrative expense also includes professional fees, accounting fees, audit fees, tax services and legal fees, as well as insurance, allocated overhead costs, and other corporate expenses. We expect our general and administrative expense to increase in absolute dollars as we increase the size of our general and administrative functions to support the growth of our business. 
+ Restructuring and other related charges. Restructuring and other related charges primarily consist of employee-related severance and other termination benefits as well as lease impairment and other facilities-related charges. 
+ Other Income, Net 
+ Interest expense. Interest expense primarily consists of interest on our Senior Notes. 
+ Other income, net. Other income, net primarily consists of interest income, gains and losses from transactions denominated in a currency other than the functional currency, and miscellaneous other non-operating gains and losses. 
+ Provision for Income Taxes 
+ Provision for income taxes consists primarily of income taxes related to the Netherlands, U.S. federal and state, and foreign jurisdictions in which we conduct business. Our effective tax rate is affected by recurring items, such as tax rates in jurisdictions outside the Netherlands and the relative amounts of income we earn in those jurisdictions, non-deductible stock-based compensation, and one-time tax benefits or charges as well as Base Erosion and Anti-abuse Tax (the BEAT legislation in the U.S. 
+ 29 
+
+Table of Contents 
+
+ Results of Operations 
+ The following table sets forth our results of operations for the periods presented. 
+ Three Months Ended October 31, Six Months Ended October 31, 2024 2023 2024 2023 (in thousands) Revenue Subscription 340,807 287,743 664,581 557,990 Services 24,554 22,869 48,200 46,375 Total revenue 365,361 310,612 712,781 604,365 Cost of revenue (1)(2) 
+ Subscription 69,941 59,996 138,288 117,262 Services 23,238 20,093 46,648 40,304 Total cost of revenue 93,179 80,089 184,936 157,566 Gross profit 272,182 230,523 527,845 446,799 Operating expenses (1)(2)(3) 
+ Research and development 88,163 80,108 177,495 160,798 Sales and marketing 144,274 133,230 301,631 266,399 General and administrative 44,085 38,695 86,758 76,634 Restructuring and other related charges 86 29 225 754 Total operating expenses 276,608 252,062 566,109 504,585 Operating loss (1)(2)(3) 
+ (4,426) (21,539) (38,264) (57,786) Other income, net Interest expense (6,462) (6,349) (12,988) (12,655) Other income, net 9,106 8,239 20,314 15,539 Loss before income taxes (1,782) (19,649) (30,938) (54,902) Provision for income taxes 23,668 5,147 43,739 18,402 Net loss (25,450) (24,796) (74,677) (73,304) 
+ (1) Includes stock-based compensation expense and related employer taxes as follows: 
+ Three Months Ended October 31, Six Months Ended October 31, 2024 2023 2024 2023 (in thousands) Cost of revenue Subscription 2,361 2,208 4,881 4,589 Services 3,547 2,979 7,336 5,992 Research and development 24,777 22,562 50,499 45,967 Sales and marketing 21,434 18,730 43,883 38,399 General and administrative 13,562 11,624 26,649 22,770 Total stock-based compensation expense and related employer taxes 65,681 58,103 133,248 117,717 
+ 30 
+
+Table of Contents 
+
+ (2) Includes amortization of acquired intangible assets as follows: 
+ Three Months Ended October 31, Six Months Ended October 31, 2024 2023 2024 2023 (in thousands) Cost of revenue Subscription 2,835 2,977 6,110 5,953 Sales and marketing 911 2,143 Total amortization of acquired intangibles 2,835 3,888 6,110 8,096 
+ (3) Includes acquisition-related expenses as follows: 
+ Three Months Ended October 31, Six Months Ended October 31, 2024 2023 2024 2023 (in thousands) Research and development 6 395 54 1,175 General and administrative 98 383 98 383 Total acquisition-related expenses 104 778 152 1,558 
+ The following table sets forth selected condensed consolidated statements of operations data for each of the periods indicated as a percentage of total revenue: 
+ Three Months Ended October 31, Six Months Ended October 31, 2024 2023 2024 2023 Revenue Subscription 93 93 93 92 Services 7 7 7 8 Total revenue 100 100 100 100 Cost of revenue (1)(2) 
+ Subscription 19 19 19 19 Services 7 7 7 7 Total cost of revenue 26 26 26 26 Gross profit 74 74 74 74 Operating expenses (1)(2)(3) 
+ Research and development 24 26 25 26 Sales and marketing 39 43 42 44 General and administrative 12 12 12 13 Restructuring and other related charges Total operating expenses 75 81 79 83 Operating loss (1)(2)(3) 
+ (1) (7) (5) (9) Other income, net Interest expense (2) (2) (2) (2) Other income, net 3 3 3 2 Loss before income taxes (6) (4) (9) Provision for income taxes 7 2 6 3 Net loss (7) (8) (10) (12) 
+ 31 
+
+Table of Contents 
+
+ (1) Includes stock-based compensation expense and related employer taxes as follows: 
+ Three Months Ended October 31, Six Months Ended October 31, 2024 2023 2024 2023 Cost of revenue Subscription 1 1 1 Services 1 1 1 1 Research and development 7 7 7 7 Sales and marketing 6 6 6 6 General and administrative 4 4 4 4 Total stock-based compensation expense and related employer taxes 18 19 19 19 
+ (2) Includes amortization of acquired intangible assets as follows: 
+ Three Months Ended October 31, Six Months Ended October 31, 2024 2023 2024 2023 Cost of revenue Subscription 1 1 1 1 Sales and marketing Total amortization of acquired intangibles 1 1 1 1 
+ (3) Includes acquisition-related expenses as follows: 
+ Three Months Ended October 31, Six Months Ended October 31, 2024 2023 2024 2023 Research and development General and administrative Total acquisition-related expenses 
+ 
+ Comparison of Three Months Ended October 31, 2024 and 2023 
+ Revenue 
+ Three Months Ended October 31, Change 2024 2023 (in thousands) Revenue Subscription 340,807 287,743 53,064 18 Services 24,554 22,869 1,685 7 Total revenue 365,361 310,612 54,749 18 
+ Subscription revenue increased by 53.1 million, or 18 , for the three months ended October 31, 2024 compared to the same period of the prior year. This increase was primarily driven by continued adoption of Elastic Cloud, which grew 25 over the same period and increased to 46 of total revenue for the three months ended October 31, 2024 from 43 for the three months ended October 31, 2023. 
+ Services revenue increased by 1.7 million, or 7 , for the three months ended October 31, 2024 compared to the same period of the prior year. The increase in services revenue was attributable to increased adoption of our services offerings. 
+ 32 
+
+Table of Contents 
+
+ Cost of Revenue and Gross Margin 
+ Three Months Ended October 31, Change 2024 2023 (in thousands) Cost of revenue Subscription 69,941 59,996 9,945 17 Services 23,238 20,093 3,145 16 Total cost of revenue 93,179 80,089 13,090 16 Gross profit 272,182 230,523 41,659 18 Gross margin: Subscription 79 79 Services 5 12 Total gross margin 74 74 
+ Cost of subscription revenue increased by 9.9 million, or 17 , for the three months ended October 31, 2024 compared to the same period of the prior year. This increase was primarily due to an increase of 10.7 million in cloud infrastructure costs, partially offset by decreases in other third-party costs of 0.7 million and travel costs of 0.4 million. Total subscription margin remained flat at 79 for the three months ended October 31, 2024 compared to the same period of the prior year. 
+ Cost of services revenue increased by 3.1 million, or 16 , for the three months ended October 31, 2024 compared to the same period of the prior year. This increase was due to increases of 1.7 million in personnel and related costs and 1.5 million in subcontractor costs. Gross margin for services revenue was 5 for the three months ended October 31, 2024 compared to 12 for the same period of the prior year. The decrease in gross margin was primarily attributable to personnel and related costs and subcontractor costs growing at a higher rate than the growth in services revenue. We continue to make investments in our services organization that we believe will be needed as we continue to grow. Our gross margin for services may fluctuate or decline in the near-term as we seek to expand our services business. 
+ Operating Expenses 
+ Research and development 
+ Three Months Ended October 31, Change 2024 2023 (in thousands) Research and development 88,163 80,108 8,055 10 
+ Research and development expense increased by 8.1 million, or 10 , for the three months ended October 31, 2024 compared to the same period of the prior year as we continued to invest in the development of new and existing offerings. This increase was primarily due to increases of 7.5 million in personnel and related costs and 1.4 million in cloud infrastructure costs related to our research and development activities. These increases were partially offset by a decrease of 0.9 million in consulting fees and travel costs. The increase in personnel and related costs included increases of 4.9 million in salaries and related taxes and 2.3 million in stock-based compensation. 
+ Sales and marketing 
+ Three Months Ended October 31, Change 2024 2023 (in thousands) Sales and marketing 144,274 133,230 11,044 8 
+ Sales and marketing expense increased by 11.0 million, or 8 , for the three months ended October 31, 2024 compared to the same period of the prior year. This increase was primarily due to an increase of 15.8 million in personnel and related costs, partially offset by decreases of 3.6 million in marketing expenses and 0.9 million in intangible assets amortization. The increase in personnel and related costs included increases of 7.7 million in salaries and related taxes, 3.0 million in commission expense, 2.6 million in stock-based compensation, and 1.7 million in employee benefits expense. 
+ 33 
+
+Table of Contents 
+
+ General and administrative 
+ Three Months Ended October 31, Change 2024 2023 (in thousands) General and administrative 44,085 38,695 5,390 14 
+ General and administrative expense increased by 5.4 million, or 14 , for the three months ended October 31, 2024 compared to the same period of the prior year. This increase was primarily due to an increase of 5.6 million in personnel and related costs, including increases of 2.1 million in salaries and related taxes, 2.0 million in stock-based compensation, and 0.7 million in employee benefits expense. 
+ Restructuring and other related charges 
+ Three Months Ended October 31, Change 2024 2023 (in thousands) Restructuring and other related charges 86 29 57 197 
+ For the three months ended October 31, 2024, restructuring and other related charges was flat compared to the same period of the prior year. Restructuring and other related charges are primarily attributable to employee-related severance and termination benefit charges in the respective periods. 
+ Other Income, Net 
+ Interest expense Three Months Ended October 31, Change 2024 2023 (in thousands) Interest expense (6,462) (6,349) (113) 2 
+ Interest expense remained relatively flat for the three months ended October 31, 2024 compared to the same period of the prior year. 
+ Other income, net 
+ Three Months Ended October 31, Change 2024 2023 (in thousands) Other income, net 9,106 8,239 867 11 
+ Other income, net increased by 0.9 million, or 11 , for the three months ended October 31, 2024 compared to the same period of the prior year. The increase was primarily due to an increase of 1.8 million in interest and other investment income, partially offset by an increase of 0.9 million in net foreign currency exchange losses. 
+ 
+ Provision for Income Taxes 
+ Three Months Ended October 31, Change 2024 2023 (in thousands) Provision for income taxes 23,668 5,147 18,521 360 
+ The provision for income taxes increased by 18.5 million, or 360 , for the three months ended October 31, 2024 compared to the same period of the prior year. Our effective tax rate was (1,328) and (26) of our net loss before income taxes for the three months ended October 31, 2024 and 2023, respectively. Our effective tax rate is affected by recurring items, such as tax rates in jurisdictions outside the Netherlands and the relative amounts of income we earn in those jurisdictions and non-deductible stock-based compensation as well as one-time tax benefits or charges. 
+ 34 
+
+Table of Contents 
+
+ The increase in tax expense during the three months ended October 31, 2024 was driven primarily by growth in business operations in jurisdictions where we generate taxable income and do not have limitations to tax credits or net operating losses to offset that income. 
+ We maintain a full valuation allowance against our deferred tax assets in the Netherlands and the UK. To the extent sufficient positive evidence becomes available, the Company may release all or a portion of the Netherlands valuation allowance in one or more future periods. A release of the valuation allowance, if any, would result in the recognition of certain deferred tax assets and a material income tax benefit for the period in which such release is recorded. 
+
+Comparison of Six Months Ended October 31, 2024 and 2023 
+ Revenue 
+ Six Months Ended October 31, Change 2024 2023 (in thousands) Revenue Subscription 664,581 557,990 106,591 19 Services 48,200 46,375 1,825 4 Total revenue 712,781 604,365 108,416 18 
+ Subscription revenue increased by 106.6 million, or 19 , for the six months ended October 31, 2024 compared to the same period of the prior year. This increase was primarily driven by continued adoption of Elastic Cloud, which grew 27 over the prior year and increased to 46 of total revenue for the six months ended October 31, 2024 from 42 for the six months ended October 31, 2023. 
+ Services revenue increased by 1.8 million, or 4 , for the six months ended October 31, 2024 compared to the same period of the prior year. The increase in services revenue was attributable to increased adoption of our services offerings. 
+ Cost of Revenue and Gross Margin 
+ Six Months Ended October 31, Change 2024 2023 (in thousands) Cost of revenue Subscription 138,288 117,262 21,026 18 Services 46,648 40,304 6,344 16 Total cost of revenue 184,936 157,566 27,370 17 Gross profit 527,845 446,799 81,046 18 
+ Gross margin: Subscription 79 79 Services 3 13 Total gross margin 74 74 
+ Cost of subscription revenue increased by 21.0 million, or 18 , for the six months ended October 31, 2024 compared to the same period of the prior year. This increase was primarily due to increases of 21.4 million in cloud infrastructure costs and 1.5 million in personnel and related costs. These increases were partially offset by decreases in consulting fees and other third-party costs of 1.4 million and travel costs of 0.5 million. The increase in personnel and related costs was primarily due to an increase of 1.1 million in salaries and related taxes. Subscription gross margin was flat at 79 for the six months ended October 31, 2024 compared to the same period of the prior year. 
+ 35 
+
+Table of Contents 
+
+ Cost of services revenue increased by 6.3 million, or 16 , for the six months ended October 31, 2024 compared to the same period of the prior year. This increase was primarily due to increases of 4.2 million in personnel and related costs and 2.2 million in subcontractor costs, partially offset by a net decrease of 0.1 million in miscellaneous expense categories. The increase in personnel and related costs included increases of 2.4 million in salaries and related taxes and 1.2 million in stock-based compensation. Gross margin for services revenue was 3 for the six months ended October 31, 2024 compared to 13 for the same period of the prior year. The decrease in gross margin was primarily attributable to personnel and related costs and subcontractor costs growing at a higher rate than the growth in services revenue. We continue to make investments in our services organization that we believe will be needed to support our continued growth. Our gross margin for services may fluctuate or decline in the near-term as we seek to expand our services business. 
+ Operating Expenses 
+ Research and development 
+ Six Months Ended October 31, Change 2024 2023 (in thousands) Research and development 177,495 160,798 16,697 10 
+ Research and development expense increased by 16.7 million, or 10 , for the six months ended October 31, 2024 compared to the same period of the prior year as we continued to invest in the development of new and existing offerings. This increase was primarily due to increases of 14.5 million in personnel and related costs and 2.6 million in cloud infrastructure costs related to our research and development activities. These increases were partially offset by a decrease of 0.8 million in consulting fees. The increase in personnel and related costs included increases of 10.0 million in salaries and related taxes, 3.8 million in stock-based compensation, and 1.5 million in employee benefits expense, offset in part by a decrease in acquisition-related compensation of 1.2 million. 
+ Sales and marketing 
+ Six Months Ended October 31, Change 2024 2023 (in thousands) Sales and marketing 301,631 266,399 35,232 13 
+ Sales and marketing expense increased by 35.2 million, or 13 , for the six months ended October 31, 2024 compared to the same period of the prior year. This increase was primarily due to increases of 35.3 million in personnel and related costs, 1.0 million in software and equipment expense, and 0.5 million in facilities related costs. These increases were partially offset by a decrease of 2.1 million in intangible assets amortization. The increase in personnel and related costs included increases of 15.1 million in salaries and related taxes, 9.5 million in commission expense, 4.9 million in stock-based compensation, and 4.0 million in employee benefits expense. 
+ General and administrative 
+ Six Months Ended October 31, Change 2024 2023 (in thousands) General and administrative 86,758 76,634 10,124 13 
+ General and administrative expense increased by 10.1 million, or 13 , for the six months ended October 31, 2024 compared to the same period of the prior year. This increase was primarily due to increases of 9.6 million in personnel and related costs, 0.5 million in other miscellaneous non-income based taxes, and 0.4 million in software and equipment expense. The increase in personnel and related costs included increases of 3.8 million in stock-based compensation, 3.7 million in salaries and related taxes, 1.2 million in employee benefits expense, and 0.6 million in severance. 
+ 36 
+
+Table of Contents 
+
+ Restructuring and other related charges 
+ Six Months Ended October 31, Change 2024 2023 (in thousands) Restructuring and other related charges 225 754 (529) (70) 
+ Restructuring and other related charges decreased by 0.5 million for the six months ended October 31, 2024 compared to the same period of the prior year due to lower employee-related severance and termination benefit charges. 
+ Other Income, Net 
+ Interest expense Six Months Ended October 31, Change 2024 2023 (in thousands) Interest expense (12,988) (12,655) (333) 3 
+ Interest expense remained relatively flat for the six months ended October 31, 2024 compared to the same period of the prior year. 
+ Other income, net 
+ Six Months Ended October 31, Change 2024 2023 (in thousands) Other income, net 20,314 15,539 4,775 31 
+ Other income, net increased by 4.8 million, or 31 , for the six months ended October 31, 2024 compared to the same period of the prior year. The increase was primarily due to an increase of 4.7 million in interest and other investment income. 
+ 
+ Provision for Income Taxes 
+ Six Months Ended October 31, Change 2024 2023 (in thousands) Provision for income taxes 43,739 18,402 25,337 138 
+ The provision for income taxes increased by 25.3 million, or 138 , for the six months ended October 31, 2024 compared to the same period of the prior year. Our effective tax rate was (141) and (34) of our net loss before income taxes for the six months ended October 31, 2024 and 2023, respectively. Our effective tax rate is affected by recurring items, such as tax rates in jurisdictions outside the Netherlands and the relative amounts of income we earn in those jurisdictions and non-deductible stock-based compensation as well as one-time tax benefits or charges. 
+ The increase in tax expense during the six months ended October 31, 2024 was driven primarily by growth in business operations in jurisdictions where we generate taxable income and do not have limitations to tax credits or net operating losses to offset that income and a one-time charge of 2.2 million associated with acquisition-related integration. 
+ See Comparison of Three Months Ended October 31, 2024 and 2023 - Provision for Income Taxes for discussion related to the Netherlands valuation allowance. 
+ 
+ Liquidity and Capital Resources 
+ As of October 31, 2024, our principal sources of liquidity were cash, cash equivalents, and marketable securities totaling 1.198 billion. Our cash, cash equivalents and marketable securities consist of highly liquid investment-grade fixed-income securities. We believe that the credit quality of the securities portfolio is strong and diversified among industries and individual issuers. 
+ 37 
+
+Table of Contents 
+
+ We have generated significant operating losses from our operations as reflected in our accumulated deficit of 1.066 billion as of October 31, 2024. We have historically incurred, and expect to continue to incur, operating losses and may generate negative cash flows from operations in the future due to the investments we intend to make. As a result, we may require additional capital resources to execute on our strategic initiatives to grow our business. 
+ We believe that our existing cash, cash equivalents, and marketable securities and cash from our future operations will be sufficient to fund our operating and capital needs for at least the next 12 months, despite the uncertainty in the changing market and macroeconomic conditions. Our assessment of the period of time through which our financial resources will be adequate to support our operations is a forward-looking statement and involves risks and uncertainties. Our actual results could vary as a result of, and our future capital requirements, both near-term and long-term, will depend on, many factors, including our growth rate, the timing and extent of spending to support our research and development efforts, the expansion of sales and marketing activities, the timing of new introductions of solutions or features, and the continuing market acceptance of our solutions and services. We may in the future enter into arrangements to acquire or invest in complementary businesses, services and technologies, including intellectual property rights. We have based this estimate on assumptions that may prove to be wrong, and we could use our available capital resources sooner than we currently expect. In July 2021, we issued long-term debt of 575.0 million, represented by our Senior Notes, and we may be required to seek additional equity or debt financing. In the event that additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital when desired, or if we cannot expand our operations or otherwise capitalize on our business opportunities because we lack sufficient capital, our business, operating results and financial condition would be adversely affected. 
+ The following table summarizes our cash flows for the periods presented: 
+ Six Months Ended October 31, 2024 2023 (in thousands) Net cash provided by operating activities 91,131 35,425 Net cash provided by (used in) investing activities 10,767 (104,537) Net cash provided by financing activities 16,991 19,754 
+ Net Cash Provided By Operating Activities 
+ Net cash provided by operating activities during the six months ended October 31, 2024 was 91.1 million, which resulted from adjustments for non-cash charges of 225.0 million, partially offset by net loss of 74.7 million and a net cash outflow of 59.2 million from changes in operating assets and liabilities. Non-cash charges primarily consisted of 127.6 million for stock-based compensation expense, 47.2 million for amortization of deferred contract acquisition costs, 38.4 million in deferred income taxes, and 7.7 million of depreciation and intangible asset amortization expense. The net cash outflow from changes in operating assets and liabilities resulted from a 51.4 million decrease in deferred revenue, a 37.2 million increase in deferred contract acquisition costs, a 32.0 million decrease in accounts payable, accrued expenses, and accrued compensation and benefits, and a 6.4 million decrease in operating lease liabilities . These outflows were partially offset by inflows from a 68.1 million decrease in accounts receivable, net. 
+ Net cash provided by operating activities during the six months ended October 31, 2023 was 35.4 million, which resulted from adjustments for non-cash charges of 162.3 million, offset by a net loss of 73.3 million and net cash outflow of 53.6 million from changes in operating assets and liabilities. Non-cash charges primarily consisted of 113.6 million for stock-based compensation expense, 36.0 million for amortization of deferred contract acquisition costs, and 9.8 million of depreciation and intangible asset amortization expense. The net cash outflow from changes in operating assets and liabilities was the result of an increase in deferred contract acquisition costs of 43.4 million as our sales commissions increased due to increased business volume, a 22.6 million decrease in deferred revenue, a net decrease of 12.0 million in accounts payable, accrued expenses and accrued compensation and benefits, and a decrease of 6.2 million in operating lease liabilities. These outflows were partially offset by inflows from a decrease of 27.0 million in accounts receivable and a decrease of 3.7 million in prepaid expenses and other assets. 
+ Net Cash Provided By (Used In) Investing Activities 
+ Net cash provided by investing activities of 10.8 million during the six months ended October 31, 2024 was primarily due to sales, maturities, and redemptions of marketable securities of 178.5 million, offset by cash used for the purchase of marketable securities of 166.3 million and capital expenditures of 1.5 million. 
+ 38 
+
+Table of Contents 
+
+ Net cash used in investing activities of 104.5 million during the six months ended October 31, 2023 was primarily due to the purchase of marketable securities of 178.3 million, offset by cash provided by maturities of marketable securities of 75.3 million and capital expenditures of 1.5 million . 
+ Net Cash Provided By Financing Activities 
+ Net cash provided by financing activities of 17.0 million during the six months ended October 31, 2024 was due to the proceeds from stock option exercises and ESPP purchases. 
+ Net cash provided by financing activities of 19.8 million during the six months ended October 31, 2023 was due to the proceeds from stock option exercises and ESPP purchases. 
+ 
+ Contractual Obligations and Commitments 
+ 
+ Our principal commitments consist of obligations under our operating leases, which are primarily for office space, and purchase commitments to our cloud hosting providers. There have been no material changes to our contractual obligations and commitments discussed in the Company s Annual Report on Form 10-K. 
+ 
+ Recently Issued Accounting Pronouncements 
+ See Note 2 Summary of Significant Accounting Policies of our accompanying Notes to Condensed Consolidated Financial Statements included in this Quarterly Report on Form 10-Q for recently adopted accounting pronouncements and new accounting pronouncements not yet adopted as of the date of this report. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ We have operations both within the United States and internationally, and we are exposed to interest rate risk and foreign currency risk in the ordinary course of our business. 
+ Interest Rate Risk 
+ We had cash, cash equivalents, restricted cash, and marketable securities totaling 1.201 billion as of October 31, 2024. Our cash, cash equivalents, and restricted cash are held in cash deposits and money market funds, and our marketable securities are held in time deposits and corporate and government debt securities. The primary objectives of our investment activities are the preservation of capital, the fulfillment of liquidity needs and the fiduciary control of cash and investments. We do not enter into investments for trading or speculative purposes. Due to the short-term nature of these instruments, we do not believe that an immediate 10 increase or decrease in interest rates would have a material effect on the fair value of our investment portfolio. Declines in interest rates, however, would reduce our future interest income. 
+ In July 2021, we issued 575.0 million aggregate principal amount of Senior Notes in a private placement. The fair value of the Senior Notes is subject to market risk. In addition, the fair market value of the Senior Notes is exposed to interest rate risk. Generally, the fair market value of our fixed interest rate Senior Notes will increase as interest rates fall and decrease as interest rates rise. The interest rate and market value changes affect the fair value of the Senior Notes, but do not impact our financial position, cash flows or results of operations due to the fixed nature of the debt obligation. Additionally, we carry the Senior Notes at face value less unamortized debt issuance cost on our balance sheet, and we present the fair value for required disclosure purposes only. 
+ Foreign Currency Risk 
+ Our revenue and expenses are primarily denominated in U.S. dollars, and to a lesser extent the Euro, British Pound Sterling, and other currencies. To date, we have not had a formal hedging program with respect to foreign currency, but we may adopt such a program in the future if our exposure to foreign currency were to become more significant. For business conducted outside of the United States, we may have both revenue and costs incurred in the local currency of the subsidiary, creating a partial natural hedge. Although changes to exchange rates have not had a material impact on our net operating results to date, we will continue to reassess our foreign exchange exposure as we continue to grow our business globally. 
+ We have experienced and will continue to experience fluctuations in our operating results as a result of transaction gains or losses related to remeasurement of certain asset and liability balances that are denominated in currencies other than the functional currency of the entities in which they are recorded. An immediate 10 increase or decrease in the relative value of the U.S. dollar to other currencies could have a material effect on our revenue, operating expenses, and net loss. As a component of other income, net, we recognized foreign currency transaction losses of 2.0 million and 1.1 million for the six months ended October 31, 2024 and 2023, respectively. 
+ 39 
+
+Table of Contents 
+
+ As of October 31, 2024, our cash, cash equivalents, restricted cash, and marketable securities were primarily denominated in U.S. dollars, Euros, and British Pound Sterling. A 10 increase or decrease in exchange rates as of such date would have had an impact of approximately 10.7 million on our cash, cash equivalents, restricted cash, and marketable securities balances. 
+ 
+ Item 4. Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ We maintain disclosure controls and procedures, as defined in Rule 13a-15(e) and Rule 15d-15(e) under the Exchange Act, that are designed to ensure that information required to be disclosed by us in the reports we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to our management, including our principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. 
+ Our management, with the participation of our Chief Executive Officer and our Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of the end of the period covered by this Quarterly Report on Form 10-Q. Based on such evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that, as of October 31, 2024, our disclosure controls and procedures were effective to provide reasonable assurance that the information required to be disclosed by us in the reports we file or submit under the Exchange Act (a) is recorded, processed, summarized and reported within the time periods specified by the SEC rules and forms and (b) is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. 
+ 
+ Changes in Internal Control Over Financial Reporting 
+ There were no changes in our internal control over financial reporting identified in connection with the evaluation required by Rules 13a-15(d) and 15d-15(d) under the Exchange Act that occurred during the quarter ended October 31, 2024 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ Inherent Limitations on Effectiveness of Controls 
+ Our management, including our Chief Executive Officer and Chief Financial Officer, believes that our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of achieving their objectives and are effective at the reasonable assurance level. However, our management does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent all errors and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. These inherent limitations include the realities that judgments in decision making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the controls. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions; over time, controls may become inadequate because of changes in conditions, or the degree of compliance with policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+ 40 
+
+Table of Contents 
+
+ PART II OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings 
+ The information required by this Item is incorporated herein by reference to Part I, Item 1. Financial Statements, Note 8, Commitments and Contingencies Legal Matters included in this Quarterly Report on Form 10-Q. 
+ From time to time, we may be subject to legal proceedings and claims that arise in the ordinary course of business, including patent, commercial, product liability, employment, class action, whistleblower and other litigation and claims, as well as governmental and other regulatory investigations and proceedings. In addition, third parties from time to time may assert claims against us in the form of letters and other communications. We are not currently a party to any legal proceedings that, if determined adversely to us, would individually or taken together, in our opinion, have a material adverse effect on our business, results of operations, financial condition or cash flows. Future litigation may be necessary to defend ourselves, our partners and our customers by determining the scope, enforceability and validity of third-party proprietary rights, or to establish our proprietary rights. The results of any current or future litigation cannot be predicted with certainty, and regardless of the outcome, such litigation could have an adverse impact on us because of defense and settlement costs, diversion of management resources, and other factors. 
+ 
+ Item 1A. Risk Factors 
+ 
+ There have been no material changes to the risk factors disclosed in Item 1A. Risk Factors of the Company s Annual Report on Form 10-K. The risks described in our Annual Report on Form 10-K and our subsequent SEC reports are not the only risks facing us. There are additional risks and uncertainties not currently known to us or that we currently deem to be immaterial that also may materially adversely affect our business, operating results, financial condition, or prospects. 
+ 41 
+
+Table of Contents 
+
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ Not applicable. 
+ 
+ Item 3. Defaults Upon Senior Securities 
+ Not applicable. 
+ 
+ Item 4. Mine Safety Disclosures 
+ Not applicable. 
+ 
+ Item 5. Other Information 
+ Insider Trading Arrangements 
+ During our last fiscal quarter, no director or officer, as defined in Rule 16a-1(f) under the Exchange Act, or a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement, each as defined for purposes of Regulation S-K Item 408. 
+ 
+ Item 6. Exhibits 
+ The documents listed below are incorporated by reference or are filed with this Quarterly Report on Form 10-Q, in each case as indicated therein (numbered in accordance with Item 601 of Regulation S-K). 
+ Exhibit No. Incorporated by Reference Filed Herewith Description Form File No. Exhibit Filing Date 3.1 Articles of Association of Elastic N.V. (English translation). 
+ 10-Q 001-38675 3.1 12/12/2018 31.1 Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ X 31.2 Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ X 32.1 Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002. 
+ X 32.2 Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to section 906 of the Sarbanes-Oxley Act of 2002. 
+ X 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. X 101.SCH Inline XBRL Taxonomy Extension Schema Document. X 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document. X 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document. X 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document. X 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. X 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). X 
+ ______________________ 
+ The certifications furnished in Exhibits 32.1 and 32.2 hereto are deemed to accompany this Quarterly Report on Form 10-Q and will not be deemed filed for purposes of Section 18 of the Exchange Act, except to the extent that we specifically incorporate them by reference. 
+ 
+ 42 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ Elastic N.V. Date: November 25, 2024 By: /s/ Ashutosh Kulkarni Ashutosh Kulkarni Chief Executive Officer and Director 
+ Principal Executive Officer 
+
+Date: November 25, 2024 By: 
+ /s/ Janesh Moorjani 
+ Janesh Moorjani Chief Financial Officer and Chief Operating Officer 
+ (Principal Financial Officer and Principal Accounting Officer) 
+ 
+ 43 
+
+<EX-31.1>
+ 2
+ a25q2ex311.htm
+ EX-31.1
+
+Document 
+ Exhibit 31.1 
+
+ Certification by the Principal Executive Officer pursuant to 
+ Securities Exchange Act Rules 13a-14(a) and 15d-14(a) 
+ as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ I, Ashutosh Kulkarni, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Elastic N.V. (the registrant for the fiscal quarter ended October 31, 2024 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ Date November 25, 2024 
+ By s Ashutosh Kulkarni Name Ashutosh Kulkarni Title Chief Executive Officer and Director (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a25q2ex312.htm
+ EX-31.2
+
+Document 
+ Exhibit 31.2 
+
+ Certification by the Principal Financial Officer pursuant to 
+ Securities Exchange Act Rules 13a-14(a) and 15d-14(a) 
+ as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ I, Janesh Moorjani, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Elastic N.V. (the registrant for the fiscal quarter ended October 31, 2024 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant's other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 5. The registrant's other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ Date November 25, 2024 
+ By s Janesh Moorjani Name Janesh Moorjani Title Chief Financial Officer and Chief Operating Officer (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ a25q2ex321.htm
+ EX-32.1
+
+Document 
+ Exhibit 32.1 
+
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Ashutosh Kulkarni, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report on Form 10-Q of Elastic N.V. for the fiscal quarter ended October 31, 2024 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and that information contained in such Quarterly Report on Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of Elastic N.V. 
+ Date November 25, 2024 
+ By s Ashutosh Kulkarni Name Ashutosh Kulkarni Title Chief Executive Officer and Director (Principal Executive Officer) 
+ 
+ This certification accompanies the Annual Report, is not deemed filed with the Securities and Exchange Commission and is not to be incorporated by reference into any filing of Elastic N.V. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before or after the date of the Quarterly Report on Form 10-Q), irrespective of any general incorporation language contained in such filing. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ a25q2ex322.htm
+ EX-32.2
+
+Document 
+ Exhibit 32.2 
+
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Janesh Moorjani, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report on Form 10-Q of Elastic N.V. for the fiscal quarter ended October 31, 2024 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and that information contained in such Quarterly Report on Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of Elastic N.V. 
+ Date November 25, 2024 
+ By s Janesh Moorjani Name Janesh Moorjani Title Chief Financial Officer and Chief Operating Officer (Principal Financial and Accounting Officer) 
+ 
+ This certification accompanies the Annual Report, is not deemed filed with the Securities and Exchange Commission and is not to be incorporated by reference into any filing of Elastic N.V. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before or after the date of the Quarterly Report on Form 10-Q), irrespective of any general incorporation language contained in such filing. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ estc-20241031.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ estc-20241031_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ estc-20241031_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ estc-20241031_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ estc-20241031_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

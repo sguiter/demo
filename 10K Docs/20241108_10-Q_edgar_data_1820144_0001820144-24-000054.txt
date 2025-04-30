@@ -1,0 +1,1026 @@
+<Header>
+<FileStats>
+    <FileName>20241108_10-Q_edgar_data_1820144_0001820144-24-000054.txt</FileName>
+    <GrossFileSize>6813070</GrossFileSize>
+    <NetFileSize>130486</NetFileSize>
+    <NonText_DocumentType_Chars>1270341</NonText_DocumentType_Chars>
+    <HTML_Chars>2246952</HTML_Chars>
+    <XBRL_Chars>1629290</XBRL_Chars>
+    <XML_Chars>1415188</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001820144-24-000054.hdr.sgml : 20241108
+<ACCEPTANCE-DATETIME>20241108160739
+ACCESSION NUMBER:		0001820144-24-000054
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		76
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241108
+DATE AS OF CHANGE:		20241108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Grindr Inc.
+		CENTRAL INDEX KEY:			0001820144
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39714
+		FILM NUMBER:		241440568
+
+	BUSINESS ADDRESS:	
+		STREET 1:		750 N. SAN VICENTE BLVD., SUITE RE 1400
+		CITY:			WEST HOLLYWOOD
+		STATE:			CA
+		ZIP:			90069
+		BUSINESS PHONE:		3107766680
+
+	MAIL ADDRESS:	
+		STREET 1:		750 N. SAN VICENTE BLVD., SUITE RE 1400
+		CITY:			WEST HOLLYWOOD
+		STATE:			CA
+		ZIP:			90069
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Tiga Acquisition Corp.
+		DATE OF NAME CHANGE:	20200804
+
+</SEC-Header>
+</Header>
+
+ 0001820144-24-000054.txt : 20241108
+
+10-Q
+ 1
+ grnd-20240930.htm
+ 10-Q
+
+grnd-20240930 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ ________________________ 
+ FORM 
+ ________________________ 
+ (Mark One) 
+ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from _________ to _________ 
+ Commission file number 
+ ________________________ 
+ 
+ (Exact name of registrant as specified in its charter) 
+ ________________________ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) , , 
+ , 
+ 
+ (Address of Principal Executive Offices) (Zip Code) 
+ ) 
+ Registrant's telephone number, including area code 
+ N/A 
+ (Former name, former address and former fiscal year, if changed since last report) 
+ ________________________ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports); and (2) has been subject to such filing requirements for the past 90 days. x No 
+ Indicate by check mark whether the registrant has submitted electronically, every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer 
+ x 
+ Non-accelerated filer 
+ Smaller reporting company 
+ Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No x 
+ The registrant had shares of common stock outstanding as of November 5, 2024. 
+
+Table of Contents 
+
+ TABLE OF CONTENTS 
+ Page Special Note Regarding Forward-Looking Statements 2 
+ PART I. 
+ FINANCIAL INFORMATION 
+ 4 
+ Item 1. 
+ Condensed Consolidated Financial Statements (Unaudited) 
+ 4 
+ Condensed Consolidated Balance Sheets 
+ 4 
+ Condensed Consolidated Statement s of Operations and Comprehensive I ncome (Loss) 
+ 5 
+ Condensed Consolidated Statements of Stockholders Deficit 
+ 6 
+ Condensed Consolidated Statement s of Cash Flows 
+ 8 
+ Notes to Unaudited Condensed Consolidated Financial Statements 
+ 9 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 24 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 38 
+ Item 4. 
+ Controls and Procedures 
+ 38 
+ PART II. 
+ OTHER INFORMATION 
+ 39 
+ Item 1. 
+ Legal P roceedings 
+ 39 
+ Item 1A. 
+ Risk Factors 
+ 39 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 40 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 40 
+ Item 4. 
+ Mine Safety Disclosures 
+ 40 
+ Item 5. 
+ Other Information 
+ 40 
+ Item 6. 
+ Exhibits 
+ 41 
+ Signatures 
+ 42 
+
+Table of Contents 
+
+ SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ Some of the statements contained in this Quarterly Report on Form 10-Q constitute forward-looking statements within the meaning of the federal securities laws. Forward-looking statements relate to expectations, beliefs, projections, future plans and strategies, anticipated events or trends and similar expressions concerning matters that are not historical facts. These forward-looking statements include statements regarding our intentions, beliefs, current expectations or projections concerning, among other things, results of operations, financial condition, liquidity, prospects, growth, strategies and the markets in which we operate. In some cases, you can identify these forward-looking statements by the use of terminology such as anticipates, approximately, believes, continues, could, estimates, expects, goal, intends, may, outlook, plans, potential, predicts, seeks, should, will or the negative version of these words or other comparable words or phrases. 
+ The forward-looking statements contained in this Quarterly Report on Form 10-Q reflect our current views about our business and future events and are subject to numerous known and unknown risks, uncertainties, assumptions and changes in circumstances that may cause actual results to differ materially from those expressed in any forward-looking statement. There are no guarantees that any transactions or events described will happen as described (or that they will happen at all). The following factors, among others, could cause actual results and future events to differ materially from those set forth in or contemplated by the forward-looking statements: 
+ our ability to retain existing users and add new users; 
+ the impact of the regulatory environment and complexities with compliance related to such environment, including maintaining compliance with privacy, data protection, and user safety laws and regulations; 
+ our ability to address privacy concerns and protect systems and infrastructure from cyber-attacks and prevent unauthorized data access; 
+ our success in retaining or recruiting directors, officers, key employees, or other key personnel, and our success in managing any changes in such roles; 
+ our ability to respond to general economic conditions; 
+ competition in the dating and social networking products and services industry; 
+ our ability to adapt to changes in technology and user preferences in a timely and cost-effective manner; 
+ our ability to successfully adopt generative artificial intelligence processes and algorithms into our daily operations, including by deploying generative artificial intelligence and machine learning into our products and services; 
+ our dependence on the integrity of third-party systems and infrastructure; 
+ our ability to protect our intellectual property rights from unauthorized use by third parties; 
+ whether the concentration of our stock ownership and voting power limits our stockholders ability to influence corporate matters; and 
+ the effects of macroeconomic and geopolitical events on our business, such as health epidemics, pandemics, natural disasters, and wars or other regional conflicts. 
+ In addition, statements that Grindr believes or we believe and similar statements reflect our beliefs and opinions on the relevant subjects as of the date of any such statement. These statements are based upon information available to us as of the date they are made, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and such statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and investors are cautioned not to unduly rely upon these statements. 
+ While forward-looking statements reflect our good faith beliefs, they are not guarantees of future performance. Except to the extent required by applicable law, we are under no obligation (and expressly disclaim any such obligation) to update or revise our forward-looking statements whether as a result of new information, future events, or otherwise. For a further discussion of these and other factors that could cause our future results, performance, or transactions to differ significantly from those expressed in any forward-looking statement, please see the section titled Risk Factors included under Part I, Item 1A in our Annual Report on Form 10-K for the year ended December 31, 2023, as amended (our Annual Report ), as supplemented by the section titled Risk Factors included under Part II, Item 1A, of this Quarterly Report on Form 10-Q. Any forward-looking statement speaks only as of the date on which it is made, and you should not place undue reliance on any forward-looking statements, which are based only on information currently available to us (or to third parties making the forward-looking statements). 
+ 2 
+
+Table of Contents 
+
+ CERTAIN OPERATING AND FINANCIAL METRICS 
+ In this Quarterly Report on Form 10-Q for the quarter ended September 30, 2024, we refer to operating and financial metrics that our management team uses to evaluate our business. Our key operating measures include Paying Users, Average Paying Users, Average Direct Revenue per Average Paying User ARPPU ), Average Monthly Active Users Average MAUs ), Average Paying User Penetration, and Average Total Revenue Per User ARPU ). We define our key operating measures and how we calculate them in the section titled Management s Discussion and Analysis of Financial Condition and Results of Operations Operating and Financial Metrics included under Part I, Item 2 in this Quarterly Report on Form 10-Q. We also refer to non-GAAP financial measures, including Adjusted EBITDA, Adjusted EBITDA margin, free cash flow, and free cash flow conversion. We describe how we calculate these non-GAAP financial measures and provide reconciliations to the most comparable GAAP financial measures in the section titled Management s Discussion and Analysis of Financial Condition and Results of Operations Non-GAAP Financial Measures included under Part I, Item 2 in this Quarterly Report on Form 10-Q. 
+
+3 
+
+Table of Contents 
+
+ PART I FINANCIAL INFORMATION 
+ 
+ Item 1. Condensed Consolidated Financial Statements 
+ 
+ Grindr Inc. and Subsidiaries 
+ Condensed Consolidated Balance Sheets (unaudited) 
+ (in thousands, except share data) September 30, December 31, 2024 2023 Assets Current Assets Cash and cash equivalents Accounts receivable, net of allowance of and , at September 30, 2024, and December 31, 2023, respectively 
+ Prepaid expenses Deferred charges Other current assets Total current assets Restricted cash Property and equipment, net Capitalized software development costs, net Intangible assets, net Goodwill Right-of-use assets Other assets Total assets Liabilities and Stockholders Deficit 
+ Current Liabilities 
+ Accounts payable Accrued expenses and other current liabilities Current maturities of long-term debt, net Deferred revenue Total current liabilities Long-term debt, net Warrant liability Lease liability Deferred tax liability Other non-current liabilities Total liabilities Commitments and Contingencies (Note 14) 
+ ; shares authorized; issued and outstanding at September 30, 2024, and December 31, 2023, respectively 
+ Common stock, par value ; shares authorized; and shares issued at September 30, 2024, and December 31, 2023, respectively; and outstanding at September 30, 2024, and December 31, 2023, respectively 
+ Treasury stock 
+ ) ) Additional paid-in capital Accumulated deficit ) ) Total stockholders deficit ) ) Total liabilities and stockholders deficit 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+ 4 
+
+Table of Contents 
+
+ Grindr Inc. and Subsidiaries 
+ Condensed Consolidated Statements of Operations and Comprehensive Income (Loss) (unaudited) 
+ (in thousands, except per share and share data) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenue Operating costs and expenses Cost of revenue (exclusive of depreciation and amortization shown separately below) 
+ Selling, general and administrative expense Product development expense Depreciation and amortization Total operating expenses Income from operations Other income (expense) Interest expense, net ) ) ) ) Other income (expense), net ) ) ) Gain (loss) in fair value of warrant liability ) ) ) Total other income (loss), net ) ) ) Net income (loss) before income tax ) Income tax provision Net income (loss) and comprehensive income (loss) ) ) ) Net income (loss) per share Basic ) ) Diluted ) ) Weighted-average shares outstanding: Basic Diluted 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+ 5 
+
+Table of Contents 
+
+ Grindr Inc. and Subsidiaries 
+ Condensed Consolidated Statements of Stockholders Deficit (unaudited) 
+ (in thousands, except per share amounts and share data) 
+ 
+ Preferred Stock 
+ (Par value 
+ Common Stock 
+ (Par value 
+ Treasury Stock Additional 
+ paid-in 
+ capital 
+ Accumulated 
+ deficit 
+ Total stockholders 
+ equity (deficit) 
+ Shares Amount Shares Amount Shares Amount Balance at December 31, 2022 ) Net loss and comprehensive loss ) ) Interest on the promissory note to a member ) ) Repayment of promissory note to a member Payment of interest on promissory note to a member Stock-based compensation Vested restricted stock units Exercise of stock options Balance at March 31, 2023 ) ) Net income and comprehensive income Stock-based compensation Vested restricted stock units Exercise of stock options Balance at June 30, 2023 ) Net loss and comprehensive loss ) ) Pre-Closing entity income tax adjustment ) ) Stock-based compensation Vested restricted stock units Exercise of stock options Balance at September 30, 2023 ) 
+
+6 
+
+Table of Contents 
+
+ Grindr Inc. and Subsidiaries 
+ Condensed Consolidated Statements of Stockholders Deficit (unaudited) (continued) 
+ (in thousands, except per share amounts and share data) 
+ 
+ Preferred Stock 
+ (Par value 
+ Common Stock 
+ (Par value 
+ Treasury Stock Additional 
+ paid-in 
+ capital 
+ Accumulated 
+ deficit 
+ Total stockholders 
+ deficit 
+ Shares Amount Shares Amount Shares Amount Balance at December 31, 2023 ) ) ) Net loss and comprehensive loss ) ) Stock-based compensation Vested restricted stock units Exercise of stock options Repurchase of common stock for net settlement of equity awards ) ) Balance at March 31, 2024 ) ) ) Net loss and comprehensive loss ) ) Stock-based compensation Vested restricted stock units Exercise of stock options Repurchase of common stock for net settlement of equity awards ) ) Balance at June 30, 2024 ) ) ) Net income and comprehensive income Stock-based compensation Vested restricted stock units Exercise of stock options Exercise of warrants Repurchase of common stock for net settlement of equity awards ) ) Balance at September 30, 2024 ) ) ) 
+ 
+ See accompanying notes to unaudited condensed consolidated financial statements . 
+ 7 
+
+Table of Contents 
+
+ Grindr Inc. and Subsidiaries 
+ Condensed Consolidated Statements of Cash Flows (unaudited) 
+ (in thousands) 
+ Nine Months Ended September 30, 2024 2023 Operating activities Net loss and comprehensive loss ) ) Adjustments to reconcile net loss to net cash provided by operating activities: Stock-based compensation Loss in fair value of warrant liability Amortization of debt discount and issuance costs Interest income on promissory note from member ) Depreciation and amortization Provision for expected credit losses ) Deferred income taxes ) ) Non-cash lease expense Changes in operating assets and liabilities: Accounts receivable ) ) Prepaid expenses and deferred charges ) Other current assets Other assets ) ) Accounts payable ) ) Accrued expenses and other current liabilities Deferred revenue Lease liability ) ) Other liabilities Net cash provided by operating activities Investing activities Purchases of property and equipment ) ) Additions to capitalized software ) ) Net cash used in investing activities ) ) Financing activities Proceeds from the exercise of stock options Proceeds from the exercise of warrants Principal payments on debt ) ) Withholding taxes paid on stock-based compensation ) Transaction costs paid in connection with the Business Combination ) Proceeds from the repayment of promissory note to a member including interest Net cash (used in) provided by financing activities ) Net increase in cash, cash equivalents and restricted cash Cash, cash equivalents and restricted cash, beginning of the period 
+ Cash, cash equivalents and restricted cash, end of the period Reconciliation of cash, cash equivalents and restricted cash Cash and cash equivalents Restricted cash Cash, cash equivalents and restricted cash Supplemental disclosure of cash flow information: Cash interest paid Income taxes paid Supplemental disclosure of non-cash investing activities: Capitalized software development costs accrued but not paid Supplemental disclosure of non-cash financing activities: Repurchase of common stock for net settlement of equity awards 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+ 8 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+1. 
+ 
+ 2. 
+ 9 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+segment. The Company s operating segments are identified according to how the performance of its business is managed and evaluated by its chief operating decision maker CODM ), the Company s Chief Executive Officer CEO ). Substantially all of the Company s long-lived assets are attributed to operations in the U.S. 
+ 10 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+ 11 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+ and as of September 30, 2024, and December 31, 2023, respectively. The opening balance of accounts receivable, net of allowances, was as of January 1, 2023. 
+ . The deferred revenue balances were and as of September 30, 2024, and December 31, 2023, respectively. The opening balance of deferred revenue was as of January 1, 2023. 
+ For the three and nine months ended September 30, 2024 , the Company recognized revenue of and , respectively, that was included in the deferred revenue balance as of December 31, 2023 . For the three and nine months ended September 30, 2023 , the Company recognized revenue of and , respectively, that was included in the deferred revenue balance as of December 31, 2022. 
+ Disaggregation of Revenue 
+ Indirect revenue 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 North America (1) 
+ Europe Rest of the world 
+ (1) North America includes revenue generated only from the U.S. and Canada. 
+ During the three and nine months ended September 30, 2024, revenue generated from the U.S., the Company s country of domicile, amounted to and , respectively. During the three and nine months ended September 30, 2023, revenue generated from the U.S. amounted to and , respectively. 
+ 12 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+3. 
+ Income tax receivable Other current assets 
+ 
+ 4. 
+ common units of Legacy Grindr which were converted to shares of common stock of the Company upon the Closing. In conjunction with the common units purchased, the Company entered into a full recourse promissory note with Catapult GP II with a face value of (the Note ). The Note, including all unpaid interest, was to be repaid the earlier of (1) the ten th anniversary of the Note, (2) upon the completion of a liquidity event, or (3) upon completion of an initial public offering or a special-purpose acquisition company transaction. The Note accrued interest at per annum on a straight-line basis. 
+ The Note, including interest, was fully paid in the first quarter of 2023. The Note and the related accrued interest were reflected as a reduction to equity in the condensed consolidated statements of stockholders deficit. 
+ 13 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+ 5. 
+ Litigation-related funds received from escrow (see Note 14) Income and other taxes payable Lease liability, short-term Accrued professional service fees Accrued infrastructure expense Accrued legal expense Accrued interest payable Other accrued expenses 
+ 
+ 6. 
+ Senior Revolving Facility Less: unamortized debt issuance and discount costs ) ) Total debt Less: current maturities of long-term debt ) ) Long-term debt 
+ 2023 Credit Agreement 
+ On November 28, 2023, a wholly owned subsidiary of the Company, Grindr Capital LLC Grindr Capital ), as borrower, entered into a credit agreement (the 2023 Credit Agreement with the Company and certain other wholly owned subsidiaries of the Company, as guarantors, JPMorgan Chase Bank, N.A., as administrative agent, and the other lenders party thereto. The 2023 Credit Agreement provides for (i) a senior secured term loan facility Senior Term Loan Facility ), and (ii) senior secured revolving credit facility Senior Revolving Facility, and together with the Senior Term Loan Facility, the 2023 Credit Facilities (with a letter of credit sublimit and a swingline loan sublimit). Grindr Capital has the option to request that lenders increase the amount available under the Senior Revolving Facility by, or obtain incremental term loans of, up to , subject to the terms of the 2023 Credit Agreement and only if existing or new lenders choose to provide additional term or revolving commitments. 
+ On November 28, 2023, Grindr Capital borrowed the full amount of the Senior Term Loan Facility and under the Senior Revolving Facility. Proceeds from the initial drawings under the 2023 Credit Facilities and cash on hand were used to repay in full outstanding obligations under the Company's previous credit agreement and to pay fees, premiums, costs, and expenses, including fees payable in connection with the 2023 Credit Agreement. Unused commitments under the 2023 Credit Agreement as of September 30, 2024, amounted to . As of September 30, 2024, and December 31, 2023, there were swingline loans or letter of credit outstanding under the 2023 Credit Agreement. 
+ Borrowings under the 2023 Credit Agreement (other than swingline loans) bear interest at a rate equal to either, at Grindr Capital s option, (i) the highest of the Prime Rate (as defined in the 2023 Credit Agreement), the Federal Funds Rate (as defined in the 2023 Credit Agreement) plus , or one-month Term SOFR (as defined in the 2023 Credit Agreement) plus (the Alternate Base Rate or (ii) Term SOFR; in each case plus an applicable margin ranging 
+ 14 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+ to with respect to Term SOFR borrowings and to with respect to Alternate Base Rate borrowings. The interest rate in effect for 2023 Credit Agreement, other than swingline loans, as of September 30, 2024, and December 31, 2023, is and , respectively. 
+ Swingline loans under the 2023 Credit Agreement bear interest at the Alternate Base Rate plus the applicable margin. The applicable margin will be based upon the total net leverage ratio (as defined in the 2023 Credit Agreement) of the Company. 
+ Grindr Capital will also be required to pay a commitment fee for the unused portion of the Senior Revolving Facility, which will range from to per annum, depending on the total net leverage ratio of the Company. For the three and nine months ended September 30, 2024, the Company s commitment fee was not significant. 
+ The Senior Term Loan Facility will amortize on a quarterly basis at of the aggregate principal amount outstanding as of the initial closing date of the 2023 Credit Agreement, until the final maturity date on November 28, 2028. Any borrowing under the Senior Revolving Facility may be repaid, in whole or in part, at any time and from time to time, subject to prior notice and accompanied by accrued interest and break funding payments, and any amounts repaid may be reborrowed, in each case, until the maturity date on November 28, 2028. 
+ Mandatory prepayments are required under the Senior Revolving Facility when borrowings and letter of credit usage exceed the aggregate revolving commitments of all lenders. Mandatory prepayments are also required in connection with (i) certain asset dispositions and casualty events, in each case, to the extent the proceeds of such dispositions or casualty events exceed certain individual and aggregate thresholds and are not reinvested; and (ii) unpermitted debt transactions. For the three and nine months ended September 30, 2024, the Company was not required to make any mandatory prepayments. 
+ The 2023 Credit Agreement contains certain customary events of default, and if an event of default has occurred and continues beyond any applicable cure period, all outstanding obligations under the 2023 Credit Agreement may be accelerated or the commitments may be terminated, amongst other remedies. Additionally, the lenders are not obligated to fund any new borrowing under the 2023 Credit Agreement while an event of default is continuing. 
+ For the three and nine months ended September 30, 2024, the Company did incur debt issuance costs in conjunction with the 2023 Credit Agreement. The amortization of such debt issuance costs is included in Interest expense, net on the condensed consolidated statements of operations and comprehensive income (loss). 
+ Covenants 
+ The 2023 Credit Agreement includes financial covenants, including the requirement for the Company to maintain (i) a total net leverage ratio no greater than a specified level, currently :1.00 prior to and through December 31, 2024, no greater than :1.00 prior to and through December 31, 2025 and no greater than :1.00 thereafter; and (ii) a fixed charge coverage ratio no less than :1.00 from March 31, 2024 and thereafter. 
+ The 2023 Credit Agreement also contains certain customary restrictive covenants regarding indebtedness, liens, fundamental changes, investments, restricted payments, disposition of assets, transactions with affiliates, hedging transactions, certain prepayments of indebtedness, amendments to organizational documents and sale and leaseback transactions. At September 30, 2024 and December 31, 2023, the Company was in compliance with the financial covenants under the 2023 Credit Agreement. 
+ Fair value 
+ The fair values of the Company s 2023 Credit Agreement balances are measured based on prices quoted from a third-party financial institution, which the Company classifies as a Level 2 input within the fair value hierarchy. The estimated fair value of the 2023 Credit Agreement balances as of September 30, 2024 and December 31, 2023 were and , respectively. 
+ 15 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+ 7. 
+ operating leases for office space that have lease periods expiring in 2025 and 2026, each with an option to renew. Renewal options are not recognized as part of the right-of-use assets and lease liabilities as it was not reasonably certain at the lease commencement dates that the Company would exercise either or both of these options to extend the leases. The Company has signed a third operating lease for office space. However, the Company has not taken possession of the office space and, as such, no right-of use asset and lease liability has been recognized for this operating lease. 
+ The Company elected certain practical expedients under ASC Topic 842, Leases, which allows for the combination of lease and non-lease components of lease payments in determining right-of-use assets and related lease liabilities. The Company also elected the short-term lease exception. Leases with an initial term of twelve months or less that do not include an option to purchase the underlying asset are not recorded on the condensed consolidated balance sheets and are expensed on a straight-line basis over the lease term. 
+ Short-term lease cost Sublease income ) ) ) ) Total lease cost 
+ Supplemental cash flow information related to the leases is as follows: 
+ Nine Months Ended September 30, 2024 2023 Cash paid for amounts included in the measurement of lease liabilities Right-of-use assets obtained in exchange for lease liabilities: New lease entered into during the year 
+ Liabilities: Accrued expenses and other current liabilities Lease liability, long-term portion Total operating lease liabilities Weighted average remaining operating lease term (years) Weighted average operating lease discount rate 
+ 16 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+2025 2026 Thereafter Total lease payments Less: imputed interest ) Total lease liabilities 
+ There were no leases with residual value guarantees as of September 30, 2024. 
+ Company as a lessor 
+ The Company is a sublessor on operating lease that expires in April 2026. 
+ 2025 2026 Thereafter 
+ 
+ 8. 
+ private placement warrants Private Warrants to its sponsor, Tiga Sponsor LLC (the Sponsor and (ii) public warrants. In connection with the reverse recapitalization treatment of the Business Combination, the Company effectively issued warrants to purchase shares of Grindr s common stock, which included public warrants, Private Warrants, redeemable warrants Forward Purchase Warrants issued pursuant to the Second Amended and Restated Forward Purchase Agreement, dated May 9, 2022, by and between Tiga and the Sponsor FPA ), and redeemable warrants issued pursuant to a backstop commitment under the FPA Backstop Warrants ). The Forward Purchase Warrants and the Backstop Warrants have the same terms and are in the same form as the public warrants (as such, will collectively be referred to as the Public Warrants ). 
+ The Public Warrants, which entitle the registered holder to purchase share of the Company s common stock, have an exercise price of , became exercisable days after the completion of the Business Combination, and are set to expire from the completion of the Business Combination, or earlier upon redemption. 
+ Each Private Warrant entitles the registered holder to purchase share of the Company s common stock. The Private Warrants also have an exercise price of and became exercisable days after the completion of the Business Combination. The Private Warrants are set to expire from the completion of the Business Combination, or earlier upon redemption. 
+ The Private Warrants are identical to the Public Warrants underlying the shares sold in Tiga s initial public offering, except that they are subject to certain transfer and sale restrictions and are not optionally redeemable when the Company s common stock price is above so long as they are held by the initial purchasers or their permitted transferees. Additionally, the Private Warrants are exercisable on a cashless basis. If the Private Warrants are held by someone other than the initial purchasers or their permitted transferees, the Private Warrants will be redeemable by the Company and exercisable by such holders on the same basis as the Public Warrants. 
+ 17 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+ and , respectively. The change in fair value was recognized in the condensed consolidated statements of operations and comprehensive income (loss). For the three and nine months ended September 30, 2024, a fair value gain of and loss of was recognized, respectively. For the three and nine months ended September 30, 2023, a fair value loss of and was recognized, respectively. 
+
+9. 
+ shares from shares to shares. The amended and restated 2022 Plan became effective immediately upon stockholder approval at the Company's 2024 annual meeting of stockholders held on July 19, 2024. 
+ 2022 Plan 
+ Executive Incentive Awards Market Condition Awards 
+ Certain restricted stock unit RSU awards granted by the Company are subject to market conditions. These market condition awards are issued upon the achievement (at varying levels) of certain market capitalization thresholds. The Company has an obligation to issue a variable number of shares based on a fixed dollar value divided by the volume weighted-average price per share of the Company s common stock for a period preceding each market capitalization achievement date. These awards are liability-classified and require fair value remeasurement at the end of each reporting period. No market condition awards were granted, forfeited, or issued during the three and nine months ended September 30, 2024. 
+ Expected stock price volatility (1) 
+ Risk-free interest rate (2) 
+ Expected dividend yield (3) 
+ 
+ (1) Expected volatility is based on the historical volatility of a publicly traded peer group over a period equivalent to the expected term of the awards. 
+ (2) The risk-free interest rate is based on the U.S. Treasury yield of treasury bonds with a maturity that approximates the expected term of the awards. 
+ (3) The Company has not historically paid any cash dividends on its common stock. 
+ Key Performance Indicator KPI Awards 
+ KPI awards will be issued to certain Company executives upon the satisfaction of certain KPIs as determined annually by the Board. The Company has an obligation to issue a variable number of shares based on a fixed dollar value divided by the volume weighted-average price per share of the Company s common stock for a period preceding the issue date. The issue date shall occur no later than days after the end of the applicable year. These awards are liability-classified and require fair value remeasurement at the end of each reporting period. The fair value of the KPI awards is based on the fixed dollar amount that is probable of being paid. 
+ During the fourth quarter of 2023, the KPIs and measurement framework related to 2023 KPI awards were approved and granted by the Company s Compensation Committee as it relates to the year ending December 31, 2023. As of December 31, 2023, such KPIs were achieved. A total of shares were issued in the first quarter of 2024 with a total fair value of . Stock-based compensation expense of related to the service provided through issuance date 
+ 18 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+ was accrued and recorded in Other non-current liabilities in the condensed consolidated balance sheet. For the three and nine months ended September 30, 2024, stock-based compensation expense of and , respectively, related to the service provided from the grant date through September 30, 2024 were recorded in Selling, general and administrative expense on the condensed consolidated statements of operations and comprehensive income (loss). 
+ Except for the KPI award as discussed above, other KPI awards were granted for the three and nine months ended September 30, 2024. KPI awards were forfeited during the three and nine months ended September 30, 2024. 
+ Time-based Awards Activity 
+ Granted Vested ) Forfeited ) Outstanding at September 30, 2024 
+ 2020 Plan 
+ Stock Options 
+ Exercised ) Forfeited or expired 
+ ) Outstanding at September 30, 2024 
+ Stock-based Compensation Information 
+ Product development expenses 
+ 19 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+ and for the three and nine months ended September 30, 2024, respectively. Stock-based compensation expense that was capitalized as an asset was and for the three and nine months ended September 30, 2023, respectively. 
+ 
+ 10. 
+ and , respectively. For the three and nine months ended September 30, 2023, the Company recorded an income tax provision of and , respectively. The Company s annual estimated effective tax rate differs from the U.S. federal statutory rate of 21 primarily due to the nondeductible fair value adjustments on the change in the warrant liabilities and also by the change in valuation allowance, nondeductible officer compensation, the foreign derived intangible income deduction, and the research and development credit. Due to the ongoing market volatility of the fair value adjustments on the warrant liabilities, the adjustments are not estimable and as a result, the Company continues to apply the tax effect of the fair value adjustment to the warrant liabilities as a discrete item in the current quarter. 
+ 
+ 11. 
+ ) ) ) Gain on fair value of warrant liabilities 
+ ) Net income (loss) and comprehensive income (loss) adjusted for gain on fair value of warrant liabilities ) ) ) Denominator: Basic weighted average shares of common stock outstanding 
+ Diluted effect of stock-based awards 
+ Diluted effect of warrants 
+ Diluted weighted average shares of common shares outstanding 
+ Net income (loss) per share Basic 
+ ) ) Diluted 
+ ) ) 
+ 20 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+ Time-based RSUs Public and Private Warrants 
+
+12. 
+ Liabilities: Common stock warrant liabilities 
+ 
+ December 31, 2023 Total Level 1 Level 2 Level 3 Assets: Money market funds U.S. treasury bonds Liabilities: Common stock warrant liabilities 
+ 
+ Money market funds and U.S. treasury bonds 
+ The money market funds and U.S. treasury bonds are classified within Level 1 as these securities are traded on an active public market. 
+ Common Stock Warrant Liabilities 
+ The Private Warrants and Public Warrants were accounted for as a liability in accordance with ASC Topic 815, Derivatives and Hedging (see Note 8). The warrant liability was measured at fair value upon assumption and on a recurring basis, with changes in fair value presented in the condensed consolidated statements of operations and comprehensive income (loss). 
+ The Company used Level 1 inputs for valuing the Public Warrants and Level 2 inputs for valuing the Private Warrants. The Private Warrants are substantially similar to the Public Warrants, but not directly traded or quoted on an active market. 
+ 21 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+ Change in fair value of warrant liability Exercise of warrants ) ) Fair value as of September 30, 2024 
+ 
+ 13. 
+ 
+ 14. 
+ NOK (the equivalent of approximately using the exchange rate as of September 30, 2024) for an alleged infringement of the General Data Protection Regulation GDPR ). The NDPA alleged that Grindr LLC disclosed (i) personal data to third-party advertisers without a legal basis in violation of Article 6(1) GDPR and (ii) special category personal data to third-party advertisers without a valid exemption from the prohibition in Article 9(1) GDPR. Grindr LLC contested the draft findings and fine. 
+ In December 2021, the NDPA issued a reduced administrative fine against Grindr LLC in the amount of NOK (the equivalent of approximately using the exchange rate as of September 30, 2024) Grindr LLC filed an appeal with the NDPA. On November 24, 2022, Grindr Group and Kunlun Grindr Holdings Limited Kunlun entered into an escrow agreement providing for Grindr Group's access to of funds for the total amount payable, if any, by Grindr LLC following Grindr LLC's appeal of the NDPA's decision to the NDPA and, as applicable to the Norwegian Privacy Appeals Board (the NPAB ). 
+ On December 7, 2022, the NDPA upheld the reduced administrative fine against Grindr LLC and the appeal was sent to the NPAB for further consideration. On September 29, 2023, the NPAB issued its decision to uphold the NDPA's decision and fine of NOK. On October 10, 2023, Grindr Group received from the escrow account with Kunlun, (the equivalent of approximately NOK using the exchange rate as of October 3, 2023). On October 27, 2023, Grindr LLC filed suit in Oslo District Court to overturn the NPAB's decision, including to eliminate the fine. On July 1, 2024, the Oslo District Court upheld the prior decision and ordered Grindr to pay the government attorneys fees of approximately . Grindr filed its appeal of the Oslo District Court's decision with Norwegian Appeals Court on September 13, 2024. 
+ Israeli Class Action 
+ In December 2020, Grindr LLC was named in a statement of claim and petition for certification of a class action in Israel (Israeli Central District Court). The statement of claims generally alleges that Grindr LLC violated users privacy by sharing information with third parties without their explicit consent. The petitioner asserts several causes of action under Israeli law, including privacy breaches, unlawful enrichment, and negligence, as well as causes of action under California 
+ 22 
+
+Table of Contents 
+ 
+ Grindr Inc. and Subsidiaries 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ (in thousands, except per share amounts and share data) 
+
+15. 
+ time-based RSUs, which will vest in its entirety on November 11, 2028, subject to the executive's continued service as of the vesting date, and performance-based RSUs subject to market conditions, which will be granted upon the achievement of a specified market capitalization threshold. 
+ In October 2024, the Company took possession of office space in Chicago, with a lease commencement date of October 25, 2024 that will have an initial term of approximately months, which the Company has the option to extend for an additional period. The initial base rent is per month annually) and the base rent will escalate by per annum. There is rent abatement during the second and third year of the lease such that the Company will pay no rent during this period. 
+ In October 2024, the Company granted restricted stock units to certain executives upon the achievement of a targeted market capitalization threshold. As a result, the Company granted fully vested RSUs and recognized in stock-based compensation. 
+ 
+ 23 
+
+Table of Contents 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the unaudited condensed consolidated financial statements and related notes included elsewhere in this Quarterly Report on Form 10-Q. In addition to the unaudited condensed consolidated financial information, the following discussion contains forward-looking statements that reflect our plans, estimates, beliefs and expectations that involve risks and uncertainties. Our actual results and the timing of events could differ materially from those discussed in these forward-looking statements. Factors that could cause or contribute to these differences include those discussed below and elsewhere in this Quarterly Report on Form 10-Q, particularly in Special Note Regarding Forward-Looking Statements. 
+ 
+ Overview 
+ Grindr Inc. s Grindr or the Company mission is to build the Global Gayborhood in Your Pocket , and, through its success, to make a world where the lives of our global community are free, equal, and just. We manage and operate the Grindr platform, a global social network platform serving and addressing the needs of gay, bi, and sexually explorative people around the world. We had 14.6 million Average MAUs and 1,111 thousand Average Paying Users for the three months ended September 30, 2024, as compared to 13.5 million Average MAUs and 962 thousand Average Paying Users for the three months ended September 30, 2023. We had 14.1 million Average MAUs and 1,057 thousand Average Paying Users for the nine months ended September 30, 2024, as compared to 13.1 million Average MAUs and 919 thousand Average Paying Users for the nine months ended September 30, 2023. 
+ The Grindr mobile application is free to download and provides certain services and features to Grindr s users at no cost. We also offer a variety of additional controls and features for users who enroll in our paid subscriptions and add-on products, including Grindr XTRA and Grindr Unlimited. A substantial portion of our revenue is from direct revenue, representing 86.1 and 85.5 of total revenue for the three and nine months ended September 30, 2024, respectively. Direct revenue is derived directly from users in the form of subscription fees, providing our users access to a variety of features for the period of their subscription, or in the form of add-ons for pay-per-use access to premium features. Leveraging strong brand awareness and our significant user network stemming from our first mover advantage in the GBTQ social networking industry, our historical growth in number of users has been driven primarily by word-of-mouth referrals and other organic means. Through gayborhood expansion initiatives, we are developing new products for users to engage with the Grindr platform, which include new partnership-based digital versions of services typically found in physical gayborhoods. Our social impact division, Grindr for Equality, advances human rights, health, and safety for millions of LGBTQ people in partnership with organizations in every region of the world. 
+ In addition to our revenue generated from subscription fees and premium add-ons, we also generate indirect revenue, representing 13.9 and 14.5 of total revenue for the three and nine months ended September 30, 2024, respectively. Indirect revenue includes both first-party and third-party advertising. We provide advertisers with the opportunity to directly target and reach our community. Advertisers on our Grindr platform span across many different industries, including healthcare, entertainment, gaming, travel, and consumer goods. We offer our partners a diverse range of advertising opportunities, including in-app banners, full-screen interstitials, and other customized units, typically sold on a number of impressions basis. Additionally, we contract with a variety of third-party advertising platforms to market and sell digital advertising inventory available on the Grindr platform. We will continue to evaluate opportunities to increase advertising inventory by both enhancing and differentiating our advertising offerings in addition to scaling our advertising volume. 
+ While we have users in over 190 countries and territories, our core markets are currently North America and Europe, from which together we derived 84.8 and 85.2 of our total revenues for the nine months ended September 30, 2024 and 2023, respectively. We intend to grow our user base and revenues by continuing to introduce new and innovative products and services to all of our users across the globe. 
+ We generated 89.3 million and 70.3 million of revenue, respectively, for the three months ended September 30, 2024, and 2023, and we generated 247.0 million and 187.6 million of revenue, respectively, for the nine months ended September 30, 2024, and 2023, representing period-over-period growth of 27.0 and 31.7 as compared to the corresponding three-month and nine-month periods in 2023, respectively. 
+ We had 1,111 thousand and 962 thousand Average Paying User, respectively, for the three months ended September 30, 2024, and 2023, and we had 1,057 thousand and 919 thousand Average Paying Users, respectively, for the nine months ended September 30, 2024, and 2023, representing period-over-period growth of 15.5 and 15.0 as compared to the corresponding three-month and nine-month periods in 2023, respectively. 
+ 24 
+
+Table of Contents 
+
+On average, profiles on our platform sent 416.6 million and 339.1 million daily messages for the three months ended September 30, 2024, and 2023, respectively, and 420.1 million and 329.3 million daily messages for the nine months ended September 30, 2024, and 2023, respectively. 
+ 
+ Certain Labor Matters 
+ In July 2023, the Communications Workers of America AFL-CIO CWA filed an election petition with the National Labor Relations Board NLRB seeking to hold a representation election for certain classifications of our employees. CWA subsequently filed several unfair labor practice charges against us with the NLRB, including a request for injunctive relief under Sec. 10(j) of the National Labor Relations Act. Regarding the election petition, the NLRB conducted a secret mail-ballot election and held partial vote counts in November and December 2023. As of the date of filing of this Quarterly Report on Form 10-Q, the NLRB has not completed tallying all the votes from the election as there are numerous outstanding challenged ballots. On November 1, 2024, the local regional office of NLRB issued a complaint on the unfair labor practice charges, which is scheduled for a hearing in March 2025. This complaint is the first step in the administrative process and is not a finding of any wrongdoing, nor is it a decision or ruling of the NLRB. 
+ Recent Developments 
+ In September 2024, we merged our Engineering, Product, and Design teams under the leadership of our Chief Product Officer. By combining these three complementary teams into one, we expect to streamline decision-making, enable faster iteration, and create a better experience for our users. 
+
+Consolidated Results for Three Months Ended September 30, 2024 and 2023 
+ For the three months ended September 30, 2024 and 2023, we generated: 
+ Revenue of 89.3 million and 70.3 million, respectively. The increase for the three months ended September 30, 2024 compared to the three months ended September 30, 2023 was 19.0 million, or 27.0 . 
+ Net income of 24.7 million and net loss of 0.4 million, respectively. This resulted in a net income margin of 27.6 and a net loss margin of 0.6 , respectively. The increase for the three months ended September 30, 2024, compared to the three months ended September 30, 2023 was 25.1 million. 
+ Adjusted EBITDA of 40.1 million and 32.6 million, respectively. This resulted in an Adjusted EBITDA margin of 44.9 and 46.4 , respectively. The Adjusted EBITDA increase for the three months ended September 30, 2024 compared to the three months ended September 30, 2023 was 7.5 million, or 23.0 . See Non-GAAP Financial Measures below for more details on the calculations and reconciliations. 
+ 
+ Consolidated Results for Nine Months Ended September 30, 2024 and 2023 
+ For the nine months ended September 30, 2024 and 2023, we generated: 
+ Revenue of 247.0 million and 187.6 million, respectively. The increase for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 was 59.4 million, or 31.7 . 
+ Net loss of 7.1 million and 11.0 million, respectively. This resulted in a net loss margin of 2.9 and 5.9 , respectively. The net loss increase for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 was 3.9 million, or 35.0 . 
+ Adjusted EBITDA of 108.7 million and 81.5 million, respectively. This resulted in an Adjusted EBITDA margin of 44.0 and 43.4 , respectively. The Adjusted EBITDA increase for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 was 27.2 million, or 33.4 . See Non-GAAP Financial Measures below for more details on the calculations and reconciliations. 
+ 
+ The Business Combination and Public Company Costs 
+ On May 9, 2022, Grindr, Tiga Acquisition Corp. Tiga and Tiga Merger Sub LLC, a Delaware limited liability company and direct and wholly-owned subsidiary of Tiga Merger Sub I entered into that certain Agreement and Plan of Merger (the Original Merger Agreement ), as amended by that certain First Amendment to Agreement and Plan of Merger, dated as of October 5, 2022, by and among Grindr, Tiga, Merger Sub I and Tiga Merger Sub II LLC, a Delaware limited liability company and direct and wholly-owned subsidiary of Tiga Merger Sub II (together with the Original Merger Agreement, the Merger Agreement pursuant to which Grindr was merged with and into Merger Sub I, with 
+ 25 
+
+Table of Contents 
+
+Grindr as the surviving entity and a wholly owned subsidiary of Tiga (the First Merger ), and promptly afterwards and as part of the same overall transaction as the First Merger, the merger of such surviving company with and into Merger Sub II, with Merger Sub II being the surviving entity and a wholly owned subsidiary of Tiga (the Second Merger ), in accordance with the terms and conditions of the Merger Agreement. The transaction was completed on November 18, 2022 (the Business Combination ). Grindr was deemed the accounting predecessor and the combined entity is the successor registrant with the Securities and Exchange Commission SEC ), meaning that Grindr s condensed consolidated financial statements for previous periods will be disclosed in Grindr s future periodic reports filed with the SEC. 
+ While the legal acquirer in the Merger Agreement was Tiga, for financial accounting and reporting purposes under the accounting principles generally accepted in the United States of America U.S. GAAP ), Legacy Grindr was the accounting acquirer and the Business Combination was accounted for as a reverse recapitalization. A reverse recapitalization (i.e., a capital transaction involving the issuance of stock by Tiga for the stock of Grindr) did not result in a new basis of accounting, and the consolidated financial statements of the combined entity represent the continuation of the consolidated financial statements of Legacy Grindr in many respects. Accordingly, the consolidated assets, liabilities and results of operations of Legacy Grindr became the historical consolidated financial statements of Grindr, and Tiga s assets, liabilities, and results of operations were consolidated with Legacy Grindr beginning on the acquisition date. Operations prior to the Business Combination are presented as those of Legacy Grindr and will be presented as such in future reports. The net assets of Tiga were recognized at historical cost (which was consistent with carrying value), with no goodwill or other intangible assets recorded upon execution of the Business Combination. 
+ As a consequence of the Business Combination, Grindr became the successor to an SEC-registered and NYSE-listed company, which required Grindr to hire additional personnel and implement procedures and processes to address public company regulatory requirements and customary practices. Grindr has incurred and expects to incur additional annual expenses as a public company for, among other things, directors and officers liability insurance, director fees and additional internal and external accounting, legal and administrative resources, including increased audit and legal fees. The Company is classified as an Emerging Growth Company, as defined under the Jumpstart Our Business Act (the JOBS Act ), which was enacted on April 5, 2012. As a result of the Business Combination, the Company is provided certain disclosure and regulatory relief, provided by the SEC, as an Emerging Growth Company and Smaller Reporting Company. 
+ Grindr s future results of consolidated operations and financial position may not be comparable to historical results as a result of the Business Combination. 
+ 
+ How We Generate Revenue 
+ We currently generate revenue from two revenue streams Direct Revenue and Indirect Revenue both of which are driven by the Grindr platform. Direct Revenue is generated by our users who pay for subscriptions or add-ons to access premium features. Indirect Revenue is generated by third parties who pay us to advertise to our users. 
+ Direct Revenue is driven by our subscription revenue and premium add-ons. Our current subscription offerings are Grindr XTRA and Grindr Unlimited. Our subscription revenue has grown through organic user acquisition and the viral network effects enabled by our brand and the quality of our platform. We utilize a freemium model to drive increased user acquisition, subscriber conversions, and monetization on the Grindr platform. We offer premium add-ons on a pay-per-use, or a-la-carte, basis, such as Boost, Roam , and Right Now. By introducing subscription and premium add-on offerings, we continue to increase our Average Paying Users. For the three and nine months ended September 30, 2024, our Direct Revenue accounted for 86.1 and 85.5 of our total revenue, respectively. For the three and nine months ended September 30, 2023, our Direct Revenue accounted for 87.6 and 86.8 of our total revenue, respectively. 
+ Indirect Revenue primarily consists of revenue generated by third parties who pay to advertise to our users. Our advertising offerings provide advertisers with the opportunity to target and directly reach the GBTQ community, a group with significant global purchasing power and economic potential. We have attracted advertisers from a diverse array of industries, including healthcare, entertainment, gaming, travel, and consumer goods. We offer a diverse range of advertising opportunities to advertisers, such as in-app banners, full-screen interstitials, and other customized units, typically on a cost per mille CPM basis. We contract with a variety of third-party advertising platforms to market and sell a portion of our advertising inventory available on the Grindr platform. We intend to continue to grow our Indirect Revenue through advertising, partnerships, and other non-direct initiatives. For the three and nine months ended September 30, 2024, our Indirect Revenue accounted for 13.9 and 14.5 of our total revenue, respectively. For the three and nine months ended September 30, 2023, our Indirect Revenue accounted for 12.4 and 13.2 of our total revenue, respectively. 
+ 26 
+
+Table of Contents 
+
+Operating and Financial Metrics 
+ Three Months Ended September 30, Nine Months Ended September 30, (in thousands, except ARPPU and ARPU) 2024 2023 2024 2023 Key Operating Metrics Average Paying Users 1,111 962 1,057 919 Average Monthly Active Users Average MAUs 
+ 14,554 13,468 14,103 13,142 Average Paying User Penetration 
+ 7.6 7.1 7.5 7.0 Average Direct Revenue per Average Paying User ARPPU 
+ 23.07 21.33 22.20 19.69 Average Total Revenue per User ARPU 
+ 2.05 1.74 1.95 1.59 
+ Three Months Ended September 30, Nine Months Ended September 30, in thousands) 2024 2023 2024 2023 Key Financial and Non-GAAP Metrics (1) 
+ Revenue 89,325 70,258 247,015 187,605 Direct revenue 76,907 61,575 211,203 162,886 Indirect revenue 12,418 8,683 35,812 24,719 Net income (loss) 24,681 (437) (7,149) (11,005) Net income (loss) margin 27.6 (0.6) (2.9) (5.9) Adjusted EBITDA 40,144 32,601 108,696 81,484 Adjusted EBITDA Margin 44.9 46.4 44.0 43.4 Net cash provided by operating activities 29,125 8,313 65,424 23,116 Operating cash flow conversion 118.0 (1,902.3) (915.1) (210.0) Free cash flow 27,882 7,399 61,337 19,627 Free cash flow conversion 69.5 22.7 56.4 24.1 
+ (1) See Non-GAAP Financial Measures below for additional information and a reconciliation of non-GAAP financial measures to the most comparable GAAP financial measures. 
+ Average Paying Users. A Paying User is a user that has purchased or renewed a Grindr subscription and/or purchased a premium add-on on the Grindr platform. We calculate Average Paying Users by adding up the number of Paying Users in each day and then dividing that number by the number of days in the relevant measurement period. A Paying User who is both a subscriber and an add-on purchaser in the same day will be counted as one Paying User. Duplicate Paying Users may exist if the same individual holds more than one Grindr subscription during the same period. We are focused on building new products and improving on existing ones to drive payer conversion. We believe Average Paying Users is a useful metric for assessing the health of our business. 
+ Average MAUs. A Monthly Active User MAU is a unique device that demonstrates activity on the Grindr platform during any given calendar month. Activity on the platform is defined as opening the app, sending or receiving a chat, or viewing another person's profile. We also exclude devices with linked profiles banned for spam. We calculate Average MAUs as a monthly average, by counting the total number of MAUs in each calendar month and then dividing by the number of months in the relevant period. We use Average MAUs to measure the number of active users on our platform on a monthly basis. We believe Average MAUs is a useful metric for assessing the health of our business and our growth in users. 
+ Average Paying User Penetration. We calculate Average Paying User Penetration by dividing Average Paying Users by our Average MAUs for any measurement period. We believe Average Paying User Penetration is a useful metric for assessing the overall health of our business. 
+ ARPPU. We calculate Average Revenue Per Paid User ARPPU based on Direct Revenue in any measurement period, divided by Average Paying Users in such a period and then divided by the number of months in the period. We believe ARPPU is a useful metric for assessing the growth of our business and future revenue trends. 
+ 27 
+
+Table of Contents 
+
+ARPU. We calculate Average Revenue Per User ARPU based on total revenue in any measurement period, divided by our Average MAUs in such a period divided by the number of months in the period. We believe ARPU is a useful metric for assessing the growth of our business and future revenue trends. 
+ 
+ Non-GAAP Profitability 
+ We use Adjusted EBITDA, Adjusted EBITDA margin, free cash flow, and free cash flow conversion, which are non-GAAP measures, to understand and evaluate our core operating performance. These non-GAAP financial measures, which may differ from similarly titled measures used by other companies, are presented to enhance investors overall understanding of our financial performance and should not be considered a substitute for, or superior to, the financial information prepared and presented in accordance with U.S. GAAP. 
+ Adjusted EBITDA and Adjusted EBITDA margin 
+ Adjusted EBITDA adjusts for the impact of items that we do not consider indicative of the operational performance of our business. We define Adjusted EBITDA as net income (loss) excluding income tax provision (benefit); interest expense, net; depreciation and amortization; stock-based compensation expense; transaction-related costs; gain (loss) in fair value of warrant liability; and severance expense, litigation-related costs, and other items, in each case, that are unrelated to our core ongoing business operations. Adjusted EBITDA Margin is calculated by dividing Adjusted EBITDA for a period by revenue for the same period. 
+ See Non-GAAP Financial Measures below for additional information and a reconciliation of net loss to Adjusted EBITDA and Adjusted EBITDA Margin. 
+ Free Cash Flow and Free Cash Flow Conversion 
+ We define free cash flow as net cash provided by (used in) operating activities less capitalized software, and purchases of property and equipment. Free cash flow conversion is calculated by dividing free cash flow for a period by Adjusted EBITDA for the same period. 
+ See Non-GAAP Financial Measures below for additional information and a reconciliation of net cash provided by operating activities and operating cash flow conversion to free cash flow and free cash flow conversion, respectively. 
+ 
+ Key Factors Affecting Our Performance 
+ Our results of operations and financial condition have been, and will continue to be, affected by a number of factors that present significant opportunities for us but also pose risks and challenges, including those discussed below and in the section titled Risk Factors included under Part I, Item 1A in our Annual Report on Form 10-K for the year ended December 31, 2023, as amended. 
+ Growth in User Base and Paying Users 
+ We acquire new users through word of mouth as well as through investing in generating brand awareness and affinity. We convert these users to Paying Users by offering premium features that increase the probability of developing meaningful connections, improve the user experience, offer greater control over the experience, and provide the ability to have an ad-free experience. We had 1,111 thousand and 1,057 thousand Average Paying Users for the three and nine months ended September 30, 2024, respectively, representing period-over-period growth of 15.5 and 15.0 as compared to the three-month and nine-month periods in 2023, respectively. We grow Paying Users by converting new and existing users to purchasers of one of our subscription plans and/or our premium add-on offerings. As we scale and our community grows larger, we are able to facilitate more meaningful interactions as a result of the wider selection of potential connections. This, in addition to the continuous offering of premium features, increases our product value and can increase conversion to one of our paid products. Our revenue growth depends on growth in Paying Users. While we believe we are in the early days of our opportunity, at some point we may face challenges increasing our Paying Users, including competition from alternative products and services and lower adoption of certain product features. 
+ Growth in ARPPU 
+ We continually work to develop new monetization features and improve existing features in order to increase adoption of premium add-ons and our subscription programs. Many variables will impact our ARPPU, including paid product mix, the geographic location of Paying Users, and the revenue generated from subscription versus premium add-on revenue. Our pricing is in local currency and may vary between markets. As foreign currency exchange rates fluctuate, transactions carried out in foreign currencies other than the U.S. dollar could negatively impact revenue and distort year-over-year 
+ 28 
+
+Table of Contents 
+
+comparability of operating results. To the extent our ARPPU growth slows, our revenue growth will become increasingly dependent on our ability to increase our Average Paying Users. 
+ Investing in Growth While Driving Long-Term Profitability 
+ Key investment areas for us include continuing to expand and enhance our team as well as enhancing our platform and increasing the value we provide our users. Part of our efforts are focused on introducing new products, improving pricing and packaging, and localizing our products in international markets. We are also harnessing artificial intelligence and machine learning, which we refer to as AI/ML, along with prioritizing security and privacy, and improving matching capabilities for successful connections. 
+ Attracting and Retaining Talent 
+ Our business relies on our ability to attract and retain talent, including, but not limited to, engineers, data scientists, product designers and product managers. As of September 30, 2024, we had 148 employees globally, 144 of which were full-time employees. We believe that many people want to work at a company committed to creating a world that is fair, equal, and just for the global LGBTQ community and that aligns with their personal values, and therefore our ability to recruit and retain talent is aided by our mission and brand reputation. We compete for talent within the technology industry. 
+ 
+ Factors Affecting the Comparability of Our Results 
+ Temporary variability and general advertising demand 
+ Our ability to maintain consistently high advertiser demand for our platform can be affected by temporary trends in advertisers appetites to engage with our users or our brand. For example, events that result in temporary positive or negative publicity for our company (even if unfounded) may play a significant role in our advertisers desire to continue to advertise on our platform. Further, general economic conditions may lead to changes in advertising spending in general, which could have a significant impact on our results of operations. Such fluctuations in advertising demand are often unpredictable and likely temporary, but nevertheless could have a significant impact on the financial condition of our business. 
+ Return-to-Office 
+ In 2023 our leadership team announced a transition to a hybrid work model involving a multi-phase return-to-office plan RTO Plan beginning in the fall of 2023. Our hybrid work model requires employees to work two days per week in offices where their respective teams are based. The RTO Plan provided employees with a one-time relocation package to support relocation if necessary, or separation packages for employees who chose not to relocate or participate in our RTO Plan. The RTO Plan has temporarily resulted in lower headcount, resulting in a higher reliance on contractors and other services, higher severance expenses in 2023, and lower people related costs. During 2024 and 2025, we are expanding and enhancing our team while selectively supplementing immediate capacity and product development needs with contractors, particularly in supporting our engineering function. 
+ International market pricing and changes in foreign exchange rates 
+ The Grindr platform has MAUs in over 190 countries and territories. Our international revenue represents 43.1 and 42.5 of total revenue for the three and nine months ended September 30, 2024, respectively, and 42.4 and 41.5 of total revenue for the three and nine months ended September 30, 2023, respectively. We vary our pricing to align with relative value to local purchasing power and competitors while also maximizing our monetization opportunities. Our international revenue is typically earned in local currencies. In addition, the mobile app platforms we work with utilize internally generated foreign exchange rates that may differ from other foreign exchange rates, which could impact our results of operations. 
+ 
+ Key Components of Our Results of Operations 
+ Revenue 
+ We currently generate revenue from two revenue streams Direct Revenue and Indirect Revenue. Direct revenue is revenue generated by our users who pay for subscriptions or premium add-ons to access premium features. Indirect revenue is generated by third parties who pay us to advertise to our users. As we continue to expand our revenue streams, we anticipate increasing monetization from premium add-ons and subscription offerings, contributing to an increase in 
+ 29 
+
+Table of Contents 
+
+direct revenue over time, and increasing our advertising inventory, contributing to an increase in indirect revenue over time. 
+ Direct Revenue. Direct revenue is reported gross of distribution fees for subscriptions and premium add-ons as we are the primary party obligated in our transactions with customers, and we act as the principal. Our subscription revenue is generated through the sale of subscriptions that are currently offered or renewed in one-week, one-month, three-month, six-month and twelve-month periods. Subscribers pay in advance through third-party platforms, including Apple, Google Play, and Stripe, according to our terms and conditions. Subscription revenues, net of taxes and chargebacks, are recognized ratably over the term of the subscription. Premium add-on revenue is generated through the sale of an add-on feature on a pay-per-use, or a-la-carte, basis. Premium features are activated upon purchase and are available for a short duration, generally, within one day. Revenue from premium add-ons is recognized upon purchase of the premium add-on. Direct revenue is recorded net of taxes, credits, and chargebacks. Customers pay in advance, primarily through mobile app stores, and, subject to certain conditions identified in the Company s terms and conditions, generally all purchases are final and nonrefundable. 
+ Indirect Revenue . Indirect revenue primarily consists of revenue generated by third parties who pay us to advertise to our users. We provide advertisers with the opportunity to target and directly reach the GBTQ community, a group with significant global purchasing power and economic potential. We have attracted advertisers from a diverse array of industries, including healthcare, gaming, travel, entertainment, and consumer goods. We offer a diverse range of advertising opportunities to advertisers, such as in-app banners, full-screen interstitials, and other customized units, typically on a CPM basis. Revenue from advertising transactions with advertising service providers is recognized net of the amounts retained by the advertising service provider as we do not know and expect not to know the gross amount paid by advertisers. 
+ Cost of revenue and operating expenses 
+ Cost of revenue . Cost of revenue consists primarily of the distribution fees we pay to Apple and Google Play, infrastructure costs associated with supporting the Grindr platform, which stem largely from our use of Amazon Web Services, and costs associated with content moderation, which involve ensuring that users are complying with our community standards. 
+ Selling, general and administrative expenses. Selling, general and administrative expenses consists primarily of compensation and other employee-related costs, professional fees, sales and marketing expenditures, and general and administrative expenses, including facilities, insurance, and information technology support. We plan to continue efforts to attract new users, retain existing users and increase monetization of both our new and existing users, which may result in increased sales and marketing expenses in future periods. 
+ Product development expense. Product development expense consists primarily of employee-related and contractor costs for personnel engaged in the design, development, testing, enhancement of product offerings, related technology, and related software costs. 
+ Depreciation and Amortization. Depreciation is primarily related to computers, equipment, and leasehold improvements. Amortization is primarily related to capitalized software, acquired definite-lived intangible assets (customer relationships, technology, etc.). 
+ Other income (expense) 
+ Interest expense, net . Interest expense, net consists of interest expense incurred in connection with our long-term debt and revolving credit facility, net of interest income received on a promissory note to a member. 
+ Other income (expense), net . Other income (expense), net consists of realized and unrealized exchange rate gains or losses. 
+ Gain (loss) in fair value of warrant liability. Gain (loss) in fair value of warrant liability represents the change in fair value of our public and private warrants. As the private warrants are substantially similar to the public warrants, all of the warrants are remeasured from the publicly traded quotes from the active market. 
+ Income tax provision 
+ Income tax provision represents the income tax expense associated with our operations based on the tax laws of the jurisdictions in which we operate. Our effective tax rates will vary depending on changes in the valuation of our deferred tax assets and liabilities, fluctuations in permanent differences, and changes in tax laws. 
+ 30 
+
+Table of Contents 
+
+Results of Operations 
+ Three and Nine Months Ended September 30, 2024, Compared to Three and Nine Months Ended September 30, 2023 
+ Three Months Ended September 30, Nine Months Ended September 30, 
+ in thousands) 2024 of 
+ Total 
+ Revenue 
+ 2023 of 
+ Total 
+ Revenue 
+ 2024 of Total Revenue 2023 of Total Revenue Revenue 89,325 100.0 70,258 100.0 247,015 100.0 187,605 100.0 Operating costs and expenses Cost of revenue (exclusive of depreciation and amortization shown separately below) 
+ 22,915 25.7 18,243 26.0 63,534 25.7 49,168 26.2 Selling, general and administrative expense 24,976 28.0 16,420 23.4 76,387 30.9 52,523 28.0 Product development expense 8,806 9.9 13,270 18.9 22,301 9.0 24,976 13.3 Depreciation and amortization 4,241 4.7 5,753 8.2 12,595 5.1 21,845 11.6 Total operating expenses 60,938 68.2 53,686 76.4 174,817 70.8 148,512 79.2 Income from operations 28,387 31.8 16,572 23.6 72,198 29.2 39,093 20.8 Other income (expense) Interest expense, net (6,400) (7.2) (11,985) (17.1) (20,254) (8.2) (35,695) (19.0) Other income (expense), net 68 0.1 (390) (0.6) (276) (0.1) (98) (0.1) Gain (loss) in fair value of warrant liability 8,219 9.2 (3,362) (4.8) (45,579) (18.5) (11,581) (6.2) Total other income (loss), net 1,887 2.1 (15,737) (22.4) (66,109) (26.8) (47,374) (25.3) Net income (loss) before income tax 30,274 33.9 835 1.2 6,089 2.5 (8,281) (4.4) Income tax provision 5,593 6.3 1,272 1.8 13,238 5.4 2,724 1.5 Net income (loss) and comprehensive income (loss) 24,681 27.6 (437) (0.6) (7,149) (2.9) (11,005) (5.9) Net income (loss) per share Basic 0.14 (0.04) (0.06) Diluted 0.09 (0.04) (0.06) 
+ Revenue 
+ Revenue for the three months ended September 30, 2024 and 2023, was 89.3 million and 70.3 million, respectively. The increase in revenue for the three months ended September 30, 2024, compared to the three months ended September 30, 2023 was 19.0 million, or 27.0 . 
+ 
+ For the three months ended September 30, 2024 and 2023, direct revenue was 76.9 million and 61.6 million, respectively. The increase in direct revenue of 15.3 million, or 24.8 , was driven by year-over-year increases in ARPPU of 1.74 and in Average Paying Users of 149 thousand. Year-over-year growth for both ARPPU and Averaging Paying Users is a result of (i) higher conversion of free to paid users as more users responded favorably to shorter duration subscription offerings through the roll out of our weekly Unlimited subscription offerings to all of our users worldwide, (ii) the launch of various packaging and marketing initiatives intended to drive conversation, and (iii) continued MAU growth. Weekly Unlimited was introduced late in the first quarter of 2024, giving our users a second lower priced option in addition to the weekly XTRA subscription. ARPPU increased by 8.2 , or 1.74, to 23.07 for the three months ended September 30, 2024, from 21.33 for the three months ended September 30, 2023. Our ARPPU increased as a result of improved product mix, with higher revenue generated by subscription products with higher average monthly-equivalent price, such as weekly Unlimited. We expect ARPPU to fluctuate in the near-term as we continue to test different subscription options across different price points and focus on generating more Paying Users. For the three months ended September 30, 2024, Average Paying Users increased by 149 thousand, from 962 thousand for the three months ended September 30, 2023, to 1,111 thousand for the three months ended September 30, 2024. 
+ 
+ For the three months ended September 30, 2024 and 2023, indirect revenue was 12.4 million and 8.7 million, respectively. The increase in indirect revenue of 3.7 million, or 42.5 , was primarily driven by growth in revenue from interstitial advertising from our third-party advertising platforms as new partners were added and use of interstitial advertising continued, as well as growth in direct brand sales as the number of direct brand advertisers on the platform grew. 
+ Revenue from North America increased by 10.8 million, or 25.3 , for the three months ended September 30, 2024, to 53.3 million as compared to 42.6 million for the three months ended September 30, 2023. During this same period, 
+ 31 
+
+Table of Contents 
+
+revenue from Europe increased by 5.4 million, or 30.8 , to 22.8 million in the three months ended September 30, 2024, as compared to 17.4 million in the three months ended September 30, 2023. Revenue from the remainder of the world increased by 2.9 million, or 28.6 , to 13.2 million in the three months ended September 30, 2024, as compared to 10.3 million in the three months ended September 30, 2023. 
+ Revenue for the nine months ended September 30, 2024 and 2023, was 247.0 million and 187.6 million, respectively. The increase in revenue for the nine months ended September 30, 2024, compared to the nine months ended September 30, 2023, was 59.4 million increase, or 31.7 . 
+ For the nine months ended September 30, 2024 and 2023, direct revenue was 211.2 million and 162.9 million, respectively. The increase in direct revenue of 48.3 million, or 29.7 was driven by the year-over-year increase in ARPPU of 2.51 and in Average Paying Users of 138 thousand. Year-over-year growth for both ARPPU and Averaging Paying Users is largely a result of rolling out our weekly XTRA and weekly Unlimited subscription offerings Weeklies ), to all of our users worldwide, the launch of various packaging and marketing initiatives to drive conversion, as well as a result of continued MAU growth. Weekly XTRA was introduced late in the second quarter of 2023 and weekly Unlimited was introduced late in the first quarter of 2024. Introducing our shorter duration Weeklies products gave our users lower priced options for both XTRA and Unlimited subscriptions. ARPPU increased by 12.7 , or 2.51, to 22.20 for the nine months ended September 30, 2024, from 19.69 for the nine months ended September 30, 2023. Our ARPPU increased mainly as a result of improved product mix with higher revenue from subscription products with higher average monthly price. We expect ARPPU to fluctuate in the near-term as we continue to test different subscription options across different price points and focus on generating more Paying Users. For the nine months ended September 30, 2024, Average Paying Users increased by 138 thousand, from 919 thousand for the nine months ended September 30, 2023, to 1,057 thousand for the nine months ended September 30, 2024. 
+ For the nine months ended September 30, 2024 and 2023, indirect revenue was 35.8 million and 24.7 million, respectively. The increase in indirect revenue of 11.1 million, or 44.9 was primarily driven by growth in revenue from third-party advertising platforms. 
+ Revenue from North America increased by 33.7 million, or 29.2 , for the nine months ended September 30, 2024, to 148.9 million as compared to 115.3 million for the nine months ended September 30, 2023. During this same period, revenue from Europe increased by 16.0 million, or 36.0 , to 60.6 million in the nine months ended September 30, 2024, as compared to 44.6 million in the nine months ended September 30, 2023. Revenue from the remainder of the world increased by 9.7 million, or 35.0 , to 37.5 million in the nine months ended September 30, 2024, as compared to 27.8 million in the nine months ended September 30, 2023. 
+ Cost of revenue 
+ Cost of revenue for the three months ended September 30, 2024 and 2023, was 22.9 million and 18.2 million, respectively. The 4.7 million increase, or 25.8 , was primarily due to growth in app store distribution fees of 3.2 million (consistent with direct revenue growth), and increased infrastructure costs of 1.4 million. 
+ Cost of revenue for the nine months ended September 30, 2024 and 2023, was 63.5 million and 49.2 million, respectively. The 14.3 million increase, or 29.1 , was primarily due to growth in app store distribution fees of 11.0 million (consistent with direct revenue growth), and increased infrastructure costs of 3.6 million. 
+ Selling, general and administrative expense 
+ Selling, general and administrative expense for the three months ended September 30, 2024 and 2023, was 25.0 million and 16.4 million, respectively. The 8.6 million increase, or 52.4 , was primarily due to higher personnel related expenses of 6.0 million, including an increase of 2.2 million in stock-based compensation expense, primarily related to executive incentive awards, and an increase of 3.8 million in employee compensation. There was also an increase of 1.4 million in marketing expenses. 
+ Selling, general and administrative expense for the nine months ended September 30, 2024 and 2023, was 76.4 million and 52.5 million, respectively. The 23.9 million increase, or 45.5 , was primarily due to higher personnel related expenses of 17.1 million, including an increase of 10.4 million in stock-based compensation expense, primarily related to executive incentive awards, and an increase of 6.7 million in employee compensation. There was also an increase of 3.0 million in contractor expenses to support scaling our team and an increase of 3.8 million in marketing expenses. 
+ 32 
+
+Table of Contents 
+
+Product development expense 
+ Product development expense for the three months ended September 30, 2024 and 2023, was 8.8 million and 13.3 million, respectively. The 4.5 million decrease, or 33.8 is primarily related to a 5.9 million decrease in personnel-related expenses, primarily driven by 6.5 million of severance expense incurred during the three months ended September 30, 2023 related to the RTO Plan. This decrease is partially offset by a 1.7 million increase in contractor fees to support the engineering function while scaling the size of our team. 
+ Product development expense for the nine months ended September 30, 2024 and 2023, was 22.3 million and 25.0 million, respectively. The 2.7 million decrease, or 10.8 was primarily related to a 7.7 million decline in personnel-related expenses primarily driven by 7.5 million of severance expense incurred during the nine months ended September 30, 2023 related to our RTO Plan. This decrease was partially offset by 4.7 million increase in contractor fees to support the engineering function while scaling the size of our team. 
+ Depreciation and amortization 
+ Depreciation and amortization for the three months ended September 30, 2024 and 2023, was 4.2 million and 5.8 million, respectively. The 1.6 million decrease, or 27.6 , was primarily due to acquired intangibles amortization from an acquisition in June 2020. There was a 1.1 million decrease due to customer relationship intangibles that were amortized under an accelerated amortization schedule, with higher amounts expensed in 2023. 
+ Depreciation and amortization for the nine months ended September 30, 2024 and 2023, was 12.6 million and 21.8 million, respectively. The 9.2 million decrease, or 42.2 , was primarily due to acquired intangibles amortization from an acquisition in June 2020. There was a 5.3 million decrease due to technology intangibles that had a three-year useful life which were fully amortized in the second quarter of 2023, and a 3.3 million decrease due to customer relationship intangibles that were amortized under an accelerated amortization schedule, with higher amounts expensed in 2023. 
+ Interest expense, net 
+ Interest expense, net for the three months ended September 30, 2024 and 2023, was 6.4 million and 12.0 million, respectively. The 5.6 million decrease, or 46.7 , was primarily due to lower debt balances and lower interest rates under the 2023 Credit Agreement entered into in November 2023. 
+ Interest expense, net for the nine months ended September 30, 2024 and 2023, was 20.3 million and 35.7 million, respectively. The 15.4 million decrease, or 43.1 , was primarily due to lower debt balances and lower interest rates under the 2023 Credit Agreement entered into in November 2023. 
+ Other income (expense), net 
+ Other income (expense), net for the three months ended September 30, 2024 and 2023, was income of 0.1 million and expense of 0.4 million, respectively. 
+ Other expense, net for the nine months ended September 30, 2024 and 2023, was 0.3 million and 0.1 million, respectively. 
+ Gain (loss) in fair value of warrant liability 
+ Gain (loss) in fair value of warrant liability represents the change in the fair value of our public and private warrants (the Warrants between each reporting period. The Warrants were remeasured to a fair value of 113.2 million as of September 30, 2024, because of the change in our public warrant price. For the three and nine months ended September 30, 2024, we recognized a gain of 8.2 million and a loss of 45.6 million, respectively. For the three and nine months ended September 30, 2023, we recognized a loss of 3.4 million and 11.6 million, respectively, related to the increase in our public warrant price between reporting periods. 
+ Income tax provision 
+ Income tax provision for the three months ended September 30, 2024 and 2023, was a provision of 5.6 million and 1.3 million, respectively. The 4.3 million increase, or 330.8 , was primarily due to changes in the comparable quarters income and computed annual effective tax rate, including changes in the forecast of income, nondeductible fair value 
+ 33 
+
+Table of Contents 
+
+adjustments on the change in the warrant liability, change in valuation allowance, limitations on the deduction of officer compensation, foreign derived intangible income deduction, and research and development credits. 
+ Income tax provision for the nine months ended September 30, 2024 and 2023, was 13.2 million and 2.7 million, respectively. The 10.5 million increase, or 388.9 , was primarily due to changes in year over year quarter to date income, and changes in the computed annual effective tax rate, including changes in the forecast of income, nondeductible fair value adjustments on the change in the warrant liability, change in valuation allowance, limitations on the deduction of officer compensation, foreign derived intangible income deduction, and research and development credits. 
+ Our effective tax rates in fiscal 2024 and future periods may fluctuate, as a result of changes in our forecasts where losses cannot be benefited due to the existence of valuation allowances on our deferred tax assets; changes in actual results versus our estimates; or changes in tax laws, regulations, accounting principles, or interpretations thereof. 
+ Net income (loss) 
+ Net income (loss) for the three months ended September 30, 2024 and 2023, was income of 24.7 million and a loss of 0.4 million, respectively. The change of 25.1 million is mainly due to a 19.1 million increase in revenue, 11.6 million benefit in the change in fair value of warrant liability, and 5.6 million decrease in interest expense; partially offset by a 7.3 million increase in operating expenses and 4.3 million increase in income tax provision. 
+ Net loss for the nine months ended September 30, 2024 and 2023, was 7.1 million and 11.0 million, respectively. Net loss decreased by 3.9 million mainly due to a 59.4 million increase in revenue and 15.4 million decrease in interest expense; partially offset by a 34.0 million increase in the loss in fair value of warrant liability, 26.3 million increase in operating expenses, and 10.5 million increase in income tax provision. 
+ 
+ Non-GAAP Financial Measures 
+ To supplement our condensed consolidated financial statements, which are prepared and presented in accordance with U.S. GAAP, we use Adjusted EBITDA, Adjusted EBITDA margin, free cash flow, and free cash flow conversion as described below, to understand and evaluate our core operating performance. These non-GAAP financial measures, which may differ from similarly titled measures used by other companies, are presented to enhance investors overall understanding of our financial performance and should not be considered a substitute for, or superior to, the financial information prepared and presented in accordance with U.S. GAAP. 
+ Adjusted EBITDA and Adjusted EBITDA Margin 
+ Adjusted EBITDA adjusts for the impact of items that we do not consider indicative of the operational performance of our business. We define Adjusted EBITDA as net income (loss) excluding income tax provision (benefit); interest expense, net; depreciation and amortization; stock-based compensation expense; transaction-related costs; gain (loss) in fair value of warrant liability; and severance expense, litigation-related costs, and other items, in each case, that are unrelated to our core ongoing business operations. Adjusted EBITDA Margin is calculated by dividing Adjusted EBITDA for a period by revenue for the same period. 
+ Management uses this measure internally to evaluate the performance of our business and this measure is one of the primary metrics by which management and other employees are compensated. We exclude the above items as some are non-cash in nature and others may not be representative of normal operating results. While we believe that Adjusted EBITDA and Adjusted EBITDA Margin are useful in evaluating our business, this information should be considered as supplemental in nature and is not meant as a substitute for the related financial information prepared and presented in accordance with U.S. GAAP. 
+ Free Cash Flow and Free Cash Flow Conversion 
+ We define free cash flow as net cash provided by (used in) operating activities less capitalized software and purchases of property and equipment. Free cash flow is an indicator of liquidity that provides information to our management and investors about the amount of cash generated from operations, after capitalized software development costs and purchases of property and equipment, that can be used to repay debt obligations and/or for strategic initiatives. Free cash flow conversion is calculated by dividing free cash flow for a period by Adjusted EBITDA for the same period. Free cash flow and free cash flow conversion do not represent our residual cash flow available for discretionary purposes and does not reflect our future contractual commitments. 
+ 34 
+
+Table of Contents 
+
+The following table reconciles our non-GAAP financial measures to the most comparable GAAP financial measures for the three and nine months ended September 30, 2024 and 2023. 
+ Three Months Ended September 30, Nine Months Ended September 30, in thousands) 2024 2023 2024 2023 Reconciliation of net income (loss) to Adjusted EBITDA 
+ Net income (loss) 24,681 (437) (7,149) (11,005) Interest expense, net 6,400 11,985 20,254 35,695 Income tax provision 
+ 5,593 1,272 13,238 2,724 Depreciation and amortization 4,241 5,753 12,595 21,845 Litigation-related costs (1) 
+ 396 414 1,479 1,913 Stock-based compensation expense 7,052 3,648 22,642 10,594 Severance expense (2) 
+ 6,744 58 8,077 Management fees (3) 
+ (97) (97) Change in fair value of warrant liability (4) 
+ (8,219) 3,362 45,579 11,581 Other (5) 
+ (43) 157 Adjusted EBITDA 40,144 32,601 108,696 81,484 Revenue 89,325 70,258 247,015 187,605 Net income (loss) margin 
+ 27.6 (0.6) (2.9) (5.9) Adjusted EBITDA Margin 44.9 46.4 44.0 43.4 Net cash provided by operating activities 
+ 29,125 8,313 65,424 23,116 Less: 
+ Capitalized development software costs and purchases of property and equipment 
+ (1,243) (914) (4,087) (3,489) Free cash flow 
+ 27,882 7,399 61,337 19,627 Operating cash flow conversion (6) 
+ 118.0 (1,902.3) (915.1) (210.0) Free cash flow conversion 
+ 69.5 22.7 56.4 24.1 
+ _________________ 
+ (1) Litigation-related costs primarily represent external legal fees associated with outstanding litigation or regulatory matters, including fees incurred in connection with the potential Norwegian Data Protection Authority fine and CWA unionization. 
+ (2) Severance expense relates to severance incurred for employees who elected not to relocate or participate in our RTO Plan and other severance arrangements. 
+ (3) Management fees represent administrative costs associated with San Vicente Holdings LLC's ("SVE") administrative role in managing financial relationships and providing directive on strategic and operational decisions, which ceased to continue after the Business Combination. In September 2023, certain management fees previously accrued were forgiven. 
+ (4) Change in fair value of warrant liability relates to the Warrants that were remeasured as of September 30, 2024 and 2023. 
+ (5) Other represents other costs that are unrelated to our core ongoing business operations. 
+ (6) Operating cash flow conversion represents net cash provided by (used in) operating activities as a percentage of net income (loss). 
+ 
+ Liquidity and Capital Resources 
+ Cash Flows for the Nine Months Ended September 30, 2024 and 2023 
+ The following table summarizes our total cash and cash equivalents: 
+ Nine Months Ended September 30, in thousands) 2024 2023 Cash, and cash equivalents, including restricted cash (as of the end of period) 39,725 31,340 Net cash provided by (used in): Operating activities 65,424 23,116 Investing activities (4,087) (3,489) Financing activities (50,610) 1,596 Net change in cash and cash equivalents 10,727 21,223 
+ 35 
+
+Table of Contents 
+
+Cash flows provided by operating activities 
+ Net cash provided by operating activities is primarily dependent on our revenues and is affected by timing of receipts from subscription and advertising sales. It is also dependent on managing our operating expenses, such as salaries and employee-related costs, selling and marketing expenses, and other general and administrative expenses. We expect to maintain strong operating cash flows given our historical performance. We will continue to try to invest in the right resources to support longer term profitable growth. Our operating cash flows should continue to cover our operating and financing costs. 
+ During the nine months ended September 30, 2024, our operations provided 65.4 million of cash, which was primarily attributable to our net loss, adjusted for non-cash items, which include 45.6 million in loss in fair value of warrant liability, stock-based compensation of 22.6 million, and 12.6 million in depreciation and amortization; partially offset by a decrease in net working capital of 8.3 million, primarily from a 9.4 million increase in account receivables due to the increase in direct revenue and indirect revenue during the year. 
+ During the nine months ended September 30, 2023, our operations provided 23.1 million of cash, which was primarily attributable to our net loss, adjusted for non-cash items, which include 21.8 million in depreciation and amortization, 11.6 million in the fair value change in warrant liability and 6.0 million in other non-cash adjustments; partially offset by a decrease in net working capital of 5.3 million, primarily from a 10.4 million increase in account receivables due to the increase in direct revenue and indirect revenue during the year. 
+ Cash flows used in investing activities 
+ Net cash used in investing activities for the nine months ended September 30, 2024, consisted primarily of additions to capitalized software of 3.4 million. 
+ Net cash used in investing activities for the nine months ended September 30, 2023 consisted primarily of additions to capitalized software of 3.2 million. 
+ Cash flows (used in) provided by financing activities 
+ Net cash used in financing activities for the nine months ended September 30, 2024, consisted primarily of principal payments of debt of 47.1 million, payments to tax authorities for employee equity awards of 5.6 million, net of 2.0 million in proceeds from the exercise of employee stock options. 
+ Net cash provided by financing activities for the nine months ended September 30, 2023 consisted of 19.4 million in proceeds from repayment of a promissory note to a member and related interest, and 2.1 million in proceeds from the exercise of employee stock options, partially offset by 18.7 million related to the principal paydown of our long-term debt. 
+ Sources of Liquidity 
+ Since our inception, we have financed our operations and capital expenditures primarily through cash flows generated by operations, borrowings under our credit facilities, and the sale of equity. To the extent existing cash, investments, and cash from operations are not sufficient to fund future activities, we may need to raise additional funds. We may seek to raise additional funds through equity, equity-linked, or debt financings. If we raise additional funds through the incurrence of additional indebtedness, such indebtedness may have rights that are senior to holders of our equity securities and could contain additional covenants that restrict operations, including our ability to raise additional capital. Any additional equity financing may be dilutive to existing stockholders. We may also enter into investment or acquisition transactions in the future, which could require us to seek additional equity financing, incur indebtedness, or use cash resources. 
+ As of September 30, 2024, we had cash and cash equivalents of 39.1 million. We believe that our cash and cash equivalents, cash flows generated by operations, and borrowings under our revolving credit facility will be sufficient to meet our working capital and capital expenditure needs for the next twelve months. 
+ Senior Secured Credit Facility 
+ See Note 6 to our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q for additional information. 
+ In November 2023, we refinanced our existing credit facility with a new 300.0 million term loan and 50.0 million revolving credit facility. We entered into a credit agreement with JPMorgan Chase Bank, N.A., as the administrative agent, and other lenders party thereto (the 2023 Credit Agreement that governs the term loan and revolving credit facility. We borrowed the full amount of the 300.0 million term loan and 44.4 million under the revolving credit facility upon closing 
+ 36 
+
+Table of Contents 
+
+of the new credit agreement and used the proceeds and cash on hand to repay in full all outstanding obligations under, and terminate, our prior credit agreement with Fortress Credit Corp. As of November 5, 2024, 285.8 million was outstanding under the term loan and 11.6 million was outstanding under the revolving credit facility. In January 2024, April 2024, and June 2024, we repaid 22.0 million, 7.0 million, and 3.8 million, respectively, under our revolving credit facility. We have the option to request that lenders increase the amount available under the revolving credit facility by, or obtain incremental term loans of, up to 100.0 million, subject to the terms of the 2023 Credit Agreement and only if existing or new lenders choose to provide additional term or revolving commitments. 
+ Our wholly owned subsidiary, Grindr Capital LLC, is the borrower under the 2023 Credit Agreement and all obligations of Grindr Capital LLC under the 2023 Credit Agreement are guaranteed by Grindr Inc. and, subject to certain limited exceptions, our wholly owned domestic subsidiaries and are secured by substantially all of the assets of Grindr Inc., Grindr Capital LLC, and the guarantor subsidiaries. 
+ Borrowings under our the 2023 Credit Agreement (other than swingline loans) bear interest at a rate equal to either, at our option, (i) the highest of the Prime Rate (as defined in the 2023 Credit Agreement), the Federal Funds Rate (as defined in the 2023 Credit Agreement) plus 0.50 , or one-month Term SOFR (as defined in the 2023 Credit Agreement) plus 1.00 (the Alternate Base Rate or (ii) Term SOFR, in each case, plus an applicable margin ranging from 2.75 to 3.25 with respect to Term SOFR borrowings and 1.75 to 2.25 with respect to Alternate Base Rate borrowings. The applicable margin will be based upon our total net consolidated leverage ratio. Swingline loans under the 2023 Credit Agreement bear interest at the Alternate Base Rate plus the applicable margin. We are also required to pay a commitment fee for the unused portion of the revolving credit facility, which will range from 0.375 to 0.50 per annum, depending on our total consolidated net leverage ratio. 
+ The term loan will amortize on a quarterly basis at 1.25 of the aggregate principal amount outstanding as of the initial closing date of the 2023 Credit Agreement, until the final maturity date on November 28, 2028. Any borrowings under the revolving credit facility may be repaid, in whole or in part, at any time and from time to time without any other premium or penalty, and any amounts repaid under the revolving credit facility may be reborrowed, in each case, until the maturity date on November 28, 2028. 
+ Mandatory prepayments are required under the revolving credit facility when borrowings and letter of credit usage exceed the aggregate revolving commitments of all lenders. Mandatory prepayments are also required under the term loan in connection with (i) certain asset dispositions and casualty events, in each case, to the extent the proceeds of such dispositions or casualty events exceed certain individual and aggregate thresholds and are not reinvested, and (ii) unpermitted debt transactions. For the three and nine months ended September 30, 2024, we were not required to make any mandatory repayments. 
+ The 2023 Credit Agreement requires compliance with certain financial covenants including a maximum total net leverage ratio and minimum fixed charge coverage ratio. The 2023 Credit Agreement also contains customary restrictive covenants regarding indebtedness, liens, fundamental changes, investments, restricted payments, disposition of assets, transactions with affiliates, hedging transactions, certain prepayments of indebtedness, amendments to organizational documents, and sale and leaseback transactions. The 2023 Credit Agreement contains certain customary events of default. If an event of default has occurred and continues beyond any applicable cure period, all outstanding obligations under the 2023 Credit Agreement may be accelerated or the commitments may be terminated, amongst other remedies. Additionally, the lenders are not obligated to fund any new borrowing under the 2023 Credit Agreement while an event of default is continuing. 
+ 
+ Uses of Cash 
+ 
+ Contractual obligations and other uses of cash 
+ Our principal commitments have not materially changed from our Annual Report on Form 10-K for the year ended December 31, 2023, which consist of obligations under the 2023 Credit Agreement, operating leases for office space, and our payments for the use of cloud services. In addition, we are subject to pending legal proceedings from time to time, including a potential Norwegian Data Protection Authority fine. See Note 6, Note 7 and Note 14 to our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q for additional information. 
+ 
+ Critical Accounting Policies and Estimates 
+ We have based our estimates on historical experience and on various other assumptions that are believed to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of 
+ 37 
+
+Table of Contents 
+
+assets and liabilities that are not readily apparent from other sources. Due to the inherent uncertainty involved in making these estimates, actual results reported in future periods could differ from our estimates. 
+ There have been no material changes to our discussion of critical accounting estimates from those set forth in our Annual Report on Form 10-K for the year ended December 31, 2023. 
+ 
+ Recently Issued and Adopted Accounting Pronouncements 
+ For a discussion of recent accounting pronouncements, see Note 2 to our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q for additional information. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ We are a smaller reporting company as defined by Item 10 of Regulation S-K and are not required to provide the information otherwise required under this item. 
+ 
+ Item 4. Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ Disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) are controls and other procedures that are designed with the objective of ensuring that information required to be disclosed in our reports filed under the Exchange Act is recorded, processed, summarized, and reported within the time period specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed with the objective of ensuring that such information required to be disclosed in reports we file or submit under the Exchange Act is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. 
+ Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures, as of the end of the period covered by this Quarterly Report on Form 10-Q. Based on such evaluation, our Chief Executive Officer and Chief Financial Officer have concluded that as of September 30, 2024, our disclosure controls and procedures were not effective at a reasonable assurance level as a result of the material weakness that existed in our payroll processes as of September 30, 2024, as discussed in Item 9A. Controls and Procedures Management s Report on Internal Control Over Financial Reporting in our Annual Report on Form 10-K for the year ended December 31, 2023, as amended. 
+ Remediation Plan 
+ As of September 30, 2024, we have designed and implemented controls and processes to remediate the material weakness indicated above. The material weakness will not be considered remediated until management designs and implements effective controls that operate for a sufficient period of time and management has concluded, through testing, that these controls are effective. 
+ Changes in Internal Control over Financial Reporting 
+ There were no changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act) during the most recent fiscal quarter that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 38 
+
+Table of Contents 
+
+PART II OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings 
+ In the ordinary course of business, we are involved in various claims, lawsuits, government investigations, settlements and proceedings relating to our operations. Although the results of the claims, lawsuits, government investigations, and proceedings in which we are involved cannot be predicted with certainty, we do not believe the final outcome of certain matters will have a material adverse effect on our business, financial condition, or results of operations, other than those proceedings for which it is too early to determine the materiality and probability of outcome. Information relating to various commitments and contingencies is described in Note 14 to our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q. 
+ In the future, we may be subject to additional legal proceedings, the scope and severity of which is unknown and which could adversely affect our business. In addition, from time to time, others may assert claims against us and we may assert claims and legal proceedings against other parties, including in the form of letters and other forms of communication. 
+ The results of any current or future legal proceedings cannot be predicted with certainty and, regardless of the outcome, can have an adverse impact on us because of defense and settlement costs, diversion of management resources and other factors. 
+ 
+ Item 1A. Risk Factors 
+ Except as set forth below, there have been no material changes from the risk factors previously disclosed in Item 1A. Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2023, as amended. 
+ Our integration of artificial intelligence-driven features, including Wingman, may expose us to a variety of legal, reputational, operational, and regulatory risks. 
+ We are in the process of building artificial intelligence AI technologies into our services, including generative AI and machine learning ML ). For example, we are creating the Grindr Wingman, which is intended to be an assistant helping users navigate our app and enhance their overall user experience. The adoption of AI processes and algorithms into our daily operations and our app, including through offerings like Wingman, may result in adverse effects to our operations, legal liability, reputation, and competitive risks. See Risks Related to our Brand, Products and Services, and Operations We use generative artificial intelligence and machine learning in our products and services which may result in operational challenges, legal liability, reputational concerns, competitive risks and regulatory concerns that could adversely affect our business and results of operations. in Item 1A Risk Factors of Part I of our Annual Report. 
+ AI chat and other AI-driven features, particularly in socially intimate contexts, have come under heightened legal and regulatory scrutiny. The cost of compliance or potential non-compliance with new or existing regulations could be significant and could require us to adjust our features or face penalties. In addition, the risks we face from a potential narrowing of Section 230 of the Communications Decency Act are exacerbated as we increasingly use AI, ML, and other algorithmic approaches to suggest specific users that other users may be interested in connecting with. We may face lawsuits, regulatory inquiries, and other adverse actions seeking to hold us liable for harms suffered by a user as a result of online or physical interactions with other users with whom our systems or Wingman suggested that they consider connecting. See R isks Related to Regulation and Litigation Activities of our users or content made available by such users could subject us to liability, including with respect to user safety. and Online applications are subject to various laws and regulations relating to children s privacy and protection, which, if violated, could subject us to an increased risk of litigation and regulatory actions. in Item 1A Risk Factors of Part I of our Annual Report. 
+ Moreover, the move to AI content generation through our development of Wingman and other AI features brings additional risks and responsibility. Known risks of generative AI currently include risks related to accuracy, bias, toxicity, privacy, security, and data provenance, including intellectual property issues. AI-driven features within the Grindr app may generate responses that are perceived as inappropriate, inaccurate, insensitive, or harmful, impacting user satisfaction and safety. AI-generated messages, despite safeguards, may suggest or lead to interactions or user behaviors that could be harmful or offensive. This could lead to user dissatisfaction, increased support costs, potential claims against us, or reputational harm. Uncertainty around new and emerging AI applications such as generative AI content creation will require additional investment in the licensing or development of proprietary datasets; AI and ML models; and systems to test for accuracy, bias, and other variables, which are often complex, may be costly and could impact our profit margin. If we are unable to successfully adapt or scale Wingman and other AI features in a manner that enhances rather than diminishes user experience, our investment in this area could fail to yield anticipated returns, or may even impact user trust, discourage engagement, and ultimately lead to decreased retention. 
+ 39 
+
+Table of Contents 
+
+Wingman and other AI-driven features require data processing that could also expose us to data privacy and security risks, or subject us to increased regulatory obligations. See Risks Related to Regulation and Litigation The varying and rapidly evolving regulatory framework on privacy and data protection, including across jurisdictions and other obligations, could result in claims, changes to our business practices, monetary penalties, increased cost of operations, or declines in user growth or engagement, or otherwise harm our business. in Item 1A Risk Factors of Part I of our Annual Report. 
+ We are developing and may develop Wingman and other AI technologies in part via open source, commercial, and non-commercial license agreements. If these third-party platforms fail to meet performance expectations, it could result in degraded user experiences or system disruptions that may harm user satisfaction and engagement. Additionally, if we lose access to third-party large language models or other AI- or ML-related technologies that we rely on, we may be unable to maintain key features or may incur substantial costs to transition to alternative solutions. Any interruptions or loss of functionality resulting from our reliance on these third-parties could adversely impact our business, reputation, and financial results. 
+ Failure to effectively manage these risks associated with Wingman and other AI-driven features could harm our reputation; reduce user engagement; and materially impact our business, financial condition, and results of operations. 
+ 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ None. 
+ 
+ Item 3. Defaults Upon Senior Securities 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures 
+ Not applicable. 
+ 
+ Item 5. Other Information 
+ 
+ , 
+ Adoption 
+ 
+ (4) 
+ , 
+ Adoption , 
+ Adoption 
+ (1) Contract, instruction or written plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. (2) Non-Rule 10b5-1 trading arrangement as defined in Item 408(c) of Regulation S-K under the Exchange Act. (3) Represents the maximum number of shares that may be sold pursuant to the Rule 10b5-1 arrangement. The actual number of shares sold will be dependent on the satisfaction of certain conditions as set forth in the written plan. (4) 
+ Includes shares of common stock subject to restricted stock units RSUs previously granted to Mr. Balance that may vest and be released on or prior to December 31, 2025. The actual number of shares that will be released to Mr. Balance in respect of such RSUs and sold pursuant to the Rule 10b5-1 trading arrangement will be net of the number of shares withheld by the Company to cover tax withholding obligations arising from the vesting of such RSUs and is not yet determinable. 
+ 
+ 40 
+
+Table of Contents 
+
+Item 6. Exhibits 
+ The following is a list of all exhibits filed or furnished as part of this report: 
+ 
+ Exhibit No. Description Form File Number Exhibit 
+ Filing Date 3.1 
+ Restated Certificate of Incorporation of Grindr Inc., dated November 18, 2022. Form S-1/A 333-268782 3.1 February 9, 2023 3.2 
+ Bylaws of Grindr Inc., dated November 18, 2022. Form 8-K 001-39714 3.2 November 23, 2022 10.1 
+ Grindr Inc. Amended and Restated 2022 Equity Incentive Plan and forms of award agreement thereunder. Form 8-K 
+ 001-39714 
+ 10.1 
+ July 25, 2024 
+ 31.1 
+ Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 31.2 
+ Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 32.1 
+ Certification of Principal Executive Officer and Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 101.SCH Inline XBRL Taxonomy Extension Schema with Embedded Linkbase Document 
+ 104 Cover page formatted as inline XBRL and contained in Exhibit 101 
+
+Filed herewith. 
+ Previously filed. 
+ Furnished herewith and not deemed to be filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), and shall not be deemed to be incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Exchange Act (whether made before or after the date of this Quarterly Report on Form 10-Q), irrespective of any general incorporation language contained in such filing. 
+ 
+ 41 
+
+Table of Contents 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized in the City of West Hollywood, State of California, on November 8, 2024 . 
+ 
+ GRINDR INC. By: /s/ Vandana Mehta-Krantz 
+ Vandana Mehta-Krantz Chief Financial Officer 
+ (Principal Financial Officer and Duly Authorized Signatory) 
+
+42 
+
+<EX-31.1>
+ 2
+ grindr-10xqq32024x311certi.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATIONS 
+ 
+ I, George Arison, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Grindr Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 8, 2024 
+ 
+ s George Arison 
+ George Arison 
+ Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ grindr-10xqq32024x312certi.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATIONS 
+ I, Vandana Mehta-Krantz, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Grindr Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 8, 2024 
+ s Vandana Mehta-Krantz 
+ Vandana Mehta-Krantz 
+ Chief Financial Officer 
+ (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ grindr-10xqq32024x321certi.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION 
+ Pursuant to the requirement set forth in Rule 13a-14(b) of the Securities Exchange Act of 1934, as amended, (the Exchange Act and Section 1350 of Chapter 63 of Title 18 of the United States Code (18 U.S.C. 1350), George Arison, Chief Executive Officer of Grindr Inc. (the Company ), and Vandana Mehta-Krantz, Chief Financial Officer of the Company, each hereby certifies that, to the best of their knowledge 
+ 1. The Company s Quarterly Report on Form 10-Q for the fiscal quarter ended September 30, 2024, to which this Certification is attached as Exhibit 32.1 (the Quarterly Report ), fully complies with the requirements of Section 13(a) or Section 15(d) of the Exchange Act and 
+ 2. The information contained in the Quarterly Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ In Witness Whereof , the undersigned have set their hands hereto as of November 8, 2024. 
+
+s George Arison 
+ s Vandana Mehta-Krantz 
+ George Arison 
+ Chief Executive Officer 
+ (Principal Executive Officer) 
+ Vandana Mehta-Krantz 
+ Chief Financial Officer 
+ (Principal Financial Officer) 
+ 
+ This certification accompanies the Form 10-Q to which it relates, is not deemed filed with the Securities and Exchange Commission and is not to be incorporated by reference into any filing of Grindr Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before or after the date of the Form 10-Q), irrespective of any general incorporation language contained in such filing. 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ grnd-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ grnd-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ grnd-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ grnd-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ grnd-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

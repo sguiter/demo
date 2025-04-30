@@ -1,0 +1,1111 @@
+<Header>
+<FileStats>
+    <FileName>20241209_10-Q_edgar_data_1836833_0001836833-24-000118.txt</FileName>
+    <GrossFileSize>9078186</GrossFileSize>
+    <NetFileSize>146345</NetFileSize>
+    <NonText_DocumentType_Chars>1577771</NonText_DocumentType_Chars>
+    <HTML_Chars>3034685</HTML_Chars>
+    <XBRL_Chars>2271344</XBRL_Chars>
+    <XML_Chars>1883336</XML_Chars>
+    <N_Exhibits>10</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001836833-24-000118.hdr.sgml : 20241209
+<ACCEPTANCE-DATETIME>20241209162704
+ACCESSION NUMBER:		0001836833-24-000118
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		92
+CONFORMED PERIOD OF REPORT:	20241031
+FILED AS OF DATE:		20241209
+DATE AS OF CHANGE:		20241209
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Planet Labs PBC
+		CENTRAL INDEX KEY:			0001836833
+		STANDARD INDUSTRIAL CLASSIFICATION:	RADIO & TV BROADCASTING & COMMUNICATIONS EQUIPMENT [3663]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40166
+		FILM NUMBER:		241535428
+
+	BUSINESS ADDRESS:	
+		STREET 1:		645 HARRISON STREET
+		STREET 2:		FLOOR 4
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+		BUSINESS PHONE:		(415) 829-3313
+
+	MAIL ADDRESS:	
+		STREET 1:		645 HARRISON STREET
+		STREET 2:		FLOOR 4
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94107
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	dMY Technology Group, Inc. IV
+		DATE OF NAME CHANGE:	20201216
+
+</SEC-Header>
+</Header>
+
+ 0001836833-24-000118.txt : 20241209
+
+10-Q
+ 1
+ pl-20241031.htm
+ 10-Q
+
+pl-20241031 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the transition period from _______________ to _______________. 
+ Commission file number 
+ 
+ (Exact name of registrant as specified in its charter) 
+ 
+ (State or other jurisdiction of incorporation or organization) 
+ (I.R.S. Employer Identification No.) 
+ , , , 
+ 
+ (Address of principal executive offices) 
+ (Zip Code) 
+ 
+ ) 
+ (Registrant's telephone number, including area code) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days. No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act: 
+ 
+ Accelerated filer 
+ 
+ Non-accelerated filer 
+ 
+ Smaller reporting company 
+ 
+ Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ 1 
+
+Table of Contents 
+
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+ 
+ The registrant had outstanding shares of Class A common stock, and outstanding shares of Class B common stock, as of December 3, 2024. 
+
+2 
+
+Table of Contents 
+
+ TABLE OF CONTENTS 
+ 
+ Page Part I. - Financial Information 
+ Item 1. Financial Statements (unaudited) 
+ Condensed Consolidated Balance Sheets 
+ 6 
+ Condensed Consolidated Statements of Operations 
+ 7 
+ Condensed Consolidated Statements of Comprehensive Loss 
+ 8 
+ Condensed Consolidated Statements of Stockholders Equity 
+ 9 
+ Condensed Consolidated Statements of Cash Flows 
+ 11 
+ Notes to Condensed Consolidated Financial Statements 
+ 12 
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 33 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 48 
+ Item 4. Controls and Procedures 
+ 48 
+ Part II - Other Information 
+ Item 1. Legal Proceedings 
+ 48 
+ Item 1A. Risk Factors 
+ 48 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 49 
+ Item 3. Defaults Upon Senior Securities 
+ 49 
+ Item 4. Mine Safety Disclosures 
+ 49 
+ Item 5. Other Information 
+ 49 
+ Item 6. Exhibits 
+ 50 
+ Signatures 
+ 51 
+
+3 
+
+Table of Contents 
+
+Unless the context otherwise requires, the Company , Planet , we , our , us and similar terms refer to Planet Labs PBC, a Delaware public benefit corporation (f/k/a dMY Technology Group, Inc. IV, a Delaware corporation), and its consolidated subsidiaries. 
+ 
+ Cautionary Note Regarding Forward Looking Information 
+ 
+ This Quarterly Report on Form 10-Q for the quarter ended October 31, 2024 (the Form 10-Q or this report includes statements that express Planet s opinions, expectations, beliefs, plans, objectives, assumptions or projections regarding future events or future results and therefore are, or may be deemed to be, forward-looking statements. Words such as expect, estimate, project, budget, forecast, anticipate, intend, plan, seek, may, will, could, can, should, would, believes, predicts, potential, strategy, opportunity, aim, continue, and similar expressions or the negative thereof, or discussions of strategy, plans, objectives, intentions, estimates, forecasts, outlook, assumptions, or goals, are intended to identify such forward-looking statements. Forward-looking statements appear in a number of places throughout this report and include statements regarding our intentions, beliefs or current expectations concerning, among other things, our results of operations, financial condition, liquidity, prospects, growth, strategies and the markets in which Planet operates. Factors that may impact such forward-looking statements include: 
+ our future financial performance, including expectations regarding our revenue, cost of revenue, operating expenses, capital expenditures, cash flows and our ability to achieve profitability; 
+ our ability to attract and retain customers, including our ability to renew existing contracts and expand our relationships with existing customers; 
+ our expectations regarding the value of our offerings to our customers over time; 
+ our expectations regarding market growth, including our ability to grow in existing markets and expand into new markets; 
+ our ability to continue to improve our data and offer software and analytic solutions to improve the value of our data; 
+ our ability to continue to invest in our sales and marketing, software platform development, machine learning and analytic tools as well as our applications and new satellite technologies; 
+ our relationships with third-party partners, vendors and solution providers; 
+ our ability to manage risks and challenges associated with our financial condition and results of operations; 
+ our expectations regarding the future impact of seasonality on our business; 
+ our management of future growth and business operations, as well as the expected results of our workforce reduction; 
+ our expectations regarding the realization of our U.S. and foreign deferred tax assets; 
+ our ability to maintain, protect and enhance our intellectual property; and 
+ the increased expenses associated with being a public company. 
+ The foregoing list may not contain all of the forward-looking statements made in this Form 10-Q. Such forward-looking statements are based on available current market material and our current expectations, beliefs and forecasts concerning future events and their potential effects on Planet. The outcome of the events described in these forward-looking statements is subject to known and unknown risks, uncertainties, and other factors, including those described in the Risk Factors section of our most recent Annual Report on Form 10-K, this Form 10-Q, as well as the other documents filed by us from time to time with the U.S. Securities and Exchange Commission SEC ). We operate in a rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Form 10-Q. We cannot assure you that the results, events, and circumstances reflected in the forward-looking statements will be achieved or occur, and actual results, events, or circumstances could differ materially from those described in the forward-looking statements. 
+ 4 
+
+Table of Contents 
+
+ The forward-looking statements contained in this Form 10-Q are based on information available to us at the time of filing of this Form 10-Q and relate only to events as of the date on which the statements are made . We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws. 
+ 
+ 5 
+
+Table of Contents 
+
+ Part I. - Financial Information 
+ 
+ Item 1. Financial Statements. 
+ 
+ Planet Labs PBC 
+ Condensed Consolidated Balance Sheets (Unaudited) 
+ (in thousands, except share and par value amounts) 
+ October 31, 2024 January 31, 2024 Assets Current assets Cash and cash equivalents Restricted cash and cash equivalents, current Short-term investments Accounts receivable, net of allowance of and , respectively 
+ Prepaid expenses and other current assets Total current assets Property and equipment, net Capitalized internal-use software, net Goodwill Intangible assets, net Restricted cash and cash equivalents, non-current Operating lease right-of-use assets Other non-current assets Total assets Liabilities and Stockholders Equity Current liabilities Accounts payable Accrued and other current liabilities Deferred revenue Liability from early exercise of stock options Operating lease liabilities, current Total current liabilities Deferred revenue Deferred hosting costs Public and private placement warrant liabilities Operating lease liabilities, non-current Contingent consideration Other non-current liabilities Total liabilities Commitments and contingencies (Note 10) par value, , and Class A, Class B and Class C shares authorized at October 31, 2024 and January 31, 2024, and Class A shares issued and outstanding at October 31, 2024 and January 31, 2024, respectively, Class B shares issued and outstanding at October 31, 2024 and January 31, 2024, Class C shares issued and outstanding at October 31, 2024 and January 31, 2024 
+ Additional paid-in capital Accumulated other comprehensive income Accumulated deficit ) ) Total stockholders equity Total liabilities and stockholders equity 
+
+See accompanying notes to unaudited condensed consolidated financial statements. 
+ 6 
+
+Table of Contents 
+
+ Planet Labs PBC 
+ Condensed Consolidated Statements of Operations (Unaudited) 
+ 
+ Three Months Ended October 31, Nine Months Ended October 31, (in thousands, except share and per share amounts) 
+ 2024 2023 2024 2023 Revenue Cost of revenue Gross profit Operating expenses Research and development Sales and marketing General and administrative Total operating expenses Loss from operations ) ) ) ) Interest income Change in fair value of warrant liabilities Other income (expense), net ) ) Total other income, net Loss before provision for income taxes ) ) ) ) Provision for income taxes Net loss ) ) ) ) Basic and diluted net loss per share attributable to common stockholders Basic and diluted weighted-average common shares outstanding used in computing net loss per share attributable to common stockholders 
+
+See accompanying notes to unaudited condensed consolidated financial statements. 
+ 7 
+
+Table of Contents 
+
+ Planet Labs PBC 
+ Condensed Consolidated Statements of Comprehensive Loss (Unaudited) 
+ 
+ Three Months Ended October 31, Nine Months Ended October 31, (in thousands) 2024 2023 2024 2023 Net loss ) ) ) ) Other comprehensive income (loss), net of tax: Foreign currency translation adjustment ) ) ) Change in fair value of available-for-sale securities ) ) Other comprehensive income (loss), net of tax ) ) ) Comprehensive loss ) ) ) ) 
+ 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+ 8 
+
+Table of Contents 
+
+ Planet Labs PBC 
+ Condensed Consolidated Statements of Stockholders Equity (Unaudited) 
+ 
+ (in thousands, except share amounts) 
+ Common Stock Additional Paid-in Capital Accumulated 
+ Other 
+ Comprehensive 
+ Income (Loss) 
+ Accumulated 
+ Deficit 
+ Total 
+ Stockholders 
+ Equity 
+ Shares Amount Balances at January 31, 2023 ) Issuance of Class A common stock from the exercise of common stock options Issuance of Class A common stock upon vesting of restricted stock units Vesting of early exercised stock options Class A common stock withheld to satisfy employee tax withholding obligations ) ) ) Stock-based compensation Net unrealized loss on available-for-sale securities, net of taxes ) ) Change in translation ) ) Net loss ) ) Balances at April 30, 2023 ) Issuance of Class A common stock from the exercise of common stock options Issuance of Class A common stock upon vesting of restricted stock units Vesting of early exercised stock options Class A common stock withheld to satisfy employee tax withholding obligations ) ) ) Stock-based compensation Net unrealized loss on available-for-sale securities, net of taxes ) ) Change in translation Net loss ) ) Balances at July 31, 2023 ) Issuance of Class A common stock from the exercise of common stock options Issuance of Class A common stock upon vesting of restricted stock units Issuance of Class A common stock related to business combination Vesting of early exercised stock options Class A common stock withheld to satisfy employee tax withholding obligations ) ) ) Stock-based compensation Net unrealized gain on available-for-sale securities, net of taxes Change in translation ) ) Net loss ) ) Balances at October 31, 2023 ) ) 
+ 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+ 9 
+
+Table of Contents 
+
+ Common Stock Additional Paid-in Capital Accumulated 
+ Other 
+ Comprehensive 
+ Income (Loss) 
+ Accumulated 
+ Deficit 
+ Total 
+ Stockholders 
+ Equity 
+ Shares Amount Balances at January 31, 2024 ) Issuance of Class A common stock from the exercise of common stock options Issuance of Class A common stock upon vesting of restricted stock units Vesting of early exercised stock options Class A common stock withheld to satisfy employee tax withholding obligations ) ) ) Stock-based compensation Net unrealized loss on available-for-sale securities, net of taxes ) ) Change in translation ) ) Net loss ) ) Balances at April 30, 2024 ) Issuance of Class A common stock from the exercise of common stock options Issuance of Class A common stock upon vesting of restricted stock units Vesting of early exercised stock options Class A common stock withheld to satisfy employee tax withholding obligations ) ) ) Stock-based compensation Net unrealized gain on available-for-sale securities, net of taxes Change in translation Net loss ) ) Balances at July 31, 2024 ) Issuance of Class A common stock from the exercise of common stock options Issuance of Class A common stock upon vesting of restricted stock units Issuance of Class A common stock for employee stock purchase program Vesting of early exercised stock options Class A common stock withheld to satisfy employee tax withholding obligations ) ) ) Stock-based compensation Net unrealized gain on available-for-sale securities, net of taxes Change in translation Net loss ) ) Balances at October 31, 2024 ) 
+ 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+ 10 
+
+Table of Contents 
+
+ Planet Labs PBC 
+ Condensed Consolidated Statements of Cash Flows (Unaudited) 
+ 
+ Nine Months Ended October 31, (in thousands) 2024 2023 Operating activities Net loss ) ) Adjustments to reconcile net loss to net cash used in operating activities Depreciation and amortization Stock-based compensation, net of capitalized cost of and , respectively 
+ Change in fair value of warrant liabilities ) ) Change in fair value of contingent consideration ) Other ) ) Changes in operating assets and liabilities Accounts receivable ) Prepaid expenses and other assets Accounts payable, accrued and other liabilities ) ) Deferred revenue Deferred hosting costs ) ) Net cash used in operating activities ) ) Investing activities Purchases of property and equipment ) ) Capitalized internal-use software ) ) Maturities of available-for-sale securities Sales of available-for-sale securities Purchases of available-for-sale securities ) ) Business acquisition, net of cash acquired ) ) Purchases of licensed imagery intangible assets ) Other ) ) Net cash provided by (used in) investing activities ) Financing activities Proceeds from the exercise of common stock options Payments for withholding taxes related to the net share settlement of equity awards ) ) Proceeds from employee stock purchase program Payments of contingent consideration for business acquisitions ) Other ) ) Net cash used in financing activities ) ) Effect of exchange rate changes on cash and cash equivalents, and restricted cash and cash equivalents ) Net increase (decrease) in cash and cash equivalents, and restricted cash and cash equivalents ) Cash and cash equivalents, and restricted cash and cash equivalents at the beginning of the period Cash and cash equivalents, and restricted cash and cash equivalents at the end of the period 
+ 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+
+11 
+
+Table of Contents 
+
+ Planet Labs PBC 
+ Notes to Unaudited Condensed Consolidated Financial Statements 
+
+(1) 
+
+(2) 
+ 
+ 12 
+
+Table of Contents 
+
+ operating segment and reportable segment, as the CODM reviews financial information presented on a consolidated basis for purposes of making operating decisions, allocating resources, and evaluating financial performance. 
+ See Note 3, Revenue , for revenue by geographic region. See Note 6, Balance Sheet Components , for long-lived assets by geographic region. 
+ million. 
+ Accounts receivable are typically unsecured and are derived from revenue earned from customers across various countries. One customer accounted for of accounts receivable as of October 31, 2024. As of January 31, 2024, no customer accounted for 10 or more of accounts receivable. 
+ For the three and nine months ended October 31, 2024, one customer accounted for of revenue. For the three and nine months ended October 31, 2023, one customer accounted for and of revenue, respectively. 
+ 
+ Significant Accounting Policies 
+ The Company s significant accounting policies are included in Note 2 of its Consolidated Financial Statements included in the 2024 Form 10-K. 
+ 13 
+
+Table of Contents 
+
+(3) 
+ million and million, respectively, that had been included in deferred revenue as of January 31, 2024 and 2023, respectively. 
+ 
+ Remaining Performance Obligations 
+ The Company often enters into multi-year imagery licensing arrangements with its customers, whereby the Company generally invoices the amount for the first year of the contract at signing followed by subsequent annual invoices. Remaining performance obligations represent the amount of contracted future revenue that has not yet been recognized, which includes both deferred revenue and non-cancelable contracted revenue that will be invoiced and recognized in revenue in future periods. The Company s remaining performance obligations were million as of October 31, 2024, which consists of both deferred revenue of million and non-cancelable contracted revenue that will be invoiced in future periods of million. The Company expects to recognize approximately of the remaining performance obligation over the next months, approximately of the remaining obligation over the next months, and the remainder thereafter. 
+ Remaining performance obligations do not include unexercised contract options, written orders where funding has not been appropriated and contracts which provide the customer with a right to terminate for convenience without incurring a substantive termination penalty. 
+ 
+ Disaggregation of Revenue 
+ Rest of world Total revenue 
+ 
+ No single country other than the U.S. accounted for more than 10 of revenue for the three and nine months ended October 31, 2024 and 2023. 
+ 
+ Costs to Obtain and Fulfill a Contract 
+ Commissions paid to the Company s direct sales force are considered incremental costs of obtaining a contract with a customer. Accordingly, commissions are capitalized when incurred and amortized to sales and marketing expense over the period of benefit from the underlying contracts. The period of benefit from the underlying contract is consistent with the timing of transfer to the performance obligations to which the capitalized costs relate, and is generally consistent with the contract term. 
+ During the three and nine months ended October 31, 2024, the Company capitalized million and million of deferred commission expenditures to be amortized in future periods, respectively. The Company s amortization of deferred commission expenditures was million and million for the three and nine month periods ended October 31, 2024, respectively. 
+ During the three and nine months ended October 31, 2023, the Company capitalized million and million of deferred commission expenditures to be amortized in future periods, respectively. The Company s amortization of deferred commission expenditures was million and million for the three and nine month periods ended October 31, 2023, respectively. 
+ 14 
+
+Table of Contents 
+
+ Deferred commission, non-current Total deferred commission 
+ The current portion of deferred commissions are included in prepaid expenses and other current assets on the condensed consolidated balance sheets. The non-current portion of deferred commissions are included in other non-current assets on the condensed consolidated balance sheets. 
+
+(4) 
+ 
+ Restricted cash equivalents: money market funds Short-term investments: U.S. Treasury securities Commercial paper Corporate bonds Certificates of deposit Total assets Liabilities Public Warrants Private Placement Warrants Contingent consideration for acquisitions Total liabilities 
+ 15 
+
+Table of Contents 
+
+ Restricted cash equivalents: money market funds Short-term investments: U.S. Treasury securities Commercial paper Corporate bonds U.S. government agency securities Certificates of deposit Total assets Liabilities Public Warrants Private Placement Warrants Contingent consideration for acquisitions Total liabilities 
+ The fair value of cash held in banks and accrued and other current liabilities approximate the stated carrying value due to the short time to maturity and are excluded from the tables above. 
+ Money Market Funds 
+ The fair value of the Company s money market funds is based on quoted active market prices for the funds and is determined using the market approach. There were no realized or unrealized gains or losses on money market funds for the three and nine months ended October 31, 2024 and 2023. 
+ Short-term Investments 
+ The fair value of the Company s short-term investments classified within Level 1 are valued using quoted active market prices for the securities. The fair value of the Company s short-term investments classified within Level 2 are valued using third-party pricing services. The pricing services utilize industry standard valuation models. Inputs utilized include market pricing based on real-time trade data for the same or similar securities and other significant inputs derived from or corroborated by observable market data. 
+ Public and Private Placement Warrants 
+ The Public Warrants are classified within Level 1 as they are publicly traded and had an observable market price in an active market. 
+ The Private Placement Warrants (excluding the Private Placement Vesting Warrants) were valued based on a Black-Scholes option pricing model. Due to the market condition vesting requirements, the fair value of the Private Placement Vesting Warrants were valued using a model based on multiple stock price paths developed through the use of a Monte Carlo simulation that incorporates into the valuation the possibility that the market condition targets may not be satisfied. The Private Placement Warrants were collectively classified as a Level 3 measurement within the fair value hierarchy because these valuation models involve the use of unobservable inputs relating to the Company s estimate of its expected stock volatility. The expected volatility input utilized for the fair value measurements of the Private Placement Warrants as of October 31, 2024 and January 31, 2024 was . 
+ Contingent Consideration for Acquisitions 
+ The Company has recorded contingent consideration liabilities in connection with its acquisitions of Salo Sciences and Sinergise (see Note 5, Acquisitions , for the acquisition of Sinergise. See Note 6 of the Company s Consolidated Financial Statements included in the 2024 Form 10-K). The Company measures the fair value of the contingent consideration liabilities based on significant inputs not observable in the market, which caused them to be classified as a Level 3 measurement within the fair value hierarchy. 
+ 16 
+
+Table of Contents 
+
+ -year performance period, the probability of entering into contracts with the named customers and discounting the probability-weighed earnout payments to present value. The significant unobservable inputs used in the fair value measurement are management s estimate of obtaining the customer contracts, including probabilities, timing and contract values, and management s estimate of the discount rate. 
+ The fair value of the contingent consideration liability for the Sinergise customer consent escrow is determined based on the present value of the probability-weighted payments based on the likelihood of the customer consent being achieved. The significant unobservable input used in the fair value measurement is management s estimate of the likelihood of the customer consent being achieved. 
+ 17 
+
+Table of Contents 
+
+ Change in fair value ) ) Fair value at April 30, 2023 Change in fair value ) ) Fair value at July 31, 2023 Additions Payments ) Change in fair value ) ) Fair value at October 31, 2023 Fair value at end of year, January 31, 2024 Payments ) Change in fair value ) ) Fair value at April 30, 2024 Payments ) Change in fair value Fair value at July 31, 2024 Payments ) Change in fair value ) Fair value at October 31, 2024 
+ The current portion of the contingent consideration liabilities balances of million and million as of October 31, 2024 and January 31, 2024, respectively, are included within accrued and other current liabilities. Changes in fair value of the contingent consideration liability for the Salo Sciences technical milestone payments are included within research and development expenses. Changes in fair value of the Salo Sciences contingent consideration liability for customer contract earnout payments are included within sales and marketing expenses. Changes in fair value of the contingent consideration liability for the Sinergise acquisition customer consent escrow payments are included within general and administrative expenses. During the three months ended October 31, 2024, evidence of the Sinergise acquisition customer consent was received and the million in escrow was released to Sinergise. 
+ Other 
+ The Company measures certain non-financial assets including property and equipment, and other intangible assets at fair value on a non-recurring basis in periods after initial measurement in circumstances when the fair value of such assets are impaired below their recorded cost. As of October 31, 2024 and January 31, 2024, there were no material non-financial assets recorded at fair value. 
+
+(5) 
+ 18 
+
+Table of Contents 
+
+ million, and consisted of the following: 
+ Class A common stock issued 
+ Liabilities for cash consideration placed in escrow account Total 
+ The common stock issued consisted of shares of the Company s Class A common stock. The fair value of the Class A common stock was determined based on the closing market price on the date of the acquisition. 
+ In April 2024, the Company paid million of additional consideration in connection with the finalization of the net working capital adjustment relating to the Company s acquisition of Sinergise. The additional amount was accounted for as a measurement period adjustment and resulted in a million addition of goodwill during the nine months ended October 31, 2024. 
+ Pursuant to the terms of the asset purchase agreement, the Company placed million of cash consideration into an escrow account to secure potential indemnification obligations and any customary post-closing adjustments for working capital and indebtedness (the Indemnity Escrow ). The amount held in the escrow account is to be released to Sinergise upon the anniversary of the acquisition close date. The Company recorded a liability of million for the Indemnity Escrow. 
+ Pursuant to the terms of the asset purchase agreement, the Company placed an additional million of cash consideration into an escrow account related to obtaining customer consent for a contract acquired in connection with the acquisition (the Customer Consent Escrow ). The amount held in the escrow account is to be released to Sinergise upon the Company receiving evidence of the customer consent. If evidence of the customer consent is not received on or prior to the two year anniversary of the acquisition close date, the amount held in the Customer Consent Escrow is to be released to the Company. Additionally, the amount held in the Customer Consent Escrow is to be released to the Company if the customer contract is terminated or suspended on or prior to the anniversary of the acquisition close date. The Company determined that the customer consent contingency represents contingent consideration. The fair value of the contingent consideration liability as of the acquisition date was determined to be million. Refer to Note 4 for information relating to the valuation of the Customer Consent Escrow contingent consideration. 
+ Cash held in escrow related to the acquisition is recorded within restricted cash and cash equivalents in the Company s condensed consolidated balance sheets. 
+ 
+ 19 
+
+Table of Contents 
+
+ Identifiable intangible assets acquired Developed technology Customer relationships Other Accounts receivable Other assets, current Other assets, non-current Total assets acquired Deferred revenue, current ) Accrued and other current liabilities ) Other liabilities, current ) Other liabilities, non-current ) Total liabilities assumed ) Net assets acquired 
+ 
+ The identifiable intangible assets were measured at fair value. The developed technology was valued using the royalty method under the income approach. The customer relationships were valued using the excess earnings method under the income approach. The developed technology was assigned an estimated useful life of years and the customer relationships were assigned an estimated useful life of years. 
+ The excess of purchase consideration over the fair value of other assets acquired and liabilities assumed was recorded as goodwill. The goodwill primarily represents the value expected from the synergies created through the operational enhancement benefits resulting from the integration of Sinergise into the Company and the combination of Sinergise s products and solutions with the Company s existing products. Approximately million of the goodwill is deductible for tax purposes. 
+ The financial results of Sinergise are included in the condensed consolidated financial statements from the date of acquisition. Pro forma results of operations have not been presented as the effect of this acquisition was not material to the condensed consolidated financial statements. 
+ Acquisition-related costs associated with the transaction were million and million for the three and nine months ended October 31, 2023, respectively. These costs were recorded within selling, general and administrative expenses. 
+ 
+ Certain employees of Sinergise, which became employees of the Company, were paid cash transaction bonuses totaling million in connection with the closing of the acquisition. The transaction bonuses were accounted for as a transaction separate from the business combination. million of the consideration paid by the Company was allocated to the transaction bonuses and was recorded within the Company s condensed consolidated statements of operations as summarized in the table below: 
+ 
+ Research and development Sales and marketing General and administrative Total 
+
+20 
+
+Table of Contents 
+
+ (6) 
+ million and million as of October 31, 2024 and January 31, 2024, respectively. 
+ The restricted cash and cash equivalents balances as of October 31, 2024 primarily consisted of million of consideration placed in escrow in connection with the Sinergise acquisition and million of collateral money market investments for the Company s headquarters and other domestic office operating leases. The restricted cash and cash equivalents balances as of January 31, 2024 primarily consisted of million of consideration placed in escrow in connection with the Sinergise acquisition and million of collateral money market investments for the Company s headquarters and other domestic office operating leases. 
+ Restricted cash and cash equivalents, current Restricted cash and cash equivalents, non-current Total cash, cash equivalents, and restricted cash and cash equivalents 
+ Short-term Investments 
+ ) Commercial paper Corporate bonds ) Certificates of deposit Total short-term investments ) 
+ January 31, 2024 Gross Unrealized (in thousands) Cost or Amortized Cost Gains Losses Fair Value U.S Treasury securities ) Commercial paper Corporate bonds ) U.S. government agency securities ) Certificates of deposit Total short-term investments ) 
+ 21 
+
+Table of Contents 
+
+ Due in 1-2 years 
+ Property and Equipment, Net 
+ Satellites in process and not placed into service Leasehold improvements Ground stations and ground station equipment Office furniture, equipment and fixtures Computer equipment and purchased software Total property and equipment, gross Less: Accumulated depreciation ) ) Total property and equipment, net 
+ Property and equipment, net as of October 31, 2024 included million of satellite manufacturing costs that were previously classified as prepaid expenses and other current assets as of January 31, 2024. 
+ Rest of world 
+ Total property and equipment, net 
+ The Company concluded that satellites in service continue to be owned by the U.S. entity and accordingly are classified as U.S. assets in the table above. No single country other than the U.S. accounted for more than 10 of total property and equipment, net, as of October 31, 2024 and January 31, 2024. 
+ Total depreciation expense for the three and nine months ended October 31, 2024 was million and million, respectively, of which million and million, respectively, was depreciation expense specific to satellites. Total depreciation expense for the three and nine months ended October 31, 2023 was million and million, respectively, of which million and million, respectively, was depreciation expense specific to satellites. 
+ Capitalized Internal-Use Software Development Costs 
+ Less: Accumulated amortization ) ) Capitalized internal-use software, net 
+ Amortization expense for capitalized internal-use software for the three and nine months ended October 31, 2024 was million and million, respectively. Amortization expense for capitalized internal-use software for the three and nine months ended October 31, 2023 was million and million, respectively. 
+ 22 
+
+Table of Contents 
+
+ ) ) ) ) Image library ) ) Customer relationships ) ) ) ) Trade names and other ) ) Total intangible assets ) ) ) Goodwill 
+ Amortization expense for intangible assets for the three and nine months ended October 31, 2024 was million and million, respectively. Amortization expense for intangible assets for the three and nine months ended October 31, 2023 was million and million, respectively. 
+ Addition Currency translation adjustment ) End of period 
+ In April 2024, the Company paid million of additional consideration in connection with the finalization of the net working capital adjustment relating to the Company s acquisition of Sinergise. The additional amount was accounted for as a measurement period adjustment and resulted in a million addition of goodwill during the nine months ended October 31, 2024. 
+ Accrued and Other Current Liabilities 
+ Payroll and related expenses Deferred hosting costs Withholding taxes and other taxes payable Contingent consideration 
+ Severance and other employee termination costs Other accruals 
+ Total accrued and other current liabilities 
+
+(7) 
+ of the Company s total number of employees prior to the reduction (the 2024 headcount reduction ). This action was taken consistent with the Company s ongoing focus on aligning its resources to the market opportunity, improving operational efficiency, and supporting the long-term growth of the business. 
+ 23 
+
+Table of Contents 
+
+) ) Research and development ) ) ) Sales and marketing ) ) General and administrative ) ) ) Total restructuring charges ) ) 
+ Nine Months Ended October 31, 2024 (in thousands) Severance and Other Employee Costs Stock-Based Compensation Total Cost of revenue ) Research and development ) Sales and marketing ) General and administrative ) Total restructuring charges ) 
+ There were restructuring charges recognized during the three and nine months ended October 31, 2023 related to the 2024 headcount reduction. 
+ Severance and other employee costs Cash payments ) Balance as of October 31, 2024 
+ The headcount reductions, including the remaining cash payments, are expected to be substantially complete by the end of the fiscal year ending January 31, 2025. 
+ 2023 Headcount Reduction 
+ In August 2023, the Company announced a plan to reduce its global headcount by approximately of the Company s total number of employees prior to the reduction (the 2023 headcount reduction ). This action was taken to increase the Company s focus on its high priority growth opportunities and operational efficiency. 
+ 24 
+
+Table of Contents 
+
+) Research and development ) Sales and marketing ) General and administrative ) Total restructuring charges ) 
+ There were restructuring charges recognized during the three and nine months ended October 31, 2024 related to the 2023 headcount reduction. 
+ The 2023 headcount reduction, including cash payments, was substantially complete as of January 31, 2024. 
+
+(8) 
+ million and million for the three and nine months ended October 31, 2024, respectively. Operating lease costs were million and million for the three and nine months ended October 31, 2023, respectively. Variable lease expenses and short-term lease expenses were immaterial for the three and nine months ended October 31, 2024 and 2023. 
+ Operating cash flows from operating leases were million and million for the three and nine months ended October 31, 2024, respectively. Operating cash flows from operating leases were million and million for the three and nine months ended October 31, 2023, respectively. 
+ Right of use assets obtained in exchange for operating lease liabilities were million and million for the three and nine months ended October 31, 2024, respectively. Right of use assets obtained in exchange for operating lease liabilities were million and million for the three and nine months ended October 31, 2023, respectively. 
+ 2026 2027 2028 2029 Thereafter Total lease payments Less: Imputed interest ) Total lease liabilities Weighted average remaining lease term (years) Weighted average discount rate 
+
+25 
+
+Table of Contents 
+
+ (9) 
+ million to be paid to the Company as specified milestones are achieved. The R D Services Agreement is unrelated to the Company s ordinary business activities. The Company has discretion in managing the activities under the R D Services Agreement and retains all developed intellectual property. The Company has no obligation to repay any of the funds received regardless of the outcome of the development work; therefore, the arrangement is accounted for as funded research and development pursuant to ASC 730-20, Research and Development . As ASC 730-20 does not indicate the accounting model for research and development services, the Company determined the total transaction price is recognized over the agreement term as a reduction of research and development expenses based on a cost incurred method. 
+ During the three and nine months ended October 31, 2024, the Company recognized million and million of funding and incurred million and million of research and development expenses, respectively, in connection with the R D Services Agreement. During the three and nine months ended October 31, 2023, the Company recognized million and million of funding and incurred million and million of research and development expenses, respectively. As of October 31, 2024 and January 31, 2024, the Company had received a total of million and million, respectively, of funding under the R D Services Agreement. 
+ NASA Communication Services Project 
+ In connection with its Communication Services Project CSP ), the National Aeronautics and Space Administration NASA selected certain satellite communications providers that NASA will fund to develop and demonstrate near-Earth space communication services that may support future NASA missions using commercial technology. In June 2022 and August 2022, the Company entered into separate agreements with of the satellite communications providers selected by NASA whereby the Company agreed to participate in the NASA CSP as a subcontractor. The agreements provide for the Company to receive aggregate funding of million to be paid as milestones are completed. The Company determined that the agreements are in the scope of ASC 912-730, Contractors Federal Government Research and Development ASC 912-730 ). In accordance with ASC 912-730, funding is recognized over the term of each agreement as a reduction of research and development expenses based on a cost incurred method. 
+ During the three and nine months ended October 31, 2024, the Company recognized million and million of funding, respectively, and incurred million and million of research and development expenses, respectively, in connection with the NASA CSP. During the three and nine months ended October 31, 2023, the Company recognized million and million of funding, respectively, and incurred million and million of research and development expenses, respectively, in connection with the NASA CSP. As of October 31, 2024 and January 31, 2024, the Company had received a total of million and million, respectively, of funding in connection with the NASA CSP. 
+ In July 2023, projected costs related to certain of our research and development arrangements were revised down as a result of operational decisions. This change in estimate resulted in a million cumulative increase of funding recognized for certain of our research and development arrangements for the nine months ended October 31, 2023. 
+ 
+ 26 
+
+Table of Contents 
+
+ (10) 
+ 
+ 2026 2027 2028 Total purchase commitments 
+ 
+ Legal Proceedings 
+ Delaware Class Action 
+ A stockholder class action was filed in the Court of Chancery of the State of Delaware on August 19, 2024, against the former officers and directors of dMY IV and the Company. The complaint alleges that the individual defendants breached various fiduciary duties to the dMY IV stockholders and that the Company aided and abetted such breaches. The case is brought on behalf of a purported class of holders of dMY IV Class A Common Stock who held such stock prior to the redemption deadline for the Business Combination, did not exercise the right to redeem their shares, and were allegedly injured. Defendants filed a motion to dismiss the complaint on November 12, 2024. 
+ For many legal matters, particularly those in early stages, the Company cannot reasonably estimate the possible loss (or range of loss), if any. The Company records an accrual for legal matters at the time or times it determines that a loss is both probable and reasonably estimable. Regarding matters for which no accrual has been made (including the potential for losses in excess of amounts accrued), the Company currently believes, based on its own investigations, that any losses (or ranges of losses) that are reasonably possible and estimable will not, in the aggregate, have a material adverse effect on its financial position, results of operations, or cash flows. However, the ultimate outcome of legal proceedings involves judgments, estimates, and inherent uncertainties and cannot be predicted with certainty. Should the ultimate outcome of any legal matter be unfavorable, the Company's business, financial condition, results of operations, or cash flows could be materially and adversely affected. The Company may also incur substantial legal fees, which are expensed as incurred, in defending against legal claims. 
+ Contingencies 
+ The Company may have certain contingent liabilities that arise in the ordinary course of business activities including those arising from disputes and claims and events arising from revenue contracts entered into by the Company. The Company accrues a liability for such matters when it is probable that future expenditures will be made and such expenditures can be reasonably estimated. 
+ Indemnification 
+ The Company enters into standard indemnification arrangements in the ordinary course of business. Pursuant to these arrangements, the Company indemnifies, holds harmless, and agrees to reimburse the indemnified parties for losses suffered or incurred by the indemnified party, in connection with any trade secret, copyright, patent, or other intellectual property infringement claim by any third-party with respect to its technology. The term of these indemnification agreements is generally perpetual after the execution of the agreement. The Company has not incurred costs to defend lawsuits or settle claims related to these indemnification agreements. In the event that one or more of these matters were to result in a claim against the Company, an adverse outcome, including a judgment or settlement, may cause a material adverse effect on the Company s future business, operating results or financial condition. It is not possible to determine the maximum potential amount under these contracts due to the limited history of prior indemnification claims and the unique facts and circumstances involved in each particular agreement. 
+ The Company has entered into indemnification agreements with its directors and officers that may require the Company to indemnify them against liabilities that may arise by reason of their status or service as directors or officers, other than liabilities arising from willful misconduct of the individual. 
+ To date, we have not incurred any material costs and have not accrued any liabilities in the consolidated financial statements as a result of these provisions. 
+ 27 
+
+Table of Contents 
+
+(11) 
+ units, each unit consisting of share of Class A common stock of dMY IV and one-fifth of redeemable warrant, at a price of per unit. Each whole warrant entitles the holder to purchase share of Class A common stock at an exercise price of per share, subject to adjustment (the Public Warrants ). Simultaneously with the closing of its initial public offering, dMY IV completed the private sale of warrants to dMY Sponsor IV, LLC (the dMY Sponsor at a purchase price of per warrant (the Private Placement Warrants ). Each Private Placement Warrant is exercisable for share of Class A common stock at per share. 
+ Additionally, pursuant to a lock-up agreement entered into with the dMY Sponsor in connection with the Business Combination, of the Private Placement Warrants are subject to vesting conditions (the Private Placement Vesting Warrants ). The Private Placement Vesting Warrants vest in equal tranches (i) when the closing price of Class A common stock equals or exceeds , , and , over any trading days within any day trading period prior to December 7, 2026 or (ii) when the Company consummates a change of control transaction prior to December 7, 2026 that entitles its stockholders to receive a per share consideration of at least , , and . Any right to Private Placement Vesting Warrants that remains unvested on the first business day after from the closing of the Business Combination will be forfeited without any further consideration. 
+ As of October 31, 2024 and January 31, 2024, there were Public Warrants and Private Placement Warrants, including Private Placement Vesting Warrants, outstanding. 
+ Warrants to Purchase Class A Common Stock 
+ In addition to the Public and Private Placement Warrants, there were warrants to purchase shares of Class A common stock with a weighted average exercise price of which were outstanding and exercisable as of October 31, 2024 and January 31, 2024. As of October 31, 2024, the outstanding warrants have a weighted average remaining term of years. 
+
+(12) 
+ shares of the Company s Class A common stock, and, as such, owned greater than of outstanding shares of the Company s Class A common stock. 
+ In April 2017, the Company and Google entered into a content license agreement pursuant to which the Company licensed content to Google. In April 2022, the agreement automatically renewed for a period of and in April 2023, the agreement expired. For the nine months ended October 31, 2023, the Company recognized revenue of million related to this content license agreement. 
+ In July 2023, the Company and Google entered into a content license agreement pursuant to which the Company agreed to license content to Google and provide certain of its products in exchange for a million fee. The agreement also provides for the Company to receive up to million in value of Google cloud credits that the Company can apply against the cost of Google cloud services it utilizes to fulfill its obligations under the agreement. The Company determined that the Google cloud credits represent non-cash variable consideration which is included in the transaction price for the agreement, subject to the guidance on estimating variable consideration within ASC 606, Revenue from Contracts with Customers . The agreement does not include extension or renewal terms. In August 2024, the content license agreement was amended to extend the term until November 2024 in exchange for a million fee. For the three and nine months ended October 31, 2024, the Company recognized revenue of million related to the content license agreement. The Company recognized revenue related to the content license agreement for the three months ended October 31, 2023 and recognized revenue of million for the nine months ended October 31, 2023. 
+ 28 
+
+Table of Contents 
+
+ million and million is deferred as of October 31, 2024 and January 31, 2024, respectively. The Company recorded million of expense during the three months ended October 31, 2024 relating to hosting and other services provided by Google, of which million was classified as cost of revenue and million was classified as research and development. The Company recorded million of expense during the nine months ended October 31, 2024 relating to hosting and other services provided by Google, of which million was classified as cost of revenue and million was classified as research and development. 
+ The Company recorded million of expense during the three months ended October 31, 2023 relating to hosting and other services provided by Google, of which million was classified as cost of revenue and million was classified as research and development. The Company recorded million of expense during the nine months ended October 31, 2023 relating to hosting and other services provided by Google, of which million was classified as cost of revenue and million was classified as research and development. 
+ As of October 31, 2024 and January 31, 2024, the Company s accrued and other current liabilities balance included million and million related to hosting and other services provided by Google, respectively. 
+ million. The amended agreement commenced on August 1, 2021 and extends through January 31, 2028. See Note 10, Commitments and Contingencies 
+
+(13) 
+ Research and development Sales and marketing General and administrative Total expense Capitalized to internal-use software development costs and property and equipment ) ) ) ) Total stock-based compensation expense 
+ Stock Options 
+ Exercised ) Granted Forfeited ) Balances at October 31, 2024 
+ Vested and exercisable at October 31, 2024 
+ 
+ As of October 31, 2024, total unrecognized compensation cost related to stock options was million, which is expected to be recognized over a period of years . 
+ 29 
+
+Table of Contents 
+
+ Vested ) Granted Forfeited ) Balances at October 31, 2024 
+ 
+ During the nine months ended October 31, 2024, the Company granted RSUs, which generally vest over , subject to the recipient s continued service through each applicable vesting date. 
+ Stock-based compensation expense recognized for RSUs during the three and nine months ended October 31, 2024 was million and million, respectively. Stock-based compensation expense recognized for RSUs during the three and nine months ended October 31, 2023 was million and million, respectively. As of October 31, 2024, total unrecognized compensation cost related to RSUs was million. These costs are expected to be recognized over a period of approximately years. 
+ Performance Vesting Restricted Stock Units 
+ During the nine months ended October 31, 2024, the Company granted performance vesting restricted stock units PSUs to certain members of the Company s senior management. A portion of the PSUs are subject to vesting requirements related to the achievement of certain revenue and adjusted EBITDA targets for the first half of the fiscal year ended January 31, 2025 and the remaining portion is subject to vesting requirements related to the achievement of certain revenue and adjusted EBITDA targets for the entire fiscal year ended January 31, 2025. Vesting is also subject to continued service through the applicable vesting dates, and the actual number of PSUs that may vest ranges from to of the PSUs granted based on achievement of the targets. 
+ Stock-based compensation expense recognized for PSUs during the three and nine months ended October 31, 2024 was million and million, respectively. Stock-based compensation expense recognized for PSUs during the three and nine months ended October 31, 2023 was million and million, respectively. As of October 31, 2024, total unrecognized compensation cost related to PSUs was million. These costs are expected to be recognized over a period of approximately years. 
+ Employee Stock Purchase Program 
+ Beginning in April 2024, the Company's eligible employees were able to begin participating in the Company's Employee Stock Purchase Program ESPP ). The ESPP allows eligible participants to contribute up to of their eligible compensation towards the purchase of Class A common stock at a discounted price, subject to certain limitations. The purchase price of the shares on each purchase date is equal to of the lower of the fair market value of Class A common stock on the first and last trading days of each offering period. The offerings under the ESPP are currently designed to be intended to qualify under Section 423 of the Internal Revenue Code. The Company estimates the fair value of each purchase right under the ESPP on the date of grant using the Black-Scholes valuation model and uses the straight-line attribution approach to record the expense over the offering period. 
+ Stock-based compensation expense recognized related to ESPP during the three and nine months ended October 31, 2024 was million and million, respectively. As of October 31, 2024, total unrecognized compensation cost related to ESPP was million. These costs are expected to be recognized over a period of approximately years. 
+ Early Exercises of Stock Options 
+ The Planet Labs Inc. Amended and Restated 2011 Stock Incentive Plan provided for the early exercise of stock options for certain individuals as determined by the Company s board of directors. Shares of common stock issued upon early exercises of unvested options are not deemed, for accounting purposes, to be issued until those shares vest according to their respective vesting schedules and accordingly, the consideration received for early exercises is initially recorded as a liability and reclassified to common stock and additional paid-in capital as the underlying awards vest. As of October 31, 2024, the Company had a million liability recorded for the early exercise of unvested stock options, and the related number of unvested shares subject to repurchase was . 
+ 30 
+
+Table of Contents 
+
+ equal tranches (i) when the closing price of Class A common stock equals or exceeds , , and , over any trading days within any day trading period prior to December 7, 2026 or (ii) when the Company consummates a change of control transaction prior to December 7, 2026 that entitles its stockholders to receive a per share consideration of at least , , and . 
+ Earn-out Shares vested during the three and nine months ended October 31, 2024. As of October 31, 2024, there were Earn-out Shares outstanding relating to Former Planet equity award holders. 
+ During the three and nine months ended October 31, 2023, the Company recognized million and million of stock-based compensation expense related to the Earn-out Shares, respectively. As of October 31, 2024, there was remaining unrecognized compensation cost related to the Earn-out Shares. 
+ Other Stock-based Compensation 
+ In connection with the acquisition of VanderSat B.V. VanderSat on December 13, 2021, the Company issued shares of Class A common stock to an employee and former owner of VanderSat which are accounted for as stock-based compensation because the shares were subject to forfeiture based on post-acquisition time-based service vesting. The shares vested in quarterly increments over commencing on December 13, 2021. As of October 31, 2024 and January 31, 2024, there was no unrecognized compensation cost related to these shares. During the three and nine months ended October 31, 2023, the Company recognized million and million of stock-based compensation expense related to these shares, respectively. 
+
+(14) 
+ amount of income tax expense. During the nine months ended October 31, 2024, the Company recorded million of income tax expense. During the three and nine months ended October 31, 2023, the Company recorded income tax expense of million and million, respectively. For the three and nine months ended October 31, 2024 and 2023, the income tax expense was primarily driven by the current tax on foreign earnings. The effective tax rates for the three and nine months ended October 31, 2024 and 2023 differed from the federal statutory tax rate primarily due to the valuation allowance on the majority of the Company s U.S. and foreign deferred tax assets and foreign rate differences. 
+ The Company evaluates its tax positions on a quarterly basis and revises its estimates accordingly. Gross unrecognized tax benefits were million and million as of October 31, 2024 and January 31, 2024, respectively. The gross unrecognized tax benefits, if recognized, would not affect the effective tax rate due to the valuation allowance against the deferred tax assets. The Company determined that accrual for interest and penalties was required as of October 31, 2024 and January 31, 2024 and such expenses were incurred in the periods presented. 
+ The Company does not anticipate the total amounts of unrecognized tax benefits to significantly increase or decrease in the next twelve months. 
+ The Company files U.S. federal, various state and foreign income tax returns. The Company is not currently under audit by any taxing authorities. All tax years remain open to examination by taxing jurisdictions to which the Company is subject. 
+ 
+ 31 
+
+Table of Contents 
+
+ (15) ) ) ) Denominator: Basic and diluted weighted-average common shares outstanding used in computing net loss per share attributable to common stockholders Basic and diluted net loss per share attributable to common stockholders 
+ 
+ Basic and diluted net loss per share was the same for each period presented as the inclusion of all potential Class A common stock and Class B common stock outstanding would have been anti-dilutive. 
+ Common stock options Restricted Stock Units Performance vesting Restricted Stock Units Shares committed under ESPP Earn-out Shares dMY Sponsor Earn-out Shares Public Warrants Private Placement Warrants Early exercised common stock options, subject to future vesting Shares issued in connection with acquisition, subject to future vesting Total 
+ 32 
+
+Table of Contents 
+
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS OF PLANET 
+ The following Management s Discussion and Analysis of Financial Condition and Results of Operations MD A is intended to help the reader understand the results of operations and financial condition of Planet Labs PBC. The MD A is provided as a supplement to and should be read in conjunction with the unaudited condensed consolidated financial statements and related notes included in Part I, Item I of this Quarterly Report on Form 10-Q , as well as our audited annual consolidated financial statements and related notes as disclosed in our Annual Report on Form 10-K for the fiscal year ended January 31, 2024 (the 2024 Form 10-K ). This discussion contains forward-looking statements and involves numerous risks and uncertainties, including, but not limited to, those described in Part II, Item 1A, Risk Factors in this Quarterly Report and Part I, Item 1A, Risk Factors of our 2024 Form 10-K. Actual results may differ materially from those contained in any forward-looking statements. Our historical results are not necessarily indicative of the results that may be expected for any period in the future. 
+ Business and Overview 
+ Our mission is to use space to help life on Earth, by imaging the world every day and making global change visible, accessible, and actionable. Our platform includes imagery, insights, and machine learning that empower companies, governments, and communities around the world to make timely decisions about our evolving world. 
+ As a public benefit corporation, our purpose is to accelerate humanity toward a more sustainable, secure, and prosperous world, by illuminating the most important forms of environmental and social change. 
+ We deliver a differentiated data set: a new image of the entire Earth s landmass, constantly refreshed. To collect this powerful data set, we design, build and operate hundreds of satellites, making our fleet the largest Earth observation fleet of satellites in history. Our daily stream of proprietary data and machine learning analytics, delivered through our cloud-native platform, helps companies, governments and civil society use satellite imagery to discover insights as change happens. 
+ To help further our mission, we have developed advanced satellite technology that increases the cost performance of each satellite. This has enabled us to launch large fleets of satellites at lower cost and in turn record over 2,700 images on average for every point on Earth s landmass, a non-replicable historical archive for analytics, machine learning, and insights. We have advanced data processing capabilities that enable us to produce AI-ready data sets. As this data set continues to grow, we believe its value to our customers will further increase. 
+ We currently serve customers across large commercial and government verticals, including agriculture, mapping, energy, forestry, finance and insurance, as well as federal, civil, state, and local governments. Our customers in government and commercial markets leverage our product capabilities to monitor and manage global change over broad areas to take action. 
+ Our proprietary data set and analytics are delivered pursuant to subscription and usage-based data licensing agreements and are accessed by our customers through our online platform and subscription APIs. We believe our efficient cost structure, one-to-many business model and differentiated data set have enabled us to grow our customer base across multiple vertical markets. As of October 31, 2024, our End of Period EoP Customer Count wa s 1,015 customers, which represented 4 year-over-year growth when compared to October 31, 2023. For a definition of EoP Customer Count see the section titled Key Operational and Business Metrics. Over 90 of our ACV Book of Business (as defined below) consists of annual or multi-year contracts. Our average contract length continues to be approximately two years, weighted on an annual contract value basis. 
+ Our Business Model 
+ We primarily generate revenue through selling licenses to our data and analytics to customers over an entirely cloud-based platform via fixed price subscription and usage-based contracts. Data licensing subscriptions and minimum commitment usage-based contracts provide a large recurring revenue base for our business with a low incremental cost to serve each additional customer. Payment terms of our customer agreements are most commonly in advance on an either quarterly or annual basis, although a small number of large contracts have required payment terms that are monthly or quarterly in arrears. Additionally, we also generate a small amount of revenue from sales of third-party imagery, professional services, and customer support. 
+ We employ a land-and-expand go-to-market strategy with the goal to deliver increasing value to our customers and generate more revenue with each customer over time by expanding the scope of the services we offer. We work closely with our customers and partners to enable their early success, both from an account management and technical management perspective. Deeper adoption from our customers comes in many forms, including more users, more area coverage, and more advanced software analytics capabilities. 
+ 33 
+
+Table of Contents 
+
+ Key elements of our growth strategy include: 
+ Scaling in Existing Verticals : 
+ We plan to invest in sales, marketing, and software solutions to expand within our existing customer base and further penetrate vertical markets in which end users are early adopters of geospatial data, such as civil government, agriculture, and defense and intelligence. 
+ Expansion into New Verticals and Applications : 
+ We plan to invest in our offerings to make our data more actionable and accessible to a larger group of customers and users, including non-geospatial experts such as data and business analysts in government and commercial organizations. We believe this will help us address use cases in key emerging markets such as energy, infrastructure, finance, insurance, and consumer packaged goods. We also intend to partner with companies building vertical market solutions, such as independent software vendors, as well as business intelligence and analytics providers. While we have customers and partners today in many of these verticals, we believe enhancing our data to meet their needs has the potential to accelerate the proliferation of our data and analytics usage across more end users. Additionally, we currently have multiple partners with solutions that rapidly generate insights for customers using our proprietary data and AI technology. Their capabilities include training models on our proprietary data to find any object of interest to a user over broad areas of land or sea. We believe recent and ongoing advancements in AI will support making our datasets more accessible to customers and users across new and existing verticals by speeding customer time to value through these capabilities. 
+ Continued Investment in Data Products: 
+ We plan to scale and expand our existing products, as well as add new solutions, by building on our machine learning and computer vision capabilities with remote sensing techniques to fuse multiple data sources. These products allow our customers to consume simple, actionable time-series data within their existing workflows. We intend to create many of these key data sets internally, as well as in collaboration with our partners who have deep vertical expertise. 
+ Establish Platform Ecosystem: 
+ We plan to further develop our ecosystem of users and partners to build solutions leveraging our data and platform and to build software tools and APIs that make it even easier to do so. By developing a robust applications ecosystem, we believe we can create a network effect, potentially accelerating our growth and deepening our market penetration. 
+ Factors Affecting the Results of Operations 
+ We believe that our financial condition and result of operations have been, and will continue to be, affected by a number of factors that present significant opportunities for us but also pose risks and challenges, including those discussed below, in Part II, Item 1A Risk Factors of this Quarterly Report and in Part I, Item 1A, Risk Factors of our 2024 Form 10-K. 
+ Recent Developments 
+ Headcount Reduction 
+ In June 2024, we committed to a plan to reduce our global headcount by approximately 17 of our total number of employees prior to the reduction (the 2024 headcount reduction ). This action was taken consistent with our ongoing focus on aligning the Company s resources to the market opportunity, improving operational efficiency, and supporting the long-term growth and profitability of the business. As a result of the headcount reduction, during the three months ended October 31, 2024, the Company recognized immaterial costs for one-time employee termination benefits consisting of severance and other employee costs and a 1.4 million stock-based compensation benefit primarily related to the reversal of previously recognized stock-based compensation expenses for unvested stock awards. During the nine months ended October 31, 2024, the Company recognized 10.5 million of costs for one-time employee termination benefits consisting of severance and other employee costs and a 1.4 million stock-based compensation benefit primarily related to the reversal of previously recognized stock-based compensation expenses for unvested stock awards. The headcount reductions, including the remaining cash payments, are expected to be substantially complete by the end of the fiscal year ending January 31, 2025. 
+ Continuing to Acquire New Customers 
+ Attracting new customers is an important factor affecting our future growth and operating performance. We believe our ability to attract customers will be driven by our ability to continue to improve our data and offer software and analytic solutions that make our data easier to consume and integrate into our customers workflows, our success in offering new data sets and products to solve customer problems, increases in our global sales presence and increases 
+ 34 
+
+Table of Contents 
+
+ in our marketing investments. As part of this strategy, we have recently made Planet s data available for purchase directly through our Planet Insights Platform, which facilitates rapid user adoption, particularly by empowering users to self-service our solutions without formal sales interaction. We believe this serves as a natural entry point for some of our smaller accounts, enabling them to realize the value of Planet s offerings, leading to broader awareness of our solutions throughout their networks and organizations. 
+ In addition, we plan to continue investing in making our data more digestible and accessible to non-technical business users and to build solutions to address more use cases and expand our addressable market. As a result of this strategy, we anticipate our research and development expenditures may generally increase over time. We will also aim to expand our reach with customers by partnering with independent software vendors and solution providers who are building vertical market-specific solutions. While we have customers and partners today in many markets, we believe that our increased investment in developing software analytics solutions has the potential to accelerate the usage of our data and analytics across broader audiences. Additionally, the timing of securing new customer contracts, including when it occurs during the year and the length of the sales cycle, as well as the size of the contracts, can impact our operating performance. 
+ Retention and Expansion of Existing Customers 
+ To increase customer retention and expansion of revenue from existing customers, we are making a number of investments in our operations. Customer retention and expansion is driven by the speed with which our customers realize the value of our data once they become customers, our ability to cross-sell our different products to our existing customers and our ability to offer new products to our customers. Therefore, to increase customer retention and sales to existing customers, we have invested in our customer success function, continuous improvements to our existing data, and the software tools and analytic tools that make our data easier to consume. As a result of such investments, we anticipate our cost of revenue, operating expenses, and capital expenditures may generally increase as we continue to prioritize customer retention and expansion and consequently, we are likely to experience losses in the near term, delaying our ability to achieve profitability and adversely affecting cash flows. 
+ Developing New Sensors and Data Sets 
+ We plan to make strategic investments in building new sensors to capture additional data sets from space. As we grow our customer base and the use cases we can address, we believe we can better understand what additional data sets our customers are eager to access and therefore which sensors might enable us to capture additional data that is valuable to such customers. By leveraging our agile aerospace approach to space systems, we believe we are well-positioned to introduce new Earth observation sensors into orbit to capture new types of data with greater capital efficiency and speed than other satellite data providers. Having these capabilities can deepen our value proposition to customers and help us both acquire new customers and expand our offering to existing customers. 
+ Investment Decisions 
+ We regularly review our existing customers and target markets to determine where we should invest in our product and technology roadmap, both for our space systems engineering to enable new geospatial coverage models, as well as our software engineering focused on providing sophisticated analytics models and tools to service an expanding set of markets and use cases. Our financial performance relies heavily on effective balance between driving continued growth, maintaining technology leadership, and improving margins across the business. 
+ Seasonality 
+ We have experienced, and expect to continue to experience, seasonality in our business and fluctuations in our operating results due to customer behavior, buying patterns and usage-based contracts. For example, we typically have customers who increase their usage of our data services when they need more frequent data monitoring over broader areas during peak agricultural seasons, during natural disasters or other global events, or when commodity prices are at certain levels. These customers may expand their usage and then subsequently scale back. We believe that the seasonal trends that we have experienced in the past may occur in the future. To the extent that we experience seasonality, it may impact our operating results and financial metrics, as well as our ability to forecast future operating results and financial metrics. Additionally, when we introduce new products to the market, we may not have sufficient experience in selling certain products to determine if demand for these products are or will be subject to material seasonality. 
+ Key Operational and Business Metrics 
+ In addition to the measures presented in our consolidated financial statements, we use the following key operational and business metrics to evaluate our business, measure our performance, develop financial forecasts, and make strategic decisions. 
+ 35 
+
+Table of Contents 
+
+ ACV and EoP ACV Book of Business 
+ In connection with the calculation of several of the key operational and business metrics we utilize, we calculate Annual Contract Value ACV for contracts of one year or greater as the total amount of value that a customer has contracted to pay for the most recent 12 month period for the contract, excluding customers that are exclusively Sentinel Hub self-service paying users. For short-term contracts (contracts less than 12 months), ACV is equal to total contract value. 
+ We also calculate EoP ACV Book of Business in connection with the calculation of several of the key operational and business metrics we utilize. We define EoP ACV Book of Business as the sum of the ACV of all contracts that are active on the last day of the period pursuant to the effective dates and end dates of such contracts, excluding customers that are exclusively Sentinel Hub self-service paying users. Active contracts exclude any contract that has been canceled, expired prior to the last day of the period without renewing, or for any other reason is not expected to generate revenue in the subsequent period. For contracts ending on the last day of the period, the ACV is either updated to reflect the ACV of the renewed contract or, if the contract has not yet renewed or extended, the ACV is excluded from the EoP ACV Book of Business. We do not annualize short-term contracts in calculating our EoP ACV Book of Business. We calculate the ACV of usage-based contracts based on the committed contracted revenue or the revenue achieved on the usage-based contract in the prior 12-month period. 
+ Net Dollar Retention Rate 
+ Nine Months Ended October 31, 2024 2023 Net Dollar Retention Rate 104 104 
+ We define Net Dollar Retention Rate as the percentage of ACV generated by existing customers in a given period as compared to the ACV of all contracts at the beginning of the fiscal year from the same set of existing customers. We define existing customers as customers with an active contract with Planet. We believe our Net Dollar Retention Rate is a useful metric for investors as it can be used to measure our ability to retain and grow revenue generated from our existing customers, on which our ability to drive long-term growth and profitability is, in part, dependent. We use Net Dollar Retention Rate to assess customer adoption of new products, inform opportunities to make improvements across our products, identify opportunities to improve operations, and manage go to market functions, as well as to understand how much future growth may come from cross-selling and up-selling customers. Management applies judgment in determining the value of active contracts in a given period, as set forth in the definition of ACV above. Net Dollar Retention Rate remained flat at 104 for both the nine months ended October 31, 2024 and 2023. This was primarily due to expansion of a large international contract, offset by delay in renewal of a certain government contract. 
+ Net Dollar Retention Rate including Winbacks 
+ Nine Months Ended October 31, 2024 2023 Net Dollar Retention Rate including Winbacks 105 105 
+ We assess two metrics for net dollar retention Net Dollar Retention Rate, as described above, and Net Dollar Retention Rate including winbacks. A winback is a previously existing customer that was inactive at the start of the measurement period but has reactivated during the measurement period. The reactivation period must be within 24 months from the last active contract with the customer; otherwise, the customer is counted as a new customer and therefore excluded from the retention rate metrics. We define Net Dollar Retention Rate including winbacks as the percentage of ACV generated by existing customers and winbacks in a given period as compared to the ACV of all contracts at the beginning of the fiscal year from the same set of existing customers. We believe this metric is useful to investors as it captures the value of customer contracts that resume business with Planet after being inactive and thereby provides a quantification of Planet s ability to recapture lost business. Management uses this metric to understand the adoption of our products and long-term customer retention, as well as the success of marketing campaigns and sales initiatives in re-engaging inactive customers. Beyond the judgments underlying managements calculation of Net Dollar Retention Rate set forth above, there are no additional assumptions or estimates made in connection with Net Dollar Retention Rate including winbacks. Net Dollar Retention Rate including winbacks remained flat at 105 for both the nine months ended October 31, 2024 and 2023. This was primarily due to expansion with a large international contract, offset by delay in renewal of a certain government contract. 
+ 36 
+
+Table of Contents 
+
+ EoP Customer Count 
+ As of October 31, 2024 2023 EoP Customer Count 1,015 976 
+ We define EoP Customer Count as the total count of all existing customers at the end of the period excluding customers that are exclusively Sentinel Hub self-service paying users. For EoP Customer Count, we define existing customers as customers with an active contract with us at the end of the reported period. For the purpose of this metric, we define a customer as a distinct entity that uses our data or services. We sell directly to customers, as well as indirectly through our partner network. If a partner does not provide the end customer s name, then the partner is reported as the customer. Each customer, regardless of the number of active opportunities with us, is counted only once. For example, if a customer utilizes multiple products of Planet, we only count that customer once for purposes of EoP Customer Count. A customer with multiple divisions, segments, or subsidiaries are also counted as a single unique customer based on the parent organization or parent account. For EoP Customer Count, we do not include users that only utilize our self-service Sentinel Hub web based ordering system, which we acquired in August 2023, and which offers standard starter packages on a monthly or annual basis. We believe excluding these users from EoP Customer Count creates a more useful metric, as we view the Sentinel Hub starter packages as entry points for smaller accounts, leading to broader awareness of our solutions throughout their networks and organizations. We believe EoP Customer Count is a useful metric for investors and management to track as it is an important indicator of the broader adoption of our platform and is a measure of our success in growing our market presence and penetration. Management applies judgment as to which customers are deemed to have an active contract in a period, as well as whether a customer is a distinct entity that uses our data or services. The EoP Customer Count increased to 1,015 as of October 31, 2024, as compared to 976 as of October 31, 2023. The increase was primarily attributable to the increased demand for our data. 
+ Percent of Recurring ACV 
+ As of October 31, 2024 2023 Percent of Recurring ACV 97 94 
+ Percent of Recurring ACV is the portion of the total EoP ACV Book of Business that is recurring in nature. We define EoP ACV Book of Business as the sum of the ACV of all contracts that are active on the last day of the period pursuant to the effective dates and end dates of such contracts, excluding customers that are exclusively Sentinel Hub self-service paying users. We define Percent of Recurring ACV as the dollar value of all data subscription contracts and the committed portion of usage-based contracts (excluding customers that are exclusively Sentinel Hub self-service paying users) divided by the total dollar value of all contracts in our EoP ACV Book of Business. We believe Percent of Recurring ACV is useful to investors to better understand how much of our revenue is from customers that have the potential to renew their contracts over multiple years rather than being one-time in nature. We track Percent of Recurring ACV to inform estimates for the future revenue growth potential of our business and improve the predictability of our financial results. There are no significant estimates underlying management s calculation of Percent of Recurring ACV, but management applies judgment as to which customers have an active contract at a period end for the purpose of determining EoP ACV Book of Business, which is used as part of the calculation of Percent of Recurring ACV. Percent of Recurring ACV increased to 97 for the six months ended October 31, 2024, as compared to 94 for the six months ended October 31, 2023 . The increase was primarily attributable to expansions on existing contracts in the Government and Commercial Verticals. 
+ Capital Expenditures as a Percentage of Revenue 
+ Three Months Ended October 31, Nine Months Ended October 31, 2024 2023 2024 2023 Capital Expenditures as Percentage of Revenue 14 16 20 20 
+ We define capital expenditures as purchases of property and equipment plus capitalized internally developed software development costs, which are included in our statements of cash flows from investing activities. We define Capital Expenditures as a Percentage of Revenue as the total amount of capital expenditures divided by total revenue in the reported period. Capital Expenditures as a Percentage of Revenue is a performance measure that we use to evaluate the appropriate level of capital expenditures needed to support demand for our data services and related revenue, and to provide a comparable view of our performance relative to other earth observation companies, which may invest significantly greater amounts in their satellites to deliver their data to customers. We use an agile space systems strategy, which means we invest in a larger number of significantly lower cost satellites and software 
+ 37 
+
+Table of Contents 
+
+ infrastructure to automate the management of the satellites and to deliver our data to clients. As a result of our strategy and our business model, our capital expenditures may be more similar to software companies with large data center infrastructure costs. Therefore, we believe it is important to look at our level of capital expenditure investments relative to revenue when evaluating our performance relative to other earth observation companies or to other software and data companies with significant data center infrastructure investment requirements. We believe Capital Expenditures as a Percentage o f Revenue is a useful metric for investors because it provides visibility to the level of capital expenditures required to operate our business and our relative capital efficiency. Capital Expenditures as a Percentage of Revenue decreased to 14 for the three months ended October 31, 2024, as compared to 16 for the three months ended October 31, 2023. The decrease was primarily attributable to an increase in revenue primarily driven by growth in the Civil Government and Defense and Intelligence Verticals. Capital Expenditures as a Percentage of Revenue remained flat at 20 for both the nine months ended October 31, 2024 and 2023. 
+ Components of Results of Operations 
+ Revenue 
+ We derive revenue principally from licensing rights to use our imagery that is delivered digitally through our online platform in addition to providing related services. Imagery licensing agreements vary by contract, but generally have annual or multi-year contractual terms. The data licenses are generally purchased via a fixed price contract on a subscription or usage basis, whereby a customer pays for access to our imagery or derived imagery data, delivered by Planet or through partners, which may be downloaded over a specific period of time, or, less frequently, on a transactional basis, whereby the customer pays for individual content licenses. 
+ We also provide a small amount of other services to customers, including professional services such as training, analytical services, and other value-added activities related to our imagery, data and technology. These revenues are recognized as the services are rendered, on a proportional performance basis for fixed price contracts or ratably over the contract term for subscription professional services and analytics contracts. Training revenues are recognized as the services are performed. 
+ Cost of Revenue 
+ Cost of revenue consists of employee-related costs of performing account and data provisioning, customer support, satellite and engineering operations, as well as the costs of operating and retrieving information from the satellites, processing and storing the data retrieved, third party imagery expenses, depreciation of satellites and ground stations, amortization of acquired intangibles and amortization of capitalized internal-use software related to creating imagery provided to customers. Employee-related costs include salaries, benefits, bonuses and stock-based compensation. To a lesser extent, cost of revenue includes costs from professional services, including costs paid to subcontractors, solution partners and certain third-party fees. 
+ We expect cost of revenue to continue to increase as we invest in our delivery organization, incorporate third-party products into our solutions and introduce future product sets that may require higher compute capacity. As we continue to grow our subscription revenue contracts and increase the revenue associated with our analytic capabilities, we anticipate further economies of scale on our satellites and other infrastructure costs as we incur lower marginal cost with each new customer we add to our platform. 
+ Research and Development 
+ Research and development expenses primarily include personnel related expenses for employees and consultants, hardware costs, supplies costs, contractor fees and administrative expenses. Employee-related costs include salaries, benefits, bonuses and stock-based compensation. Expenses classified as research and development are expensed as incurred and attributable to advancing technology research, platform and infrastructure development and the research and development of new product iterations. Funding for our performance of research and development services under certain arrangements are recognized as a reduction of research and development expenses based on a cost incurred method. 
+ We continue to iterate on the design of our satellites and the capabilities of our automated operations to optimize for efficiency and technical capability of each satellite. Costs associated with satellite and other space related research and development activities are expensed as incurred. 
+ We intend to continue to invest in our software platform development, machine learning and analytic tools and applications and new satellite technologies for both the satellite fleet operations and data collection capabilities to drive incremental value to our existing customers and to enable us to expand our traction in emerging markets and with new customers. As a result of the foregoing, research and development expenditures may increase in future periods. 
+ 38 
+
+Table of Contents 
+
+ Sales and Marketing 
+ Sales and marketing expenses primarily include costs incurred to market and distribute our products. Such costs include expenses related to advertising and conferences, sales commissions, salaries, benefits and stock-based compensation for our sales and marketing personnel and sales office expenses. Sales and marketing expenses also include fees for professional and consulting services principally consisting of public relations and independent contractor expenses. Sales and marketing costs are expensed as incurred. 
+ We intend to continue to invest in our selling and marketing capabilities in the future and may increase this expense in future periods as we look to upsell new product features and expand into new market verticals. Selling and marketing expenses as a percentage of total revenue may fluctuate from period to period based on total revenue and the timing of our investments. 
+ General and Administrative 
+ General and administrative expenses include personnel-related expenses and facilities-related costs primarily for our executive, finance, accounting, legal and human resources functions. General and administrative expenses also include fees for professional services principally consisting of legal, audit, tax, and insurance, as well as executive management expenses. General and administrative costs are expensed as incurred. 
+ We expect to incur additional general and administrative expenses as a result of operating as a public company, including expenses related to compliance and reporting obligations of public companies, and increased costs for insurance, investor relations, and professional services. As the company grows, our general and administrative expenses may increase in future periods and vary from period to period as a percentage of revenue, but we expect to realize operating scale with respect to these expenses over time as we grow our revenue. 
+ Interest Income 
+ Interest income primarily consists of interest earned on our cash, cash equivalents and short-term investments. Our cash equivalent and short-term investment portfolio is invested with a goal of preserving our access to capital, and generally consists of money market funds, commercial paper, corporate debt securities and U.S. government and U.S. government agency debt securities. 
+ Change in Fair Value of Warrant Liabilities 
+ The change in fair value of warrant liabilities consists of the change in fair value of the public and private placement warrant liabilities. We expect to incur other incremental income or expense for fair value adjustments resulting from warrant liabilities that remain outstanding. 
+ Other Income, net 
+ Other income, net, primarily consists of net gains or losses on foreign currency. 
+ Provision for Income Taxes 
+ Our income tax provision consists of an estimate for U.S. federal and state income taxes, as well as those foreign jurisdictions where we have business operations, based on enacted tax rates, as adjusted for allowable credits, deductions, uncertain tax positions, changes in deferred tax assets and liabilities, and changes in the tax law. We believe that it is more likely than not that the majority of the U.S. and foreign deferred tax assets will not be realized. Accordingly, we recorded a valuation allowance against our deferred tax assets in these jurisdictions. 
+ 
+ 39 
+
+Table of Contents 
+
+ Results of Operations 
+ Three months ended October 31, 2024 compared to three months ended October 31, 2023 
+ The following table sets forth a summary of our consolidated results of operations for the interim periods indicated and the changes between such periods. 
+ 
+ Three Months Ended October 31, 
+ 
+ (in thousands, except percentages) 2024 2023 Change 
+ Change 
+ Revenue 61,266 55,380 5,886 11 Cost of revenue 23,749 29,350 (5,601) (19) Gross profit 37,517 26,030 11,487 44 Operating expenses Research and development 25,216 33,002 (7,786) (24) Sales and marketing 16,795 20,774 (3,979) (19) General and administrative 18,114 20,112 (1,998) (10) Total operating expenses 60,125 73,888 (13,763) (19) Loss from operations (22,608) (47,858) 25,250 (53) Interest income 2,414 3,445 (1,031) (30) Change in fair value of warrant liabilities 198 6,833 (6,635) (97) Other income (expense), net (60) (69) 9 (13) Total other income, net 2,552 10,209 (7,657) (75) Loss before provision for income taxes (20,056) (37,649) 17,593 (47) Provision for income taxes 25 355 (330) (93) Net loss (20,081) (38,004) 17,923 (47) 
+ Revenue 
+ Revenue increased 5.9 million, or 11 , to 61.3 million for the three months ended October 31, 2024 from 55.4 million for the three months ended October 31, 2023. The increase was primarily due to a 6.2 million increase from total customer growth worldwide, which was partially offset by a 0.3 million reduction of existing customer contracts primarily in the Commercial Vertical. EoP Customer Count increased approximately 4 to 1,015 as of October 31, 2024 from 976 as of October 31, 2023. The increase in revenue from new customers was primarily driven by growth in the Civil Government and Defense and Intelligence Verticals. 
+ Cost of Revenue 
+ Cost of revenue decreased 5.6 million, or 19 , to 23.7 million for the three months ended October 31, 2024, from 29.4 million for the three months ended October 31, 2023. The decrease was primarily due to a 4.7 million decrease in depreciation expense, which was primarily due to certain high resolution satellites that have fully depreciated. The decrease was also partially due to a 1.1 million decrease in employee-related costs due to reduced headcount and a 1.0 million decrease in hosting costs. These decreases were partially offset by a 1.2 million increase in costs paid to solution partners and subcontractors. 
+ Research and Development 
+ Research and development expenses decreased 7.8 million, or 24 , to 25.2 million for the three months ended October 31, 2024, from 33.0 million for the three months ended October 31, 2023. The decrease was primarily due to a 3.7 million decrease in purchases of material utilized for research and development activities and a 3.3 million decrease in severance and termination benefits charges associated with the 2023 headcount reduction. The decrease was also partially due to a 2.6 million decrease in employee-related costs due to reduced headcount and a 1.9 million decrease in non-recurring expenses related to transaction bonuses paid to Sinergise employees, which was allocated from the purchase consideration we paid in connection with the Sinergise acquisition in August 2023. These decreases were partially offset by a 2.3 million decrease in funding recognized for our research and development arrangements, and a 1.7 million increase in launch provider costs associated with the launch of a satellite classified as experimental. 
+ 40 
+
+Table of Contents 
+
+ Sales and Marketing 
+ Sales and marketing expenses decreased 4.0 million, or 19 , to 16.8 million, for the three months ended October 31, 2024, from 20.8 million for the three months ended October 31, 2023. The decrease was primarily due to a 2.0 million decrease in employee-related costs due to reduced headcount and a 1.9 million decrease in severance and termination benefits charges associated with the 2023 headcount reduction. 
+ General and Administrative 
+ General and administrative expenses decreased 2.0 million, or 10 , to 18.1 million for the three months ended October 31, 2024, from 20.1 million for the three months ended October 31, 2023. The decrease was primarily due to a 1.6 million decrease in severance and termination benefits charges associated with the 2023 headcount reduction. The decrease was also partially due to a 0.9 million decrease in employee-related costs due to reduced headcount, a 0.6 million decrease in our allowance for expected credit losses for accounts receivable, and a 0.5 million decrease related to recovery of previously written-off accounts receivable. These decreases were partially offset by a 1.1 million increase in legal costs and a 0.7 million increase in stock-based compensation. 
+ Interest Income 
+ Interest income decreased 1.0 million to 2.4 million for the three months ended October 31, 2024, from 3.4 million for the three months ended October 31, 2023. The decrease was primarily due to a decrease in our short-term investment balances. 
+ Change in Fair Value of Warrant Liabilities 
+ The change in fair value of warrant liab ilities for both the three months ended October 31, 2024 and 2023 represents the change in fair value of the public and private placement warrants, which primarily fluctuates based on the change in trading price of our Class A common stock. 
+ Other Income (Expense), net 
+ Other income (expense), net for the three months ended October 31, 2024 and October 31, 2023, primarily reflects realized and unrealized foreign currency exchange gains and losses. 
+ Provision for Income Taxes 
+ Provision for income taxes was immaterial for the three months ended October 31, 2024 and 0.4 million for the three months ended October 31, 2023 , respectively. For the three months ended October 31, 2024 and 2023 , the income tax expense was primarily driven by the current tax on foreign earnings. The effective tax rate for the three months ended October 31, 2024 and 2023 differed from the federal statutory tax rate primarily due to the valuation allowance on the majority of our U.S. and foreign deferred tax assets and foreign rate differences. 
+ 
+ 41 
+
+Table of Contents 
+
+ Nine months ended October 31, 2024 compared to nine months ended October 31, 2023 
+ The following table sets forth a summary of our consolidated results of operations for the interim periods indicated and the changes between such periods. 
+ 
+ Nine Months Ended October 31, 
+ 
+ (in thousands, except percentages) 2024 2023 Change 
+ Change 
+ Revenue 182,798 161,844 20,954 13 Cost of revenue 81,288 81,375 (87) Gross profit 101,510 80,469 21,041 26 Operating expenses Research and development 78,055 87,929 (9,874) (11) Sales and marketing 62,013 66,209 (4,196) (6) General and administrative 58,198 62,161 (3,963) (6) Total operating expenses 198,266 216,299 (18,033) (8) Loss from operations (96,756) (135,830) 39,074 (29) Interest income 8,292 11,753 (3,461) (29) Change in fair value of warrant liabilities 1,126 14,004 (12,878) (92) Other income (expense), net 660 894 (234) (26) Total other income (expense), net 10,078 26,651 (16,573) (62) Loss before provision for income taxes (86,678) (109,179) 22,501 (21) Provision for income taxes 1,364 1,244 120 10 Net loss (88,042) (110,423) 22,381 (20) 
+ Revenue 
+ Revenue increased 21.0 million, or 13 , to 182.8 million for the nine months ended October 31, 2024 from 161.8 million for the nine months ended October 31, 2023. The increase was primarily due to a 12.6 million increase from total customer growth worldwide, including new customers acquired from the Sinergise acquisition and net expansion of existing customer contracts of 8.4 million. EoP Customer Count increased approximately 4 to 1,015 as of October 31, 2024 from 976 as of October 31, 2023. The increase in revenue was primarily driven by growth in the Civil Government and Defense and Intelligence Verticals. 
+ Cost of Revenue 
+ Cost of revenue remained relatively flat, decreasing 0.1 million to 81.3 million, for the nine months ended October 31, 2024, from 81.4 million for the nine months ended October 31, 2023. The decrease was primarily due to a 4.0 million decrease in depreciation expense, which was primarily due to certain high resolution satellites that have fully depreciated. This decrease was partially offset by a 4.0 million increase in costs paid to solution partners and subcontractors. 
+ Research and Development 
+ Research and development expenses decreased 9.9 million, or 11 , to 78.1 million for the nine months ended October 31, 2024, from 87.9 million for the nine months ended October 31, 2023. The decrease was primarily due to a 8.7 million decrease in purchases of material utilized for research and development activities, a 6.4 million decrease in stock-based compensation expense, a 4.5 million decrease in employee-related costs due to reduced headcount, a 1.9 million decrease in non-recurring expenses related to transaction bonuses paid to Sinergise employees, which was allocated from the purchase consideration we paid in connection with the Sinergise acquisition in August 2023, and a 1.1 million decrease in consulting costs. These decreases were partially offset by a 7.5 million decrease in funding recognized for our research and development arrangements, a 2.8 million increase in depreciation expense associated with satellites classified as experimental, and a 1.7 million increase in launch provider costs associated with the launch of a satellite classified as experimental. 
+ 42 
+
+Table of Contents 
+
+ Sales and Marketing 
+ Sales and marketing expenses decreased 4.2 million, or 6 , to 62.0 million, for the nine months ended October 31, 2024, from 66.2 million for the nine months ended October 31, 2023. The decrease was primarily due to a 3.8 million decrease in employee-related costs due to reduced headcount. The decrease was also partially due to a 1.0 million decrease in stock-based compensation expense, a 0.8 million decrease in marketing expense, and a 0.8 million decrease in employee travel and entertainment costs. These decreases were partially offset by a 2.5 million increase in severance and termination benefits charges associated with our headcount reductions. 
+ General and Administrative 
+ General and administrative expenses decreased 4.0 million, or 6 , to 58.2 million for the nine months ended October 31, 2024, from 62.2 million for the nine months ended October 31, 2023. The decrease was primarily due to a 1.7 million decrease in employee-related costs due to reduced headcount, a 1.1 million decrease in our allowance for expected credit losses for accounts receivable, a 0.8 million decrease in insurance costs, a 0.8 million decrease in consulting costs, and a 0.5 million decrease related to recovery of previously-written off accounts receivable. These decreases were partially offset by a 1.6 million of expense associated with the revaluation of the contingent consideration liability for the Sinergise acquisition customer consent escrow. 
+ Interest Income 
+ Interest income decreased 3.5 million, to 8.3 million for the nine months ended October 31, 2024, from 11.8 million for the nine months ended October 31, 2023. The decrease was primarily due to a decrease in our short-term investment balances. 
+ Change in Fair Value of Warrant Liabilities 
+ The change in fair value of warrant liab ilities for both the nine months ended October 31, 2024 and 2023 represents the change in fair value of the public and private placement warrants, which primarily fluctuates based on the change in trading price of our Class A common stock. 
+ Other Income (Expense), net 
+ Other income (expense), net of 0.7 million for the nine months ended October 31, 2024 includes the derecognition of a 1.3 million liability for which settlement is not considered probable. Other income (expense), net of 0.9 million for the nine months ended October 31, 2023 includes the recognition of an insurance claim recovery of 0.8 million associated with a high resolution satellite. 
+ Provision for Income Taxes 
+ Provision for income taxes was 1.4 million and 1.2 million for the nine months ended October 31, 2024 and 2023 , respectively. For the nine months ended October 31, 2024 and 2023, the income tax expense was primarily driven by the current tax on foreign earnings. The effective tax rate for the nine months ended October 31, 2024 and 2023 differed from the federal statutory tax rate primarily due to the valuation allowance on the majority of our U.S. and foreign deferred tax assets and foreign rate differences. 
+ Non-GAAP Information 
+ This Quarterly Report on Form 10-Q includes Non-GAAP Gross Profit, Non-GAAP Gross Margin, Adjusted EBITDA, and Backlog, which are non-GAAP measures that we use to supplement our results presented in accordance with U.S. GAAP. We include these non-GAAP financial measures because they are used by management to evaluate our core operating performance and trends and to make strategic decisions regarding the allocation of capital and new investments. 
+ We define and calculate Non-GAAP Gross Profit as gross profit adjusted for stock-based compensation, amortization of acquired intangible assets classified as cost of revenue, restructuring costs, and employee transaction bonuses in connection with the Sinergise business combination. We define Non-GAAP Gross Margin as Non-GAAP Gross Profit divided by revenue. 
+ We define and calculate Adjusted EBITDA as net income (loss) before the impact of interest income and expense, income tax expense and depreciation and amortization, and further adjusted for the following items: stock-based compensation, change in fair value of warrant liabilities, non-operating income and expenses such as foreign currency exchange gain or loss, restructuring costs, certain litigation expenses, and employee transaction bonuses in connection with the Sinergise business combination. 
+ We present Non-GAAP Gross Profit, Non-GAAP Gross Margin and Adjusted EBITDA because we believe these measures are frequently used by analysts, investors and other interested parties to evaluate companies in our industry and facilitates comparisons on a consistent basis across reporting periods. Further, we believe these measures are 
+ 43 
+
+Table of Contents 
+
+ helpful in highlighting trends in our operating results because they exclude items that are not indicative of our core operating performance. 
+ We define and calculate Backlog as remaining performance obligations plus the cancellable portion of the contract value for contracts that provide the customer with a right to terminate for convenience without incurring a substantive termination penalty and written orders where funding has not been appropriated. Backlog does not include unexercised contract options. Remaining performance obligations represent the amount of contracted future revenue that has not yet been recognized, which includes both deferred revenue and non-cancelable contracted revenue that will be invoiced and recognized in revenue in future periods. Remaining performance obligations do not include contracts which provide the customer with a right to terminate for convenience without incurring a substantive termination penalty, written orders where funding has not been appropriated and unexercised contract options. 
+ An increasing and meaningful portion of our revenue is generated from contracts with the U.S. government and other government customers. Cancellation provisions, such as termination for convenience clauses, are common in contracts with the U.S. government and certain other government customers. We present Backlog because the portion of our customer contracts with such cancellation provisions represents a meaningful amount of our expected future revenues. Management uses backlog to more effectively forecast our future business and results, which supports decisions around capital allocation. It also helps us identify future growth or operating trends that may not otherwise be apparent. We also believe Backlog is useful for investors in forecasting our future results and understanding the growth of our business. Customer cancellation provisions relating to termination for convenience clauses and funding appropriation requirements are outside of our control, and as a result, we may fail to realize the full value of such contracts. 
+ Non-GAAP financial measures have limitations as analytical tools and should not be considered in isolation from, as a substitute for, or superior to, measures of financial performance prepared in accordance with U.S. GAAP. The non-GAAP financial measures presented are not based on any standardized methodology prescribed by U.S. GAAP and are not necessarily comparable to similarly-titled measures presented by other companies, which may have different definitions from ours. Further, certain of the non-GAAP financial measures presented exclude stock-based compensation expenses, which has recently been, and will continue to be for the foreseeable future, a significant recurring expense for our business and an important part of our compensation strategy. 
+ Non-GAAP Gross Profit and Non-GAAP Gross Margin 
+ The table below reconciles Non-GAAP Gross Profit and Non-GAAP Gross Margin to Gross Profit and Gross Margin (the most directly comparable U.S. GAAP measure), for the periods indicated: 
+ 
+ Three Months Ended October 31, Nine Months Ended October 31, (in thousands, except percentages) 2024 2023 2024 2023 Gross Profit 37,517 26,030 101,510 80,469 Cost of revenue Stock-based compensation 745 888 2,563 2,855 Amortization of acquired intangible assets 759 796 2,298 1,674 Restructuring costs (1) 
+ 128 563 1,312 563 Employee transaction bonuses in connection with the Sinergise business combination (2) 
+ 267 267 Non-GAAP Gross Profit 39,149 28,544 107,683 85,828 Gross Margin 
+ 61 47 56 50 Non-GAAP Gross Margin 
+ 64 52 59 53 
+ (1) As part of the 2024 headcount reduction, we recognized 0.1 million and 1.3 million of severance and other employee costs within cost of revenue for the three and nine months ended October 31, 2024, respectively. For the three and nine months ended October 31, 2024, the restructuring related stock-based compensation benefit recognized within cost of revenue of 0.2 million is included on its respective line item. As part of the 2023 headcount reduction, we recognized 0.6 million of severance and other employee costs within cost of revenue for the three and nine months ended October 31, 2023. For the three and nine months ended October 31, 2023, the restructuring related stock-based compensation benefit recognized within cost of revenue of 0.1 million is included on its respective line item. Refer to Note 7 Restructuring to the condensed consolidated financial statements for further information. 
+ (2) Certain employees of Sinergise, which became employees of Planet, were paid cash transaction bonuses in connection with the closing of the Sinergise acquisition. The cost of the transaction bonuses was allocated from the purchase consideration we paid for the acquisition. Refer to Note 5 Acquisition to the condensed consolidated financial statements for further information. 
+ 44 
+
+Table of Contents 
+
+ Adjusted EBITDA 
+ The table below reconciles Adjusted EBITDA to net loss (the most directly comparable U.S. GAAP measure), for the periods indicated: 
+ Three Months Ended October 31, Nine Months Ended October 31, (in thousands) 2024 2023 2024 2023 Net loss (20,081) (38,004) (88,042) (110,423) Interest income (2,414) (3,445) (8,292) (11,753) Income tax provision 25 355 1,364 1,244 Depreciation and amortization 10,117 13,625 36,365 36,033 Change in fair value of warrant liabilities (198) (6,833) (1,126) (14,004) Stock-based compensation 11,829 12,598 36,467 44,611 Restructuring costs (1) 
+ 25 7,341 10,524 7,341 Employee transaction bonuses in connection with the Sinergise business combination (2) 
+ 2,317 2,317 Certain litigation expenses (3) 
+ 395 395 Other (income) expense, net 60 69 (660) (894) Adjusted EBITDA (242) (11,977) (13,005) (45,528) 
+ (1) As part of the 2024 headcount reduction, we recognized immaterial severance and other employee costs for the three months ended October 31, 2024 and 10.5 million of severance and other employee costs for the nine months ended October 31, 2024. For the three and nine months ended October 31, 2024, the restructuring related stock-based compensation benefit of 1.4 million is included on its respective line item. As part of the 2023 headcount reduction, we recognized 7.3 million of severance and other employee costs for the three and nine months ended October 31, 2023. For the three and nine months ended October 31, 2023, the restructuring related stock-based compensation benefit of 1.5 million is included on its respective line item. Refer to Note 7 Restructuring to the condensed consolidated financial statements for further information. 
+ (2) Certain employees of Sinergise, which became employees of Planet, were paid cash transaction bonuses in connection with the closing of the Sinergise acquisition. The cost of the transaction bonuses was allocated from the purchase consideration we paid for the acquisition. Refer to Note 5 Acquisition to the condensed consolidated financial statements for further information. 
+ (3) Expenses relating to the Delaware class action lawsuit. Refer to Note 10 Commitments and Contingencies to the condensed consolidated financial statements for further information. 
+ There are a number of limitations related to the use of Adjusted EBITDA, including: 
+ Adjusted EBITDA excludes stock-based compensation, which has recently been, and will continue to be for the foreseeable future, a significant recurring expense for our business and an important part of our compensation strategy; 
+ Adjusted EBITDA excludes depreciation and amortization expense and, although these are non-cash expenses, the assets being depreciated and amortized will have to be replaced in the future; 
+ Adjusted EBITDA does not reflect interest expense, or the cash requirements necessary to service interest or principal payments on debt, which reduces cash available to us; 
+ Adjusted EBITDA does not include severance expense in conjunction with a reduction in headcount, which reduces cash available to us; 
+ Adjusted EBITDA does not reflect income tax expense that reduces cash available to us; and 
+ the expenses and other items that we exclude in our calculation of Adjusted EBITDA may differ from the expenses and other items, if any, that other companies may exclude from similar measures when they report their operating results. 
+ 45 
+
+Table of Contents 
+
+ Backlog 
+ The table below reconciles Backlog to remaining performance obligations for the periods indicated: 
+ (in thousands) 
+ October 31, 2024 January 31, 2024 Remaining performance obligations 145,890 132,571 Cancellable amount of contract value 86,250 109,821 Backlog 232,140 242,392 
+ For remaining performance obligations as of October 31, 2024, the Company expects to recognize approximately 82 over the next 12 months, approximately 98 over the next 24 months, and the remainder thereafter. For Backlog as of October 31, 2024, the Company expects to recognize approximately 70 over the next 12 months, approximately 91 over the next 24 months, and the remainder thereafter. 
+ Liquidity and Capital Resources 
+ Since inception, we have incurred net losses and negative cash flows from operations. Our operations have historically been primarily funded by the net proceeds from the sale of our equity securities and borrowings under credit facilities, as well as cash received from our customers. We currently have no debt outstanding. 
+ We measure liquidity in terms of our ability to fund the cash requirements of our business operations, including working capital and capital expenditure needs, contractual obligations, including debt obligations, and other commitments, with cash flows from operations and other sources of funding. Our current working capital needs relate mainly to our continued development of our platform and product offerings in new markets, as well as compensation and benefits of our employees. Our ability to expand and grow our business will depend on many factors, including our working capital needs and the evolution of our operating cash flows. 
+ As of October 31, 2024 and January 31, 2024, we had 139.0 million and 83.9 million, respectively, in cash and cash equivalents. Additionally, as of October 31, 2024 and January 31, 2024, we had short-term investments of 103.3 million and 215.0 million, respectively, which are highly liquid in nature and available for current operations. We believe our anticipated operating cash flows together with our cash on hand provide us with the ability to meet our obligations as they become due during the next 12 months. 
+ We expect our capital expenditures and working capital requirements to continue to increase in the foreseeable future as we seek to grow our business. We could also need additional cash resources due to significant acquisitions, an accelerated manufacturing timeline for new satellites, competitive pressures or regulatory requirements. We may need to seek additional equity, equity-linked or debt financing. The issuance of additional shares may create additional dilution to our stockholders. The incurrence of debt financing would result in debt service obligations and the instruments governing such debt could provide for operating or financial covenants that would restrict our operations. We cannot assure you that any such financing will be available on favorable terms, or at all. If needed financing is not available, or if the terms of financing are less desirable than we expect, we may be forced to decrease our level of investment in software and market expansion efforts or to scale back our existing operations, which could have an adverse impact on our business and financial prospects. 
+ As of October 31, 2024, our principal contractual obligations and commitments include lease obligations for real estate and ground stations and minimum purchase commitments for hosting services from Google, LLC. Refer to Notes 8, 10, and 12 to our unaudited condensed consolidated financial statements in Part I, Item 1 of this Quarterly Report on Form 10-Q for more information regarding these cash requirements. 
+ We do not engage in any off-balance sheet activities or have any arrangements or relationships with unconsolidated entities, such as variable interest, special purpose, and structured finance entities. 
+ Statement of Cash Flows 
+ The following tables present a summary of cash flows from operating, investing and financing activities for the following comparative periods. For additional detail, refer to the unaudited condensed consolidated statements of cash flows as presented within the unaudited condensed consolidated financial statements. 
+ Nine Months Ended October 31, (in thousands) 2024 2023 Net cash provided by (used in) Operating activities (8,079) (43,874) Investing activities 71,040 (24,032) Financing activities (15,302) (357) 
+ 46 
+
+Table of Contents 
+
+ Net cash used in operating activities 
+ Net cash used in operating activities for the nine months ended October 31, 2024, primarily consisted of the net loss of 88.0 million, adjusted for non-cash items and changes in operating assets and liabilities. Non-cash items primarily included stock-based compensation expense of 36.5 million and depreciation and amortization expense of 36.4 million. The net change in operating assets and liabilities primarily consisted of a 8.5 million decrease in prepaid expenses and other assets and a 5.5 million decrease in accounts receivable, which were partially offset by a 7.7 million decrease in accounts payable, accrued and other liabilities. 
+ Net cash used in operating activities for the nine months ended October 31, 2023, primarily consisted of the net loss of 110.4 million, adjusted for non-cash items and changes in operating assets and liabilities. Non-cash items primarily included stock-based compensation expense of 44.6 million and depreciation and amortization expense of 36.0 million, which were partially offset by a change in fair value of warrant liabilities of 14.0 million. The net change in operating assets and liabilities primarily consisted of a 19.6 million increase in deferred revenue and a 9.5 million decrease in prepaid expenses and other assets, which were partially offset by a 20.7 million decrease in accounts payable, accrued and other liabilities, and a 3.9 million increase in accounts receivable. 
+ Net cash provided by (used in) investing activities 
+ Net cash provided by investing activities for the nine months ended October 31, 2024, primarily consisted of sales of available-for-sale securities of 162.3 million and maturities of available-for-sale securities of 57.0 million, which were partially offset by purchases of available-for-sale securities of 105.6 million, purchases of property and equipment of 32.7 million, and purchases of licensed imagery of 4.6 million. 
+ Net cash used in investing activities for the nine months ended October 31, 2023, primarily consisted of purchases of available-for-sale securities of 166.2 million, purchases of property and equipment of 29.1 million, and 7.5 million of consideration paid related to the acquisition of Sinergise, which were partially offset by maturities of available-for-sale securities of 142.9 million and sales of available-for-sale securities of 40.1 million. 
+ Net cash used in financing activities 
+ Net cash used in financing activities for the nine months ended October 31, 2024 included 8.8 million of contingent consideration payments for business acquisitions, of which 7.5 million relates to the settlement of the customer consent contingent consideration liability for the Sinergise acquisition. Net cash used in financing activities for the nine months ended October 31, 2024 also included p ayments for withholding taxes related to the net share settlement of equity awards of 7.3 million, which was partially offset by proceeds from our employee stock purchase program of 1.1 million. 
+ Net cash used in financing activities for the nine months ended October 31, 2023, consisted of p ayments for withholding taxes related to the net share settlement of equity awards of 7.1 million, which was partially offset by proceeds from the exercise of common stock options of 6.8 million. 
+ Critical Accounting Policies and Estimates 
+ Our discussion and analysis of our financial condition and results of operations are based upon our unaudited condensed consolidated financial statements, which have been prepared in accordance with U.S. GAAP. The preparation of our unaudited condensed consolidated financial statements and related disclosures requires us to make estimates, assumptions and judgments that affect the reported amounts of assets, liabilities, revenues, costs and expenses and related disclosures. The accounting policies that have been identified as critical to our business operations and to understanding the results of our operations pertain to revenue recognition, stock-based compensation, public and private placement warrant liabilities, property and equipment and long-lived assets, business combinations, and goodwill. The application of each of these critical accounting policies and estimates is discussed in Part II, Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations of our 2024 Form 10-K. 
+ Recent Accounting Pronouncements 
+ Refer to Note 2 to our unaudited condensed consolidated financial statements included elsewhere in Part I, Item 1 of this Form 10-Q for information regarding recently issued accounting pronouncements. 
+ 
+ 47 
+
+Table of Contents 
+
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk. 
+ We have in the past and may in the future be exposed to certain market risks, including foreign currency exchange risk, interest rate risk and inflation risk, in the ordinary course of our business. For information relating to quantitative and qualitative disclosures about these market risks, refer to Item 7A Quantitative and Qualitative Disclosures About Market Risk contained in Part II of our 2024 Form 10-K. Our exposure to market risk has not changed materially since January 31, 2024 . 
+
+Item 4. Controls and Procedures. 
+ Evaluation of Disclosure Controls and Procedures 
+ Our management, with the participation of our principal executive officer and principal financial officer, evaluated the effectiveness of our disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) as of the end of the period covered by this Quarterly Report on Form 10-Q. Based on such evaluation, our principal executive officer and principal financial officer have concluded that our disclosure controls and procedures were effective as of October 31, 2024 at the reasonable assurance level. 
+ Changes in Internal Control over Financial Reporting 
+ There were no changes in our internal control over financial reporting identified in connection with the evaluation required by Rule 13a-15(d) and 15d-15(d) of the Exchange Act that occurred during the three months ended October 31, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ Limitations on the Effectiveness of Disclosure Controls and Procedures 
+ Our management, including our Chief Executive Officer and Chief Financial Officer, does not expect that our disclosure controls and procedures or internal control over financial reporting will prevent all errors and all fraud. A control system, no matter how well designed and implemented, can provide only reasonable, not absolute, assurance that the control system s objectives will be met. Further, the design of a control system must reflect the fact that there are resource constraints and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues within a company are detected. The inherent limitations include the realities that judgments in decision-making can be faulty and that breakdowns can occur because of simple errors or mistakes. Controls can also be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the controls. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions or that the degree of compliance with the policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and may not be detected. 
+
+Part II - Other Information 
+
+Item 1. Legal Proceedings. 
+ See discussion of Legal Proceedings in Note 10 to the condensed consolidated financial statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q 
+
+Item 1A. Risk Factors. 
+ In addition to the other information set forth in this Quarterly Report on Form 10-Q, you should carefully consider the factors discussed in Part I, Item 1A, "Risk Factors" in our Annual Report on Form 10-K, for the fiscal year ended January 31, 2024. Other than the risk factor set forth below, there have been no material changes in our risk factors from those disclosed in our Annual Report on Form 10-K. 
+ Risks Related to Ownership of Our Securities and Operating as a Public Company 
+ Any outstanding or potential stockholder litigation may result in substantial costs and diversion of our management s attention and resources. 
+ The market price of our Class A common stock may be volatile and, in the past, companies that have experienced volatility in the market price of their stock have been subject to securities class action litigation. We are and may continue to be subject to stockholder litigation against us and we may be the target of this type of litigation in the future. Any such litigation against us could result in substantial costs and divert management s attention from other business concerns, which could seriously harm our business or reputation. 
+ 
+ 48 
+
+Table of Contents 
+
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 
+ None, other than the shares repurchased pursuant to net settlement by employees in satisfaction of income tax withholding obligations incurred through the vesting of restricted stock units. 
+
+Item 3. Defaults Upon Senior Securities. 
+ Not applicable. 
+
+Item 4. Mine Safety Disclosures. 
+ Not applicable. 
+
+Item 5. Other Information. 
+ Securities Trading Plans of Directors and Executive Officers 
+ During our last fiscal quarter, no director or officer, as defined in Rule 16a-1(f), or a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement, each as defined in Regulation S-K Item 408. 
+ 
+ 49 
+
+Table of Contents 
+
+ Item 6. Exhibits. 
+ 
+ Exhibit Description 10.1 
+ Amendment 4 to Google Platform Addendum, dated April 2 4 , 2 024, by and between Planet Labs PBC and Google Inc. 
+ 31.1 Certification by Chief Executive Officer pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 31.2 Certification by Chief Financial Officer pursuant to Rule 13a-14(a) or 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 32.1 Certification by Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 32.2 Certification by Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 101.INS Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because iXBRL tags are embedded within the Inline XBRL document). 101.SCH Inline XBRL Taxonomy Extension Schema Document 
+ 101.CAL Inline XBRL Taxonomy Calculation Linkbase Document 101.DEF Inline XBRL Taxonomy Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (formatted as Inline XBRL) 
+ Portions of this exhibit (indicated by asterisks) have been omitted under rules of the SEC permitting the confidential treatment of select information. 
+ Furnished herewith. 
+ 
+ 50 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ Date: December 9, 2024 
+ 
+ PLANET LABS PBC By: /s/ Ashley Johnson Ashley Johnson President and Chief Financial Officer 
+ (Duly Authorized Officer, Principal Financial Officer and Principal Accounting Officer) 
+
+51 
+
+<EX-10.1>
+ 2
+ a101q32025.htm
+ EX-10.1
+
+Document 
+ Certain confidential information contained in this document, marked by brackets and asterisks, has been omitted pursuant to Item 601(b)(10)(iv) of Regulation S-K, because the Company customarily and actually treats such information as private or confidential and the omitted information is not material. 
+ 
+ Exhibit 10.1 
+
+ Planet Labs PBC - Pricing Reference ID 1711050921336 
+ CONFIDENTIAL DMS Template ID 4759304 (v3.4) 
+ 
+ Amendment 4 to Google Cloud Platform Addendum 
+ 
+ This Amendment Amendment is between Google LLC Google and the Customer in the signature block below Customer and amends the Google Cloud Platform License Agreement previously entered into by the parties with an effective date on December 15, 2016 (as amended, the Agreement ). Such Agreement includes the Google Cloud Platform Addendum entered into by the parties with an effective date on February 13, 2020 (as amended, the Addendum ). Capitalized terms used but not defined in this Amendment have the meaning given to them in the Agreement. This Amendment will be effective from the date countersigned by the last party Amendment 4 Effective Date ). 
+ 
+ The parties agree as follows 
+ 
+ 1. Amendments . From the Amendment 4 Effective Date, the Addendum is amended as follows 
+ 
+ 1.1 Additional Definitions . The following new subsection P is added to Addendum Section 1 (Definitions) 
+ 
+ P. Amendment 4 Implementation Date means a Google-selected date that is no later than 5 business days after the Amendment 4 Effective Date. 
+ 
+ 1.2 Additional Discount . From the Amendment 4 Implementation Date until the end of the Discount Period, Customer will receive a discount off the list price as of the Amendment 4 Implementation Date for the following SKU(s) 
+
+2. Miscellaneous . All other terms and conditions of the Agreement (including the Addendum) remain unchanged and in full force and effect. This Amendment 4 may be executed in one or more counterparts including facsimile, PDF or other electronic copies, which when taken together upon proper delivery shall constitute a single instrument. In the event of a conflict between the terms and conditions of the Agreement and the terms and conditions of this Amendment 4, the terms and conditions of this Amendment 4 shall govern. 
+ 
+ Signed by the parties authorized representatives on the dates below. 
+ 
+ GOOGLE CUSTOMER Planet Labs PBC 
+ 
+ By s Philipp Schindler 2024.04.24 By s Ashley Johnson 
+ Name Philipp Schindler 10 18 21 -07 00 Name Ashley Johnson 
+ Title Authorized Signatory Title CFO COO 
+ Date Date 23 April 2024 
+
+</EX-10.1>
+
+<EX-31.1>
+ 3
+ a311q32025.htm
+ EX-31.1
+
+Document 
+ Exhibit 31.1 
+
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER PURSUANT TO 
+ EXCHANGE ACT RULES 13a-14(a) AND 15d-14(a) AS ADOPTED PURSUANT TO 
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, William Marshall, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Planet Labs PBC 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15(d)-15(f)) for the registrant and have 
+ 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Dated December 9, 2024 
+
+By s William Marshall 
+ William Marshall 
+ Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ a312q32025.htm
+ EX-31.2
+
+Document 
+ Exhibit 31.2 
+
+ CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER PURSUANT TO 
+ EXCHANGE ACT RULES 13a-14(a) AND 15d-14(a) AS ADOPTED PURSUANT TO 
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Ashley Johnson, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Planet Labs PBC 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15(d)-15(f)) for the registrant and have 
+ 
+ a. Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ b. Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ c. Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ d. Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ 
+ a. All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ b. Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Dated December 9, 2024 
+
+By s Ashley Johnson 
+ Ashley Johnson 
+ President and Chief Financial Officer 
+ (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ a321q32025.htm
+ EX-32.1
+
+Document 
+ Exhibit 32.1 
+
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report on Form 10-Q (the Form 10-Q of Planet Labs PBC (the Company for the period ended October 31, 2024, William Marshall, as Chief Executive Officer of the Company, hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to the best of his knowledge 
+ 
+ 1. the Company s Form 10-Q fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ 
+ 2. the information contained in such Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Dated December 9, 2024 
+ 
+ By s William Marshall 
+ William Marshall 
+ Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ a322q32025.htm
+ EX-32.2
+
+Document 
+ Exhibit 32.2 
+
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report on Form 10-Q (the Form 10-Q of Planet Labs PBC (the Company for the period ended October 31, 2024, Ashley Johnson, as Chief Financial Officer of the Company, hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to the best of her knowledge 
+ 
+ 1. the Company s Form 10-Q fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ 
+ 2. the information contained in such Form 10-Q fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Dated December 9, 2024 
+ 
+ By s Ashley Johnson 
+ Ashley Johnson 
+ President and Chief Financial Officer 
+ (Principal Financial Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 7
+ pl-20241031.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 8
+ pl-20241031_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 9
+ pl-20241031_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 10
+ pl-20241031_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 11
+ pl-20241031_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

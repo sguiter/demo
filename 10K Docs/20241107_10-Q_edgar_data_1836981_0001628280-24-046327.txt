@@ -1,0 +1,1526 @@
+<Header>
+<FileStats>
+    <FileName>20241107_10-Q_edgar_data_1836981_0001628280-24-046327.txt</FileName>
+    <GrossFileSize>10838822</GrossFileSize>
+    <NetFileSize>133278</NetFileSize>
+    <NonText_DocumentType_Chars>1647659</NonText_DocumentType_Chars>
+    <HTML_Chars>4305197</HTML_Chars>
+    <XBRL_Chars>2419844</XBRL_Chars>
+    <XML_Chars>2067780</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001628280-24-046327.hdr.sgml : 20241107
+<ACCEPTANCE-DATETIME>20241107162846
+ACCESSION NUMBER:		0001628280-24-046327
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		107
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241107
+DATE AS OF CHANGE:		20241107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BigBear.ai Holdings, Inc.
+		CENTRAL INDEX KEY:			0001836981
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				854164597
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40031
+		FILM NUMBER:		241436291
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6811 BENJAMIN FRANKLIN DRIVE, SUITE 200
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21046
+		BUSINESS PHONE:		(410) 967-0335
+
+	MAIL ADDRESS:	
+		STREET 1:		6811 BENJAMIN FRANKLIN DRIVE, SUITE 200
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21046
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GigCapital4, Inc.
+		DATE OF NAME CHANGE:	20201217
+
+</SEC-Header>
+</Header>
+
+ 0001628280-24-046327.txt : 20241107
+
+10-Q
+ 1
+ bbai-20240930.htm
+ 10-Q
+
+bbai-20240930 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from ______ to ______ 
+ 
+ Commission file number 
+ 
+ (Exact name of registrant as specified in its charter) 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) , , , 
+ (Address of Principal Executive Offices) (Zip Code) ) 
+ Registrant's telephone number, including area code 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ 
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports); and (2) has been subject to such filing requirements for the past 90 days. x No o 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No o 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act: 
+ Large accelerated filer o 
+ x 
+ Non-accelerated filer o 
+ Smaller reporting company 
+ Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes o No 
+ There were shares of our common stock, 0.0001 par value per share, outstanding as of November 1, 2024. 
+
+Table of Contents 
+
+BIGBEAR.AI HOLDINGS, INC. 
+ Quarterly Report on Form 10-Q 
+ September 30, 2024 
+ 
+ TABLE OF CONTENTS 
+ 
+ Item Page PART I FINANCIAL INFORMATION 
+ Item 1. Financial Statements (Unaudited) 
+ Consolidated Balance Sheets as of September 30, 2024 and December 31, 2023 
+ 3 
+ Consolidated Statements of Operations for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 4 
+ Consolidated Statements of Stockholders (Deficit) Equity for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 5 
+ Consolidated Statements of Cash Flows for the Nine Months Ended September 30, 2024 and 2023 
+ 7 
+ Notes to Consolidated Financial Statements (Unaudited) 
+ 8 
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 31 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 45 
+ Item 4. Controls and Procedures 
+ 46 
+ PART II OTHER INFORMATION 
+ 46 
+ Item 1. Legal Proceedings 
+ 46 
+ Item 1A Risk Factors 
+ 46 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 
+ 46 
+ Item 3. Defaults Upon Senior Securities. 
+ 46 
+ Item 5. Other Information 
+ 46 
+ Item 6. Exhibits 
+ 47 
+ SIGNATURES 
+ 48 
+ 
+ 2 
+
+Table of Contents 
+
+PART I FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+
+BIGBEAR.AI HOLDINGS, INC. 
+ CONSOLIDATED BALANCE SHEETS 
+ (unaudited; in thousands, except share and per share data 
+ September 30, 2024 December 31, 2023 Assets 
+ Current assets: 
+ Cash and cash equivalents 
+ Accounts receivable, less allowance for credit losses of as of September 30, 2024 and as of December 31, 2023 
+ Contract assets 
+ Prepaid expenses and other current assets 
+ Total current assets 
+ Non-current assets: 
+ Property and equipment, net 
+ Goodwill 
+ Intangible assets, net 
+ Right-of-use assets Other non-current assets 
+ Total assets 
+ Liabilities and stockholders deficit 
+ Current liabilities: 
+ Accounts payable 
+ Short-term debt, including current portion of long-term debt 
+ Accrued liabilities 
+ Contract liabilities 
+ Current portion of long-term lease liability Derivative liabilities Other current liabilities 
+ Total current liabilities 
+ Non-current liabilities: 
+ Long-term debt, net 
+ Long-term lease liability Deferred tax liabilities 
+ Total liabilities 
+ Commitments and contingencies (Note 13) 
+ ; shares authorized and shares issued and outstanding at September 30, 2024 and shares issued and outstanding at December 31, 2023 
+ Additional paid-in capital Treasury stock, at cost shares at September 30, 2024 and December 31, 2023 
+ ) ) Accumulated deficit 
+ ) ) Accumulated other comprehensive loss 
+ ) Total stockholders equity (deficit) 
+ ) Total liabilities and stockholders equity (deficit) 
+ 
+ The accompanying notes to the consolidated financial statements are an integral part of these statements. 
+ 3 
+
+BIGBEAR.AI HOLDINGS, INC. 
+ CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS 
+ unaudited; in thousands, except share and per share data 
+
+Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenues 
+ Cost of revenues 
+ Gross margin 
+ Operating expenses: 
+ Selling, general and administrative 
+ Research and development 
+ ) Restructuring charges Transaction expenses 
+ Goodwill impairment Operating loss ) ) ) ) Interest expense 
+ Net (decrease) increase in fair value of derivatives 
+ ) ) ) Other income 
+ ) ) ) ) (Loss) income before taxes 
+ ) ) ) Income tax expense (benefit) ) Net (loss) income 
+ ) ) ) Basic net (loss) income per share 
+ ) ) ) Diluted net (loss) income per share 
+ ) ) ) Weighted-average shares outstanding: 
+ Basic 
+ Diluted 
+ Other comprehensive loss 
+ Foreign currency translation 
+ ) ) Total other comprehensive loss 
+ ) ) Total comprehensive (loss) income 
+ ) ) ) 
+ 
+ The accompanying notes to the consolidated financial statements are an integral part of these statements. 
+ 4 
+
+BIGBEAR.AI HOLDINGS, INC. 
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY (DEFICIT) 
+ unaudited; in thousands, except share data 
+ 
+ Three Months Ended September 30, 2024 Common stock Additional Treasury Accumulated Accumulated other Total stockholders Shares Amount paid in capital stock deficit comprehensive loss equity As of June 30, 2024 
+ ) ) Net loss 
+ ) ) Foreign currency translation 
+ ) ) Equity-based compensation expense 
+ Issuance of common shares as consideration for the acquisition of Pangiam Issuance of shares for equity-based compensation awards, net ) ) As of September 30, 2024 
+ ) ) ) Three Months Ended September 30, 2023 Common stock Additional Treasury Accumulated Accumulated other Total stockholders Shares Amount paid in capital stock deficit comprehensive loss deficit As of June 30, 2023 
+ ) ) ) Net income Equity-based compensation expense Issuance of shares for equity-based compensation awards, net ) ) Issuance of shares purchased under ESPP As of September 30, 2023 ) ) ) 
+ 
+ The accompanying notes to the consolidated financial statements are an integral part of these statements. 
+ 5 
+
+BIGBEAR.AI HOLDINGS, INC. 
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY (DEFICIT) 
+ unaudited; in thousands, except share data 
+
+Nine Months Ended September 30, 2024 Common stock Additional Treasury Accumulated Accumulated other Total stockholders Shares Amount paid in capital stock deficit comprehensive loss equity As of December 31, 2023 ) ) ) Net loss ) ) Foreign currency translation ) ) Equity-based compensation expense Exercise of options Issuance of common shares as consideration for the acquisition of Pangiam Proceeds from exercise of 2023 warrants Issuance of shares for equity-based compensation awards, net ) ) Issuance of shares for exercised convertible notes Issuance of shares purchased under ESPP As of September 30, 2024 ) ) ) Nine Months Ended September 30, 2023 Common stock Additional Treasury Accumulated Accumulated other Total stockholders Shares Amount paid in capital stock deficit comprehensive loss deficit As of December 31, 2022 
+ ) ) ) Net loss ) ) Equity-based compensation expense Issuance of Private Placement shares Issuance of Registered Direct Offering shares Issuance of shares for equity-based compensation awards, net ) ) Issuance of shares for exercised convertible notes Issuance of shares purchased under ESPP As of September 30, 2023 ) ) ) 
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements. 
+ 6 
+
+BIGBEAR.AI HOLDINGS, INC. 
+ CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (unaudited in thousands 
+
+Nine Months Ended September 30, 2024 2023 Cash flows from operating activities: 
+ Net loss ) ) Adjustments to reconcile net loss to net cash used in operating activities: 
+ Depreciation and amortization expense 
+ Amortization of debt issuance costs 
+ Equity-based compensation expense 
+ Goodwill impairment Non-cash lease expense Provision for doubtful accounts 
+ Deferred income tax (benefit) expense 
+ ) Net increase in fair value of derivatives 
+ ) Loss on sale of property and equipment Changes in assets and liabilities: 
+ Increase in accounts receivable 
+ ) ) Decrease in contract assets 
+ Decrease in prepaid expenses and other assets 
+ Decrease in accounts payable 
+ ) ) Increase in accrued liabilities 
+ Increase in contract liabilities 
+ Decrease in other liabilities 
+ ) ) Net cash used in operating activities 
+ ) ) Cash flows from investing activities: 
+ Acquisition of business, net of cash acquired 
+ Purchases of property and equipment 
+ ) ) Capitalized software development costs 
+ ) ) Net cash provided by (used in) investing activities 
+ ) Cash flows from financing activities: 
+ Proceeds from issuance of shares for exercised RDO and PIPE warrants 
+ Proceeds from issuance of Private Placement and Registered Direct Offering shares 
+ Payment of Private Placement and Registered Direct Offering transaction costs 
+ ) Repayment of short-term borrowings 
+ ) ) Issuance of common stock upon ESPP purchase 
+ Proceeds from exercise of options 
+ Payments of tax withholding from the issuance of common stock 
+ ) ) Net cash provided by financing activities 
+ Effect of foreign currency rate changes on cash and cash equivalents ) Net increase in cash and cash equivalents 
+ Cash and cash equivalents at the beginning of period 
+ Cash and cash equivalents at the end of the period 
+ Supplemental schedule of non-cash investing and financing activities: Issuance of common stock as consideration for Pangiam acquisition 
+
+The accompanying notes to the consolidated financial statements are an integral part of these statements. 
+ 7 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+Note 1 
+
+Note 2 
+
+8 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+Note 3 
+ 
+ million, net of tax benefits. The Company had completed this organizational restructuring as of March 31, 2024. There were unpaid employee separation costs related to this organizational restructuring as of September 30, 2024. 
+ 
+ During the three months ended March 31, 2023, the Company refined its organizational structure resulting in employee separation costs of million, net of tax benefits. The Company had completed this organizational restructuring as of March 31, 2023. There were unpaid employee separation costs related to this organizational restructuring as of December 31, 2023. 
+
+Note 4 
+ 
+ 9 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+shares of the Company s common stock to Seller based on the -day volume-weighted average price for common stock ending on the trading day immediately prior to the date of the Merger Agreement of , representing an enterprise value of million (which was subject to customary adjustments for indebtedness, cash, working capital and transaction expenses) (the Purchase Price ), less million that was held back from the Purchase Price at the time of the closing of the Mergers to cover any post-closing downward adjustments to the Purchase Price (the Holdback Amount ). On July 2, 2024 (the Finalization Date ), BigBear.ai issued shares of common stock at per share (as determined according to the volume weighted average price over the trading days ending immediately prior to the Finalization Date (as defined in the Purchase Agreement)) as settlement of the final determination of the post-close adjusted Purchase Price. 
+ ) Equity issued ) Purchase consideration ) Assets: Cash Accounts receivable Prepaid expenses and other current assets Property and equipment Right-of-use assets Intangible assets ) Other non-current assets Total assets acquired ) Liabilities: Accounts payable Accrued expenses Other current liabilities ) Deferred revenue Current portion of long-term lease liability 
+ ) Long-term lease liability 
+ ) Total liabilities acquired ) Fair value of net identifiable assets acquired Goodwill ) 
+ 
+ On July 2, 2024, the Company issued shares of common stock at per share as settlement of the final determination of the post-close adjusted Purchase Price. 
+ 10 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+Trade names 
+ Customer relationships Total intangible assets 
+ 
+ The acquired technology, trade names, and customer relationship intangible assets have a weighted-average estimated useful lives of years, years, and years , respectively. 
+ 
+ The fair value of the acquired technology and trade name was determined using the relief from royalty RFR method. The fair value of the acquired customer relationships was determined using the excess earnings method. 
+ 
+ The acquisition was accounted for as a business combination, whereby the excess of the purchase consideration over the fair value of identifiable net assets was allocated to goodwill. The goodwill reflects the potential synergies and expansion of the Company s offerings across product lines and markets complementary to its existing products and markets. For tax purposes, the goodwill related to the acquisition is deductible. 
+ 
+ The results of operations of Pangiam for the period from February 29, 2024 to September 30, 2024 have been included in the results of operations for the nine months ended September 30, 2024. The post-acquisition net revenues and net loss included in the results of operations for the nine months ended September 30, 2024 were million and million, respectively. 
+ 
+ Pro Forma Financial Data (Unaudited) 
+ 
+ Net loss ) ) 
+ 
+ The amounts included in the pro forma information are based on the historical results and do not necessarily represent what would have occurred if the business combination had taken place as o f January 1, 2023, n or do they represent the results that may occur in the future. Accordingly, the pro forma financial information should not be relied upon as being indicative of the results that would have been realized had the acquisition occurred as of the date indicated or that may be achieved in the future. 
+ 
+ The Company incurred million of transaction expenses attributable to the acquisition of Pangiam during the nine months ended September 30, 2024, which have been recorded in the pro forma results for the twelve months ended December 31, 2023. The Company incurred million of goodwill impairment as outlined in Note 6 Goodwill during the nine months ended September 30, 2024, which has been recorded in the pro forma results for the nine months ended September 30, 2024. 
+
+Note 5 
+ 
+ 11 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+2023 RDO warrants Derivative liabilities IPO warrants Derivative liabilities 2024 PIPE warrants Derivative liabilities 2024 RDO warrants Derivative liabilities Total recurring fair value measurements: Nonrecurring fair value measurement: 
+ Goodwill (1) 
+ Goodwill December 31, 2023 Balance Sheet Caption Level 1 Level 2 Level 3 Total 2023 PIPE warrants Derivative liabilities 2023 RDO warrants Derivative liabilities IPO warrants Derivative liabilities 2024 PIPE warrants Derivative liabilities 2024 RDO warrants Derivative liabilities Total recurring fair value measurements: Nonrecurring fair value measurement: 
+ Goodwill 
+ Goodwill 
+ million was written down to its implied fair value of million, resulting in an impairment charge of million, which was included in earnings during the first quarter. Differences between the implied fair value of million and the balance as of September 30, 2024 relate to subsequent measurement period adjustments. 
+ 
+ Additions Changes in fair value ) ) ) Settlements ) ) ) September 30, 2024 
+
+Note 6 
+ 
+ 12 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+million non-cash goodwill impairment charge during the three months ended March 31, 2024. Our goodwill impairment test reflected an allocation of and between the income and market-based approaches, respectively. Significant inputs into the valuation models included the discount rate, EBITDA growth and estimated future cash flows. We used a discount rate of , guideline peer group and the historical and forward-looking revenue of the peer group in the goodwill impairment test. Subsequent to the impairment, there was excess of reporting unit fair value over carrying value. 
+ 
+ Third Quarter of Fiscal 2024 
+ 
+ During the third quarter of fiscal 2024, we reevaluated our long-term forecasts due to changes in our expectations about the timing of forecasted revenues for one of our higher growth products. We concluded that the revision to the Company s forecasts constituted a triggering event and therefore performed a qualitative impairment analysis as of September 30, 2024. Due to the combination of changes to our forecasts and lack of headroom resulting from our goodwill impairment during the first quarter of fiscal 2024, we could not conclude that it is more likely than not that the fair value exceeded the carrying value of our reporting unit as of September 30, 2024 and therefore performed a quantitative interim impairment test. 
+ 
+ Our quantitative goodwill impairment test reflected an allocation of and between the income and market-based approaches, respectively. Significant inputs into the valuation models included the discount rate, EBITDA growth and estimated future cash flows. We used a discount rate of , guideline peer group and the historical and forward-looking revenue of the peer group in the goodwill impairment test. It was determined that there was no impairment for the three months ended September 30, 2024. 
+ 
+ Because the fair value of the reporting unit approximated its carrying value, a negative change in the key assumptions used in the interim impairment analysis or an increase in the carrying value may result in a future impairment of goodwill. Any significant adverse changes in future periods to our internal forecasts or external market conditions could reasonably be expected to negatively affect our key assumptions and may result in future goodwill impairment charges which could be material. For example, keeping all other assumptions the same, an additional increase in the discount rate or an increase in the carrying value could result in an impairment of goodwill. 
+ 
+ First Quarter of Fiscal 2023 
+ 
+ During the first quarter of fiscal 2023, the Company assessed if the reorganization described in Note 3 was potentially masking a goodwill impairment by performing a quantitative goodwill impairment test of the Company s reporting units immediately before and after the reorganization. Our goodwill impairment test reflected an allocation of and between the income and market-based approaches, respectively. Significant inputs into the valuation models included the discount rate, EBITDA growth and estimated future cash flows. We used a discount rate of , guideline peer group and the historical and forward-looking revenue of the peer group in the goodwill impairment test. The fair value of the Company s reporting units immediately before and after the reorganization exceeded its carrying values. 
+ 
+ Goodwill arising from the Pangiam acquisition Goodwill impairment ) As of September 30, 2024 
+ 
+ Accumulated impairment losses to goodwill were million as of September 30, 2024 . 
+ 
+ 13 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+Note 7 
+ 
+ ) Technology ) Software for sale ) Trade name ) Total ) December 31, 2023 Gross carrying amount Accumulated amortization Impact of foreign currency translation 
+ Net carrying amount Weighted average useful life in years Customer relationships ) Technology ) Software for sale Trade name Total ) 
+ 
+ Amortization expense of million and was recognized for the capitalized software development costs during the three and the nine months ended September 30, 2024 and September 30, 2023, respectively. 
+
+2025 2026 2027 2028 Thereafter Total estimated amortization expense 
+ 
+ 14 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+Note 8 
+ 
+ Prepaid expenses Prepaid taxes Total prepaid expenses and other current assets 
+
+Note 9 
+ Accrued interest 
+ Legal accruals Other accrued expenses Total accrued liabilities 
+
+Note 10 
+ 
+ Bank of America Senior Revolver D O Financing Loan Total debt Less: unamortized issuance costs Total debt, net Less: current portion Long-term debt, net 
+ 
+ Convertible Notes 
+ 
+ On December 7, 2021, the Company issued million of unsecured convertible notes (the Convertible Notes to certain investors. The Convertible Notes bear interest at a rate of per annum, payable semi-annually, and not including any interest payments that are settled with the issuance of shares, were initially convertible into shares of the Company s common stock at an initial conversion price of (the Conversion Price ). The Conversion Price is subject to adjustments. On May 29, 2022, pursuant to the Convertible Notes indenture, the conversion rate applicable to the Convertible Notes was adjusted to (previously shares of common stock per principal amount of Convertible Notes because the average of the daily volume-weighted average price of the common stock during the preceding trading days was less than (the Conversion Rate Reset ). After giving effect to the Conversion Rate Reset, the Conversion Price is and the Convertible Notes are convertible into shares, not including any interest payments that are settled with the issuance of shares. The Convertible Note financing matures on December 15, 2026. 
+ 
+ The Company may, at its election, force conversion of the Convertible Notes after December 15, 2022 and prior to October 7, 2026 if the trading price of the Company s common stock exceeds of the conversion price for out of the preceding trading days and the -day average daily trading volume ending on, and including, the last trading day of the immediately preceding calendar quarter is greater than or equal to million for the first after the initial issuance of the 
+ 15 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+million thereafter. Upon such conversion, the Company will be obligated to pay all regularly scheduled interest payments, if any, due on the converted Convertible Notes on each interest payment date occurring after the conversion date for such conversion to, but excluding, the maturity date (such interest payments, an Interest Make-Whole Payments ). In the event that a holder of the Convertible Notes elects to convert the Convertible Notes (a) prior to December 15, 2024, the Company will be obligated to pay an amount equal to of interest or (b) on or after December 15, 2024 but prior to December 15, 2025, any accrued and unpaid interest plus any remaining amounts that would be owed up to, but excluding, December 15, 2025. The Interest Make-Whole Payments will be payable in cash or shares of the common stock at the Company s election, as set forth in the Convertible Notes Indenture. 
+ 
+ Following certain corporate events that occur prior to the maturity date or if the Company exercises its mandatory conversion right in connection with such corporate events, the conversion rate will be increased in certain circumstances for a holder who elects, or has been forced, to convert its Convertible Notes in connection with such corporate events. 
+ 
+ If a Fundamental Change (as defined in the Convertible Notes indenture) occurs prior to the maturity date, holders of the Convertible Notes will have the right to require the Company to repurchase all or any portion of their Convertible Notes in principal amounts of dollars or an integral multiple thereof, at a repurchase price equal to the principal amount of the Convertible Notes to be repurchased, plus accrued and unpaid interest to, but excluding, the repurchase date. 
+ 
+ The Convertible Notes require the Company to meet certain financial and other covenants. As of September 30, 2024, the Company was in compliance with all covenants related to the Convertible Notes. 
+ 
+ On May 29, 2022, pursuant to the conversion rate adjustment provisions in the Convertible Notes indenture, the Conversion Price was adjusted to (or shares of common stock per dollars of principal amount of Convertible Notes). Subsequent to the adjustment, the Convertible Notes are convertible into shares, not including any interest payments that are settled with the issuance of shares. 
+ 
+ During the nine months ended September 30, 2024, Convertible Notes with a principal of were exercised for shares of the Company s common stock. As of September 30, 2024 , the Company has an outstanding balance of million related to the Convertible Notes, which is recorded on the balance sheet net of approximately million of unamortized debt issuance costs. As of September 30, 2024, the fair value of the Convertible Notes is million , which is considered to be a Level 3 fair value measurement. 
+ 
+ Bank of America Senior Revolver 
+ 
+ The Company is party to a senior credit agreement with Bank of America, N.A. (the Bank of America Credit Agreement ), entered into on December 7, 2021 (the Closing Date ), subsequently amended on November 8, 2022, providing the Company with a million senior secured revolving credit facility (the Senior Revolver ). Proceeds from the Senior Revolver will be used to fund working capital needs, capital expenditures and other general corporate purposes. The Senior Revolver matures on December 7, 2025 (the Maturity Date ). 
+ 
+ The Senior Revolver is secured by a pledge of of the equity of certain of the Company s wholly owned subsidiaries and a security interest in substantially all of the Company s tangible and intangible assets. The Senior Revolver includes borrowing capacity available for letters of credit and for borrowings on same-day notice, referred to as the swing loans. Any issuance of letters of credit or making of a swing loan will reduce the amount available under the revolving credit facility. The Company may increase the commitments under the Senior Revolver in an aggregate amount of up to the greater of million or of consolidated adjusted EBITDA plus any additional amounts so long as certain conditions, including compliance with the applicable financial covenants for such period, in each case on a pro forma basis, are satisfied. 
+ 
+ As of the Closing Date, borrowings under the Senior Revolver bear interest, at the Company s option, at: 
+ (i) A Base Rate plus a Base Rate Margin of . Base Rate is a fluctuating rate per annum equal to the higher of (a) the Federal Funds Rate plus , (b) the prime rate of Bank of America, N.A., and (c) Bloomberg Short-Term Yield Index BSBY Rate plus ; or 
+ (ii) The BSBY Rate plus a BSBY Margin of . 
+ 
+ 16 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+. 
+ 
+ The Bank of America Credit Agreement requires the Company to meet certain financial and other covenants. The Company was not in compliance with the Fixed Charge Coverage ratio requirement as of June 30, 2022, and as a result was unable to draw on the facility. The Company notified Bank of America N.A. of the covenant violation, and on August 9, 2022, entered into the First Amendment (the First Amendment to the Bank of America Credit Agreement, which, among other things, waived the requirement that the Company demonstrate compliance with the minimum Fixed Charge Coverage ratio provided for in the Bank of America Credit Agreement for the quarter ended June 30, 2022. 
+ 
+ The Company was not in compliance with the Fixed Charge Coverage ratio requirement as of September 30, 2022, and as a result was unable to draw on the facility. On November 8, 2022, the Company entered into a Second Amendment to the Bank of America Credit Agreement (the Second Amendment ), which modifies key terms of the Senior Revolver. As a result of the Second Amendment, funds available under the Senior Revolver are reduced to million from million, limited to a borrowing base of of Eligible Prime Government Receivables and Eligible Subcontractor Government Receivables, plus of Eligible Commercial Receivables. Additionally, the Second Amendment increased the Base Rate Margin, BSBY Margin and unused commitment fees by . Following entry into the Second Amendment, the Senior Revolver no longer is subject to a minimum Fixed Charge Coverage ratio covenant, but is still subject to the Secured Net Leverage ratio covenant. In order for the facility to become available for borrowings (the initial availability quarter ), the Company must report Adjusted EBITDA of at least one dollar. Commencing on the first fiscal quarter after the initial availability quarter, the Company is required to have aggregate reported Adjusted EBITDA of at least dollar over the two preceding quarters to maintain its ability to borrow under the Senior Revolver (though the inability to satisfy such condition does not result in a default under the Senior Revolver). Failure to meet this Adjusted EBITDA requirement is not a default but limits the Company s ability to make borrowings under the Senior Revolver until such time that the Company is able meet the Adjusted EBITDA threshold as defined in the Second Amendment. 
+ 
+ The Bank of America Credit Agreement requires the Company to meet certain financial and other covenants. As of September 30, 2024, the Company was in compliance with the covenant requirements. 
+ 
+ As of September 30, 2024, the Company had not drawn on the Senior Revolver. Unamortized debt issuance costs of million as of September 30, 2024, are recorded on the consolidated balance sheets and are presented in other non-current assets. The Bank of America Credit Agreement requires the Company to deliver monthly borrowing base certificates. The Company did not deliver such monthly borrowing base certificates for the months ending December 31, 2022, January 31, 2023, February 28, 2023, and March 31, 2023. Bank of America N.A. notified the Company of the reporting violation, and on April 21, 2023, Bank of America N.A. and the Company entered into the Third Amendment (the Third Amendment to the Bank of America Credit Agreement, which, among other things, waived the requirement that the Company deliver the monthly borrowing base certificate for the months ending December 31, 2022, January 31, 2023, February 28, 2023, and March 31, 2023, and removed the reporting requirement to deliver a monthly borrowing base certificate going forward until the Company meets the Adjusted EBITDA requirements set forth above and is permitted to draw on the Senior Revolver. 
+ 
+ D O Financing Loan 
+ 
+ On December 20, 2023, the Company entered into a million loan (the 2024 D O Financing Loan with US Premium Finance to finance the Company s directors and officers insurance premium through September 2024. The D O Financing Loan has an interest rate of per annum and a maturity date of September 8, 2024. 
+ 
+ On December 8, 2022, the Company entered into a million loan (the 2023 D O Financing Loan with AFCO Credit Corporation to finance the Company s directors and officers insurance premium through December 2023. The 2023 D O Financing Loan required an upfront payment of million and had an interest rate of per annum and a maturity date of December 8, 2023. The 2023 D O Financing Loan was fully repaid at maturity. 
+
+17 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+Note 11 
+ 
+ to per annum and remaining lease terms of up to , some of which include renewal options that could extend certain leases to up to an additional . 
+ 
+ Weighted average discount rate 
+ 
+ The table below summarizes total lease costs for the following periods: 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Operating lease expense Variable lease expense Short-term lease expense Rent expense Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Sublease income recognized (1) 
+ 
+ (1) As of September 30, 2024 and September 30, 2023, the Company has subleased and of its real estate leases . 
+ 
+ The following table presents supplemental cash flow and non-cash information related to leases: 
+ Nine Months Ended September 30, 2024 2023 Cash paid for amounts included in the measurement of lease liabilities - operating cash flows from leases Right-of-use assets obtained in exchange for lease obligations - non-cash activity 
+ 
+ 2025 2026 2027 2028 Thereafter Total future minimum lease payments Less: amounts related to imputed interest 
+ Present value of future minimum lease payments Less: current portion of long-term lease liability 
+ Long-term lease liability 
+ 
+ 18 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+Note 12 ) 
+ 
+ The Company was taxed as a corporation for federal, state and local income tax purposes for the three and nine month periods ended September 30, 2024 and September 30, 2023. The effective tax rate for the three and nine month periods ended September 30, 2024 and September 30, 2023 differ from the U.S. federal income tax rate of 21.0 primarily due to foreign, state, and local income taxes, permanent differences between book and taxable income, certain discrete items, and the change in valuation allowance. 
+
+Note 13 
+
+million related to various ongoing legal disputes. The million balance as of September 30, 2024, million before by November 19, 2024 to fully settle this particular matter. 
+
+Note 14 
+ 
+ Common stock par value per share Common stock outstanding at the period end 
+ 
+ Treasury Stock 
+ 
+ These shares are measured at cost and presented as treasury stock on the consolidated balance sheets and consolidated statements of stockholders equity (deficit). 
+ 
+ Dividend Rights 
+ 
+ Subject to applicable law and the rights, if any, of the holders of any outstanding series of the Company s preferred stock or any class or series of stock having a preference over or the right to participate with the Company s common stock with respect to the payment of dividends, dividends may be declared and paid ratably on the Company s common stock out of the assets of the 
+ 19 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+vote on all matters submitted to a vote of stockholders. Holders of shares of common stock do not have cumulative voting rights. 
+ 
+ Conversion or Redemption Rights 
+ 
+ The Company s common stock is neither convertible nor redeemable. 
+ 
+ Liquidation Rights 
+ 
+ Upon the Company s liquidation, the holders of the Company s common stock are entitled to receive pro rata the Company s assets that are legally available for distribution, after payment of all debts and other liabilities and subject to the prior rights of any holders of the Company s preferred stock then outstanding. 
+ 
+ Preferred Stock 
+ 
+ Preferred stock par value per share Preferred stock outstanding at the period end 
+ 
+ The Company s Board may, without further action by the Company s stockholders, from time to time, direct the issuance of shares of preferred stock in series and may, at the time of issuance, determine the designations, powers, preferences, privileges and relative participating, optional or special rights as well as the qualifications, limitations or restrictions thereof, including dividend rights, conversion rights, voting rights, terms of redemption and liquidation preferences, any or all of which may be greater than the rights of the Company s common stock. Satisfaction of any dividend preferences of outstanding shares of the Company s preferred stock would reduce the amount of funds available for the payment of dividends on shares of the Company s common stock. Upon the affirmative vote of a majority of the total number of directors then in office, the Company s Board may issue shares of the Company s preferred stock with voting and conversion rights which could adversely affect the holders of shares of the Company s common stock. 
+
+Note 15 
+ 
+ shares of common stock at par value and accompanying common warrants RDO warrants ). Each share of common stock is accompanied by a common stock purchase warrant to purchase three-quarters of a share of common stock at an exercise price of per share. The RDO warrants were initially exercisable for up to shares of common stock and became exercisable after issuance and had a term. 
+ 
+ 20 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+Exercise price Common stock price Expected option term (years) Expected volatility Risk-free rate of return Expected annual dividend yield 
+ 
+ On February 27, 2024, the Company entered into a warrant exercise agreement (the RDO Warrant Exercise Agreement with an existing accredited investor (the RDO Investor to exercise in full the outstanding RDO warrants to purchase up to an aggregate of shares of the Company s common stock for gross proceeds of million. Upon settlement of the RDO warrants, a loss of million was recognized for the nine months ended September 30, 2024 and is presented in net (decrease) increase in fair value of derivatives on the consolidated statements of operations. 
+ 
+ A gain of million and million, which includes transaction costs associated with the issuance of the 2023 RDO warrants, was recognized for the three and nine months ended September 30, 2023, respectively, and are presented in net (decrease) increase in fair value of derivatives on the consolidated statements of operations. 
+ 
+ 2024 RDO Warrants 
+ 
+ In consideration for the immediate and full exercise of the RDO warrants, on February 28, 2024, the RDO Investor received a new unregistered common stock purchase warrant to purchase up to an aggregate of of the Company s common stock (the 2024 RDO warrants in a private placement. The 2024 RDO warrants will become exercisable commencing at any time on or after August 28, 2024, with an expiration date thereafter , with an exercise price per share equal to . 
+ 
+ Exercise price Common stock price Expected option term (years) Expected volatility Risk-free rate of return Expected annual dividend yield 
+ 
+ As of September 30, 2024 , the 2024 RDO warrants had a fair value of million and is presented on the consolidated balance sheets within derivative liabilities. A gain of million and million , which includes transaction costs associated with the issuance of the RDO warrants, was recognized during the three and nine months ended September 30, 2024 , respectively, and is presented in net (decrease) increase in fair value of derivatives on the consolidated statements of operations . 
+ 
+ As of September 30, 2024, there were 2024 RDO warrants issued and outstanding. 
+ 
+ 21 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+shares of the Company s common stock at par value and warrants to purchase up to an additional shares of common stock (the PIPE warrants ). The PIPE warrants had an exercise price of per share and were exercisable as of July 19, 2023. The PIPE warrants were subject to a beneficial ownership limitation. 
+ 
+ Exercise price Common stock price Expected option term (years) Expected volatility Risk-free rate of return Expected annual dividend yield 
+ 
+ On March 4, 2024, the Company entered into a warrant exercise agreement (the PIPE Warrant Exercise Agreement with an existing accredited investor (the PIPE Investor to exercise in full the outstanding PIPE warrants to purchase up to an aggregate of shares of the Company s common stock for gross proceeds of million . Upon settlement of the PIPE warrants, a loss of million was recognized as a result of the change in fair value for the nine months ended September 30, 2024 and are presented in net (decrease) increase in fair value of derivatives on the consolidated statements of operations. 
+ 
+ A gain and loss of million and million were recognized as a result of the change in fair value for the three and nine months ended September 30, 2023, respectively, and are presented in net (decrease) increase in fair value of derivatives on the consolidated statements of operations. 
+ 
+ 2024 PIPE Warrant 
+ 
+ In consideration for the immediate and full exercise of the PIPE warrants, on March 5, 2024, the PIPE Investor received a new unregistered common stock purchase warrant to purchase up to an aggregate of shares of the Company s common stock (the 2024 PIPE warrant in a private placement. The 2024 PIPE Warrant will become exercisable commencing at any time on or after September 5, 2024, with an expiration date thereafter, with an exercise price per share e qual to . 
+ 
+ Exercise price Common stock price Expected option term (years) Expected volatility Risk-free rate of return Expected annual dividend yield 
+ 
+ As of September 30, 2024 , the 2024 PIPE warrant has a fair value of million and is presented on the consolidated balance sheets within derivative liabilities. A gain of million and million was r ecognized as a result of the change in fair value during the three and nine months ended September 30, 2024 , respectively, and is present ed in net (decrease) increase in fair value of derivatives on the consolidated statements of operations. 
+ 22 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+2024 PIPE warrants issued and outstanding. 
+ 
+ IPO Public Warrants 
+ 
+ Each warrant issued in connection with the Company s initial public offering (the IPO public warrants entitles the registered holder to purchase share of common stock at a price of per share, subject to adjustment. Pursuant to the warrant agreement, a warrant holder may exercise its warrants only for a whole number of shares of common stock. This means only a whole warrant may be exercised at a given time by a warrant holder. The warrants will expire on December 7, 2026, at 5:00 p.m., New York City time, or earlier upon redemption or liquidation. 
+ 
+ The Company may call the IPO public warrants for redemption as follows: (1) in whole and not in part; (2) at a price of per warrant; (3) upon a minimum of days prior written notice of redemption; (4) if there is an effective registration statement covering the shares of common stock issuable upon exercise of the warrants and a current prospectus available throughout the -day notice period; and (5) only if the last reported closing price of the common stock equals or exceeds per share for any trading days within a -trading day period ending on the third trading day prior to the date on which the Company sends the notice of redemption to the warrant holders. 
+ 
+ If the Company calls the IPO public warrants for redemption, management will have the option to require all holders that wish to exercise the Company IPO public warrants to do so on a cashless basis. 
+ 
+ The exercise price and number of shares of common stock issuable upon exercise of the IPO public warrants may be adjusted in certain circumstances including stock dividends, stock splits, extraordinary dividends, consolidation, combination, reverse stock split or reclassification of shares of the Company s common stock or other similar event. In no event will the Company be required to net cash settle the warrant shares. 
+ 
+ As of September 30, 2024 and December 31, 2023, there were and IPO public warrants issued and outstanding, respectively. 
+ 
+ IPO Private Warrants 
+ 
+ The terms and provisions of the IPO public warrants above also apply to the private warrants issued by the Company IPO private warrants ). If the IPO private warrants are held by holders other than GigAcquisitions4, LLC Sponsor ), Oppenheimer Co. Inc. and Nomura Securities International, Inc. (together, the Underwriters ), or any respective permitted transferees, the IPO private warrants will be redeemable by the Company and exercisable by the holders on the same basis as the IPO public warrants. The Sponsor, the Underwriters and any respective permitted transferees have the option to exercise the IPO private warrants on a cashless basis. 
+ 
+ Exercise price Common stock price Expected option term (in years) Expected volatility Risk-free rate of return Expected annual dividend yield 
+ 
+ As of September 30, 2024 and December 31, 2023, the IPO private warrants have a fair value of million and million and are presented on the consolidated balance sheets within derivative liabilities and other non-current liabilities, respectively. 
+ 23 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+ 
+ ) 
+ 
+ As of September 30, 2024 and December 31, 2023, there were and IPO private warrants issued and outstanding, respectively. 
+
+Note 16 
+ 
+ and are divided into tranches Tranche I, Tranche II, and Tranche III ). Tranche I Incentive Units are subject to performance-based, service-based and market-based conditions. The grant date fair value for the Incentive Units was per unit. 
+ 
+ Risk-free interest rate Expected time to exit (in years) 
+ 
+ On July 29, 2021, the Company s Parent amended the Class B Unit Incentive Plan so that the Tranche I and the Tranche III Incentive Units immediately became fully vested, subject to continued employment or provision of services, upon the closing of the transaction stipulated in the Agreement and Plan of Merger (the Gig Business Combination Agreement dated J une 4, 2021. The Company s Parent also amended the Class B Unit Incentive Plan so that the Tranche II Incentive Units will vest on any liquidation event, as defined in the Class B Unit Incentive Plan, rather than only upon the occurrence of an Exit Sale, subject to the market-based condition stipulated in the Class B Unit Incentive Plan prior to its amendment. 
+ 
+ Equity-based compensation for awards with performance conditions is based on the probable outcome of the related performance condition. The performance conditions required to vest pursuant to the amended Class B Unit Incentive Plan remain improbable until they occur due to the unpredictability of the events required to meet the vesting conditions. As such events are not considered probable until they occur, recognition of equity-based compensation for the Incentive Units is deferred until the vesting conditions are met. Once the event occurs, unrecognized compensation cost associated with the performance-vesting Incentive Units (based on their modification date fair value) will be recognized based on the portion of the requisite service period that has been rendered. 
+ 
+ The modification date fair value of the Incentive Units was per unit. 
+ Risk-free interest rate Expected time to exit (in years) 
+ 
+ The volatility used in the determination of the fair value of the Incentive Units was based on analysis of the historical volatility of guideline public companies and factors specific to the Company . 
+ 
+ On December 7, 2021, the previously announced merger with GigCapital4, Inc. was consummated. As a result, the Tranche I and Tranche III Incentive Units immediately became fully vested and the performance condition for the Tranche II Incentive Units 
+ 24 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+months from the modification date. The remaining compensation expense for the Tranche II Incentive Units will be recognized over the remaining service period of approximately months from the date of the amendment. 
+ 
+ Unvested as of September 30, 2024 
+ 
+ As of September 30, 2024, there was unrecognized compensation cost related to Tranche II Incentive Units. 
+ 
+ Stock Options 
+ 
+ On December 7, 2021, the Company adopted the BigBear.ai Holdings, Inc. 2021 Long-Term Incentive Plan (the Plan ). The purpose of the Plan is to promote the long-term success of the Company and the creation of stockholder value by providing eligible employees, prospective employees, consultants and non-employee directors of the Company the opportunity to receive stock- and cash-based incentive awards. 
+ 
+ There were stock options granted during the nine months ended September 30, 2024. 
+ Exercised ) Forfeited ) Expired ) Outstanding as of September 30, 2024 
+ Vested and exercisable as of September 30, 2024 
+
+The stock options had million intrinsic value as of September 30, 2024. The Company recognizes equity-based compensation expense for the stock options equal to the fair value of the awards on a straight-line basis over the service based vesting period. As of September 30, 2024, there was approximately million of unrecognized compensation costs related to the stock options, which is expected to be recognized over the remaining weighted average period of years. 
+ 
+ Restricted Stock Units 
+ 
+ During the nine months ended September 30, 2024, pursuant to the Plan, the Company s Board communicated the key terms of and committed to grant Restricted Stock Units RSUs to certain employees and certain nonemployee directors and consultants. The Company granted RSUs to employees and RSUs to nonemployee directors during the nine months ended September 30, 2024. RSUs granted to employees generally vest over , with vesting on the one year anniversary of the grant date and then per each quarter thereafter on the two, three and four year anniversary of the grant date. RSUs granted to nonemployee directors vest each quarter following the grant date or upon the first anniversary of the grant date. Vesting of RSUs is accelerated in the event of death, disability, or a change in control, subject to certain conditions. 
+ 
+ 25 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+Granted Vested ) Forfeited ) Unvested as of September 30, 2024 
+
+As of September 30, 2024 , there was approximately million of unrecognized compensation costs related to the RSUs, which is expected to be recognized over the remaining weighted average period of years. 
+ 
+ Performance Stock Units 
+ 
+ During the nine months ended September 30, 2024, pursuant to the Plan, the Company s Board communicated the key terms of and granted Performance Stock Units PSUs to certain employees. The Company grants PSUs to certain employees as a retention incentive. During the nine months ended September 30, 2024, the Company granted PSUs Retention PSUs ). The Company also granted Short-term Incentive PSUs STI PSUs to employees, which contain performance measures based on a combination of Company s financial performance as well as the individual s personal performance. The number of Retention PSUs and STI PSUs that will vest is based on the achievement of the performance criteria during each respective annual measurement period, provided that the employees remain in continuous service on each vesting date. Vesting will not occur unless a minimum performance criteria threshold is achieved. 
+ 
+ Granted Vested ) Forfeited ) Unvested as of September 30, 2024 
+
+As of September 30, 2024, there was approximately million of unrecognized compensation costs related to the Retention PSUs and STI PSUs, which is expected to be recognized over the remaining average period of years. 
+ 
+ Employee Share Purchase Plan ESPP 
+ 
+ Concurrently with the adoption of the Plan, the Company s Board adopted the 2021 Employee Stock Purchase Plan (the ESPP ), which authorizes the grant of rights to purchase common stock of the Company to employees, officers and directors (if they are otherwise employees) of the Company. As of January 1, 2022, the Company reserved an aggregate of common shares (subject to annual increases on January 1 of each year and ending in 2031) of the Company s common stock for grants under the ESPP. During the nine months ended September 30, 2024, shares were sold under the ESPP. As of September 30, 2024, the Company has withheld employee contributions of million for future ESPP purchases, which are presented on the consolidated balance sheets within other current liabilit ies. 
+ 
+ 26 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+to 
+ Expected term (in years) Expected volatility (1) 
+ to 
+ Risk-free rate of return to 
+ Expected annual dividend yield Fair value of the award on the grant date to 
+ 
+ (1) Expected volatility is based on a combination of implied and historical equity volatility of selected reasonably similar publicly traded companies. 
+ As of September 30, 2024, there was approximately million of unrecognized compensation costs related to the ESPP, which is expected to be recognized over the remaining weighted average period of years. 
+ 
+ Equity-based Compensation Expense 
+ 
+ Equity-based compensation expense in cost of revenues Equity-based compensation expense in research and development Total equity-based compensation expense 
+ 
+ Note 17 ) ) Denominator: 
+ Weighted average shares outstanding basic 
+ Weighted average dilutive effect of equity awards 
+ Weighted average shares outstanding diluted 
+ Basic net (loss) income per share 
+ ) ) ) Diluted net (loss) income per share 
+ ) ) ) 
+ 
+ 27 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+PSUs 
+ RSUs 
+ ESPP 
+ Total 
+
+Note 18 
+ 
+ Firm fixed price 
+ Cost-reimbursable 
+ Total revenues 
+
+The majority of the Company s revenue is recognized over time. Revenue derived from contracts that recognize revenue at a point in time was insignificant for all periods presented. 
+ 
+ Additions 
+ Write-offs 
+ ) ) Ending balance 
+ 
+ 28 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+
+Customer B 
+ Customer C 
+ Customer D (1) 
+ Customer E (1) 
+ All others 
+ Total revenues 
+
+Three Months Ended September 30, 2023 Nine Months Ended September 30, 2023 Total Percent of total revenues Total Percent of total revenues Customer A 
+ Customer B (1) 
+ Customer C 
+ Customer D (1) 
+ Customer E (1) 
+ All others 
+ Total revenues 
+ 
+ (1) Customers that contributed in excess of 10 of consolidated revenues in any period presented have been included in all periods presented for comparability. 
+ 
+ Contract Balances 
+ 
+ Contract liabilities 
+
+The change in contract assets between December 31, 2023 and September 30, 2024 was primarily driven by invoices being issued for services previously rendered. The change in contract liability balances between December 31, 2023 and September 30, 2024 was primarily driven by upfront payments for services yet to be rendered to customers. Revenue recognized in the nine months ended September 30, 2024 that was included in the contract liability balance as of December 31, 2023 was million . 
+ 
+ When the Company s estimate of total costs to be incurred to satisfy a performance obligation exceeds the expected revenue, the Company recognizes the loss immediately. When the Company determines that a change in estimate has an impact on the associated profit of a performance obligation, the Company records the cumulative positive or negative adjustment in the consolidated statements of operations . Changes in estimates and assumptions related to the status of certain long-term contracts may have a material effect on the Company s operating results. 
+ 
+ 29 
+
+Table of Contents 
+ BIGBEAR.AI HOLDINGS, INC. 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited, in thousands of U.S. dollars unless stated otherwise) 
+ ) ) ) Net EAC Adjustments, net of income taxes ) ) ) ) Net EAC Adjustments, net of income taxes, per diluted share ) 
+ 
+ Remaining Performance Obligations 
+ 
+ The Company includes in its computation of remaining performance obligations customer orders for which it has accepted signed sales orders and generally includes the funded and unfunded components of contracts that have been awarded. As of September 30, 2024, the aggregate amount of the transaction price allocated to remaining performance obligations was million. The Company expects to recognize approximately of its remaining performance obligations as revenue within the next months and the balance thereafter. 
+
+Note 19 
+ 
+ million and million as compensation expense for the members of the Board, including equity-based compensation related to the RSUs of million and million, which is reflected in the selling, general and administrative expenses within the consolidated statements of operations. 
+ 
+ During the three and the nine months ended September 30, 2023, the Compa ny paid or accrued million and million as compensation expense for the members of the Board, respectively, including equity-based compensation related to the RSUs of million and million, respectively, which is reflected in the selling, general and administrative expenses within the consolidated statements of operations. 
+
+Note 20 
+ 
+ million before by November 19, 2024 to fully settle this particular matter. 
+
+30 
+
+Table of Contents 
+
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+
+MANAGEMENT S DISCUSSION AND ANALYSIS OF 
+ FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ The following discussion and analysis provides information that BigBear.ai Holdings, Inc. BigBear.ai , BigBear , BigBear.ai Holdings , or the Company management believes is relevant to an assessment and understanding of BigBear.ai s consolidated results of operations and financial condition. The following discussion and analysis should be read in conjunction wit h BigBear.ai s consolidated financial statements and notes to those statements included elsewhere in this Quarterly Report on Form 10-Q . Certain information contained in this management discussion and analysis includes forward-looking statements within the meaning of the Securities Act of 1933, as amended, the Securities Exchange Act of 1934, as amended, and the Private Securities Litigation Reform Act of 1995. All statements contained in this Quarterly Report other than statements of historical fact, including statements regarding our future operating results and financial position, our business strategy and plans and our objectives for future operations, are forward-looking statements. These forward-looking statements include, but are not limited to, statements regarding BigBear s industry, future events, and other statements that are not historical facts. These forward-looking statements are based on current expectations and beliefs concerning future developments and their potential effects on us and should not be relied upon as representing BigBear s assessments as of any date subsequent to the date of this Quarterly Report on Form 10-Q. There can be no assurance that future developments affecting us will be those that we have anticipated. These forward-looking statements are subject to a number of risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of many factors. Please see Cautionary Note Regarding Forward-Looking Statements, and Risk Factors in our Annual Report on Form 10-K and this Quarterly Report on Form 10-Q . Unless the context otherwise requires, all references in this section to the Company, BigBear, BigBear.ai, we, us, or our refer to BigBear.ai Holdings, Inc. 
+ 
+ The following discussion and analysis of financial condition and results of operations of BigBear.ai is provided to supplement the consolidated financial statements and the accompanying notes of BigBear.ai included elsewhere in this Quarterly Report on Form 10-Q . We intend for this discussion to provide the reader with information to assist in understanding BigBear.ai s consolidated financial statements and the accompanying notes, the changes in those financial statements and the accompanying notes from period to period, along with the primary factors that accounted for those changes. All amounts presented below are in thousands of U.S. dollars unless stated otherwise. 
+ 
+ The discussion and analysis of financial condition and results of operations of BigBear.ai is organized as follows: 
+ 
+ Business Overview : This section provides a general description of BigBear.ai s business, our priorities and the trends affecting our industry in order to provide context for management s discussion and analysis of our financial condition and results of operations. 
+ 
+ Recent Developments : This section provides recent developments that we believe are necessary to understand our financial condition and results of operations. 
+ 
+ Results of Operations : This section provides a discussion of our results of operations for the three and the nine months ended September 30, 2024 and September 30, 2023. 
+ 
+ Liquidity and Capital Resources : This section provides an analysis of our ability to generate cash and to meet existing or reasonably likely future cash requirements. 
+ 
+ Critical Accounting Policies and Estimates : This section discusses the accounting policies and estimates that we consider important to our financial condition and results of operations and that require significant judgment and estimates on the part of management in their application. In addition, our significant accounting policies, including critical accounting policies, are summarized in Note 2 Summary of Significant Accounting Policies to the accompanying consolidated financial statements included in this Quarterly Report on Form 10-Q. 
+
+Business Overview 
+ 
+ Our mission is to help deliver clarity for the world s most complex decisions. BigBear.ai is a leading provider of Edge AI-powered decision intelligence solutions for national security, supply chain management and digital identity. Customers and partners rely on BigBear.ai s predictive analytics capabilities in highly complex, distributed, mission-based operating environments. We are a technology-led solutions organization, providing both software and services to our customers. 
+ 31 
+
+Table of Contents 
+
+Recent Developments 
+ 
+ Pangiam Acquisition 
+ 
+ On February 29, 2024, the Company completed the acquisition of Pangiam Intermediate Holdings, LLC Pangiam or the Pangiam Acquisition ), a leader in vision AI for the global trade, travel and digital identity industries. The combination of BigBear.ai and Pangiam creates one of the industry s most comprehensive vision and edge AI portfolios, combining facial recognition, image-based anomaly detection and advanced biometrics with BigBear.ai s computer vision and predictive analytics capabilities, positioning the Company as a foundational leader in how artificial intelligence is operationalized at the edge. 
+ 
+ RDO Warrant Exercise 
+ 
+ On February 27, 2024, the Company entered into a warrant exercise agreement with an existing accredited investor (the RDO Investor to exercise in full the outstanding Registered Direct Offering warrants to purchase up to an aggregate of 8,886,255 shares of the Company s common stock for gross proceeds of approximately 20.6 million (the RDO warrants . In consideration for the immediate and full exercise of the RDO warrants, the RDO Investor received a new unregistered common stock purchase warrant to purchase up to an aggregate of 5,800,000 shares of the Company s common stock (the 2024 RDO warrant in a private placement. The 2024 RDO warrants will become exercisable commencing at any time on or after August 28, 2024, expiring after five years, with an exercise price per share equal to 3.78. 
+ 
+ Private Placement Warrant Exercise 
+ 
+ On March 4, 2024, the Company entered into a warrant exercise agreement with an existing accredited investor (the PIPE Investor to exercise in full the outstanding PIPE warrants to purchase up to an aggregate of 13,888,889 shares of the Company s common stock for gross proceeds of approximately 33.2 million. In consideration for the immediate and full exercise of the PIPE warrants, the PIPE Investor received a new unregistered common stock purchase warrant to purchase up to an aggregate of 9,000,000 shares of the Company s common stock (the 2024 PIPE warrant in a private placement. The 2024 PIPE warrant will become exercisable commencing at any time on or after September 5, 2024 (the Exercise Date ), expiring after five years, with an exercise price per share equal to 4.75. 
+ 
+ U.S. Budget Environment 
+ 
+ The majority of our revenue is derived from federal government contracts. U.S. government spending levels, particularly defense spending, and timely funding thereof can affect our financial performance over the short and long term. We expect our key contracts will continue to be supported and funded under the continuing resolution. However, during periods covered by continuing resolutions, we may experience delays in new contract awards, and those delays may adversely affect our results of operations. 
+ 
+ On March 22, 2024, the President signed the second Fiscal Year FY 2024 Consolidated Appropriations package into law, which includes Department of Defense DoD funding. This legislation reflects the Fiscal Responsibility Act FRA spending limit of 886 billion for National Defense, of which 842 billion was for the DoD base budget. 
+ 
+ The President s FY 2025 budget request was submitted to Congress on March 11, 2024, initiating the FY 2025 defense authorization and appropriations legislative process. The request included 895 billion for National Defense, of which 850 billion is for the DoD base budget, in keeping with the limit established by the FRA. While compression on overall requirements driven by the FRA limit is evident, the Office of the Secretary of Defense has stated the FY 2025 budget proposal meets their objectives of keeping National Defense Strategy priorities on track. 
+ 
+ In the coming months, Congress will need to approve or revise the President s FY 2025 budget proposal through enactment of appropriations bills and other policy legislation, which would then require final approval from the President in order for the FY 2025 budget process to conclude. A Continuing Resolution (CR) passed the House and Senate on September 25, 2024 and was signed by the President on September 26, 2024. The bill funds U.S. Government operations through December 20, 2024. After the November 2024 election, Congress will return to the task of funding the U.S. Government for the balance of the FY 2025. Significant differences that must be resolved include the different allocations as noted above and policy matters that arose during consideration of the CR and the underlying bills. 
+ 
+ We anticipate the federal budget will continue to be subject to debate and compromise shaped by, among other things, heightened 
+ 32 
+
+Table of Contents 
+
+ political tensions and the 2024 elections, the global security environment, inflationary pressures, and macroeconomic conditions. The result may be shifting funding priorities, which could have material impacts on defense spending broadly and on our federal government contracts, which may affect the Company s projected revenue and results of operation. 
+ 
+ Geopolitical Environment 
+ 
+ We operate in a complex and evolving security environment and our business is affected by geopolitical issues. Conflicts in Ukraine, the Middle East and heightened tension in the Pacific region have elevated global geopolitical tensions and security concerns. For our government customers, their focus on addressing immediate needs in these regions has slowed the pipeline and pace of contract awards, pushing revenue into subsequent periods. We continue to expect the geopolitical climate to drive adoption of our offerings over the long term, as it has heightened the need for advanced AI tools that provide enhanced intelligence and full spectrum cyber operations areas where we have unmatched capabilities. While these conflicts are still evolving and the eventual outcome remains highly uncertain, we do not believe that these events will have a material impact on our business and results of operations. However, if these conflicts worsen, leading to greater disruptions and uncertainty within the technology industry or global economy, our business and results of operations could be negatively impacted. 
+
+Components of Results of Operations 
+ 
+ Revenues 
+ 
+ We generate revenue by providing our customers with Edge AI-powered decision intelligence solutions and services for data ingestion, data enrichment, data processing, artificial intelligence, machine learning, predictive analytics and predictive visualization. We have a diverse base of customers, including government defense, government intelligence, as well as various commercial enterprises. We generate revenue from providing both software and services to our customers. 
+ 
+ Cost of Revenues 
+ 
+ Cost of revenues primarily include salaries, stock-based compensation expense, and benefits for personnel involved in performing the services described above as well as allocated overhead and other direct costs. 
+ 
+ We expect that cost of revenues will increase in absolute dollars as our revenues grow and will vary from period-to-period as a percentage of revenues. 
+ 
+ Selling, General and Administrative SG A 
+ 
+ SG A expenses include salaries, stock-based compensation expense, and benefits for personnel involved in our executive, finance, accounting, legal, human resources, and administrative functions, as well as third-party professional services and fees, and allocated overhead. 
+ 
+ Research and Development 
+ 
+ Research and development expenses primarily consist of salaries, stock-based compensation expense, and benefits for personnel involved in research and development activities as well as allocated overhead. Certain research and development expenses relate to software developed for sale, lease or will otherwise be marketed. Costs incurred subsequent to the establishment of technological feasibility and prior to the general availability of the software, are capitalized when they are expected to become significant. All other research and development expenses are expensed in the period incurred. 
+ 
+ Restructuring Charges 
+ 
+ Restructuring charges consist of employee separation costs related to strategic cost saving initiatives to better align our organization and cost structure and improve the affordability of our products and services. 
+ 
+ Transaction Expenses 
+ 
+ Transaction expenses incurred in 2024 consist of diligence, legal and other related expenses associated with the Pangiam Acquisition, which was completed on February 29, 2024. 
+ 
+ 33 
+
+Table of Contents 
+
+ Goodwill Impairment 
+ 
+ Goodwill impairment consists of non-cash charges to goodwill. 
+ 
+ Net (Decrease) Increase in Fair Value of Derivatives 
+ 
+ Net (decrease) increase in fair value of derivatives consists of fair value remeasurements of the Company s warrants. 
+ 
+ Interest Expense 
+ 
+ Interest expense consists primarily of interest expense, commitment fees and debt issuance cost amortization under our debt agreements. 
+ 
+ Other Income 
+ 
+ Other income consists primarily of interest income earned on money market accounts. 
+ 
+ Income Tax Expense (Benefit) 
+ 
+ Income tax expense (benefit) consists of income taxes related to federal and state jurisdictions in which we conduct business. 
+
+Results of Operations 
+ 
+ The table below presents our consolidated statements of operations for the following periods: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenues 41,505 33,988 114,409 114,601 Cost of revenues 30,739 25,579 85,594 87,016 Gross margin 10,766 8,409 28,815 27,585 Operating expenses: Selling, general and administrative 17,485 15,533 57,797 52,825 Research and development 3,820 (349) 8,529 3,004 Restructuring charges 1,317 780 Transaction expenses 1,437 1,450 1,437 Goodwill impairment 85,000 Operating loss (10,539) (8,212) (125,278) (30,461) Net (decrease) increase in fair value of derivatives (1,278) (15,659) 14,832 (1,971) Interest expense 3,541 3,540 10,647 10,656 Other income (647) (87) (1,719) (87) (Loss) income before taxes (12,155) 3,994 (149,038) (39,059) Income tax expense (benefit) 21 (5) 22 51 Net (loss) income (12,176) 3,999 (149,060) (39,110) 
+
+Comparison of the Three Months Ended September 30, 2024 and 2023 
+ 
+ Revenues 
+ Three Months Ended September 30, Change 2024 2023 Amount Revenues 41,505 33,988 7,517 22.1 
+ 
+ Revenues increased by 7.5 million during the three months ended September 30, 2024 as compared to the three months ended September 30, 2023 primarily as a result of increases due to the Pangiam Acquisition, offset by decreased volumes in certain Air 
+ 34 
+
+Table of Contents 
+
+ Force programs. 
+ 
+ Cost of Revenues 
+ Three Months Ended September 30, Change 2024 2023 Amount Cost of revenues 30,739 25,579 5,160 20.2 Cost of revenues as a percentage of revenues 74 75 
+ 
+ Cost of revenues as a percentage of total revenues decreased to 74 for the three months ended September 30, 2024 as compared to 75 for the three months ended September 30, 2023. The decrease in cost of revenue as a percentage of total revenue was partially driven by a higher mix of higher margin solutions work in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023. 
+ 
+ SG A 
+ Three Months Ended September 30, Change 2024 2023 Amount SG A 17,485 15,533 1,952 12.6 SG A as a percentage of revenues 42 46 
+ 
+ SG A expenses as a percentage of total revenues for the three months ended September 30, 2024 decreased to 42 as compared to 46 for the three months ended September 30, 2023, which was primarily driven by higher revenue. 
+ 
+ SG A expenses increased in total dollars for the three months ended September 30, 2024 as compared to September 30, 2023 due to an increase in headcount, non-recurring strategic initiatives of 1.4 million and non-recurring integration costs of 0.7 million 
+ 
+ Research and Development 
+ Three Months Ended September 30, Change 2024 2023 Amount Research and development 3,820 (349) 4,169 (1194.6) 
+ 
+ Research and development expenses increased by 4.2 million during the three months ended September 30, 2024 as compared to the three months ended September 30, 2023. The increase was driven by increased headcount, the timing of certain research and development projects, as well as research and development expenses related to Pangiam.There were also certain software development projects that reached technological feasibility resulting in capitalization of R D expenses incurred in the three months ending September 30, 2023 which did not recur during the three months ending September 30, 2024. 
+ 
+ Restructuring Charges 
+ Three Months Ended September 30, Change 2024 2023 Amount Restructuring charges 
+ 
+ There were no restructuring charges for the three months ended September 30, 2024 or the three months ended September 30, 2023. 
+ 
+ Transaction Expenses 
+ Three Months Ended September 30, Change 2024 2023 Amount Transaction expenses 1,437 (1,437) (100.0) 
+ 
+ Transaction expenses for the three months ended September 30, 2023 consist of diligence, legal and other related expenses associated with the Pangiam Acquisition. 
+ 
+ Net (Decrease) Increase in Fair Value of Derivatives 
+ 35 
+
+Table of Contents 
+
+ Three Months Ended September 30, Change 2024 2023 Amount Net (decrease) increase in fair value of derivatives (1,278) (15,659) 14,381 (91.8) 
+ 
+ The net decrease in fair value of derivatives of 1.3 million for the three months ended September 30, 2024 consists of fair value remeasurements of IPO warrants, PIPE warrants, and RDO warrants. The 2023 PIPE warrants and the 2023 RDO warrants were fully settled as of September 30, 2024 . 
+ 
+ Interest Expense 
+ Three Months Ended September 30, Change 2024 2023 Amount Interest expense 3,541 3,540 1 
+ 
+ Interest expense consists primarily of interest expense, commitment fees and debt issuance cost amortization under our Convertible Notes and Bank of America Senior Revolver. See the Liquidity and Capital Resources section below for more information. 
+ 
+ Other Income 
+ Three Months Ended September 30, Change 2024 2023 Amount Other income (647) (87) (560) 643.7 
+ 
+ The change in other income during the three months ended September 30, 2024 as compared to the three months ended September 30, 2023 is primarily driven by interest income earned on money market accounts. 
+ 
+ Inc ome Tax Expense (Benefit) 
+ Three Months Ended September 30, Change 2024 2023 Amount Income tax expense (benefit) 21 (5) 26 (520.0) Effective tax rate (0.2) 0.1 
+ 
+ The effective tax rate for the three months ended September 30, 2024 and the three months ended September 30, 2023 are consistent. The effective tax rate for the three months ended September 30, 2024 and September 30, 2023 differs from the U.S. federal income tax rate of 21.0 primarily due to state and local income taxes, permanent differences between book and taxable income, certain discrete items, and the change in valuation allowance. 
+ 
+ As of September 30, 2024, the Company has determined that it is not more-likely-than-not that substantially all of its deferred tax assets will be realized in the future, and continues to have a full valuation allowance established against its deferred tax assets. 
+
+Comparison of the Nine Months Ended September 30, 2024 and 2023 
+ 
+ Revenues 
+ Nine Months Ended September 30, Change 
+ 2024 2023 Amount 
+ 
+ Revenues 114,409 114,601 (192) (0.2) 
+ 
+ Revenues decreased by 0.2 million during the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023. The change in revenues were primarily driven by increases due to the Pangiam Acquisition, offset by decreased volume from the Air Force EPASS program which wound down in the second quarter of 2023. 
+ 
+ 36 
+
+Table of Contents 
+
+ Cost of Revenues 
+ Nine Months Ended September 30, Change 2024 2023 Amount Cost of revenues 85,594 87,016 (1,422) (1.6) Cost of revenues as a percentage of revenues 75 76 
+ 
+ Cost of revenues as a percentage of total revenues was 75 for the nine months ended September 30, 2024 as compared to 76 for the nine months ended September 30, 2023. The decrease in cost of revenues as a percentage of total revenues was driven by higher margins from the inclusion of Pangiam s results. 
+ 
+ SG A 
+ Nine Months Ended September 30, Change 2024 2023 Amount SG A 57,797 52,825 4,972 9.4 SG A as a percentage of revenues 51 46 
+ 
+ SG A expenses as a percentage of total revenues for the nine months ended September 30, 2024 increased to 51 as compared to 46 for the nine months ended September 30, 2023. The increase in SG A expenses as a percentage of total revenues was primarily driven by an increase in non-recurring strategic initiatives of 2.5 million, non-recurring integration costs of 1.6 million, and non-recurring litigation costs of 1.1 million incurred during the the nine months ended September 30, 2024. 
+ 
+ Research and Development 
+ Nine Months Ended September 30, Change 2024 2023 Amount Research and development 8,529 3,004 5,525 183.9 
+ 
+ Research and development expenses increased by 5.5 million during the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023. The increase in research and development expenses was driven by increased headcount, the timing of certain research and development projects, as well as the inclusion of Pangiam s results. 
+ 
+ Restructuring Charges 
+ Nine Months Ended September 30, Change 2024 2023 Amount Restructuring charges 1,317 780 537 68.8 
+ 
+ Restructuring charges consist of employee separation costs related to strategic cost saving initiatives to better align our organization and cost structure and improve the affordability of our products and services. 
+ 
+ Transaction Expenses 
+ Nine Months Ended September 30, Change 2024 2023 Amount Transaction expenses 1,450 1,437 13 0.9 
+ 
+ Transaction expenses for the nine months ended September 30, 2024 consist of diligence, legal and other related expenses associated with the Pangiam Acquisition. 
+ 
+ Goodwill Impairment 
+ Nine Months Ended September 30, Change 2024 2023 Amount Goodwill impairment 85,000 85,000 100.0 
+ 
+ During the nine months ended September 30, 2024, the Company recognized a non-cash goodwill impairment charge of 85.0 million primarily driven by a decrease in share price during the quarter compared to the share price of the equity issued as consideration for the Pangiam Acquisition. 
+ 37 
+
+Table of Contents 
+
+Net (Decrease) Increase in Fair Value of Derivatives 
+ Nine Months Ended September 30, Change 2024 2023 Amount Net (decrease) increase in fair value of derivatives 14,832 (1,971) 16,803 (852.5) 
+ 
+ The net increase in fair value of derivatives of 14.8 million for the nine months ended September 30, 2024 includes fair value remeasurements of the IPO warrants, PIPE warrants, and RDO warrants. The 2023 PIPE warrants and the 2023 RDO warrants were fully settled as of September 30, 2024 . 
+ 
+ Interest Expense 
+ Nine Months Ended September 30, Change 2024 2023 Amount Interest expense 10,647 10,656 (9) (0.1) 
+ 
+ Interest expense during the nine months ended September 30, 2024 and the nine months ended September 30, 2023 consists primarily of interest expense, commitment fees, and debt issuance cost amortization under our Convertible Notes and Bank of America Senior Revolver. See the Liquidity and Capital Resources section below for more information. 
+ 
+ Other Income 
+ Nine Months Ended September 30, Change 2024 2023 Amount Other income (1,719) (87) (1,632) 1875.9 
+ 
+ The change in other income during the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023 is primarily driven by interest income earned on money market accounts. 
+ 
+ Income Tax Expense (Benefit) 
+ Nine Months Ended September 30, Change 2024 2023 Amount Income tax expense (benefit) 22 51 (29) (56.9) Effective tax rate (0.1) 
+ 
+ The effective tax rate for the nine months ended September 30, 2024 and the nine months ended September 30, 2023 are consistent. The effective tax rate for the nine months ended September 30, 2024 differs from the U.S. federal income tax rate of 21.0 primarily due to state and local income taxes, permanent differences between book and taxable income, certain discrete items and the change in valuation allowance. 
+ 
+ As of September 30, 2024, the Company has determined that it is not more-likely-than-not that substantially all of its deferred tax assets will be realized in the future and continues to have a full valuation allowance established against its deferred tax assets. 
+ 
+ Refer to Note 12 Income Taxes to consolidated financial statements included in this Quarterly Report on Form 10-Q for more information. 
+
+Supplemental Non-GAAP Information 
+ The Company uses Adjusted EBITDA to evaluate its operating performance, generate future operating plans, and make strategic decisions, including those relating to operating expenses and the allocation of internal resources. Adjusted EBITDA is a financial measure not calculated in accordance with GAAP. Adjusted EBITDA is defined as net income (loss) adjusted for interest expense (incom e), income tax (benefit) expense, depreciation and amortization, equity-based compensation and associated employer payroll taxes, net increase in fair value of derivatives, restructuring charges, non-recurring strategic initiatives, non-recurring litigation, transaction expenses, goodwill impairment, non-recurring integration costs, capital market advisory fees, commercial start-up costs, loss on extinguishment of debt, transaction bonuses, termination of legacy benefits and management fees. Non-GAAP financial performance measures are used to sup plement the financial information presented on a GAAP basis. This non-GAAP financial measure should not be considered in isolation or as a substitute for the relevant GAAP measures and should be read in conjunction with information presented on a GAAP basis. Because not all companies use identical calculations, our presentation of non-GAAP measures may not be comparable to other similarly titled measures of other companies. 
+ 38 
+
+Table of Contents 
+
+Adjusted EBITDA - Non-GAAP 
+ The following table presents a reconciliation of Adjusted EBITDA to net loss, computed in accordance with GAAP: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net (loss) income (12,176) 3,999 (149,060) (39,110) Interest expense 3,541 3,540 10,647 10,656 Interest income (635) (86) (1,807) (86) Income tax expense (benefit) 21 (5) 22 51 Depreciation and amortization 3,394 1,971 8,740 5,936 EBITDA (5,855) 9,419 (131,458) (22,553) Adjustments: Equity-based compensation 5,168 4,793 16,074 12,592 Employer payroll taxes related to equity-based compensation (1) 
+ 29 8 741 365 Net (decrease) increase in fair value of derivatives (2) 
+ (1,278) (15,659) 14,832 (1,971) Restructuring charges (3) 
+ 1,317 780 Non-recurring strategic initiatives (4) 
+ 1,568 159 4,942 2,480 Non-recurring litigation (5) 
+ 574 1,119 Transaction expenses (6) 
+ 1,437 1,450 1,437 Non-recurring integration costs (7) 
+ 742 1,625 Goodwill impairment (8) 
+ 85,000 Adjusted EBITDA 948 157 (4,358) (6,870) 
+ 
+ (1) Includes employer payroll taxes due upon the vesting of equity awards granted to employees. (2) 
+ The increase in fair value of derivatives during the nine months ended September 30, 2024, relates to the 42.3 million loss recorded upon the exercise of the 2023 RDO and 2023 PIPE Warrants (collectively, the 2023 Warrants and issuance of the warrants in 2024 (the 2024 Warrants in connection with the warrant exercise agreements entered into on February 27, 2024 and March 4, 2024. This loss is net of a 10.6 million gain related to the issuance of the 2024 Warrants and was further offset by a reduction of 27.4 million upon remeasurement of the 2024 Warrants and IPO Warrants fair value during the nine months ended September 30, 2024. The decrease in fair value of derivatives during the three months ended September 30, 2024 relates to remeasurement of the 2024 Warrants and IPO Warrants fair value. 
+ (3) 
+ During the nine months ended September 30, 2024 and the nine months ended September 30, 2023, the Company incurred employee separation costs associated with a strategic review of the Company s capacity and future projections to better align the organization and cost structure and improve the affordability of its products and services. 
+ (4) 
+ Non-recurring professional fees related to the execution of certain strategic initiatives of the Company. (5) 
+ Non-recurring litigation consists primarily of legal settlements and related fees for specific proceedings that we have determined arise outside of the ordinary course of business based on the following considerations which we assess regularly: (1) the frequency of similar cases that have been brought to date, or are expected to be brought within two years; (2) the complexity of the case; (3) the nature of the remedy(ies) sought, including the size of any monetary damages sought; (4) offensive versus defensive posture of us; (5) the counterparty involved; and (6) our overall litigation strategy. (6) 
+ Transaction expenses consist primarily of diligence, legal and other related expenses incurred associated with the Pangiam Acquisition. 
+ (7) 
+ Non-recurring internal integration costs related to the Pangiam Acquisition. 
+ (8) 
+ During the nine months ended September 30, 2024, the Company recognized a non-cash goodwill impairment charge primarily driven by a decrease in share price during the quarter compared to the share price of the equity issued as consideration for the purchase of Pangiam. 
+
+Free Cash Flow 
+ 
+ Free cash flow is defined as net cash used in operating activities less capital expenditures. Management believes free cash flow is useful to investors, analysts and others because it provides a meaningful measure of the Company s ability to generate cash and meet its debt obligations. 
+ 
+ The table below presents a reconciliation of free cash flow to net cash used in operating activities, computed in accordance with GAAP: 
+ 39 
+
+Table of Contents 
+
+ Nine Months Ended September 30, 2024 2023 Net cash used in operating activities (23,313) (18,233) Capital expenditures, net 
+ (7,700) (2,746) Free cash flow 
+ (31,013) (20,979) 
+
+Key Performance Indicators 
+ 
+ Backlog 
+ 
+ We view growth in backlog as a key measure of our business growth. Backlog represents the estimated dollar value of contracts that we have been awarded for which work has not yet been performed, and in certain cases, our estimate of known opportunities for future contract awards on customer programs that we are currently supporting. 
+ 
+ The majority of our historical revenues are derived from contracts with the Federal Government and its various agencies. In accordance with the general procurement practices of the Federal Government, most contracts are not fully funded at the time of contract award. As work under the contract progresses, our customers may add incremental funding up to the initial contract award amount. We generally do not deliver goods and services to our customers in excess of the appropriated contract funding. 
+ 
+ At the time of award, certain contracts may include options for our customers to procure additional goods and services under the contract. Options do not create enforceable rights and obligations until exercised by our customers and thus we only recognize revenues related to options as each option is exercised. Contracts with such provisions may or may not specify the exact scope, nor corresponding price, associated with options; however, these contracts will generally identify the expected period of performance for each option. In cases where we have negotiated the estimated scope and price of an option in the contract with our customer, we use that information to measure our backlog and we refer to this as Priced Unexercised Options. If a contract does not specify the scope, level-of-effort, or price related to options to procure additional goods and services, we estimate the backlog associated with those options based on our discussions with our customer, our current level of support on the customer s program, and the period of performance for each option that was negotiated in the contract. We refer to this as Unpriced Unexercised Options. 
+ 
+ We define backlog in these categories to provide the reader with additional context as to the nature of our backlog and so that the reader can understand the varying degrees of risk, uncertainty, and where applicable, management s estimates and judgements used in determining backlog at the end of a period. The categories of backlog are further defined below. 
+ 
+ Funded Backlog. Funded backlog represents the contract value of goods and services to be delivered under existing contracts for which funding is appropriated or otherwise authorized less revenues previously recognized on these contracts. 
+ 
+ Unfunded backlog. Unfunded backlog represents the contract value, or portion thereof, of goods and services to be delivered under existing contracts for which funding has not been appropriated or otherwise authorized. 
+ 
+ Priced Unexercised Options. Priced unexercised contract options represent the value of goods and services to be delivered under existing contracts if our customer elects to exercise all of the options available in the contract. For priced unexercised options, we measure backlog based on the corresponding contract values assigned to the options as negotiated in our contract with our customer. 
+ 
+ Unpriced Unexercised Options. Unpriced unexercised contract options represent the value of goods and services to be delivered under existing contracts if our customer elects to exercise all of the options available in the contract. For unpriced unexercised options, we estimate backlog generally under the assumption that our current level of support on the contract will persist for each option period. 
+ 
+ 40 
+
+Table of Contents 
+
+ The following table summarizes certain backlog information (in thousands): 
+ September 30, 2024 December 31, 2023 Funded 77,422 30,112 Unfunded 52,700 49,382 Priced, unexercised options 288,614 63,878 Unpriced, unexercised options 18,758 24,438 Total backlog 437,494 167,810 
+
+Liquidity and Capital Resources 
+ 
+ Our primary sources of liquidity are cash flows provided by our operations and access to existing credit facilities, if available. Our primary short-term cash requirements are to fund payroll obligations, working capital, operating lease obligations, interest payments and short-term debt, including current maturities of long-term debt. Working capital requirements can vary significantly from period to period, particularly as a result of the timing of receipts and disbursements related to long-term contracts. As more fully described below under Bank of America Senior Revolver, as of September 30, 2024, until such date as we are able to comply with the Adjusted EBITDA requirement under the Senior Revolver, we are unable to draw on the Senior Revolver. However, based on our projected cash flow and liquidity needs, we believe that our cash from operating activities generated from continuing operations during the year will be adequate for the next 12 months to meet our anticipated uses of cash flow. 
+ 
+ Our medium-term to long-term cash requirements are to service and repay debt and to invest in facilities, equipment, technologies, and research and development for growth initiatives. 
+ 
+ Our ability to fund our medium-term to long-term cash needs will depend, in part, on our ability to generate cash in the future, which depends on our future financial results. Our future results are subject to general economic, financial, competitive, legislative and regulatory factors that may be outside of our control. Our future access to, and the availability of credit on acceptable terms and conditions, is impacted by many factors, including capital market liquidity and overall economic conditions. 
+ 
+ On May 10, 2024, we entered into a Controlled Equity Offering sales agreement (the Sales Agreement with Cantor Fitzgerald Co., as sales agent (the sales agent ), pursuant to which we may, from time to time, sell shares of our common stock, having an aggregate offering price of up to 150.0 million through the sales agent under an at-the-market equity offering program. Any offer and sale of shares of our common stock under the Sales Agreement will be made pursuant to our shelf registration statement on Form S-3 (No. 333-271230), which was declared effective by the SEC on April 21, 2023, and the related prospectus supplement dated May 10, 2024 and accompanying prospectus that form a part of the registration statement. 
+ 
+ As described in Note 10 Debt to consolidated financial statements included in this Quarterly Report on Form 10-Q, the Company was in compliance with the covenants of the Senior Revolver as of September 30, 2024 but is currently unable to draw on the Senior Revolver based on the Adjusted EBITDA requirements pursuant to the credit agreement. 
+ 
+ While we intend to reduce debt over time using cash provided by operations, we may also attempt to meet long-term debt obligations, if necessary, by obtaining capital from a variety of additional sources or by refinancing existing obligations. These sources include public or private capital markets, bank financings, proceeds from dispositions or other third-party sources. 
+ 
+ Our available liquidity as of September 30, 2024 and December 31, 2023 , consisted primarily of available cash and cash equivalents, which were as follows: 
+ September 30, 2024 December 31, 2023 Available cash and cash equivalents 65,584 32,557 Available borrowings from our existing credit facilities (1) 
+ Total available liquidity 
+ 65,584 32,557 
+ (1) Pursuant to the credit agreement, if the Company is compliance with the Secured Net Leverage Ratio covenant and the Adjusted EBITDA requirement as further described in Note 10 Debt, the Company is eligible to borrow up to 25 million, which is subject to borrowing base adjustments that limit the total amount available under the credit facilities to 90 of Eligible Prime Government Receivables and Eligible Subcontractor Government Receivables, plus 85 of Eligible Commercial Receivables. 
+ 41 
+
+Table of Contents 
+
+ The following table summarizes borrowings under our existing credit facilities as of the dates indicated: 
+ September 30, 2024 December 31, 2023 Convertible Notes 200,000 200,000 Bank of America Senior Revolver D O Financing Loan 1,229 Total debt 200,000 201,229 Less: unamortized issuance costs 4,262 5,727 Total debt, net 195,738 195,502 Less: current portion 1,229 Long-term debt, net 195,738 194,273 
+ 
+ Convertible Notes 
+ 
+ On December 7, 2021, the Company issued 200.0 million of unsecured convertible notes (the Convertible Notes to certain investors. The Convertible Notes bear interest at a rate of 6.0 per annum, payable semi-annually, and not including any interest payments that are settled with the issuance of shares, were convertible into 17,391,304 shares of the Company s common stock at an initial Conversion Price of 11.50. The Conversion Price is subject to adjustments, including but not limited to, the Conversion Rate Reset described below and in Note 10 Debt of the Notes to consolidated financial statements included in this Quarterly Report on Form 10-Q . The Convertible Notes mature on December 15, 2026. 
+ 
+ On May 29, 2022, pursuant to the conversion rate adjustment provisions in the Convertible Notes indenture, the Conversion Price was adjusted to 10.61 (or 94.2230 shares of common stock per 1,000 principal amount of Convertible Notes) because the average of the daily volume-weighted average price of the common stock during the preceding 30 trading days was less than 10.00 (the Conversion Rate Reset ). Subsequent to the Conversion Rate Reset, the Convertible Notes are convertible into 18,844,600 shares, not including any interest payments that are settled with the issuance of shares. 
+ 
+ The Convertible Notes require the Company to meet certain financial and other covenants. As of September 30, 2024, the Company was in compliance with all covenants related to the Convertible Notes. 
+ 
+ As of September 30, 2024 , the Company has an outstanding balance of 200.0 million related to the Convertible Notes, which is recorded on the balance sheet net of approximately 4.3 million of unamortized debt issuance costs. 
+ 
+ Bank of America Senior Revolver 
+ 
+ BigBear.ai is a party to a senior Bank of America Credit Agreement, entered into on December 7, 2021, subsequently amended on November 8, 2022, providing BigBear.ai with a 25.0 million senior secured revolving credit facility (the Senior Revolver ). Proceeds from the Senior Revolver will be used to fund working capital needs, capital expenditures, and other general corporate purposes. The Senior Revolver matures on December 7, 2025. 
+ 
+ The Senior Revolver includes borrowing capacity available for letters of credit and for borrowings on same-day notice, referred to as the swing loans. Any issuance of letters of credit or making of a swing loan will reduce the amount available under the revolving credit facility. BigBear.ai may increase the commitments under the Senior Revolver in an aggregate amount of up to the greater of 25.0 million or 100 of consolidated adjusted EBITDA plus any additional amounts so long as certain conditions, including compliance with the applicable financial covenants for such period, in each case on a pro forma basis, are satisfied. 
+ 
+ The Bank of America Credit Agreement requires BigBear.ai to meet certain financial and other covenants. The Company was not in compliance with the Fixed Charge Coverage ratio requirement as of June 30, 2022, and as a result was unable to draw on the facility. The Company notified Bank of America N.A. of the covenant violation, and on August 9, 2022, entered into the First Amendment, which among other things, waived the requirement that the Company demonstrate compliance with the minimum Fixed Charge Coverage ratio provided for in the Credit Agreement for the quarter ended June 30, 2022. 
+ 
+ The Company was not in compliance with the Fixed Charge Coverage ratio requirement as of September 30, 2022, and as a result was unable to draw on the facility. On November 8, 2022, the Company entered into a Second Amendment to the Bank of America Credit Agreement (the Second Amendment ), which modifies key terms of the Senior Revolver. As a result of the Second Amendment, funds available under the Senior Revolver are reduced to 25.0 million from 50.0 million, limited to a 
+ 42 
+
+Table of Contents 
+
+ borrowing base of 90 of Eligible Prime Government Receivables and Eligible Subcontractor Government Receivables, plus 85 of Eligible Commercial Receivables. Additionally, the Second Amendment increased the Base Rate Margin, BSBY Margin and unused commitment fees by 0.25 . Following entry into the Second Amendment, the Senior Revolver no longer is subject to a minimum Fixed Charge Coverage ratio covenant, but is still subject to the Secured Net Leverage ratio covenant. In order for the facility to become available for borrowings (the initial availability quarter ), the Company must report Adjusted EBITDA of at least one dollar. Commencing on the first fiscal quarter after the initial availability quarter, the Company is required to have aggregated reported Adjusted EBITDA of at least 1 over the two preceding quarters to maintain its ability to borrow under the Senior Revolver (though the inability to satisfy such condition does not result in a default under the Senior Revolver). Failure to meet this Adjusted EBITDA requirement is not a default but limits the Company s ability to make borrowings under the Senior Revolver until such time that the Company is able to meet the Adjusted EBITDA thresholds as defined in the Second Amendment. 
+ 
+ As of September 30, 2024, the Company had not drawn on the Senior Revolver. Unamortized debt issuance costs of 0.1 million were recorded on the balance sheet and are presented in Other non-current assets. 
+ 
+ Refer to Note 10 Debt to consolidated financial statements included in this Quarterly Report on Form 10-Q for more information. 
+ 
+ D O Financing Loan 
+ 
+ On December 20, 2023, the Company entered into a 1.2 million loan (the 2024 D O Financing Loan with US Premium Finance to finance the Company s directors and officers insurance premium through September 2024. The D O Financing Loan had an interest rate of 6.99 per annum and a maturity date of September 8, 2024. 
+ 
+ On December 8, 2022, the Company entered into a 2.1 million loan (the 2023 D O Financing Loan with AFCO Credit Corporation to finance the Company s directors and officers insurance premium through December 2023. The 2023 D O Financing Loan required an upfront payment of 1.1 million and has an interest rate of 5.75 per annum and a maturity date of December 8, 2023. The 2023 D O Financing Loan was fully repaid at maturity. 
+ 
+ RDO Warrant Exercise 
+ 
+ On February 27, 2024, the Company entered into a warrant exercise agreement with an existing accredited investor to exercise in full the outstanding RDO warrants to purchase up to an aggregate of 8,886,255 shares of the Company s common stock for total gross proceeds of approximately 20.6 million, prior to deducting offering expenses. 
+ 
+ PIPE Warrant Exercise 
+ 
+ On March 4, 2024, the Company entered into a warrant exercise agreement with an existing accredited investor to exercise in full the outstanding PIPE warrants to purchase up to an aggregate of 13,888,889 shares of the Company s common stock for total gross proceeds of approximately 33.2 million, prior to deducting offering expenses. 
+ 
+ Cash Flows 
+ 
+ The table below summarizes certain information from our consolidated statements of cash flows for the following periods: 
+ Nine Months Ended September 30, 2024 2023 Net cash used in operating activities (23,313) (18,233) Net cash provided by (used in) investing activities 6,235 (2,746) Net cash provided by financing activities 50,163 40,531 Effect of foreign currency rate changes on cash and cash equivalents (58) Net increase in cash and cash equivalents 33,027 19,552 Cash and cash equivalents at the beginning of period 32,557 12,632 Cash and cash equivalents at the end of the period 65,584 32,184 
+ 
+ 43 
+
+Table of Contents 
+
+ Operating activities 
+ 
+ For the nine months ended September 30, 2024, net cash used in operating activities was 23.3 million. Net loss before deducting depreciation, amortization and other non-cash items was 22.2 million and was further impacted by an unfavorable change in net working capital of 1.2 million which contributed to operating cash flows during this period. The unfavorable change in net working capital was largely driven by an increase in accounts receivable of 5.4 million, a decrease in accounts payable of 8.2 million and a decrease in other liabilities of 0.2 million. These were partially offset by a decrease in contract assets of 3.1 million, a decrease in prepaid expenses and other assets of 1.5 million, an increase in accrued liabilities of 7.6 million, and an increase in contract liabilities of 0.5 million. 
+ 
+ For the nine months ended September 30, 2023, net cash used in operating activities was 18.2 million. Net loss before deducting depreciation, amortization and other non-cash items was 18.9 million and was further impacted by an unfavorable change in net working capital of 0.7 million, which contributed to operating cash flows during this period. The unfavorable change in net working capital was largely driven by a decrease in accounts payable of 6.3 million and increases in other liabilities of 1.8 million and accounts receivable of 0.5 million. These were partially offset by a decrease in prepaid expenses and other assets of 6.2 million, a decrease in contract assets of 0.9 million, and an increase in accrued liabilities of 2.0 million. 
+ 
+ Investing activities 
+ 
+ For the nine months ended September 30, 2024, net cash provided by investing activities was 6.2 million, primarily consisting of cash acquired from the Pangiam Acquisition of 13.9 million, partially offset by capitalized software development costs of 7.4 million. 
+ 
+ For the nine months ended September 30, 2023, net cash used in investing activities was 2.7 million, primarily due to capitalization of software development costs of 2.7 million and the purchase of property and equipment. 
+ 
+ Financing activities 
+ 
+ For the nine months ended September 30, 2024, net cash provided by financing activities was 50.2 million, primarily consisting of the net proceeds from the issuance of shares pursuant to the exercise of the PIPE warrants and RDO warrants of 53.8 million, partially offset by the payment of taxes related to net share settlement of equity awards 3.1 million and the net repayment of 1.2 million related to the 2023 D O Financing Loan. 
+ 
+ For the nine months ended September 30, 2023, net cash provided by financing activities was 40.5 million, primarily consisting of the net proceeds from the issuance of the Private Placement and Registered Direct Offering shares of 50.0 million, offset by the payment of transaction costs associated with the Private Placement and Registered Direct Offering of 5.7 million, the payment of taxes related to net share settlement of equity awards 2.2 million, and partial repayment of 2.1 million related to the 2023 D O Financing Loan. 
+
+Critical Accounting Policies and Estimates 
+ 
+ For the critical accounting estimates used in preparing our consolidated financial statements, we make assumptions and judgments that can have a significant impact on revenue and expenses in our consolidated statements of operations , as well as, on the value of certain assets and liabilities on our consolidated balance sheets. We base our assumptions, judgments and estimates on historical experience and various other factors that we believe are reasonable under the circumstances. Actual results could differ materially from these estimates under different assumptions or conditions. 
+ 
+ In addition to those outlined for goodwill below, our critical accounting estimates are disclosed in Management s Discussion and Analysis of Financial Condition and Results of Operation included in our Annual Report on Form 10-K, for the year ended December 31, 2023 , as filed with the SEC on March 15, 2024 . 
+ 
+ Goodwill 
+ 
+ We assess goodwill for impairment at least annually, as of October 1, and whenever events or changes in circumstances indicate that the carrying value of the asset may not be recoverable. For the purposes of impairment testing, we have determined that we have one reporting unit. Our test of goodwill impairment starts with a qualitative assessment to determine whether it is necessary to perform a quantitative goodwill impairment test. If qualitative factors indicate that the fair value of the reporting unit is more likely than not less than its carrying amount, then a quantitative goodwill impairment test is performed. 
+ 44 
+
+Table of Contents 
+
+The discounted cash flow approach requires management to make certain assumptions based upon information available at the time the valuations are performed. Actual results could differ from these assumptions. We believe the assumptions used are reflective of what a market participant would have used in calculating fair value considering current economic conditions. 
+ 
+ Additional risks for goodwill across all reporting units include, but are not limited to: 
+ 
+ our failure to reach our internal forecasts could impact our ability to achieve our forecasted levels of cash flows and reduce the estimated discounted value of our reporting units; 
+ adverse technological events that could impact our performance; 
+ volatility in equity and debt markets resulting in higher discount rates; and 
+ significant adverse changes in the regulatory environment or markets in which we operate. 
+ 
+ Goodwill Impairment Testing 
+ 
+ During the third quarter of fiscal 2024, we reevaluated our long-term forecasts due to changes in our expectations about the timing of forecasted revenues for one of our higher growth products. We concluded that the revision to the Company s forecasts constituted a triggering event and therefore performed a qualitative impairment analysis as of September 30, 2024. Due to the combination of changes to our forecasts and lack of headroom resulting from our goodwill impairment during the first quarter of fiscal 2024, we could not conclude that it is more likely than not that the fair value exceeded the carrying value of our reporting unit as of September 30, 2024 and therefore performed a quantitative interim impairment test. 
+ 
+ Our quantitative goodwill impairment test reflected an allocation of 50 and 50 between the income and market-based approaches, respectively. Significant inputs into the valuation models included the discount rate, EBITDA growth and estimated future cash flows. We used a discount rate of 12.0 , guideline peer group and the historical and forward-looking revenue of the peer group in the goodwill impairment test. It was determined that there was no impairment for the three months ended September 30, 2024. 
+ 
+ Because the fair value of the reporting unit approximated its carrying value, a negative change in the key assumptions used in the interim impairment analysis or an increase in the carrying value may result in a future impairment of goodwill. Any significant adverse changes in future periods to our internal forecasts or external market conditions could reasonably be expected to negatively affect our key assumptions and may result in future goodwill impairment charges which could be material. For example, keeping all other assumptions the same, an additional increase in the discount rate or an increase in the carrying value could result in an impairment of goodwill. 
+
+Recent Accounting Pronouncements 
+ 
+ See Note 2 Summary of Significant Accounting Policies of the consolidated financial statements included in this Quarterly Report on Form 10-Q for a discussion of recently issued accounting pronouncements. 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ Our main exposure to market risk relates to changes in the value of our common stock or other instruments that are tied to our common stock, including derivative liabilities and convertible debt. Decreases in the value of our common stock have triggered certain reset provisions in our Convertible Notes that are based on the value of our common stock and volume of shares traded during the reset period. On May 29, 2022, pursuant to the Convertible Note indenture, the conversion rate applicable to the Convertible Notes was adjusted to 94.2230 (previously 86.9565) shares of common stock per 1,000 principal amount of Convertible Notes because the average of the daily volume-weighted average price of the common stock during the preceding 30 trading days was less than 10.00 (the Conversion Rate Reset ). After giving effect to the Conversion Rate Reset, the conversion price is 10.61 and the Convertible Notes are convertible into 18,844,600 shares, not including any interest payments that are settled with the issuance of shares. In addition, the Convertible Notes indenture contains certain make-whole provisions pursuant to which, under certain circumstances, the Company must increase the conversion rate and such increase depends, in part, on the price of our common stock. Refer to Written Put Option and Note 10 Debt in the notes to our consolidated financial statements in Item 1 on this Quarterly Report on Form 10-Q for further information. 
+ 
+ We are also exposed to market risk related to interest rates. Our financial instruments that are subject to interest rate risk principally include fixed-rate long-term debt and revolving credit, if drawn. As of September 30, 2024, the outstanding principal amount of our long-term debt was 200.0 million excluding unamortized discounts and issuance costs of 4.3 million. 
+ 
+ 45 
+
+Table of Contents 
+
+ Inflation affects the way we operate in our target markets. In general, we believe that, over time, we will be able to increase prices to counteract the majority of the inflationary effects of increasing costs and to generate sufficient cash flows to maintain our productive capability. Additionally, many of our long-term contracts have annual rate escalation clauses. 
+ 
+ We have established policies, procedures and internal processes governing our management of market risks and to manage and mitigate our exposure to these risks. 
+
+Item 4. Controls and Procedures 
+ 
+ Our management, with the participation of our principal executive officer and principal financial officer, has evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act), as of the end of the period covered by this Quarterly Report on Form 10-Q. Based on this evaluation, our principal executive officer and principal financial officer have concluded that as of September 30, 2024, our disclosure controls and procedures were effective to provide reasonable assurance that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the rules and forms of the SEC, and that such information is accumulated and communicated to our management, including our chief executive officer and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure. 
+ 
+ There were no changes in our internal control over financial reporting during the three months ended September 30, 2024 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+PART II OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+ 
+ We are subject to litigation, claims, investigations and audits arising from time to time in the ordinary course of business. Although legal proceedings are inherently unpredictable, we intend to vigorously defend against any matters currently pending against us. The outcome of these matters, individually and in the aggregate, is not expected to have a material impact on our consolidated balance sheets, statements of operations or cash flows. 
+
+Item 1A. Risk Factors 
+ 
+ For a discussion of the material factors that make an investment in the Company risky, please see the risk factors disclosed in Item 1A, Risk Factors of our Annual Report on Form 10-K for the year ended December 31, 2023. These risks and uncertainties have the potential to materially affect our business, results of operations, financial condition, cash flows, projected results and future prospects. These risks are not exclusive and additional risks to which we are subject include the factors mentioned under Forward-Looking Statements and the risks described in Management s Discussion and Analysis of Financial Condition and Results of Operations in this Quarterly Report on Form 10-Q. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ Recent Sales of Unregistered Securities 
+ 
+ There have not been sales of unregistered equity securities during the period covered by this Quarterly Report on Form 10-Q that were not previously reported in a Current Report on Form 8-K. 
+ 
+ Issuer Repurchases of Equity Securities 
+ 
+ There were no repurchases of our common stock during the three months ended September 30, 2024. 
+
+Item 3. Defaults Upon Senior Securities 
+ 
+ Not applicable. 
+
+Item 5. Other Information 
+ 
+ Rule 10b5-1 
+ 
+ 46 
+
+, , of the Company, a trading arrangement for the sale of the Company s common stock (a Rule 10b5-1 Trading Plan that is intended to satisfy the affirmative defense conditions of Securities Exchange Act Rule 10b5-1(c). Mr. Ricker s Rule 10b5-1 Trading Plan, which has a term ending on , provides for up to approximately shares to be sold, subject in each case to certain dates and quantities. 
+
+Item 6. Exhibits 
+
+Incorporated by Reference Exhibit Number Description of Exhibits Form Date Filed File Number Original Exhibit Number Filed Herewith Furnished Herewith 3.1 Second Amended and Restated Certificate of Incorporation of BigBear.ai Holdings, Inc., filed with the Secretary of State of the State of Delaware on December 7, 2021 (incorporated by reference to Exhibit 3.1 to the Current Report on Form 8-K filed by BigBear.ai Holdings, Inc. on December 13, 2021). 
+ 8-K 12/13/2021 001-40031 3.1 3.2 Amended and Restated Bylaws of BigBear.ai Holdings, Inc. (incorporated by reference to Exhibit 3.2 to the Current Report on Form 8-K filed by BigBear.ai Holdings, Inc. on December 13, 2021). 
+ 8-K 12/13/2021 001-40031 3.2 31.1 Certification of Chief Executive Officer (Principal Executive Officer) pursuant to Rules 13a-14(a) and 15d-14(a), under the Securities Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ X 31.2 Certification of Chief Financial Officer (Principal Financial Officer) pursuant to Rules 13a-14(a) and 15d-14(a), under the Securities Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ X 32.1 Certification of Chief Executive Officer (Principal Executive Officer) pursuant to 18 U.S.C 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ X 32.2 Certification of Chief Financial Officer (Principal Financial Officer) pursuant to 18 U.S.C 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ X 101.INS Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document) X 101.SCH Inline XBRL Taxonomy Extension Schema Document X 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document X 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document X 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document X 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document X 104 Cover Page Interactive Data File (formatted as inline XBRL and contained in Exhibit 101). X 
+ 47 
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, BigBear.ai Holdings, Inc. has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Date: November 7, 2024 
+ By: /s/ Amanda Long Name Amanda Long Title: Chief Executive Officer (Principal Executive Officer) Date: November 7, 2024 
+ By: /s/ Julie Peffer Name Julie Peffer Title: Chief Financial Officer (Principal Financial Officer) 
+
+48 
+
+<EX-31.1>
+ 2
+ exhibit311-ceocertificatio.htm
+ EX-31.1
+
+Document 
+ 
+ Exhibit 31.1 
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ 
+ I, Amanda Long, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of BigBear.ai Holdings, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date November 7, 2024 
+ By s Amanda Long Amanda Long Title Chief Executive Officer (Principal Executive Officer) 
+ Page 1 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ exhibit312-cfocertificatio.htm
+ EX-31.2
+
+Document 
+ 
+ Exhibit 31.2 
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ 
+ I, Julie Peffer, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of BigBear.ai Holdings, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date November 7, 2024 
+ By s Julie Peffer Julie Peffer Title Chief Financial Officer (Principal Financial Officer) 
+ Page 1 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ exhibit321-906ceo9302024.htm
+ EX-32.1
+
+Document 
+ 
+ Exhibit 32.1 
+
+Certification Pursuant to 18 U.S.C. SECTION 1350, 
+ as adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+In connection with the Quarterly Report on Form 10-Q for the period ended September 30, 2024 of B igBear.ai Holdings, Inc. (the Company ), as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Amanda Long, the Chief Executive Officer of the Company, certify pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ (i) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 
+ (ii) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date November 7, 2024 
+ By s Amanda Long Amanda Long Title Chief Executive Officer (Principal Executive Officer) 
+ 
+ Page 1 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ exhibit322-906cfo9302024.htm
+ EX-32.2
+
+Document 
+ 
+ Exhibit 32.2 
+
+Certification Pursuant to 18 U.S.C. SECTION 1350, 
+ as adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+
+In connection with the Quarterly Report on Form 10-Q for the period ended September 30, 2024 of B igBear.ai Holdings, Inc. (the Company ), as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Julie Peffer, the Chief Financial Officer of the Company, certify pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ (i) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 
+ (ii) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date November 7, 2024 
+ By s Julie Peffer Julie Peffer Title Chief Financial Officer (Principal Financial Officer) 
+ 
+ Page 1 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ bbai-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ bbai-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ bbai-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ bbai-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ bbai-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

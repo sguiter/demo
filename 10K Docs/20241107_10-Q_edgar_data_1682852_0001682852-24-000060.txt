@@ -1,0 +1,1137 @@
+<Header>
+<FileStats>
+    <FileName>20241107_10-Q_edgar_data_1682852_0001682852-24-000060.txt</FileName>
+    <GrossFileSize>9380308</GrossFileSize>
+    <NetFileSize>127876</NetFileSize>
+    <NonText_DocumentType_Chars>2216426</NonText_DocumentType_Chars>
+    <HTML_Chars>3498556</HTML_Chars>
+    <XBRL_Chars>1681060</XBRL_Chars>
+    <XML_Chars>1656690</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001682852-24-000060.hdr.sgml : 20241107
+<ACCEPTANCE-DATETIME>20241107160309
+ACCESSION NUMBER:		0001682852-24-000060
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		88
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241107
+DATE AS OF CHANGE:		20241107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Moderna, Inc.
+		CENTRAL INDEX KEY:			0001682852
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				813467528
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38753
+		FILM NUMBER:		241435433
+
+	BUSINESS ADDRESS:	
+		STREET 1:		325 BINNEY STREET
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142
+		BUSINESS PHONE:		6177146500
+
+	MAIL ADDRESS:	
+		STREET 1:		325 BINNEY STREET
+		CITY:			CAMBRIDGE
+		STATE:			MA
+		ZIP:			02142
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Moderna Therapeutics, Inc.
+		DATE OF NAME CHANGE:	20160822
+
+</SEC-Header>
+</Header>
+
+ 0001682852-24-000060.txt : 20241107
+
+10-Q
+ 1
+ mrna-20240930.htm
+ 10-Q
+
+mrna-20240930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, DC 20549 
+ FORM 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from _ to _ 
+ Commission File Number: 
+
+(Exact Name of Registrant as Specified in Its Charter) 
+ (State or Other Jurisdiction of Incorporation or Organization) (IRS Employer Identification No.) 
+ 
+ (Address of Principal Executive Offices) (Zip Code) 
+ ) 
+ (Registrant s Telephone Number, Including Area Code) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer , accelerated filer , smaller reporting company , and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer o 
+ Non-accelerated filer o 
+ Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes No 
+ 
+ As of October 31, 2024, there were shares of the registrant s common stock, par value 0.0001 per share, outstanding. 
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ 
+ This Quarterly Report on Form 10-Q (Form 10-Q) contains express or implied forward-looking statements. All statements other than those of historical facts contained in this Form 10-Q are based on our management s beliefs and assumptions and on information currently available to our management. Forward-looking statements in this Form 10-Q include, but are not limited to, statements about: 
+ 
+ our activities with respect to our COVID-19 vaccine, and our plans and expectations regarding future generations of our COVID-19 vaccine that we may develop, including in response to variants of the SARS-CoV-2 virus, ongoing clinical development, manufacturing and supply, pricing, commercialization, regulatory matters (including authorization or approval for updated vaccines), demand for COVID-19 vaccines, our provisions for product returns, and third-party and governmental arrangements and potential arrangements; 
+ 
+ our expectations regarding the endemic and seasonal commercial market for COVID-19 vaccines and our ability to effectively compete in such a market, as well as the impact that the evolving market will have on our financial returns; 
+ 
+ expected sales and delivery of our COVID-19 vaccine in future periods, and expected seasonality for sales; 
+ 
+ stability and storage conditions for our next-generation COVID-19 vaccine (mRNA-1283), and its potential as a component for a commercial combination vaccine; 
+ 
+ commercialization of our respiratory syncytial virus (RSV) vaccine (mRNA-1345), including anticipated demand, competition and further regulatory approvals for this product; 
+ 
+ our ability to obtain and maintain regulatory approval of our product candidates; 
+ 
+ our ability to successfully launch and commercialize our products and the timing of launches; 
+ 
+ the potential of our individualized neoantigen therapy (INT) program and our plans for the program, including to expand to additional tumor types and plans for regulatory approval of INT; 
+ 
+ our ability and the ability of third parties with whom we contract to successfully manufacture, supply and distribute our COVID-19 or RSV vaccines and any future commercial products at scale, as well as drug substances, delivery vehicles, development candidates, and investigational medicines for preclinical and clinical use; 
+ 
+ financing and funding options we may consider as part of our research and development strategy; 
+ 
+ our ability to successfully contract with third-party suppliers, distributors and manufacturers; 
+ 
+ internal and external costs associated with manufacturing our products, including our COVID-19 or RSV vaccines, and the impact on our cost of sales, and our anticipated cost of sales as a percentage of net product sales; 
+ 
+ the scope of protection we are able to establish and maintain for intellectual property rights covering our commercial products, product candidates and technology, including our ability to enter into license agreements, and our expectations regarding pending legal proceedings related to our intellectual property; 
+ 
+ the timing of initiation, progress, completion, results and cost of our clinical trials, preclinical studies and research and development programs, as well as those of our collaborators; 
+ 
+ participant enrollment in our clinical trials, including enrollment demographics and timing; 
+ 
+ potential advantages of mRNA as compared to traditional medicine; 
+ 
+ the implementation of our business model and strategic plans for our business, products, product candidates and technology; 
+ 
+ the pricing and reimbursement of our medicines, if approved; 
+ 
+ the build out of our manufacturing and commercial operations; 
+ 
+ estimates of our future expenses, revenues and capital requirements; 
+
+our operation and funding requirements, including our forecast of the period of time through which our financial resources will be adequate to support our operations; 
+ 
+ the potential benefits of strategic collaboration agreements and our ability to enter into strategic collaborations or other agreements with collaborators with development, regulatory and commercialization expertise; 
+ 
+ our financial performance; 
+ 
+ our tax provision and related tax liabilities; 
+ 
+ legal and regulatory developments in the United States and foreign countries; 
+ 
+ our ability to produce our products or product candidates with advantages in turnaround times or manufacturing cost; and 
+ 
+ developments relating to our competitors and our industry. 
+ 
+ Forward-looking statements often contain words such as will, may, should, could, expects, intends, plans, aims, anticipates, believes, estimates, predicts, potential, continue, or the negative of these terms or other comparable terminology, although not all forward-looking statements contain these words. Although we believe that the expectations reflected in these forward-looking statements are reasonable, these statements relate to future events or our operational or financial performance, and involve risks, uncertainties, and other factors that may cause our actual results to differ materially from any future results expressed or implied by these forward-looking statements. Accordingly, you should not place undue reliance on these forward-looking statements. Factors that may cause actual results to differ materially from current expectations include, among other things, those listed under the section entitled Risk Factors and elsewhere in this Form 10-Q and under Part I, Item 1A. Risk Factors in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. If one or more of these risks or uncertainties occur, or if our underlying assumptions prove to be incorrect, actual results could differ materially from those expressed or implied by the forward-looking statements. 
+ 
+ The forward-looking statements in this Form 10-Q represent our views as of the date of this Form 10-Q. We undertake no obligation to update any forward-looking statements, except as required by applicable securities law. You should therefore not rely on these forward-looking statements as representing our views as of any date subsequent to the date of this Form 10-Q. However, any further disclosures made on related subjects in our subsequent reports filed with the Securities and Exchange Commission should be consulted. 
+ 
+ TRADEMARKS 
+ 
+ This Form 10-Q contains references to our trademarks and to trademarks belonging to other entities. Solely for convenience, trademarks and trade names referred to may appear without the or symbols, but such references are not intended to indicate that their respective owners will not assert, to the fullest extent under applicable law, their rights thereto. We do not intend our reference to other companies trade names or trademarks to imply a relationship with, or endorsement or sponsorship of us by, any other companies. 
+ 
+ NOTE REGARDING COMPANY REFERENCES 
+ 
+ Unless the context otherwise requires, the terms Moderna, the Company, we, us and our in this Form 10-Q refer to Moderna, Inc. and its consolidated subsidiaries. 
+ ADDITIONAL INFORMATION 
+ 
+ Our website, www.modernatx.com, including the Investor Relations section, www.investors.modernatx.com; and corporate blog www.modernatx.com/moderna-blog, and our Statements and Perspectives webpage, https://investors.modernatx.com/Statements--Perspectives/default.aspx; as well as our social media channels: Facebook, www.facebook.com/modernatx; X, www.x.com/moderna_tx (@moderna_tx); LinkedIn, www.linkedin.com/company/modernatx; Instagram (@moderna_tx); and Threads (@moderna_tx) contain a significant amount of information about us, including financial and other information for investors. We encourage investors to visit these websites and social media channels as information is frequently updated and new information is shared. Information contained on our website, corporate blog and social media channels shall not be deemed incorporated into, or be a part of, this Form 10-Q. 
+
+Table of Contents 
+ 
+ PART I. 
+ Page Item 1. Financial Statements (Unaudited) 
+ 5 
+ Condensed Consolidated Balance Sheets as of September 30, 2024 and December 31, 2023 
+ 5 
+ Condensed Consolidated Statements of Operations for the three and nine months ended September 30, 2024 and 2023 
+ 6 
+ Condensed Consolidated Statements of Comprehensive Income (Loss) for the three and nine months ended September 30, 2024 and 2023 
+ 7 
+ Condensed Consolidated Statements of Stockholders' Equity for the three and nine months ended September 30, 2024 and 2023 
+ 8 
+ Condensed Consolidated Statements of Cash Flows for the nine months ended September 30, 2024 and 2023 
+ 10 
+ Notes to Condensed Consolidated Financial Statements 
+ 11 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 28 
+ Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+ 37 
+ Item 4. Controls and Procedures 
+ 37 
+ PART II. 
+ Item 1. 
+ Legal Proceedings 
+ 38 
+ Item 1A. 
+ Risk Factors 
+ 39 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 39 
+ Item 6. Exhibits 
+ 40 
+ SIGNATURES 
+ 41 
+
+Table of Contents 
+
+ Item 1. Financial Statements 
+
+MODERNA, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (Unaudited, in millions, except per share data) 
+ September 30, December 31, 2024 2023 Assets Current assets: Cash and cash equivalents Investments Accounts receivable, net Inventory Prepaid expenses and other current assets Total current assets Investments, non-current Property, plant and equipment, net Right-of-use assets, operating leases Deferred tax assets Other non-current assets Total assets Liabilities and Stockholders Equity Current liabilities: Accounts payable Accrued liabilities Deferred revenue Income taxes payable Other current liabilities Total current liabilities Deferred revenue, non-current Operating lease liabilities, non-current Financing lease liabilities, non-current Other non-current liabilities Total liabilities Commitments and contingencies Note 11 
+ ; shares authorized as of September 30, 2024 and December 31, 2023; shares issued or outstanding at September 30, 2024 and December 31, 2023 
+ Common stock, par value ; shares authorized as of September 30, 2024 and December 31, 2023; and shares issued and outstanding as of September 30, 2024 and December 31, 2023, respectively 
+ Additional paid-in capital Accumulated other comprehensive income (loss) ) Retained earnings Total stockholders equity Total liabilities and stockholders equity 
+ 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 5 
+
+Table of Contents 
+
+ MODERNA, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (Unaudited, in millions, except per share data) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenue: Net product sales Other revenue Total revenue Operating expenses: Cost of sales Research and development Selling, general and administrative Total operating expenses Loss from operations ) ) ) ) Interest income Other expense, net ) ) ) ) Income (loss) before income taxes ) ) ) Provision for income taxes Net income (loss) ) ) ) Earnings (loss) per share: Basic 
+ ) ) ) Diluted ) ) ) Weighted average common shares used in calculation of earnings (loss) per share: 
+ Basic 
+ Diluted 
+ 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 6 
+
+Table of Contents 
+
+ MODERNA, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) 
+ (Unaudited, in millions) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net income (loss) ) ) ) Other comprehensive income, net of tax: Available-for-sale securities: Unrealized gains on available-for-sale securities Less: net realized losses on available-for-sale securities reclassified in net income (loss) Net increase from available-for-sale securities Cash flow hedges: Less: net realized losses on derivative instruments reclassified in net income (loss) Net increase from derivatives designated as hedging instruments Gains on foreign currency translation 
+ Total other comprehensive income Comprehensive income (loss) ) ) ) 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 7 
+
+Table of Contents 
+
+ MODERNA, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY 
+ (Unaudited, in millions) 
+ Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Income (Loss) Retained Earnings Total Stockholders Equity Shares Amount Balance at June 30, 2024 ) Exercise of options to purchase common stock Issuance of common stock under employee stock purchase plan Stock-based compensation Other comprehensive income, net of tax Net income Balance at September 30, 2024 
+
+Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Loss Retained Earnings Total Stockholders Equity Shares Amount Balance at June 30, 2023 ) Exercise of options to purchase common stock Stock-based compensation Other comprehensive income, net of tax Repurchase of common stock, including excise tax Net loss ) ) Balance at September 30, 2023 ) 
+
+8 
+
+Table of Contents 
+
+Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Income (Loss) Retained Earnings Total Stockholders Equity Shares Amount Balance at December 31, 2023 ) Vesting of restricted common stock Exercise of options to purchase common stock Issuance of common stock under employee stock purchase plan Stock-based compensation Other comprehensive income, net of tax Net loss ) ) Balance at September 30, 2024 
+
+Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Loss Retained Earnings Total Stockholders Equity Shares Amount Balance at December 31, 2022 ) Vesting of restricted common stock Exercise of options to purchase common stock Issuance of common stock under employee stock purchase plan Stock-based compensation Other comprehensive income, net of tax Repurchase of common stock, including excise tax ) ) ) Net loss ) ) Balance at September 30, 2023 ) 
+
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 9 
+
+Table of Contents 
+
+ MODERNA, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (Unaudited, in millions) 
+ Nine Months Ended September 30, 2024 2023 Operating activities Net loss ) ) Adjustments to reconcile net loss to net cash used in operating activities: Stock-based compensation Depreciation and amortization Amortization/accretion of investments ) ) Loss on equity investments, net Deferred income taxes Other non-cash items Changes in assets and liabilities, net of acquisition of business: Accounts receivable, net ) ) Prepaid expenses and other assets ) Inventory ) Right-of-use assets, operating leases ) ) Accounts payable ) ) Accrued liabilities ) Deferred revenue ) ) Income taxes payable ) Operating lease liabilities Other liabilities ) Net cash used in operating activities ) ) Investing activities Purchases of marketable securities ) ) Proceeds from maturities of marketable securities Proceeds from sales of marketable securities Purchases of property, plant and equipment ) ) Acquisition of business, net of cash acquired ) Investment in convertible notes and equity securities ) Net cash provided by investing activities Financing activities Proceeds from issuance of common stock through equity plans Repurchase of common stock, including excise tax ) Changes in financing lease liabilities ) Net cash provided by (used in) financing activities ) Effect of changes in exchange rates on cash and cash equivalents Net decrease in cash, cash equivalents and restricted cash ) ) Cash, cash equivalents and restricted cash, beginning of year Cash, cash equivalents and restricted cash, end of period Non-cash investing and financing activities Purchases of property and equipment included in accounts payable and accrued liabilities Right-of-use assets obtained through finance lease modifications and reassessments Right-of-use assets obtained in exchange for financing lease liabilities 
+ 
+ The accompanying notes are an integral part of these unaudited condensed consolidated financial statements. 
+ 10 
+
+Table of Contents 
+
+MODERNA, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) 
+ 
+ development candidates across our development programs, of which are in clinical studies currently. 
+
+The significant accounting policies used in the preparation of these condensed consolidated financial statements for the three and nine months ended September 30, 2024 are consistent with those described in our 2023 Form 10-K. The only exception pertains to the policy related to research and development funding. We entered into a research and development funding arrangement in the first quarter of 2024. Please refer to Note 5 for further details regarding this policy. The results of operations for the three and nine months ended September 30, 2024 are not necessarily indicative of the operating results to be expected for the full fiscal year or future operating periods. We anticipate seasonal fluctuations in demand for our COVID-19 and recently approved RSV vaccines, with higher sales expected during the fall and winter seasons. 
+ 
+ Use of Estimates 
+
+11 
+
+Table of Contents 
+ ) ) Other comprehensive income Accumulated other comprehensive loss, balance at March 31, 2024 ) ) ) Other comprehensive income Accumulated other comprehensive loss, balance at June 30, 2024 ) ) ) Other comprehensive income Accumulated other comprehensive income, balance at September 30, 2024 ) 
+ 
+ Restricted Cash 
+
+Restricted cash (1) 
+ Restricted cash, non-current (2) 
+ Total cash, cash equivalents and restricted cash shown in the condensed consolidated statements of cash flows 
+ _______ 
+ (1) Included in prepaid expenses and other current assets in the condensed consolidated balance sheets. 
+ (2) Included in other non-current assets in the condensed consolidated balance sheets. 
+ 
+ Recently Issued Accounting Standards Not Yet Adopted 
+ 
+ 12 
+
+Table of Contents 
+
+Europe Rest of world Total 
+ 
+ RSV 
+ Total 
+ 
+ As of September 30, 2024, we have commercial products authorized for use, our COVID-19 vaccine and our RSV vaccine. The RSV vaccine was approved by the FDA in May 2024 for adults aged 60 years and older and we commenced sales of our RSV vaccine in the third quarter of 2024. 
+ 
+ Prior to the third quarter of 2023, we sold our COVID-19 vaccine to the U.S. Government, foreign governments and international organizations. The agreements and related amendments with these entities generally do not include variable consideration, such as discounts, rebates or returns. Certain of these agreements entitle us to upfront deposits for our COVID-19 vaccine supply, initially recorded as deferred revenue. 
+ 
+ As of September 30, 2024 and December 31, 2023, we had deferred revenue of million and million, respectively, related to customer deposits for our COVID-19 vaccine. We expect million of our deferred revenue related to customer deposits as of September 30, 2024 to be realized in less than one year. Timing of product delivery and manufacturing, and receipt of marketing approval for the applicable COVID-19 vaccine will determine the period in which product sales are recognized. 
+ 
+ In the third quarter of 2023, we commenced sales of our COVID-19 vaccine to the U.S. commercial market, in addition to continuing sales to foreign governments and international organizations. We also commenced sales of our RSV vaccine in the third quarter of 2024. In the U.S., our COVID-19 and RSV vaccines are sold primarily to wholesalers and distributors, and to a lesser extent, directly to retailers and healthcare providers. Wholesalers and distributors typically do not make upfront payments to us. 
+ 
+ 13 
+
+Table of Contents 
+
+ Product sales provision: 
+ Wholesaler chargebacks, discounts and fees 
+ ) ) ) ) Returns, rebates and other fees 
+ ) ) ) ) Total product sales provision (1) 
+ ) ) ) ) Net product sales 
+ _______ 
+ (1) Includes an adjustment of approximately million in the third quarter of 2024, reflecting a reduction in prior period provision estimates, primarily related to returns for the previous COVID-19 vaccine season that closed during the quarter. Provision related to sales made in 2024 
+ ) Provision related to sales made in prior periods (1) 
+ Payments and returns related to sales made in current period Payments and returns related to sales made in prior year 
+ Balance at September 30, 2024 ) 
+ _______ 
+ (1) Primarily reflecting a reduction in prior period return estimates for the previous COVID-19 vaccine season that closed during the quarter. 
+
+Collaboration revenue Licensing and royalty revenue 
+ Total other revenue 
+ 
+ Grant Revenue 
+ 
+ In April 2020, we entered into an agreement with the Biomedical Advanced Research and Development Authority (BARDA), a division of the Administration for Strategic Preparedness and Response (ASPR) within the U.S. Department of Health and Human Services (HHS), for an award of up to million to accelerate development of mRNA-1273. The agreement has been subsequently amended to provide for additional commitments to support various late-stage clinical development efforts of our original COVID-19 vaccine, mRNA-1273, including a participant Phase 3 study, pediatric clinical trials, adolescent clinical trials and pharmacovigilance studies. The maximum award from BARDA, inclusive of all amendments, was approximately billion. All contract options have been exercised. As of September 30, 2024, the remaining available funding, net of revenue earned was million. 
+ 
+ 14 
+
+Table of Contents 
+
+ million through the Rapid Response Partnership Vehicle (RRPV), funded by BARDA, to accelerate the development of mRNA-based pandemic influenza vaccines. The project award will support the late-stage development of an mRNA-based vaccine to enable the licensure of a pre-pandemic vaccine against the H5 influenza virus. This subtype of the influenza virus causes a highly infectious and severe disease in birds known as avian influenza and poses a risk of spillover into the human population. The agreement also includes additional options to prepare for and accelerate responses to future public health threats. We had not recognized any revenue under this agreement as of September 30, 2024. 
+ 
+ Licensing and Royalty Revenue 
+ 
+ In April 2024, we entered a non-exclusive out-licensing agreement with a pharmaceutical company based in Japan for mRNA COVID-19-related intellectual property for the territory of Japan. Under the terms of the agreement, we received an upfront payment of million, which included a million prepayment creditable against future royalties. Additionally, we are entitled to receive low double-digit royalties on the net sales of the company s COVID-19 product. 
+ 
+ million of the upfront payment as other revenue in our condensed consolidated statements of operations. The remaining million was recorded as deferred revenue in our condensed consolidated balance sheets. In the third quarter of 2024, we began recognizing royalty revenue by amortizing the deferred revenue as the underlying sales occurred. 
+
+million. Following this exercise, the Merck Participation Term commenced. Pursuant to the agreement, we and Merck have agreed to collaborate on further development and commercialization of INT, with costs and any profits or losses to be shared equally on a worldwide basis. 
+ 
+ For the three and nine months ended September 30, 2024 , we recognized expenses, net of Merck's reimbursements, of million and million , respectively, related to the INT collaboration under the Merck Participation Term . For the three and nine months ended September 30, 2023 , these expenses were million and million , respectively . 
+ 
+ Additionally, for the three and nine months ended September 30, 2024 , the net cost recovery for capital expenditures was million and million , respectively. For the three and nine months ended September 30, 2023 , the net cost recovery for capital expenditures was million and million , respectively. These amounts were applied to reduce the capitalized cost of the assets. 
+ 
+ We have other collaborative and licensing arrangements that we do not consider to be individually significant to our business at this time. Pursuant to these agreements, we may be required to make upfront payments and payments upon achievement of various development, regulatory and commercial milestones, which in the aggregate could be significant. Future milestone payments, if any, will be reflected in our consolidated financial statements when the corresponding events have occurred. In addition, we may be required to pay significant royalties on future sales if products related to these arrangements are commercialized. 
+ 
+ Development and Commercialization Funding Arrangement with Blackstone Life Sciences (Blackstone) 
+ 
+ In March 2024, we entered into a development and commercialization funding arrangement with Blackstone, under which Blackstone has committed to providing up to million in funding to us. This funding supports the development of our investigational mRNA-based influenza vaccine. Contingent upon regulatory approval in the U.S. and only if the approval is dependent on data from the funded activities, Blackstone will be entitled to receive low single-digit percentage royalties and up to million in sales milestone payments. These payments are based on net sales of our future influenza and combination vaccines, with sales milestone payments contingent upon achieving specified cumulative net sales targets. 
+ 
+ 15 
+
+Table of Contents 
+
+ million and million, respectively. 
+
+Available-for-sale: Certificates of deposit U.S. treasury bills U.S. treasury notes ) Corporate debt securities ) Government debt securities ) Total ) December 31, 2023 Amortized Cost Unrealized Gains Unrealized Losses Estimated Fair Value Cash and Cash Equivalents Current Marketable Securities Non- Current Marketable Securities Cash and cash equivalents Available-for-sale: Certificates of deposit U.S. treasury bills U.S. treasury notes ) Corporate debt securities ) Government debt securities ) Total ) 
+ 
+ 16 
+
+Table of Contents 
+
+ Due after one year through five years Total 
+ 
+ December 31, 2023 Amortized Cost Estimated Fair Value Due in one year or less Due after one year through five years Total 
+ 
+ In accordance with our investment policy, we place investments in investment grade securities with high credit quality issuers, and generally limit the amount of credit exposure to any one issuer. We evaluate securities for impairment at the end of each reporting period. Impairment is evaluated considering numerous factors, and their relative significance varies depending on the situation. Factors considered include whether a decline in fair value below the amortized cost basis is due to credit-related factors or non-credit-related factors, the financial condition and near-term prospects of the issuer, and our intent and ability to hold the investment to allow for an anticipated recovery in fair value. Any impairment that is not credit related is recognized in other comprehensive income (loss), net of applicable taxes. A credit-related impairment is recognized as an allowance on the balance sheet with a corresponding adjustment to earnings. We did t recognize any impairment charges related to available-for-sale securities for the three and nine months ended September 30, 2024 and 2023. We did t record any credit-related allowance for available-for-sale securities as of September 30, 2024 and December 31, 2023. 
+ 
+ U.S. treasury notes ) ) Corporate debt securities ) ) ) Government debt securities Total ) ) ) As of December 31, 2023: 
+ U.S. treasury bills U.S. treasury notes ) ) ) Corporate debt securities ) ) ) Government debt securities ) ) Total ) ) ) 
+ 
+ 17 
+
+Table of Contents 
+
+ and available-for-sale securities, respectively, out of our total investment portfolio that were in a continuous unrealized loss position. We neither intend to sell these investments, nor do we believe that we are more-likely-than-not to conclude we will have to sell them before recovery of their carrying values. We also believe that we will be able to collect both principal and interest amounts due to us at maturity. 
+ 
+ Assets and Liabilities Measured at Fair Value on a Recurring Basis 
+ 
+ The following fair value hierarchy is used to classify assets and liabilities based on the observable inputs and unobservable inputs used to value the assets and liabilities: 
+ 
+ Level 1: Unadjusted quoted prices in active markets that are accessible at the measurement date for identical, unrestricted assets or liabilities; 
+ Level 2: Quoted prices for similar assets and liabilities in active markets, quoted prices in markets that are not active, or inputs which are observable, either directly or indirectly, for substantially the full term of the asset or liability; or 
+ Level 3: Prices or valuation techniques that require inputs that are both significant to the fair value measurement and unobservable (i.e., supported by little or no market activity). 
+ 
+ Certificates of deposit U.S. treasury bills U.S. treasury notes Corporate debt securities Government debt securities Equity investments (1) 
+ Total Liabilities: Derivative instruments 
+
+Fair value at December 31, 2023 Fair Value Measurement Using Level 1 Level 2 Assets: Money market funds Certificates of deposit U.S. treasury bills U.S. treasury notes Corporate debt securities Government debt securities Equity Investments (1) 
+ Derivative instruments 
+ Total Liabilities: Derivative instruments 
+ 
+ 18 
+
+Table of Contents 
+
+As of September 30, 2024 and December 31, 2023, we did not have non-financial assets or liabilities measured at fair value on a recurring basis and did not have any Level 3 financial assets or financial liabilities. 
+ 
+ For the three and nine months ended September 30, 2024, we recognized net losses of million and million, respectively, on equity investments from changes in fair value of the securities. For the three and nine months ended September 30, 2023, we recognized net losses of million and million, respectively, on equity investments from changes in fair value of the securities. 
+ 
+ In addition, as of December 31, 2023, we had million in equity investments without readily determinable fair values, which were recorded within other non-current assets in our consolidated balance sheets and excluded from the fair value measurement tables above. These investments became publicly traded during the first quarter of 2024 and were recorded at their quoted market price in our condensed consolidated balance sheets as of September 30, 2024. 
+
+Work in progress Finished goods Total inventory Inventory, non-current (1) 
+ 
+ _______ 
+ (1) Consisted of raw materials with an anticipated consumption beyond one year. Inventory, non-current is included in other non-current assets in the condensed consolidated balance sheets. 
+ 
+ Inventory write-downs as a result of excess, obsolescence, scrap or other reasons, and losses on firm purchase commitments are recorded as a component of cost of sales in our condensed consolidated statements of operations. For the three and nine months ended September 30, 2024, inventory write-downs were million and million, respectively. For the three and nine months ended September 30, 2023, inventory write-downs were billion and billion, respectively. For both the three and nine months ended September 30, 2024, losses on firm purchase commitments were million. For the three and nine months ended September 30, 2023, losses on firm purchase commitments were and million, respectively. Inventory write-downs were mainly related to obsolete inventory due to inventory in excess of expected demand and shelf-life expiration. Losses on firm purchase commitments were primarily related to excess raw material purchase commitments that will expire before the anticipated consumption of those raw materials. As of September 30, 2024 and December 31, 2023, the accrued liability for losses on firm future purchase commitments in our condensed consolidated balance sheets was million and million, respectively. 
+ 
+ In May 2024, the FDA approved our RSV vaccine for adults aged 60 years and older, and we began to capitalize RSV vaccine inventory. As of September 30, 2024 and December 31, 2023, we had inventory on hand of million and million, respectively, inclusive of inventory for our COVID-19 and RSV vaccines. Our raw materials and work-in-progress inventory have variable shelf lives. We expect that the majority of this inventory will be consumed over the next three years. The shelf life of our COVID-19 vaccine product ranges from nine to twelve months. The shelf life of our RSV vaccine is 18 months. 
+ 19 
+
+Table of Contents 
+
+million in our condensed consolidated balance sheets. During the third quarter of 2024 and the subsequent period, our vaccine targeting the KP.2 strain received approval from the FDA and Health Canada, while our vaccine targeting the JN.1 strain was approved by regulatory authorities in the European Union, the United Kingdom, and other global markets. We have since commenced the supply of this updated vaccine to customers. 
+
+Building and building improvements 
+ Manufacturing and laboratory equipment Leasehold improvements 
+ Furniture, fixtures and other Computer equipment and software 
+ Construction in progress 
+ Right-of-use assets, financing Note 10 
+ Total Less: Accumulated depreciation 
+ ) ) Property, plant and equipment, net 
+ 
+ Depreciation and amortization expense for three and nine months ended September 30, 2024 was million and million, respectively. Depreciation and amortization expense for the three and nine months ended September 30, 2023 was million and million, respectively. 
+
+Less: Wholesalers chargebacks, discounts and fees 
+ ) ) Accounts receivable, net 
+ 
+ 20 
+
+Table of Contents 
+
+ Down payments and prepayments related to manufacturing and materials 
+ Income tax receivable Collaboration receivable Interest receivable Prepaid income tax 
+ Value added tax receivable Other current assets Prepaid expenses and other current assets 
+ 
+ Other Non-Current Assets 
+ 
+ Inventory, non-current (1) 
+ Goodwill 
+ Finite-lived intangible asset 
+ Equity investments Other Other non-current assets 
+ _______ 
+ 
+ 21 
+
+Table of Contents 
+
+Compensation-related Other external goods and services Manufacturing Royalties Development operations Property, plant and equipment Raw materials Clinical trials Commercial 
+ Loss on future firm purchase commitments (1) 
+ Accrued liabilities 
+ ______ 
+ (1) Related to losses that are expected to arise from firm, non-cancellable, commitments for future raw material purchases Note 7 ). 
+ 
+ Other Current Liabilities 
+ 
+ Lease liabilities - operating Note 10 
+ Other Other current liabilities 
+ 
+ Other Non-Current Liabilities 
+ 
+ Other 
+ Other non-current liabilities 
+ 
+ 22 
+
+Table of Contents 
+
+) Grant revenue ) Collaboration revenue ) Licensing and royalty revenue 
+ ) Total deferred revenue ) 
+
+main campuses in Massachusetts, our Cambridge campus and our Moderna Technology Center (MTC), an industrial technology center located in Norwood. We also lease various parcels of land, as well as office, lab, and manufacturing spaces across the globe for our business operations. 
+ 
+ Cambridge Campus 
+ 
+ Our Cambridge campus consists of multiple leased properties, including office and research laboratory spaces totaling approximately square feet, including the Moderna Science Center. 
+ 
+ Moderna Science Center 
+ 
+ In September 2021, we entered into a lease agreement for a building in Cambridge, Massachusetts, comprising approximately square feet. This facility, which includes our principal executive offices along with additional office and laboratory spaces, is referred to as the Moderna Science Center (MSC). After an approximately building project, the lease term is years, with options for additional extensions. During the third quarter of 2023, we commenced the lease and recognized the related right-of-use asset and lease liability on our condensed consolidated balance sheets. 
+ 
+ Following the commencement of the MSC lease, we amended the expiration dates of our existing leases at Technology Square in the fourth quarter of 2023. Originally scheduled to expire ranging from 2024 to 2029, these leases have been adjusted to conclude by early 2025. All our Cambridge leases are classified as operating leases. 
+ 
+ Moderna Technology Center 
+ 
+ Our MTC is composed of buildings, MTC South, MTC North and MTC East, totaling approximately square feet. Our MTC leases expire in 2042 and we have the option to extend the term for extension periods of each. All of our MTC leases are classified as finance leases. 
+ 
+ In September 2024, we entered into a purchase and sale agreement for the properties we currently lease in Norwood, Massachusetts, where the MTC is located. The total purchase price for the properties is approximately million. In October 2024, we made a nonrefundable deposit of million as part of the transaction. The closing of the transaction is subject to certain conditions, with an anticipated closing date in December 2024. 
+ 
+ 23 
+
+Table of Contents 
+
+ Right-of-use assets, financing, net (3) (4) 
+ Total Liabilities: Current: Operating lease liabilities (5) 
+ Financing lease liabilities (5) 
+ Total current lease liabilities Non-current: Operating lease liabilities, non-current Financing lease liabilities, non-current Total non-current lease liabilities Total 
+ _______ 
+ (1) These assets are real estate related assets, which include land, office, manufacturing, and laboratory spaces. 
+ (2) Net of accumulated amortization. 
+ (3) These assets are real estate assets related to the MTC leases and contract manufacturing service agreements. 
+ (4) Included in property, plant and equipment in the condensed consolidated balance sheets, net of accumulated depreciation. 
+ (5) Included in other current liabilities in the condensed consolidated balance sheets. 
+ 
+ 2025 2026 2027 2028 Thereafter Total minimum lease payments 
+ Less amounts representing interest or imputed interest ) ) Present value of lease liabilities 
+ 
+ ______ 
+ (1) Includes certain optional lease term extensions, predominantly related to the MTC leases, which represent a total of million of undiscounted future lease payments. 
+
+24 
+
+Table of Contents 
+
+ t experienced any material losses related to these indemnification obligations, and material claims were outstanding. We do not expect significant claims related to these indemnification obligations and, consequently, concluded that the fair value of these obligations is negligible, and related reserves were established. 
+ 
+ Purchase Commitments and Purchase Orders We enter into agreements in the normal course of business with vendors and contract manufacturing organizations for raw materials and manufacturing services and with vendors for preclinical research studies, clinical trials and other goods or services. As of September 30, 2024, we had billion of non-cancelable purchase commitments related to raw materials and manufacturing agreements, which are expected to be paid through 2029. As of September 30, 2024, we had million o f non-c ancelable purchase commitments related to research and development and other goods and services which are expected to be paid through 2031. These amounts represent our minimum contractual obligations, including termination fees. 
+ 
+ In addition to purchase commitments, we have agreements with third parties for various goods and services, including services related to clinical operations and support and contract manufacturing, for which we are not contractually able to terminate for convenience and avoid any and all future obligations to the vendors. Certain agreements provide for termination rights subject to termination fees or winddown costs. Under such agreements, we are contractually obligated to make certain payments to vendors, mainly, to reimburse them for their unrecoverable outlays incurred prior to cancellation. As of September 30, 2024, we had cancelable open purchase orders of billion in total under such agreements for our significant clinical operations and support and contract manufacturing. These amounts represent only our estimate of those items for which we had a contractual commitment to pay as of September 30, 2024, assuming we would not cancel these agreements. The actual amounts we pay in the future to the vendors under such agreements may differ from the purchase order amounts. 
+ Licenses to Patented Technology 
+ 
+ We have patent license agreements with Cellscript, LLC and its affiliate, mRNA RiboTherapeutics, Inc., and the National Institute of Allergy and Infectious Diseases. Under these agreements, we are required to pay royalties and certain milestone payments. For further information on our licensing and royalty payments, please refer to our 2023 Form 10-K under the heading Business Intellectual Property In-licensed intellectual property and Note 11 to our consolidated financial statements contained therein. 
+ 
+ For the three and nine months ended September 30, 2024, we recognized million and million, respectively, of royalty expenses associated with our product sales. For the three and nine months ended September 30, 2023, we recognized million and million, respectively, of royalty expenses associated with our product sales. These royalty expenses were recorded to cost of sales in our condensed consolidated statements of operations. 
+ 
+ Additionally, we have other in-license agreements with third parties which require us to make future development, regulatory and commercial milestone payments and sales-based royalties for specified products associated with the agreements. The achievement of these milestones have not yet occurred as of September 30, 2024. 
+ 
+ 25 
+
+Table of Contents 
+
+ Restricted Stock Units (RSUs) and Performance Stock Units (PSUs) 
+ Employee Stock Purchase Plan (ESPP) Total 
+ Cost of sales Research and development Selling, general and administrative Total 
+
+As of September 30, 2024, there was million of total unrecognized compensation cost related to unvested stock-based compensation with respect to options, RSUs and PSUs granted. That cost is expected to be recognized over a weighted-average period of years as of September 30, 2024. 
+ 
+ Share Repurchase Programs 
+ 
+ As of September 30, 2024, billion of our Board of Directors authorization for repurchases of our common stock (the 2022 Repurchase Programs) remains outstanding, with no expiration date. The timing and actual number of shares repurchased under the 2022 Repurchase Programs will depend on a variety of factors, including price, general business and market conditions, and other investment opportunities, and shares may be repurchased through open market purchases through the use of trading plans intended to qualify under Rule 10b5-1 under the Securities Exchange Act of 1934, as amended. 
+ 
+ shares repurchased. 
+
+) ) ) Provision for income taxes Effective tax rate ) ) ) 
+ 
+ The effective tax rate for the three and nine months ended September 30, 2024 was higher than the statutory rate, primarily due to our global valuation allowance, which limits our ability to recognize tax benefits from the loss. The higher effective tax rate was also due to certain of our foreign subsidiaries that have taxable income, while we incurred a net loss before income taxes in other jurisdictions. The decrease in our effective tax rate, compared to the same periods in 2023, was primarily attributable to the establishment of a billion valuation allowance on deferred tax assets in the third quarter of 2023. This valuation allowance has been applied consistently since its initial recognition in the third quarter of 2023. For additional details regarding our deferred tax assets and the policies governing our valuation allowance, please refer to Note 13 to our consolidated financial statements in our 2023 Form 10-K. 
+ 26 
+
+Table of Contents 
+
+) ) ) Denominator: Basic weighted-average common shares outstanding 
+ Effect of dilutive securities Diluted weighted-average common shares outstanding Basic EPS 
+ ) ) ) Diluted EPS ) ) ) Common stock equivalents excluded from the EPS computation above because their inclusion would have been anti-dilutive 
+
+27 
+
+Table of Contents 
+
+ 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ You should read the following discussion and analysis of our financial condition and results of operations together with our unaudited financial information and related notes included in this Form 10-Q and our consolidated financial statements and related notes and other financial information in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, which was filed with the Securities and Exchange Commission (the SEC) on February 23, 2024 (the 2023 Form 10-K). 
+ 
+ Overview 
+ 
+ We are a biotechnology company advancing a new class of medicines made of messenger RNA (mRNA). mRNA medicines are designed to direct the body s cells to produce intracellular, membrane or secreted proteins that have a therapeutic or preventive benefit with the potential to address a broad spectrum of diseases. Our platform builds on continuous advances in basic and applied mRNA science, delivery technology and manufacturing, providing us the capability to pursue in parallel a robust pipeline of new development candidates. We are developing therapeutics and vaccines for infectious diseases, immuno-oncology, rare diseases and autoimmune diseases, independently and with our strategic collaborators. 
+ 
+ Since our founding in 2010, we have transformed from a research-stage company advancing programs in the field of mRNA to a commercial enterprise with a diverse clinical portfolio of vaccines and therapeutics across several modalities, a broad intellectual property portfolio and integrated manufacturing capabilities that allow for rapid clinical and commercial production at scale. We have a diverse and extensive development pipeline of 36 development candidates across our 45 development programs, of which 42 are in clinical studies currently. 
+ 
+ Our COVID-19 vaccine is our first commercial product and is marketed, where approved, under the name Spikevax . Our original vaccine, mRNA-1273, targeted the SARS-CoV-2 ancestral strain, and we have leveraged our mRNA platform to rapidly adapt our vaccine to emerging SARS-CoV-2 strains to provide protection as the virus evolves and regulatory guidance is updated. In May 2024, the U.S. Food and Drug Administration (FDA) granted approval for mRESVIA (mRNA-1345), our mRNA vaccine against respiratory syncytial virus (RSV), to protect adults aged 60 and older from lower respiratory tract disease caused by RSV infection. This marks our second approved mRNA product and underscores our ongoing commitment to delivering solutions for patients by addressing global public health threats related to infectious diseases. 
+ 
+ Business Highlights 
+ 
+ COVID-19 
+ 
+ Consistent with guidance from regulators, we updated our COVID-19 vaccine to target the KP.2 and JN.1 strains of the SARS-CoV-2 virus for the 2024-2025 season. During the third quarter of 2024, our vaccine targeting the KP.2 strain received approval from the FDA and Health Canada, while our vaccine targeting the JN.1 strain was approved by regulatory authorities in the European Union (EU), the United Kingdom, Japan, Taiwan and other jurisdictions. We have since commenced the supply of these vaccines to customers. 
+ 
+ RSV 
+ 
+ In May 2024, the FDA approved mRESVIA to protect adults aged 60 years and older from lower respiratory tract disease caused by RSV infection. The approval was granted under a breakthrough therapy designation. Subsequently, the Advisory Committee on Immunization Practices (ACIP) issued a recommendation for all unvaccinated people 75 years of age and older and unvaccinated people ages 60-74 who are at increased risk. In August 2024, the European Commission (EC) granted marketing authorization for mRESVIA to protect adults aged 60 years and older from lower respiratory tract disease caused by RSV infection. The authorization is valid in all 27 EU member states, as well as Iceland, Liechtenstein and Norway. We have also filed for mRNA-1345 approval with regulators in multiple markets worldwide and commenced sales in the U.S. in the third quarter of 2024. 
+ 
+ Moderna's Canadian Manufacturing Facility 
+ 
+ In September 2024, our manufacturing facility in Laval, Quebec, received a Drug Establishment License (DEL) from Health Canada, certifying the site s compliance with the required safety and quality standards to produce drug substance. This certification marked a significant step in enabling our Canadian facility to become fully operational, supporting domestic manufacturing of mRNA vaccines, including COVID-19 vaccines, with production expected to begin in 2025. 
+ 
+ Net Product Sales and Net Loss Per Share 
+ 
+ For the third quarter of 2024, we recognized net product sales of 1.8 billion from sales of our COVID-19 and RSV vaccines, 
+ 28 
+
+Table of Contents 
+
+ compared to 1.8 billion for the third quarter of 2023. Earnings per share was 0.03 for the third quarter of 2024, compared to loss per share of (9.53) for the third quarter of 2023. 
+
+Recent Program Developments 
+ 
+ Respiratory Virus Vaccines 
+ 
+ RSV . In September 2024, we announced positive Phase 3 results for our RSV vaccine (mRNA-1345) for high-risk adults aged 18 to 59. In the trial, mRNA-1345 met all primary immunogenicity endpoints and the 50 g dose, which is the same for the currently approved mRESVIA vaccine for adults 60 years and above, was well tolerated with no safety concerns identified. 
+ 
+ Next-generation COVID-19 . In September 2024, we shared positive Phase 3 vaccine efficacy and immunogenicity data for our next-generation COVID-19 vaccine (mRNA-1283). 
+ 
+ Flu . In September 2024, we announced that we are no longer pursuing an accelerated approval pathway for the regulatory submission of our standalone flu vaccine, mRNA-1010, to focus our resources on the submission of a potentially more impactful Flu+COVID combination vaccine, mRNA-1083. In September 2024, we initiated a Phase 3 efficacy study (P304) for mRNA-1010, funded by previously announced project financing through Blackstone Life Sciences. 
+ 
+ We intend to file in 2024 for approval of our next-generation COVID-19 vaccine (mRNA-1283) and our RSV vaccine (mRNA-1345) for high-risk adults ages 18 to 59. We intend to use priority review vouchers for those programs. For our Flu+COVID combination vaccine (mRNA-1083), we intend to file in 2024, subject to ongoing discussions with the FDA, and we have decided not to use a priority review voucher. 
+ 
+ Latent and Other Virus Vaccines 
+ 
+ Cytomegalovirus (CMV) . We expect to have accrued the 81 cases necessary to trigger the first interim analysis of the Phase 3 vaccine efficacy study of our CMV vaccine candidate (mRNA-1647) by the end of 2024. 
+ 
+ Norovirus . In September 2024, we announced that the first participant in the U.S. had been dosed in the pivotal Phase 3 trial of our investigational mRNA trivalent norovirus vaccine, mRNA-1403. We had previously announced that an interim analysis had shown that a single dose of mRNA-1403 elicited a robust immune response across all dose levels evaluated with a clinically acceptable reactogenicity and safety profile. Additionally, robust histo-blood group antigen (HBGA) blocking antibody titers were observed against vaccine-matched norovirus genogroup I and II selected strains across all dose levels evaluated. Similar mRNA-1403-induced HBGA-blocking antibody titers were observed in younger adult and older adult age groups. 
+ 
+ Oncology Therapeutics 
+ 
+ Individualized neoantigen therapy (INT) . In October 2024, we and Merck initiated a Phase 3 study evaluating adjuvant INT (mRNA-4157) in combination with KEYTRUDA after neoadjuvant KEYTRUDA and chemotherapy in patients with certain types of resected non-small cell lung cancer. This is the third Phase 3 trial for the investigational INT focused on earlier stages of cancer. 
+ 
+ Discontinued Programs 
+ 
+ In the third quarter of 2024, we announced that five programs in our pipeline have been discontinued due to our strategic prioritization efforts: 
+ 
+ Endemic HCoV (mRNA-1287): The preclinical program will not advance into Phase 1. 
+ RSV infants (seronegative, 
+
+29 
+
+Table of Contents 
+
+ Our Pipeline 
+ 
+ The following chart shows our current pipeline of 45 development programs across our several modalities. 
+ 
+ Abbreviations: BARDA, Biomedical Advanced Research and Development Authority; CMV, cytomegalovirus; cSCC, cutaneous squamous cell carcinoma; EBV, Epstein-Barr virus; HIV, human immunodeficiency virus; hMPV, human metapneumovirus; HSV, herpes simplex virus; IAVI, International AIDS Vaccine Initiative; ILCM, Institute for Life Changing Medicines; IM, infectious mononucleosis; NIH, National Institutes of Health; NSCLC, non-small cell lung cancer; RCC, renal cell carcinoma; RSV, respiratory syncytial virus; VZV, varicella-zoster virus. 
+ 
+ 30 
+
+Table of Contents 
+
+ Results of operations 
+ 
+ The following table summarizes our condensed consolidated statements of operations for the periods presented (in millions): 
+ Three Months Ended September 30, Change 2024 vs. 2023 
+ 2024 2023 Revenue: Net product sales 1,820 1,757 63 4 Other revenue 42 74 (32) (43) Total revenue 1,862 1,831 31 2 Operating expenses: Cost of sales 514 2,241 (1,727) (77) Research and development 1,137 1,160 (23) (2) Selling, general and administrative 281 442 (161) (36) Total operating expenses 1,932 3,843 (1,911) (50) Loss from operations (70) (2,012) 1,942 (97) Interest income 103 105 (2) (2) Other expense, net (12) (51) 39 (76) Income (loss) before income taxes 21 (1,958) 1,979 101 Provision for income taxes 8 1,672 (1,664) (100) Net income (loss) 13 (3,630) 3,643 100 
+ 
+ Nine Months Ended September 30, Change 2024 vs. 2023 
+ 2024 2023 Revenue: Net product sales 2,171 3,878 (1,707) (44) Other revenue 99 159 (60) (38) Total revenue 2,270 4,037 (1,767) (44) Operating expenses: Cost of sales 725 3,764 (3,039) (81) Research and development 3,421 3,439 (18) (1) Selling, general and administrative 823 1,079 (256) (24) Total operating expenses 4,969 8,282 (3,313) (40) Loss from operations (2,699) (4,245) 1,546 (36) Interest income 334 318 16 5 Other expense, net (58) (85) 27 (32) Loss before income taxes (2,423) (4,012) 1,589 (40) Provision for income taxes 18 919 (901) (98) Net loss (2,441) (4,931) 2,490 (50) 
+ Revenue 
+ 
+ Net product sales 
+ 
+ Net product sales by customer geographic location were as follows (in millions): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 United States 1,215 913 1,477 916 Europe 281 103 281 739 Rest of world 
+ 324 741 413 2,223 Total 1,820 1,757 2,171 3,878 
+ 31 
+
+Table of Contents 
+
+Net product sales by product were as follows (in millions): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 COVID-19 
+ 1,810 1,757 2,161 3,878 RSV 
+ 10 10 Total 1,820 1,757 2,171 3,878 
+ 
+ As of September 30, 2024, we have two commercial products authorized for use, our COVID-19 vaccine and our RSV vaccine. The RSV vaccine was approved by the FDA in May 2024 for adults aged 60 years and older. 
+ 
+ In the third quarter of 2023, we commenced sales of our COVID-19 vaccine to the U.S. commercial market, in addition to continuing sales to foreign governments and international organizations. We also commenced sales of our RSV vaccine in the third quarter of 2024. In the U.S., our COVID-19 and RSV vaccines are sold primarily to wholesalers and distributors, and to a lesser extent, directly to retailers and healthcare providers. Net product sales are recognized net of estimated wholesaler chargebacks, invoice discounts for prompt payments and pre-orders, provisions for sales returns and government rebates, and other related deductions. 
+ 
+ The following table summarizes product sales provision for the periods presented (in millions): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Gross product sales 2,964 2,420 3,377 4,541 Product sales provision: 
+ Wholesaler chargebacks, discounts and fees 
+ (1,053) (479) (1,053) (479) Returns, rebates and other fees 
+ (91) (184) (153) (184) Total product sales provision (1) 
+ (1,144) (663) (1,206) (663) Net product sales 1,820 1,757 2,171 3,878 
+ _______ 
+ (1) Includes an adjustment of approximately 140 million in the third quarter of 2024, reflecting a reduction in prior period provision estimates, primarily related to returns for the previous COVID-19 vaccine season that closed during the quarter. 
+ 
+ Prior to the third quarter of 2023, we sold our COVID-19 vaccine to the U.S. Government, foreign governments and international organizations. The agreements and related amendments with these entities generally do not include variable consideration, such as discounts, rebates or returns. Certain of these agreements entitle us to upfront deposits for our COVID-19 vaccine supply, initially recorded as deferred revenue. As of September 30, 2024, we had deferred revenue of 443 million associated with customer deposits received or billable under supply agreements, with the majority of our COVID-19 vaccine deliveries scheduled in 2024. 
+ 
+ Other revenue 
+ 
+ Other revenue comprises grant revenue, collaboration revenue, and licensing and royalty revenue. 
+ 
+ Total revenue for the three months ended September 30, 2024 remained relatively flat compared to the same period in 2023. For the nine months ended September 30, 2024, total revenue decreased by 1.8 billion, or 44 , compared to the same period in 2023, mainly due to lower net product sales of our COVID-19 vaccine. 
+ 
+ Net product sales for the three months ended September 30, 2024 increased by 63 million, or 4 , compared to the same period in 2023, primarily driven by higher sales in the U.S. market following the earlier launch of our updated COVID-19 vaccine for the season, and an approximately 140 million adjustment related to the reduction in prior period sales provision estimates. With FDA approval granted three weeks earlier than in the previous year, we were able to meet demand more effectively. This increase was partially offset by lower international sales, which in 2023 had benefited from the fulfillment of orders deferred from 2022. For the nine months ended September 30, 2024, net product sales decreased by 1.7 billion, or 44 , compared to the same period in 2023. This decline reflects the transition of the COVID-19 vaccine market from pandemic-driven demand to a more seasonal commercial pattern, with sales in 2024 exhibiting greater seasonality and reduced overall demand. 
+ 
+ We expect higher demand for our COVID-19 and RSV vaccines in the fall and winter seasons each year across both hemispheres, as countries prepare for seasonal vaccination campaigns. For the full year of 2024, we anticipate further reductions in net product sales 
+ 32 
+
+Table of Contents 
+
+ for our COVID-19 vaccine compared to 2023 as the market continues to evolve into a seasonal commercial model. Although we commenced sales of our RSV vaccine in the third quarter of 2024, these sales are not expected to have a significant impact on our overall product sales for the year. 
+ 
+ Other revenue decreased by 32 million, or 43 , and 60 million, or 38 , for the three and nine months ended September 30, 2024, respectively, compared to the same periods in 2023. The decrease for the three and nine months ended was mainly due to a reduction in grant revenue under our agreement with Biomedical Advanced Research and Development Authority (BARDA) for the development of our COVID-19 vaccine, partially offset by an increase in licensing and royalty revenue. 
+ 
+ Operating expenses 
+ 
+ Cost of sales 
+ 
+ Cost of sales for the three months ended September 30, 2024 was 514 million, which included third-party royalties of 92 million, inventory write-downs of 214 million, unutilized manufacturing capacity and wind-down costs of 27 million. Cost of sales for the nine months ended September 30, 2024 was 725 million, which included third-party royalties of 110 million, inventory write-downs of 302 million, primarily related to our finished and semi-finished COVID-19 vaccine inventory and certain raw materials, unutilized manufacturing capacity and wind-down costs of 109 million, and a 57 million benefit from the sale of previously written-down zero-cost inventory. Please refer to Note 7 to our condensed consolidated financial statements for inventory related charges. These charges in 2024, other than royalties, were largely driven by customer demand forecast adjustments and commitments related to manufacturing capacity. 
+ 
+ Cost of sales for the three months ended September 30, 2024 decreased by 1.7 billion, or 77 , compared to the same period in 2023. Cost of sales as a percentage of net product sales for the three months ended September 30, 2024 was 28 , compared to 128 for the same period in 2023. Cost of sales for the nine months ended September 30, 2024 decreased by 3.0 billion, or 81 , compared to the same period in 2023. Cost of sales as a percentage of net product sales for the nine months ended September 30, 2024 was 33 , compared to 97 for the same period in 2023. The decrease in cost of sales for both the three- and nine-month periods in 2024 was primarily driven by reduced inventory write-downs, unutilized manufacturing capacity, and purchase commitment related cancellation fees. In addition, the reduction reflects the impact of a strategic cost initiative launched in the third quarter of 2023 to optimize our COVID-19 business by resizing manufacturing operations in response to the shift toward an endemic seasonal market. This initiative, which incurred 1.4 billion in charges during the third quarter of 2023, helped drive improved manufacturing efficiency and cost reductions in 2024. The decrease in cost of sales as a percentage of net product sales for both the three- and nine-month periods in 2024 was mainly driven by reduced costs, while the decrease for the nine-month period was partially offset by the lower sales volume, reflecting a decline in product demand and increased seasonality. 
+ 
+ We anticipate that the full year cost of sales as a percentage of net product sales for 2024 will be lower than the 70 experienced in 2023. This expectation is based on projected improvements in our manufacturing efficiency and expected reductions in inventory write-downs. However, due to the strong seasonality of our business, we expect this percentage to be higher in the first half of the year than the second half of the year, with the fourth quarter anticipated to be higher than the third quarter. 
+ 
+ Research and development expenses 
+ 
+ Research and development expenses decreased by 23 million, or 2 , for the three months ended September 30, 2024, compared to the same period in 2023. This reduction was primarily due to decreases in clinical trial expenses of 182 million and clinical manufacturing expenses of 92 million. These decreases were partially offset by the purchase of a priority review voucher, along with a 38 million increase in personnel-related costs and stock-based compensation. For the nine months ended September 30, 2024, research and development expenses decreased by 18 million, or 1 , compared to the same period in 2023. This reflects a 332 million reduction in clinical trial expenses, a 150 million reduction in clinical manufacturing expenses, and an 85 million reduction in upfront license payments. These reductions were offset by a 193 million increase in personnel-related costs and stock-based compensation, as well as the purchase of two priority review vouchers. The increase in personnel-related costs and stock-based compensation for both periods was driven by higher headcount to support our continued research and development efforts. The decrease in clinical trial expenses for the three months ended September 30, 2024, was mainly due to reduced spending on our COVID-19 and RSV programs. For the nine-month period, the decrease was largely attributable to reduced spending on our COVID-19, RSV and seasonal flu programs, in line with our planned trial schedules. 
+ 
+ We anticipate a modest reduction in research and development expenses in 2024 compared to 2023 levels. We continue to develop our pipeline and advance our product candidates into later-stage development, particularly our ongoing Phase 3 studies. These include our next-generation COVID-19, seasonal flu, CMV, norovirus and combination vaccine programs, as well as our INT program. 
+ 33 
+
+Table of Contents 
+
+Selling, general and administrative expenses 
+ 
+ Selling, general and administrative expenses decreased by 161 million, or 36 , for the three months ended September 30, 2024, compared to the same period in 2023. This decrease was primarily due to a reduction of 105 million in consulting and outside services across all functions, as well as a 36 million reduction in commercial and marketing related expenses. For the nine months ended September 30, 2024, selling, general and administrative expenses decreased by 256 million, or 24 , compared to the same period in 2023. The decline for the nine-month period was mainly due to a 250 million reduction in consulting and outside services across all functions, along with a 51 million reduction in commercial and marketing related expenses. These decreases were partially offset by a 48 million increase in personnel-related costs and stock-based compensation, primarily driven by an expanded headcount in digital, medical affairs and commercial functions to support our digital and artificial intelligence initiatives, as well as our marketed products. The decrease in both periods reflects cost discipline and efficiencies gained by reducing reliance on external consultants and bringing more functions in-house. 
+ 
+ We anticipate that selling, general and administrative expenses in 2024 will be lower than the levels experienced in 2023. This reflects our ongoing commitment to efficiency as we expand our global commercial, regulatory, sales and marketing infrastructure, while continuing to invest in digital capabilities and leverage artificial intelligence technologies. These efforts align with our strategic focus on advancing our program development and enhancing our overall business processes. 
+ 
+ Interest income 
+ 
+ For the three months ended September 30, 2024, interest income decreased by 2 million, or 2 , compared to the same period in 2023. For the nine months ended September 30, 2024, interest income increased by 16 million, or 5 , compared to the same period in 2023. Overall, interest income from our investments in marketable securities remained relatively flat across both periods. The decrease in the three-month period was primarily due to lower average investment balances, while the increase for the nine-month period was driven by the overall higher interest rate environment. 
+ 
+ Other expense, net 
+ 
+ The following tables summarize other expense, net for the periods presented (in millions): 
+ Three Months Ended September 30, Change 2024 vs. 2023 
+ 2024 2023 Loss on investments 
+ (9) (37) 28 (76) Interest expense (6) (10) 4 (40) Other income (loss), net 
+ 3 (4) 7 175 Total other expense, net 
+ (12) (51) 39 (76) 
+ Nine Months Ended September 30, Change 2024 vs. 2023 
+ 2024 2023 Loss on investments (47) (50) 3 (6) Interest expense (18) (32) 14 (44) Other income (loss), net 
+ 7 (3) 10 333 Total other expense, net (58) (85) 27 (32) 
+ 
+ For the three and nine months ended September 30, 2024, total other expense, net decreased by 39 million and 27 million, or 76 and 32 , respectively, compared to the same periods in 2023. The decrease in total other expense, net for the three-month period was primarily driven by a reduction in losses on equity investments. For the nine-month period, the decrease was mainly due to lower losses on available-for-sale debt securities and reduced interest expense, partially offset by an increase in losses on equity investments. Our interest expense is primarily related to our finance leases. Please refer to Note 10 to our condensed consolidated financial statements. 
+ 
+ 34 
+
+Table of Contents 
+
+ Income taxes 
+ 
+ Provision for income taxes decreased by 1.7 billion and 901 million, or 100 and 98 , for the three and nine months ended September 30, 2024, compared to the same periods in 2023. The decrease in both periods was primarily due to the establishment of a 1.7 billion valuation allowance on deferred tax assets in the third quarter of 2023. This valuation allowance has been applied consistently since its initial recognition in the third quarter of 2023. As a result, we are unable to recognize tax benefits from the loss due to our global valuation allowance. Consequently, the effective tax rates for the three and nine months ended September 30, 2024 are not comparable to the same periods in the prior year. Please refer to Note 13 to our condensed consolidated financial statements. 
+ 
+ Liquidity and capital resources 
+ 
+ The following table summarizes our cash, cash equivalents, investments and working capital as of September 30, 2024 and December 31, 2023 (in millions): 
+ September 30, December 31, 2024 2023 Financial assets: Cash and cash equivalents 1,644 2,907 Investments 5,223 5,697 Investments, non-current 2,335 4,677 Total 9,202 13,281 Working capital: Current assets 9,666 10,325 Current liabilities 2,201 3,015 Total 7,465 7,310 
+ 
+ Our cash, cash equivalents and investments are invested in accordance with our investment policy, primarily with a view to liquidity and capital preservation. Investments, consisting primarily of government and corporate debt securities, are stated at fair value. Cash, cash equivalents and investments as of September 30, 2024 decreased by 4.1 billion, or 31 , compared to December 31, 2023. The decrease in cash, cash equivalents and investments was primarily due to a net cash outflow from operating activities of 3.8 billion and purchases of property and equipment of 529 million during the nine months ended September 30, 2024. 
+ 
+ Working capital, which is current assets less current liabilities, as of September 30, 2024 increased by 155 million, compared to December 31, 2023, primarily due to an increase in accounts receivable of 672 million, mainly due to timing of collections, a decrease in accrued liabilities and accounts payable of 569 million, driven by lower spend during the period, and an increase in inventory of 210 million, driven by manufacturing of COVID-19 product, partially offset by a decrease in cash and cash equivalents of 1.3 billion. 
+ 
+ As of September 30, 2024, we did not have any off-balance sheet arrangements, other than those obligations and commitments disclosed herein. 
+ 
+ Cash flow 
+ 
+ The following table summarizes the primary sources and uses of cash for each period presented (in millions): 
+ Nine Months Ended September 30, 2024 2023 Net cash (used in) provided by: 
+ Operating activities 
+ (3,829) (3,740) Investing activities 
+ 2,488 4,744 Financing activities 
+ 59 (1,268) 
+ 
+ Operating activities 
+ 
+ We derive cash flows from operations primarily from cash collected from customer deposits and accounts receivable related to our product sales, as well as certain government-sponsored and private organizations, strategic alliances and funding arrangements. Our 
+ 35 
+
+Table of Contents 
+
+ cash flows from operating activities are significantly affected by our use of cash for operating expenses and working capital to support the business. 
+ 
+ Beginning in the third quarter of 2020, we entered into supply agreements with the U.S. Government, foreign governments and international organizations for the supply of our COVID-19 vaccine and received upfront deposits. In the third quarter of 2023, we commenced sales of our COVID-19 vaccine to the U.S. commercial market, in addition to continuing sales to foreign governments and international organizations. In the U.S., our COVID-19 vaccine is sold primarily to wholesalers and distributors, and to a lesser extent, directly to retailers and healthcare providers. We also commenced sales of our RSV vaccine in the third quarter of 2024. Wholesalers and distributors typically do not make upfront payments to us. As of September 30, 2024, we had 443 million in deferred revenue related to customer deposits received or billable. 
+ 
+ Net cash used in operating activities for the nine months ended September 30, 2024 was 3.8 billion and consisted of net loss of 2.4 billion, non-cash adjustments of 427 million and a net change in assets and liabilities of 1.8 billion. Non-cash items primarily included stock-based compensation of 325 million, and depreciation and amortization of 129 million. The net change in assets and liabilities was mainly due to an increase in accounts receivable of 672 million driven by timing of invoicing, a decrease in accrued liabilities and accounts payable of 518 million, driven by overall lower spend in the period, an increase in inventory of 208 million, driven by manufacturing of COVID-19 products, and a decrease in deferred revenue of 177 million due to revenue recognized in excess of customer deposits received. 
+ 
+ Net cash used in operating activities increased by 89 million, or 2 , during the nine months ended September 30, 2024, compared to the same period in 2023, primarily attributable to a change in deferred income taxes of 934 million driven by an increase in valuation allowance, a change in prepaid expense and other assets of 919 million mainly related to prepayment of clinical studies and contract manufacturing organization activities, a change in inventory of 670 million driven by less inventory write-downs, partially offset by a decrease in net loss of 2.5 billion. 
+ 
+ Investing activities 
+ 
+ Our primary investing activities consist of purchases, sales, and maturities of our investments, capital expenditures for land, building, leasehold improvements, manufacturing, laboratory, computer equipment and software, and business development. 
+ 
+ Net cash provided by investing activities for the nine months ended September 30, 2024 was 2.5 billion, which primarily included proceeds from maturities and sales of marketable securities of 7.7 billion, partially offset by purchases of marketable securities of 4.6 billion, and purchases of property and equipment of 529 million. 
+ 
+ Net investing cash flows decreased by 2.3 billion, or 48 , during the nine months ended September 30, 2024, compared to the same period in 2023, primarily due to an increase in purchases of marketable securities of 2.5 billion. 
+ 
+ Financing activities 
+ 
+ Net cash provided by financing activities for the nine months ended September 30, 2024 was 59 million, primarily due to proceeds from issuance of common stock through equity plans of 55 million. 
+ 
+ Net cash provided by financing activities increased by 1.3 billion, or 105 , during the nine months ended September 30, 2024, compared to the same period in 2023, mainly due to a decrease in repurchases of common stock of 1.2 billion. 
+ 
+ Operation and funding requirements 
+ 
+ Our principal sources of funding as of September 30, 2024 consisted of cash and cash equivalents, investments, and cash we may generate from operations. We generated net income of 8.4 billion and 12.2 billion for the years ended in 2022 and 2021, respectively, following the authorization of our first commercial product in December 2020. From our inception to the end of 2020, we incurred significant losses from operations due to our significant research and development expenses. We also incurred a net loss of 2.4 billion for the nine months ended September 30, 2024 and a net loss of 4.7 billion for the year ended 2023. We have retained earnings of 11.2 billion as of September 30, 2024. 
+ 
+ We have significant future capital requirements including expected operating expenses to conduct research and development activities, operate our organization, and meet capital expenditure needs. We anticipate maintaining substantial expenses across all areas of our ongoing activities, particularly as we continue research and development of our development candidates and clinical activities for our investigational medicines. This also extends to our manufacturing costs, including our arrangements with our supply and manufacturing partners. Our ongoing work on our RSV, seasonal flu, CMV and norovirus vaccine candidates, individualized neoantigen therapy, next generation COVID-19 vaccine, combination vaccines, late-stage clinical development, investments in digital 
+ 36 
+
+Table of Contents 
+
+ capabilities and artificial intelligence technologies, and buildout of global commercial, regulatory, sales and marketing infrastructure and manufacturing facilities will require significant cash outflows in future periods, most of which will not be reimbursed or otherwise paid for by our partners or collaborators. In addition, we have substantial facility, lease and purchase obligations (refer to Note 10 and Note 11 to our condensed consolidated financial statements). We have entered into various collaboration and licensing agreements, as well as a research and development funding arrangement with third parties. These arrangements collectively encompass the funding of specific research and development activities, with the distinction that under the research and development funding arrangement, we receive funding. However, for all these arrangements, we may be obligated to make potential future milestone and royalty payments. 
+ 
+ We believe that our cash, cash equivalents, and investments as of September 30, 2024, together with cash expected to be generated from product sales, will be sufficient to enable us to fund our projected operations and capital expenditures through at least the next 12 months from the issuance of these financial statements included in this Form 10-Q. We are subject to all the risks related to the development and commercialization of novel medicines, and we may encounter unforeseen expenses, difficulties, complications, delays, and other unknown factors, which may adversely affect our business. For example, we experienced a decline in customer demand for our COVID-19 vaccine in 2023, and this trend continued into 2024, reflecting the market's ongoing transition to a seasonal commercial pattern in the endemic COVID-19 vaccine market. We foresee that our commitment to investing in our business for future product launches may lead to continued negative cash flows from operations in upcoming periods. Our forecast of the period of time through which our financial resources will be adequate to support our operations is a forward-looking statement and involves risks and uncertainties, and actual results could vary as a result of a number of factors. We have based this estimate on assumptions that may prove to be wrong, and we could utilize our available capital resources sooner than we currently expect. 
+ 
+ Critical accounting policies and significant judgments and estimates 
+ 
+ There have been no material changes in our critical accounting policies and estimates in the preparation of our condensed consolidated financial statements during the three months ended September 30, 2024 compared to those disclosed in our 2023 Form 10-K. 
+ 
+ Contractual Obligations 
+ 
+ As of September 30, 2024, other than disclosed within Note 5 , Note 10 and Note 11 to our condensed consolidated financial statements, there have been no material changes to our contractual obligations and commitments from those described under Management s Discussion and Analysis of Financial Condition and Results of Operations included in our 2023 Form 10-K. 
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+ Our market risks, and the way we manage them, are summarized in Part II, Item 7A., Quantitative and Qualitative Disclosures About Market Risk of our 2023 Form 10-K. There have been no material changes to our market risk or to our management of such risks for the three and nine months ended September 30, 2024. 
+
+Item 4. Controls and Procedures 
+ Disclosure Controls and Procedures 
+ 
+ Our management, with the participation of our Chief Executive Officer and our Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures as of September 30, 2024. The term disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act means controls and other procedures of a company that are designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company s management, including its principal executive and principal financial officers, as appropriate to allow timely decisions regarding required disclosure. Management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving their objectives and management necessarily applies its judgment in evaluating the cost-benefit relationship of possible controls and procedures. Based on the evaluation of our disclosure controls and procedures as of September 30, 2024, our Chief Executive Officer and Chief Financial Officer concluded that, as of such date, our disclosure controls and procedures were effective at the reasonable assurance level. 
+ 
+ Changes in Internal Control over Financial Reporting 
+ 
+ Except for a change in our logistics provider to support vaccine distribution and order management, there were no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the three months 
+ 37 
+
+Table of Contents 
+
+ ended September 30, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+Inherent Limitations on Effectiveness of Controls 
+ 
+ Our management, including our Chief Executive Officer and Chief Financial Officer, believes that our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of achieving their objectives and are effective at the reasonable assurance level. However, our management does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent all errors and all fraud. A control system, no matter how well-conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. These inherent limitations include the realities that judgments in decision making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by the collusion of two or more people or by a management override of the controls. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions; over time, controls may become inadequate because of changes in conditions, or the degree of compliance with policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+
+PART II 
+ 
+ Item 1. Legal Proceedings 
+ We are involved in various claims and legal proceedings of a nature considered ordinary course in our business, including the intellectual property litigation described in our 2023 Form 10-K under the heading Legal Proceedings. Most of the issues raised by these claims are highly complex and subject to substantial uncertainties. For a description of risks relating to these and other legal proceedings we face, see Part I, Item 1A., Risk Factors, of our 2023 Form 10-K, including the discussion under the headings entitled Risks related to our intellectual property and Risks related to the manufacturing of our commercial products and product candidates. The outcome of any such proceedings, regardless of the merits, is inherently uncertain; therefore, assessing the likelihood of loss and any estimated damages is difficult and subject to considerable judgment. 
+ 
+ Proceedings Related to Patents Owned by Alnylam 
+ 
+ As previously disclosed in our 2023 Form 10-K, in May 2023, Alnylam Pharmaceuticals, Inc. filed a complaint against us in the U.S. District Court for the District of Delaware asserting three U.S. patents concerning cationic lipids. In November 2023, the District Court entered an order of partial dismissal with respect to two of the patents at issue. Subsequently, in October 2024, the District Court entered a final judgment of non-infringement in our favor with respect to the third patent at issue. The decision is subject to appeal. 
+ 
+ Proceedings Related to Patents Owned by GSK 
+ 
+ COVID-19 Vaccines 
+ 
+ In October 2024, GlaxoSmithKline Biologicals SA (GSK) filed a complaint against us in the U.S. District Court for the District of Delaware asserting that our manufacture and sale of our COVID-19 vaccines infringe certain U.S. patents directed to lipid-mRNA vaccine formulation technology. The complaint seeks a judgment of infringement of the asserted patents and unspecified damages, but does not seek injunctive relief. 
+ 
+ RSV Vaccine 
+ 
+ Also in October 2024, GSK filed a complaint against us in the U.S. District Court for the District of Delaware asserting that our manufacture and sale of our RSV vaccine infringes certain U.S. patents directed to lipid-mRNA vaccine formulation technology. The complaint seeks a judgment of infringement of the asserted patents, unspecified damages and injunctive relief in the United States. 
+ 
+ Proceedings Related to Patents Owned by Northwestern University 
+ 
+ In October 2024, Northwestern University filed a complaint against us in the U.S. District Court for the District of Delaware asserting that our COVID-19 and RSV vaccines infringe several U.S. patents concerning lipid nanoparticle technology. The complaint seeks a judgment of infringement of the asserted patents and unspecified damages. The complaint does not seek injunctive relief. 
+ 38 
+
+Table of Contents 
+
+Securities Class Action Litigation 
+ 
+ In August 2024, a putative shareholder class action complaint was filed against the Company and certain officers in the U.S. District Court for the District of Massachusetts. The action is purportedly brought on behalf of a class of shareholders who purchased Moderna common stock between January 18, 2023 and June 25, 2024. The complaint asserts claims under the Securities Exchange Act of 1934 regarding statements about our RSV vaccine (mRNA-1345) and seeks unspecified damages. 
+ 
+ Derivative Litigation 
+ 
+ Between September and November 2024, purported shareholder derivative complaints were filed in the U.S. District Court for the District of Massachusetts against certain of our officers and directors and against the Company as a nominal defendant. The complaints allege breaches of fiduciary duty and claims under the Securities Exchange Act of 1934 regarding statements about mRNA-1345 and seek declaratory and injunctive relief and unspecified damages payable to us. 
+
+Item 1A. Risk Factors 
+ Information regarding risk and uncertainties related to our business appears in Part I, Item 1A. Risk Factors of our 2023 Form 10-K. There have been no material changes from the risk factors previously disclosed in the 2023 Form 10-K. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ Issuer Purchases of Equity Securities 
+ 
+ On August 1, 2022, our Board of Directors authorized a share repurchase program for our common stock of up to 3.0 billion, with no expiration date. During the three months ended September 30, 2024, there were no shares repurchased. As of September 30, 2024, 1.7 billion of our Board of Directors authorization for repurchases of our common stock remains outstanding, with no expiration date. 
+ 
+ For details about our share repurchase programs, please refer to Note 12 to our consolidated financial statements, as set forth in our 2023 Form 10-K. 
+ 
+ 39 
+
+Table of Contents 
+
+ Item 6. Exhibits 
+ 
+ The Exhibits listed below are filed or incorporated by reference as part of this Form 10-Q. 
+ Exhibit No. Exhibit Index 10.1# 
+ 2018 Employee Stock Purchase Plan, as amended. 
+ 31.1 Certification of Principal Executive Officer pursuant to Rule 13a-14(a) and Rule 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 31.2 Certification of Principal Financial Officer pursuant to Rule 13a-14(a) and Rule 15d-14(a) of the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 32.1+ Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 101.INS XBRL Instance Document - The instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Link Document 104 Cover Page Interactive Data File (formatted as Inline XBRL with applicable taxonomy extension information contained in Exhibits 101.) 
+ 
+ Filed herewith # 
+ Indicates a management contract or any compensatory plan, contract or arrangement. 
+ 
+ + The certification furnished in Exhibit 32.1 hereto is deemed to accompany this Form 10-Q and will not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended. Such certification will not be deemed to be incorporated by reference into any filings under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except to the extent that the Registrant specifically incorporates it by reference. 
+ 40 
+
+Table of Contents 
+
+SIGNATURES 
+ Pursuant to the requirements of the Section 13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ 
+ MODERNA, INC. 
+ Date: By: /s/ St phane Bancel November 7, 2024 St phane Bancel Chief Executive Officer and Director Principal Executive Officer) 
+ Date: By: /s/ James M. Mock November 7, 2024 James M. Mock Chief Financial Officer Principal Financial Officer) 
+
+41 
+
+<EX-10.1>
+ 2
+ exhibit1019302024.htm
+ EX-10.1
+
+Document 
+ Exhibit 10.1 
+
+ MODERNA, INC. 
+ 2018 EMPLOYEE STOCK PURCHASE PLAN 
+ The purpose of the Moderna, Inc. 2018 Employee Stock Purchase Plan the Plan is to provide eligible employees of Moderna, Inc. (the Company and each Designated Company (as defined in Section 11) with opportunities to purchase shares of the Company s common stock, par value 0.001 per share (the Common Stock ). An aggregate of 810,000 shares of Common Stock have been approved and reserved for this purpose, plus on January 1, 2020 and each January 1 thereafter, the number of shares of Common Stock reserved and available for issuance under the Plan shall be cumulatively increased by the lesser of (i) 3,240,000 shares of Common Stock, (ii) one percent of the number of shares of Common Stock of the Company issued and outstanding on the immediately preceding December 31 or (iii) such lesser number of shares of Common Stock as determined by the Administrator. 
+ The Plan includes two components a Code Section 423 Component (the 423 Component and a non-Code Section 423 Component (the Non-423 Component ). It is intended for the 423 Component to constitute an employee stock purchase plan within the meaning of Section 423(b) of the U.S. Internal Revenue Code of 1986, as amended (the Code and the 423 Component shall be interpreted in accordance with that intent (although the Company makes no undertaking or representation to maintain such qualification). In addition, this Plan authorizes the grant of options under the Non-423 Component that does not qualify as an employee stock purchase plan under Section 423 of the Code. Except as otherwise provided herein, the Non-423 Component will operate and be administered in the same manner as the 423 Component. 
+ 
+ 1. Administration . The Plan will be administered by the person or persons (the Administrator appointed by the Company s Board of Directors (the Board for such purpose. The Administrator has authority at any time to (i) adopt, alter and repeal such rules, subplans, guidelines and practices for the administration and operation of the Plan and for its own acts and proceedings as it shall deem advisable, including to accommodate the specific requirements of local laws, regulations and procedures for jurisdictions outside of the United States (ii) interpret the terms and provisions of the Plan (iii) make all determinations it deems advisable for the administration of the Plan (iv) decide all disputes arising in connection with the Plan and (v) otherwise supervise the administration of the Plan. All interpretations and decisions of the Administrator shall be binding on all persons, including the Company and the Participants. No member of the Board or individual exercising administrative authority with respect to the Plan shall be liable for any action or determination made in good faith with respect to the Plan or any option granted hereunder. 
+ 2. Offerings . The Company will make one or more offerings to eligible employees to purchase Common Stock under the Plan Offerings ). Unless otherwise determined by the Administrator, an Offering will begin on the first business day occurring on or after each January 1 st and July 1 st and will end on the last business day occurring on or before the following May 31 st and November 30 th , respectively. The Administrator may, in its discretion, designate a different period for any Offering, provided that no Offering shall exceed 27 months in duration or overlap any other Offering. 
+ 
+ 3. Eligibility . All individuals classified as employees on the payroll records of the Company and each Designated Company are eligible to participate in any one or more of the Offerings under the Plan, provided that as of the first day of the applicable Offering (the Offering Date they are customarily employed by the Company or a Designated Company for 20 hours or more a week, unless the exclusion of employees who do not meet this requirement is not permissible under applicable law, and have completed at least 30 days of employment. Notwithstanding any other provision herein, individuals who are not contemporaneously classified as employees of the Company or a Designated Company for purposes of the Company s or applicable Designated Company s payroll system are not considered to be eligible employees of the Company or any Designated Company and shall not be eligible to participate in the Plan. In the event any such individuals are reclassified as employees of the Company or a Designated Company for any purpose, including, without limitation, common law or statutory employees, by any action of any third party, including, without limitation, any government agency, or as a result of any private lawsuit, action or administrative proceeding, such individuals shall, notwithstanding such reclassification, remain ineligible for participation. Notwithstanding the foregoing, the exclusive means for individuals who are not contemporaneously classified as employees of the Company or a Designated Company on the Company s or 
+
+Designated Company s payroll system to become eligible to participate in a plan which is equivalent to this Plan is through the adoption of a subplan, which specifically renders such individuals eligible to participate therein. 
+ 
+ 4. Participation . 
+ (a) Participants . An eligible employee who is not a Participant in any prior Offering may participate in a subsequent Offering by submitting (either in electronic or written form, according to procedures established by the Company) an enrollment form to his or her appropriate payroll location at least 5 business days before the Offering Date (or by such other deadline as shall be established by the Administrator for the Offering). 
+ (b) Enrollment . The enrollment form will (a) state a whole percentage to be contributed from an eligible employee s Compensation (as defined in Section 11) per pay period, (b) authorize the purchase of Common Stock in each Offering in accordance with the terms of the Plan and (c) specify the exact name or names in which shares of Common Stock purchased for such individual are to be issued or transferred pursuant to Section 10. An employee who does not enroll in accordance with these procedures will be deemed to have waived the right to participate. Unless a Participant submits (either in electronic or written form, according to procedures established by the Company) a new enrollment form or withdraws from the Plan, such Participant s contributions and purchases will continue at the same percentage of Compensation for future Offerings, provided he or she remains eligible. 
+ (c) Notwithstanding the foregoing, participation in the Plan will neither be permitted nor be denied contrary to the requirements of the Code and any applicable law. 
+ 5. Employee Contributions . Each eligible employee may authorize payroll deductions at a minimum of 1 percent up to a maximum of 15 percent of such employee s Compensation for each pay period provided, however, that if payroll deductions are not permitted or problematic under applicable law or for administrative reasons, the Company, in its discretion, may allow eligible employees to contribute to the Plan by other means. The Company will maintain book accounts showing the amount of payroll deductions or other contributions made by each Participant for each Offering. No interest will accrue or be paid on payroll deductions or other contributions, unless required under applicable law. 
+ 
+ 6. Contribution Changes . Except as may be determined by the Administrator in advance of an Offering, a Participant may not increase his or her contributions during any Offering and may only decrease his or her contributions once during any Offering. However, during an Offering, a Participant may increase or decrease his or her contributions with respect to the next Offering (subject to the limitations of Section 5) by submitting (either in electronic or written form, according to procedures established by the Company) a new enrollment form at least 5 business days before the next Offering Date (or by such other deadline as shall be established by the Administrator for the Offering). The Administrator may, in advance of any Offering, establish rules permitting a Participant to increase, decrease or terminate his or her contributions during an Offering. 
+ 7. Withdrawal . A Participant may withdraw from participation in the Plan by submitting a notice of withdrawal to his or her appropriate payroll location (either in electronic or written form, according to procedures established by the Company). The Participant s withdrawal will be effective if submitted at least 10 business days prior to the end of the Offering period. Following a Participant s withdrawal, the Company will promptly refund such individual s entire account balance under the Plan to him or her (after payment for any Common Stock purchased before the effective date of withdrawal). Partial withdrawals are not permitted. Such an employee may not begin participation again during the remainder of the Offering, but may enroll in a subsequent Offering in accordance with Section 4. 
+ 
+ 8. Grant of Options . On each Offering Date, the Company will grant to each eligible employee who is then a Participant in the Plan an option Option to purchase on the last day of such Offering (the Exercise Date ), at the Option Price hereinafter provided for, the lowest of (a) a number of shares of Common Stock determined by dividing such Participant s accumulated contributions on such Exercise Date by the lower of (i) 85 percent of the Fair Market Value of the Common Stock on the Offering Date, or (ii) 85 percent of the Fair Market Value of the Common Stock on the Exercise Date, (b) 3,000 shares or (c) such other lesser maximum number of shares as shall have been established by the Administrator in advance of the Offering provided, however, that such Option shall be subject to the limitations set forth below. Each Participant s Option shall be exercisable only to the extent of such Participant s accumulated payroll deductions and or other contributions on the Exercise Date. The purchase price for 
+ 2 
+
+each share purchased under each Option (the Option Price will be 85 percent of the Fair Market Value of the Common Stock on the Offering Date or the Exercise Date, whichever is less. 
+ Notwithstanding the foregoing, no Participant may be granted an Option hereunder if such Participant, immediately after the Option was granted, would be treated as owning stock possessing 5 percent or more of the total combined voting power or value of all classes of stock of the Company or any Parent or Subsidiary (as defined in Section 11). For purposes of the preceding sentence, the attribution rules of Section 424(d) of the Code shall apply in determining the stock ownership of a Participant, and all stock which the Participant has a contractual right to purchase shall be treated as stock owned by the Participant. In addition, no Participant may be granted an Option which permits his or her rights to purchase stock under the Plan, and any other employee stock purchase plan of the Company and its Parents and Subsidiaries, to accrue at a rate which exceeds 25,000 of the fair market value of such stock (determined on the Option grant date or dates) for each calendar year in which the Option is outstanding at any time. The purpose of the limitation in the preceding sentence is to comply with Section 423(b)(8) of the Code and shall be applied taking Options into account in the order in which they were granted. 
+ 
+ 9. Exercise of Option and Purchase of Shares . Each employee who continues to be a Participant in the Plan on the Exercise Date shall be deemed to have exercised his or her Option on such date and shall acquire from the Company such number of whole shares of Common Stock reserved for the purpose of the Plan as his or her accumulated contributions on such date will purchase at the Option Price, subject to any other limitations contained in the Plan. Any amount remaining in a Participant s account at the end of an Offering solely by reason of the inability to purchase a fractional share will be carried forward to the next Offering any other balance remaining in a Participant s account at the end of an Offering will be refunded to the Participant promptly. 
+ If a Participant has more than one Option outstanding under the Plan, unless he or she otherwise indicates in agreements or notices delivered hereunder (i) each agreement or notice delivered by that Participant shall be deemed to apply to all of his or her Options under the Plan and (ii) an Option with a lower Option Price (or an earlier granted Option, if different Options have identical Option Prices) shall be exercised to the fullest possible extent before an Option with a higher Option Price (or a later granted Option if different Options have identical Option Prices) shall be exercised. 
+ 10. Issuance of Certificates . Certificates, or book entries for uncertificated shares, representing shares of Common Stock purchased under the Plan may be issued only in the name of the employee or, if permitted by the Administrator, in the name of the employee and another person of legal age as joint tenants with rights of survivorship, or in the name of a broker authorized by the employee to be his, her or their, nominee for such purpose. 
+ 
+ 11. Definitions . 
+ The term Affiliate means any entity that is directly or indirectly controlled by the Company which does not meet the definition of a Subsidiary below, as determined by the Administrator, whether new or hereafter existing. 
+ The term Compensation means the amount of base pay, prior to salary reduction pursuant to Sections 125, 132(f) or 401(k) of the Code or comparable reductions under laws outside the United States, but excluding overtime, commissions, incentive or bonus awards, allowances and reimbursements for expenses such as relocation allowances or travel expenses, income or gains on the exercise, vesting or settlement of Company equity incentive awards, and similar items. The Administrator shall have the discretion to determine the application of this definition to Participants outside of the United States. 
+ The term Designated Company means any present or future Affiliate or Subsidiary (as defined below) that has been designated by the Administrator to participate in the Plan. The Administrator may so designate any Affiliate or Subsidiary, or revoke any such designation, at any time and from time to time, either before or after the Plan is approved by the stockholders and may further designate such companies as participating in the 423 Component or the Non-423 Component. For purposes of the 423 Component, only Subsidiaries may be Designated Companies. The current list of Designated Companies is attached hereto as Appendix A. 
+ 
+ 3 
+
+The term Fair Market Value of the Common Stock on any given date means the fair market value of the Common Stock determined in good faith by the Administrator provided, however, that if the Common Stock is admitted to quotation on the Nasdaq Global Market or another national securities exchange, the determination shall be made by reference to the closing price on such date. If there is no closing price for such date, the determination shall be made by reference to the last date preceding such date for which there is a closing price. 
+ The term Initial Public Offering means the first day when trading prices for the Common Stock are reported on Nasdaq Global Market or another national securities exchange, pursuant to an effective registration statement under the U.S. Securities Act of 1933, as amended, covering the offer and sale by the Company of its Common Stock. 
+ The term Parent means a parent corporation with respect to the Company, as defined in Section 424(e) of the Code. 
+ The term Participant means an individual who is eligible as determined in Section 3 and who has complied with the provisions of Section 4. 
+ The term Subsidiary means a subsidiary corporation with respect to the Company, as defined in Section 424(f) of the Code. 
+ 12. Rights on Termination of Employment . Unless otherwise required by applicable law, if a Participant s employment terminates for any reason before the Exercise Date for any Offering, no contributions will be taken from any pay due and owing to the Participant and the balance in the Participant s account will be paid to such Participant or, in the case of such Participant s death, if permitted by the Administrator, to his or her designated beneficiary as if such Participant had withdrawn from the Plan under Section 7. An employee will be deemed to have terminated employment, for this purpose, if the corporation that employs him or her, having been a Designated Company, ceases to be an Affiliate or a Subsidiary, as applicable, or if the employee is transferred to any corporation other than the Company or a Designated Company. An employee will not be deemed to have terminated employment for this purpose, if the employee is on an approved leave of absence for military service or sickness or for any other purpose approved by the Company, if the employee s right to reemployment is guaranteed either by a statute or by contract or under the policy pursuant to which the leave of absence was granted or if the Administrator otherwise provides in writing. 
+ 13. Special Rules . Notwithstanding anything herein to the contrary, the Administrator may adopt special rules applicable to the employees of a particular Designated Company, whenever the Administrator determines that such rules are necessary or appropriate for the implementation of the Plan in a jurisdiction where such Designated Company has employees provided that if such rules are inconsistent with the requirements of Section 423(b) of the Code, these employees will participate in the Non-423 Component. Any special rules established pursuant to this Section 13 shall, to the extent possible, result in the employees subject to such rules having substantially the same rights as other Participants in the Plan. 
+ 14. Optionees Not Stockholders . Neither the granting of an Option to a Participant nor the deductions from his or her pay or other contributions shall deem such Participant to be a holder of the shares of Common Stock covered by an Option under the Plan until such shares have been purchased by and issued or transferred to him or her. 
+ 15. Rights Not Transferable . Rights under the Plan are not transferable by a Participant other than by will or the laws of descent and distribution, and are exercisable during the Participant s lifetime only by the Participant. 
+ 
+ 16. Application of Funds . All funds received or held by the Company under the Plan may be combined with other corporate funds and may be used for any corporate purpose unless otherwise required under applicable law. 
+ 17. Adjustment in Case of Changes Affecting Common Stock . In the event of a subdivision of outstanding shares of Common Stock, the payment of a dividend in Common Stock or any other change affecting the Common Stock, the number of shares approved for the Plan and the share limitation set forth in Section 8 shall be equitably or proportionately adjusted to give proper effect to such event. 
+ 18. Amendment of the Plan . The Board may at any time and from time to time amend the Plan in any respect, except that without the approval within 12 months of such Board action by the stockholders, no amendment shall be made 
+ 4 
+
+increasing the number of shares approved for the Plan or making any other change that would require stockholder approval in order for the 423 Component of the Plan, as amended, to qualify as an employee stock purchase plan under Section 423(b) of the Code. 
+ 19. Insufficient Shares . If the total number of shares of Common Stock that would otherwise be purchased on any Exercise Date plus the number of shares purchased under previous Offerings under the Plan exceeds the maximum number of shares issuable under the Plan, the shares then available shall be apportioned among Participants in proportion to the amount of payroll deductions accumulated on behalf of each Participant that would otherwise be used to purchase Common Stock on such Exercise Date. 
+ 
+ 20. Termination of the Plan . The Plan may be terminated at any time by the Board. Upon termination of the Plan, all amounts in the accounts of Participants shall be promptly refunded. The Plan shall automatically terminate on the ten year anniversary of the date of the Company s Initial Public Offering. 
+ 21. Compliance with Law . The Company s obligation to sell and deliver Common Stock under the Plan is subject to completion of any registration or qualification of the Common Stock under any U.S. or non-U.S. local, state or federal securities or exchange control law or under rulings or regulations of the U.S. Securities and Exchange Commission SEC or of any other governmental regulatory body, and to obtaining any approval or other clearance from any U.S. and non-U.S. local, state or federal governmental agency, which registration, qualification or approval the Company shall, in its absolute discretion, deem necessary or advisable. The Company is under no obligation to register or qualify the Common Stock with the SEC or any other U.S. or non-U.S. securities commission or to seek approval or clearance from any governmental authority for the issuance or sale of such stock. 
+ 22. Governing Law . This Plan and all Options and actions taken thereunder shall be governed by, and construed in accordance with the General Corporation Law of the State of Delaware as to matters within the scope thereof, and as to all other matters shall be governed by and construed in accordance with the internal laws of the Commonwealth of Massachusetts, applied without regard to conflict of law principles. 
+ 23. Issuance of Shares . Shares may be issued upon exercise of an Option from authorized but unissued Common Stock, from shares held in the treasury of the Company, or from any other proper source. 
+ 24. Tax Withholding . Participation in the Plan is subject to any minimum required tax withholding on income of the Participant in connection with the Plan. Each Participant agrees, by participating in the Plan, that the Company and its Affiliates and Subsidiaries shall have the right to deduct any Tax Liability from any payment of any kind otherwise due to the Participant, including shares of Common Stock issuable under the Plan. Where a Tax Liability arises in connection with the Plan, the Company and or a Designated Company may require that, as a condition of exercise of an Option and purchase of shares of Common Stock, a Participant must either 
+ (a) make a payment to the Company, or otherwise as the Company directs, of an amount equal to the Company s estimate of the amount of the Tax Liability or 
+ (b) enter into arrangements acceptable to the Company to secure that such payment is made (whether by surrender of shares of Common Stock, net share issuance, the sale of shares of Common Stock or otherwise). 
+ For these purposes, Tax Liability shall mean any amount of U.S. or non-U.S. federal, state or local income tax, social security (or similar) contributions, payroll tax, fringe benefits tax, payment on account and or other tax-related items related to the participation in the Plan and legally applicable to the Participant, which the Company and or an Affiliate or Subsidiary become liable to pay on the Participant s behalf to the relevant authorities in any jurisdiction. 
+ 25. Notification Upon Sale of Shares . Each Participant who is subject to tax in the United States with respect to his or her participation in the Plan agrees, by entering the Plan, to give the Company prompt notice of any disposition of shares purchased under the Plan where such disposition occurs within two years after the date of grant of the Option pursuant to which such shares were purchased or within one year after the date such shares were purchased. 
+ 26. Effective Date and Approval of Shareholders . The Plan shall take effect on the date immediately preceding the date of the Company s Initial Public Offering, subject to approval by the holders of a majority of the votes cast at a meeting of stockholders at which a quorum is present or by written consent of the stockholders. 
+ Last updated July 25, 2024 
+ 5 
+
+APPENDIX A 
+ Designated Companies 
+ 
+ 6 
+
+</EX-10.1>
+
+<EX-31.1>
+ 3
+ exhibit3119302024.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ 
+ CERTIFICATION PURSUANT TO RULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ CERTIFICATIONS 
+ I, St phane Bancel, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Moderna, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 7, 2024 
+ By s St phane Bancel St phane Bancel Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ exhibit3129302024.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ 
+ CERTIFICATION PURSUANT TO RULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ CERTIFICATIONS 
+ I, James M. Mock, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Moderna, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 7, 2024 
+ 
+ By 
+ s James M. Mock James M. Mock Chief Financial Officer 
+ (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ exhibit3219302024.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350 
+ AS ADOPTED PURSUANT TO SECTION 906 
+ OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report on Form 10-Q of Moderna, Inc. (the Company for the period ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), we, St phane Bancel, Chief Executive Officer of the Company, and James M. Mock, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the best of our knowledge 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date November 7, 2024 
+ By s St phane Bancel St phane Bancel Chief Executive Officer (Principal Executive Officer) Date November 7, 2024 
+ By s James M. Mock James M. Mock Chief Financial Officer (Principal Financial Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 6
+ mrna-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ mrna-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ mrna-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ mrna-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ mrna-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

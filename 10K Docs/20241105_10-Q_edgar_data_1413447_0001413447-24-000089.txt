@@ -1,0 +1,928 @@
+<Header>
+<FileStats>
+    <FileName>20241105_10-Q_edgar_data_1413447_0001413447-24-000089.txt</FileName>
+    <GrossFileSize>10402005</GrossFileSize>
+    <NetFileSize>115433</NetFileSize>
+    <NonText_DocumentType_Chars>5049050</NonText_DocumentType_Chars>
+    <HTML_Chars>2234556</HTML_Chars>
+    <XBRL_Chars>1473255</XBRL_Chars>
+    <XML_Chars>1405236</XML_Chars>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001413447-24-000089.hdr.sgml : 20241105
+<ACCEPTANCE-DATETIME>20241105070613
+ACCESSION NUMBER:		0001413447-24-000089
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		90
+CONFORMED PERIOD OF REPORT:	20240929
+FILED AS OF DATE:		20241105
+DATE AS OF CHANGE:		20241105
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NXP Semiconductors N.V.
+		CENTRAL INDEX KEY:			0001413447
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				000000000
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-34841
+		FILM NUMBER:		241425598
+
+	BUSINESS ADDRESS:	
+		BUSINESS PHONE:		31 6 54 265349
+
+	MAIL ADDRESS:	
+		STREET 1:		HIGH TECH CAMPUS 60
+		CITY:			EINDHOVEN
+		STATE:			P7
+		ZIP:			5656AG
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KASLION Acquisition B.V.
+		DATE OF NAME CHANGE:	20070925
+
+</SEC-Header>
+</Header>
+
+ 0001413447-24-000089.txt : 20241105
+
+10-Q
+ 1
+ nxpi-20240929.htm
+ 10-Q
+
+nxpi-20240929 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to . 
+ Commission File Number: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction 
+ of incorporation or organization) 
+ (I.R.S. employer identification number) 
+
+(Address of principal executive offices) 
+ (Zip code) 
+
+(Registrant s telephone number, including area code) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class 
+ Trading symbol(s) 
+ Name of each exchange on which registered 
+
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. 
+ No 
+ Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files). 
+ No 
+ Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Accelerated filer 
+ 
+ Non-accelerated filer 
+ 
+ Smaller reporting company 
+ 
+ Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the Registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+ Yes No 
+ 
+ As of November 1, 2024, there were shares of our common stock, 0.20 par value per share, issued and outstanding. 
+
+NXP Semiconductors N.V. 
+ Form 10-Q 
+ For the Fiscal Quarter Ended September 29, 2024 
+ TABLE OF CONTENTS 
+ Page 
+ Part I 
+ Introduction and Forward Looking Statements 
+ 1 
+ Item 1. 
+ Financial Statements 
+ 3 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 18 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 31 
+ Item 4. 
+ Controls and Procedures 
+ 31 
+ Part II 
+ Item 1. 
+ Legal Proceedings 
+ 32 
+ Item 1A. 
+ Risk Factors 
+ 32 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 32 
+ Item 5. 
+ Other Information 
+ 32 
+ Item 6. 
+ Exhibits 
+ 33 
+
+Introduction and Forward Looking Statements 
+ This Form 10-Q and certain information incorporated herein by reference contains forward-looking statements, which are provided under the safe harbor protection of the Private Securities Litigation Reform Act of 1995. When used in this Form 10-Q, the words anticipate , believe , estimate , forecast , expect , intend , plan and project and similar expressions, as they relate to us, our management or third parties, identify forward-looking statements. Forward-looking statements include statements regarding our business strategy, financial condition, results of operations, market data as well as any other statements that are not historical facts. These statements reflect beliefs of our management, as well as assumptions made by our management and information currently available to us. Although we believe that these beliefs and assumptions are reasonable, these statements are subject to numerous factors, risks and uncertainties that could cause actual outcomes and results to be materially different from those projected. These factors, risks and uncertainties expressly qualify all subsequent oral and written forward-looking statements attributable to us or persons acting on our behalf and include, in addition to those listed in our Annual Report on Form 10-K for the year ended December 31, 2023 under Part I, Item 1A. Risk Factors and elsewhere in this Form 10-Q, the following: 
+ market demand and semiconductor industry conditions; 
+ our ability to successfully introduce new technologies and products; 
+ the demand for the goods into which our products are incorporated; 
+ trade disputes between the U.S. and China, potential increase of barriers to international trade and resulting disruptions to our established supply chains; 
+ the impact of government actions and regulations, including restrictions on the export of US-regulated products and technology; 
+ increasing and evolving cybersecurity threats and privacy risks, including theft of sensitive or confidential data; 
+ our ability to generate sufficient cash, raise sufficient capital or refinance our debt at or before maturity to meet our debt service, research and development and capital investment requirements; 
+ our ability to accurately estimate demand and match our production capacity accordingly or obtain supplies from third-party producers; 
+ our access to production from third-party outsourcing partners, and any events that might affect their business or our relationship with them; 
+ our ability to secure adequate and timely supply of equipment and materials from suppliers; 
+ our ability to avoid operational problems and product defects and, if such issues were to arise, to correct them quickly; 
+ our ability to form strategic partnerships and joint ventures and successfully cooperate with our strategic alliance partners; 
+ our ability to win competitive bid selection processes; 
+ our ability to develop products for use in our customers equipment and products; 
+ our ability to successfully hire and retain key management and senior product engineers; 
+ global hostilities, including the invasion of Ukraine by Russia and resulting regional instability, sanctions and any other retaliatory measures taken against Russia, and the continued hostilities and armed conflict in the Middle East, which could adversely impact the global supply chain, disrupt our operations or negatively impact the demand for our products in our primary end markets; 
+ our ability to maintain good relationships with our suppliers; and 
+ a change in tax laws could have an effect on our estimated effective tax rates. 
+ 
+ We do not assume any obligation to update any forward-looking statements and disclaim any obligation to update our view of any risks or uncertainties described herein or to publicly announce the result of any revisions to the forward-looking statements made in this Form 10-Q, except as required by law. 
+ 
+ In addition, this Form 10-Q contains information concerning the semiconductor industry, our end markets and business generally, which is forward-looking in nature and is based on a variety of assumptions regarding the ways in which the semiconductor industry, our end markets and business will develop. We have based these assumptions on information currently available to us, including through the market research and industry reports referred to in this Form 10-Q. If any one or more of these assumptions turn out to be incorrect, actual market results may differ from those predicted. While we do not know what impact any such differences may have on our business, if there are such differences, they could have a material adverse effect on our future results of operations and financial condition, and the trading price of our common stock. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak to results only as of the date the statements were made. Except for any ongoing obligation to disclose material information as required by the United States federal securities laws, NXP does not have any intention or obligation to publicly update or revise any forward-looking statements after we distribute this document, whether to reflect any future events or circumstances or otherwise. 
+ 1 
+
+The financial information included in this Form 10-Q is based on United States Generally Accepted Accounting Principles (U.S. GAAP), unless otherwise indicated. 
+ 
+ In presenting and discussing our financial position, operating results and cash flows, management uses certain non-U.S. GAAP financial measures. These non-U.S. GAAP financial measures should not be viewed in isolation or as alternatives to the equivalent U.S. GAAP measures and should be used in conjunction with the most directly comparable U.S. GAAP measures. A discussion of non-U.S. GAAP measures included in this Form 10-Q and a reconciliation of such measures to the most directly comparable U.S. GAAP measures are set forth under Use of Certain Non-U.S. GAAP Financial Measures contained in this Form 10-Q under Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations . 
+ 
+ Unless otherwise required, all references herein to we , our , us , NXP and the Company are to NXP Semiconductors N.V. and its consolidated subsidiaries. 
+ 
+ This Form 10-Q includes market data and certain other statistical information and estimates that are based on reports and other publications from industry analysts, market research firms, and other independent sources, as well as management s own good faith estimates and analyses. NXP believes these third-party reports to be reputable, but has not independently verified the underlying data sources, methodologies or assumptions. The reports and other publications referenced are generally available to the public and were not commissioned by NXP. Information that is based on estimates, forecasts, projections, market research or similar methodologies is inherently subject to uncertainties and actual events or circumstances may differ materially from events and circumstances reflected in this information. 
+ 2 
+
+PART I FINANCIAL INFORMATION 
+ 
+ Item 1. Financial Statements 
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited) 
+ in millions, unless otherwise stated) 
+ For the three months ended For the nine months ended September 29, 2024 October 1, 2023 September 29, 2024 October 1, 2023 Revenue Cost of revenue ) ) ) ) Gross profit Research and development ) ) ) ) Selling, general and administrative ) ) ) ) Amortization of acquisition-related intangible assets ) ) ) ) Total operating expenses ) ) ) ) Other income (expense) ) ) ) ) Operating income (loss) Financial income (expense): Extinguishment of debt Other financial income (expense) ) ) ) ) Income (loss) before income taxes Benefit (provision) for income taxes ) ) ) ) Results relating to equity-accounted investees ) ) ) ) Net income (loss) Less: Net income (loss) attributable to non-controlling interests Net income (loss) attributable to stockholders Earnings per share data: Net income (loss) per common share attributable to stockholders in Basic Diluted Weighted average number of shares of common stock outstanding during the period (in thousands): Basic Diluted 
+ 
+ See accompanying notes to the Condensed Consolidated Financial Statements 
+ 3 
+
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+ (Unaudited) 
+ in millions, unless otherwise stated) 
+
+ For the three months ended For the nine months ended September 29, 2024 October 1, 2023 September 29, 2024 October 1, 2023 Net income (loss) Other comprehensive income (loss), net of tax: Change in fair value cash flow hedges ) ) Change in foreign currency translation adjustment ) ) Change in net actuarial gain (loss) ) Total other comprehensive income (loss) ) ) Total comprehensive income (loss) Less: Comprehensive income (loss) attributable to non-controlling interests Total comprehensive income (loss) attributable to stockholders 
+ 
+ See accompanying notes to the Condensed Consolidated Financial Statements 
+ 4 
+
+CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited) 
+ 
+ in millions, unless otherwise stated) 
+
+ September 29, 2024 December 31, 2023 ASSETS Current assets: Cash and cash equivalents Short-term deposits Accounts receivable, net Inventories, net Other current assets Total current assets Non-current assets: Other non-current assets Property, plant and equipment, net of accumulated depreciation of and 
+ Identified intangible assets, net of accumulated amortization of and 
+ Goodwill Total non-current assets Total assets LIABILITIES AND EQUITY Current liabilities: Accounts payable Restructuring liabilities-current Other current liabilities Short-term debt Total current liabilities Non-current liabilities: Long-term debt Restructuring liabilities Deferred tax liabilities Other non-current liabilities Total non-current liabilities Total liabilities Equity: Non-controlling interests Stockholders equity: Common stock, par value per share: 
+ Capital in excess of par value Treasury shares, at cost: shares (2023: shares) 
+ ) ) Accumulated other comprehensive income (loss) Accumulated deficit ) ) Total stockholders equity Total equity Total liabilities and equity 
+ 
+ See accompanying notes to the Condensed Consolidated Financial Statements 
+ 5 
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited) 
+ 
+ in millions, unless otherwise stated) 
+
+For the nine months ended September 29, 2024 October 1, 2023 Cash flows from operating activities: Net income (loss) Adjustments to reconcile net income (loss) to net cash provided by (used for) operating activities: Depreciation and amortization Share-based compensation Amortization of discount (premium) on debt, net Amortization of debt issuance costs Net (gain) loss on sale of assets ) ) (Gain) loss on equity security, net ) Results relating to equity-accounted investees Deferred tax expense (benefit) ) ) Changes in operating assets and liabilities: (Increase) decrease in receivables and other current assets ) ) (Increase) decrease in inventories ) ) Increase (decrease) in accounts payable and other liabilities ) ) Decrease (increase) in other non-current assets ) ) Exchange differences Other items Net cash provided by (used for) operating activities Cash flows from investing activities: Purchase of identified intangible assets ) ) Capital expenditures on property, plant and equipment ) ) Insurance recoveries received for equipment damage Proceeds from disposals of property, plant and equipment Proceeds of short-term deposits Purchase of investments ) ) Proceeds from sale of investments Net cash provided by (used for) investing activities ) ) Cash flows from financing activities: Repurchase of long-term debt ) Dividends paid to common stockholders ) ) Proceeds from issuance of common stock through stock plans Purchase of treasury shares and restricted stock unit withholdings ) ) Other, net ) ) Net cash provided by (used for) financing activities ) ) Effect of changes in exchange rates on cash positions ) Increase (decrease) in cash and cash equivalents ) Cash and cash equivalents at beginning of period Cash and cash equivalents at end of period 
+ Supplemental disclosures to the condensed consolidated cash flows Net cash paid during the period for: Interest Income taxes, net of refunds Net gain (loss) on sale of assets: Cash proceeds from the sale of assets Book value of these assets ) Non-cash investing activities: Non-cash capital expenditures 
+ 
+ See accompanying notes to the Condensed Consolidated Financial Statements 
+ 6 
+
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY (Unaudited) 
+ 
+ in millions, unless otherwise stated) 
+
+Outstanding number of shares (in thousands) Common stock Capital in excess of par value Treasury shares at cost Accumu- lated other compre- hensive income (loss) Accumu- lated deficit Total stock- holders equity Non- con- trolling interests Total equity Balance as of December 31, 2023 ) ) Net income (loss) Other comprehensive income (loss) ) ) ) Share-based compensation plans Shares issued pursuant to stock awards ) Treasury shares repurchased and retired ) ) ) ) Dividends common stock per share) 
+ ) ) ) Balance as of March 31, 2024 ) ) Net income (loss) Other comprehensive income (loss) ) ) ) Share-based compensation plans Shares issued pursuant to stock awards ) Treasury shares repurchased and retired ) ) ) ) Dividends common stock per share) 
+ ) ) ) Balance as of June 30, 2024 ) ) Net income (loss) Other comprehensive income Share-based compensation plans Shares issued pursuant to stock awards ) Treasury shares and restricted stock unit withholdings ) ) ) ) Dividends common stock per share) 
+ ) ) ) Balance as of September 29, 2024 ) ) 
+
+7 
+
+CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN EQUITY (Unaudited) 
+ 
+ in millions, unless otherwise stated) 
+
+Outstanding number of shares (in thousands) Common stock Capital in excess of par value Treasury shares at cost Accumu- lated other compre- hensive income (loss) Accumu- lated deficit Total stock- holders equity Non- con- trolling interests Total equity Balance as of December 31, 2022 ) ) Net income (loss) Other comprehensive income (loss) Share-based compensation plans Shares issued pursuant to stock awards ) Treasury shares repurchased and retired 
+ ) ) ) ) Dividends common stock per share) 
+ ) ) ) Balance as of April 2, 2023 ) ) Net income (loss) Other comprehensive income (loss) ) ) ) Share-based compensation plans Shares issued pursuant to stock awards ) Treasury shares repurchased and retired ) ) ) ) Dividends common stock per share) 
+ ) ) ) Balance as of July 2, 2023 ) ) Net income (loss) Other comprehensive income ) ) ) Share-based compensation plans Shares issued pursuant to stock awards ) Treasury shares and restricted stock unit withholdings 
+ ) ) ) ) Dividends common stock per share) 
+ ) ) ) Balance as of October 1, 2023 ) ) 
+ 
+ See accompanying notes to the Condensed Consolidated Financial Statements 
+ 
+ 8 
+
+NXP SEMICONDUCTORS N.V. 
+ NOTES TO THE UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ All amounts in millions of unless otherwise stated 
+
+1 
+
+2 
+
+3 
+ 
+ material acquisitions or divestments during the first nine months of 2024. 
+ 
+ 2023 
+ There were material acquisitions or divestments during the first nine months of 2023. 
+
+9 
+
+4 
+ 
+ Original Equipment Manufacturers and Electronic Manufacturing Services Other 
+ Total Revenue 
+ 
+ Depreciation, amortization and impairment 
+ 
+ Amortization of internal use software Amortization of other identified intangible assets Total - Depreciation, amortization and impairment 
+
+Financial income and expense 
+ 
+ Interest expense ) ) ) ) Total other financial income/ (expense) ) ) ) ) Total ) ) ) ) 
+ 
+ 10 
+
+Less: net income (loss) attributable to non-controlling interests Net income (loss) attributable to stockholders Weighted average number of shares outstanding (after deduction of treasury shares) during the year (in thousands) Plus incremental shares from assumed conversion of: Options 1) 
+ Restricted Share Units, Performance Share Units and Equity Rights 2) 
+ Dilutive potential common shares Adjusted weighted average number of shares outstanding (after deduction of treasury shares) during the year (in thousands) EPS attributable to stockholders in : Basic net income (loss) Diluted net income (loss) 
+ 1) There were stock options to purchase shares of NXP s common stock that were outstanding in Q3 2024 and YTD 2024 (Q3 2023 and YTD 2023: shares) that were anti-dilutive and were not included in the computation of diluted EPS because the exercise price was greater than the average fair market value of the common stock or the number of shares assumed to be repurchased using the proceeds of unrecognized compensation expense and exercise prices were greater than the weighted average number of shares underlying outstanding stock options. 
+ 2) There were unvested RSUs, PSUs and equity rights that were outstanding in Q3 2024 and million shares outstanding YTD 2024 (Q3 2023 and YTD 2023: shares) that were anti-dilutive and were not included in the computation of diluted EPS because the number of shares assumed to be repurchased using the proceeds of unrecognized compensation expense were greater than the weighted average number of outstanding unvested RSUs, PSUs and equity rights or the performance goal has not been met yet. 
+ 
+ Balance Sheet Information 
+ 
+ Cash and cash equivalents 
+ 
+ At September 29, 2024 and December 31, 2023, our cash balance was million and million, respectively, of which million and million was held by SSMC, our consolidated joint venture company with TSMC. Under the terms of our joint venture agreement with TSMC, a portion of this cash can be distributed by way of a dividend to us, but of the dividend will be paid to our joint venture partner. During both first nine months of 2024 and 2023, dividends were declared by SSMC. 
+ 
+ Inventories 
+ 
+ Work in process Finished goods 
+ 
+ The amounts recorded above are net of allowance for obsolescence of million as of September 29, 2024 (December 31, 2023: million). 
+
+11 
+
+Non-marketable equity securities Equity-accounted investments 
+ 
+ European Semiconductor Manufacturing Company (ESMC) GmbH SMART Growth Fund, L.P. SigmaSense, LLC Others ) ) ) Other results ) ) ) ) 
+ 
+ Other current liabilities 
+ 
+ Customer programs Income taxes payable Dividend payable Other 
+
+12 
+
+) Other comprehensive income (loss) before reclassifications Amounts reclassified out of accumulated other comprehensive income (loss) Tax effects ) ) Other comprehensive income (loss) As of September 29, 2024 ) 
+ 
+ Cash dividends 
+ 
+ Second quarter Third quarter 
+ 
+ The dividend declared in the third quarter (not yet paid) is classified in the condensed consolidated balance sheet in other current liabilities as of September 29, 2024 and was subsequently paid on October 9, 2024. 
+
+5 
+ 
+ ) ) ) 
+ 
+ The total restructuring liability as of September 29, 2024 of million is classified in the consolidated balance sheet under current liabilities million) and non-current liabilities million). 
+ 
+ The restructuring charges for the nine-month period ending September 29, 2024 primarily consist of million for personnel related costs for specific targeted actions, offset by a million release for earlier programs. The restructuring charges for the nine-month period ending October 1, 2023 consist of million for personnel related costs for a restructuring program in 2023, offset by a million release for an earlier program. 
+
+13 
+
+) Research and development ) Selling, general and administrative ) Net restructuring charges ) 
+
+6 
+ 
+ , which is lower than the Netherlands statutory tax rate of , primarily due to tax benefits from the Netherlands and foreign tax incentives. ) ) ) Discrete tax benefit (provision) items ) ) Benefit (provision) for income taxes ) ) ) ) Effective tax rate 
+
+The effective tax rate of for the third quarter of 2024 was higher than the EAETR due to the income tax expense for discrete items of million. The discrete items are primarily related to changes in estimates for previous years, and the impact of foreign currency on income tax related items. In addition to this, there was a recapture of tax benefit of million due to a higher EAETR compared to prior quarter. 
+ 
+ For the first nine months ended 2024 the effective tax rate of was higher than due to a net result of unfavorable discrete items of million. 
+ 
+ The effective tax rate of for the first nine months of 2024 was higher compared to the rate for the first nine months ended 2023 of due to a different mix of the benefit (provision) for income taxes in our operating locations, lower foreign tax incentives in the current period as a result of a decrease in qualifying income, newly enacted alternative minimum tax law as per 2024, and also due to the impact of the discrete items in the respective periods. 
+
+7 
+ 
+ Customer-related ) ) Technology-based ) ) Identified intangible assets ) ) 1) IPR D is not subject to amortization until completion or abandonment of the associated research and development effort. 
+
+14 
+
+2025 2026 2027 2028 Thereafter 
+ 
+ All intangible assets, excluding IPR D and goodwill, are subject to amortization and have no assumed residual value. 
+ 
+ The expected weighted average remaining life of identified intangibles is years as of September 29, 2024 (December 31, 2023: years) . 
+
+8 
+ 
+ senior unsecured notes 
+ Mar, 2024 Fixed-rate senior unsecured notes 
+ May, 2025 Fixed-rate senior unsecured notes 
+ Mar, 2026 Fixed-rate senior unsecured notes 
+ Jun, 2026 Fixed-rate senior unsecured notes 
+ May, 2027 Fixed-rate senior unsecured notes 
+ Jun, 2027 Fixed-rate senior unsecured notes 
+ Dec, 2028 Fixed-rate senior unsecured notes 
+ Jun, 2029 Fixed-rate senior unsecured notes 
+ May, 2030 Fixed-rate senior unsecured notes 
+ May, 2031 Fixed-rate senior unsecured notes 
+ Feb, 2032 Fixed-rate senior unsecured notes 
+ Jan, 2033 Fixed-rate senior unsecured notes 
+ May, 2041 Fixed-rate senior unsecured notes 
+ Feb, 2042 Fixed-rate senior unsecured notes 
+ Nov, 2051 Floating-rate revolving credit facility (RCF) Aug, 2027 Total principal Unamortized discounts, premiums and debt issuance costs ) ) Total debt, including unamortized discounts, premiums, debt issuance costs and fair value adjustments Current portion of long-term debt ) ) Long-term debt 
+
+9 
+
+15 
+
+Purchase of goods and services 
+
+Payables 
+ 
+ Refer to Note 4 Supplemental Financial Information for information on the total carrying value of investments in equity-accounted investees, and to Note 11 Commitments and Contingencies for NXP s related party commitments. 
+
+10 
+ 
+ Money market funds 1 Marketable equity securities 1 Derivative instruments-assets 2 Liabilities: Derivative instruments-liabilities 2 ) ) 
+ 
+ The following methods and assumptions were used to estimate the fair value of financial instruments: 
+ 
+ Assets and liabilities measured at fair value on a recurring basis 
+ Investments in short-term deposits, representing liquid assets with original maturity beyond three months and having no significant risk of changes in fair value, are represented at carrying value as reasonable estimates of fair value due to the relatively short period of time between the origination of the instruments and their expected realization. Money market funds (as part of our cash and cash equivalents) and marketable equity securities (as part of other non-current assets) have fair value measurements which are all based on quoted prices in active markets for identical assets or liabilities. For derivatives (as part of other current assets or accrued liabilities) the fair value is based upon significant other observable inputs depending on the nature of the derivative. 
+ 
+ Assets and liabilities recorded at fair value on a non-recurring basis 
+ We measure and record our non-marketable equity securities, equity method investments and non-financial assets, such as intangible assets and property, plant and equipment, at fair value when an impairment charge is required. 
+ 
+ Assets and liabilities not recorded at fair value on a recurring basis 
+ Financial instruments not recorded at fair value on a recurring basis include non-marketable equity securities and equity method investments that have not been remeasured or impaired in the current period and debt. 
+ 
+ As of September 29, 2024, the estimated fair value of current and non-current debt was billion billion as of December 31, 2023). The fair value is estimated on the basis of broker-dealer quotes, which are Level 2 inputs. Accrued interest is included under accrued liabilities and not within the carrying amount or estimated fair value of debt. 
+
+16 
+
+11 
+ 
+ million, which are due through 2044 . 
+ 
+ Foundry Joint Venture Commitments 
+ Driven by our investment in VisionPower Semiconductor Manufacturing Company Pte. Ltd. (VSMC), NXP has initially invested million of equity in the third quarter of 2024 and has committed to invest an additional million in equity through 2026. NXP has committed to contribute an additional million to support the long-term capacity infrastructure that is expected to be paid through 2026. In addition, NXP has an agreed purchase commitment with VSMC that over the lifetime of the factory the minimal loading will be between 80 - 90 , resulting in a total purchase commitment of approximately million that is expected to be purchased over years once wafer production starts. 
+ 
+ Related to our investment in European Semiconductor Manufacturing Company (ESMC) GmbH, NXP has committed to invest an additional million in equity through 2028. 
+ 
+ Legal Proceedings 
+ We are regularly involved as plaintiffs or defendants in claims and litigation relating to a variety of matters such as contractual disputes, personal injury claims, employee grievances and intellectual property litigation. In addition, our acquisitions, divestments and financial transactions sometimes result in, or are followed by, claims or litigation. Some of these claims may possibly be recovered from insurance reimbursements. Although the ultimate disposition of asserted claims cannot be predicted with certainty, it is our belief that the outcome of any such claims, either individually or on a combined basis, will not have a material adverse effect on our consolidated financial position. However, such outcomes may be material to our condensed consolidated statement of operations for a particular period. The Company records an accrual for any claim that arises whenever it considers that it is probable that it is exposed to a loss contingency and the amount of the loss contingency can be reasonably estimated. The Company does not record a gain contingency until the period in which all contingencies are resolved and the gain is realized or realizable. Legal fees are expensed when incurred. 
+ 
+ Motorola Personal Injury Lawsuits 
+ The Company is currently assisting Motorola in the defense of personal injury lawsuits due to indemnity obligations included in the agreement that separated Freescale from Motorola in 2004. The multi-plaintiff Motorola lawsuits are pending in the Circuit Court of Cook County, Illinois. These claims allege a link between working in semiconductor manufacturing clean room facilities and birth defects in individuals. The Motorola suits allege exposures between 1980 and 2005. Each claim seeks an unspecified amount of damages for the alleged injuries; however, legal counsel representing the plaintiffs has indicated they will seek substantial compensatory and punitive damages from Motorola for the entire inventory of claims which, if proven and recovered, the Company considers to be material. A portion of any indemnity due to Motorola will be reimbursed to NXP if Motorola receives an indemnification payment from its insurance coverage. Motorola has potential insurance coverage for many of the years indicated above, but with differing types and levels of coverage, self-insurance retention amounts and deductibles. We are in discussions with Motorola and their insurers regarding the availability of applicable insurance coverage for each of the individual cases. Motorola and NXP have denied liability for these alleged injuries based on numerous defenses. 
+ 
+ Legal Proceedings Related Accruals and Insurance Coverage 
+ The Company reevaluates at least on a quarterly basis the claims that have arisen to determine whether any new accruals need to be made or whether any accruals made need to be adjusted based on the most current information available to it and based on its best estimate. Based on the procedures described above, the Company has an aggregate amount of million accrued for potential and current legal proceedings pending as of September 29, 2024, compared to million accrued at December 31, 2023 (without reduction for any related insurance reimbursements). The accruals are included in Other current liabilities and in Other non-current liabilities . As of September 29, 2024, the Company s related balance of insurance reimbursements was million (December 31, 2023: million) and is included in Other non-current assets . 
+ 
+ The Company also estimates the aggregate range of reasonably possible losses in excess of the amount accrued based on currently available information for those cases for which such estimate can be made. The estimated aggregate range requires significant judgment, given the varying stages of the proceedings, the existence of multiple defendants (including the Company) in such claims whose share of liability has yet to be determined, the numerous yet-unresolved issues in many of the claims, and the attendant uncertainty of the various potential outcomes of such claims. Accordingly, the Company s estimate will change from time to time, and actual losses may be more than the current estimate. As at September 29, 2024, the Company believes that for all litigation pending its potential aggregate exposure to loss in excess of the amount accrued (without reduction for any 
+ 17 
+
+and million. Based upon our past experience with these matters, the Company would expect to receive additional insurance reimbursement of up to million on certain of these claims that would partially offset the potential aggregate exposure to loss in excess of the amount accrued. 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ Management s Discussion and Analysis (MD A) should be read in conjunction with our consolidated financial statements and notes and the MD A in our Annual Report on Form 10-K for the year ended December 31, 2023 , and the financial statements and the related notes that appear elsewhere in this document. 
+ 
+ Overview 
+ 
+ Quarter in Focus 
+ Revenue was 3.3 billion, down 5.4 year-on-year; 
+ GAAP gross margin was 57.4 , and GAAP operating margin was 30.5 ; 
+ Non-GAAP gross margin was 58.2 , and non-GAAP operating margin was 35.5 ; 
+ Cash flow from operations was 779 million, with net capital expenditures on property, plant and equipment of 186 million, resulting in non-GAAP free cash flow of 593 million; 
+ During the third quarter of 2024, NXP returned capital to shareholders with the payment of 259 million in cash dividends and the repurchase of 305 million of its common shares, for a total capital return of 564 million. 
+ 
+ On September 4, 2024, NXP acquired shares in the newly founded VisionPower Semiconductor Manufacturing Company Pte. Ltd. (VSMC), which will build and operate a new 300mm semiconductor wafer manufacturing facility in Singapore. VSMC is 60 owned by Vanguard International Semiconductor Corporation and 40 owned by NXP. NXP will invest 1,600 million for our equity position, of which 140 million has been invested in the third quarter of 2024 and 740 million is expected to be paid in the next 12 months. NXP has committed to contribute an additional 1,200 million to support the long-term capacity infrastructure that is expected to be paid through 2026, of which 660 million is expected to be paid in the next 12 months. 
+
+18 
+
+Sequential Results 
+ Q3 2024 compared to Q2 2024 
+ Revenue for the three months ended September 29, 2024 was 3,250 million compared to 3,127 million for the three months ended June 30, 2024, an increase of 123 million or 3.9 quarter-on-quarter, in line with management's expectations. Within our end markets, the Automotive end market increased 101 million or 5.8 , the Mobile end market increased 62 million or 18.0 , and the Communication Infrastructure Other end market increased 13 million or 3.0 , which were offset by a decrease in the Industrial IoT end market of 53 million or 8.6 . 
+ 
+ When aggregating all end markets together and reviewing sales channel performance, revenues through NXP's third party distribution partners was 1,897 million, an increase of 93 million or 5.2 compared to the previous period. Revenues through NXP's third party direct OEM and EMS customers was 1,321 million, an increase of 27 million or 2.1 versus the previous period. 
+ 
+ From a geographic perspective, revenue increased quarter-on-quarter in the China region by 9.6 , in the EMEA region by 6.4 , and in the Americas region by 6.2 , while revenue decreased in the Asia Pacific region by 5.9 . 
+ 
+ Our gross profit percentage for the three months ended September 29, 2024 of 57.4 was relatively consistent compared with 57.3 for the three months ended June 30, 2024. 
+ 
+ Operating income for the three months ended September 29, 2024 was 990 million compared to 896 million for the three months ended June 30, 2024, an increase of 94 million or 10.5 . Increased revenue and a cost control focus were the main drivers for the sequential increase. 
+ 
+ Results of operations 
+ 
+ The following table presents operating results for each of the three- and nine-month periods ended September 29, 2024 and October 1, 2023, respectively: 
+ 
+ in millions, unless otherwise stated) Q3 2024 of Revenue Q3 2023 of Revenue YTD 2024 of Revenue YTD 2023 of Revenue Revenue 3,250 3,434 9,503 9,854 nominal growth (5.4) (0.3) (3.6) (0.4) Gross profit 1,866 1,965 5,441 5,616 Gross margin 57.4 57.2 57.3 57.0 Research and development (577) 17.8 (601) 17.5 (1,735) 18.3 (1,767) 17.9 Selling, general and administrative (265) 8.2 (294) 8.6 (841) 8.8 (848) 8.6 Amortization of acquisition-related intangible assets (29) 0.9 (71) 2.1 (108) 1.1 (237) 2.4 Other income (expense) (5) 0.2 (7) 0.2 (15) 0.2 (10) 0.1 Operating income (loss) 990 30.5 992 28.9 2,742 28.9 2,754 27.9 Financial income (expense) (82) 2.5 (75) 2.2 (227) 2.4 (231) 2.3 Benefit (provision) for income taxes (173) 5.3 (123) 3.6 (468) 4.9 (399) 4.0 Results relating to equity-accounted investees (6) 0.2 (2) 0.1 (10) 0.1 (5) 0.1 Net income (loss) 729 22.4 792 23.1 2,037 21.4 2,119 21.5 Less: Net income (loss) attributable to non-controlling interests 11 0.3 5 0.1 22 0.2 19 0.2 Net income (loss) attributable to stockholders 718 22.1 787 22.9 2,015 21.2 2,100 21.3 Diluted earnings per share 2.79 3.01 7.80 8.03 
+
+19 
+
+Revenue 
+ 
+ Q3 2024 Overview 
+
+Q3 2024 compared to Q3 2023 
+ Revenue for the three months ended September 29, 2024 was 3,250 million compared to 3,434 million for the three months ended October 1, 2023, a decrease of 184 million or 5.4 , in line with management s expectations. 
+
+YTD 2024 Overview 
+
+YTD 2024 compared to YTD 2023 
+ Revenue for the nine months ended September 29, 2024 was 9,503 million compared to 9,854 million for the nine months ended October 1, 2023, a decrease of 351 million or 3.6 . 
+
+20 
+
+Revenue by end market was as follows: 
+ in millions, unless otherwise stated) Q3 2024 Q3 2023 change YTD 2024 YTD 2023 change Automotive 1,829 1,891 (3.3) 5,361 5,585 (4.0) Industrial IoT 563 607 (7.2) 1,753 1,689 3.8 Mobile 407 377 8.0 1,101 921 19.5 Communication Infrastructure Other 451 559 (19.3) 1,288 1,659 (22.4) Total Revenue 3,250 3,434 (5.4) 9,503 9,854 (3.6) 
+ 
+ Revenue by sales channel was as follows: 
+ in millions, unless otherwise stated) Q3 2024 Q3 2023 change YTD 2024 YTD 2023 change Distributors 1,897 1,947 (2.6) 5,440 5,117 6.3 OEM/EMS 1,321 1,463 (9.7) 3,970 4,653 (14.7) Other 32 24 33.3 93 84 10.7 Total Revenue 3,250 3,434 (5.4) 9,503 9,854 (3.6) 
+ 
+ Revenue by geographic region, which is based on the customer s shipped-to location was as follows: 
+ in millions, unless otherwise stated) Q3 2024 Q3 2023 change YTD 2024 YTD 2023 change China 1) 
+ 1,203 1,150 4.6 3,315 3,128 6.0 APAC, excluding China 845 906 (6.7) 2,653 2,839 (6.6) EMEA (Europe, the Middle East and Africa) 719 866 (17.0) 2,138 2,388 (10.5) Americas 483 512 (5.7) 1,397 1,499 (6.8) Total Revenue 3,250 3,434 (5.4) 9,503 9,854 (3.6) 1) China includes Mainland China and Hong Kong 
+
+Q3 2024 compared to Q3 2023 
+ From an end market perspective, NXP experienced growth in its Mobile end market, which was offset by declines in the Communication Infrastructure Other, Automotive, and Industrial IoT end markets versus the year ago period. 
+ 
+ Revenue in the Automotive end market was 1,829 million, a decrease of 62 million or 3.3 versus the year ago period. The decrease in the Automotive end market revenue was attributable to declines in our automotive processors and connectivity products, which were offset by growth in our ADAS Safety products and advanced analog portfolio. 
+ 
+ Revenue in the Industrial IoT end market was 563 million, a decrease of 44 million or 7.2 versus the year-ago period. The decrease in the Industrial IoT end market revenue was attributable to declines in our processors and security products. 
+ 
+ Revenue in the Mobile end market was 407 million, an increase of 30 million or 8.0 versus the year ago period. The increase in the Mobile end market revenue was attributable to growth in our mobile wallet products, which were offset by declines in our connectivity and advanced analog products. 
+ 
+ Revenue in the Communication Infrastructure Other end market was 451 million, a decrease of 108 million or 19.3 versus the year ago period. The decrease in the Communication Infrastructure Other end market revenue was attributable to declines in our secure cards, legacy processors, and RF power products. 
+ 
+ When aggregating all end markets together, and reviewing sales channel performance, revenues through NXP s third party distribution partners was 1,897 million, a decrease of 2.6 versus the year-ago period. Revenues through direct OEM and EMS customers was 1,321 million, a decrease of 9.7 versus the year ago period. 
+ 
+ From a geographic perspective, revenue increased year-on-year in the China region by 4.6 , while revenue decreased in the EMEA region by 17.0 , in the Asia Pacific region by 6.7 , and in the Americas region by 5.7 . 
+ 
+ YTD 2024 compared to YTD 2023 
+ From an end market perspective, NXP experienced growth in its Mobile and Industrial IoT end markets, which were offset by declines in the Communication Infrastructure Other and the Automotive end markets versus the year ago period. 
+ 
+ 21 
+
+Revenue in the Automotive end market was 5,361 million, a decrease of 224 million or 4.0 versus the year ago period. The decrease in the Automotive end market revenue was attributable to declines in our automotive processors and connectivity products, which were offset by growth in our advanced analog portfolio and ADAS Safety products. 
+ 
+ Revenue in the Industrial IoT end market was 1,753 million, an increase of 64 million or 3.8 versus the year ago period. Within the Industrial IoT end market the year-on-year increase was across the entire product portfolio, including processors, advanced analog, security, and connectivity. 
+ 
+ Revenue in the Mobile end market was 1,101 million, an increase of 180 million or 19.5 versus the year ago period. The increase in the Mobile end market revenue was attributable to increases in our mobile wallet and advanced analog products, which was offset by our connectivity products. 
+ 
+ Revenue in the Communication Infrastructure Other end market was 1,288 million, a decrease of 371 million or 22.4 versus the year ago period. The decrease in revenue of secure cards and RF power products was due to weak end market demand. Legacy processors experienced anticipated end-of-life trends. 
+ 
+ When aggregating all end markets together, and reviewing sales channel performance, revenues through NXP s third party distribution partners was 5,440 million, an increase of 6.3 versus the year-ago period. Revenues through direct OEM and EMS customers was 3,970 million, a decrease of 14.7 versus the year-ago period. 
+ 
+ From a geographic perspective, revenue increased year-on-year in the China region by 6.0 , while revenue decreased in the EMEA region by 10.5 , in the Americas region by 6.8 , and in the Asia Pacific region by 6.6 . 
+ 
+ Gross profit 
+ Q3 2024 compared to Q3 2023 
+ Gross profit for the three months ended September 29, 2024 was 1,866 million, or 57.4 of revenue, compared to 1,965 million, or 57.2 of revenue for the three months ended October 1, 2023, relatively consistent with revenue and costs, both of which had comparable decreases year on year. 
+ 
+ YTD 2024 compared to YTD 2023 
+ Gross profit for the nine months ended September 29, 2024 was 5,441 million, or 57.3 of revenue, compared to 5,616 million, or 57.0 of revenue for the nine months ended October 1, 2023, relatively consistent with revenue and costs, both of which had comparable decreases in the year-to-date period. 
+ 
+ Operating expenses 
+ Q3 2024 compared to Q3 2023 
+ Operating expenses for the three months ended September 29, 2024 totaled 871 million, or 26.8 of revenue, compared to 966 million, or 28.1 of revenue for the three months ended October 1, 2023. 
+ 
+ YTD 2024 compared to YTD 2023 
+ Operating expenses for the nine months ended September 29, 2024 totaled 2,684 million, or 28.2 of revenue, compared to 2,852 million, or 28.9 of revenue for the nine months ended October 1, 2023. 
+ 
+ Research and development 
+ in millions, unless otherwise stated) Q3 2024 Q3 2023 change YTD 2024 YTD 2023 change Research and development 577 601 (4.0) 1,735 1,767 (1.8) As a percentage of revenue 17.8 17.5 0.3 ppt 18.3 17.9 0.4 ppt 
+ 
+ Q3 2024 compared to Q3 2023 
+ R D costs for the three months ended September 29, 2024 decreased by 24 million, or 4.0 , when compared to the three months ended October 1, 2023 primarily driven by lower personnel-related costs of 13 million and higher government grants and subsidies of 12 million. 
+
+22 
+
+YTD 2024 compared to YTD 2023 
+ R D costs for the nine months ended September 29, 2024 decreased by 32 million, or 1.8 , when compared to the nine months ended October 1, 2023 mainly driven by higher government grants and subsidies of 52 million, partly offset by licensing fees of 15 million. 
+ 
+ Selling, general and administrative 
+ in millions, unless otherwise stated) Q3 2024 Q3 2023 change YTD 2024 YTD 2023 change Selling, general and administrative 265 294 (9.9) 841 848 (0.8) As a percentage of revenue 8.2 8.6 (0.4) ppt 8.8 8.6 0.2 ppt 
+ 
+ Q3 2024 compared to Q3 2023 
+ SG A costs for the three months ended September 29, 2024 decreased by 29 million, or 9.9 , when compared to the three months ended October 1, 2023 primarily due to lower legal expenses of 28 million. 
+ 
+ YTD 2024 compared to YTD 2023 
+ SG A costs for the nine months ended September 29, 2024 decreased by 7 million, or 0.8 , when compared to the nine months ended October 1, 2023 primarily due to lower legal expenses of 19 million. 
+ 
+ Amortization of acquisition-related intangible assets 
+ in millions, unless otherwise stated) Q3 2024 Q3 2023 change YTD 2024 YTD 2023 change Amortization of acquisition-related intangible assets 29 71 (59.2) 108 237 (54.4) As a percentage of revenue 0.9 2.1 (1.2) ppt 1.1 2.4 (1.3) ppt 
+ 
+ Q3 2024 compared to Q3 2023 
+ Amortization of acquisition-related intangible assets for the three months ended September 29, 2024 decreased by 42 million, or 59.2 , when compared to the three months ended October 1, 2023 primarily due to the effect of certain acquisition-related intangibles becoming fully amortized (with regard to the previous Marvell and Freescale acquisitions). 
+ 
+ YTD 2024 compared to YTD 2023 
+ Amortization of acquisition-related intangible assets for the nine months ended September 29, 2024 decreased by 129 million, or 54.4 , when compared to the nine months ended October 1, 2023 primarily due to the effect of certain acquisition-related intangibles becoming fully amortized (with regard to the previous Marvell and Freescale acquisitions). 
+ 
+ Financial income (expense) 
+ The following table presents the details of financial income and expenses: 
+ in millions, unless otherwise stated) Q3 2024 Q3 2023 YTD 2024 YTD 2023 Interest income 36 49 125 134 Interest expense (96) (109) (298) (329) Total other financial income/ (expense) (22) (15) (54) (36) Total (82) (75) (227) (231) 
+ 
+ Q3 2024 compared to Q3 2023 
+ Financial income (expense) was an expense of 82 million for the three months ended September 29, 2024, compared to an expense of 75 million for the three months ended October 1, 2023. Interest income decreased 13 million as a result of lower cash levels, and interest expense decreased by 13 million primarily due to the retirement of the 4.875 senior unsecured notes on March 1, 2024. Within Other financial income/ (expense), unrecognized tax benefit related interest increased 3 million. Additionally, fair value adjustments in equity securities resulted in a loss of 5 million for the three months ended September 29, 2024, versus a loss of 4 million for the three months ended October 1, 2023. 
+ 
+ YTD 2024 compared to YTD 2023 
+ Financial income (expense) was an expense of 227 million for the nine months ended September 29, 2024, compared to an expense of 231 million for the nine months ended September 29, 2024. Interest income decreased 9 million as a result of 
+ 23 
+
+lower cash levels, and interest expense decreased by 31 million primarily due to the retirement of the 4.875 senior unsecured notes on March 1, 2024. Within Other financial income/ (expense), unrecognized tax benefit related interest increased 10 million. Additionally, there were fair value adjustments in equity securities, a loss of 10 million for the nine months ended September 29, 2024, versus a profit of 1 million for the nine months ended October 1, 2023. 
+ 
+ Benefit (provision) for income taxes 
+ Our provision for income taxes for 2024 is based on our EAETR of 17.7 , which is lower than the Netherlands statutory tax rate of 25.8 , primarily due to tax benefits from the Netherlands and foreign tax incentives. 
+ Q3 2024 Q3 2023 YTD 2024 YTD 2023 Tax benefit (provision) calculated at EAETR (160) (134) (446) (407) Discrete tax benefit (provision) items (13) 11 (22) 8 Benefit (provision) for income taxes (173) (123) (468) (399) Effective tax rate 19.0 13.4 18.6 15.8 
+
+Q3 2024 compared to Q3 2023 
+ The effective tax rate of 19.0 for the third quarter of 2024 was higher than the EAETR due to the income tax expense for discrete items of 13 million. The discrete items are primarily related to changes in estimates for previous years, and the impact of foreign currency on income tax related items. In addition to this, there was a recapture of tax benefit of 1 million due to a higher EAETR compared to prior quarter. 
+ 
+ YTD 2024 compared to YTD 2023 
+ For the first nine months ended 2024 the effective tax rate of 18.6 was higher than 17.7 due to an net result of unfavorable discrete items of 22 million. 
+ 
+ The effective tax rate of 18.6 for the first nine months of 2024 was higher compared to the rate for the first nine months ended 2023 of 15.8 due to a different mix of the benefit (provision) for income taxes in our operating locations, lower foreign tax incentives in the current period as a result of a decrease in qualifying income, newly enacted alternative minimum tax law as per 2024, and also due to the impact of the discrete items in the respective periods. 
+ 
+ Results Relating to Equity-accounted Investees 
+ Q3 2024 compared to Q3 2023 
+ Results relating to equity-accounted investees amounted to a loss of 6 million for the three months ended September 29, 2024, whereas the three months ended October 1, 2023 results relating to equity-accounted investees amounted to a loss of 2 million. 
+ 
+ YTD 2024 compared to YTD 2023 
+ Results relating to equity-accounted investees amounted to a loss of 10 million for the nine months ended September 29, 2024, whereas the nine months ended October 1, 2023 results relating to equity-accounted investees amounted to a loss of 5 million. 
+ 
+ Non-controlling Interests 
+ Q3 2024 compared to Q3 2023 
+ Non-controlling interests are related to the third-party share in the results of consolidated companies, predominantly SSMC. Their share of non-controlling interests amounted to a profit of 11 million for the three months ended September 29, 2024, compared to a profit of 5 million for the three months ended October 1, 2023. 
+ 
+ YTD 2024 compared to YTD 2023 
+ Non-controlling interests are related to the third-party share in the results of consolidated companies, predominantly SSMC. Their share of non-controlling interests amounted to a profit of 22 million for the nine months ended September 29, 2024, compared to a profit of 19 million for the nine months ended October 1, 2023. 
+ 24 
+
+Liquidity and Capital Resources 
+ 
+ We derive our liquidity and capital resources primarily from our cash flows from operations. We continue to generate strong positive operating cash flows. At the end of the third quarter of 2024, our cash balance was 2,748 million, a decrease of 1,114 million compared to December 31, 2023 having fully retired our 1 billion aggregate principal amount of outstanding 4.875 senior unsecured notes due March 2024. Taking into account the available amount of the Unsecured Revolving Credit Facility of 2,500 million, we had access to 5,248 million of liquidity as of September 29, 2024. We currently use cash to fund operations, meet working capital requirements, for capital expenditures and for potential common stock repurchases, dividends and strategic investments. Based on past performance and current expectations, we believe that our current available sources of funds (including cash and cash equivalents, short-term deposits, RCF Agreement of 2.5 billion, plus anticipated cash generated from operations) will be adequate to finance our operations, working capital requirements, capital expenditures and potential dividends for at least the next twelve months. 
+ 
+ in millions, unless otherwise stated) YTD 2024 YTD 2023 Cash from operations 2,391 2,376 Capital expenditures (597) (652) Cash to shareholders (1,698) (1,364) 
+ 
+ Cash and short-term deposits 
+ At September 29, 2024, our cash and short-term deposits balance was 3,148 million of which 236 million was held by SSMC, our consolidated joint venture company with TSMC. Under the terms of our joint venture agreement with TSMC, a portion of this cash can be distributed by way of a dividend to us, but 38.8 of the dividend will be paid to our joint venture partner. 
+ 
+ Capital expenditures 
+ Our cash outflows for capital expenditures were 597 million in the first nine months of 2024, compared to 652 million in the first nine months of 2023. 
+ 
+ Capital return 
+ Under our Quarterly Dividend Program, interim dividends of 1.014 per ordinary share were paid on January 5, 2024 261 million), dividends of 1.014 per ordinary share were paid on April 10, 2024 260 million), dividends of 1.014 per ordinary share were paid on July 10, 2024 259 million) and dividends of 1.014 per ordinary share were paid on October 9, 2024 258 million). 
+ 
+ In the first nine months of 2024 we repurchased approximately 918 million of shares. 
+ 
+ Debt 
+ Our total debt, inclusive of aggregate principal, unamortized discounts, premiums, debt issuance costs and fair value adjustments, amounted to 10,182 million as of September 29, 2024, a decrease of 993 million compared to December 31, 2023 11,175 million). On March 1, 2024, we fully retired at maturity our 1 billion aggregate principal amount of outstanding 4.875 senior unsecured notes using available cash on balance sheet. 
+ 
+ As of September 29, 2024, we had outstanding fixed-rate notes with varying maturities for an aggregate principal amount of 10,250 million (collectively the Notes ), of which 500 million is payable within 12 months. Future interest payments associated with the Notes total 2,862 million, with 378 million payable within 12 months. 
+ 
+ Our net debt position (see section Use of Certain Non-GAAP Financial Measures) at September 29, 2024 amounted to 7,034 million, compared to 6,904 million as of December 31, 2023. 
+ 
+ Additional Capital Requirements 
+ Expected working and other capital requirements are described in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 in Part II, Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations . At September 29, 2024, other than for changes disclosed in the Notes to Condensed Consolidated Financial Statements and Liquidity and Capital Resources in this Quarterly Report, there have been no other material changes to our expected working and other capital requirements described in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+
+25 
+
+Cash flows 
+ 
+ Our cash and cash equivalents during the first nine months of 2024 decreased by 1,114 million (excluding the effect of changes in exchange rates on our cash position of nil million) as follows: 
+ 
+ in millions, unless otherwise stated) YTD 2024 YTD 2023 Net cash provided by (used for) operating activities 2,391 2,376 Net cash (used for) provided by investing activities (884) (879) Net cash provided by (used for) financing activities (2,621) (1,296) Increase (decrease) in cash and cash equivalents (1,114) 201 
+ 
+ Cash Flow from Operating Activities 
+ For the first nine months of 2024 our operating activities provided 2,391 million in cash. This was primarily the result of net income of 2,037 million, adjustments to reconcile the net income of 910 million and changes in operating assets and liabilities of (574) million. Adjustments to net income (loss) include offsetting non-cash items, such as depreciation and amortization of 666 million, share-based compensation of 344 million and changes in deferred taxes of (127) million. Changes in operating assets and liabilities were primarily driven by a 204 million decrease in accounts payable and other liabilities as a result of lower purchase volumes and timing related to payments, 182 million increase in receivables and other current assets due to the linearity of revenue between the two periods, customer mix, and the related timing of cash collection, 100 million increase in inventories in order to align inventory on hand with expected demand, and 88 million increase in other non-current assets due to movements in our prepayments and balance of insurance reimbursements. 
+ 
+ For the first nine months of 2023 our operating activities provided 2,376 million in cash. This was primarily the result of net income of 2,119 million, adjustments to reconcile the net income of 982 million and changes in operating assets and liabilities of (746) million. Adjustments to net income (loss) includes offsetting non-cash items, such as depreciation and amortization of 837 million, share-based compensation of 304 million and changes in deferred taxes of (170) million. Changes in operating assets and liabilities were primarily driven by a 359 million increase in inventories due to increased production levels in order to align inventory on hand with expected demand, 118 million increase in receivables and other current assets due to the linearity of revenue between the two periods, customer mix, and the related timing of cash collection, partially offset by 220 million increase in accounts payable and other liabilities as a result of timing related to payments. 
+ 
+ Cash Flow from Investing Activities 
+ Net cash used for investing activities amounted to 884 million for the first nine months of 2024 and principally consisted of the cash outflows for capital expenditures of 597 million, 193 million for the purchase of investments (driven primarily by the capital contributions of approximately 31 million into ESMC and approximately 140 million into VSMC) and 113 million for the purchase of identified intangible assets, including EDA (electronic design automation). 
+ 
+ Net cash used for investing activities amounted to 879 million for the first nine months of 2023 and principally consisted of the cash outflows for capital expenditures of 652 million, 93 million for the purchase of investments, and 135 million for the purchase of identified intangible assets. 
+ 
+ Cash Flow from Financing Activities 
+ Net cash used for financing activities of 2,621 million for the first nine months of 2024 was primarily driven by the payment of 1 billion to retire at maturity our outstanding 4.875 senior unsecured notes due March 2024, dividend payments to common stockholders of 780 million, and purchase of treasury shares and restricted stock unit holdings of 918 million, partially offset by the proceeds from the issuance of common stock through stock plans of 79 million. 
+ 
+ Net cash used for financing activities of 1,296 million for the first nine months of 2023 was primarily driven by the dividend payments to common stockholders of 745 million and the purchase of treasury shares and restricted stock unit holdings of 619 million, partially offset by the proceeds from the issuance of common stock through stock plans of 70 million. 
+ 
+ 26 
+
+Information Regarding Guarantors of NXP (unaudited) 
+ 
+ Summarized Combined Financial Information for Guarantee of Securities of Subsidiaries 
+ All debt instruments are guaranteed, fully and unconditionally, jointly and severally, by NXP Semiconductors N.V. and issued or guaranteed by NXP USA, Inc., NXP B.V. and NXP LLC, (together, the Subsidiary Obligors and together with NXP Semiconductors N.V., the Obligor Group ). Other than the Subsidiary Obligors, none of the Company s subsidiaries (together the Non-Guarantor Subsidiaries guarantee the Notes. The Company consolidates the Subsidiary Obligors in its consolidated financial statements and each of the Subsidiary Obligors are wholly owned subsidiaries of the Company. 
+ 
+ All of the existing guarantees by the Company rank equally in right of payment with all of the existing and future senior indebtedness of the Obligor Group. There are no significant restrictions on the ability of the Obligor Group to obtain funds from respective subsidiaries by dividend or loan. 
+ 
+ The following tables present summarized financial information of the Obligor Group on a combined basis, with intercompany balances and transactions between entities of the Obligor Group eliminated and investments and equity in the earnings of the Non-Guarantor Subsidiaries excluded. The Obligor Group s amounts due from, amounts due to, and intercompany transactions with Non-Guarantor Subsidiaries have been disclosed below the table, when material. 
+ 
+ Summarized Statements of Income 
+ For the nine months ended in millions) September 29, 2024 Revenue 5,480 Gross Profit 2,791 Operating income 1,038 Net income 382 
+ 
+ Summarized Balance Sheets 
+ As of in millions) September 29, 2024 December 31, 2023 Current assets 3,175 4,298 Non-current assets 11,993 11,773 Total assets 15,168 16,071 Current liabilities 1,267 2,005 Non-current liabilities 10,219 10,566 Total liabilities 11,486 12,571 Obligor's Group equity 3,682 3,500 Total liabilities and Obligor's Group equity 15,168 16,071 
+ 
+ NXP Semiconductors N.V. is the head of a fiscal unity for the corporate income tax and VAT that contains the most significant Dutch wholly-owned group companies. The Company is therefore jointly and severally liable for the tax liabilities of the tax entity as a whole, and as such the income tax expense of the Dutch fiscal unity has been included in the Net income of the Obligor Group. 
+ 
+ The financial information of the Obligor Group includes sales executed through a Non-Guarantor Subsidiary single-billing entity as a sales agent on behalf of an entity in the Obligor Group. The Obligor Group has sales to non-guarantors (for the nine months ended September 29, 2024: 519 million). The Obligor Group has amounts due from equity financing (September 29, 2024: 5,438 million; December 31, 2023: 5,441 million) and due to debt financing (September 29, 2024: 1,779 million; December 31, 2023: 2,346 million) with non-guarantor subsidiaries. 
+ 
+ 27 
+
+Use of Certain Non-GAAP Financial Measures 
+ 
+ Non-GAAP Financial Measures 
+ In addition to providing financial information on a basis consistent with U.S. generally accepted accounting principles US GAAP or GAAP ), NXP also provides selected financial measures on a non-GAAP basis which are adjusted for specified items. The adjustments made to achieve these non-GAAP financial measures or the non-GAAP financial measures as specified are described below, including the usefulness to management and investors. 
+ 
+ In managing NXP s business on a consolidated basis, management develops an annual operating plan, which is approved by our Board of Directors, using non-GAAP financial measures. In measuring performance against this plan, management considers the actual or potential impacts on these non-GAAP financial measures from actions taken to reduce costs with the goal of increasing our gross margin and operating margin and when assessing appropriate levels of research and development efforts. In addition, management relies upon these non-GAAP financial measures when making decisions about product spending, administrative budgets, and other operating expenses. We believe that these non-GAAP financial measures, when coupled with the GAAP results and the reconciliations to corresponding GAAP financial measures, provide a more complete understanding of the Company s results of operations and the factors and trends affecting NXP s business. We believe that they enable investors to perform additional comparisons of our operating results, to assess our liquidity and capital position and to analyze financial performance excluding the effect of expenses unrelated to core operating performance, certain non-cash expenses and share-based compensation expense, which may obscure trends in NXP s underlying performance. This information also enables investors to compare financial results between periods where certain items may vary independent of business performance, and allow for greater transparency with respect to key metrics used by management. 
+ 
+ The presentation of these and other similar items in NXP s non-GAAP financial results should not be interpreted as implying that these items are non-recurring, infrequent, or unusual. These non-GAAP financial measures are provided in addition to, and not as a substitute for, or superior to, measures of financial performance prepared in accordance with GAAP. 
+ 
+ Non-GAAP Adjustment or Measure Definition Usefulness to Management and Investors Purchase price accounting effects Purchase price accounting ("PPA") effects reflect the fair value adjustments impacting acquisition accounting and other acquisition adjustments charged to the Consolidated Statement of Operations. This typically relates to inventory, property, plant and equipment, as well as intangible assets, such as developed technology and marketing and customer relationships acquired. The PPA effects are recorded within both cost of revenue and operating expenses in our US GAAP financial statements. These charges are recorded over the estimated useful life of the related acquired asset, and thus are generally recorded over multiple years. We believe that excluding these charges related to fair value adjustments for purposes of calculating certain non-GAAP measures allows the users of our financial statements to better understand the historic and current cost of our products, our gross margin, our operating costs, our operating margin, and also facilitates comparisons to peer companies. Restructuring Restructuring charges are costs primarily related to employee severance and benefit arrangements. Charges related to restructuring are recorded within both cost of revenue and operating expenses in our US GAAP financial statements We exclude restructuring charges, including any adjustments to charges recorded in prior periods, for purposes of calculating certain non-GAAP measures because these costs do not reflect our core operating performance. These adjustments facilitate a useful evaluation of our core operating performance and comparisons to past operating results and provide investors with additional means to evaluate expense trends. Share-based compensation Share-based compensation consists of incentive expense granted to eligible employees in the form of equity based instruments. Charges related to share-based compensation are recorded within both cost of revenue and operating expenses in our US GAAP financial statements. We exclude charges related to share-based compensation for purposes of calculating certain non-GAAP measures because we believe these charges, which are non-cash, are not representative of our core operating performance as they can fluctuate from period to period based on factors that are not within our control, such as our stock price on the dates share-based grants are issued. We believe these adjustments provide investors with a useful view, through the eyes of management, of our core business model, how management currently evaluates core operational performance, and additional means to evaluate expense trends. Other incidentals Other incidentals consist of certain items which may be non-recurring, unusual, infrequent or directly related to an event that is distinct and non-reflective of the Company s core operating performance. These may include such items as process and product transfer costs, certain charges related to acquisitions and divestitures, litigation and legal settlements, costs associated with the exit of a product line, factory or facility, environmental or governmental settlements, and other items of similar nature. We exclude these certain items which may be non-recurring, unusual, infrequent or directly related to an event that is distinct and non-reflective of the Company s core operating performance for purposes of calculating certain non-GAAP measures. These adjustments facilitate a useful evaluation of our core operating performance and comparisons to past operating results and provide investors with additional means to evaluate expense trends. 
+ 28 
+
+Non-GAAP Adjustment or Measure Definition Usefulness to Management and Investors Non-GAAP Provision for income taxes Non-GAAP provision for income taxes is NXP's GAAP provision for income taxes adjusted for the income tax effects of the adjustments to our GAAP measure, including the effects of purchase price accounting PPA ), restructuring costs, share-based compensation, other incidental items and certain other adjustments to financial income (expense) items. Additionally, adjustments are made for the income tax effect of any discrete items that occur in the interim period. Discrete items primarily relate to unexpected tax events that may occur as these amounts cannot be forecasted (e.g., the impact of changes in tax law and/or rates, changes in estimates or resolved tax audits relating to prior year tax provisions, the excess or deficit tax effects on share-based compensation, etc.). The non-GAAP provision for income taxes is used to ascertain and present on a comparable basis NXP's provision for income tax after adjustments, the usefulness of which is described within this table. Additionally, the income tax effects of the adjustments to achieve the noted non-GAAP measures are used to determine NXP's non-GAAP net income (loss) attributable to stockholders and accordingly, our diluted non-GAAP earnings per share attributable to stockholders. Free Cash Flow Free Cash Flow represents operating cash flow adjusted for net additions to property, plant and equipment. We believe that free cash flow provides insight into our cash-generating capability and our financial performance, and is an efficient means by which users of our financial statements can evaluate our cash flow after meeting our capital expenditure. Net debt Net debt represents total debt (short-term and long-term) after deduction of cash and cash equivalents and short-term deposits. We believe this measure provides investors with useful supplemental information about the financial performance of our business, enables comparison of financial results between periods where certain items may vary independent of business performance, and allow for greater transparency with respect of calculating our net leverage. 
+
+The following are reconciliations of our most comparable US GAAP measures to our non-GAAP measures presented: 
+ 
+ in millions) For the three months ended September 29, 2024 June 30, 2024 October 1, 2023 GAAP gross profit 1,866 1,792 1,965 PPA effects (12) (12) (13) Restructuring (4) Share-based compensation (14) (15) (14) Other incidentals (10) (18) Non-GAAP gross profit 1,892 1,833 2,010 GAAP Gross Margin 57.4 57.3 57.2 Non-GAAP Gross Margin 58.2 58.6 58.5 GAAP research and development (577) (594) (601) Restructuring (4) 4 Share-based compensation (58) (58) (53) Other incidentals (2) Non-GAAP research and development (519) (532) (550) GAAP selling, general and administrative (265) (270) (294) PPA effects (1) (1) (1) Restructuring 2 Share-based compensation (43) (41) (36) Other incidentals (2) (2) (4) Non-GAAP selling, general and administrative (219) (228) (253) GAAP operating income (loss) 990 896 992 
+ 29 
+
+in millions) For the three months ended September 29, 2024 June 30, 2024 October 1, 2023 GAAP operating income (loss) 990 896 992 PPA effects (42) (41) (85) Restructuring (6) 4 Share-based compensation (115) (114) (103) Other incidentals (6) (14) (27) Non-GAAP operating income (loss) 1,153 1,071 1,203 GAAP Operating Margin 30.5 28.7 28.9 Non-GAAP Operating Margin 35.5 34.3 35.0 GAAP Income tax benefit (provision) (173) (154) (123) Income tax effect 9 15 45 Non-GAAP Income tax benefit (provision) (182) (169) (168) 
+
+in millions) For the three months ended September 29, 2024 June 30, 2024 October 1, 2023 Net cash provided by (used for) operating activities 779 761 988 Net capital expenditures on property, plant and equipment (186) (184) (200) Non-GAAP free cash flow 593 577 788 
+ 
+ in millions) For the three months ended September 29, 2024 June 30, 2024 October 1, 2023 Long-term debt 9,683 9,681 10,173 Short-term debt 499 499 999 Total debt 10,182 10,180 11,172 Less: cash and cash equivalents (2,748) (2,859) (4,042) Less: short-term deposits (400) (400) Net debt 7,034 6,921 7,130 
+
+30 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ There have been no material changes to the Company s market risk during the first nine months of 2024. For a discussion of the Company s exposure to market risk, refer to the Company s market risk disclosures set forth in Part II, Item 7A, Quantitative and Qualitative Disclosures About Market Risk in our Annual Report on Form 10-K for the year ended December 31, 2023. 
+
+Item 4. Controls and Procedures 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ 
+ Our management, with the participation of the Chief Executive Officer and Chief Financial Officer (Certifying Officers), evaluated the effectiveness of the Company's disclosure controls and procedures (as defined in Rules 13a-15(e) or 15d-15(e) promulgated under the Securities Exchange Act of 1934, as amended) on September 29, 2024. Based on that evaluation, the Certifying Officers concluded the Company's disclosure controls and procedures were effective as of September 29, 2024. 
+ 
+ Changes in Internal Control Over Financial Reporting 
+ 
+ There were no changes in the Company's internal control over financial reporting during the three-month period ended September 29, 2024, which were identified in connection with management's evaluation required by paragraph (d) of Rules 13a-15 and 15d-15 under the Exchange Act that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+31 
+
+PART II OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+ 
+ Not applicable. 
+
+Item 1A. Risk Factors 
+ 
+ There have been no material changes from the risk factors previously disclosed in our Annual Report on Form 10-K for the year ended December 31, 2023. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ Purchases of Equity Securities by the Issuer and Affiliated Purchasers 
+ 
+ Our Board has approved the purchase of shares from participants in NXP's equity programs to satisfy participants' tax withholding obligations and this authorization will remain in effect until terminated by the Board. In January 2022, the Board approved the repurchase of shares up to a maximum of 2 billion (the Share Repurchase Program"). In August 2024, the Board approved an additional 2 billion authorization to the Share Repurchase Program. Per September 29, 2024, there was approximately 2.6 billion remaining for the repurchase of shares under the Share Repurchase Program. 
+ 
+ The following share repurchase activity occurred under these programs during the three months ended September 29, 2024: 
+ Period 
+ 
+ Total Number of Shares Purchased 
+ Average Price Paid per Share 
+ Number of Shares Purchased as Part of Publicly Announced Buy Back Programs 
+ Maximum Number of Shares That May Yet Be Purchased Under the Buy Back Program 
+ Number of Shares Purchased as Trade for Tax (1) 
+ July 1, 2024 August 4, 2024 448,603 267.08 433,661 3,450,470 14,942 August 5, 2024 September 1, 2024 405,290 247.02 401,227 10,614,775 4,063 September 2, 2024 September 29, 2024 365,142 232.19 365,142 10,763,975 Total 
+ 1,219,035 1,200,030 19,005 
+ (1) Reflects shares surrendered by participants to satisfy tax withholding obligations in connection with the Company's equity programs. 
+
+Item 5. 
+ 
+ , , of the Company, entered into a (the Plan ), pursuant to which a maximum amount of common shares of the Company may be sold under the Plan from March 17, 2025 through December 31, 2025. The Plan terminates on the earlier of: (i) , (ii) the first date on which all trades set forth in the Plan have been executed, or (iii) such date the Plan is otherwise terminated according to its terms. 
+ 
+ Other 
+ 
+ The Compensation Committee of the Board of Directors of NXP Semiconductors N.V. (the Company has approved a form of Performance Restricted Stock Unit Award Agreement (attached as Exhibit 10.1 to this Report) for the award of equity grants to our employees, including the Company s Chief Executive Officer, Chief Financial Officer and other named executive officers. These equity awards will be granted under the NXP Semiconductors N.V. 2019 Omnibus Incentive Plan which was previously approved by the Company s annual general meeting of shareholders. 
+ 32 
+
+Item 6. Exhibits 
+ 
+ Exhibit 
+ Number 
+ Exhibit Description 
+ 3.1 Articles of Association of NXP Semiconductors N.V. dated June 9, 2020 (incorporated by reference to Exhibit 3.1 to the Company s Quarterly Report on Form 10-Q of NXP Semiconductors N.V., filed on July 28, 2020) 
+ 10.1 + 
+ Form of Performance Restricted Stock Unit Award Agreement 
+ 31.1 
+ Rule 13a-14(a) / 15d-14(a) Certification of Chief Executive Officer 
+ 31.2 
+ Rule 13a-14(a) / 15d-14(a) Certification of Chief Financial Officer 
+ 32.1 
+ Section 1350 Certifications of Chief Executive Officer and Chief Financial Officer 
+ 101 The following materials from the Company s Quarterly Report on Form 10-Q for the quarter ended September 29, 2024, formatted in iXBRL (Inline eXtensible Business Reporting Language): (i) Condensed Consolidated Statements of Operations for the three and nine months ended September 29, 2024 and October 1, 2023; (ii) Condensed Consolidated Statements of Comprehensive Income for the three and nine months ended September 29, 2024 and October 1, 2023; (iii) Condensed Consolidated Balance Sheets as of September 29, 2024 and December 31, 2023; (iv) Condensed Consolidated Statements of Cash Flows for the nine months ended September 29, 2024 and October 1, 2023; (v) Condensed Consolidated Statements of Changes in Equity for the three and nine months ended September 29, 2024 and October 1, 2023; and (vi) Notes to the Unaudited Condensed Consolidated Financial Statements. 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+ 
+ Filed or furnished herewith. + Indicates management contract or compensatory plan or arrangement. 
+ 33 
+
+SIGNATURE 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+
+Date: November 5, 2024 
+ 
+ NXP Semiconductors N.V. /s/ William J. Betz Name: William J. Betz, CFO 
+ 34 
+
+Exhibit 31.1 
+ CERTIFICATION 
+ I, Kurt Sievers, certify that: 
+ 
+ 1. I have reviewed this quarterly report on Form 10-Q of NXP Semiconductors N.V.; 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report; 
+ 
+ 4. The Registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have: 
+ 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ 
+ c) Evaluated the effectiveness of the Registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ 
+ d) Disclosed in this report any change in the Registrant s internal control over financial reporting that occurred during the Registrant s most recent fiscal quarter (the Registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant s internal control over financial reporting; and 
+ 
+ 5. The Registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant s auditors and the audit committee of the Registrant s board of directors (or persons performing the equivalent functions): 
+ 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant s ability to record, process, summarize, and report financial information; and 
+ 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s internal control over financial reporting. 
+
+Date: November 5, 2024 
+ By: /s/ Kurt Sievers 
+ Kurt Sievers 
+ President Chief Executive Officer 
+
+Exhibit 31.2 
+ CERTIFICATION 
+ I, William J. Betz, certify that: 
+ 
+ 1. I have reviewed this quarterly report on Form 10-Q of NXP Semiconductors N.V.; 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the Registrant as of, and for, the periods presented in this report; 
+ 
+ 4. The Registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Registrant and have: 
+ 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the Registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ 
+ c) Evaluated the effectiveness of the Registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ 
+ d) Disclosed in this report any change in the Registrant s internal control over financial reporting that occurred during the Registrant s most recent fiscal quarter (the Registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the Registrant s internal control over financial reporting; and 
+ 
+ 5. The Registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the Registrant s auditors and the audit committee of the Registrant s board of directors (or persons performing the equivalent functions): 
+ 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the Registrant s ability to record, process, summarize, and report financial information; and 
+ 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the Registrant s internal control over financial reporting. 
+
+Date: November 5, 2024 
+ By: /s/ William J. Betz 
+ William J. Betz 
+ Chief Financial Officer 
+
+Exhibit 32.1 
+ CERTIFICATIONS OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER 
+ PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Kurt Sievers, certify, as of the date hereof, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report of NXP Semiconductors N.V. on Form 10-Q for the period ended September 29, 2024 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Form 10-Q fairly presents in all material respects the financial condition and results of operations of NXP Semiconductors N.V. at the dates and for the periods indicated. 
+ 
+ Date: November 5, 2024 
+ By: /s/ Kurt Sievers 
+ Kurt Sievers 
+ President Chief Executive Officer 
+
+I, William J. Betz, certify, as of the date hereof, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report of NXP Semiconductors N.V. on Form 10-Q for the period ended September 29, 2024 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Form 10-Q fairly presents in all material respects the financial condition and results of operations of NXP Semiconductors N.V. at the dates and for the periods indicated. 
+ 
+ Date: November 5, 2024 
+ By: /s/ William J. Betz 
+ William J. Betz 
+ Chief Financial Officer 
+
+<EX-10.1>
+ 2
+ exhibit101formpsuaagreem.htm
+ EX-10.1
+
+exhibit101formpsuaagreem 
+
+Exhibit 10.1 NXP SEMICONDUCTORS N.V. 2019 OMNIBUS INCENTIVE PLAN PERFORMANCE RESTRICTED STOCK UNIT AWARD AGREEMENT This Performance Restricted Stock Unit Award Agreement (this PSU Agreement is made effective as of the date indicated in the grant summary in the Company s equity recordkeeping system (the Date of Grant ), by and between NXP Semiconductors N.V., a public limited liability company (naamloze vennootschap) organized under the Laws of The Netherlands (the Company ), and the recipient of the grant (the Participant ). Capitalized terms used but not defined herein shall have the meaning ascribed to them in the NXP Semiconductors N.V. 2019 Omnibus Incentive Plan (as may be amended from time to time, the Plan ). 1. Grant of Performance Restricted Stock Units. The Company hereby grants to the Participant, subject to all of the terms and conditions of this PSU Agreement and the Plan, the number of performance restricted stock units (the PSUs evidencing a right to receive a target number of shares of Common Stock as indicated in the grant summary in the Company s equity recordkeeping system (the Target PSUs ), based on the Company s achievement of the performance goals set forth on Appendix A hereto (the Performance Goals ). Shares of Common Stock corresponding to the PSUs, if any, are to be delivered to the Participant only after the Performance Goals have been achieved and certified as described in Section 3 and the Participant has become vested in the PSUs pursuant to Section 4 below. 2. Performance Period. For purposes of this PSU Agreement, the term Performance Period shall refer to the period from the Date of Grant through the day prior to the third anniversary of the Date of Grant (the Performance Period End Date ). In the event of a Change of Control that occurs before the Performance Period End Date, the Performance Period shall end on the date of the Change of Control, or another date established at the discretion of the Committee (as defined below), and the Share Delivery Factor (as defined below) shall be calculated on such basis. 3. Performance Goals. (a) To the extent, if any, the applicable Performance Goals have been achieved for the applicable Performance Period, and subject to the compliance with the requirements of Section 4, the Participant will be entitled to receive a number of shares of Common Stock equal to between 0 and 2.0 times (such number, the Share Delivery Factor the number of Target PSUs granted under this PSU Agreement. (b) The Compensation Committee of the Company s Board (the Committee shall, as soon as practicable following the last day of the applicable Performance Period, and in any event within forty-five days after the Performance Period End Date, certify (i) the extent to which the Performance Goals have been achieved, if at all, and (ii) the number of shares of Common Stock, if any, which the Participant shall be entitled to receive with respect to the PSUs granted under this PSU Agreement. In the event the Share Delivery Factor equals zero, the PSUs granted under this PSU Agreement shall be cancelled without the delivery of any 
+
+2 shares of Common Stock or other consideration. Such certification shall be final, conclusive and binding on the Participant, and on all other persons, to the maximum extent permitted by law. 4. Vesting. (a) To the extent that the Performance Goals for the applicable Performance Period have been achieved, a number of PSUs granted under this PSU Agreement shall vest based on the applicable Share Delivery Factor on the date of the Committee s certification of the Performance Goals in accordance with Section 3 (the Vesting Date provided that the Participant remains in continuous employment with the Company or an Affiliate thereof through the Performance Period End Date. (b) Except as set forth in Section 4(c) below, if the Participant s employment is terminated for any reason prior to the Performance Period End Date, then all rights of the Participant with respect to PSUs that have not vested as of the date of termination shall immediately terminate without notice and without any compensation; provided, that upon the violation by the Participant of any provision of the Plan or this PSU Agreement, the PSUs shall terminate effective as of the date of such violation (rather than the date on which such violation comes to the attention of the Company) and the Participant shall be required to return to the Company the shares of Common Stock in respect of vested PSUs on an after tax basis or an amount in cash equal to the fair market value of the shares of Common Stock in respect of vested PSUs as of the date of the Participant s termination of employment. Any such unvested PSUs terminated pursuant to this Section 4(b) shall be forfeited without payment of any consideration, and neither the Participant nor any of the Participant s successors, heirs, assigns, or personal representatives shall thereafter have any further rights or interests in such unvested PSUs. (c) If (i) the Participant s employment is terminated by the Company or any of its direct and indirect subsidiaries or such other company as designated by the Administrator (each an Employing Company without the Participant being a Bad Leaver or by the Participant for Good Reason, in either case within twelve months following a Change of Control and (ii) the Participant executes and delivers to the Employing Company (and does not revoke) a general release of claims in a form satisfactory to the Administrator within sixty (60) days following such termination (or such shorter period as may be specified by the Employing Company in accordance with applicable law), then all unvested PSUs shall immediately vest and shall be settled as soon as practicable after the date of such termination of employment based on the Share Delivery Factor calculated pursuant to Section 2. Subject, and in addition, to the foregoing, if the Participant s employment is terminated (A) at the convenience of the Employing Company (which includes, but is not limited to, in connection with a reduction in force), as determined by the Administrator in its sole discretion, prior to the Performance Period End Date or (B) by reason of the Retirement of the Participant, and, in either case, not under circumstances giving rise to the Participant being a Bad Leaver or the Employing Company terminating the Participant s employment where the Participant is a Bad Leaver and provided Participant executes and delivers to the Employing Company (and does not revoke) a general release of claims as described in (c)(ii) above, then the Pro-Rata Portion (as defined below) shall be eligible to vest on the original Vesting Date, subject to the achievement and certification of the Performance Goals as described in Section 3 and 
+
+3 based on the applicable Share Delivery Factor calculated pursuant to Section 3(a). Subject, and in addition, to the foregoing, if the Participant s employment is terminated due to the Participant s death, then all unvested PSUs shall be eligible to vest on the original Vesting Date, subject to the achievement and certification of the Performance Goals as described in Section 3 and based on the applicable Share Delivery Factor calculated pursuant to Section 3(a). (d) For the purposes of this PSU Agreement, and notwithstanding any provision of the Plan to the contrary: (i). Bad Leaver shall mean a Participant whose employment with an Employing Company is terminated (A) following the Participant committing an act of theft, fraud, serious misconduct or deliberate falsification of records in relation to his duties for the Company or the Employing Company; (B) following the Participant being convicted of or pleading guilty to a serious criminal offence (misdrijf) relating to his or her duties for the Company or the Employing Company (excluding any motoring or non-duty related minor offence), which act or criminal offence referred to in (A) and/or (B) has a material adverse effect upon the Company or the Employing Company; (C) with immediate effect because of an urgent cause (dringende reden) as referred to in article 7:678 of the Dutch Civil Code for cause; (D) a Participant materially violates the Company Code of Conduct or similarly significant rule or policy of the Company or the Employing Company; or (E) a Participant within the twelve (12) month period following the termination of employment, directly or indirectly and in any capacity whatsoever, engages in any activities in competition with the activities of any of the Company, its Subsidiaries or its Affiliates, including the Participant personally actively soliciting or personally actively endeavoring to entice away or personally actively recruiting any employees of the Company, its Subsidiaries or its Affiliates in said period. (ii). Good Reason shall have the meaning in the employment agreement between the Participant and the Employing Company. If the Participant does not have an employment agreement with the Employing Company in which Good Reason is defined, Good Reason means, in the absence of the Participant s written consent, any of the following: (i) a material reduction by the Employing Company in the Participant s net base salary or target bonus (taking into account applicable taxes and mandatory withholdings in the event of Participant s geographical relocation at the request of the Employing Company) unless the base salary or target bonus of other employees or officers of the Company, any of its Subsidiaries or the applicable Employing Company in a similar position is reduced by a similar percentage or amount as part of cost reductions, restructuring, or job grade alignment affecting all of the company or the Participant s 
+
+4 Employing Company or business unit; or (ii) a material diminution in the Participant s duties or responsibilities (other than as a result of the Participant s physical or mental incapacity which impairs his or her ability to materially perform his or her duties or responsibilities as confirmed by a doctor reasonably acceptable to the Participant or his or her representative and such diminution lasts only for so long as such doctor determines such incapacity impairs the Participant s ability to materially perform his or her duties or responsibilities). (iii). Pro-Rata Portion shall mean a number of PSUs equal to the product of (x) a fraction, the numerator of which is the number of days the Participant was employed by the Employing Company on and after the Date of Grant and the denominator of which is the number of days between the Date of Grant and the third anniversary of the Date of Grant, multiplied by (y) the number of PSUs that would have otherwise vested on the applicable Vesting Date absent the Participant s termination of employment, with any fractional shares rounded to the nearest whole number of shares. By way of example, assume that (i) a participant is granted 300 PSUs on October 29, 2024 (the Date of Grant) which have a three-year cliff vest on October 28, 2027 and (ii) the participant terminates employment due to Retirement on April 29, 2025. The Pro-Rata Portion would equal 50 PSUs (300 PSUs multiplied by a fraction, the numerator of which is 184 days and the denominator of which is 1,095 days). (iv). Retirement shall mean the Participant s termination of employment with the Company or the Employing Company following having both attained five (5) years of service with the Company or Employing Company and age sixty (60). 5. Settlement. Except as otherwise set forth in Section 4, the shares of Common Stock underlying any PSUs that become vested in accordance with Section 4, if any, shall be delivered to the Participant as soon as practicable after the Vesting Date (as applicable, the Settlement Date ). 6. Voting and Other Rights. The Participant shall have no rights of a stockholder with respect to the PSUs (including the right to vote and the right to receive distributions or dividends) unless and until shares of Common Stock are issued in respect thereof in accordance with this PSU Agreement. 7. PSU Agreement Subject to Plan. This PSU Agreement is made pursuant to all of the provisions of the Plan, which is incorporated herein by this reference, and is intended, and shall be interpreted in a manner, to comply therewith. In the event of any conflict between the provisions of this PSU Agreement and the provisions of the Plan, the provisions of this PSU Agreement shall govern. The Participant hereby acknowledges receipt of a copy of the Plan. The Participant hereby acknowledges that all decisions, determinations and interpretations 
+
+5 of the Administrator in respect of the Plan, this PSU Agreement and the PSUs shall be final and conclusive. 8. No Rights to Continuation of Employment; Discretionary Grant. Nothing in the Plan or this PSU Agreement shall confer upon the Participant any right to continue in the employ of the Company or any Affiliate thereof or shall interfere with or restrict the right of the Company or its Affiliates to terminate the Participant s employment at any time for any reason. The (value of) PSUs granted to, or shares of Common Stock acquired in connection with the vesting and settlement of the PSUs, under this PSU Agreement shall not be considered as compensation in determining a Participant s benefits under any benefit plan of an Employing Company, including but not limited to, group life insurance, long-term disability, family survivors, or any retirement, pension or savings plan. 9. Taxes. Any and all taxes, duties, levies, charges or social security contributions Taxes which arise under any applicable national, state, local or supra-national laws, rules or regulations, whether already effective on the Date of Grant or becoming effective thereafter, and any changes or modifications therein and termination thereof which may result for the Participant in connection with this PSU Agreement (including, but not limited to, the grant of the PSUs, the ownership of the PSUs and/or the delivery of any Common Stock under this Plan, the ownership and/or the sale of any Common Stock acquired under this PSU Agreement) shall be for the sole risk and account of the Participant. 10. Governing Law and Forum. This PSU Agreement shall be governed by and construed in accordance with the laws of The Netherlands, without giving effect to the principles of conflicts of laws. Any dispute arising under or in connection with this PSU Agreement shall be settled by the competent courts in Amsterdam, The Netherlands. 11. PSU Agreement Binding on Successors. The terms of this PSU Agreement shall be binding upon the Participant and upon the Participant s heirs, executors, administrators, personal representatives, transferees, assignees and successors in interest, and upon the Company and its successors and assignees, subject to the terms of the Plan. 12. No Assignment. Notwithstanding anything to the contrary in this PSU Agreement, neither this PSU Agreement nor any rights granted herein shall be assignable by the Participant. 13. Insider Trading Rules; Certain Company Policies; Necessary Acts. Each Participant shall comply with any applicable insider trading laws and regulations, including the NXP Semiconductor N.V. Insider Trading Policy, the Company Code of Conduct, and any restrictive covenant or intellectual property assignment agreement to which the Participant is a party. The Participant hereby agrees to perform all acts, and to execute and deliver any documents that may be reasonably necessary to carry out the provisions of this PSU Agreement, including but not limited to all acts and documents related to compliance with applicable securities and/or tax laws. 
+
+6 14. Severability. Should any provision of this PSU Agreement be held by a court of competent jurisdiction to be unenforceable, or enforceable only if modified, such holding shall not affect the validity of the remainder of this PSU Agreement, the balance of which shall continue to be binding upon the parties hereto with any such modification (if any) to become a part hereof and treated as though contained in this original PSU Agreement. Moreover, if one or more of the provisions contained in this PSU Agreement shall for any reason be held to be excessively broad as to scope, activity, subject or otherwise so as to be unenforceable, in lieu of severing such unenforceable provision, such provision or provisions shall be construed by the appropriate judicial body by limiting or reducing it or them, so as to be enforceable to the maximum extent compatible with the applicable law as it shall then appear, and such determination by such judicial body shall not affect the enforceability of such provisions or provisions in any other jurisdiction. 15. Addenda. The provisions of any addenda attached hereto are incorporated by reference herein and made a part of this PSU Agreement. To the extent that any provision in any such addenda conflicts with any provision set forth elsewhere in this PSU Agreement (including, without limitation, any provisions related to Taxes or the Settlement Date), the provision set forth in such addenda shall control. 16. Entire Agreement. This PSU Agreement and the Plan contain the entire agreement and understanding among the parties as to the subject matter hereof, and supersedes any other agreements or representations, oral or otherwise, express or implied, with respect to the subject matter hereof. 17. Headings. Headings are used solely for the convenience of the parties and shall not be deemed to be a limitation upon or descriptive of the contents of any such Section. 18. Acceptance. This PSU Agreement must be accepted by the Participant s electronic acceptance in the Company s equity recordkeeping system or the Participant will have no right to the PSU grant provided for in this PSU Agreement. By accepting this PSU Agreement the Participant consents to the electronic delivery through the Company s equity recordkeeping system of all documents related to this PSU grant. Please be informed that when you accept these grants via the E TRADE system (or such other system designated by the Administrator) you consent to the processing, collection, storing and adapting by the Company, its affiliates, or any entity administrating the Plan, your grant, and/or your (rights to) any shares of Common Stock, of any personal data relating to you (including, inter alia, name, address, personnel number and position) for the sole purpose of your participation in the Plan. This data is processed for purposes of administrating and executing the Plan in the broadest sense. The Company or the Employing Company may transfer the data relating to you to their Subsidiaries or Affiliates or any designated person located in the United States for purposes of administrating, approving and executing the Plan in the broadest sense. The United States does not provide an adequate level of data protection for the above-mentioned purposes. 19. Amendment. No amendment or modification hereof shall be valid unless it shall be in writing and signed by all parties hereto. 
+
+7 APPENDIX A Performance Goals 1. Share Delivery Factor. (a) The Share Delivery Factor will be based on the Company s Relative TSR Percentile Rank during the applicable Performance Period as follows: Relative TSR Percentile Rank Share Delivery Factor 75 2.0 (b) If the Company s Relative TSR Percentile Rank determined in accordance with the chart set forth in Section 1(a) is between 25 and 75 during the applicable Performance Period, the Share Delivery Factor will be calculated by linear extrapolation using the data points in the chart set forth in Section 1(a) . (c) If the Company s TSR is negative during the applicable Performance Period, the maximum Share Delivery Factor is 1.0 regardless of Relative TSR Percentile Rank. 2. Definitions. (a) Relative TSR means the TSR of the Company compared to the TSR of the Peer Companies on a relative basis during the applicable Performance Period. The Company and the Peer Companies ranked from highest to lowest according to their respective TSRs during the applicable Performance Period will determine Relative TSR. After this ranking, the percentile performance of the Company relative to the Peer Companies will be determined. (b) TSR means for the Company and each of the Peer Companies, the amount determined by dividing (i) the Closing Average Share Value by (ii) the Opening Average Share Value, and then subtracting one (1). (c) Closing Average Share Value means for the Company and each of the Peer Companies, the average over the days in the Closing Average Period, of the closing price of its common stock, multiplied by the Accumulated Shares for each day during the Closing Average Period. In the case of a Change of Control of the Company, the Closing Average Share Value of the Company shall be the per share consideration paid by the acquiror of the Company, as determined by the Committee in its sole discretion. (d) Closing Average Period means the twenty (20) trading days prior to and including the last date of the applicable Performance Period. 
+
+8 (e) Opening Average Share Value means for the Company and each of the Peer Companies, the average over the days in the Opening Average Period of the closing price of its common stock, multiplied by the Accumulated Shares for each day during the Opening Average Period. (f) Opening Average Period means the twenty (20) trading days prior to the Date of Grant. (g) Accumulated Shares means, for a given day, and for the Company or a given Peer Company, the sum of (i) one share of common stock of the applicable company, plus (ii) a cumulative number of shares of common stock purchased with dividends declared on the common stock, assuming same day reinvestment of the dividends into shares of common stock at the closing price on the ex-dividend date, for ex-dividend dates during the applicable Performance Period or Opening Average Period, as applicable. (h) Peer Companies means the companies established by the Committee for purposes of calculating TSR, to include Advanced Micro Devices, Inc.; Analog Devices, Inc.; Applied Materials, Inc.; ASML Holding N.V.; Corning Incorporated; Infineon Technologies AG; Lam Research Corporation; Marvell Technology Group Ltd.; Microchip Technology, Inc.; Micron Technology, Inc.; ON Semiconductor Corporation; Qorvo, Inc.; QUALCOMM Corporation; Seagate Technology plc; Skyworks Solutions, Inc.; STMicroelectronics N.V.; TE Connectivity Ltd.; Texas Instruments Incorporated; and Western Digital Corporation; provided, that the Committee may make such changes to the list of Peer Companies as it determines to be necessary or appropriate in its sole discretion, including to reflect mergers and acquisitions or other similar activities. 3. TSR Calculations (a) During the applicable Performance Period, applicable stock prices will be adjusted for stock splits, rights offerings, spin-offs, or similar events, but will not be adjusted for stock buybacks or stock issued as consideration for an acquisition. Such adjustments, or lack thereof, shall be made in the sole discretion of the Committee, the Committee s determination shall be final, conclusive and binding on the Participant, and on all other persons, to the maximum extent permitted by law. (b) TSR will be based on the local currency of each company s primary stock exchange listing. Adjustments will not be made to convert stock prices from local currency to USD. 
+
+9 ANNEX A Country Specific Tax Provisions For Participants whose PSU grants are or become subject to the tax laws of the United States Settlement Date. The Settlement Date shall occur as soon as practicable following the applicable Vesting Date or such earlier date as provided in Sections 4(b)-(c) of this PSU Agreement, but in no event later than March 15 of the year following the year in which such the applicable PSUs become vested. Section 409A Compliance. The intent of the parties is that the payments and benefits under this PSU Agreement comply with Section 409A of the U.S. Internal Revenue Code of 1986, as amended from time to time, or any successor thereto (the Code ), to the extent subject thereto, and accordingly, to the maximum extent permitted, this PSU Agreement shall be interpreted and administered to be in compliance therewith. Notwithstanding anything contained herein to the contrary, the Participant shall not be considered to have terminated employment with the Company for purposes of any payments under this PSU Agreement which are subject to Section 409A of the Code until the Participant would be considered to have incurred a separation from service from the Company within the meaning of Section 409A of the Code. Each amount to be paid or benefit to be provided under this PSU Agreement shall be construed as a separate identified payment for purposes of Section 409A of the Code. Without limiting the foregoing and notwithstanding anything contained herein to the contrary, to the extent required in order to avoid accelerated taxation and/or tax penalties under Section 409A of the Code, amounts that would otherwise be payable and benefits that would otherwise be provided pursuant to this PSU Agreement or any other arrangement between the Participant and the Company during the six- month period immediately following the Participant s separation from service shall instead be paid on the first business day after the date that is six months following the Participant s separation from service (or, if earlier, the Participant s date of death). The Company makes no representation that any or all of the payments described in this PSU Agreement will be exempt from or comply with Section 409A of the Code and makes no undertaking to preclude Section 409A of the Code from applying to any such payment. The Participant shall be solely responsible for the payment of any taxes and penalties incurred under Section 409A of the Code. 
+
+</EX-10.1>
+
+<EX-101.SCH>
+ 3
+ nxpi-20240929.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 4
+ nxpi-20240929_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 5
+ nxpi-20240929_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 6
+ nxpi-20240929_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 7
+ nxpi-20240929_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,1622 @@
+<Header>
+<FileStats>
+    <FileName>20241107_10-Q_edgar_data_1475115_0001475115-24-000197.txt</FileName>
+    <GrossFileSize>8297867</GrossFileSize>
+    <NetFileSize>195905</NetFileSize>
+    <NonText_DocumentType_Chars>1719109</NonText_DocumentType_Chars>
+    <HTML_Chars>2920175</HTML_Chars>
+    <XBRL_Chars>1775049</XBRL_Chars>
+    <XML_Chars>1525654</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001475115-24-000197.hdr.sgml : 20241107
+<ACCEPTANCE-DATETIME>20241107160808
+ACCESSION NUMBER:		0001475115-24-000197
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		110
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241107
+DATE AS OF CHANGE:		20241107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Eventbrite, Inc.
+		CENTRAL INDEX KEY:			0001475115
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				141888467
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-38658
+		FILM NUMBER:		241435633
+
+	BUSINESS ADDRESS:	
+		STREET 1:		95 THIRD STREET
+		STREET 2:		2ND FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+		BUSINESS PHONE:		(888) 414-5119
+
+	MAIL ADDRESS:	
+		STREET 1:		95 THIRD STREET
+		STREET 2:		2ND FLOOR
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94103
+
+</SEC-Header>
+</Header>
+
+ 0001475115-24-000197.txt : 20241107
+
+10-Q
+ 1
+ eb-20240930.htm
+ 10-Q
+
+eb-20240930 
+ 
+ Table of Contents 
+
+ UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ ____________________________________________________________________________ 
+ FORM 
+ ____________________________________________________________________________ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the quarterly period ended 
+ or TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the transition period from _____ to _____ 
+ Commission File Number: 
+ _______________________________________________________________________________ 
+ 
+ (Exact name of registrant as specified in its charter) 
+ ________________________________________________________________________________ (State or other jurisdiction of 
+ incorporation or organization) 
+ (I.R.S. Employer 
+ Identification No.) 
+ 
+ , 
+ (Address of principal executive offices) (Zip Code) 
+ 
+ ) 
+ (Registrant's telephone number, including area code) 
+ 
+ Not applicable 
+ (Former name, former address and former fiscal year, if changed since last report) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading symbol(s) Name of each exchange on which registered 
+ _________________________________________________________________ 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer 
+ 
+ Non-accelerated filer 
+ 
+ Smaller reporting company 
+ Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ As of October 31, 2024, shares of Registrant's Class A common stock and shares of Registrant's Class B common stock were outstanding. 
+
+Table of Contents 
+
+ EVENTBRITE, INC. 
+ TABLE OF CONTENTS 
+ 
+ Page SPECIAL NOTE REGARDING FORWARD LOOKING STATEMENTS 1 
+ PART I. FINANCIAL INFORMATION Item 1. 
+ Unaudited Condensed Consolidated Financial Statements 
+ 2 
+ Condensed Consolidated Balance Sheets 
+ 2 
+ Condensed Consolidated Statements of Operations 
+ 3 
+ Condensed Consolidated Statements of Stockholders' Equity 
+ 4 
+ Condensed Consolidated Statements of Cash Flows 
+ 6 
+ Notes to Unaudited Condensed Consolidated Financial Statements 
+ 8 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 22 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 31 
+ Item 4. 
+ Controls and Procedures 
+ 31 
+ PART II. OTHER INFORMATION Item 1. 
+ Legal Proceedings 
+ 32 
+ Item 1A. 
+ Risk Factors 
+ 32 
+ Item 2. 
+ Unregistered Sales of Equity Securities, Use of Proceeds , and Issuer Purchases of Equity Securities 
+ 34 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 34 
+ Item 4. 
+ Mine Safety Disclosures 
+ 34 
+ Item 5. 
+ Other Information 
+ 34 
+ Item 6. 
+ Exhibits 
+ 35 
+ Signatures 
+ 36 
+
+Table of Contents 
+
+ SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act), that involve substantial risks and uncertainties. Forward-looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain words such as "may," "will," "appears," "shall," "should," "expects," "plans," "anticipates," "could," "intends," "target," "projects," "contemplates," "believes," "estimates," "predicts," "potential" or "continue," or the negative of these words or other similar terms or expressions that concern our expectations, strategy, plans or intentions. Forward-looking statements contained in this Quarterly Report on Form 10-Q include, but are not limited to, statements related to our future financial or operational results; our Convertible Notes (as defined below); our future financial performance, including our revenue, costs of revenue and operating expenses; our anticipated growth and growth strategies; our advance payout program; the sufficiency of our cash, cash equivalents and investments to meet our liquidity needs; our ability to successfully defend litigation brought against us and the potential effect of any current litigation on our business, financial position, results of operations or liquidity. 
+ The outcome of the events described in these forward-looking statements is subject to known and unknown risks, uncertainties and other factors, including those described in the section titled "Risk Factors" and elsewhere in our Annual Report on Form 10-K for the year ended December 31, 2023 and this Quarterly Report on Form 10-Q. We caution you that the foregoing list may not contain all of the forward-looking statements made in this Quarterly Report on Form 10-Q. You should not rely upon forward-looking statements as predictions of future events. 
+ All forward-looking statements are based on information and estimates available to the Company at the time of this Quarterly Report on Form 10-Q and are not guarantees of future performance. We undertake no obligation to update any forward-looking statements made in this Quarterly Report on Form 10-Q to reflect events or circumstances after the date of this Quarterly Report on Form 10-Q or to reflect new information or the occurrence of unanticipated events, except as required by law. 
+
+Table of Contents 
+
+ PART I. FINANCIAL INFORMATION 
+ 
+ Item 1. Unaudited Condensed Consolidated Financial Statements 
+
+EVENTBRITE, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (in thousands, except par value amounts and share data) 
+ (Unaudited) 
+ September 30, 2024 December 31, 2023 Assets Current assets Cash and cash equivalents Funds receivable Short-term investments, at amortized cost Accounts receivable, net Creator signing fees, net Creator advances, net Prepaid expenses and other current assets Total current assets Creator signing fees, net, noncurrent Property and equipment, net Operating lease right-of-use assets Goodwill Acquired intangible assets, net Other assets Total assets Liabilities and Stockholders Equity Current liabilities Accounts payable, creators Accounts payable, trade Chargebacks and refunds reserve Accrued compensation and benefits Accrued taxes Operating lease liabilities Other accrued liabilities Total current liabilities Accrued taxes, noncurrent Operating lease liabilities, noncurrent Long-term debt Other liabilities Total liabilities Commitments and contingencies (Note 17) par value; shares authorized, shares issued or outstanding as of September 30, 2024 and December 31, 2023 
+ Common stock, par value; shares authorized; shares issued and outstanding as of September 30, 2024; shares issued and outstanding as of December 31, 2023 
+ Additional paid-in capital Treasury stock, at cost; shares of common stock as of September 30, 2024 and shares as of December 31, 2023 
+ ) Accumulated deficit ) ) Total stockholders equity Total liabilities and stockholders equity (See accompanying Notes to Unaudited Condensed Consolidated Financial Statements) 
+ 
+ 2 
+
+Table of Contents 
+
+EVENTBRITE, INC. CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (in thousands, except per share data) (Unaudited) Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net revenue Cost of net revenue Gross profit Operating expenses Product development Sales, marketing and support General and administrative Total operating expenses Loss from operations ) ) ) ) Interest income Interest expense ) ) ) ) Other income (expense), net ) ) Loss before income taxes ) ) ) ) Income tax provision Net loss ) ) ) ) Net loss per share, basic and diluted Weighted-average number of shares outstanding used to compute net loss per share, basic and diluted 
+ (See accompanying Notes to Unaudited Condensed Consolidated Financial Statements) 
+ 3 
+
+Table of Contents 
+
+ EVENTBRITE, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY 
+ (in thousands, except share data) 
+ (Unaudited) 
+ 
+ Common Stock-Class A Common Stock-Class B Treasury Stock Additional Paid-In Capital Accumulated Deficit Total Stockholders Equity Shares Amount Shares Amount Shares Amount Balance at December 31, 2023 ) Issuance of restricted stock awards Issuance of common stock for settlement of RSUs Shares withheld related to net share settlement ) ) ) Repurchase of common stock ) ) ) Stock-based compensation Net loss ) ) Balance at March 31, 2024 ) ) Issuance of restricted stock awards Issuance of common stock for settlement of RSUs Shares withheld related to net share settlement ) ) ) Issuance of common stock for 2018 Employee Stock Purchase Plan (ESPP) Purchase Repurchase of common stock ) ) ) Stock-based compensation Net income Balance at June 30, 2024 ) ) Issuance of restricted stock awards Issuance of common stock for settlement of RSUs Shares withheld related to net share settlement ) ) ) Conversion of Class B common stock to Class A common stock ) Repurchase of common stock ) ) ) Stock-based compensation Net loss ) ) Balance at September 30, 2024 ) ) 
+
+4 
+
+Table of Contents 
+
+ Common Stock-Class A Common Stock-Class B Treasury Stock Additional Paid-In Capital Accumulated Deficit Total Stockholders Equity Shares Amount Shares Amount Shares Amount Balance at December 31, 2022 ) Issuance of common stock upon exercise of stock options Issuance of restricted stock awards Issuance of common stock for settlement of RSUs Shares withheld related to net share settlement ) ) ) Stock-based compensation Net loss ) ) Balance at March 31, 2023 ) Issuance of common stock upon exercise of stock options Issuance of restricted stock awards Issuance of common stock for settlement of RSUs Shares withheld related to net share settlement ) ) ) Issuance of common stock for 2018 Employee Stock Purchase Plan (ESPP) Purchase Stock-based compensation Net loss ) ) Balance at June 30, 2023 ) Issuance of common stock upon exercise of stock options Issuance of restricted stock awards Issuance of common stock for settlement of RSUs Shares withheld related to net share settlement ) ) ) Conversion of Class B common stock to Class A common stock ) Stock-based compensation Net loss ) ) Balance at September 30, 2023 ) (See accompanying Notes to Unaudited Condensed Consolidated Financial Statements) 
+ 
+ 5 
+
+Table of Contents 
+
+EVENTBRITE, INC. CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (in thousands, Unaudited) Nine Months Ended September 30, 2024 2023 Cash flows from operating activities Net loss ) ) Adjustments to reconcile net loss to net cash provided by operating activities: Depreciation and amortization Stock-based compensation expense Amortization of debt discount and issuance costs Loss on debt extinguishment Unrealized (gain) loss on foreign currency exchange ) Accretion on short-term investments ) ) Non-cash operating lease expenses Amortization of creator signing fees Changes related to creator advances, creator signing fees, and allowance for credit losses ) ) Provision for chargebacks and refunds Gain on litigation settlement ) Other Changes in operating assets and liabilities Accounts receivable ) ) Funds receivable Creator signing fees and creator advances ) Prepaid expenses and other assets Accounts payable, creators Accounts payable ) Chargebacks and refunds reserve ) ) Accrued compensation and benefits ) Accrued taxes ) ) Operating lease liabilities ) ) Other accrued liabilities ) Net cash provided by operating activities Cash flows from investing activities Purchases of short-term investments ) ) Maturities of short-term investments Purchases of property and equipment ) ) Capitalized internal-use software development costs ) ) Net cash provided by (used in) investing activities ) Cash flows from financing activities Principal repayment of debt obligations ) Repurchase of common stock ) Proceeds from exercise of stock options Taxes paid related to net share settlement of equity awards ) ) Proceeds from issuance of common stock under ESPP Principal payments on finance lease obligations ) Net cash used in financing activities ) ) Effect of exchange rate changes on cash, cash equivalents and restricted cash ) ) Net increase in cash, cash equivalents and restricted cash Cash, cash equivalents and restricted cash Beginning of period End of period 
+ 6 
+
+Table of Contents 
+
+ EVENTBRITE, INC. CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (in thousands, Unaudited) Nine Months Ended September 30, 2024 2023 Supplemental cash flow data Interest paid Income taxes paid, net of refunds Non-cash investing and financing activities Operating lease right-of-use assets obtained in exchange for operating lease liabilities Reduction of right-of-use assets due to modification or exit (See accompanying Notes to Unaudited Condensed Consolidated Financial Statements) 
+ 
+ 7 
+
+Table of Contents 
+
+EVENTBRITE, INC. 
+ Notes to Unaudited Condensed Consolidated Financial Statements 
+ 1. 
+ Significant Accounting Policies 
+ There have been no changes to the Company's significant accounting policies described in the 2023 Form 10-K that have had a material impact on the Company's unaudited condensed consolidated financial statements and related notes . 
+ Use of Estimates 
+ 
+ Comprehensive Loss 
+ 
+ Segment Information 
+ reportable segment . 
+ 8 
+
+Table of Contents 
+
+ 2. 
+ of the Company s workforce, or approximately employees. The Company incurred million in connection with the reduction in force during the three months ended September 30, 2024, which consisted of costs related to severance and other employee termination benefits. The actions associated with the reduction in force and the costs incurred were substantially complete as of the third quarter of 2024. 
+ Sales, marketing and support General and administrative Total 
+ The following table is a summary of the changes in the reduction in force related liabilities, included within accrued compensation and benefits and other accrued liabilities on the condensed consolidated balance sheets (in thousands): 
+ Balance as of January 1, 2024 Reduction in force related costs accrued 
+ Cash payments ) Non-cash applied ) Balance as of September 30, 2024 
+ 2023 Restructuring 
+ In February 2023, the board of directors of the Company approved a restructuring plan designed to reduce operating costs, drive efficiencies by consolidating development and support talent into regional hubs, and enable investment for potential long-term growth. As of September 30, 2024, the Company has substantially completed the 2023 restructuring plan. 
+ Product development Sales, marketing and support General and administrative Total 
+ 9 
+
+Table of Contents 
+
+ Restructuring related costs accrued 
+ Cash payments ) Non-cash applied ) Balance as of December 31, 2023 Restructuring related costs accrued 
+ Cash payments ) Balance as of September 30, 2024 
+ 
+ 3. 
+ 10 
+
+Table of Contents 
+
+ plan options. The Flex plan was charged per event and the Pro plan was a monthly or annual subscription to publish unlimited events. 
+
+4. 
+ million and million as of September 30, 2024 and December 31, 2023, respectively. These ticketing proceeds are legally unrestricted, and the Company invests a portion of ticketing proceeds in U.S. Treasury bills with original maturities less than one year. These amounts due to creators are included in accounts payable, creators on the condensed consolidated balance sheets. 
+ During 2023, the Company issued letters of credit relating to contracts entered into with other parties under lease agreements and other agreements which were collateralized with cash. This cash was classified as noncurrent restricted cash on the condensed consolidated balance sheets. 
+ Restricted cash Total cash, cash equivalents and restricted cash 
+ 
+ 5. 
+ such fair value impairment was recognized during the nine months ended September 30, 2024 or year ended December 31, 2023. 
+ US Treasury securities Cash equivalents US Treasury securities Short-term investments 
+ 11 
+
+Table of Contents 
+
+ US Treasury securities Short-term investments ) ) 
+ 
+ 6. 
+ million and million as of September 30, 2024 and December 31, 2023, respectively. 
+ 
+ 7. 
+ 
+ Allowance for credit losses ) ) Accounts receivable, net 
+ 
+ 8. 
+ years on a straight-line basis. The write-offs and other adjustments for the nine months ended September 30, 2024 include a reserve release to reflect losses recovered from a litigation settlement in June 2024. 
+ Creator signing fees paid Amortization of creator signing fees ) ) ) ) Write-offs and other adjustments Balance, end of period 
+ 12 
+
+Table of Contents 
+
+ Creator signing fees, net noncurrent Total creator signing fees 
+ 
+ 9. 
+ Creator advances paid Creator advances recouped ) ) ) ) Write-offs and other adjustments Balance, end of period 
+
+10. 
+ million and million, respectively. 
+ 
+ 11. 
+ million and million, which primarily includes reserve balances for estimated advance payout losses of million and million, as of September 30, 2024 and December 31, 2023, respectively. 
+ The Company will adjust reserves in the future to reflect best estimates of future outcomes. The Company cannot predict the outcome of or estimate the possible recovery or range of recovery from these matters. It is possible that the reserve amount 
+ 13 
+
+Table of Contents 
+
+12. 
+ Furniture and fixtures Computers and computer equipment Leasehold improvements Property and equipment Less: Accumulated depreciation and amortization ) ) Property and equipment, net 
+ Amortization of capitalized internal-use software development costs 
+ 
+ 13. 
+ Sublease income ) Total operating lease costs, net 
+ As part of the 2023 restructuring plan, the Company closed certain offices in April 2023 to align with the geographic distribution of its employees, resulting in the acceleration of million in amortization of right-of-use assets for the nine months ended September 30, 2023. 
+ As of September 30, 2024, the Company's operating leases had a weighted-average remaining lease term of years and a weighted-average discount rate of . 
+ 14 
+
+Table of Contents 
+
+ 2025 2026 Total future operating lease payments Less: Imputed interest ) Total operating lease liabilities Operating lease liabilities, current Operating lease liabilities, noncurrent Total operating lease liabilities 
+ 
+ 14. 
+ million as of September 30, 2024 and December 31, 2023. The Company tests goodwill for impairment at least annually, in the fourth quarter, or whenever events or changes in circumstances would more likely than not reduce the fair value of its single reporting unit below its carrying value. The Company did not record any goodwill impairment during the three or nine months ended September 30, 2024 and 2023. 
+ ) ) Customer relationships ) ) Tradenames ) ) Acquired intangible assets, net ) ) 
+ Sales, marketing and support Total amortization of acquired intangible assets 
+ 2025 Total expected future amortization expense 
+ 
+ 15. 
+ 15 
+
+Table of Contents 
+
+ See Note 16, Debt, for details regarding the fair value of the Company's convertible senior notes due 2026 (the 2026 Notes) and convertible senior notes due 2025 (the 2025 Notes, and together with the 2026 Notes, the Convertible Notes). 
+ 
+ 16. 
+ Less: Debt issuance costs ) ) ) ) ) ) Carrying amount, long-term debt 
+ Amortization of debt issuance costs Total interest expense 
+ 
+ Interest obligations on 2026 Notes (1) 
+ 2025 Notes Interest obligations on 2025 Notes (1) 
+ 
+ and per year, respectively. 
+ 16 
+
+Table of Contents 
+
+ . The Company recorded cash interest of million and amortization of debt issuance costs of million related to the 2026 Notes during each of the nine months ended September 30, 2024 and September 30, 2023. 
+ The effective interest rate of the 2025 Notes is . The Company recorded cash interest of million and million, and amortization of debt issuance costs of million and million related to the 2025 Notes during the nine months ended September 30, 2024 and September 30, 2023, respectively. 
+ The fair value of the 2026 Notes and 2025 Notes, which the Company has classified as Level 2 instruments, was million and million respectively, as of September 30, 2024. The fair value of the Convertible Notes is determined using observable market prices on the last business day of the period. 
+ Note Repurchases 
+ On August 21, 2024, the Company announced that it had entered into separate, privately negotiated repurchase transactions (collectively, the Repurchases with certain holders of the Company s outstanding 2025 Notes, pursuant to which the Company repurchased million aggregate principal amount of the 2025 Notes for an aggregate cash repurchase price of million, which included accrued and unpaid interest on such 2025 Notes. The Repurchases resulted in a million loss on extinguishment in the third quarter of 2024. 
+ Gains and losses on extinguishment are included within other income (expense), net on our condensed consolidated statements of operations and included as an adjustment to reconcile net loss to net cash provided by (used in) operating activities in our condensed consolidated statements of cash flows. 
+ The Company had previously entered into capped call transactions with certain financial institutions in connection with the issuance of the 2025 Notes. All of these transactions remain in effect notwithstanding the Repurchases. 
+ 
+ 17. 
+ 17 
+
+Table of Contents 
+
+ million. The Company determined that the gain was realizable and recognized a loss recovery of million as a credit to general and administrative expenses and a gain of million to other income in relation to this verdict during the second quarter of 2024. 
+ Tax Matters 
+ The Company is currently under audit in certain jurisdictions with regard to indirect tax matters. The Company establishes reserves for indirect tax matters when it determines that the likelihood of a loss is probable and the loss is reasonably estimable. Accordingly, the Company has established a reserve for the potential settlement of issues related to sales and other indirect taxes in the amount of million and million as of September 30, 2024 and December 31, 2023, respectively. These amounts, which represent management s best estimates of its potential liability, include potential interest and penalties of million and million as of September 30, 2024 and December 31, 2023, respectively. 
+ The Company does not believe that any ultimate liability resulting from any of these matters will have a material adverse effect on its business, consolidated financial position, results of operations or liquidity. However, the outcome of these matters is inherently uncertain. Therefore, if one or more of these matters were resolved against the Company for amounts in excess of management s expectations, the Company s financial statements, including in a particular reporting period in which any such outcome becomes probable and estimable, could be materially adversely affected. 
+ Indemnification 
+
+18. 
+ million of the Company s Class A common stock, which does not have an expiration date. During the nine months ended September 30, 2024, the Company repurchased shares of its Class A common stock for an aggregate amount of million, which includes amounts accrued for the 1 excise tax as a result of the Inflation Reduction Act of 2022. As of September 30, 2024, approximately million remained available and authorized for future repurchases. 
+ Equity Incentive Plans 
+ In August 2018, the 2018 Stock Option and Incentive Plan (2018 Plan) was adopted by the board of directors and approved by the stockholders and became effective in connection with the IPO. The 2018 Plan replaced the 2010 Stock Plan (2010 Plan) as the board of directors determined not to make additional awards under the 2010 Plan. The 2010 Plan will continue to govern outstanding equity awards granted thereunder. 
+ 18 
+
+Table of Contents 
+
+ percent of the number of shares of Class A and Class B common stock outstanding on the immediately preceding December 31, or a lesser number of shares as approved by the board of directors. 
+ As of September 30, 2024, there were and options issued and outstanding under the 2010 Plan and 2018 Plan, respectively (collectively, the Plans). As of September 30, 2024, shares of Class A common stock were available for grant under the 2018 Plan. 
+ Stock options granted typically vest over a period from the date of grant. Options awarded under the Plans are exercisable for up to . 
+ Stock Option Activity 
+ Canceled ) Balance as of September 30, 2024 Vested and exercisable as of September 30, 2024 Vested and expected to vest as of September 30, 2024 
+ The aggregate intrinsic value in the table above represents the difference between the fair value of Class A common stock and the exercise price of outstanding, in-the-money stock options at September 30, 2024. 
+ As of September 30, 2024, the total unrecognized stock-based compensation expense related to stock options outstanding was million, which will be recognized over a weighted-average period of years. There were options granted during the nine months ended September 30, 2024. 
+ Stock Award Activity 
+ Awarded Released ) Canceled ) Balance as of September 30, 2024 Vested and expected to vest as of September 30, 2024 
+ As of September 30, 2024, the total unrecognized stock-based compensation expense related to stock awards, was million, which will be recognized over a weighted-average period of years. 
+ Stock-based Compensation Expense 
+ 19 
+
+Table of Contents 
+
+ Product development Sales, marketing and support General and administrative Total 
+ million and million of stock-based compensation expense related to capitalized software costs during the three and nine months ended September 30, 2024, respectively, compared to million and million during the three and nine months ended September 30, 2023, respectively. 
+ 
+ 19.) ) ) ) Weighted-average shares used in computing earnings per share, basic and diluted Net loss per share, basic and diluted 
+ Stock options to purchase common stock Restricted stock units ESPP Total shares of potentially dilutive securities 
+ million shares and million shares, respectively, will have a dilutive impact on diluted net income per share of Class A common stock when the average market price of the Company s Class A common stock for a given period exceeds the conversion price of per share for the 2025 Notes and per share for the 2026 Notes. 
+ 
+ 20. 
+ million and million for the three and nine months ended September 30, 2024, respectively, compared to million and million for the three and nine months ended September 30, 2023, respectively. The increase was primarily attributable to insignificant non-routine tax expenses recorded during the prior year and changes in taxable earnings mix. 
+ The differences in the tax provision for the periods presented and the U.S. federal statutory rate is primarily due to foreign taxes in profitable jurisdictions and the recording of a full valuation allowance on the Company's net deferred tax assets. 
+ 
+ 20 
+
+Table of Contents 
+
+ 21. 
+ International Total net revenue 
+ Net revenue for the United Kingdom represented of the total consolidated net revenue for three months ended September 30, 2024. For the nine months ended September 30, 2024 and 2023, no individual country included in international net revenue represented more than 10 of the total consolidated net revenue. 
+ Substantially all of the Company's long-lived assets are located in the United States. 
+
+21 
+
+Table of Contents 
+
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our unaudited condensed consolidated financial statements and related notes appearing elsewhere in this Quarterly Report on Form 10-Q and with the audited financial statements included in the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2023 (2023 Form 10-K) filed with the United States Securities and Exchange Commission (SEC) on February 27, 2024. In addition to historical condensed consolidated financial information, the following discussion and analysis contains forward-looking statements that are based upon current plans, expectations and beliefs that involve risks and uncertainties. Our actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth under Risk Factors in our 2023 Form 10-K and this Quarterly Report on Form 10-Q. References herein to "Eventbrite," the "Company," "we," "us" or "our" refer to Eventbrite, Inc. and its subsidiaries, unless the context requires otherwise. 
+ 
+ Overview 
+ Eventbrite s mission is to bring the world together through live experiences. Since inception, we have been at the center of the experience economy, helping transform the way people discover and organize events. Our two-sided marketplace connects millions of creators and consumers every month to share their passions, artistry and causes through live experiences. Creators use our highly-scalable self-service ticketing and marketing tools to plan, promote and sell tickets to their events and event seekers use our website and mobile application to discover and purchase tickets to experiences they love. 
+ 
+ Key Business Metrics and Non-GAAP Financial Measures 
+ We monitor key metrics to help us evaluate our business, identify trends affecting our business, formulate business plans and make strategic decisions. In addition to revenue, net loss and other results under generally accepted accounting principles (GAAP), the following tables set forth key business metrics and non-GAAP financial measures we use to evaluate our business. We believe these metrics and measures are useful to facilitate period-to-period comparisons of our business performance. We believe that the use of Adjusted EBITDA is helpful to our investors as this metric is used by management in assessing the health of our business and our operating performance, making operating decisions, evaluating performance and performing strategic planning and annual budgeting. This measure is not prepared in accordance with GAAP and has limitations as an analytical tool, and you should not consider this in isolation or as substitutes for analysis of our results of operations as reported under GAAP. You are encouraged to evaluate the adjustments and the reasons we consider them appropriate. 
+ Paid Ticket Volume 
+ Paid ticket volume is measured by the number of tickets sold on our platform that generate ticket fees, referred to as paid ticket volume. We consider paid ticket volume an important indicator of the underlying health of the business. The table below sets forth the paid ticket volume for the periods indicated: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) Paid ticket volume 19,736 22,855 62,195 69,342 
+ Our paid ticket volume for events in the United States and outside of the United States was 59 and 41 in the three months and 60 and 40 , respectively, in the nine months ended September 30, 2024, compared to 60 and 40 in the three months and 61 and 39 , respectively, in nine months ended September 30, 2023. 
+ 
+ Adjusted EBITDA 
+ Adjusted EBITDA is a key performance measure that our management uses to assess our operating performance. Because Adjusted EBITDA facilitates internal comparisons of our historical operating performance on a more consistent basis, we use this measure for business planning purposes and in evaluating acquisition opportunities. We calculate Adjusted EBITDA as net loss adjusted to exclude depreciation and amortization, stock-based compensation expense, interest income, interest expense, employer taxes related to employee equity transactions, other (income) expense, net, and income tax provision. Adjusted EBITDA should not be considered as an alternative to net loss or any other measure of financial performance calculated and presented in accordance with GAAP. 
+ 22 
+
+Table of Contents 
+
+ The following table presents our Adjusted EBITDA for the periods indicated and a reconciliation of our Adjusted EBITDA to the most comparable GAAP measure, net loss, for each of the periods indicated: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) Net loss (1) 
+ (3,768) (9,935) (7,195) (25,542) Add: Depreciation and amortization 3,946 3,226 11,189 9,934 Stock-based compensation 10,246 14,468 39,484 41,161 Interest income (6,056) (7,569) (20,845) (19,948) Interest expense 2,084 2,821 7,690 8,359 Employer taxes related to employee equity transactions 97 273 889 832 Other (income) expense, net (1,420) 2,357 (3,892) 3,230 Income tax provision 208 762 1,266 1,832 Adjusted EBITDA 5,337 6,403 28,586 19,858 
+ (1) Restructuring related costs are included in Net Loss and Adjusted EBITDA. 
+ Some of the limitations of Adjusted EBITDA include (i) Adjusted EBITDA does not properly reflect capital spending that occurs off of the income statement or account for future contractual commitments, (ii) although depreciation and amortization are non-cash charges, the underlying assets may need to be replaced and Adjusted EBITDA does not reflect these capital expenditures and (iii) Adjusted EBITDA does not reflect the interest and principal required to service our indebtedness. Our Adjusted EBITDA may not be comparable to similarly titled measures of other companies because they may not calculate Adjusted EBITDA in the same manner as we calculate the measure, limiting its usefulness as a comparative measure. In evaluating Adjusted EBITDA, you should be aware that in the future we will incur expenses similar to the adjustments in this presentation. Our presentation of Adjusted EBITDA should not be construed as an inference that our future results will be unaffected by these expenses or any unusual or non-recurring items. When evaluating our performance, you should consider Adjusted EBITDA alongside other financial performance measures, including our net loss and other GAAP results. 
+ 23 
+
+Table of Contents 
+
+ Results of Operations 
+ The following tables set forth our condensed consolidated results of operations data and such data as a percentage of net revenue for the periods presented (in thousands): 
+ Condensed Consolidated Statements of Operations 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net revenue 77,801 81,544 248,604 238,370 Cost of net revenue 24,543 25,867 74,186 76,865 Gross profit 53,258 55,677 174,418 161,505 Operating expenses: Product development 22,586 23,041 75,327 73,091 Sales, marketing and support 23,694 21,063 69,084 53,802 General and administrative 15,930 23,137 52,983 66,681 Total operating expenses 62,210 67,241 197,394 193,574 Loss from operations (8,952) (11,564) (22,976) (32,069) Interest income 6,056 7,569 20,845 19,948 Interest expense (2,084) (2,821) (7,690) (8,359) Other income (expense), net 1,420 (2,357) 3,892 (3,230) Loss before income taxes (3,560) (9,173) (5,929) (23,710) Income tax provision 208 762 1,266 1,832 Net loss (3,768) (9,935) (7,195) (25,542) 
+ Condensed Consolidated Statements of Operations, as a percentage of net revenue 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net revenue 100 100 100 100 Cost of net revenue 32 32 30 32 Gross profit 68 68 70 68 Operating expenses: Product development 29 28 30 31 Sales, marketing and support 30 26 28 23 General and administrative 20 28 21 28 Total operating expenses 80 82 79 81 Loss from operations (12) (14) (9) (13) Interest income 8 9 8 8 Interest expense (3) (3) (3) (4) Other income (expense), net 2 (3) 2 (1) Loss before income taxes (5) (11) (2) (10) Income tax provision 1 1 1 Net loss (5) (12) (3) (11) 
+ 
+ Net Revenue 
+ We currently generate revenues primarily from service fees and payment processing fees from the sale of paid tickets on our platform. Our ticketing fee structure typically consists of a flat per ticket fee and a percentage of the price of each ticket sold by a creator. Revenue is recognized when control of promised goods or services is transferred to the creator, which is when the ticket is sold for service fees and payment processing fees. We also derive a portion of revenues from fees associated with advertising and other marketplace services. Net revenue excludes sales taxes and value-added taxes (VAT) and is presented net of estimated customer refunds, chargebacks and amortization of creator signing fees. 
+ 24 
+
+Table of Contents 
+
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands except percentages) Total net revenue 77,801 81,544 (3,743) (5) 248,604 238,370 10,234 4 
+ 
+ Net revenue decreased during the three months ended September 30, 2024 compared to the three months ended September 30, 2023 primarily due to a decrease in ticketing revenue due to a lower paid ticket volume. Revenue for the three months ended September 30, 2024 also reflects changes to organizer fees, including the discontinuation of the Flex plan and a reduction to Pro plan pricing. 
+ Net revenue increased during the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 primarily due to an increase in marketplace revenue, which consisted of organizer fees launched in June 2023 and advertising services. This increase was offset by a decrease in ticketing revenue due to a lower paid ticket volume. 
+ Cost of Net Revenue 
+ Cost of net revenue consists of variable costs related to payment processing fees and fixed costs related to making our platform generally available. Our fixed costs consist primarily of expenses associated with the operation and maintenance of our platform, including website hosting fees and platform infrastructure costs, amortization of capitalized software development costs, on-site operations costs and customer support costs. Cost of net revenue also includes the amortization expense related to our acquired developed technology assets, which may be incurred in future periods related to future acquisitions. 
+ Generally, we expect cost of net revenue to fluctuate as a percentage of net revenue in the near- to mid-term primarily driven by the fixed costs absorption relative to total net revenue and our geographical revenue mix. Our payment processing costs for credit and debit card payments are generally lower outside of the United States due to a number of factors, including lower card network fees and lower cost alternative payment networks. Consequently, if we generate more revenue internationally, we expect that our overall payment processing costs will decline as a percentage of total revenue. As our total net revenue increases or decreases and our fixed costs are unaffected, our cost of net revenue as a percentage of net revenue will similarly fluctuate. 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands except percentages) Cost of net revenue 24,543 25,867 (1,324) (5) 74,186 76,865 (2,679) (3) Percentage of total net revenue 32 32 30 32 Gross margin 68 68 70 68 
+ Cost of net revenue decreased during the three and nine months ended September 30, 2024 compared to the three and nine months ended September 30, 2023 primarily due to reduced processing fees and lower personnel costs due to the 2023 restructuring. 
+ Our gross margin remained consistent during the three months ended September 30, 2024 compared to the three months ended September 30, 2023. Our gross margin improved during the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 primarily due to higher margin attributed to marketplace revenue streams. 
+ 25 
+
+Table of Contents 
+
+ Operating Expenses 
+ Operating expenses consist of product development, sales, marketing and support and general and administrative expenses. Direct and indirect personnel costs, including stock-based compensation expense, are the most significant recurring component of operating expenses. 
+ As our total net revenue increases or decreases, to the extent our operating expenses are not equally affected, our operating expenses as a percentage of net revenue will similarly fluctuate. 
+ Product development 
+ Product development expenses consist primarily of employee-related costs including salaries, bonuses, benefits and stock-based compensation, and third-party infrastructure expenses incurred in developing our platform including software subscription costs. Generally, we expect our product development expenses to increase in absolute dollars as we focus on enhancing and expanding the capabilities of our platform. Our product development expenses remained generally consistent year-over-year as a percentage of net revenue. 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands except percentages) Product development 22,586 23,041 (455) (2) 75,327 73,091 2,236 3 Percentage of total net revenue 29 28 30 31 
+ Product development expenses remained generally consistent during the three months ended September 30, 2024 compared to the three months ended September 30, 2023, primarily driven by costs during the period associated with the reduction in force, offset by adjustments to our full-year compensation expense. 
+ Product development expenses increased during the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 primarily due to increased employee related costs, including stock-based compensation, due to headcount growth in our product development and engineering organization as we continue to focus our investment in building the functionality, scalability and security of our platform. 
+ Sales, marketing and support 
+ Sales, marketing and support expenses consist primarily of costs associated with our employees involved in selling and marketing our products and in public relations and communication activities, in addition to marketing programs spend. For our sales teams, this also includes commissions. Sales, marketing and support expenses are driven by investments to grow and retain creators and attendees on our platform, and improve the customer experience. Additionally, we classify certain creator-related expenses, including instances in which we issue refunds to consumers on behalf of creators and reserves for estimated advance payout losses, as sales, marketing and support expenses. 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands except percentages) Sales, marketing and support 23,694 21,063 2,631 12 69,084 53,802 15,282 28 Percentage of total net revenue 30 26 28 23 
+ Sales, marketing and support expenses remained generally consistent during the three months ended September 30, 2024 compared to the three months ended September 30, 2023, primarily due to an increase to the chargeback reserve and refunds to consumers issued by the company due to greater chargeback and fraud activity, offset by a decrease in advertising spend and adjustments to our full-year compensation expense. 
+ Sales, marketing and support expenses increased during the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023, primarily driven by changes in reserves, including a 8.6 million increase due to greater chargeback and fraud activity and a 4.7 million change to our advanced payouts reserve compared to the prior year. The increase also included an increase in employee related costs, including stock-based compensation, offset by a decrease in advertising spend and restructuring costs. 
+ 26 
+
+Table of Contents 
+
+ General and administrative 
+ General and administrative expenses consist of personnel costs, including stock-based compensation, and professional fees for finance, accounting, legal, risk, human resources and other corporate functions. Our general and administrative expenses also include accruals for sales and business taxes, as well as reserves and impairment charges related to creator upfront payments. Over the long-term, we anticipate general and administrative expenses to decline as a percentage of net revenue as we expect to grow our net revenues and scale our business. 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands except percentages) General and administrative 15,930 23,137 (7,207) (31) 52,983 66,681 (13,698) (21) Percentage of total net revenue 20 28 21 28 
+ General and administrative expenses decreased during the three and nine months ended September 30, 2024 compared to the three and nine months ended September 30, 2023, primarily due to decreased personnel costs, including stock-based compensation, as a result of adjustments to our full-year compensation expense during the period and our workforce reductions in the third quarter of 2024 and first quarter of 2023. 
+ Interest Income 
+ Interest income consists primarily of interest earned on our cash, cash equivalents, marketable securities and amounts held on behalf of customers. 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands except percentages) Interest income 6,056 7,569 (1,513) (20) 20,845 19,948 897 4 Percentage of total net revenue 8 9 8 8 
+ Interest income decreased during the three months ended September 30, 2024 compared to the three months ended September 30, 2023, primarily due to a lower balance of short-term investments in U.S. Treasury bills. 
+ Interest income increased during the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023, primarily due to higher interest rates in the current year. 
+ Interest Expense 
+ In March 2021, we issued 212.75 million aggregate principal amount of the 2026 Notes and in June 2020, we issued 150.0 million aggregate principal amount of the 2025 Notes. 
+ Interest expense consists primarily of cash interest expense, amortization of debt discount, and issuance costs on our Convertible Notes. 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands except percentages) Interest expense 2,084 2,821 (737) (26) 7,690 8,359 (669) (8) Percentage of total net revenue 3 3 3 4 
+ Interest expense decreased for the three and nine months ended September 30, 2024 compared to the three and nine months ended September 30, 2023, due to the repurchase of 120 million aggregate principal amount of the 2025 Notes during August 2024. 
+ Other Income (Expense), Net 
+ Other income (expense), net consists primarily of foreign exchange rate remeasurement gains and losses recorded from consolidating our subsidiaries each period-end. 
+ 27 
+
+Table of Contents 
+
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands except percentages) Other income (expense), net 1,420 (2,357) 3,777 160 3,892 (3,230) 7,122 220 Percentage of total net revenue 2 (3) 2 (1) 
+ Other income increased during the three and nine months ended September 30, 2024 compared to the three and nine months ended September 30, 2023, driven by foreign currency rate measurement fluctuations and a 3.9 million gain awarded from a litigation settlement in June 2024. 
+ Income Tax Provision 
+ Income tax provision consists primarily of U.S. federal and state income taxes and income taxes in certain foreign jurisdictions in which we conduct business. The differences in the tax provision for the periods presented and the U.S. federal statutory rate is primarily due to foreign taxes in profitable jurisdictions and the recording of a full valuation allowance on our deferred tax assets in certain jurisdictions including the United States. The computation of the provision for income taxes for interim periods is determined by applying the estimated annual effective tax rate to year-to-date earnings from recurring operations and adjusting for discrete tax items recorded in the period. 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (in thousands except percentages) Income tax provision 
+ 208 762 (554) (73) 1,266 1,832 (566) (31) Percentage of total net revenue 1 1 1 
+ The decrease in provision for income taxes for the three and nine months ended September 30, 2024 compared to the three and nine months ended September 30, 2023 was primarily attributable to insignificant non-routine tax expenses recorded during both years and changes in taxable earnings mix. 
+
+Liquidity and Capital Resources 
+ As of September 30, 2024, we had cash and cash equivalents of 531.0 million, short-term investments of 24.7 million and funds receivable of 30.2 million. Our cash and cash equivalents include bank deposits, U.S. Treasury bills and money market funds held by financial institutions. Our short-term investment portfolio, which consists of U.S. Treasury bills, is designed to preserve principal and provide liquidity. Our funds receivable represents cash-in-transit from credit card processors that is received to our bank accounts within five business days of the underlying ticket transaction. As of September 30, 2024, approximately 25 of our cash was held outside of the United States. We do not expect to incur significant taxes related to these amounts. The cash was held primarily to fund our foreign operations and on behalf of, and to be remitted to, creators. Collectively, our cash and cash equivalents balances represent a mix of cash that belongs to us and cash that is due to creators. 
+ The amounts due to creators, which were 355.1 million as of September 30, 2024, are captioned on our condensed consolidated balance sheets as accounts payable, creators. These ticketing proceeds are legally unrestricted, and we invest a portion of creator cash in U.S. Treasury bills with original maturities less than one year. For qualified creators, we pass ticket sales proceeds to the creator prior to the event, subject to certain limitations. Internally, we refer to these payments as advance payouts. When we provide advance payouts, we assume risk that the event may be canceled, fraudulent or materially not as described, resulting in significant chargebacks and refund requests. The terms of our standard merchant agreement obligate creators to repay us for ticket sales advanced under such circumstances. If the creator is insolvent, has spent the proceeds of the ticket sales for event-related costs, has canceled the event, or has engaged in fraudulent activity, we may not be able to recover our advance payout losses from these events. Such unrecoverable amounts could equal up to the value of the ticket sales or amounts settled to the creator prior to the event that has been postponed or canceled or is otherwise disputed. We record estimates for losses related to chargebacks and refunds based on various factors, including the amounts paid and outstanding to creators in conjunction with the advance payout program, macroeconomic conditions, and actual chargeback and refund activity trends. Due to the nature of macroeconomic events, including but not limited to shifts in consumer behavior, inflation, increased labor costs, and increased interest rates, there is uncertainty around these reserves and our actual losses could be materially different from our current estimates. We will adjust our recorded reserves in the future to reflect our best estimates of future outcomes, and we may pay in cash a portion of, all of, or a greater amount than the 9.1 million provision recorded as of September 30, 2024. 
+ 28 
+
+Table of Contents 
+
+ In June 2020, we issued the 2025 Notes, and in March 2021, we issued the 2026 Notes. The 2025 Notes mature on December 1, 2025 and the 2026 Notes mature on September 15, 2026. Under certain circumstances, holders may surrender their notes of a series for conversion prior to the applicable maturity date. Upon conversion, the notes may be settled in cash, shares of Class A common stock, or a combination of cash and shares of Class A common stock, at our election. During the third quarter of 2024, we entered into separately, privately negotiated Repurchases, pursuant to which we repurchased 120 million aggregate principal amount of the 2025 Notes. See Note 16, "Debt", for details regarding the Repurchases. 
+ On March 14, 2024, we announced that our board of directors approved a share repurchase program with authorization to purchase up to 100.0 million of the Company s Class A common stock, which does not have an expiration date. Through September 30, 2024, we repurchased 7,243,283 shares of our Class A common stock for an aggregate amount of 39.4 million. As of September 30, 2024, approximately 60.7 million remained available and authorized for future repurchases. 
+ We believe that our existing cash, together with cash generated from operations, will be sufficient to meet our anticipated cash needs for at least the next 12 months. However, our liquidity assumptions may prove to be incorrect, and we could exhaust our available financial resources sooner than we currently expect. 
+ Cash Flows 
+ Our cash flow activities were as follows for the periods presented: 
+ Nine Months Ended September 30, 2024 2023 (in thousands) Net cash provided by (used in): Operating activities 85,628 101,800 Investing activities 124,644 (68,516) Financing activities (166,129) (3,990) Effect of exchange rate changes on cash, cash equivalents and restricted cash (2,386) (925) Net increase in cash, cash equivalents and restricted cash 
+ 41,757 28,369 
+ 
+ Comparison of Nine Months Ended September 30, 2024 and 2023 
+ Cash Flows from Operating Activities 
+ The net cash provided by operating activities of 85.6 million for the nine months ended September 30, 2024 was primarily due to our net loss of 7.2 million, adjusted for non-cash charges of 66.8 million primarily driven by stock-based compensation expense, and changes in our operating assets and liabilities that used 26.0 million in cash, primarily driven by timing of accounts payable to creators and funds receivable. 
+ The net cash provided by operating activities of 101.8 million for the nine months ended September 30, 2023 was primarily due to our net loss of 25.5 million, adjusted for non-cash charges of 62.2 million primarily driven by stock-based compensation expense and changes to our operating assets and liabilities that provided 65.1 million in cash, primarily driven by timing of accounts payable to creators and funds receivable. 
+ Cash Flows from Investing Activities 
+ Net cash provided by investing activities of 124.6 million for the nine months ended September 30, 2024 primarily consisted of 269.0 million maturity of short-term investments, offset by 136.8 million in purchases of short-term investments. 
+ Net cash used in investing activities of 68.5 million for the nine months ended September 30, 2023 primarily consisted of 273.7 million in purchases of short-term investments, offset by a 211.0 million maturity of short-term investments. 
+ Cash Flows from Financing Activities 
+ Net cash used in financing activities of 166.1 million during the nine months ended September 30, 2024 was primarily due to the 120.5 million repurchase of the 2025 Notes, 39.3 million repurchase of our Class A common stock and 6.8 million in taxes paid related to net share settlement of equity awards. 
+ 29 
+
+Table of Contents 
+
+ Net cash used in financing activities of 4.0 million during the nine months ended September 30, 2023 was primarily due to 5.5 million in taxes paid related to net share settlement of equity awards, offset by 0.9 million in proceeds from the exercise of stock options. 
+ Effect of exchange rate changes on cash, cash equivalents and restricted cash 
+ The effect of exchange rate changes on cash, cash equivalents and restricted cash on our condensed consolidated statements of cash flows relates to certain of our assets, primarily cash balances held on behalf of creators that are denominated in currencies other than the functional currency. These cash assets held for creators are directly offset by a corresponding liability to creators. During the nine months ended September 30, 2024 and September 30, 2023, we recorded a 2.4 million and 0.9 million decrease in cash, cash equivalents and restricted cash, respectively, primarily due to the strengthening of the U.S. dollar. The impact of the effect of exchange rate changes are primarily attributed to creator cash balances, which can serve as a natural hedge for the effect of exchange rates on accounts payable, creators presented within operating activities. 
+ 
+ Contractual Obligations and Commitments 
+ Our principal commitments consist of obligations under the Convertible Notes (including principal and coupon interest) and operating leases for office space, as well as non-cancellable purchase commitments. See Note 17, "Commitments and Contingencies" to our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q for additional information. 
+ Off-Balance Sheet Arrangements 
+ We do not currently have any off-balance sheet arrangements and did not have any such arrangements as of September 30, 2024. 
+ 
+ Critical Accounting Policies and Estimates 
+ Our unaudited condensed consolidated financial statements are prepared in accordance with U.S. GAAP. The preparation of these unaudited condensed consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue and expenses, and related disclosures. Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances, and we evaluate our estimates and assumptions on an ongoing basis. We are not aware of any specific event or circumstance that would require an update to our estimates or assumptions or a revision of the carrying value of assets or liabilities as of the date of filing of this Quarterly Report on Form 10-Q. These estimates and assumptions may change in the future, however, as new events occur and additional information is obtained. Our actual results could differ from these estimates. 
+ Our significant accounting policies are discussed in the "Notes to Consolidated Financial Statements, Note 2 "Significant Accounting Policies" in the 2023 Form 10-K. There have been no significant changes to these policies that have had a material impact on our unaudited condensed consolidated financial statements and related notes. 
+ 30 
+
+Table of Contents 
+
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ Interest Rate Sensitivity 
+ We are exposed to market risk for changes in interest rates related primarily to balances of our financial instruments including cash and cash equivalents and short-term investments. As of September 30, 2024, we had cash and cash equivalents of 531.0 million and short-term investments of 24.7 million, which consisted primarily of money market funds and U.S. Treasury bills. The primary objective of our investment approach is to preserve capital principal and provide liquidity. Our primary exposure to market risk is interest income sensitivity, which is affected by changes in the general level of interest rates in the United States. A 10 change in the level of market interest rates would not have a material effect on our business, financial conditions or results of operations. In addition, our Convertible Notes are subject to fixed annual interest charges. These Convertible Notes therefore are not exposed to financial or economic risk associated with changes in interest rates. However, the fair value of these Convertible Notes may fluctuate when interest rates change or can be affected when the market price of our Class A common stock fluctuates. We carry the Convertible Notes at face value less unamortized issuance cost on our balance sheet, and we present the fair value for required disclosure purposes only. 
+ Foreign Currency Risk 
+ Many creators live or operate outside the United States, and therefore, we have significant ticket sales denominated in foreign currencies, most notably the British Pound, Euro, Canadian Dollar and Australian Dollar. Our international revenue, as well as costs and expenses denominated in foreign currencies, expose us to the risk of fluctuations in foreign currency exchange rates against the U.S. dollar. Accordingly, we are subject to foreign currency risk, which may adversely impact our financial results. The functional currency of our international subsidiaries is the U.S. dollar. Movements in foreign exchange rates are recorded in other income (expense), net in our consolidated statements of operations. We have experienced and will continue to experience fluctuations in foreign exchange gains and losses related to changes in exchange rates. If our foreign-currency denominated assets, liabilities, revenues or expenses increase, our results of operations may be more significantly impacted by fluctuations in the exchange rates of the currencies in which we do business. A 10 increase or decrease in individual currency exchange rates would not have a material impact on our consolidated results of operations. 
+ 
+ Item 4. Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ Our management, with the participation of the principal executive officer and principal financial officer, conducted an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, as of the end of the period covered by this report. 
+ Based on that evaluation, our principal executive officer and principal financial officer concluded that, as of September 30, 2024, our disclosure controls and procedures were effective to provide reasonable assurance that the information required for disclosure in reports filed or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in SEC rules and forms, and that such information is accumulated and communicated to Company management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosures. 
+ Changes in Internal Control Over Financial Reporting 
+ There have been no changes in our internal control over financial reporting, as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act, that occurred during the quarter ended September 30, 2024 which have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ Inherent Limitations on Effectiveness of Disclosure Controls and Procedures 
+ In designing and evaluating the disclosure controls and procedures and internal control over financial reporting, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures and internal control over financial reporting must reflect the fact that there are resource constraints and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs. 
+ 31 
+
+Table of Contents 
+
+ PART II. OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings 
+ See Note 17, "Commitments and Contingencies" to our unaudited condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q. 
+
+Item 1A. Risk Factors 
+ There have been no material changes from the risk factors set forth in Part I, Item 1A, of our 2023 Form 10-K, except for the following risk factors which supplement the risk factors previously disclosed and should be considered in conjunction with the risk factors set forth in the 2023 Form 10-K. You should carefully consider the risks and uncertainties described in the 2023 Form 10-K, together with all of the other information in the 2023 Form 10-K and this Quarterly Report on Form 10-Q, including the section titled Management s Discussion and Analysis of Financial Condition and Results of Operations and our unaudited condensed consolidated financial statements and related notes, and other documents that we file with the U.S. Securities and Exchange Commission. The risks and uncertainties described in the 2023 10-K and this Quarterly Report on Form 10-Q may not be the only ones we face. If any of the risks actually occur, our business, results of operations, financial condition and prospects could be harmed. In that event, the market price of our Class A common stock could decline, and you could lose part or all of your investment. 
+ The pricing and composition of our packages may affect our ability to attract or retain creators. 
+ Our event creators can select from different pricing packages based on the features required, service level desired and budget. We assess the pricing and composition of our pricing packages based on prior experience, feedback from creators and data insights, and we periodically adjust the pricing and composition of our packages, and may periodically adjust the structure of our pricing model. 
+ In early 2023, we raised ticketing fees for the first time in five years, and we have implemented pricing increases since January 2023 to reflect enhanced product features. We plan to continue making changes to our pricing structure from time to time. 
+ In June 2023, we introduced a new pricing model which introduced new plans, fee types and subscription packages for event creators, which may include an organizer fee to creators in order to publish an event on the Eventbrite marketplace. In September 2024, we updated our pricing model to remove upfront fees, enabling creators to publish unlimited events of any size on Eventbrite. Creators who would like a broader set of marketing features are still able to opt into a subscription package to access our all-in-one marketing suite and enhanced customer support. Despite returning to a free to publish model, we may be unable to win back the business of departed creators, attract new creators or retain existing creators if we are unable to regain creators trust and demonstrate the value of our marketplace. 
+ Although events of all sizes can now be published for free in our marketplace, our business will still depend, in part, on creators selecting and renewing subscription plans with us. Creators who opt into our subscription programs have no obligation to renew their subscriptions, and it is difficult to accurately predict long-term customer retention. If we are unable to provide subscription-based creators with the services and products they expect, we might be unable to retain or grow our subscriber base and thus adversely affect our subscription-based revenues. Additionally, changes to our pricing model and package composition, or our inability to effectively or competitively price our packages and solutions, could harm our business, financial condition and results of operations and impact our ability to predict our future performance. 
+ Some creators rely on our third-party distribution partners, such as Meta, Bandsintown and TikTok to connect with and attract consumers and we depend on this network of distribution partners to reach consumers. 
+ Our platform enables the sale and distribution of event tickets through select third-party platforms, such as Meta, Bandsintown and TikTok. Creators are able to publicize their events and sell tickets through these third-party platforms, and these distribution partnerships enable consumers to discover Eventbrite events on other platforms where they spend time. This dynamic enables creators to reach more consumers and makes our platform more appealing to creators looking to grow their audiences. These third-party distribution partners have in the past, and may in the future, terminate their relationship with us, fail to maintain integrations, limit certain integration functionality, change their treatment of our services, restrict access to their platform by creators or consumers, or change their algorithms or consumer experience at any time, thereby impacting the business performance of Eventbrite and its creators. For example, in late 2023, Meta discontinued its Facebook native ticketing product. This means that consumers are no longer able to buy tickets to Eventbrite events directly on Facebook, rather they can continue buying Eventbrite tickets through a clickout experience. If any such third-party services become incompatible with our 
+ 32 
+
+Table of Contents 
+
+ platform or the use of our platform and solutions on such third-party platforms are restricted in the future, our business may be harmed. 
+ In addition, to the extent that Google, or other leading large technology companies that have a significant presence in our key markets disintermediate ticketing or event management providers, whether by offering their own comprehensive event-focused or shopping capabilities, or by referring leads to suppliers, other favored partners or themselves directly, there could be harm to our business, financial condition and results of operations. 
+ We rely on the experience and expertise of our senior management team, key technical employees and other highly skilled personnel and the failure to retain, motivate or integrate any of these individuals could have an adverse effect on our business, financial condition and results of operations. 
+ Our success depends upon the continued service of our senior management team and key technical employees, as well as our ability to continue to attract and retain additional highly qualified personnel. Our future success depends on our continuing ability to identify, hire, develop, motivate, retain and integrate highly skilled personnel for all areas of our organization. Each of our employees could terminate his or her relationship with us at any time. The loss of any member of our senior management team or key personnel might significantly delay or prevent the achievement of our business objectives and could harm our business and our relationships. Competition in our industry for qualified employees is intense. 
+ To execute on our business strategy, we must attract and retain highly qualified personnel. We have had difficulty filling certain open positions in the past. We recently implemented a reduction in force that eliminated approximately 11 of our workforce, and this action may hurt our employer brand and make it more difficult to hire employees in the future. We face significant competition for personnel, specifically for engineers experienced in designing and developing cloud-based platform products. 
+ Many of the companies with which we compete for experienced personnel have greater resources than we have, and we have had to offer, and believe we will need to continue to offer, increasingly competitive compensation and benefits packages. In addition, prospective and existing employees often consider the value of the equity awards they receive in connection with their employment. If there is limited upside to the value of our equity awards, it may adversely affect our ability to recruit and retain key employees, and some of our existing employees have option awards that are priced at below our current stock price. Further, we may need to increase our employee compensation levels in response to competition, labor market conditions, rising inflation or labor shortages, which would increase our operating expenses and reduce our margins. We may not be able to hire new employees quickly enough to meet our needs, including as a result of labor market shortages. New hires require training and take time before they achieve full productivity and may not become as productive as we expect. This may be more difficult given our shift to a flexible work from home model. If we fail to effectively manage our hiring needs or successfully integrate new hires, our efficiency and ability to meet forecasts, as well as our employee morale, productivity and retention, could suffer, which may harm our business, financial condition and results of operations. 
+ We cannot guarantee that our share repurchase program will be utilized to the full value approved or that it will enhance long-term stockholder value. 
+ Our board of directors has authorized management to repurchase shares of our Class A common stock at management s discretion. Share repurchases may be made through a variety of methods, which may include open market purchases, privately negotiated transactions, block trades or accelerated share repurchase transactions or by any combination of such methods. Any such repurchases will be made from time to time subject to market and economic conditions, applicable legal requirements and other relevant factors. The manner, timing and amount of any share repurchases may fluctuate and will be determined by us based on a variety of factors, including the market price of our Class A common stock, our priorities for the use of cash to support our business operations and plans, general business and market conditions, tax laws, and alternative investment opportunities, all of which may be further impacted by macroeconomic conditions and factors, including rising interest rates, and inflation, global conflicts, and public health crises. Our share repurchase program authorization does not have an expiration date nor does it obligate us to acquire any specific number or dollar value of shares. Our share repurchase programs may be modified, suspended or terminated at any time, which may result in a decrease in the trading prices of our Class A common stock. Additionally, the Inflation Reduction Act of 2022 introduced a 1 excise tax on share repurchases, which increases the costs associated with repurchasing shares of our Class A common stock. Even if our share repurchase program is fully implemented, it may not enhance long-term stockholder value or may not prove to be the best use of our cash. Share repurchases could have an impact on our share trading prices, increase the volatility of the price of our Class A common stock, or reduce our available cash balance such that we will be required to seek financing to support our operations. 
+ 33 
+
+Table of Contents 
+
+ Item 2. Unregistered Sales of Equity Securities, Use of Proceeds, and Issuer Purchases of Equity Securities 
+ Unregistered Sales of Equity Securities 
+ There were no sales of unregistered equity securities during the three months ended September 30, 2024. 
+ Issuer Purchases of Equity Securities 
+ The table below provides information regarding our share repurchases during the three months ended September 30, 2024: 
+ Period 
+ Total Number of Shares Purchased Average Price Paid per Share 
+ Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs 
+ Approximate Dollar Value of Shares that May Yet be Purchased Under the Plans or Programs 
+ (in thousands) (1) 
+ July 1, 2024 - July 31, 2024 455,314 4.94 7,243,283 60,704 August 1, 2024 - August 31, 2024 7,243,283 60,704 September 1, 2024 - September 30, 2024 7,243,283 60,704 Total 
+ 455,314 4.94 7,243,283 60,704 
+ (1) On March 14, 2024, we announced that our board of directors had approved a share repurchase program with authorization to purchase up to 100 million of our Class A common stock (the Share Repurchase Program). The Share Repurchase Program does not obligate us to repurchase any specific number of shares, has no expiration date or time limit and may be modified, suspended or discontinued at any time at our discretion. 
+
+Item 3. Defaults Upon Senior Securities. 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures. 
+ Not applicable. 
+ 
+ Item 5. Other Information 
+ Director and Officer 10b5-1 Trading Plans (10b5-1 Plans) 
+ There were no written trading arrangements under Rule 10b5-1 that were , or modified by our directors or officers during the three months ended September 30, 2024. 
+ There were no "non-Rule 10b5-1 trading arrangements," as defined in item 408(c) of Regulation S-K, , or modified by our directors or officers during the three months ended September 30, 2024. 
+ 34 
+
+Table of Contents 
+
+ Item 6. Exhibits 
+ The exhibits listed on the accompanying Exhibit Index are filed or incorporated by reference as part of this Quarterly Report on Form 10-Q. 
+ 
+ Exhibit Index 
+ Description of Exhibits Incorporated by Reference Exhibit Number Form Exhibit Number Date Filed 3. 1 
+ Amended and Restated Certificate of Incorporation. 
+ S-1/A 3.2 August 28, 2018 3. 2 
+ Certificate of Amendment to Amended and Restated Certificate of Incorporation 
+ 8-K 3.1 June 12, 2024 3. 3 
+ Second Amended and Restated Bylaws. 
+ 8-K 3.1 December 21, 2022 4.1 
+ Form of Class A Common Stock Certificate. 
+ S-1/A 4.1 September 7, 2018 10.1# 
+ Form of Incentive Stock Option Agreement 
+ Filed herewith 10.2# 
+ Form of Non-Qualified Stock Option Agreement 
+ Filed herewith 10.3# 
+ Form of Global Restricted Stock Unit Award Agreement 
+ Filed herewith 31.1 
+ Certification of the Principal Executive Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ Filed herewith 31.2 
+ Certification of the Principal Financial Officer pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ Filed herewith 32.1 
+ Certification of the Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ Filed herewith 101.INS Inline XBRL Instance Document Filed herewith 101.SCH Inline XBRL Taxonomy Extension Schema Document Filed herewith 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document Filed herewith 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document Filed herewith 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document Filed herewith 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document Filed herewith 104 Cover Page Interactive Data File (formatted in Inline XBRL and contained in Exhibit 101) Filed herewith 
+ 
+ # Indicates compensatory plan 
+ The certifications furnished in Exhibit 32.1 hereto are deemed to accompany this Quarterly Report on Form 10-Q and will not be deemed "filed" for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, except to the extent that the registrant specifically incorporates it by reference. 
+ 
+ 35 
+
+Table of Contents 
+
+ Signatures 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ 
+ Eventbrite, Inc. November 7, 2024 By: /s/ Julia Hartz Julia Hartz Chief Executive Officer (Principal Executive Officer) November 7, 2024 By: /s/ Charles Baker Charles Baker Chief Operating and Financial Officer (Principal Accounting and Financial Officer) 
+ 
+ 36 
+
+<EX-10.1>
+ 2
+ formofincentivestockoption.htm
+ EX-10.1
+
+Document 
+
+INCENTIVE STOCK OPTION AGREEMENT UNDER THE EVENTBRITE, INC. 2018 STOCK OPTION AND INCENTIVE PLAN 
+ The Optionee has been granted the following option to purchase shares of the Stock of Eventbrite, Inc. 
+ Name of Optionee FIRST_NAME - LAST_NAME - 
+ Number of Option Shares TOTAL_SHARES_GRANTED,'999,999,999' - 
+ Exercise Price per Share OPTION_PRICE, 999,999.99 - (110 of a FMV if a 10 Owner) 
+ Grant Date OPTION_DATE, Month DD, YYYY - 
+ Vesting Commencement Date VEST_BASE_DATE, Month DD, YYYY - 
+ Expiration Date EXPIRE_DATE_PERIOD1, Month DD, YYYY - 
+ Pursuant to the Eventbrite, Inc. 2018 Stock Option and Incentive Plan as amended through the date hereof (the Plan ), Eventbrite, Inc. (the Company hereby grants to the Optionee named above an option (the Stock Option to purchase on or prior to the Expiration Date specified above all or part of the number of shares of Class A Common Stock, par value 0.00001 per share (the Stock ), of the Company specified above at the Option Exercise Price per Share specified above subject to the terms and conditions set forth herein and in the Plan. 
+ 1. Exercisability Schedule . No portion of this Stock Option may be exercised until such portion shall have become exercisable. Except as set forth below, and subject to the discretion of the Administrator (as defined in Section 2 of the Plan) to accelerate the exercisability schedule hereunder, this Stock Option shall be exercisable with respect to the following number of Option Shares on the dates indicated so long as the Optionee remains an employee of the Company or a Subsidiary on such dates, provided, that t he Administrator shall have the exclusive discretion to determine how a leave of absence or other similar change or purported change in a Optionee s employment status affects the Stock Option 
+ 
+ Exercisability Date 
+ Incremental Number of Options Exercisable 
+ VEST_DATE_PERIOD1, Month DD, YYYY - 
+ SHARES_PERIOD1, 999,999,999 - 
+ VEST_DATE_PERIOD2, Month DD, YYYY - 
+ SHARES_PERIOD2, 999,999,999 - 
+ VEST_DATE_PERIOD3, Month DD, YYYY - 
+ SHARES_PERIOD3, 999,999,999 - 
+
+VEST_DATE_PERIOD4, Month DD, YYYY - 
+ SHARES_PERIOD4, 999,999,999 - 
+ VEST_DATE_PERIOD5, Month DD, YYYY - 
+ SHARES_PERIOD5, 999,999,999 - 
+ VEST_DATE_PERIOD6, Month DD, YYYY - 
+ SHARES_PERIOD6, 999,999,999 - 
+ VEST_DATE_PERIOD7, Month DD, YYYY - 
+ SHARES_PERIOD7, 999,999,999 - 
+ VEST_DATE_PERIOD8, Month DD, YYYY - 
+ SHARES_PERIOD8, 999,999,999 - 
+ VEST_DATE_PERIOD9, Month DD, YYYY - 
+ SHARES_PERIOD9, 999,999,999 - 
+ VEST_DATE_PERIOD10, Month DD, YYYY - 
+ SHARES_PERIOD10, 999,999,999 - 
+ VEST_DATE_PERIOD11, Month DD, YYYY - 
+ SHARES_PERIOD11, 999,999,999 - 
+ VEST_DATE_PERIOD12, Month DD, YYYY - 
+ SHARES_PERIOD12, 999,999,999 - 
+ VEST_DATE_PERIOD13, Month DD, YYYY - 
+ SHARES_PERIOD13, 999,999,999 - 
+ VEST_DATE_PERIOD14, Month DD, YYYY - 
+ SHARES_PERIOD14, 999,999,999 - 
+ VEST_DATE_PERIOD15, Month DD, YYYY - 
+ SHARES_PERIOD15, 999,999,999 - 
+ VEST_DATE_PERIOD16, Month DD, YYYY - 
+ SHARES_PERIOD16, 999,999,999 - 
+ VEST_DATE_PERIOD17, Month DD, YYYY - 
+ SHARES_PERIOD17, 999,999,999 - 
+ VEST_DATE_PERIOD18, Month DD, YYYY - 
+ SHARES_PERIOD18, 999,999,999 - 
+ VEST_DATE_PERIOD19, Month DD, YYYY - 
+ SHARES_PERIOD19, 999,999,999 - 
+ VEST_DATE_PERIOD20, Month DD, YYYY - 
+ SHARES_PERIOD20, 999,999,999 - 
+ VEST_DATE_PERIOD21, Month DD, YYYY - 
+ SHARES_PERIOD21, 999,999,999 - 
+ VEST_DATE_PERIOD22, Month DD, YYYY - 
+ SHARES_PERIOD22, 999,999,999 - 
+ VEST_DATE_PERIOD23, Month DD, YYYY - 
+ SHARES_PERIOD23, 999,999,999 - 
+ VEST_DATE_PERIOD24, Month DD, YYYY - 
+ SHARES_PERIOD24, 999,999,999 - 
+ VEST_DATE_PERIOD25, Month DD, YYYY - 
+ SHARES_PERIOD25, 999,999,999 - 
+ VEST_DATE_PERIOD26, Month DD, YYYY - 
+ SHARES_PERIOD26, 999,999,999 - 
+ VEST_DATE_PERIOD27, Month DD, YYYY - 
+ SHARES_PERIOD27, 999,999,999 - 
+ VEST_DATE_PERIOD28, Month DD, YYYY - 
+ SHARES_PERIOD28, 999,999,999 - 
+ VEST_DATE_PERIOD29, Month DD, YYYY - 
+ SHARES_PERIOD29, 999,999,999 - 
+ VEST_DATE_PERIOD30, Month DD, YYYY - 
+ SHARES_PERIOD30, 999,999,999 - 
+ VEST_DATE_PERIOD31, Month DD, YYYY - 
+ SHARES_PERIOD31, 999,999,999 - 
+ VEST_DATE_PERIOD32, Month DD, YYYY - 
+ SHARES_PERIOD32, 999,999,999 - 
+ VEST_DATE_PERIOD33, Month DD, YYYY - 
+ SHARES_PERIOD33, 999,999,999 - 
+ VEST_DATE_PERIOD34, Month DD, YYYY - 
+ SHARES_PERIOD34, 999,999,999 - 
+ VEST_DATE_PERIOD35, Month DD, YYYY - 
+ SHARES_PERIOD35, 999,999,999 - 
+ VEST_DATE_PERIOD36, Month DD, YYYY - 
+ SHARES_PERIOD36, 999,999,999 - 
+ VEST_DATE_PERIOD37, Month DD, YYYY - 
+ SHARES_PERIOD37, 999,999,999 - 
+ VEST_DATE_PERIOD38, Month DD, YYYY - 
+ SHARES_PERIOD38, 999,999,999 - 
+ VEST_DATE_PERIOD39, Month DD, YYYY - 
+ SHARES_PERIOD39, 999,999,999 - 
+ VEST_DATE_PERIOD40, Month DD, YYYY - 
+ SHARES_PERIOD40, 999,999,999 - 
+ VEST_DATE_PERIOD41, Month DD, YYYY - 
+ SHARES_PERIOD41, 999,999,999 - 
+ VEST_DATE_PERIOD42, Month DD, YYYY - 
+ SHARES_PERIOD42, 999,999,999 - 
+ VEST_DATE_PERIOD43, Month DD, YYYY - 
+ SHARES_PERIOD43, 999,999,999 - 
+ VEST_DATE_PERIOD44, Month DD, YYYY - 
+ SHARES_PERIOD44, 999,999,999 - 
+ VEST_DATE_PERIOD45, Month DD, YYYY - 
+ SHARES_PERIOD45, 999,999,999 - 
+ VEST_DATE_PERIOD46, Month DD, YYYY - 
+ SHARES_PERIOD46, 999,999,999 - 
+ VEST_DATE_PERIOD47, Month DD, YYYY - 
+ SHARES_PERIOD47, 999,999,999 - 
+ VEST_DATE_PERIOD48, Month DD, YYYY - 
+ SHARES_PERIOD48, 999,999,999 - 
+ 
+ 2 
+
+Max. of 100,000 per yr. 
+ Once exercisable, this Stock Option shall continue to be exercisable at any time or times prior to the close of business on the Expiration Date, subject to the provisions hereof and of the Plan. 
+ 2. Manner of Exercise . 
+ (a) The Optionee may exercise this Stock Option only in the following manner from time to time on or prior to the Expiration Date of this Stock Option, the Optionee may give written notice to the Administrator of his or her election to purchase some or all of the Option Shares purchasable at the time of such notice. This notice shall specify the number of Option Shares to be purchased. 
+ Payment of the purchase price for the Option Shares may be made by one or more of the following methods (i) in cash, by certified or bank check or other instrument acceptable to the Administrator (ii) through the delivery (or attestation to the ownership) of shares of Stock that have been purchased by the Optionee on the open market or that are beneficially owned by the Optionee and are not then subject to any restrictions under any Company plan and that otherwise satisfy any holding periods as may be required by the Administrator or (iii) by the Optionee delivering to the Company a properly executed exercise notice together with irrevocable instructions to a broker to promptly deliver to the Company cash or a check payable and acceptable to the Company to pay the option purchase price, provided that in the event the Optionee chooses to pay the option purchase price as so provided, the Optionee and the broker shall comply with such procedures and enter into such agreements of indemnity and other agreements as the Administrator shall prescribe as a condition of such payment procedure or (iv) a combination of (i), (ii) and (iii) above. Payment instruments will be received subject to collection. 
+ The transfer to the Optionee on the records of the Company or of the transfer agent of the Option Shares will be contingent upon (i) the Company s receipt from the Optionee of the full purchase price for the Option Shares, as set forth above, (ii) the fulfillment of any other requirements contained herein or in the Plan or in any other agreement or provision of laws, and (iii) the receipt by the Company of any agreement, statement or other evidence that the Company may require to satisfy itself that the issuance of Stock to be purchased pursuant to the exercise of Stock Options under the Plan and any subsequent resale of the shares of Stock will be in compliance with applicable laws and regulations. In the event the Optionee chooses to pay the purchase price by previously-owned shares of Stock through the attestation method, the number of shares of Stock transferred to the Optionee upon the exercise of the Stock Option shall be net of the Shares attested to. 
+ (b) The shares of Stock purchased upon exercise of this Stock Option shall be transferred to the Optionee on the records of the Company or of the transfer agent upon compliance to the satisfaction of the Administrator with all requirements under applicable laws or regulations in connection with such transfer and with the requirements hereof and of the Plan. The determination of the Administrator as to such compliance shall be final and binding on the 
+ 3 
+
+Optionee. The Optionee shall not be deemed to be the holder of, or to have any of the rights of a holder with respect to, any shares of Stock subject to this Stock Option unless and until this Stock Option shall have been exercised pursuant to the terms hereof, the Company or the transfer agent shall have transferred the shares to the Optionee, and the Optionee s name shall have been entered as the stockholder of record on the books of the Company. Thereupon, the Optionee shall have full voting, dividend and other ownership rights with respect to such shares of Stock. 
+ (c) The minimum number of shares with respect to which this Stock Option may be exercised at any one time shall be 100 shares, unless the number of shares with respect to which this Stock Option is being exercised is the total number of shares subject to exercise under this Stock Option at the time. 
+ (d) Notwithstanding any other provision hereof or of the Plan, no portion of this Stock Option shall be exercisable after the Expiration Date hereof. 
+ 3. Termination of Employment . If the Optionee s employment by the Company or a Subsidiary (as defined in the Plan) is terminated, the period within which to exercise the Stock Option may be subject to earlier termination as set forth below. 
+ (a) Termination Due to Death . If the Optionee s employment terminates by reason of the Optionee s death, any portion of this Stock Option outstanding on such date, to the extent exercisable on the date of death, may thereafter be exercised by the Optionee s legal representative or legatee for a period of 12 months from the date of death or until the Expiration Date, if earlier. Any portion of this Stock Option that is not exercisable on the date of death shall terminate immediately and be of no further force or effect. 
+ (b) Termination Due to Disability . If the Optionee s employment terminates by reason of the Optionee s disability (as determined by the Administrator), any portion of this Stock Option outstanding on such date, to the extent exercisable on the date of such termination of employment, may thereafter be exercised by the Optionee for a period of 12 months from the date of disability or until the Expiration Date, if earlier. Any portion of this Stock Option that is not exercisable on the date of disability shall terminate immediately and be of no further force or effect. 
+ (c) Termination for Cause . If the Optionee s employment terminates for Cause, any portion of this Stock Option outstanding on such date shall terminate immediately and be of no further force and effect. For purposes hereof, Cause shall mean, unless otherwise provided in an employment agreement between the Company and the Optionee, a determination by the Administrator that the Optionee shall be dismissed as a result of (i) any material breach by the Optionee of any agreement between the Optionee and the Company (ii) the conviction of, indictment for or plea of nolo contendere by the Optionee to a felony or a crime involving moral turpitude or (iii) any material misconduct or willful and deliberate non-performance (other than by reason of disability) by the Optionee of the Optionee s duties to the Company. 
+ (d) Other Termination . If the Optionee s employment terminates for any reason other than the Optionee s death, the Optionee s disability, or Cause, and unless otherwise determined by the Administrator, any portion of this Stock Option outstanding on such date may be exercised, to the extent exercisable on the date of termination, for a period of three months 
+ 4 
+
+from the date of termination or until the Expiration Date, if earlier. Any portion of this Stock Option that is not exercisable on the date of termination shall terminate immediately and be of no further force or effect. 
+ The Administrator s determination of the reason for termination of the Optionee s employment shall be conclusive and binding on the Optionee and his or her representatives or legatees. 
+ 4. Incorporation of Plan . Notwithstanding anything herein to the contrary, this Stock Option shall be subject to and governed by all the terms and conditions of the Plan, including the powers of the Administrator set forth in Section 2(b) of the Plan. Capitalized terms in this Agreement shall have the meaning specified in the Plan, unless a different meaning is specified herein. 
+ 5. Transferability . This Agreement is personal to the Optionee, is non-assignable and is not transferable in any manner, by operation of law or otherwise, other than by will or the laws of descent and distribution. This Stock Option is exercisable, during the Optionee s lifetime, only by the Optionee, and thereafter, only by the Optionee s legal representative or legatee. 
+ 6. Status of the Stock Option . This Stock Option is intended to qualify as an incentive stock option under Section 422 of the Internal Revenue Code of 1986, as amended (the Code ), but the Company does not represent or warrant that this Stock Option qualifies as such. The Optionee should consult with his or her own tax advisors regarding the tax effects of this Stock Option and the requirements necessary to obtain favorable income tax treatment under Section 422 of the Code, including, but not limited to, holding period requirements. To the extent any portion of this Stock Option does not so qualify as an incentive stock option, such portion shall be deemed to be a non-qualified stock option. If the Optionee intends to dispose or does dispose (whether by sale, gift, transfer or otherwise) of any Option Shares within the one-year period beginning on the date after the transfer of such shares to him or her, or within the two-year period beginning on the day after the grant of this Stock Option, he or she will so notify the Company within 30 days after such disposition. 
+ 7. Tax Withholding . The Optionee shall, not later than the date as of which the exercise of this Stock Option becomes a taxable event for Federal income tax purposes, pay to the Company or make arrangements satisfactory to the Administrator for payment of any Federal, state, and local taxes required by law to be withheld on account of such taxable event. The Company shall have the authority to cause the minimum required tax withholding obligation to be satisfied, in whole or in part, by withholding from shares of Stock to be issued to the Optionee a number of shares of Stock with an aggregate Fair Market Value that would satisfy the minimum withholding amount due. 
+ 8. No Obligation to Continue Employment . Neither the Company nor any Subsidiary is obligated by or as a result of the Plan or this Agreement to continue the Optionee in employment and neither the Plan nor this Agreement shall interfere in any way with the right of the Company or any Subsidiary to terminate the employment of the Optionee at any time. 
+ 5 
+
+9. Integration . This Agreement constitutes the entire agreement between the parties with respect to this Stock Option and supersedes all prior agreements and discussions between the parties concerning such subject matter. 
+ 10. Data Privacy Consent . In order to administer the Plan and this Agreement and to implement or structure future equity grants, the Company, its subsidiaries and affiliates and certain agents thereof (together, the Relevant Companies may process any and all personal or professional data, including but not limited to Social Security or other identification number, home address and telephone number, date of birth and other information that is necessary or desirable for the administration of the Plan and or this Agreement (the Relevant Information ). By entering into this Agreement, the Optionee (i) authorizes the Company to collect, process, register and transfer to the Relevant Companies all Relevant Information (ii) waives any privacy rights the Optionee may have with respect to the Relevant Information (iii) authorizes the Relevant Companies to store and transmit such information in electronic form and (iv) authorizes the transfer of the Relevant Information to any jurisdiction in which the Relevant Companies consider appropriate. The Optionee shall have access to, and the right to change, the Relevant Information. Relevant Information will only be used in accordance with applicable law. 
+ 1. Notices . Notices hereunder shall be mailed or delivered to the Company at its principal place of business and shall be mailed or delivered to the Optionee at the address on file with the Company or, in either case, at such other address as one party may subsequently furnish to the other party in writing. 
+ The foregoing Agreement is hereby accepted and the terms and conditions thereof hereby agreed to by the undersigned. Electronic acceptance of this Agreement pursuant to the Company s instructions to the Optionee (including through an online acceptance process) is acceptable. 
+ Optionee Eventbrite, Inc. 
+ By 
+ FIRST_NAME - LAST_NAME - 
+ OPTION_DATE, Month DD, YYYY - Title Chief Financial Officer 
+
+6 
+
+</EX-10.1>
+
+<EX-10.2>
+ 3
+ formofnon-qualifiedstockop.htm
+ EX-10.2
+
+Document 
+
+NON-QUALIFIED STOCK OPTION AGREEMENT FOR COMPANY EMPLOYEES UNDER THE EVENTBRITE, INC. 2018 STOCK OPTION AND INCENTIVE PLAN 
+ The Optionee has been granted the following option to purchase shares of the Stock of Eventbrite, Inc. 
+ Name of Optionee FIRST_NAME - LAST_NAME - 
+ Number of Option Shares TOTAL_SHARES_GRANTED,'999,999,999' - 
+ Exercise Price per Share OPTION_PRICE, 999,999.99 - 
+ Grant Date OPTION_DATE, Month DD, YYYY - 
+ Vesting Commencement Date VEST_BASE_DATE, Month DD, YYYY - 
+ Expiration Date EXPIRE_DATE_PERIOD1, Month DD, YYYY - 
+ Pursuant to the Eventbrite, Inc. 2018 Stock Option and Incentive Plan as amended through the date hereof (the Plan ), Eventbrite, Inc. (the Company hereby grants to the Optionee named above an option (the Stock Option to purchase on or prior to the Expiration Date specified above all or part of the number of shares of Class A Common Stock, par value 0.00001 per share (the Stock of the Company specified above at the Option Exercise Price per Share specified above subject to the terms and conditions set forth herein and in the Plan. This Stock Option is not intended to be an incentive stock option under Section 422 of the Internal Revenue Code of 1986, as amended. 
+ 1. Exercisability Schedule . No portion of this Stock Option may be exercised until such portion shall have become exercisable. Except as set forth below, and subject to the discretion of the Administrator (as defined in Section 2 of the Plan) to accelerate the exercisability schedule hereunder, this Stock Option shall be exercisable with respect to the following number of Option Shares on the dates indicated so long as Optionee remains an employee of the Company or a Subsidiary on such dates, provided, that t he Administrator shall have the exclusive discretion to determine how a leave of absence or other similar change or purported change in a Optionee s employment status affects the Stock Option 
+ Exercisability Date 
+ Incremental Number of Options Exercisable 
+ VEST_DATE_PERIOD1, Month DD, YYYY - 
+ SHARES_PERIOD1, 999,999,999 - 
+ VEST_DATE_PERIOD2, Month DD, YYYY - 
+ SHARES_PERIOD2, 999,999,999 - 
+
+VEST_DATE_PERIOD3, Month DD, YYYY - 
+ SHARES_PERIOD3, 999,999,999 - 
+ VEST_DATE_PERIOD4, Month DD, YYYY - 
+ SHARES_PERIOD4, 999,999,999 - 
+ VEST_DATE_PERIOD5, Month DD, YYYY - 
+ SHARES_PERIOD5, 999,999,999 - 
+ VEST_DATE_PERIOD6, Month DD, YYYY - 
+ SHARES_PERIOD6, 999,999,999 - 
+ VEST_DATE_PERIOD7, Month DD, YYYY - 
+ SHARES_PERIOD7, 999,999,999 - 
+ VEST_DATE_PERIOD8, Month DD, YYYY - 
+ SHARES_PERIOD8, 999,999,999 - 
+ VEST_DATE_PERIOD9, Month DD, YYYY - 
+ SHARES_PERIOD9, 999,999,999 - 
+ VEST_DATE_PERIOD10, Month DD, YYYY - 
+ SHARES_PERIOD10, 999,999,999 - 
+ VEST_DATE_PERIOD11, Month DD, YYYY - 
+ SHARES_PERIOD11, 999,999,999 - 
+ VEST_DATE_PERIOD12, Month DD, YYYY - 
+ SHARES_PERIOD12, 999,999,999 - 
+ VEST_DATE_PERIOD13, Month DD, YYYY - 
+ SHARES_PERIOD13, 999,999,999 - 
+ VEST_DATE_PERIOD14, Month DD, YYYY - 
+ SHARES_PERIOD14, 999,999,999 - 
+ VEST_DATE_PERIOD15, Month DD, YYYY - 
+ SHARES_PERIOD15, 999,999,999 - 
+ VEST_DATE_PERIOD16, Month DD, YYYY - 
+ SHARES_PERIOD16, 999,999,999 - 
+ VEST_DATE_PERIOD17, Month DD, YYYY - 
+ SHARES_PERIOD17, 999,999,999 - 
+ VEST_DATE_PERIOD18, Month DD, YYYY - 
+ SHARES_PERIOD18, 999,999,999 - 
+ VEST_DATE_PERIOD19, Month DD, YYYY - 
+ SHARES_PERIOD19, 999,999,999 - 
+ VEST_DATE_PERIOD20, Month DD, YYYY - 
+ SHARES_PERIOD20, 999,999,999 - 
+ VEST_DATE_PERIOD21, Month DD, YYYY - 
+ SHARES_PERIOD21, 999,999,999 - 
+ VEST_DATE_PERIOD22, Month DD, YYYY - 
+ SHARES_PERIOD22, 999,999,999 - 
+ VEST_DATE_PERIOD23, Month DD, YYYY - 
+ SHARES_PERIOD23, 999,999,999 - 
+ VEST_DATE_PERIOD24, Month DD, YYYY - 
+ SHARES_PERIOD24, 999,999,999 - 
+ VEST_DATE_PERIOD25, Month DD, YYYY - 
+ SHARES_PERIOD25, 999,999,999 - 
+ VEST_DATE_PERIOD26, Month DD, YYYY - 
+ SHARES_PERIOD26, 999,999,999 - 
+ VEST_DATE_PERIOD27, Month DD, YYYY - 
+ SHARES_PERIOD27, 999,999,999 - 
+ VEST_DATE_PERIOD28, Month DD, YYYY - 
+ SHARES_PERIOD28, 999,999,999 - 
+ VEST_DATE_PERIOD29, Month DD, YYYY - 
+ SHARES_PERIOD29, 999,999,999 - 
+ VEST_DATE_PERIOD30, Month DD, YYYY - 
+ SHARES_PERIOD30, 999,999,999 - 
+ VEST_DATE_PERIOD31, Month DD, YYYY - 
+ SHARES_PERIOD31, 999,999,999 - 
+ VEST_DATE_PERIOD32, Month DD, YYYY - 
+ SHARES_PERIOD32, 999,999,999 - 
+ VEST_DATE_PERIOD33, Month DD, YYYY - 
+ SHARES_PERIOD33, 999,999,999 - 
+ VEST_DATE_PERIOD34, Month DD, YYYY - 
+ SHARES_PERIOD34, 999,999,999 - 
+ VEST_DATE_PERIOD35, Month DD, YYYY - 
+ SHARES_PERIOD35, 999,999,999 - 
+ VEST_DATE_PERIOD36, Month DD, YYYY - 
+ SHARES_PERIOD36, 999,999,999 - 
+ VEST_DATE_PERIOD37, Month DD, YYYY - 
+ SHARES_PERIOD37, 999,999,999 - 
+ VEST_DATE_PERIOD38, Month DD, YYYY - 
+ SHARES_PERIOD38, 999,999,999 - 
+ VEST_DATE_PERIOD39, Month DD, YYYY - 
+ SHARES_PERIOD39, 999,999,999 - 
+ VEST_DATE_PERIOD40, Month DD, YYYY - 
+ SHARES_PERIOD40, 999,999,999 - 
+ VEST_DATE_PERIOD41, Month DD, YYYY - 
+ SHARES_PERIOD41, 999,999,999 - 
+ VEST_DATE_PERIOD42, Month DD, YYYY - 
+ SHARES_PERIOD42, 999,999,999 - 
+ VEST_DATE_PERIOD43, Month DD, YYYY - 
+ SHARES_PERIOD43, 999,999,999 - 
+ VEST_DATE_PERIOD44, Month DD, YYYY - 
+ SHARES_PERIOD44, 999,999,999 - 
+ VEST_DATE_PERIOD45, Month DD, YYYY - 
+ SHARES_PERIOD45, 999,999,999 - 
+ VEST_DATE_PERIOD46, Month DD, YYYY - 
+ SHARES_PERIOD46, 999,999,999 - 
+ 
+ 2 
+
+VEST_DATE_PERIOD47, Month DD, YYYY - 
+ SHARES_PERIOD47, 999,999,999 - 
+ VEST_DATE_PERIOD48, Month DD, YYYY - 
+ SHARES_PERIOD48, 999,999,999 - 
+ 
+ Once exercisable, this Stock Option shall continue to be exercisable at any time or times prior to the close of business on the Expiration Date, subject to the provisions hereof and of the Plan. 
+ 2. Manner of Exercise . 
+ (a) The Optionee may exercise this Stock Option only in the following manner from time to time on or prior to the Expiration Date of this Stock Option, the Optionee may give written notice to the Administrator of his or her election to purchase some or all of the Option Shares purchasable at the time of such notice. This notice shall specify the number of Option Shares to be purchased. 
+ Payment of the purchase price for the Option Shares may be made by one or more of the following methods (i) in cash, by certified or bank check or other instrument acceptable to the Administrator (ii) through the delivery (or attestation to the ownership) of shares of Stock that have been purchased by the Optionee on the open market or that are beneficially owned by the Optionee and are not then subject to any restrictions under any Company plan and that otherwise satisfy any holding periods as may be required by the Administrator (iii) by the Optionee delivering to the Company a properly executed exercise notice together with irrevocable instructions to a broker to promptly deliver to the Company cash or a check payable and acceptable to the Company to pay the option purchase price, provided that in the event the Optionee chooses to pay the option purchase price as so provided, the Optionee and the broker shall comply with such procedures and enter into such agreements of indemnity and other agreements as the Administrator shall prescribe as a condition of such payment procedure (iv) by a net exercise arrangement pursuant to which the Company will reduce the number of shares of Stock issuable upon exercise by the largest whole number of shares with a Fair Market Value that does not exceed the aggregate exercise price or (v) a combination of (i), (ii), (iii) and (iv) above. Payment instruments will be received subject to collection. 
+ The transfer to the Optionee on the records of the Company or of the transfer agent of the Option Shares will be contingent upon (i) the Company s receipt from the Optionee of the full purchase price for the Option Shares, as set forth above, (ii) the fulfillment of any other requirements contained herein or in the Plan or in any other agreement or provision of laws, and (iii) the receipt by the Company of any agreement, statement or other evidence that the Company may require to satisfy itself that the issuance of Stock to be purchased pursuant to the exercise of Stock Options under the Plan and any subsequent resale of the shares of Stock will be in compliance with applicable laws and regulations. In the event the Optionee chooses to pay the purchase price by previously-owned shares of Stock through the attestation method, the number of shares of Stock transferred to the Optionee upon the exercise of the Stock Option shall be net of the Shares attested to. 
+ (b) The shares of Stock purchased upon exercise of this Stock Option shall be transferred to the Optionee on the records of the Company or of the transfer agent upon 
+ 3 
+
+compliance to the satisfaction of the Administrator with all requirements under applicable laws or regulations in connection with such transfer and with the requirements hereof and of the Plan. The determination of the Administrator as to such compliance shall be final and binding on the Optionee. The Optionee shall not be deemed to be the holder of, or to have any of the rights of a holder with respect to, any shares of Stock subject to this Stock Option unless and until this Stock Option shall have been exercised pursuant to the terms hereof, the Company or the transfer agent shall have transferred the shares to the Optionee, and the Optionee s name shall have been entered as the stockholder of record on the books of the Company. Thereupon, the Optionee shall have full voting, dividend and other ownership rights with respect to such shares of Stock. 
+ (c) The minimum number of shares with respect to which this Stock Option may be exercised at any one time shall be 100 shares, unless the number of shares with respect to which this Stock Option is being exercised is the total number of shares subject to exercise under this Stock Option at the time. 
+ (d) Notwithstanding any other provision hereof or of the Plan, no portion of this Stock Option shall be exercisable after the Expiration Date hereof. 
+ 3. Termination of Employment . If the Optionee s employment by the Company or a Subsidiary (as defined in the Plan) is terminated, the period within which to exercise the Stock Option may be subject to earlier termination as set forth below. 
+ (a) Termination Due to Death . If the Optionee s employment terminates by reason of the Optionee s death, any portion of this Stock Option outstanding on such date, to the extent exercisable on the date of death, may thereafter be exercised by the Optionee s legal representative or legatee for a period of 12 months from the date of death or until the Expiration Date, if earlier. Any portion of this Stock Option that is not exercisable on the date of death shall terminate immediately and be of no further force or effect. 
+ (b) Termination Due to Disability . If the Optionee s employment terminates by reason of the Optionee s disability (as determined by the Administrator), any portion of this Stock Option outstanding on such date, to the extent exercisable on the date of such termination of employment, may thereafter be exercised by the Optionee for a period of 12 months from the date of disability or until the Expiration Date, if earlier. Any portion of this Stock Option that is not exercisable on the date of disability shall terminate immediately and be of no further force or effect. 
+ (c) Termination for Cause . If the Optionee s employment terminates for Cause, any portion of this Stock Option outstanding on such date shall terminate immediately and be of no further force and effect. For purposes hereof, Cause shall mean, unless otherwise provided in an employment agreement between the Company and the Optionee, a determination by the Administrator that the Optionee shall be dismissed as a result of (i) any material breach by the Optionee of any agreement between the Optionee and the Company (ii) the conviction of, indictment for or plea of nolo contendere by the Optionee to a felony or a crime involving moral turpitude or (iii) any material misconduct or willful and deliberate non-performance (other than by reason of disability) by the Optionee of the Optionee s duties to the Company. 
+ 4 
+
+(d) Other Termination . If the Optionee s employment terminates for any reason other than the Optionee s death, the Optionee s disability or Cause, and unless otherwise determined by the Administrator, any portion of this Stock Option outstanding on such date may be exercised, to the extent exercisable on the date of termination, for a period of three months from the date of termination or until the Expiration Date, if earlier. Any portion of this Stock Option that is not exercisable on the date of termination shall terminate immediately and be of no further force or effect. 
+ The Administrator s determination of the reason for termination of the Optionee s employment shall be conclusive and binding on the Optionee and his or her representatives or legatees. 
+ 4. Incorporation of Plan . Notwithstanding anything herein to the contrary, this Stock Option shall be subject to and governed by all the terms and conditions of the Plan, including the powers of the Administrator set forth in Section 2(b) of the Plan. Capitalized terms in this Agreement shall have the meaning specified in the Plan, unless a different meaning is specified herein. 
+ 5. Transferability . This Agreement is personal to the Optionee, is non-assignable and is not transferable in any manner, by operation of law or otherwise, other than by will or the laws of descent and distribution. This Stock Option is exercisable, during the Optionee s lifetime, only by the Optionee, and thereafter, only by the Optionee s legal representative or legatee. 
+ 6. Tax Withholding . The Optionee shall, not later than the date as of which the exercise of this Stock Option becomes a taxable event for Federal income tax purposes, pay to the Company or make arrangements satisfactory to the Administrator for payment of any Federal, state, and local taxes required by law to be withheld on account of such taxable event. The Company shall have the authority to cause the minimum required tax withholding obligation to be satisfied, in whole or in part, by withholding from shares of Stock to be issued to the Optionee a number of shares of Stock with an aggregate Fair Market Value that would satisfy the minimum withholding amount due. 
+ 7. No Obligation to Continue Employment . Neither the Company nor any Subsidiary is obligated by or as a result of the Plan or this Agreement to continue the Optionee in employment and neither the Plan nor this Agreement shall interfere in any way with the right of the Company or any Subsidiary to terminate the employment of the Optionee at any time. 
+ 8. Integration . This Agreement constitutes the entire agreement between the parties with respect to this Stock Option and supersedes all prior agreements and discussions between the parties concerning such subject matter. 
+ 9. Data Privacy Consent . In order to administer the Plan and this Agreement and to implement or structure future equity grants, the Company, its subsidiaries and affiliates and certain agents thereof (together, the Relevant Companies may process any and all personal or professional data, including but not limited to Social Security or other identification number, home address and telephone number, date of birth and other information that is necessary or 
+ 5 
+
+desirable for the administration of the Plan and or this Agreement (the Relevant Information ). By entering into this Agreement, the Optionee (i) authorizes the Company to collect, process, register and transfer to the Relevant Companies all Relevant Information (ii) waives any privacy rights the Optionee may have with respect to the Relevant Information (iii) authorizes the Relevant Companies to store and transmit such information in electronic form and (iv) authorizes the transfer of the Relevant Information to any jurisdiction in which the Relevant Companies consider appropriate. The Optionee shall have access to, and the right to change, the Relevant Information. Relevant Information will only be used in accordance with applicable law. 
+ 10. Notices . Notices hereunder shall be mailed or delivered to the Company at its principal place of business and shall be mailed or delivered to the Optionee at the address on file with the Company or, in either case, at such other address as one party may subsequently furnish to the other party in writing. 
+ The foregoing Agreement is hereby accepted and the terms and conditions thereof hereby agreed to by the undersigned. Electronic acceptance of this Agreement pursuant to the Company s instructions to the Optionee (including through an online acceptance process) is acceptable. 
+ Optionee Eventbrite, Inc. 
+ By 
+ FIRST_NAME - LAST_NAME - Title Chief Financial Officer 
+ OPTION_DATE, Month DD, YYYY - 
+
+6 
+
+</EX-10.2>
+
+<EX-10.3>
+ 4
+ formofglobalrestrictedstoc.htm
+ EX-10.3
+
+Document 
+
+GLOBAL RESTRICTED STOCK UNIT AWARD AGREEMENT FOR COMPANY EMPLOYEES UNDER THE EVENTBRITE, INC. 2018 STOCK OPTION AND INCENTIVE PLAN 
+ Name of Grantee FIRST_NAME - LAST_NAME - 
+ Number of Restricted Units TOTAL_SHARES_GRANTED - 
+ Grant Date OPTION_DATE, Month DD, YYYY - 
+ Pursuant to the Eventbrite, Inc. 2018 Stock Option and Incentive Plan as amended through the date hereof (the Plan and this Global Restricted Stock Unit Award Agreement, including any country-specific appendix attached hereto (together, the Agreement ), Eventbrite, Inc. (the Company hereby grants an award of the number of Restricted Stock Units listed above (an Award to the Grantee named above. Each Restricted Stock Unit shall relate to one share of Class A Common Stock, par value _______ per share (the Stock of the Company. 
+ 1. Restrictions on Transfer of Award . This Award may not be sold, transferred, pledged, assigned or otherwise encumbered or disposed of by the Grantee, and any shares of Stock issuable with respect to the Award may not be sold, transferred, pledged, assigned or otherwise encumbered or disposed of until (i) the Restricted Stock Units have vested as provided in Paragraph 2 of this Agreement and (ii) shares of Stock have been issued to the Grantee in accordance with the terms of the Plan and this Agreement. 
+ 2. Vesting of Restricted Stock Units . The restrictions and conditions of Paragraph 1 of this Agreement shall lapse on the Vesting Date or Dates specified in the following schedule so long as the Grantee remains an employee of the Company or a Subsidiary on such Dates. If a series of Vesting Dates is specified, then the restrictions and conditions in Paragraph 1 shall lapse only with respect to the number of Restricted Stock Units specified as vested on such date. 
+ 
+ Vesting Date 
+ Incremental Number of Restricted Stock Units Vested 
+ VEST_DATE_PERIOD1, Month DD, YYYY - 
+ SHARES_PERIOD1, 999,999,999 - 
+
+VEST_DATE_PERIOD2, Month DD, YYYY - 
+ SHARES_PERIOD2, 999,999,999 - 
+ VEST_DATE_PERIOD3, Month DD, YYYY - 
+ SHARES_PERIOD3, 999,999,999 - 
+ VEST_DATE_PERIOD4, Month DD, YYYY - 
+ SHARES_PERIOD4, 999,999,999 - 
+ 
+ 1 
+ 6693118-v5 GESDMS 
+ US-DOCS 152274320.2 
+
+VEST_DATE_PERIOD5, Month DD, YYYY - 
+ SHARES_PERIOD5, 999,999,999 - 
+ VEST_DATE_PERIOD6, Month DD, YYYY - 
+ SHARES_PERIOD6, 999,999,999 - 
+ VEST_DATE_PERIOD7, Month DD, YYYY - 
+ SHARES_PERIOD7, 999,999,999 - 
+ VEST_DATE_PERIOD8, Month DD, YYYY - 
+ SHARES_PERIOD8, 999,999,999 - 
+ VEST_DATE_PERIOD9, Month DD, YYYY - 
+ SHARES_PERIOD9, 999,999,999 - 
+ VEST_DATE_PERIOD10, Month DD, YYYY - 
+ SHARES_PERIOD10, 999,999,999 - 
+ VEST_DATE_PERIOD11, Month DD, YYYY - 
+ SHARES_PERIOD11, 999,999,999 - 
+ VEST_DATE_PERIOD12, Month DD, YYYY - 
+ SHARES_PERIOD12, 999,999,999 - 
+ VEST_DATE_PERIOD13, Month DD, YYYY - 
+ SHARES_PERIOD13, 999,999,999 - 
+ VEST_DATE_PERIOD14, Month DD, YYYY - 
+ SHARES_PERIOD14, 999,999,999 - 
+ VEST_DATE_PERIOD15, Month DD, YYYY - 
+ SHARES_PERIOD15, 999,999,999 - 
+ VEST_DATE_PERIOD16, Month DD, YYYY - 
+ SHARES_PERIOD16, 999,999,999 - 
+ 
+ The Administrator may at any time accelerate the vesting schedule specified in this Paragraph 2. 
+ 
+ 2 
+
+3. Termination of Employment . 
+ (a) If the Grantee s employment or service relationship with the Company and its Subsidiaries terminates for any reason (including death or disability) prior to the satisfaction of the vesting conditions set forth in Paragraph 2 above, any Restricted Stock Units that have not vested as of such date shall automatically and without notice terminate and be forfeited, and neither the Grantee nor any of his or her successors, heirs, assigns, or personal representatives will thereafter have any further rights or interests in such unvested Restricted Stock Units. 
+ (b) For purposes of the Restricted Stock Units, the Grantee s employment will be considered terminated as of the date the Grantee is no longer actively providing services to the Company or its Subsidiaries (regardless of the reason for such termination and whether or not later found to be invalid or in breach of labor laws in the jurisdiction where the Grantee is employed or the terms of the Grantee s employment agreement, if any), and unless otherwise expressly provided in this Agreement or determined by the Company, the Grantee s right to vest in the Restricted Stock Units under the Plan, if any, will terminate as of such date and will not be extended by any notice period e.g ., the Grantee s period of service would not include any contractual notice period or any period of garden leave or similar period mandated under labor laws in the jurisdiction where the Grantee is employed or the terms of the Grantee s employment agreement, if any). The Administrator shall have the exclusive discretion to determine when the Grantee is no longer actively providing services for purposes of the Restricted Stock Units (including whether the Grantee may still be considered to be providing services while on a leave of absence) and will determine how a leave of absence or other similar change or purported change in a Grantee s employment status affects the vesting of the Restricted Stock Units. 
+ 4. Issuance of Shares of Stock . As soon as practicable following each Vesting Date (but in no event later than two and one-half months after the end of the year in which the Vesting Date occurs), the Company shall issue to the Grantee the number of shares of Stock equal to the aggregate number of Restricted Stock Units that have vested pursuant to Paragraph 2 of this Agreement on such date and the Grantee shall thereafter have all the rights of a stockholder of the Company with respect to such shares. 
+ 5. Incorporation of Plan . Notwithstanding anything herein to the contrary, this Agreement shall be subject to and governed by all the terms and conditions of the Plan, including the powers of the Administrator set forth in Section 2(b) of the Plan. Capitalized terms in this Agreement shall have the meaning specified in the Plan, unless a different meaning is specified herein. 
+ 6. Tax Withholding . 
+ (a) The Grantee acknowledges that, regardless of any action taken by the Company or, if different, any Subsidiary employing or retaining the Grantee (the Employer ), the ultimate liability for all income tax, social insurance, payroll tax, fringe benefits tax, payment on account or other tax related items related to the Grantee s participation in the Plan and legally applicable to the Grantee Tax-Related Items ), is and remains the Grantee s responsibility and may exceed the amount, if any, actually withheld by the Company or the Employer. The Grantee further acknowledges that the Company and or the Employer (i) make no representations or 
+ 3 
+
+undertakings regarding the treatment of any Tax-Related Items in connection with any aspect of the Restricted Stock Units, including, but not limited to, the grant, vesting or settlement of the Restricted Stock Units, the subsequent sale of shares of Stock acquired pursuant to such settlement and the receipt of any dividends and or Dividend Equivalent Rights and (ii) do not commit to and are under no obligation to structure the terms of the grant or any aspect of the Restricted Stock Units to reduce or eliminate the Grantee s liability for Tax-Related Items or achieve any particular tax result. Further, if the Grantee is subject to Tax-Related Items in more than one jurisdiction, the Grantee acknowledges that the Company and or the Employer (or former employer, as applicable) may be required to withhold or account for Tax-Related Items in more than one jurisdiction. 
+ (b) Prior to any relevant taxable or tax withholding event, as applicable, the Grantee agrees to make adequate arrangements satisfactory to the Company and or the Employer to satisfy all Tax-Related Items. In this regard, the Grantee authorizes the Company and or the Employer, or their respective agents, at their discretion, to satisfy any applicable withholding obligations with regard to all Tax-Related Items by one or a combination of the following (i) withholding from the Grantee s wages or other cash compensation paid to the Grantee by the Company and or the Employer (ii) withholding from proceeds of the sale of shares of Stock acquired upon settlement of the Restricted Stock Units either through a voluntary sale or through a mandatory sale arranged by the Company (on the Grantee s behalf pursuant to this authorization) (iii) withholding from shares of Stock to be issued to the Grantee upon settlement of the Restricted Stock Units, provided, however, that if the Grantee is a Section 16 officer of the Company under the Exchange Act, then the Company will withhold in shares of Stock upon the relevant taxable or tax withholding event, as applicable, unless the use of such withholding method is problematic under applicable tax or securities law or has materially adverse accounting consequences, in which case, the obligation for Tax-Related Items may be satisfied by one or a combination of methods (i) and (ii) above or (iv) any other method of withholding determined by the Company and permitted by applicable law. 
+ (c) Depending on the withholding method, the Company and or the Employer may withhold or account for Tax-Related Items by considering applicable minimum statutory withholding amounts or other applicable withholding rates, including maximum applicable rates in the Grantee s jurisdiction(s), in which case the Grantee may receive a refund of any over-withheld amount in cash and will have no entitlement to the equivalent amount in shares of Stock. If the obligation for Tax-Related Items is satisfied by withholding in shares of Stock, for tax purposes, the Grantee is deemed to have been issued the full number of shares of Stock subject to the vested Restricted Stock Units, notwithstanding that a number of the shares of Stock are held back solely for the purpose of paying the Tax-Related Items. 
+ (d) The Grantee agrees to pay to the Company or the Employer any amount of Tax-Related Items that the Company or the Employer may be required to withhold or account for as a result of the Grantee s participation in the Plan that cannot be satisfied by the means previously described. The Company may refuse to issue or deliver the shares of Stock, or the proceeds of the sale of shares of Stock, if the Grantee fails to comply with his or her obligations in connection with the Tax-Related Items. 
+ 4 
+
+7. Section 409A of the Code. This Agreement shall be interpreted in such a manner that all provisions relating to the settlement of the Award are exempt from the requirements of Section 409A of the Code as short-term deferrals as described in Section 409A of the Code. 
+ 8. No Obligation to Continue Employment . The grant of the Restricted Stock Units shall not be interpreted as forming or amending an employment contract with the Company or any Subsidiary (including the Employer), and shall not be construed as giving the Grantee the right to be retained in the employ of, or to continue providing services to, the Company or any Subsidiary (including the Employer). Neither the Plan nor this Agreement shall interfere in any way with the right of the Company or any Subsidiary to terminate the employment of the Grantee at any time. 
+ 9. Integration . This Agreement constitutes the entire agreement between the parties with respect to this Award and supersedes all prior agreements and discussions between the parties concerning such subject matter. 
+ 10. Data Privacy Consent . By accepting the Restricted Stock Units via the Company s acceptance procedure, the Grantee is declaring that he or she agrees with the data processing practices described herein and consents to the collection, processing and use of Personal Data (as defined below) by the Company and the transfer of Personal Data to the recipients mentioned herein, including recipients located in countries which do not adduce an adequate level of protection from a European (or other non-U.S.) data protection law perspective, for the purposes described herein. 
+ (a) Declaration of Consent . The Grantee understands that he or she needs to review the following information about the processing of the Grantee s personal data by or on behalf of the Company, the Employer and or any Subsidiary as described in the Agreement and any other Restricted Stock Unit grant materials (the Personal Data and declare his or her consent. As regards the processing of the Grantee s Personal Data in connection with the Plan and the Agreement, the Grantee understands that the Company is the controller of the Grantee s Personal Data. 
+ (b) Data Processing and Legal Basis . The Company collects, uses and otherwise processes Personal Data about the Grantee for the purposes of allocating shares of Stock and implementing, administering and managing the Plan. The Grantee understands that this Personal Data may include, without limitation, the Grantee s name, home address and telephone number, email address, date of birth, social insurance number, passport number or other identification number (e.g., resident registration number), salary, nationality, job title, any shares of stock or directorships held in the Company or its Subsidiaries, details of all Restricted Stock Units or any other entitlement to shares of stock or equivalent benefits awarded, canceled, exercised, vested, unvested or outstanding in the Grantee s favor. The legal basis for the processing of the Grantee s Personal Data will be the Grantee s consent. 
+ (c) Stock Plan Administration Service Providers . The Grantee understands that the Company transfers the Grantee s Personal Data, or parts thereof, to E TRADE (and its affiliated companies), an independent service provider based in the United States which assists the Company with the implementation, administration and management of the Plan. 
+ 5 
+
+In the future, the Company may select a different service provider and share the Grantee s Personal Data with such different service provider that serves the Company in a similar manner. The Grantee understands and acknowledges that the Company s service provider will open an account for the Grantee to receive and trade shares of Stock acquired under the Plan and that the Grantee will be asked to agree on separate terms and data processing practices with the service provider, which is a condition of the Grantee s ability to participate in the Plan. 
+ (d) International Data Transfers. The Grantee understands that the Company and, as of the date hereof, any third parties assisting in the implementation, administration and management of the Plan, such as the Company s service providers, are based in the United States. If the Grantee is located outside the United States, the Grantee understands and acknowledges that the Grantee s country has enacted data privacy laws that are different from the laws of the United States. For example, the European Commission has issued only a limited adequacy finding with respect to the United States that applies solely if and to the extent that companies self-certify and remain self-certified under the EU U.S. Privacy Shield program. Otherwise, transfers of personal data from the EU to the United States can be made on the basis of Standard Contractual Clauses approved by the European Commission or other appropriate safeguards permissible under applicable law. If the Grantee is located in the EU or EEA, the Company may receive, process and transfer the Grantee s Personal Data onward to third-party service providers solely on the basis of appropriate data transfer agreements or other appropriate safeguards permissible under applicable law. If applicable, the Grantee understands that the Grantee can ask for a copy of the appropriate data processing agreements underlying the transfer of the Grantee s Personal Data by contacting the Grantee s local human resources representative. The Company s legal basis for the transfer of the Grantee s Personal Data is the Grantee s consent. 
+ (e) Data Retention. The Grantee understands that the Company will use the Grantee s Personal Data only as long as is necessary to implement, administer and manage the Grantee s participation in the Plan, or to comply with legal or regulatory obligations, including under tax and securities laws. In the latter case, the Grantee understands and acknowledges that the Company s legal basis for the processing of the Grantee s Personal Data would be compliance with the relevant laws or regulations or the pursuit by the Company of respective legitimate interests not outweighed by the Grantee s interests, rights or freedoms. When the Company no longer needs the Grantee s Personal Data for any of the above purposes, the Grantee understands the Company will remove it from its systems. 
+ (f) Voluntariness and Consequences of Denial Withdrawal of Consent . The Grantee understands that the Grantee s participation in the Plan and the Grantee s consent is purely voluntary. The Grantee may deny or later withdraw the Grantee s consent at any time, with future effect and for any or no reason. If the Grantee denies or later withdraws the Grantee s consent, the Company can no longer offer the Grantee participation in the Plan or offer other awards to the Grantee or administer or maintain such awards and the Grantee would no longer be able to participate in the Plan. The Grantee further understands that denial or withdrawal of the Grantee s consent would not affect the Grantee s status or salary as an employee or the Grantee s career and that the Grantee would merely forfeit the opportunities associated with the Plan. 
+ 6 
+
+(g) Data Subject Rights. The Grantee understands that data subject rights regarding the processing of personal data vary depending on the applicable law and that, depending on where the Grantee is based and subject to the conditions set out in the applicable law, the Grantee may have, without limitation, the rights to (i) inquire whether and what kind of Personal Data the Company holds about the Grantee and how it is processed, and to access or request copies of such Personal Data, (ii) request the correction or supplementation of Personal Data about the Grantee that is inaccurate, incomplete or out-of-date in light of the purposes underlying the processing, (iii) obtain the erasure of Personal Data no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, processed for legitimate interests that, in the context of the Grantee s objection, do not prove to be compelling, or processed in non-compliance with applicable legal requirements, (iv) request the Company to restrict the processing of the Grantee s Personal Data in certain situations where the Grantee feels its processing is inappropriate, (v) object, in certain circumstances, to the processing of Personal Data for legitimate interests, and to (vi) request portability of the Grantee s Personal Data that the Grantee has actively or passively provided to the Company (which does not include data derived or inferred from the collected data), where the processing of such Personal Data is based on consent or the Grantee s employment and is carried out by automated means. In case of concerns, the Grantee understands that the Grantee may also have the right to lodge a complaint with the competent local data protection authority. Further, to receive clarification of, or to exercise any of, the Grantee s rights the Grantee understands that the Grantee should contact the Grantee s local human resources representative. 
+ (h) Alternate Basis and Additional Consents. Finally, the Grantee understands that the Company may rely on a different basis for the processing or transfer of Personal Data in the future and or request that the Grantee provide another data privacy consent. If applicable, the Grantee agrees that upon request of the Company or the Employer, the Grantee will provide an executed acknowledgement or data privacy consent form (or any other agreements or consents) that the Company and or the Employer may deem necessary to obtain from the Grantee for the purpose of administering the Grantee s participation in the Plan in compliance with the data privacy laws in the Grantee s country, either now or in the future. The Grantee understands and agrees that he or she will not be able to participate in the Plan if he or she fails to provide any such consent or agreement requested by the Company and or the Employer. 
+ 11. Nature of Grant . In accepting the grant of Restricted Stock Units, the Grantee acknowledges, understands and agrees that 
+ (a) the Plan is established voluntarily by the Company, it is discretionary in nature, and may be amended, suspended or terminated by the Company at any time, to the extent permitted by the Plan 
+ (b) the grant of the Restricted Stock Units is exceptional, voluntary and occasional and does not create any contractual or other right to receive future grants of Restricted Stock Units, or benefits in lieu of Restricted Stock Units, even if Restricted Stock Units have been granted in the past 
+ 7 
+
+(c) all decisions with respect to future Restricted Stock Units or other grants, if any, will be at the sole discretion of the Company 
+ (d) the Grantee is voluntarily participating in the Plan 
+ (e) the Restricted Stock Units and any shares of Stock subject to the Restricted Stock Units, and the income from and value of same, are not intended to replace any pension rights or compensation 
+ (f) unless otherwise agreed with the Company, the Restricted Stock Units and the shares of Stock subject to the Restricted Stock Units, and the income from and value of same, are not granted as consideration for, or in connection with, the service the Grantee may provide as a director of a Subsidiary 
+ (g) the Restricted Stock Units and any shares of Stock subject to the Restricted Stock Units and the income from and value of same, are not part of normal or expected compensation for purposes of, including, without limitation, calculating any severance, resignation, termination, redundancy, dismissal, end-of-service payments, bonuses, long-service awards, holiday pay, pension or retirement or welfare benefits or similar mandatory payments 
+ (h) the future value of the shares of Stock underlying the Restricted Stock Units is unknown, indeterminable, and cannot be predicted with certainty 
+ (i) no claim or entitlement to compensation or damages shall arise from forfeiture of the Restricted Stock Units resulting from the termination of the Grantee s employment (for any reason whatsoever, whether or not later found to be invalid or in breach of labor laws in the jurisdiction where the Grantee is employed or the terms of the Grantee s employment agreement, if any) 
+ (j) unless otherwise provided in the Plan or by the Company in its discretion, the Restricted Stock Units and the benefits evidenced by the Agreement do not create any entitlement to have the Restricted Stock Units or any such benefits transferred to, or assumed by, another company nor to be exchanged, cashed out or substituted for, in connection with any corporate transaction affecting the shares of Stock of the Company and 
+ (k) neither the Company, the Employer nor any Subsidiary shall be liable for any foreign exchange rate fluctuation between the Grantee s local currency and the United States Dollar that may affect the value of the Restricted Stock Units or of any amounts due to the Grantee pursuant to the settlement of the Restricted Stock Units or the subsequent sale of any shares of Stock acquired upon settlement. 
+ 12. Appendix . If the Grantee resides in a country outside the United States or is otherwise subject to the laws of a country other than the United States, the Restricted Stock Units shall be subject to the additional terms and conditions set forth in any Appendix to this Agreement for the Grantee s country, if any. Moreover, if the Grantee relocates to one of the countries included in the Appendix during the life of the Restricted Stock Units, the terms and conditions for such country shall apply to the Grantee, to the extent the Company determines that 
+ 8 
+
+the application of such terms and conditions is necessary or advisable for legal or administrative reasons. 
+ 13. Language . The Grantee acknowledges that he or she is proficient in the English language, or has consulted with an advisor who is sufficiently proficient in English, so as to allow the Grantee to understand the terms and conditions of this Agreement. If the Grantee has received this Agreement, or any other documents related to the Restricted Stock Units and or the Plan translated into a language other than English and if the meaning of the translated version is different than the English version, the English version will control. 
+ 14. Notices . Notices hereunder shall be mailed or delivered to the Company at its principal place of business and shall be mailed or delivered to the Grantee at the address on file with the Company or, in either case, at such other address as one party may subsequently furnish to the other party in writing. 
+ 15. Modifications and Waivers . No provision of this Agreement shall be modified, waived or discharged unless the modification, waiver or discharge is agreed to in writing and signed by the Grantee and by an authorized officer of the Company (other than the Grantee). No waiver by either party of any breach of, or of compliance with, any condition or provision of this Agreement by the other party shall be considered a waiver of any other condition or provision or of the same condition or provision at another time. 
+ 16. Choice of Law . This Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware, as such laws are applied to contracts entered into and performed in such State, without regard to such state s conflict of laws provisions. 
+ 17. Venue . Unless the Grantee and the Company and or the Employer have agreed otherwise in a separate written alternative dispute resolution agreement, for purposes of litigating any dispute that arises directly or indirectly from the relationship of the parties evidenced by the Restricted Stock Units or this Agreement, the parties hereby submit to and consent to the exclusive jurisdiction of the State of California and agree that such litigation shall be conducted only in the courts of San Francisco County, California, or the federal courts for the United States for the Northern District of California, where this grant is made and or to be performed, and no other courts. 
+ 18. Severability . The provisions of this Agreement are severable and if any one or more provisions are determined to be illegal or otherwise unenforceable, in whole or in part, the remaining provisions shall nevertheless be binding and enforceable. 
+ 19. Imposition of Other Requirements . The Company reserves the right to impose other requirements on the Restricted Stock Units and the shares of Stock acquired upon settlement of the Restricted Stock Units, to the extent the Company determines it is necessary or advisable for legal or administrative reasons, and to require the Grantee to accept any additional agreements or undertakings that may be necessary to accomplish the foregoing. 
+ 20. Electronic Delivery and Acceptance of Documents . The Grantee agrees to accept by email all documents relating to the Company, the Plan or these Restricted Stock Units and all 
+ 9 
+
+other documents that the Company is required to deliver to its security holders (including, without limitation, disclosures that may be required by the U.S. Securities and Exchange Commission). The Grantee also agrees that the Company may deliver these documents by posting them on a website maintained by the Company or by a third party under contract with the Company. The Grantee hereby consents to receive such documents by electronic delivery and agrees to participate in the Plan through the electronic acceptance procedure established and maintained by the Company or a third party designated by the Company. If the Company posts these documents on a website, it shall notify the Grantee by email of their availability. The Grantee acknowledges that he or she may incur costs in connection with electronic delivery, including the cost of accessing the internet and printing fees, and that an interruption of internet access may interfere with his or her ability to access the documents. This consent shall remain in effect until the Restricted Stock Units expire or until the Grantee gives the Company written notice that it should deliver paper documents. 
+ 21. Insider Trading Restrictions Market Abuse Laws . By accepting the Restricted Stock Units, the Grantee acknowledges that he or she is bound by all the terms and conditions of the Company s insider trading policy as may be in effect from time to time. The Grantee further acknowledges that, depending on the Grantee s or his or her broker s country of residence or where the shares of Stock are listed, he or she may be subject to insider trading restrictions and or market abuse laws which may affect the Grantee s ability to accept, acquire, sell or otherwise dispose of shares of Stock, rights to shares of Stock e.g. , Restricted Stock Units) or rights linked to the value of shares of Stock under the Plan during such times as the Grantee is considered to have inside information regarding the Company (as defined by the laws in the applicable jurisdictions). Local insider trading laws and regulations may prohibit the cancellation or amendment of orders the Grantee placed before the Grantee possessed inside information. Furthermore, the Grantee could be prohibited from (i) disclosing the inside information to any third party, which may include fellow employees and (ii) tipping third parties or causing them otherwise to buy or sell securities. Any restrictions under these laws or regulations are separate from and in addition to any restrictions that may be imposed under the Company s insider trading policy as may be in effect from time to time. The Grantee acknowledges that it is the Grantee s responsibility to comply with any applicable restrictions, and the Grantee should speak to his or her personal advisor on this matter. 
+ 22. Foreign Asset Account, Exchange Control and Tax Reporting . Depending on the Grantee s country, the Grantee may be subject to foreign asset account, exchange control, tax reporting or other requirements which may affect the Grantee s ability acquire or hold Restricted Stock Units or shares of Stock under the Plan or cash received from participating in the Plan (including dividends and the proceeds arising from the sale of shares of Stock) in a brokerage bank account outside the Grantee s country. The applicable laws of the Grantee s country may require that he or she report such Restricted Stock Units, shares of Stock, accounts, assets or transactions to the applicable authorities in such country and or repatriate funds received in connection with the Plan to the Grantee s country within a certain time period or according to certain procedures. The Grantee acknowledges that he or she is responsible for ensuring compliance with any applicable requirements and should consult his or her personal legal advisor to ensure compliance with applicable laws. 
+ 10 
+
+The foregoing Agreement is hereby accepted and the terms and conditions thereof hereby agreed to by the undersigned. Electronic acceptance of this Agreement pursuant to the Company s instructions to the Grantee (including through an online acceptance process) is acceptable. 
+ Grantee Eventbrite, Inc. 
+ By 
+ FIRST_NAME - LAST_NAME - Title Chief Financial Officer 
+ OPTION_DATE, Month DD, YYYY - 
+
+11 
+
+APPENDIX 
+ GLOBAL RESTRICTED STOCK UNIT AWARD AGREEMENT FOR COMPANY EMPLOYEES UNDER THE EVENTBRITE, INC. 2018 STOCK OPTION AND INCENTIVE PLAN 
+ Capitalized terms used but not defined in this Appendix shall have the same meanings assigned to them in the Plan and or the Global Restricted Stock Unit Award Agreement. 
+ Terms and Conditions 
+ This Appendix includes additional terms and conditions that govern the Restricted Stock Units if the Grantee works and or resides in one of the countries listed below. If the Grantee is a citizen or resident of a country other than the one in which the Grantee is currently working and or residing (or is considered as such for local law purposes), or the Grantee transfers employment or residency to a different country after the Restricted Stock Units are granted, the Company will, in its discretion, determine the extent to which the terms and conditions contained herein will apply to the Grantee. 
+ Notifications 
+ This Appendix also includes information regarding certain other issues of which the Grantee should be aware with respect to the Grantee s participation in the Plan. The information is based on the securities, exchange control and other laws in effect in the respective countries as of February 2019. Such laws are often complex and change frequently. As a result, the Company strongly recommends that the Grantee not rely on the information noted herein as the only source of information relating to the consequences of participation in the Plan because the information may be out-of-date at the time the Grantee vests in the Restricted Stock Units or sells any shares of Stock acquired under the Plan. 
+ In addition, the information contained herein is general in nature and may not apply to the Grantee s particular situation. As a result, the Company is not in a position to assure the Grantee of any particular result. Accordingly, the Grantee is strongly advised to seek appropriate professional advice as to how the relevant laws in the Grantee s country may apply to the Grantee s individual situation. 
+ If the Grantee is a citizen or resident of a country other than the one in which the Grantee is currently working and or residing (or is considered as such for local law purposes), or if the Grantee transfers employment or residency to a different country after the Restricted Stock Units are granted, the notifications contained in this Appendix may not be applicable to the Grantee in the same manner. 
+ 
+ 12 
+
+ARGENTINA 
+ 
+ Terms and Conditions 
+ 
+ Nature of Grant . The following provision supplements Paragraph 11 of the Global Restricted Stock Unit Award Agreement 
+ 
+ In accepting the grant of Restricted Stock Units, the Grantee acknowledges and agrees that the grant of Restricted Stock Units is made by the Company (not the Employer) in its sole discretion and that the value of any Restricted Stock Units or shares of Stock acquired under the Plan shall not constitute salary or wages for any purpose under Argentine law, including the calculation of (i) any labor benefits including, but not limited to, vacation pay, thirteenth salary, compensation in lieu of notice, annual bonus, disability, and leave of absence payments, or (ii) any termination or severance indemnities. 
+ 
+ If, notwithstanding the foregoing, any benefits awarded under the Plan are considered for purposes of calculating any termination or severance indemnities, the Grantee acknowledges and agrees that such benefits shall accrue no more frequently than on an annual basis. 
+ 
+ Notifications 
+ 
+ Securities Law Information . Neither the Restricted Stock Units nor the shares of Stock are publicly offered or listed on any stock exchange in Argentina and, as a result, they have not been and will not be registered with the Argentine Securities Commission Comisi n Nacional de Valores or CNV ). Neither this nor any other offering material related to the Restricted Stock Units nor the underlying shares of Stock may be utilized in connection with any general offering to the public in Argentina. Argentine residents who acquire Restricted Stock Units under the Plan do so according to the terms of a private offering made from outside Argentina. 
+ 
+ Exchange Control Information . Please note that exchange control regulations in Argentina are subject to frequent change. The Grantee is solely responsible for complying with any and all Argentine currency exchange restrictions, approvals and reporting requirements in connection with the Grantee s participation in the Plan. The Grantee should consult with the Grantee s personal legal advisor to ensure compliance with the applicable requirements. 
+ 
+ Foreign Asset Account Reporting Information . Argentine residents must report any shares of Stock they may hold on December 31st of each year on their annual tax return for that year. Argentine residents should consult with their personal tax advisor to ensure compliance with all applicable reporting requirements. 
+ 
+ 13 
+
+AUSTRALIA 
+ 
+ Notifications 
+ 
+ Securities Law Information. The offer of the Restricted Stock Units is intended to comply with the provisions of the Corporations Act 2001, ASIC Regulatory Guide 49 and ASIC Class Order CO 14 1000. Additional details are set forth in the Offer Document for the offer of Restricted Stock Units to Australian Resident Employees, a copy of which is attached to the end of this section for Australia as Annex 1 . 
+ 
+ Tax Notification . The Plan is a plan to which Subdivision 83A-C of the Income Tax Assessment Act 1997 (Cth) (the Act applies (subject to the conditions in that Act). 
+ 
+ 14 
+
+ANNEX 1 
+ 
+ OFFER DOCUMENT 
+ 
+ EVENTBRITE, INC. 2018 STOCK OPTION 
+ AND INCENTIVE PLAN 
+ 
+ OFFER OF RESTRICTED STOCK UNITS 
+ TO AUSTRALIAN RESIDENT EMPLOYEES 
+ 
+ The Company is pleased to provide the Grantee with this offer to participate in the Plan. This offer sets out information regarding the grant of Restricted Stock Units to Australian resident employees of the Company and its Subsidiaries. This offer is provided by the Company to 
+ 15 
+
+ensure compliance of the Plan with Australian Securities and Investments Commission ASIC Class Order 14 1000 and relevant provisions of the Corporations Act 2001. 
+ 
+ In addition to the information set out in the Agreement, the Grantee is also being provided with copies of the following documents 
+ 
+ 1. The Plan 
+ 2. The Plan Prospectus and 
+ 3. Employee Information Supplement for Australia 
+ (collectively, the Additional Documents ). 
+ 
+ The Additional Documents provide further information to help the Grantee make an informed investment decision about participating in the Plan. Neither the Plan nor the Plan Prospectus is a prospectus for the purposes of the Corporations Act 2001. 
+ 
+ The Grantee should not rely upon any oral statements made in relation to this offer. The Grantee should rely only upon the statements contained in the Agreement and the Additional Documents when considering participation in the Plan. 
+ 
+ Securities Law Notification 
+ 
+ Investment in shares of Stock involves a degree of risk. Grantees who elect to participate in the Plan should monitor their participation and consider all risk factors relevant to the acquisition of shares of Stock under the Plan as set out in the Agreement and the Additional Documents. 
+ 
+ The information contained in this offer is general information only. It is not advice or information that takes into account the Grantee s objectives, financial situation and needs. 
+ 
+ The Grantee should consider obtaining his or her own financial product advice from an independent person who is licensed by ASIC to give advice about participation in the Plan. 
+ 
+ Additional Risk Factors for Australian Residents 
+ 
+ The Grantee should have regard to risk factors relevant to investment in securities generally and, in particular, to the holding of shares of Stock. For example, the price at which the shares of Stock are traded on the New York Stock Exchange may increase or decrease due to a number of factors. There is no guarantee that the price of the shares of Stock will increase. Factors which may affect the price of the shares of Stock include fluctuations in the domestic and international market for listed stocks, general economic conditions, including interest rates, inflation rates, commodity and oil prices, changes to government fiscal, monetary or regulatory policies, 
+ 16 
+
+legislation or regulation, the nature of the markets in which the Company operates and general operational and business risks. 
+ 
+ In addition, the Grantee should be aware that the Australian dollar value of any shares of Stock acquired pursuant to the Award will be affected by the U.S. dollar Australian dollar exchange rate. Participation in the Plan involves certain risks related to fluctuations in this rate of exchange. 
+ 
+ Common Stock 
+ 
+ Common Stock of a U.S. corporation is analogous to ordinary shares of an Australian corporation. Each holder of a share of Stock is entitled to one vote for each share of Stock held. 
+ 
+ Dividends may be paid on the shares of Stock out of any funds of the Company legally available for dividends at the discretion of the Board. 
+ 
+ The Stock is traded on the New York Stock Exchange in the United States of America under the symbol EB. 
+ 
+ The shares of Stock are not liable to any further calls for payment of capital or for other assessment by the Company and have no sinking fund provisions, pre-emptive rights, conversion rights or redemption provisions. 
+ 
+ Ascertaining the Market Price of Shares 
+ 
+ The Grantee may ascertain the current market price of the Stock as traded on the New York Stock Exchange at http www.nyse.com under the symbol EB. The Australian dollar equivalent of that price can be obtained at 
+ http www.rba.gov.au statistics frequency exchange-rates.html. 
+ 
+ This is not a prediction of what the market price of the Stock will be on any applicable Vesting Date or when shares of Stock are issued to the Grantee or at any other time or of the applicable exchange rate at such time. 
+
+17 
+
+BELGIUM 
+ 
+ Notifications 
+ 
+ Foreign Asset Account Reporting Information . The Grantee must report any securities e.g. , shares of Stock acquired under the Plan) or bank or brokerage accounts opened and maintained outside Belgium on the Grantee s annual tax return. In a separate report, the Grantee is required to report to the National Bank of Belgium the details of such accounts opened and maintained outside Belgium. This report, as well as additional information on how to complete it, can be found on the website of the National Bank of Belgium, www.nbb.be, under the Kredietcentrales Centrales des cr dits caption. 
+ 
+ BRAZIL 
+ 
+ Terms and Conditions 
+ Nature of Grant . This provision supplements Paragraph 11 of the Global Restricted Stock Unit Award Agreement 
+ 
+ By accepting the grant of the Restricted Stock Units, the Grantee acknowledges that (i) the Grantee is making an investment decision, (ii) the Restricted Stock Units will only vest if the vesting conditions are met and any necessary services are rendered by the Grantee over the applicable vesting period, and (iii) the value of the underlying shares of Stock is not fixed and may increase or decrease without compensation to the Grantee. 
+ 
+ Further, the Grantee acknowledges and agrees that, for all legal purposes, (i) any benefits the Grantee acquires under the Plan are unrelated to his or her employment or service, (ii) the Plan is not a part of the terms and conditions of the Grantee s employment or service, and (iii) the Grantee s income from participation in the Plan, if any, is not part of his or her remuneration from employment or service. 
+ 
+ Compliance with Law . The Grantee must comply with applicable Brazilian laws and is responsible for paying any and all applicable taxes associated with the Restricted Stock Units, the receipt of any dividends, the payment of any Dividend Equivalent Rights and the sale of shares of Stock acquired under the Plan. 
+ 
+ Notifications 
+ 
+ Foreign Asset Account Reporting Information . A Grantee resident or domiciled in Brazil will be required to submit an annual declaration of assets and rights held outside Brazil, including any shares of Stock acquired under the Plan, to the Central Bank of Brazil if the aggregate value of such assets and rights equals or exceeds US 100,000. More frequent reporting is required if the aggregate value of such assets and rights exceeds US 100,000,000. 
+ 
+ 18 
+
+Tax on Financial Transactions . The repatriation of proceeds from the sale of shares of Stock or the payment of any dividends or Dividend Equivalent Rights into Brazil and the conversion of such amounts into Brazilian currency may be subject to the Tax on Financial Transactions. The Grantee should consult with his or her personal tax advisor for additional details. 
+ 
+ CANADA 
+ 
+ Terms and Conditions 
+ 
+ Award Payable Only in Shares . Notwithstanding anything to the contrary in Section 8(a) of the Plan, the Restricted Stock Units shall be paid in shares of Stock only and do not provide the Grantee with any right to receive a cash payment. 
+ 
+ Termination of Service . The following provision replaces Paragraph 3(b) of the Global Restricted Stock Unit Award Agreement 
+ 
+ For purposes of the Restricted Stock Units, the date of the Grantee s termination of employment shall be the date that is the earliest of (i) the date on which the Grantee s employment is terminated, (ii) the date that the Grantee receives notice of termination of the Grantee s employment, or (iii) the date the Grantee is no longer actively providing services to the Company or any Subsidiary, regardless of any notice period or period of pay in lieu of such notice required under applicable employment laws in the jurisdiction where the Grantee is employed or providing services (including, but not limited to statutory law, regulatory law and or common law) or the terms of the Grantee s employment agreement, if any. The Administrator shall have the exclusive discretion to determine when the Grantee is no longer actively providing services for purposes of the Restricted Stock Units (including whether the Grantee may still be considered to be providing services while on a leave of absence). 
+ 
+ The following terms and conditions apply to employees resident in Quebec 
+ 
+ Language . The parties acknowledge that it is their express wish that this Agreement, as well as all documents, notices and legal proceedings entered into, given or instituted pursuant hereto or relating directly or indirectly hereto, be drawn up in English. 
+ 
+ Les parties reconnaissent avoir exig la r daction en anglais de cette convention, ainsi que de tous documents, avis et proc dures judiciaires, ex cut s, donn s ou intent s en vertu de, ou li s directement ou indirectement , la pr sente convention. 
+ Data Privacy . The Grantee hereby authorizes the Company and the Company s representatives to discuss with and obtain all relevant information from all personnel, professional or non-professional, involved in the administration and operation of the Plan. The Grantee further authorizes the Company and any Subsidiary and the Administrator to disclose and discuss the Plan with their advisors and to record all relevant information and keep such information in the Grantee s employee file. 
+ 19 
+
+Notifications 
+ 
+ Securities Law Information . The Grantee is permitted to sell shares of Stock acquired under the Plan through the designated broker appointed under the Plan, if any, provided the resale of shares of Stock acquired under the Plan takes place outside Canada through the facilities of a stock exchange on which the Stock is listed. The Stock is currently listed on the NYSE . 
+ Foreign Asset Account Reporting Information . Canadian residents are required to report any foreign specified property held outside Canada (including Restricted Stock Units and shares of Stock acquired under the Plan) annually on form T1135 (Foreign Income Verification Statement) if the total cost of the foreign specified property exceeds C 100,000 at any time during the year. Thus, if the C 100,000 cost threshold is exceeded by other foreign specified property held by the individual, Restricted Stock Units must be reported (generally at a nil cost). For purposes of such reporting, shares of Stock acquired under the Plan may be reported at their adjusted cost bases. The adjusted cost basis of a share of Stock is generally equal to the fair market value of such share at the time of acquisition however, if the Grantee owns other shares of Stock e.g. , acquired under other circumstances or at another time), the adjusted cost basis may have to be averaged with the adjusted cost bases of the other shares of Stock. The Grantee should consult his or her personal legal advisor to ensure compliance with applicable reporting obligations. 
+ 
+ GERMANY 
+ 
+ Notifications 
+ Exchange Control Information . German residents must electronically report cross-border payments in excess of 12,500 to the German Federal Bank Bundesbank on a monthly basis. In case of payments in connection with securities (including any Dividend Equivalent Rights and proceeds realized upon the sale of shares of Stock or the receipt of any dividends), the report must be made by the 5th day of the month following the month in which the payment was received. The form of report Allgemeines Meldeportal Statistik can be accessed via the Bundesbank s website www.bundesbank.de ). The Grantee should consult his or her personal advisor to ensure compliance with applicable reporting obligations. 
+ Foreign Asset Account Reporting Information . If the Grantee s acquisition of shares of Stock under the Plan leads to a so-called qualified participation at any point during the calendar year, the Grantee will need to report the acquisition when the Grantee files his or her tax return for the relevant year. A qualified participation is attained if (i) the value of the shares of Stock acquired exceeds 150,000 or (ii) in the unlikely event the Grantee holds shares of Stock exceeding 10 of the total capital of the Company. 
+ 
+ IRELAND 
+ 
+ There are no country-specific provisions. 
+ 
+ 20 
+
+NETHERLANDS 
+ 
+ There are no country-specific provisions. 
+ 
+ NEW ZEALAND 
+ 
+ Notifications 
+ 
+ WARNING This is an offer of rights to receive shares of Stock underlying the Restricted Stock Units. The shares of Stock, if issued, give the Grantee a stake in the ownership of the Company. The Grantee may receive a return if dividends are paid on the shares of Stock. 
+ 
+ If the Company runs into financial difficulties and is wound up, the Grantee will be paid only after all creditors and holders of preferred shares have been paid. The Grantee may lose some or all of his or her investment. 
+ 
+ New Zealand law normally requires people who offer financial products to give information to investors before they invest. This information is designed to help investors to make an informed decision. The usual rules do not apply to this offer because it is made under an employee share scheme. As a result, the Grantee may not be given all the information usually required. The Grantee will also have fewer other legal protections for this investment. 
+ 
+ The Grantee should ask questions, read all documents carefully, and seek independent financial advice before committing himself or herself. 
+ 
+ The shares of Stock are quoted or approved for trading on the NYSE . This means that, if the Grantee vests in Restricted Stock Units and shares of Stock are issued to the Grantee, the Grantee can sell his or her investment on the NYSE if there are buyers for it. If the Grantee sells his or her investment, the price he or she receives may vary depending on factors such as the financial condition of the Company. The Grantee may receive less than the full amount that he or she paid for it, if anything. 
+ 
+ For information on risk factors impacting the Company s business that may affect the value of the shares of Stock, the Grantee should refer to the risk factors discussion in the Company s annual and quarterly reports, which are filed with the U.S. Securities and Exchange Commission and are available online at www.sec.gov, as well as on the Company s intranet. 
+ 
+ For more details on the terms and conditions of the Restricted Stock Units, please refer to the Agreement, the Plan and the prospectus which can be obtained free of charge on request via email to stock eventbrite.com. 
+ 
+ As noted above, the Grantee should carefully read the materials provided before making a decision whether to participate in the Plan. The Grantee should also contact his or her tax 
+ 21 
+
+advisor for specific information concerning Grantee s personal tax situation with regard to Plan participation. 
+ 
+ SPAIN 
+ 
+ Terms and Conditions 
+ 
+ Nature of Grant . This provision supplements Paragraph 11 of the Global Restricted Stock Unit Award Agreement 
+ 
+ In accepting the grant of Restricted Stock Units, the Grantee consents to participate in the Plan and acknowledges that he or she has received a copy of the Plan. The Grantee understands that the Company has unilaterally, gratuitously and in its sole discretion decided to grant Restricted Stock Units under the Plan to individuals who may be employees of the Company or any Subsidiary throughout the world. The decision is a limited decision that is entered into upon the express assumption and condition that any grant will not economically or otherwise bind the Company or any Subsidiary. Consequently, the Grantee understands that the Restricted Stock Units are granted on the assumption and condition that the Restricted Stock Units and the shares of Stock issued upon settlement of the Restricted Stock Units shall not become a part of any employment contract (either with the Company or Subsidiary) and shall not be considered a mandatory benefit, salary for any purposes (including severance compensation) or any other right whatsoever. 
+ 
+ As a condition of the grant of the Restricted Stock Units, unless otherwise provided in the Agreement or by the Company, the Grantee s termination of employment for any reason will automatically result in the forfeiture and loss of the shares of Stock subject to the unvested portion of the Restricted Stock Units. In particular, and without limitation to the provisions of the Plan, the Grantee understands and agrees that any unvested portion of the Restricted Stock Units as of the date of the Grantee s termination of employment will be cancelled without entitlement to the underlying shares of Stock or to any amount as indemnification if the Grantee terminates employment by reason of, including, but not limited to, resignation, retirement, disciplinary dismissal adjudged to be with cause, disciplinary dismissal adjudged or recognized to be without cause i.e. , subject to a despido improcedente ), individual or collective dismissal on objective grounds, whether adjudged or recognized to be with or without cause, material modification of the terms of employment under Article 41 of the Workers Statute, relocation under Article 40 of the Workers Statute, and or Article 50 of the Workers Statute, unilateral withdrawal by the Employer and under Article 10.3 of the Royal Decree 1382 1985. 
+ 
+ Finally, the Grantee understands that this grant would not be made to the Grantee but for the assumptions and conditions referred to herein thus, the Grantee acknowledges and freely accepts that should any or all of the assumptions be mistaken or should any of the conditions not be met for any reason, then the grant of the Restricted Stock Units shall be null and void. 
+ 
+ Notifications 
+ 22 
+
+Securities Law Information . No offer of securities to the public, as defined under Spanish law, has taken place or will take place in the Spanish territory. The Agreement and the Plan have not been nor will they be registered with the Comisi n Nacional del Mercado de Valores (the Spanish securities regulator), and none of these documents constitutes a public offering prospectus. 
+ 
+ Exchange Control Information . The Grantee must declare the acquisition, ownership and disposition of shares of Stock to the Direcci n General de Comercio Internacional e Inversiones (the DGCI of the Ministry of Economy and Competitiveness for statistical purposes. Generally, the declaration must be filed in January for shares of Stock acquired or disposed of during the prior year and or for shares of Stock owned as of December 31 of the prior year however, if the value of the shares of Stock acquired under the Plan or the amount of the sale proceeds exceeds 1,502,530 (or if the Grantee holds 10 or more of the share capital of the Company), the declaration must be filed within one month of the acquisition or disposition, as applicable. 
+ 
+ In addition, the Grantee may be required to declare electronically to the Bank of Spain any foreign accounts (including brokerage accounts held abroad), any foreign instruments (including any shares of Stock acquired under the Plan) and any transactions with non-Spanish residents (including any payments of shares of Stock made to the Grantee by the Company) depending on the value of such accounts and instruments and the amount of the transactions during the relevant year as of December 31 of the relevant year. 
+ 
+ Foreign Asset Account Reporting Information . The Grantee may be subject to certain tax reporting requirements with respect to assets or rights that the Grantee holds outside Spain, including bank accounts, securities and real estate if the aggregate value for each particular category of assets exceeds 50,000 as of December 31 each year. Unvested awards e.g. , Restricted Stock Units) are not considered assets or rights for purposes of this reporting requirement. If applicable, the Grantee must report the assets on Form 720 by no later than March 31 following the end of the relevant year. After the rights and or assets are initially reported, the reporting obligation will only apply if the value of previously-reported rights or assets increases by more than 20,000 as of each subsequent December 31 and or if the Grantee disposes of previously-reported rights or assets. The Grantee should consult his or her personal advisor to ensure compliance with applicable reporting obligations. 
+ 
+ UNITED KINGDOM 
+ 
+ Terms and Conditions 
+ 
+ Responsibility for Taxes . The following provisions supplement Paragraph 6 of the Global Restricted Stock Unit Award Agreement 
+ 
+ 23 
+
+Without limitation to Paragraph 6 of this Agreement, the Grantee agrees that the Grantee is liable for all Tax-Related Items and hereby covenants to pay all such Tax-Related Items as and when requested by the Company or, if different, the Employer or by Her Majesty s Revenue and Customs HMRC (or any other tax authority or any other relevant authority). The Grantee also agrees to indemnify and keep indemnified the Company or the Employer against any Tax-Related Items that they are required to pay or withhold or have paid or will pay to HMRC (or any other tax authority or any other relevant authority) on the Grantee s behalf. 
+ 
+ Notwithstanding the foregoing, if the Grantee is a director or executive officer of the Company (within the meaning of Section 13(k) of the Exchange Act), the terms of the immediately foregoing provision will not apply. In such case, if the amount of any income tax due is not collected from or paid by the Grantee within 90 days of the end of the U.K. tax year in which an event giving rise to the indemnification described above occurs, the amount of any uncollected income taxes may constitute a benefit to the Grantee on which additional income tax and national insurance contributions NICs may be payable. The Grantee will be responsible for reporting and paying any income tax due on this additional benefit directly to HMRC under the self-assessment regime and for paying to the Company or the Employer, as applicable, any employee NICs due on this additional benefit, which the Company or the Employer may recover from the Grantee by any of the means referred to in Paragraph 6 of this Agreement. 
+ 
+ Joint Election for Transfer of Liability for Employer National Insurance Contributions . As a condition of the Grantee s participation in the Plan, the Grantee agrees to accept liability for any secondary Class 1 NICs which may be payable by the Employer in connection with any event giving rise to Tax-Related Items in relation to the Restricted Stock Units (the Employer NICs ). Without prejudice to the foregoing, the Grantee agrees to execute a joint election with the Company or the Employer (a Joint Election ), the form of such Joint Election being formally approved by HMRC, and any other consent or elections required to accomplish the transfer of the Employer NICs to the Grantee. The Grantee further agrees to execute such other elections as may be required by any successor to the Company and or the Employer for the purpose of continuing the effectiveness of the Grantee s Joint Election. The Grantee further agrees that the Company and or the Employer may collect the Employer NICs from the Grantee by any of the means set forth in Paragraph 6 of this Agreement. The Grantee must enter into the Joint Election attached to this Appendix concurrent with the acceptance of this Agreement. 
+ If the Grantee does not enter into a Joint Election prior to the Vesting Date, the Grantee will not be entitled to vest in his or her Restricted Stock Units and no shares of Stock will be issued to the Grantee in respect of the Plan, without any liability to the Company or the Employer. 
+ 
+ 24 
+
+Important Note on the Election to Transfer Employer National Insurance Contributions 
+ As a condition of the Grantee s participation in the Plan, the Grantee is required to enter into an election to transfer to the Grantee any liability for employer s secondary Class 1 National Insurance Contributions Employer s NICs that may arise in connection with the Grantee s participation in the Plan (the Election ). 
+ By entering into the Election 
+ the Grantee agrees that any Employer s NICs liability that may arise in connection with the Grantee s participation in the Plan will be transferred to the Grantee 
+ the Grantee authorises the Employer and the Company to recover an amount sufficient to cover this liability by such methods including, but not limited to, deductions from the Grantee s salary or other payments due or the sale of sufficient shares of Stock acquired pursuant to the Grantee s Restricted Stock Units and 
+ the Grantee acknowledges that even if the Grantee has clicked on the ACCEPT box where indicated, the Company or the Employer may still require the Grantee to sign a paper copy of this Election (or a substantially similar form) if the Company or the Employer determines such is necessary to give effect to the Election. 
+ Clicking on the ACCEPT box indicates the Grantee s acceptance of the Election. The Grantee should read the terms of the Election carefully before accepting the Election. 
+ The Grantee should print and keep a copy of the Election for his or her records. 
+ 
+ 25 
+
+Joint Election for Transfer of Liability for Employer National Insurance Contributions to Employee 
+ Election To Transfer the Employer s National Insurance Liability to the Employee 
+ This Election is between 
+ A. The individual who has obtained authorised access to this Election (the Employee ), who is employed by one of the employing companies listed in the attached schedule (the Employer and who is eligible to receive restricted stock units (the Restricted Stock Units pursuant to the Eventbrite, Inc. 2018 Stock Option and Incentive Plan (the Plan ), and 
+ B. Eventbrite, Inc., with its registered office at 155 5th St, 7th Floor, San Francisco, CA 94103 (the Company ), which may grant Restricted Stock Units under the Plan and is entering into this Election on behalf of the Employer. 
+ 1. Introduction 
+ 
+ 1.1 This Election relates to all Restricted Stock Units granted to the Employee under the Plan on or after August 22, 2018 up to the termination date of the Plan. 
+ 
+ 1.2 In this Election the following words and phrases have the following meanings 
+ 
+ (a) Chargeable Event means any event giving rise to Relevant Employment Income. 
+ 
+ (b) ITEPA means the Income Tax (Earnings and Pensions) Act 2003. 
+ 
+ (c) Relevant Employment Income from Restricted Stock Units on which Employer's National Insurance Contributions becomes due is defined as 
+ 
+ (i) an amount that counts as employment income of the earner under section 426 ITEPA (restricted securities charge on certain post-acquisition events) 
+ 
+ (ii) an amount that counts as employment income of the earner under section 438 of ITEPA (convertible securities charge on certain post-acquisition events) or 
+ 
+ (iii) any gain that is treated as remuneration derived from the earner's employment by virtue of section 4(4)(a) SSCBA, including without limitation 
+ 
+ (A) the acquisition of securities pursuant to the Restricted Stock Units (within the meaning of section 477(3)(a) of ITEPA) 
+ 
+ 26 
+
+(B) the assignment (if applicable) or release of the Restricted Stock Units in return for consideration (within the meaning of section 477(3)(b) of ITEPA) 
+ 
+ (C) the receipt of a benefit in connection with the Restricted Stock Units, other than a benefit within (i) or (ii) above (within the meaning of section 477(3)(c) of ITEPA). 
+ 
+ (d) SSCBA means the Social Security Contributions and Benefits Act 1992. 
+ 
+ 1.3 This Election relates to the Employer s secondary Class 1 National Insurance Contributions (the Employer s Liability which may arise in respect of Relevant Employment Income in respect of the Restricted Stock Units pursuant to section 4(4)(a) and or paragraph 3B(1A) of Schedule 1 of the SSCBA. 
+ 
+ 1.4 This Election does not apply in relation to any liability, or any part of any liability, arising as a result of regulations being given retrospective effect by virtue of section 4B(2) of either the SSCBA, or the Social Security Contributions and Benefits (Northern Ireland) Act 1992. 
+ 
+ 1.5 This Election does not apply to the extent that it relates to relevant employment income which is employment income of the earner by virtue of Chapter 3A of Part VII of ITEPA (employment income securities with artificially depressed market value). 
+ 
+ 2. The Election 
+ 
+ The Employee and the Company jointly elect that the entire liability of the Employer to pay the Employer s Liability that arises on any Relevant Employment Income is hereby transferred to the Employee. The Employee understands that, by electronically accepting this Election, he or she will become personally liable for the Employer s Liability covered by this Election. This Election is made in accordance with paragraph 3B(1) of Schedule 1 of the SSCBA. 
+ 
+ 3. Payment of the Employer s Liability 
+ 
+ 3.1 The Employee hereby authorises the Company and or the Employer to collect the Employer s Liability in respect of any Relevant Employment Income from the Employee at any time after the Chargeable Event 
+ 
+ (i) by deduction from salary or any other payment payable to the Employee at any time on or after the date of the Chargeable Event and or 
+ (ii) directly from the Employee by payment in cash or cleared funds and or 
+ (iii) by arranging, on behalf of the Employee, for the sale of some of the securities which the Employee is entitled to receive in respect of the Restricted Stock Units, the proceeds from which must be delivered to the Employer in sufficient time for payment to be made to Her Majesty s Revenue & Customs HMRC by the due date and or 
+ 27 
+
+(iv) where the proceeds of the gain are to be paid through a third party, the Employee will authorize that party to withhold an amount from the payment or to sell some of the securities which the Employee is entitled to receive in respect of the Restricted Stock Units, such amount to be paid in sufficient time to enable the Company and or the Employer to make payment to HMRC by the due date and or 
+ (v) by any other means specified in the applicable Restricted Stock Unit agreement entered into between the Employee and the Company. 
+ 3.2 The Company hereby reserves for itself and the Employer the right to withhold the transfer of any securities to the Employee in respect of the Restricted Stock Units until full payment of the Employer s Liability is received. 
+ 
+ 3.3 The Company agrees to procure the remittance by the Employer of the Employer s Liability to HMRC on behalf of the Employee within 14 days after the end of the UK tax month during which the Chargeable Event occurs (or within 17 days after the end of the UK tax month during which the Chargeable Event occurs if payments are made electronically). 
+ 
+ 4. Duration of Election 
+ 
+ 4.1 The Employee and the Company agree to be bound by the terms of this Election regardless of whether the Employee is transferred abroad or is not employed by the Employer on the date on which the Employer s Liability becomes due. 
+ 
+ 4.2 Any reference to the Company and or the Employer shall include that entity s successors in title and assigns as permitted in accordance with the terms of the Plan and relevant award agreement. This Election will continue in effect in respect of any awards which replace the Restricted Stock Units in circumstances where section 483 of ITEPA applies. 
+ 
+ 4.3 This Election will continue in effect until the earliest of the following 
+ 
+ (i) the date on which the Employee and the Company agree in writing that it should cease to have effect 
+ (ii) the date on which the Company serves written notice on the Employee terminating its effect 
+ (iii) the date on which HMRC withdraws approval of this Election or 
+ (iv) the date on which, after due payment of the Employer s Liability in respect of the entirety of the Restricted Stock Units to which this Election relates or could relate, the Election ceases to have effect in accordance with its own terms. 
+ 4.4 This Election will continue in force regardless of whether the Employee ceases to be an employee of the Employer. 
+ 
+ 28 
+
+Acceptance by the Employee 
+ The Employee acknowledges that, by clicking on the ACCEPT box, the Employee agrees to be bound by the terms of this Election. 
+ Acceptance by the Company 
+ The Company acknowledges that, by signing this Election or arranging for the scanned signature of an authorised representative to appear on this Election, the Company agrees to be bound by the terms of this Election. 
+
+Signature for and on behalf of the Company 
+ Chief Financial Officer Position 
+ Date OPTION_DATE, Month DD, YYYY - 
+
+29 
+
+Schedule of Employer Companies 
+ The employing company to which this Election relates is 
+ Name 
+ Eventbrite UK Limited 
+ Registered Office 
+ 90 High Holborn, London WC1V 6XX, United Kingdom 
+ Company Registration Number 
+ 7644044 
+ Corporation Tax Reference 
+ 623 70711 10736 
+ PAYE Reference 
+ 475 LA60186 
+
+30 
+
+UNITED STATES 
+ There are no country-specific terms and conditions. 
+ 31 
+
+</EX-10.3>
+
+<EX-31.1>
+ 5
+ ex311certification-q32024.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ 
+ Certification of Principal Executive Officer Pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), 
+ As Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ I, Julia Hartz, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Eventbrite, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date November 7, 2024 
+ s Julia Hartz Julia Hartz Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ ex312certification-q32024.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ 
+ Certification of Principal Accounting and Financial Officer Pursuant to Exchange Act Rules 13a-14(a) and 15d-14(a), 
+ As Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 
+ I, Charles Baker, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Eventbrite, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date November 7, 2024 
+ 
+ s Charles Baker Charles Baker Chief Operating and Financial Officer (Principal Accounting and Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ ex321certification-q32024.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ 
+ Certifications of Chief Executive Officer and Chief Operating and Financial Officer 
+ Pursuant to 18 U.S.C. Section 1350 
+ As Adopted Pursuant to 
+ Section 906 of the Sarbanes-Oxley Act of 2002 
+
+Pursuant to the requirement set forth in Rule 13a-14(b) of the Securities Exchange Act of 1934, as amended (the Exchange Act ), and Section 1350 of Chapter 63 of Title 18 of the United States Code (18 U.S.C. 1350), Julia Hartz, Chief Executive Officer of Eventbrite, Inc. (the Company ), and Charles Baker, Chief Operating and Financial Officer of the Company, each hereby certifies that, to the best of his or her knowledge 
+ 
+ 1. The Company s Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024, to which this Certification is attached as Exhibit 32.1 (the Periodic Report ), fully complies with the requirements of Section 13(a) or Section 15(d) of the Exchange Act and 
+ 
+ 2. The information contained in the Periodic Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date November 7, 2024 
+ 
+ s Julia Hartz Julia Hartz Chief Executive Officer (Principal Executive Officer) 
+ 
+ s Charles Baker Charles Baker Chief Operating and Financial Officer (Principal Accounting and Financial Officer) 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 8
+ eb-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ eb-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ eb-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ eb-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ eb-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

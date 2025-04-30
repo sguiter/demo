@@ -1,0 +1,1277 @@
+<Header>
+<FileStats>
+    <FileName>20241212_10-Q_edgar_data_1474432_0001628280-24-050852.txt</FileName>
+    <GrossFileSize>8721459</GrossFileSize>
+    <NetFileSize>190267</NetFileSize>
+    <NonText_DocumentType_Chars>1519646</NonText_DocumentType_Chars>
+    <HTML_Chars>3190425</HTML_Chars>
+    <XBRL_Chars>1969087</XBRL_Chars>
+    <XML_Chars>1674167</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001628280-24-050852.hdr.sgml : 20241212
+<ACCEPTANCE-DATETIME>20241211185654
+ACCESSION NUMBER:		0001628280-24-050852
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		85
+CONFORMED PERIOD OF REPORT:	20241103
+FILED AS OF DATE:		20241212
+DATE AS OF CHANGE:		20241211
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Pure Storage, Inc.
+		CENTRAL INDEX KEY:			0001474432
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER STORAGE DEVICES [3572]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				271069557
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0202
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37570
+		FILM NUMBER:		241542739
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2555 AUGUSTINE DRIVE
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		800-379-7873
+
+	MAIL ADDRESS:	
+		STREET 1:		2555 AUGUSTINE DRIVE
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PURE Storage, Inc.
+		DATE OF NAME CHANGE:	20100804
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Os76, Inc.
+		DATE OF NAME CHANGE:	20091014
+
+</SEC-Header>
+</Header>
+
+ 0001628280-24-050852.txt : 20241212
+
+10-Q
+ 1
+ pstg-20241103.htm
+ 10-Q
+
+pstg-20241103 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission File Number: 
+ (Exact Name of Registrant as Specified in its Charter) 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ 
+ , 
+ (Address of principal executive offices, including zip code) 
+ 
+ ) 
+ (Registrant's telephone number, including area code) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No o 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No o 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. x Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to section 13(a) of the Exchange Act. o 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No x 
+ 
+ As of December 4, 2024, the registrant had shares of its Class A common stock outstanding. 
+
+Table of Contents 
+
+ PURE STORAGE, INC. 
+ FORM 10-Q for the Quarter Ended November 3, 2024 
+ Table of Contents 
+ Page Note About Forward-Looking Statements 
+ ii 
+ 
+ PART I. 
+ 
+ FINANCIAL INFORMATION 
+ Item 1. Financial Statements (unaudited) 
+ 1 
+ Condensed Consolidated Balance Sheets 
+ 1 
+ Condensed Consolidated Statements of Operations 
+ 2 
+ Condensed Consolidated Statements of Comprehensive Income 
+ 3 
+ Condensed Consolidated Statements of Stockhold ers Equity 
+ 4 
+ Condensed Consolidated Statements of Cash Flows 
+ 6 
+ Notes to Condensed Consolidated Financial Statements 
+ 7 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 26 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 36 
+ Item 4. Controls and Procedures 
+ 37 
+ PART II. OTHER INFORMATION 
+ Item 1. Legal Proceedings 
+ 38 
+ Item 1A. Risk Factors 
+ 38 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 59 
+ Item 3. Defaults Upon Senior Securities 
+ 59 
+ Item 4. Mine Safety Disclosures 
+ 59 
+ Item 5. Other Information 
+ 59 
+ Item 6. Exhibits 
+ 60 
+ Signatures 
+
+Table of Contents 
+
+ NOTE ABOUT FORWARD-LOOKING STATEMENTS 
+ This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act), about us and our industry that involve substantial risks and uncertainties. All statements other than statements of historical facts contained in this report, including statements regarding our future results of operations and financial condition, business strategy and plans and objectives of management for future operations, are forward-looking statements. In some cases, forward-looking statements may be identified by words such as anticipate, believe, continue, could, design, estimate, expect, intend, may, plan, potentially, predict, project, should, will or the negative of these terms or other similar expressions. 
+ Forward-looking statements contained in this Quarterly Report on Form 10-Q include, but are not limited to, statements regarding macroeconomic conditions, including, among other issues, inflation, interest rates, and a slowdown in demand, our ability to sustain or manage our profitability and growth, our expectations regarding demand for our products and subscription services, including Evergreen//One, trends in the external storage market, our ability to expand market share, our expectations that sales prices may decrease or fluctuate over time, our plans to expand and continue to invest internationally, our plans to continue investing in marketing, sales, support and research and development, our shift to subscription services, including as-a-Service offerings, our expectations regarding fluctuations in our revenue and operating results, including the timing and magnitude of large customer orders, including timing of sales in connection with our design win announcement with a major Hyperscaler, our expectations that we may continue to experience losses despite revenue growth, our ability to successfully attract, motivate, and retain qualified personnel and maintain our culture, our expectations regarding our technological leadership and market opportunity, including our ability to meet hyperscalers performance and price requirements for their standard storage needs, our ability to realize benefits from our acquisitions and investments, our ability to innovate and introduce new or enhanced products, our expectations regarding technology and product strategy and technology differentiation, specifically our sustainability goals, our customer priorities around sustainability, and the environmental and energy saving benefits to our customers of using our products, our competitive position and the effects of competition and industry dynamics, including alternative offerings from incumbent, emerging and public cloud vendors, the potential disruptions to our contract manufacturers or supply chain, our expectations about the impact of, and trends relating to, component pricing, our expectations concerning relationships with third parties, including our partners, customers, suppliers and contract manufacturers, the adequacy of our intellectual property rights, expectations concerning potential legal proceedings and related costs, and the impact of adverse economic conditions on our business, operating results, cash flows and/or financial condition. 
+ We have based these forward-looking statements largely on our current expectations and projections about future events and financial trends that we believe may affect our financial condition, results of operations, business strategy, and financial needs. These forward-looking statements are subject to a number of known and unknown risks, uncertainties and assumptions, including risks described in the section titled Risk Factors. These risks are not exhaustive. Other sections of this report include additional factors that could harm our business and financial performance. Moreover, we operate in a very competitive and rapidly changing environment. New risk factors emerge from time to time, and it is not possible for our management to predict all risk factors nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ from those contained in, or implied by, any forward-looking statements. 
+ Investors should not rely upon forward-looking statements as predictions of future events. We cannot assure investors that the events and circumstances reflected in the forward-looking statements will be achieved or occur. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance or achievements. Except as required by law, we undertake no obligation to update publicly any forward-looking statements for any reason after the date of this report or to conform these statements to actual results or to changes in our expectations. Investors should read this Quarterly Report on Form 10-Q and the documents that we reference in this Quarterly Report on Form 10-Q and have filed as exhibits to this report with the understanding that our actual future results, levels of activity, performance and achievements may be materially different from what we expect. We qualify all of our forward-looking statements by these cautionary statements. 
+ ii 
+
+Table of Contents 
+
+ PART I FINANCIAL INFORMATION 
+ 
+ Item 1. Financial Statements. 
+ 
+ PURE STORAGE, INC. 
+ Condensed Consolidated Balance Sheets 
+ (in thousands, except per share data, unaudited) At the End of Fiscal 2024 Third Quarter of Fiscal 2025 
+ ASSETS Current assets: Cash and cash equivalents Marketable securities Accounts receivable, net of allowance of and 
+ Inventory Deferred commissions, current Prepaid expenses and other current assets Total current assets Property and equipment, net Operating lease right-of-use assets Deferred commissions, non-current Intangible assets, net Goodwill Restricted cash Other assets, non-current Total assets LIABILITIES AND STOCKHOLDERS EQUITY Current liabilities: Accounts payable Accrued compensation and benefits Accrued expenses and other liabilities Operating lease liabilities, current Deferred revenue, current Debt, current Total current liabilities Long-term debt Operating lease liabilities, non-current Deferred revenue, non-current Other liabilities, non-current Total liabilities Commitments and contingencies (Note 7) per share shares authorized; shares issued and outstanding 
+ Class A and Class B common stock, par value of per share (Class A , Class B shares authorized; and Class A shares issued and outstanding 
+ Additional paid-in capital Accumulated other comprehensive income (loss) 
+ ) Accumulated deficit ) ) Total stockholders equity Total liabilities and stockholders equity 
+ 
+ See the accompanying notes to condensed consolidated financial statements. 
+ 1 
+
+Table of Contents 
+ 
+ PURE STORAGE, INC. 
+ Condensed Consolidated Statements of Operations 
+ (in thousands, except per share data, unaudited) 
+
+ Third Quarter of Fiscal 
+ First Three Quarters of Fiscal 
+ 2024 2025 2024 2025 Revenue: Product Subscription services Total revenue Cost of revenue: Product Subscription services Total cost of revenue Gross profit Operating expenses: Research and development Sales and marketing General and administrative Restructuring and impairment 
+ Total operating expenses Income (loss) from operations 
+ ) Other income (expense), net Income before provision for income taxes 
+ Provision for income taxes Net income (loss) 
+ ) Net income (loss) per share attributable to common stockholders, basic 
+ ) Net income (loss) per share attributable to common stockholders, diluted 
+ ) Weighted-average shares used in computing net income (loss) per share attributable to common stockholders, basic 
+ Weighted-average shares used in computing net income (loss) per share attributable to common stockholders, diluted 
+
+See the accompanying notes to condensed consolidated financial statements. 
+ 2 
+
+Table of Contents 
+ PURE STORAGE, INC. 
+ Condensed Consolidated Statements of Comprehensive Income 
+ (in thousands, unaudited) 
+
+Third Quarter of Fiscal 
+ First Three Quarters of Fiscal 
+ 2024 2025 2024 2025 Net income (loss) 
+ ) Other comprehensive income (loss): Unrealized net gains (losses) on available-for-sale securities 
+ ) Less: reclassification adjustment for net gains on available-for-sale securities included in net income (loss) 
+ ) ) ) ) Change in unrealized net gains (losses) on available-for-sale securities 
+ ) Comprehensive income 
+
+See the accompanying notes to condensed consolidated financial statements. 
+ 3 
+
+Table of Contents 
+ PURE STORAGE, INC. 
+ Condensed Consolidated Statements of Stockholders Equity 
+ (in thousands, unaudited) 
+
+ Third Quarter of Fiscal 2024 
+ Common Stock Additional Paid-in Capital Accumulated Other Comprehensive Loss Accumulated Deficit Total Stockholders Equity 
+ Shares Amount Balance at the end of the second quarter of fiscal 2024 
+ ) ) Issuance of common stock upon exercise of stock options Stock-based compensation expense Vesting of restricted stock units ) Tax withholding on vesting of restricted stock units ) ) ) Common stock issued under employee stock purchase plan Repurchases of common stock 
+ ) ) ) Other comprehensive income 
+ Net income 
+ Balance at the end of the third quarter of fiscal 2024 
+ ) ) 
+ 
+ Third Quarter of Fiscal 2025 
+ Common Stock Additional Paid-in Capital Accumulated Other Comprehensive Income 
+ Accumulated Deficit Total Stockholders Equity 
+ Shares Amount Balance at the end of the second quarter of fiscal 2025 
+ ) Issuance of common stock upon exercise of stock options Stock-based compensation expense Vesting of restricted stock units Tax withholding on vesting of restricted stock units ) ) ) Common stock issued under employee stock purchase plan Repurchases of common stock ) ) ) Other comprehensive loss 
+ ) ) Net income 
+ Balance at the end of the third quarter of fiscal 2025 
+ ) 
+ 
+ See the accompanying notes to condensed consolidated financial statements. 
+ 4 
+
+Table of Contents 
+ PURE STORAGE, INC. 
+ Condensed Consolidated Statements of Stockholders Equity 
+ (in thousands, unaudited) 
+
+First Three Quarters of Fiscal 2024 
+ Common Stock Additional Paid-in Capital Accumulated Other Comprehensive Loss Accumulated Deficit Total Stockholders Equity 
+ Shares Amount Balance at the end of fiscal 2023 
+ ) ) Issuance of common stock upon exercise of stock options Stock-based compensation expense Vesting of restricted stock units ) Tax withholding on vesting of restricted stock units ) ) ) Common stock issued under employee stock purchase plan Repurchases of common stock 
+ ) ) ) Issuance of common stock upon conversion of convertible senior notes 
+ ) ) Other comprehensive income 
+ Net loss ) ) Balance at the end of the third quarter of fiscal 2024 ) ) 
+ 
+ First Three Quarters of Fiscal 2025 
+ Common Stock Additional Paid-in Capital Accumulated Other Comprehensive Income (Loss) 
+ Accumulated Deficit Total Stockholders Equity 
+ Shares Amount Balance at the end of fiscal 2024 
+ ) ) Issuance of common stock upon exercise of stock options Stock-based compensation expense Vesting of restricted stock units ) Tax withholding on vesting of restricted stock units ) ) ) Common stock issued under employee stock purchase plan Repurchases of common stock ) ) ) Other comprehensive income Net income 
+ Balance at the end of the third quarter of fiscal 2025 
+ ) 
+ 
+ See the accompanying notes to condensed consolidated financial statements. 
+ 5 
+
+Table of Contents 
+ PURE STORAGE, INC. 
+ Condensed Consolidated Statements of Cash Flows 
+ (in thousands, unaudited) 
+
+First Three Quarters of Fiscal 
+ 2024 2025 CASH FLOWS FROM OPERATING ACTIVITIES Net income (loss) 
+ ) Adjustments to reconcile net income (loss) to net cash provided by operating activities: 
+ Depreciation and amortization Stock-based compensation expense Noncash portion of lease impairment and abandonment 
+ Other ) Changes in operating assets and liabilities: 
+ Accounts receivable, net ) Inventory ) Deferred commissions ) Prepaid expenses and other assets ) Operating lease right-of-use assets Accounts payable Accrued compensation and other liabilities ) ) Operating lease liabilities ) ) Deferred revenue Net cash provided by operating activities CASH FLOWS FROM INVESTING ACTIVITIES Purchases of property and equipment ) ) Purchases of marketable securities and other ) ) Sales of marketable securities Maturities of marketable securities Net cash provided by (used in) investing activities 
+ ) CASH FLOWS FROM FINANCING ACTIVITIES Proceeds from exercise of stock options 
+ Proceeds from issuance of common stock under employee stock purchase plan Proceeds from borrowings 
+ Principal payments on borrowings and finance lease obligations ) ) Tax withholding on vesting of equity awards 
+ ) ) Repurchases of common stock ) ) Net cash used in financing activities 
+ ) ) Net increase (decrease) in cash, cash equivalents and restricted cash 
+ ) Cash, cash equivalents and restricted cash, beginning of period Cash, cash equivalents and restricted cash, end of period CASH, CASH EQUIVALENTS AND RESTRICTED CASH AT END OF PERIOD Cash and cash equivalents Restricted cash 
+ Restricted cash included in prepaid expenses and other current assets 
+ Cash, cash equivalents and restricted cash, end of period SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION Cash paid for interest Cash paid for income taxes SUPPLEMENTAL DISCLOSURES OF NON-CASH INVESTING AND FINANCING INFORMATION Property and equipment purchased but not yet paid 
+ 
+ See the accompanying notes to condensed consolidated financial statements. 
+ 6 
+
+Table of Contents 
+ 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Note 1. 
+ 
+ Note 2. 
+ 7 
+
+Table of Contents 
+ 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ years to a range of to years. The change in estimated useful lives will be recognized on a prospective basis effective at the beginning of the third quarter of fiscal 2025. The effect of this change in estimate resulted in an aggregate reduction to depreciation expense and corresponding increase in net income of million, or per basic and diluted share, during the third quarter and first three quarters of fiscal 2025. 
+ 
+ Note 3. 
+ 8 
+
+Table of Contents 
+ 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Level 2 U.S. government treasury notes ) U.S. government agencies Corporate debt securities ) Foreign government bonds ) Asset-backed securities ) Municipal bonds ) Total ) 
+ 
+ At the End of the Third Quarter of Fiscal 2025 
+ Amortized Cost Gross Unrealized Gains Gross Unrealized Losses Fair Value Cash 
+ Equivalents 
+ Marketable 
+ Securities 
+ Restricted 
+ Cash 
+ Level 1 Money market accounts Level 2 U.S. government treasury notes ) U.S. government agencies Corporate debt securities ) Foreign government bonds Asset-backed securities ) Total ) 
+ 9 
+
+Table of Contents 
+ 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ Due in one to five years Due in five to ten years Total 
+ Unrealized losses on our marketable securities have not been recorded into income because we do not intend to sell nor is it more likely than not that we will be required to sell these investments prior to recovery of their amortized cost basis. The fair value of our marketable securities is impacted by the interest rate environment and related credit spreads. The credit ratings associated with our marketable securities are highly rated and the issuers continue to make timely principal and interest payments. As a result, there were credit or non-credit impairment charges recorded in the third quarter and the first three quarters of fiscal 2024 and 2025. 
+ ) ) ) Corporate debt securities ) ) ) Foreign government bonds ) ) Asset-backed securities ) ) ) Municipal bonds ) ) Total ) ) ) 
+ 
+ At the End of the Third Quarter of Fiscal 2025 
+ Less than 12 months Greater than 12 months Total Fair Value Unrealized Loss Fair Value Unrealized Loss Fair Value Unrealized Loss U.S. government treasury notes ) ) ) Corporate debt securities ) ) ) Asset-backed securities ) ) ) Total ) ) ) 
+ Realized gains or losses on sale of marketable securities were not significant for all periods presented. 
+ Other Financial Instruments 
+ The investments held in our nonqualified deferred compensation plan trust are considered trading securities that are measured at fair value using Level 1 inputs. The fair value of these investments was million and million at the end of fiscal 2024 and the third quarter of fiscal 2025. 
+ 10 
+
+Table of Contents 
+ 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ Note 4. 
+ Finished goods Inventory 
+ Property and Equipment, Net 
+ Computer equipment and software Furniture and fixtures Leasehold improvements Capitalized software development costs Total property and equipment Less: accumulated depreciation and amortization ) ) Property and equipment, net 
+ Depreciation and amortization expense related to property and equipment was million and million for the third quarter of fiscal 2024 and 2025, and million and million for the first three quarters of fiscal 2024 and 2025. 
+ Intangible Assets, Net 
+ ) ) Developed technology ) ) Customer relationships ) ) Intangible assets, net ) ) 
+ 
+ 11 
+
+Table of Contents 
+ 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ million and million for the third quarter of fiscal 2024 and 2025, and million and million for the first three quarters of fiscal 2024 and 2025. At the end of the third quarter of fiscal 2025, the weighted-average remaining amortization period was years for technology patents, years for developed technology, and years for customer relationships. We record amortization of technology patents in general and administrative expenses due to their defensive nature, developed technology in cost of product revenue, and customer relationships in sales and marketing expenses in the condensed consolidated statements of operations. 
+ 2026 2027 2028 2029 Thereafter Total 
+ Goodwill 
+ As of the end of fiscal 2024 and the third quarter of fiscal 2025, goodwill was million. There were impairments to goodwill for the third and first three quarters of fiscal 2024 and 2025. 
+ Accrued Expenses and Other Liabilities 
+ Accrued marketing Engineering-related accruals (1) 
+ Supply chain-related accruals (2) 
+ Accrued service logistics and professional services Finance lease liabilities, current Customer deposits from contracts with customers Other accrued liabilities Total accrued expenses and other liabilities 
+ _________________________________ 
+ (1) Primarily consists of subscription cloud services and outside services costs. 
+ (2) Primarily consists of warranty reserves and accruals related to inventory and inventory purchase commitments with our contract manufacturers. 
+ 12 
+
+Table of Contents 
+ 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ Note 5. 
+ Additions Recognition of deferred commissions ) ) ) ) Ending balance 
+ Of the million total deferred commissions balance at the end of the third quarter of fiscal 2025, we expect to recognize approximately as commission expense over the next months and the remainder thereafter. 
+ There was impairment related to capitalized commissions for the third quarter and first three quarters of fiscal 2024 and 2025. 
+ Deferred Revenue 
+ Deferred revenue primarily consists of amounts that have been invoiced but have not yet been recognized as revenue including performance obligations pertaining to subscription services. 
+ Additions Recognition of deferred revenue ) ) ) ) Ending balance 
+ Revenue recognized during the third quarter of fiscal 2024 and 2025 from deferred revenue at the beginning of each respective period was million and million. Revenue recognized during the first three quarters of fiscal 2024 and 2025 from deferred revenue at the beginning of each respective period was million and million. 
+ Remaining Performance Obligations 
+ Total remaining performance obligations (RPO) which is contracted but not recognized revenue was billion at the end of the third quarter of fiscal 2025. Total RPO includes million in remaining non-cancelable product orders, of which million relates to a lessor arrangement that is further discussed in Note 8. RPO consists of both deferred revenue and non-cancelable amounts that are expected to be invoiced and recognized as revenue in future periods. Product orders are generally cancelable until delivery has occurred, and as such, unfulfilled product orders that are cancelable are excluded from RPO. Of the billion RPO at the end of the third quarter of fiscal 2025, we expect to recognize approximately over the next months, and the remainder thereafter. 
+ 13 
+
+Table of Contents 
+ 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ Note 6. 
+ , senior secured revolving credit facility of million (Credit Facility). Proceeds from the Credit Facility may be used for general corporate purposes and working capital. The Credit Facility expires, absent default or termination by us, on August 24, 2025. 
+ Effective April 1, 2023, the Credit Facility was amended to transition LIBOR to the Secured Overnight Financing Rate (SOFR). The annual interest rates applicable to loans under the Credit Facility are, at our option, equal to either a base rate plus a margin ranging from to or term SOFR (based on one, three or six-month interest periods), subject to a floor of , plus a margin ranging from to . Interest on revolving loans is payable quarterly in arrears with respect to loans based on the base rate and at the end of an interest period in the case of loans based on term SOFR (or at each three-month interval if the interest period is longer than three months). We are also required to pay a commitment fee on the unused portion of the commitments ranging from to per annum, payable quarterly in arrears. 
+ In April 2023, we borrowed million under the Credit Facility which remained outstanding at the end of the third quarter of fiscal 2025. The outstanding loan bore weighted-average interest at an annual rate of and during the third quarter of fiscal 2024 and 2025 and and during the first three quarters of fiscal 2024 and 2025 based on a one-month term SOFR period. Interest expense was not material for the third quarter and first three quarters of fiscal 2024 and 2025. 
+ Borrowings under the Credit Facility are collateralized by substantially all of our assets and subject to certain restrictions and financial ratios measured as of the last day of each fiscal quarter: a consolidated leverage ratio not to exceed :1 and an interest coverage ratio not to be less than :1. We were in compliance with all covenants under the Credit Facility at the end of the third quarter of fiscal 2025. 
+ 
+ Note 7. 
+ million and million in connection with our facility leases. The letters of credit are collateralized by either restricted cash or the Credit Facility and mature on various dates through September 2030. 
+ Legal Matters 
+ From time to time, we have become involved in claims and other legal matters arising in the normal course of business. We investigate these claims as they arise. Although claims are inherently unpredictable, we currently are not aware of any matters that we expect to have a material adverse effect on our business, financial position, results of operations or cash flows. Accordingly, material loss contingency has been recorded on our condensed consolidated balance sheet as of the end of the third quarter of fiscal 2025. 
+ 14 
+
+Table of Contents 
+ 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+Note 8. 
+ and contain a bargain purchase option that we expect to exercise at the end of the respective lease term. 
+ Variable lease cost (1) 
+ Short-term lease cost (12 months or less) Finance lease cost: Amortization of finance lease right-of-use assets Interest on finance lease liabilities Total finance lease cost Total lease cost 
+ ____________________________________ 
+ (1) Variable lease cost predominantly included common area maintenance charges. 
+ 15 
+
+Table of Contents 
+ 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ Weighted-average discount rate Finance leases: Finance lease right-of-use assets, gross 
+ Accumulated amortization 
+ ) ) Finance lease right-of-use assets, net (1) 
+ Finance lease liabilities, current (2) 
+ Finance lease liabilities, non-current (3) 
+ Total finance lease liabilities Weighted-average remaining lease term (in years) Weighted-average discount rate 
+ ____________________________________ 
+ (1) Included in the condensed consolidated balance sheets within property and equipment, net. 
+ (2) Included in the condensed consolidated balance sheets within accrued expenses and other liabilities . 
+ (3) Included in the condensed consolidated balance sheets within other liabilities, non-current . 
+ Financing cash outflows for finance leases Right-of-use assets obtained in exchange for lease liabilities: Operating leases 
+ 2026 2027 2028 2029 Thereafter Total future lease payments Less: imputed interest ) ) Present value of total lease liabilities 
+ 16 
+
+Table of Contents 
+ 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ leases that commence in the first, second and fourth quarters of fiscal 2025 with total net consideration of million, and provides the lessee with an end-of-term option to purchase the leased assets for a pre-determined price. 
+ We determined, at inception of the arrangement, that each of the leases included multiple components. These components include sales-type leases, an operating lease, and non-lease components. The total net consideration for each lease was allocated to these components based on relative standalone selling price. The amounts allocated to the lease and non-lease components are accounted for in accordance with ASC 842 and ASC 606, respectively. Lease income associated with sales-type leases are classified as product revenue and lease income associated with operating leases and non-lease components are classified primarily as subscription services revenue on our condensed consolidated statements of operations. 
+ The total net consideration for of the leases that commenced in the first and second quarters of fiscal 2025 (First Two Leases) was million. We recognized million in product revenue related to the sales-type lease components during the first three quarters of fiscal 2025. The associated profit was million, based on the product revenue recognized less certain costs, during the first three quarters of fiscal 2025. Subscription services revenue related to the operating lease and non-lease components recognized during the third quarter and first three quarters of fiscal 2025 were million and million . 
+ million allocated to the non-lease components, are excluded from the table below. 
+ Fiscal Years Ending Sales-Type Leases 
+ Operating Lease 
+ The remainder of 2025 
+ 2026 2027 2028 2029 Thereafter Total future lease payments to be received 
+
+Note 9. 
+ employees globally, resulting in total restructuring costs of million associated with one-time severance and other termination benefits. We recognized million in restructuring costs in the fourth quarter of fiscal 2024 and the remaining million was recognized in the first quarter of fiscal 2025. Of the restructuring costs recognized in the first quarter of fiscal 2025, million is presented in restructuring and impairment and million is presented in cost of revenue in our condensed consolidated statement of operations for the first three quarters of fiscal 2025. The execution of the Plan and related payments was completed by the end of the third quarter of fiscal 2025. 
+ 17 
+
+Table of Contents 
+ 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ million in abandonment and impairment charges related to leases associated with our former corporate headquarters that we ceased use during the second quarter of fiscal 2024. The impairment charge represents the amount that the carrying value of the underlying operating lease right-of-use assets exceeded their estimated fair values, which were determined by utilizing a discounted cash flow approach that incorporated a sublease assumption. During the first three quarters of fiscal 2025, we recognized million in incremental abandonment and impairment charges related to these leases. The incremental impairment charge was due to a revision to the underlying sublease assumptions during the first quarter of fiscal 2025. 
+ 
+ Note 10. 
+ million authorized shares of undesignated preferred stock, the rights, preferences and privileges of which may be designated from time to time by our Board of Directors. At the end of the third quarter of fiscal 2025, there were shares of preferred stock issued or outstanding. 
+ Class A and Class B Common Stock 
+ We have classes of authorized common stock, Class A common stock, which we refer to as our common stock , and Class B common stock. At the end of the third quarter of fiscal 2025, we had billion authorized shares of Class A common stock and million authorized shares of Class B common stock, with each class having a par value of per share. At the end of the third quarter of fiscal 2025, million shares of Class A common stock were issued and outstanding. 
+ Share Repurchase Program 
+ In February 2024, our Board of Directors authorized an additional million to repurchase shares of our common stock, increasing the total remaining authorization amount to million. During the third quarter and first three quarters of fiscal 2025, we repurchased and retired approximately million shares of our common stock at an average purchase price of per share for an aggregate repurchase price of million. At the end of the third quarter of fiscal 2025, million remained available for future share repurchases under our current repurchase authorization. 
+ 
+ Note 11. 
+ equity incentive plans: the 2009 Equity Incentive Plan (the 2009 Plan) and the 2015 Equity Incentive Plan (the 2015 Plan). The 2015 Plan serves as the successor to our 2009 Plan and provides for grants of incentive stock options to our employees and non-statutory stock options, stock appreciation rights, restricted stock, restricted stock units, performance-based stock and cash awards, market-based stock awards, and other forms of stock awards to our employees, directors and consultants. Our equity awards generally vest over a two to period and expire no later than from the date of grant. 
+ 18 
+
+Table of Contents 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ million shares and million shares were withheld to cover million and million in tax withholding obligations during the third quarter and first three quarters of fiscal 2025. The shares withheld to satisfy employee tax withholding obligations are returned to our 2015 Plan and will be available for future issuance. Payments for employees tax obligations to the tax authorities are recognized as a reduction to additional paid-in capital and reflected as a financing activity in our condensed consolidated statements of cash flows. 
+ 2015 Amended and Restated Employee Stock Purchase Plan 
+ Under our Amended and Restated 2015 Employee Stock Purchase Plan (2015 ESPP), our Board of Directors (or a committee thereof) has the authority to establish the length and terms of the offering periods and purchase periods and the purchase price of the shares of common stock which may be purchased under the plan. The current offering terms allow eligible employees to purchase shares of our common stock at a discount through payroll deductions of up to of their eligible compensation, subject to a cap of shares on any purchase date, a dollar cap of per purchase period, or in any calendar year (as determined under applicable tax rules). The current terms also allow for a -month offering period beginning March 16th and September 16th of each year, with each offering period consisting of -month purchase periods, subject to a reset provision. Further, currently, on each purchase date, eligible employees may purchase our common stock at a price per share equal to of the lesser of the fair market value of our common stock (1) on the first trading day of the applicable offering period or (2) the purchase date. 
+ Under the reset provision currently authorized, if the closing stock price on the offering date of a new offering falls below the closing stock price on the offering date of an ongoing offering, the ongoing offering would terminate immediately following the purchase of ESPP shares on the purchase date immediately preceding the new offering and participants in the terminated offering would automatically be enrolled in the new offering (ESPP reset), resulting in a modification charge to be recognized over the new offering period. An ESPP reset occurred during the first quarter of fiscal 2024 that resulted in a modification charge of million, which is being recognized over an offering period ending March 15, 2025. 
+ Stock-based compensation expense related to our 2015 ESPP was million and million during the third quarter of fiscal 2024 and 2025, and million and million during the first three quarters of fiscal 2024 and 2025. At the end of the third quarter of fiscal 2025, total unrecognized stock-based compensation cost related to our 2015 ESPP was million, which is expected to be recognized over a weighted-average period of year. 
+ Stock Options 
+ Options exercised ) Options forfeited ) Balance at the end of the third quarter of fiscal 2025 
+ Vested and exercisable at the end of the third quarter of fiscal 2025 
+
+19 
+
+Table of Contents 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ of our common stock on the last day of the third quarter of fiscal 2025. 
+ Stock-based compensation expense related to stock options has been fully recognized and was not material for the third quarter of fiscal 2024 and the first three quarters of fiscal 2024 and 2025. 
+ Restricted Stock Units (RSUs) 
+ Granted 
+ Vested ) Forfeited ) Unvested balance at the end of the third quarter of fiscal 2025 
+ 
+ Stock-based compensation expense related to RSUs was million and million during the third quarter of fiscal 2024 and 2025, and million and million during the first three quarters of fiscal 2024 and 2025. At the end of the third quarter of fiscal 2025, total unrecognized stock-based compensation cost related to unvested RSUs was million, which is expected to be recognized over a weighted-average period of years. 
+ Performance-based Restricted Stock Units (PRSUs) 
+ The number of shares that could be earned under our PRSU grants ranges from to of the target number granted depending on the achievement of certain performance conditions with any unearned shares canceled. Generally, the number of earned shares vest over from the date of grant subject to continuous service. 
+ 20 
+
+Table of Contents 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ Granted (1) 
+ Vested and earned (2) 
+ ) Unearned (3) 
+ ) Unvested balance at the end of the third quarter of fiscal 2025 
+ 
+ ____________________________________ 
+ (1) Represents the number of shares that may be earned at the target percentage of depending on the achievement of fiscal 2025 or certain other performance conditions. 
+ (2) Represents the number of shares earned in which the service condition has also been satisfied. 
+ (3) Represents the number of shares canceled as a result of not fully achieving the fiscal 2024 performance conditions. 
+ Stock-based compensation expense related to PRSUs was million and million during the third quarter of fiscal 2024 and 2025, and million and million during the first three quarters of fiscal 2024 and 2025. At the end of the third quarter of fiscal 2025, total unrecognized stock-based compensation cost related to unvested PRSUs was million, which is expected to be recognized over a weighted-average period of years. 
+ During the first quarter of fiscal 2025, our Board of Directors approved a discretionary adjustment, increasing the earned number of shares to percent of the target for the PRSUs granted in fiscal 2024. Our Board of Directors consideration included that fiscal 2024 total revenue growth was impacted by Total Contract Value (TCV) sales growth of our consumption based Evergreen//One and Evergreen//Flex offerings, which far exceeded expectations. This modification resulted in additional stock-based compensation expense of approximately million, of which million and million were recognized during the third quarter and first three quarters of fiscal 2025 with the remaining amount to be recognized over the remaining vesting period. 
+ Long-Term Performance Incentive RSUs (LTP Awards) 
+ In June 2023, we granted market-based LTP Awards to certain executives with an aggregate maximum number of shares of common stock of approximately million. 
+ The total number of shares earned are subject to continuous service through March 20, 2028 and upon vesting, the number of shares vested will be subject to a post-vest holding period. 
+ The number of shares earned are contingent upon our market capitalization meeting or exceeding billion that will be measured over an approximate three to period, at the end of our fiscal years ending in 2026, 2027 and 2028. 
+ Total stock-based compensation expense of million for these awards is being recognized over the requisite service period of nearly using the accelerated attribution method and is not reversed if the market condition is not ultimately met. There were approximately million in remaining unvested and outstanding LTP Awards with an aggregate intrinsic value of million at the end of the third quarter of fiscal 2025. Stock-based compensation expense related to LTP Awards was million and million during the third quarter of fiscal 2024 and 2025, and million and million during the first three quarters of fiscal 2024 and 2025. At the end of the third quarter of fiscal 2025, total unrecognized stock-based compensation cost related to unvested LTP Awards was million, which is expected to be recognized over a weighted-average period of years. 
+ 21 
+
+Table of Contents 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ Cost of revenue subscription services Research and development 
+ Sales and marketing General and administrative Total stock-based compensation expense, net of amounts capitalized (1) 
+ 
+ _________________________________ 
+ (1) Stock-based compensation expense capitalized was million and million during the third quarter of fiscal 2024 and 2025, and million and million for the first three quarters of fiscal 2024 and 2025 . 
+ The tax benefit related to stock-based compensation expense for all periods presented was not material. 
+ 
+ Note 12. 
+ 22 
+
+Table of Contents 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ ) Denominator: Weighted-average shares used in computing net income (loss) per share attributable to common stockholders, basic Add: Dilutive effect of common stock equivalents Weighted-average shares used in computing net income (loss) per share attributable to common stockholders, diluted Net income (loss) per share attributable to common stockholders, basic ) Net income (loss) per share attributable to common stockholders, diluted ) 
+ Unvested RSUs and PRSUs 
+ Unvested LTP Awards 
+ Shares related to convertible senior notes Shares issuable pursuant to the ESPP Total 
+ 
+ 23 
+
+Table of Contents 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ Note 13. 
+ Interest expense (2) 
+ ) ) ) ) Foreign currency transactions losses 
+ ) ) ) ) Other income (expense) 
+ ) ) Total other income (expense), net 
+ ____________________________________ 
+ (1) Interest income includes interest income related to our cash, cash equivalents and marketable securities and non-cash interest income (expense) related to accretion (amortization) of the discount (premium) on marketable securities. 
+ (2) Interest expense includes non-cash interest expense related to amortization of debt issuance costs, contractual interest expense related to our debt and accretion of our finance lease liabilities. 
+ 
+ Note 14. 
+ 
+ Note 15. 
+ Rest of the world Total revenue 
+ 
+ 24 
+
+Table of Contents 
+ 
+ PURE STORAGE, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+
+ Rest of the world Total long-lived assets 
+ 25 
+
+Table of Contents 
+
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations. 
+ The following discussion and analysis of our financial condition, results of operations and cash flows should be read in conjunction with the (1) unaudited condensed consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report on Form 10-Q, and (2) audited consolidated financial statements and notes thereto and management s discussion and analysis of financial condition and results of operations included in our Annual Report on Form 10-K for the fiscal year ended February 4, 2024. This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act. These statements are often identified by the use of words such as may, will, expect, believe, anticipate, intend, could, estimate, or continue, and similar expressions or variations. Such forward-looking statements are subject to risks, uncertainties and other factors that could cause actual results and the timing of certain events to differ materially from future results expressed or implied by such forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to, those identified herein, and those discussed in the section titled Risk Factors , set forth in Part II, Item 1A of this Form 10-Q and in our other SEC filings. We disclaim any obligation to update any forward-looking statements to reflect events or circumstances after the date of such statements. Our fiscal year end is the first Sunday after January 30. 
+ 
+ Overview 
+ Data is foundational to our customers business transformation, and we are focused on delivering innovative and disruptive data storage, products and services that enable customers to maximize the value of their data. 
+ We are a global leader in data storage and management with a mission to redefine the storage experience by simplifying how people consume and interact with data. Our vision of an all-flash data center integrates our foundation of simplicity and reliability with four major market trends that are impacting all organizations large and small: (1) increasing demand to consume data storage as a service; (2) the shift to modernizing today s data infrastructure with all-flash; (3) the increase of modern cloud-native applications; and (4) increasing demand for data storage to support the acceleration in artificial intelligence (AI) adoption while managing rising energy costs. 
+ Our data storage platform (Platform) supports a wide range of structured and unstructured data, at scale and across any data workloads in hybrid and public cloud environments, and includes mission-critical production, test and development, analytics, disaster recovery, backup and restore, AI and machine learning. 
+ Recent Key Developments 
+ 
+ In December 2024, we announced an industry-first design win with a major hyperscaler, extending our DirectFlash technology into massive scale environments that today are dominated by hard disks. Our DirectFlash technology delivers new levels of innovation, performance, and scalability to an industry with demanding requirements, enabling hyperscalers to fully modernize their infrastructure, significantly improve operational efficiency, and free up significant amounts of power and space in their data centers. 
+ 
+ In December 2024, we announced that v2.0 of Pure Fusion will be available in the fourth quarter as a non-disruptive free upgrade to all existing Pure block storage arrays, enabling customers to create their own data cloud environment across their global enterprise. 
+ 
+ In November 2024, we advanced our ability to serve large-scale AI training environments with the certification of FlashBlade//S500 with NVIDIA DGX SuperPOD architecture, accelerating enterprise AI deployments with an Ethernet-compatible solution that optimizes performance, power, and space efficiency. We also entered into a strategic partnership with CoreWeave to accelerate large-scale AI cloud services innovation by making our Platform available as a standard option within the CoreWeave dedicated cloud environment. 
+ 
+ 26 
+
+Table of Contents 
+
+ In November 2024, we unveiled Pure Storage Cloud for Microsoft Azure VMware Solution (AVS) , a new fully-managed, scalable block storage-as-a-service offering that enables customers to seamlessly migrate on-premises VMware workloads to Azure cloud, reducing complexity and eliminating overhead of managing their storage. 
+ 
+ Components of Results of Operations 
+ Revenue 
+ We derive revenue primarily from the sale of our products and services that comprise our Platform. Our Platform includes our FlashArray and FlashBlade solutions , and our Evergreen and Portworx subscription services. Subscription services also include our professional services offerings such as installation and implementation consulting services. 
+ Provided that all other revenue recognition criteria have been met, we typically recognize product revenue upon transfer of control to our customers and the satisfaction of our performance obligations. For Evergreen//Flex , product revenue is recognized upon the commencement of the underlying subscription services. Products are typically shipped directly by us to customers, and our channel partners generally do not stock our inventory. We expect our product revenue may vary from period to period based on, among other things, the timing and size of orders and delivery of products and the impact of significant transactions. 
+ We generally recognize revenue from the fair value of subscription services provided ratably over the contractual service period or on a consumption basis for usage above a minimum usage commitment and professional services as delivered. We expect our subscription services revenue to increase and continue to grow faster than our product revenue as more customers choose to consume our storage solutions as a service and our existing subscription customers renew and expand their consumption and service levels. 
+ Cost of Revenue 
+ Cost of product revenue primarily consists of costs paid to our third-party contract manufacturers, which includes the costs of our raw material components, and personnel costs associated with our supply chain operations. Personnel costs consist of salaries, bonuses and stock-based compensation expense. Our cost of product revenue also includes allocated overhead costs, adjustments to inventory and purchase commitments, product warranty costs, amortization of intangible assets pertaining to developed technology and capitalized internal-use software, and freight. Allocated overhead costs consist of certain employee benefits and facilities-related costs. We expect our cost of product revenue to increase in absolute dollars as our product revenue increases. 
+ Cost of subscription services revenue primarily consists of personnel costs associated with delivering our subscription and professional services, part replacements, allocated overhead costs and depreciation of infrastructure used to deliver our subscription services. We expect our cost of subscription services revenue to increase in absolute dollars, as our subscription services revenue increases. 
+ Operating Expenses 
+ Operating expenses consist of research and development, sales and marketing and general and administrative expenses. Salaries and personnel-related costs, including stock-based compensation expense, are the most significant component of each category of operating expenses. Operating expenses also include allocated overhead costs for employee benefits, facilities, and certain information technology costs. 
+ Research and Development. Research and development expenses consist primarily of employee compensation and related expenses, prototype expenses, depreciation associated with assets acquired for research and development, data center and cloud services costs, third-party engineering and contractor support costs, as well as allocated overhead. We expect our research and development expenses to increase in absolute dollars and it may decrease as a percentage of revenue. 
+ 27 
+
+Table of Contents 
+
+ Sales and Marketing. Sales and marketing expenses consist primarily of employee compensation and related expenses, sales commissions, marketing programs, travel and entertainment expenses as well as allocated overhead. Marketing programs consist of advertising, events, corporate communications and brand-building activities. We expect our sales and marketing expenses to increase in absolute dollars and it may decrease as a percentage of revenue as we continue to realize efficiencies from scaling our business. 
+ General and Administrative. General and administrative expenses consist primarily of employee compensation and related expenses for administrative functions including finance, legal, human resources, facilities, IT and fees for third-party professional services as well as amortization of intangible assets pertaining to defensive technology patents and allocated overhead. We expect our general and administrative expenses to increase in absolute dollars and it may decrease as a percentage of revenue. 
+ Restructuring and Impairment . Restructuring and impairment expenses consist primarily of employee severance and termination benefits, and certain lease impairment and abandonment charges. 
+ Other Income (Expense), Net 
+ Other income (expense), net consists primarily of interest income related to cash, cash equivalents and marketable securities, interest expense related to our debt and gains (losses) from foreign currency transactions. 
+ Provision for Income Taxes 
+ Provision for income taxes consists primarily of income taxes in certain foreign jurisdictions in which we conduct business and current federal and state income taxes in the United States. Our foreign subsidiaries earn a profit margin based upon transfer pricing principles which require an arm s length return. Our foreign subsidiaries sales and marketing expenses are expected to increase over time as we grow, resulting in higher pre-tax foreign earnings and higher foreign income taxes. 
+ We have provided a full valuation allowance for U.S. deferred tax assets, which includes net operating loss carryforwards, capitalized research costs, and tax credits related primarily to research and development. When considering our historical earnings trend, sufficient positive evidence may become available where we will release all or a portion of the valuation allowance within 12 months. Release of the valuation allowance would result in the recognition of certain deferred tax assets and a decrease to income tax expense for the period the release is recorded. 
+ 
+ Results of Operations 
+ The following tables set forth our results of operations for the periods presented in dollars and as a percentage of total revenue: 
+ Revenue Third Quarter of Fiscal 
+ Change First Three Quarters of Fiscal 
+ Change 2024 2025 2024 2025 (dollars in thousands, unaudited) Product revenue 453,277 454,735 1,458 0 1,161,978 1,204,714 42,736 4 Subscription services revenue 309,561 376,337 66,776 22 878,838 1,083,608 204,770 23 Total revenue 762,838 831,072 68,234 9 2,040,816 2,288,322 247,506 12 
+ The growth in subscription services revenue during the third quarter and first three quarters of fiscal 2025 compared to the third quarter and first three quarters of fiscal 2024 was largely driven by renewals of our Evergreen subscription services across our installed base . 
+ 28 
+
+Table of Contents 
+
+ During the third quarter of fiscal 2025 compared to the third quarter of fiscal 2024, total revenue in the United States grew 5 from 535.5 million to 561.9 million while total rest of the world revenue grew 18 from 227.4 million to 269.2 million. During the first three quarters of fiscal 2025 compared to the first three quarters of fiscal 2024, total revenue in the United States grew 9 from 1.5 billion to 1.6 billion while total rest of the world revenue grew 20 from 583.6 million to 699.7 million. 
+ Subscription Annual Recurring Revenue (ARR) 
+ We use Subscription ARR as a key business metric to evaluate the performance of subscription services. Subscription ARR should be viewed independently of revenue, deferred revenue and remaining performance obligations and is not intended as a substitute for any of these items. 
+ Subscription ARR is calculated as the total annualized contract value of all active customer subscription agreements at the end of a fiscal quarter, plus on-demand revenue for the quarter multiplied by four. Contract values are established prior to any adjustments made in accordance with ASC 606. 
+ The following table sets forth our Subscription ARR for the periods presented: 
+ At the End of Year-over-Year Growth (dollars in thousands, unaudited) Third Quarter of Fiscal 2024 
+ Third Quarter of Fiscal 2025 
+ Subscription annual recurring revenue 1,295,592 1,574,423 22 
+ The year-over-year growth in our Subscription ARR at the end of fiscal 2024 was 25 . The decline in year-over-year growth to 22 at the end of the third quarter of fiscal 2025 was impacted by lower than expected Total Contract Value (TCV) sales of Evergreen//One . 
+ Remaining Performance Obligations 
+ Total remaining performance obligations (RPO) which is total contracted but not recognized revenue was 2.4 billion at the end of the third quarter of fiscal 2025. Total RPO includes 35.7 million in remaining non-cancelable product orders. RPO consists of both deferred revenue and non-cancelable amounts that are expected to be invoiced and recognized as revenue in future periods. Product orders are generally cancelable until delivery has occurred, and as such, unfulfilled product orders that are cancelable are excluded from RPO. Cancelable orders will fluctuate depending on numerous factors. Of the 2.4 billion RPO at the end of the third quarter of fiscal 2025, we expect to recognize approximately 47 over the next 12 months, and the remainder thereafter. RPO is expected to increase as our subscription services business grows over time. 
+ RPO includes non-cancelable TCV sales for our storage-as-a-service offerings, including Evergreen//One, Evergreen//Flex, and Cloud Block Store consumption and subscription based offerings. TCV sales for our storage-as-a-service offerings is a key business metric we use to evaluate the performance of our consumption and subscription based offerings. TCV sales for these offerings include recurring subscription fees, any non-recurring charges such as initial setup fees, and any other billable services directly tied to the execution of the underlying service contract. The year-over-year growth in RPO decreased from 31 at the end of fiscal 2024 to 16 at the end of the third quarter of fiscal 2025. Year-over-year growth in RPO has been primarily impacted by lower than expected TCV sales of Evergreen//One due to both extended closing timelines for larger Evergreen//One opportunities and increased conversion to a traditional sale of our higher velocity Evergreen//One opportunities. 
+ 29 
+
+Table of Contents 
+
+ Cost of Revenue and Gross Margin 
+ Third Quarter of Fiscal 
+ Change First Three Quarters of Fiscal 
+ Change 2024 2025 2024 2025 (dollars in thousands, unaudited) Product cost of revenue 125,327 151,754 26,427 21 336,532 376,003 39,471 12 Stock-based compensation 1,443 3,216 1,773 123 7,056 9,443 2,387 34 Total product cost of revenue 126,770 154,970 28,200 22 343,588 385,446 41,858 12 of Product revenue 28 34 30 32 Subscription services cost of revenue 76,472 85,380 8,908 12 225,194 259,536 34,342 15 Stock-based compensation 6,849 7,800 951 14 19,347 24,632 5,285 27 Total subscription services cost of revenue 83,321 93,180 9,859 12 244,541 284,168 39,627 16 of Subscription services revenue 27 25 28 26 Total cost of revenue 210,091 248,150 38,059 18 588,129 669,614 81,485 14 of Total revenue 28 30 29 29 Product gross margin 72 66 70 68 Subscription services gross margin 73 75 72 74 Total gross margin 72 70 71 71 
+ The increase in product cost of revenue during the third quarter and first three quarters of fiscal 2025 compared to the third quarter and first three quarters of fiscal 2024 was primarily attributable to higher component costs for our FlashBlade//E , FlashArray//E , and FlashArray//C solutions that enable customers to transition their cost-sensitive workloads from disk to our all-flash solutions, partially offset by lower excess and obsolete inventory charges. 
+ The increase in subscription services cost of revenue during the third quarter and first three quarters of fiscal 2025 compared to the third quarter and first three quarters of fiscal 2024 was primarily attributable to supporting our growing Evergreen subscription installed base, including Evergreen//One and Portworx . The increase was also partially impacted by the modification of our fiscal 2024 performance restricted stock units (PRSUs) that resulted in additional stock-based compensation as discussed below. The increase in subscription services cost was partially offset by lower depreciation expense from extending the estimated useful lives of assets for our Evergreen//One offering during the third quarter of fiscal 2025. Our Evergreen//One offering, supported by our own infrastructure, demonstrate a longer estimated life as a result of deriving benefits from our technology and Evergreen support. 
+ The decrease in product gross margin during the third quarter and first three quarters of fiscal 2025 compared to the third quarter and first three quarters of fiscal 2024 was primarily driven by increased sales of our FlashBlade//E, FlashArray//E , and FlashArray//C solutions that address customers' cost-sensitive workloads. We are also expecting a modest sequential decline in product gross margins from the third quarter to fourth quarter of fiscal 2025. 
+ The increase in subscription services gross margin during the third quarter and first three quarters of fiscal 2025 compared to the third quarter and first three quarters of fiscal 2024 was driven primarily by increased automation of our service logistics workflows supporting the delivery of our Evergreen subscription services and lower depreciation expense from extending the estimated useful lives of assets for our Evergreen//One offering during the third quarter of fiscal 2025. 
+ 30 
+
+Table of Contents 
+
+ Operating Expenses 
+ During the third quarter and first three quarters of fiscal 2025, we recognized 2.6 million and 34.5 million in stock-based compensation related to a modification of our fiscal 2024 PRSUs in the first quarter of fiscal 2025 that resulted in higher stock-based compensation expense across all functions when compared to the corresponding prior year periods. Refer to Note 11 of Part I, Item 1 of this Quarterly Report on Form 10-Q for further information. 
+ In addition, operating expenses in the first three quarters of fiscal 2025 were positively impacted as a result of the workforce alignment that we initiated in the fourth quarter of fiscal 2024. 
+ Research and Development 
+ Third Quarter of Fiscal 
+ Change First Three Quarters of Fiscal 
+ Change 2024 2025 2024 2025 (dollars in thousands, unaudited) Research and development 138,192 150,859 12,667 9 423,698 439,006 15,308 4 Stock-based compensation 43,908 49,227 5,319 12 126,225 150,390 24,165 19 Total expenses 182,100 200,086 17,986 10 549,923 589,396 39,473 7 of Total revenue 24 24 27 26 
+ The increase in research and development expense during the third quarter of fiscal 2025 compared to the third quarter of fiscal 2024 was primarily driven by an increase in employee compensation and related costs, including stock-based compensation, and an increase in data center and cloud services costs. 
+ The increase in research and development expense during the first three quarters of fiscal 2025 compared to the first three quarters of fiscal 2024 was primarily driven by higher stock-based compensation, and, to a lesser extent, an increase in data center and cloud services costs, and higher depreciation expense from equipment purchases. 
+ Sales and Marketing 
+ Third Quarter of Fiscal 
+ Change First Three Quarters of Fiscal 
+ Change 2024 2025 2024 2025 (dollars in thousands, unaudited) Sales and marketing 212,498 231,437 18,939 9 641,002 684,739 43,737 7 Stock-based compensation 19,209 24,393 5,184 27 55,883 72,330 16,447 29 Total expenses 231,707 255,830 24,123 10 696,885 757,069 60,184 9 of Total revenue 30 31 34 33 
+ The increase in sales and marketing expense during the third quarter of fiscal 2025 compared to the third quarter of fiscal 2024 was primarily due to an increase in employee compensation and related costs, including stock-based compensation, and, to a lesser extent, higher costs for sales and marketing events. 
+ The increase in sales and marketing expense during the first three quarters of fiscal 2025 compared to the first three quarters of fiscal 2024 was primarily due to a 58.8 million increase in employee compensation and related costs, including stock-based compensation. 
+ 31 
+
+Table of Contents 
+
+ General and Administrative 
+ Third Quarter of Fiscal 
+ Change First Three Quarters of Fiscal 
+ Change 2024 2025 2024 2025 (dollars in thousands, unaudited) General and administrative 48,172 50,883 2,711 6 146,212 151,390 5,178 4 Stock-based compensation 16,557 16,436 (121) (1) 46,732 62,161 15,429 33 Total expenses 64,729 67,319 2,590 4 192,944 213,551 20,607 11 of Total revenue 8 8 9 9 
+ The increase in general and administrative expense during the third quarter of fiscal 2025 compared to the third quarter of fiscal 2024 was primarily driven by an increase in employee compensation and related costs. 
+ The increase in general and administrative expense during the first three quarters of fiscal 2025 compared to the first three quarters of fiscal 2024, was primarily driven by higher stock-based compensation, partially offset by a decrease in outside services costs. 
+ Restructuring and Impairment 
+ During the first three quarters of fiscal 2025, we recognized 15.9 million of restructuring and impairment costs. We recognized 9.5 million in incremental restructuring costs primarily associated with one-time severance and other termination benefits related to a workforce alignment plan that was initiated in the fourth quarter of fiscal 2024. We also recognized 6.4 million in incremental abandonment and impairment charges related to certain leases associated with our former corporate headquarters. The incremental impairment charge was due to a revision to the underlying sublease assumptions during the first quarter of fiscal 2025. 
+ During the first three quarters of fiscal 2024, we recognized 16.8 million in abandonment and impairment charges related to leases associated with our former corporate headquarters that we ceased use during the second quarter of fiscal 2024. 
+ Other Income (Expense), Net 
+ Third Quarter of Fiscal 
+ Change First Three Quarters of Fiscal 
+ Change 2024 2025 2024 2025 (dollars in thousands, unaudited) Other income (expense), net 5,184 17,156 11,972 23,619 50,684 27,065 
+ The increase in other income (expense), net during the third quarter and first three quarters of fiscal 2025 compared to the third quarter and first three quarters of fiscal 2024 was primarily due to an increase in interest income from a larger balance in cash, cash equivalents and marketable securities and a higher interest rate environment, and, to a lesser extent, by higher net foreign exchange gains as the U.S. dollar weakened relative to certain foreign currencies. 
+ 32 
+
+Table of Contents 
+
+ Provision for Income Taxes 
+ Third Quarter of Fiscal 
+ Change First Three Quarters of Fiscal 
+ Change 2024 2025 2024 2025 (dollars in thousands, unaudited) Provision for income taxes 9,006 13,204 4,198 47 23,915 29,171 5,256 22 
+ The increase in provision for income taxes during the third quarter and first three quarters of fiscal 2025 compared to the third quarter and first three quarters of fiscal 2024 was primarily due to an increase in foreign income taxes. 
+ 
+ Liquidity and Capital Resources 
+ At the end of the third quarter of fiscal 2025, we had cash, cash equivalents and marketable securities of 1.6 billion. Our c ash and cash equivalents primarily consist of bank deposits and money market accounts. Our marketable securities generally consist of highly rated debt instruments of the U.S. government and its agencies, debt instruments of highly rated corporations, debt instruments issued by foreign governments, and asset-backed securities. 
+ We believe our existing cash, cash equivalents, marketable securities and the revolving credit facility will be sufficient to fund our operating and capital needs for at least the next 12 months. Our future capital requirements will depend on many factors including our sales growth, the timing and extent of capital spending to support development efforts including investments to scale operations to support our recent design win with a major hyperscaler, growth of our Evergreen//One offering, the addition or closure of office space, the timing of new product introductions, our share repurchases, and cash payments for tax withholding obligations for equity awards held by employees. We may continue to enter into arrangements to acquire or invest in complementary businesses, services and technologies, including intellectual property and other licensing rights. We may enter into equipment financing arrangements and seek additional equity or debt financing in the future. 
+ Revolving Credit Facility 
+ In August 2020, we entered into a Credit Agreement with a consortium of financial institutions and lenders that provides for a five-year, senior secured revolving credit facility of 300.0 million (Credit Facility). Proceeds from the Credit Facility may be used for general corporate purposes and working capital. The Credit Facility expires, absent default or early termination by us, on August 24, 2025. In March 2023, we amended the Credit Facility to transition LIBOR to the Secured Overnight Financing Rate (SOFR) effective April 1, 2023. The annual interest rates applicable to loans under the Credit Facility are, at our option, equal to either a base rate plus a margin ranging from 0.50 to 1.25 or term SOFR (based on one, three, or six-month interest periods), subject to a floor of 0 , plus a margin ranging from 1.50 to 2.25 . Interest on revolving loans is payable quarterly in arrears with respect to loans based on the base rate and at the end of an interest period in the case of loans based on term SOFR (or at each three-month interval, if the interest period is longer than three months). We are also required to pay a commitment fee on the unused portion of the commitments ranging from 0.25 to 0.40 per annum, payable quarterly in arrears. 
+ In April 2023, we borrowed 100.0 million under the Credit Facility. The outstanding loan bore weighted-average interest at an annual rate of approximately 6.62 and 6.76 during the third quarter and first three quarters of fiscal 2025 based on a one-month term SOFR period with interest expense not material during either period. 
+ Loans under the Credit Facility are collateralized by substantially all of our assets and subject to certain restrictions and two financial ratios measured as of the last day of each fiscal quarter: a consolidated leverage ratio not to exceed 4.5:1 and an interest coverage ratio not to be less than 3:1. We were in compliance with all covenants under the Credit Facility at the end of the third quarter of fiscal 2025. 
+ 33 
+
+Table of Contents 
+
+ Letters of Credit 
+ At the end of the third quarter of fiscal 2025, we had outstanding letters of credit in the aggregate amount of 7.2 million in connection with our facility leases. The letters of credit are collateralized by either restricted cash or the Credit Facility and mature on various dates through September 2030. 
+ Share Repurchase Program 
+ In February 2024, our Board of Directors authorized an additional 250.0 million to repurchase shares of our common stock, increasing the total authorization amount to 395.4 million. The authorization allows us to repurchase shares of our common stock opportunistically and will be funded from available working capital. Repurchases may be made at management s discretion from time to time on the open market through privately negotiated transactions, transactions structured through investment banking institutions, block purchase techniques, 10b5-1 trading plans, or a combination of the foregoing. The share repurchase program does not obligate us to acquire any of our common stock, has no end date, and may be suspended or discontinued by us at any time without prior notice. 
+ During the third quarter and first three quarters of fiscal 2025, we repurchased and retired approximately 3.6 million shares of our common stock at an average purchase price of 50.53 per share for an aggregate repurchase price of 182.0 million. Approximately 213.4 million remained under our share repurchase authorization as of the end of the third quarter of fiscal 2025. 
+ Cash Flows 
+ The following table summarizes our cash flows for the periods presented (in thousands, unaudited): 
+ First Three Quarters of Fiscal 
+ 2024 2025 Net cash provided by operating activities 433,297 545,090 Net cash provided by (used in) investing activities 
+ 45,078 (93,505) Net cash used in financing activities 
+ (530,622) (256,381) 
+ Operating Activities 
+ Net cash provided by operating activities during the first three quarters of fiscal 2024 and 2025 was primarily driven by cash collections from sales of our product and subscription services, partially offset by payments to our contract manufacturers, employee compensation, payment for software technology that we licensed, and general corporate operating expenditures. The year-over-year increase in net cash provided by operating activities was primarily driven by increased sales of our product and subscription services, including improved timing of collections. 
+ Investing Activities 
+ Net cash used in investing activities during the first three quarters of fiscal 2025 was driven by 170.6 million in capital expenditures relating to test equipment for new product innovation, equipment supporting our growing Evergreen//One offering, investments to scale operations to support our recent design win with a major hyperscaler, and construction costs related to our headquarters facility, partially offset by net proceeds from our marketable securities of 84.5 million. 
+ Net cash provided by investing activities during the first three quarters of fiscal 2024 was driven by net proceeds from our marketable securities of 191.7 million, partially offset by 151.6 million in capital expenditures relating to test equipment for new product innovation, and equipment supporting our growing Evergreen//One offering, as well as the construction of our headquarters facility. 
+ 34 
+
+Table of Contents 
+
+ Financing Activities 
+ Net cash used in financing activities during the first three quarters of fiscal 2025 was primarily driven by cash outflows related to share repurchases of 182.0 million and tax withholding remittances on vesting of equity awards of 141.6 million, partially offset by proceeds from the issuance of common stock from employee stock purchase plan (ESPP) of 51.7 million, and the exercise of stock options of 21.2 million. The year-over-year increase in tax withholding remittances on vesting of equity awards was due to extending the net-share settlement of equity awards to satisfy tax withholding obligations to the majority of our employees in June 2024 whereas previously, shares were sold to cover such tax withholding obligations. 
+ Net cash used in financing activities during the first three quarters of fiscal 2024 was primarily driven by cash outflows related to the repayment of the principal amount of the Notes of approximately 575.0 million, share repurchases of 114.3 million and tax withholding on vested equity awards of 16.6 million. These cash outflows were partially offset by proceeds from borrowing under the Credit Facility of 100.0 million, the issuance of common stock from ESPP of 45.1 million, and the exercise of stock options of 32.9 million. 
+ 
+ Contractual Obligations and Commitments 
+ Except as set forth in Notes 6 to 8 of Part I, Item 1 of this Quarterly Report on Form 10-Q, there have been no material changes to our non-cancelable contractual obligations and commitments disclosed in our Annual Report on 10-K for fiscal 2024. 
+ 
+ Critical Accounting Policies and Estimates 
+ Our financial statements are prepared in accordance with U.S. generally accepted accounting principles. The preparation of these financial statements requires us to make estimates, judgments, and assumptions that affect the reported amounts of assets, liabilities, revenue, expenses, and related disclosures. 
+ We evaluate our estimates and assumptions on an ongoing basis. Our estimates and judgments are based on historical experience, forecasted events and various other assumptions that we believe to be reasonable under the circumstances. Our actual results could differ from these estimates. 
+ We deem an accounting policy to be critical if the nature of the estimate or assumption it incorporates is subject to material level of judgment related to matters that are highly uncertain and changes in those estimates and assumptions are reasonably likely to materially impact our condensed consolidated financial statements. Refer to Note 2 of Part I, Item I of this Quarterly Report on Form 10-Q for the summary of significant accounting policies. In addition, see Critical Accounting Policy and Estimates in our latest Form 10-K for our fiscal year ended February 4, 2024. There have been no material changes to our critical accounting policies and estimates since this Form 10-K filed on April 1, 2024. 
+ 
+ Available Information 
+ Our website is located at www.purestorage.com , and our investor relations website is located at investor.purestorage.com . The following filings will be available through our investor relations website free of charge after we file them with the SEC: Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, and our Proxy Statements for our annual meetings of stockholders. We also provide a link to the section of the SEC s website at www.sec.gov that has all of our public filings, including Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, all amendments to those reports, our Proxy Statements, and other ownership related filings. 
+ 35 
+
+Table of Contents 
+
+ We webcast our earnings calls and certain events we participate in or host with members of the investment community on our investor relations website. Additionally, we provide notifications of news or announcements regarding our financial performance, including SEC filings, investor events, press and earnings releases, social media accounts (Twitter, Facebook and LinkedIn), and blogs as part of our investor relations website . Investors and others can receive notifications of new information posted on our investor relations website in real time by signing up for email alerts and RSS feeds. Further corporate governance information, including our certificate of incorporation, bylaws, governance guidelines, board committee charters, and code of conduct, is also available on our investor relations website under the heading Corporate Governance. The content of our websites are not incorporated by reference into this Quarterly Report on Form 10-Q or in any other report or document we file with the SEC, and any references to our websites are intended to be inactive textual references only. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures about Market Risk. 
+ We have operations both within the United States and internationally, and we are exposed to market risk in the ordinary course of our business. 
+ Interest Rate Risk 
+ Our cash, cash equivalents and marketable securities primarily consist of bank deposits and money market accounts, highly rated debt instruments of the U.S. government and its agencies, debt instruments of highly rated corporations, debt instruments issued by foreign governments, and asset-backed securities. At the end of the third quarter of fiscal 2025 we had cash, cash equivalents and marketable securities of 1.6 billion. The carrying amount of our cash equivalents reasonably approximates fair value, due to the short maturities of these instruments. The primary objectives of our investment activities are the preservation of capital, the fulfillment of liquidity needs and the fiduciary control of cash and investments. We do not enter into investments for trading or speculative purposes. Our investments are exposed to market risk due to fluctuation in interest rates, which may affect our interest income and the fair value of our investments. 
+ We considered the historical volatility of short-term interest rates and determined that it was reasonably possible that an adverse change of 100 basis points could be experienced in the near term. A hypothetical 1.00 (100 basis points) increase in interest rates would have resulted in a decrease in the fair value of our marketable securities of approximately 8.4 million at the end of the third quarter of fiscal 2025. 
+ Foreign Currency Exchange Risk 
+ Our sales contracts are primarily denominated in U.S. dollars with a proportionally small number of contracts denominated in foreign currencies. A portion of our operating expenses are incurred outside the United States and denominated in foreign currencies and are subject to fluctuations due to changes in foreign currency exchange rates, particularly changes in the British pound, Euro and Yen. Additionally, fluctuations in foreign currency exchange rates may cause us to recognize transaction gains and losses in our statement of operations. Given the impact of foreign currency exchange rates has not been material to our historical operating results, we have not entered into any derivative or hedging transactions, but we may do so in the future if our exposure to foreign currency exchange should become more significant. 
+ We considered the historical trends in currency exchange rates and determined that it was reasonably possible that adverse changes in exchange rates of 10 for all currencies could be experienced in the near term. These reasonably possible adverse changes in exchange rates of 10 were applied to total monetary assets and liabilities denominated in currencies other than U.S. dollar at the end of the third quarter of fiscal 2025 to compute the adverse impact these changes would have had on our income before income taxes in the near term. These changes would have resulted in an adverse impact on income before provision for income taxes of approximately 5.0 million at the end of the third quarter of fiscal 2025. 
+ 36 
+
+Table of Contents 
+
+ Item 4. Controls and Procedures. 
+ Evaluation of Disclosure Controls and Procedures 
+ Our management, with the participation of our Chief Executive Officer (CEO) and Chief Financial Officer (CFO), evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act), as of the end of the period covered by this report. Based on such evaluation, our CEO and CFO concluded that, at the end of the third quarter of fiscal 2025 , our disclosure controls and procedures were designed at a reasonable assurance level and were effective to provide reasonable assurance that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC s rules and forms, and that such information is accumulated and communicated to our management, including our CEO and CFO , as appropriate, to allow timely decisions regarding required disclosure. 
+ Changes in Internal Control over Financial Reporting 
+ During the third quarter of fiscal 2025 t here were no change in our internal control over financial reporting identified in connection with the evaluation required by Rules 13a-15(d) or 15d-15(d) of the Exchange Act that occurred during the third quarter of fiscal 2025 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ Limitations on Effectiveness of Controls 
+ In designing and evaluating the disclosure controls and procedures and internal control over financial reporting, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures and internal control over financial reporting must reflect the fact that there are resource constraints and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs. 
+ 37 
+
+Table of Contents 
+
+ PART II OTHER INFORMATION 
+
+Item 1. Legal Proceedings. 
+ From time to time, we are involved in various legal proceedings arising from the normal course of business, and an unfavorable resolution of any of these matters could materially affect our future results of operations, cash flows or financial position. We are not presently party to any legal proceedings that, in the opinion of management, would have a material adverse effect on our business. 
+ 
+ Item 1A. Risk Factors. 
+ Investing in our Class A common stock, which we refer to as our common stock , involves a high degree of risk. Investors should carefully consider the risks and uncertainties described below, together with all of the other information contained in this report, including our condensed consolidated financial statements and the related notes appearing in this quarterly report, before deciding to invest in our common stock. If any of the following risks actually occur, it could harm our business, prospects, operating results and financial condition. In such event, the trading price of our common stock could decline and investors might lose all or part of their investment. 
+ Summary of Risk Factors 
+ Our business is subject to numerous risks and uncertainties, many of which are beyond our control. Some of the principal risks associated with our business include the following: 
+ 
+ Our business, operating results, and cash flows may be adversely impacted by uncertain macroeconomic conditions, and the uncertain geopolitical environment. 
+ 
+ Our sales cycles can be long, unpredictable and expensive, particularly during a global economic slowdown, making it difficult for us to predict future sales. 
+ 
+ We are devoting significant resources toward developing flash storage solutions for hyperscalers. We recently secured a design win with a major hyperscale customer, but there can be no assurance that our efforts will be successful or lead to any sales. 
+ 
+ We face intense competition from established companies and others. 
+ 
+ If we do not manage the supply of our products and their components efficiently, our results of operation could be adversely affected. 
+ 
+ If we fail to develop and introduce new or enhanced storage offerings successfully, our ability to attract and retain customers could be harmed. 
+ 
+ If we fail to execute our transition to subscription offerings successfully, our revenues and results of operation may be harmed. 
+ 
+ Sales of our subscription and consumption offerings as a percentage of our total sales are difficult to predict, and we expect they will fluctuate over time. With a traditional CapEx sale, a large portion of revenue is recognized as product revenue as the order is fulfilled. Revenue for our subscription and consumption offerings is recognized over a period of time, and the majority of revenue is included in subscription services revenue. As such, we expect fluctuations in sales of our subscription and consumption offerings to impact both product and total revenue growth. 
+ 
+ If our security measures are compromised, or the security, confidentiality, integrity or availability of our information technology or data is compromised, our business could experience a material adverse impact. 
+ 
+ Our gross margins are impacted by a variety of factors and vary from period to period, making them difficult to predict with certainty. 
+ 
+ 38 
+
+Table of Contents 
+
+ Our operating results may fluctuate significantly, which could make our future results difficult to predict and could cause our operating results to fall below expectations. 
+ 
+ The sales prices of our products and services may fluctuate or decline, which may reduce our gross profits, revenue growth, and adversely impact our financial results. 
+ 
+ Risks Related to Our Business and Industry 
+ Our business, operating results, and cash flows may be adversely impacted by uncertain macroeconomic conditions, and the uncertain geopolitical environment. 
+ Our operations and performance depend in part on worldwide economic conditions and the economic health of our current and prospective customers. Recent macroeconomic and geopolitical events, including inflation, elevated interest rates, geopolitical tensions, and political and fiscal challenges in the United States and abroad, have, and may continue to have, an adverse effect on the budgets, confidence and demand of our customers, particularly in the United States where we derive the majority of our revenue. These pressures create a great deal of uncertainty and affect our customer demand, margins, costs and operations. Macroeconomic conditions can and do further exacerbate other risks discussed in this Risk Factors section, such as risks related to our sales and marketing efforts. If we are unable to successfully manage the effects of these pressures, our business, operating results, cash flows and financial condition may be adversely affected. 
+ Our sales cycles can be long, unpredictable and expensive, making it difficult for us to predict future sales. 
+ Our sales efforts involve educating our customers about the use and benefits of our data storage platform (Platform) and often involve an evaluation process that can result in a lengthy sales cycle, particularly for larger customers. We spend substantial time and resources on our sales efforts without any assurance that our efforts will produce any sales. In addition, purchases are frequently subject to our customers' budget constraints, multiple approvals and unplanned administrative and other delays. These factors can lead to unpredictable and extended closing times of sales to our customers. For example, in the first three quarters of fiscal 2025, we experienced extended closing times for larger Evergreen//One opportunities and our business has been impacted by increased customer budget scrutiny of IT spending decisions. Some of our customers make large concentrated purchases to complete or upgrade specific data storage deployments. A substantial portion of our quarterly sales typically occurs during the last several weeks of the quarter, which we believe largely reflects customer buying patterns of products similar to ours and other technology products generally. As a result, our revenue and operating results have and may continue to fluctuate from quarter to quarter. 
+ Since revenue from a product sale is not recognized until performance obligations are satisfied, a substantial portion of our sales late in a quarter may negatively impact the recognition of the associated revenue. Furthermore, our products come with a 30-day money back guarantee, allowing a customer to return a product within 30 days of receipt if the customer is not satisfied with its purchase for any reason. These factors, among others, make it difficult for us to predict when customers will purchase our products, which may adversely affect our operating results and cause our operating results to fluctuate. In addition, if sales expected from a specific customer for a particular quarter are not realized in that quarter or at all, our operating results may suffer. 
+ Our business may be harmed by trends in the overall data storage market. 
+ Despite ongoing data growth, the data storage market in which we compete has not experienced substantial growth in the past few years due to a combination of technology transitions, increased storage efficiency, competitive pricing dynamics and changing economic and business environments. Some customers are shifting spending toward the public cloud and software as a service, as well as other storage deployment models. The impact of these trends on future growth of the overall data storage market is uncertain. If we fail to accurately predict trends, successfully update our product offerings or adapt our sales programs to meet changing customer demands and priorities, our business, operating results and financial condition could be harmed. Reductions in the overall data storage market or the specific markets in which we compete would harm our business and operating results . 
+ 39 
+
+Table of Contents 
+
+ The evolving market for data storage products makes it difficult to forecast demand for our Platform. 
+ The market for data storage products is rapidly evolving. Changes in the application requirements, data center infrastructure trends and the broader technology landscape result in evolving customer requirements for capacity, scalability and other enterprise features of storage systems. Our future financial performance depends on our ability to adapt to competitive dynamics and emerging customer demands and trends, such as the opportunities created by the recent advances in artificial intelligence (AI). We continue to expand and evolve our Platform to compete directly with hard disk systems, and that strategy may take longer than we anticipate or may not succeed due to unforeseen factors. We may be unable to capture significant storage workloads for AI environments and hyperscalers. The enhancement of all-flash storage products by incumbent vendors and changes or advances in alternative technologies or adoption of cloud storage offerings that do not utilize our Platform could adversely affect the demand for our Platform. 
+ Offerings from large public cloud providers are expanding quickly and serve as alternatives to our Platform for a variety of customer workloads. Since these providers are known for developing storage systems internally, this trend reduces the demand for storage systems like ours. It is difficult to predict customer adoption rates of new offerings, customer demand for our Platform or the future growth rate and size of our addressable market. Reduced demand for our Platform caused by technological challenges, alternative technologies and products or any other reason would result in a lower revenue growth rate or decreased revenue, either of which would negatively impact our business and operating results. 
+ We are devoting significant resources toward developing flash storage solutions for hyperscalers. We recently secured a design win with a major hyperscale customer, but there can be no assurance that our efforts will be successful or lead to any sales. 
+ We are devoting significant resources in our efforts to develop flash storage solutions for hyperscalers, and recently secured a design win with a major hyperscaler. A design win means the customer has tested our solution, verified that it meets the customer s requirements, and qualified our solution for the customer s use. Achieving a design win with a major hyperscaler requires us to dedicate significant resources in pursuit of a single customer opportunity without any guarantee of revenue. While we believe the opportunity to sell our solutions to hyperscalers that replace their bulk disk and hybrid disk storage is significant, and that sales to hyperscalers may in the future account for a significant portion of our revenue, we may never generate any revenue. 
+ Further, while we expect our recent hyperscaler design win will lead to meaningful revenue contribution beginning in our fiscal year 2027, a design win does not guarantee sales to a given customer. Even after we have secured a design win, a customer could choose to delay or cancel purchasing or licensing our technology and services. It is therefore difficult to predict the volume and timing of sales, if any, that will follow from any design win that we secure. 
+ We face intense competition from established companies and others. 
+ We face intense competition from a number of established companies that sell competing storage products, including Dell EMC, HP Enterprise, Hitachi Vantara, IBM, and NetApp. We also compete against cloud providers and vendors of hyperconverged products, which combine compute, networking and storage. These providers are growing and expanding their product offerings, potentially displacing some demand for our products. In addition, some of our competitors offer bundled products and services in order to reduce the initial cost of their storage products. Further, some of our competitors offer their storage products either at significant discounts or even for free in competing against us. Our competitors may have: 
+ greater name and brand recognition and longer operating histories; 
+ larger sales and marketing and customer support budgets and resources; 
+ broader distribution and established relationships with distribution partners and customers; 
+ the ability to bundle storage products with other products and services to address customers requirements; 
+ greater resources to make acquisitions; 
+ 40 
+
+Table of Contents 
+
+ larger and more mature product and intellectual property portfolios; and 
+ substantially greater financial, technical and other resources. 
+ Many of our competitors have developed or acquired storage technologies with features or data reduction technologies that directly compete with our Platform or have introduced business programs designed, among other things, to compete with our innovative programs, such as our Evergreen Storage model. We expect our competitors to continue to improve their products, reduce their prices and introduce new offerings that may, or may claim to, offer greater value compared to our Platform. These developments may render our products or technologies obsolete or less competitive. These and other competitive pressures may prevent us from competing successfully against our competitors. 
+ Many of our competitors have long-standing relationships with key decision makers at current and prospective customers, which may inhibit our ability to compete. 
+ Many of our competitors benefit from established brand awareness and long-standing relationships with key decision makers at our current and prospective customers. Our competitors often leverage these existing relationships to discourage customers from evaluating or purchasing our Platform. Additionally, most of our prospective customers have existing storage products supplied by our competitors who have an advantage in retaining the customer because, among other things, the incumbent vendor already understands the customer s IT infrastructure, user demands and needs, or the customer is concerned about actual or perceived costs of switching to a new vendor and technology. If we are unable to sell our Platform to new customers or persuade existing customers to continue purchasing our Platform, we will not be able to maintain or increase our market share and revenue, which would adversely affect our business and operating results. 
+ We rely on contract manufacturers to manufacture our products, and if we fail to manage our relationships with our contract manufacturers successfully, our business could be negatively impacted. 
+ We rely on a limited number of contract manufacturers to manufacture our products, which reduces our control over the assembly process and exposes us to risks, such as reduced control over quality assurance, costs and product supply. If we fail to manage our relationships with these contract manufacturers effectively, or if these contract manufacturers experience delays, disruptions, capacity constraints or quality control problems, our ability to timely ship products to our customers will be impaired, potentially on short notice, and our competitive position, reputation and financial results could be harmed. If we are required, for whatever reason, to change contract manufacturers or assume internal manufacturing operations, we may lose revenue, incur increased costs and damage our customer relationships. Qualifying a new contract manufacturer and commencing production is expensive and time-consuming. We may need to increase our component purchases, contract manufacturing capacity and internal test and quality functions if we experience increased demand. The inability of our contract manufacturers to provide us with adequate supplies of high-quality products could exacerbate other risk factors and cause a delay in our order fulfillment, and our business, operating results and financial condition may be harmed. 
+ We rely on a limited number of suppliers, and in some cases single-source suppliers, and any disruption or termination of our supply arrangements could delay shipments of our products and could harm our relationships with current and prospective customers. 
+ We rely on a limited number of suppliers and, in some cases, on single-source suppliers, for several key components of our products, and we have not generally entered into agreements for the long-term purchase of these components. If we are unable to obtain components from our existing suppliers, we may need to obtain these components through secondary sources or markets. Our reliance on a limited number of suppliers and the lack of any guaranteed sources of supply exposes us to several risks, including: 
+ the inability to obtain, or delay in obtaining, an adequate supply of key components, including flash; 
+ price volatility for the components of our products; 
+ failure of a supplier to meet our quality or production requirements; 
+ failure of a supplier of key components to remain in business or adjust to market conditions; and 
+ 41 
+
+Table of Contents 
+
+ consolidation among suppliers, resulting in some suppliers exiting the industry, discontinuing the manufacture of components or increasing the price of components. 
+ Further, we source some of our product components from suppliers outside the United States, including from China, which subjects us to additional logistical risks and risks associated with complying with local rules and regulations in foreign countries. Significant changes to existing international trade agreements could result in import delays or the imposition of increased tariffs on our sourcing partners, which could lead to sourcing or logistics disruptions to our business. For example, there have been, and may continue to be, significant changes to U.S. trade policies, legislation, treaties and tariffs, including announcements of import tariffs and export restrictions. As new legislation and/or regulations are implemented, existing trade agreements are renegotiated or terminated, and trade restrictions and tariffs are imposed on foreign-sourced or U.S. goods, it may be inefficient and expensive for us to alter our business operations in order to adapt to or comply with such changes. Such operational changes could have a material adverse effect on our business, financial condition, results of operations or cash flows. 
+ As a result of these risks, we cannot assure investors that we will be able to obtain a sufficient supply of key product components in the future or that the cost of these components will not increase. If our component supply is disrupted or delayed, or if we need to replace our suppliers, there can be no assurance that additional components will be available when required or that components will be available on favorable terms, which could extend our manufacturing lead times, increase the costs of our components and harm our business, operating results and financial condition. We may not be able to continue to procure components at reasonable prices, which may impact our business negatively or require us to enter into longer-term contracts to obtain components. Any of the foregoing disruptions could exacerbate other risk factors, increase our costs and decrease our gross margins, harming our business, operating results and financial condition. 
+ If we do not manage the supply of our products and their components efficiently, our results of operation could be adversely affected. 
+ Managing the supply of our products and underlying components is complex and has become increasingly difficult, in part, due to supply chain constraints, component quality and inflationary pressure. Our third-party contract manufacturers procure components and build our products based on our forecasts, and we generally do not hold inventory for a prolonged period of time. Our forecasts are based on estimates of future demand for our products, which are in turn based on historical trends and analyses from our sales and marketing organizations, adjusted for overall market conditions. In order to reduce manufacturing lead times and plan for adequate component supply, we may issue orders for components and products that are non-cancelable and non-returnable. Our inventory management systems and related supply chain visibility tools may be inadequate to enable us to make accurate forecasts and effectively manage the supply of our products and components. If we have excess supply, we may reduce our prices and write down or write off excess or obsolete inventory, which in turn could result in lower gross margins. Alternatively, insufficient supply levels may lead to shortages that exacerbate other risk factors and result in delayed revenue, reduced product margins or lost sales opportunities altogether. If we are unable to effectively manage our supply and inventory, our results of operations could be adversely affected. 
+ If we fail to successfully maintain or grow our relationships with partners, our business, operating results and financial condition could be harmed. 
+ Our future success is highly dependent upon our ability to establish and maintain successful relationships with our partners, including value-added resellers, service providers and systems integrators. In addition to selling our Platform, our partners may offer installation, post-sale service and support in their local markets. In markets where we rely on partners more heavily, we have less contact with our customers and less control over the sales process and the quality and responsiveness of our partners. As a result, it may be more difficult for us to ensure the proper delivery and installation of our Platform or the quality or responsiveness of the support and services being offered. Any failure on our part to effectively identify, train and manage our channel partners and to monitor their sales activity, as well as the customer support and services provided to our customers, could harm our business, operating results and financial condition. 
+ 42 
+
+Table of Contents 
+
+ Our partners may choose to discontinue offering our Platform or may not devote sufficient attention and resources toward selling our Platform. We typically enter into non-exclusive, written agreements with our channel partners. These agreements generally have a one-year, self-renewing term, have no minimum sales commitment and do not prohibit our channel partners from offering competing products and services. Additionally, our competitors may provide incentives to our existing and potential channel partners to use, purchase or offer their products and services or to prevent or reduce sales of our products and services. The occurrence of any of these events could harm our business, operating results and financial condition. 
+ Our brand name and business may be harmed by our competitors marketing strategies. 
+ Building and maintaining brand recognition and customer goodwill is critical to our success. On occasion, our competitors marketing efforts have included negative or misleading statements about us and our Platform. If we are unable to effectively respond to our competitors marketing efforts and protect our brand and customer goodwill now or in the future, our business will be adversely affected. 
+ Sales to governments are subject to a number of challenges and risks that may adversely impact our business. 
+ Sales to governmental agencies may in the future account for a significant portion of our revenue and pose additional challenges and risks to our sales efforts. Governments have and may continue to impose restrictions or requirements that must be complied with in order for us to sell to certain governmental customers. Government demand and payment for our Platform may be impacted by public sector budgetary cycles and funding reductions or delays, such as an extended federal government shutdown, which may adversely affect public sector demand for our Platform. We sell our offerings to governmental agencies through our channel partners, and these agencies may have statutory, contractual or other legal rights to terminate contracts with our distributors and resellers for convenience or due to a default, and any such termination may adversely impact our results of operations. Governments routinely investigate and audit government contractors administrative processes, and any unfavorable audit could result in the government refusing to continue buying our Platform, which would adversely impact our revenue and results of operations, or institute fines or civil or criminal liability if the audit uncovers improper or illegal activities. Finally, governments may require certain products to be manufactured in the United States and other relatively high-cost manufacturing locations, and we may not manufacture all products in locations that meet these requirements, affecting our ability to sell to certain governmental agencies. 
+ 
+ Risks Related to Our Platform 
+ If we fail to develop and introduce new or enhanced storage offerings successfully, our ability to attract and retain customers could be harmed. 
+ We operate in a dynamic environment characterized by rapidly changing technologies and industry standards and technological obsolescence. To compete successfully, we must design, develop, market and sell new or enhanced storage offerings that provide increasingly higher levels of performance, capacity, functionality and reliability and meet our customers expectations, which is a complex and uncertain process. We believe that we must continue to dedicate significant resources to our research and development efforts and innovate business models such as Evergreen//One to improve our competitive position. We continue to expand our large capacity data storage offerings to compete directly with hard disk systems. Our investments may take longer to generate revenue or may generate less revenue than we anticipate. The introduction of new storage offerings by our competitors, or the emergence of alternative technologies or industry standards could render our Platform obsolete or less competitive. 
+ As we introduce new or enhanced Platform offerings, we must successfully manage their launch and customer adoption. If we are not able to successfully manage the development and release of new or enhanced Platform offerings, our business, operating results and financial condition could be harmed. Similarly, if we fail to introduce new or enhanced Platform offerings, such as new or improved software features, that meet our customers needs in a timely or cost-effective fashion, we may lose market share and our operating results could be adversely affected. 
+ 43 
+
+Table of Contents 
+
+ If we fail to execute our transition to subscription offerings successfully, our revenues and results of operation may be harmed. 
+ We offer our Platform on a subscription basis, including our hardware and software products through Evergreen//One and Cloud Data Services . Our subscription offerings are relatively new to the storage market and will continue to evolve, and we may not be able to compete effectively, drive continued revenue growth or maintain profitability with these business models. Our subscription offerings require different accounting of our customer transactions, such as changing how we recognize revenue and capitalize commissions, among other things. In addition, our subscription offerings require compliance with additional regulatory, legal and trade licensing requirements in some countries and entail incremental operational, technical, legal and other costs. Continued market acceptance of subscription offerings depends on our ability to create a seamless customer experience and optimally price our offerings in light of market conditions, our costs and customer demand. Additionally, subscription models may unfavorably impact the pricing of and demand for our on-premise offerings, which could reduce our revenues and profitability. If we do not successfully execute our subscription offering strategy, our financial results could be negatively impacted. 
+ Our Platform is highly technical and may contain defects or bugs, which could cause data unavailability, loss, breach or corruption that might, in turn, result in liability and harm to our reputation and business. 
+ Our Platform is highly technical and complex and is often used to store information critical to our customers business operations. Our Platform may contain errors, defects or security vulnerabilities that could result in data unavailability, loss, corruption or other harm to our customers. Some errors in our Platform may only be discovered after it has been installed and used by customers. We have, from time to time, identified vulnerabilities in our Platform. Despite our efforts to detect and remediate actual and potential vulnerabilities in our systems, we cannot be certain that we will be able to address any such vulnerabilities, in whole or part, and there may be delays in developing and deploying patches and other remedial measures to adequately address vulnerabilities. We may also incur unexpected costs replacing defective hardware or ensuring that hardware remains interoperable and upgradable. Any of these errors, defects, bugs or security vulnerabilities may leave us, our Platform and our customers susceptible to exploitation, including by malicious actors, which could result in a loss of revenue, injury to our reputation, loss of customers or increased service and warranty costs, and adversely affect our business and operating results. In addition, errors or failures in the products of third-party technology vendors may be attributed to us and may harm our reputation. 
+ We could face claims for product liability, tort or breach of warranty. We may not be able to enforce provisions in our contracts relating to warranty disclaimers and liability limitations. Defending a lawsuit, regardless of its merit, would be costly and could divert management s attention and harm our reputation. Our business liability insurance coverage may be inadequate with respect to a claim and future coverage may not be available on acceptable terms or at all. Any of these issues could result in claims against us, and our business, operating results and financial condition could be harmed. 
+ If we are unable to ensure that our Platform interoperates with third party operating systems, software applications and hardware, we may lose or fail to increase our market share. 
+ Our Platform must interoperate with our customers infrastructure, specifically networks, servers, software and operating systems, which are offered by a wide variety of vendors. When new or updated versions of these operating systems or applications are introduced, we may need to develop updated versions of our software so that our Platform continues to interoperate properly. We may not deliver or maintain interoperability quickly, cost-effectively or at all as these efforts require capital investment and engineering resources. If we fail to maintain compatibility of our Platform with these infrastructure components, our customers may not be able to fully utilize our Platform, and we may, among other consequences, lose or fail to increase our market share and experience reduced demand for our Platform, which may harm our business, operating results and financial condition. 
+ 44 
+
+Table of Contents 
+
+ Our Platform must conform to industry standards in order to be accepted by customers. 
+ Generally, our Platform comprises only a part of an IT environment. The servers, network, software and other components and systems deployed by our customers must comply with established industry standards in order to interoperate and function efficiently together. We depend on companies that provide other systems in this ecosystem to conform to prevailing industry standards. These companies are often significantly larger and more influential in driving industry standards than we are. Some industry standards may not be widely adopted or implemented uniformly and competing standards may emerge that our customers prefer. If larger companies do not conform to the same industry standards that we do, or if competing standards emerge, sales of our Platform could be adversely affected, which may harm our business. 
+ Our ability to successfully market and sell our Platform depends in part on ease of use and the quality of our customer experience, and any failure to offer high-quality technical services and support could harm our business. 
+ Once our customers deploy our Platform, they depend on our customer experience organization to drive non-disruptive upgrades and resolve technical issues. Our ability to provide effective technical services largely depends on our ability to attract, train and retain qualified personnel, as well as engage with qualified support partners that provide a similar level of customer support. In addition, our sales process is highly dependent on our reputation and on recommendations from our existing customers. We may need to provide customized installation and configuration services to our customers before our Platform is fully operational in their environments. Any failure to maintain, or a market perception that we do not maintain, high-quality technical services and support could harm our reputation, our ability to sell our Platform to existing and prospective customers and our business. 
+ 
+ Risks Related to Our Operating Results or Financial Condition 
+ Our gross margins are impacted by a variety of factors and vary from period to period, making them difficult to predict with certainty. 
+ Our gross margins fluctuate from period to period due primarily to product costs, customer mix and product mix. A variety of factors may cause our gross margins to fluctuate and make them difficult to predict, including, but not limited to: 
+ sales and marketing initiatives, discount levels, rebates and competitive pricing; 
+ changes in customer, geographic or product mix, including mix of product configurations, including relative mix due to increased sales of our lower product gross margin FlashBlade//E , FlashArray//E , and FlashArray//C solutions; 
+ the cost of components, including flash and DRAM, and freight; 
+ new product introductions and enhancements with higher product costs; 
+ excess inventory levels or purchase obligations as a result of changes in demand forecasts or product transitions; 
+ an increase in product returns, product warranty, order rescheduling and cancellations; 
+ the timing of technical support service contracts and contract renewals; 
+ inventory stocking requirements to mitigate supply chain constraints, accommodate unforeseen demand or support new product introductions; and 
+ inflation and other adverse economic pressures. 
+ If we are unable to manage these factors effectively, our gross margins may decline, and fluctuations in gross margins may make it difficult to manage our business and achieve or maintain profitability, which could materially harm our business, operating results and financial condition. 
+ 45 
+
+Table of Contents 
+
+ We intend to continue focusing on revenue growth and increasing our market penetration and international presence by investing in our business, which may put pressure on near-term profitability. 
+ Our operating expenses largely are based on anticipated revenue, and a high percentage of our expenses are, and will continue to be, fixed in the short term. If we fail to adequately increase revenue and manage costs, we may not achieve or maintain profitability in the future. As a result, our business could be harmed, and our operating results could suffer. 
+ Our strategy is to continue investing in marketing, sales, support and research and development. We believe continuing to invest heavily in our business, including investments to scale operations to support our recent design win with a major hyperscaler, is critical to our future success and meeting our growth objectives. We anticipate that our operating expenses will continue to increase in absolute terms. Even if we achieve or maintain significant revenue growth, we may experience losses, forgoing near-term profitability on a U.S. GAAP basis. 
+ Our operating results may fluctuate significantly, which could make our future results difficult to predict and could cause our operating results to fall below expectations. 
+ Our operating results may fluctuate due to a variety of factors, a portion of which are outside of our control. As a result, comparing our results on a period-to-period basis may not be meaningful. Factors that are difficult to predict and that could cause our operating results to fluctuate include: 
+ the timing and magnitude of orders, shipments and acceptance of our products in any quarter, including product returns, order rescheduling and cancellations by our customers; 
+ the impact on timing and amount of revenue recognized resulting from the cancellation of unfulfilled orders by our customers or our inability to fulfill orders; 
+ fluctuations or seasonality in demand and prices for our products; 
+ our ability to control the costs of the components we use or to timely adopt subsequent generations of components; 
+ disruption in our supply chains, shipping logistics, component availability and related procurement costs; 
+ reductions in customers budgets for IT purchases; 
+ changes in industry standards in the data storage industry; 
+ our ability to develop, introduce and ship new Platform offerings that meet customer requirements and to effectively manage product transitions; 
+ changes in the competitive dynamics of our markets, including new entrants or price discounting; 
+ our ability to control or mitigate costs, including our operating expenses, to support business growth and our continued expansion; 
+ the impact on our revenue mix from changes in our customers purchasing behavior due to their cost of capital; 
+ the impact of inflation on labor and other costs, other adverse economic conditions and the impact of public health epidemics or pandemics; and 
+ future accounting pronouncements and changes in accounting policies. 
+ The occurrence of any one of these factors could negatively affect our operating results in any particular quarter. 
+ 46 
+
+Table of Contents 
+
+ The sales prices of our Platform offerings may fluctuate or decline, which may adversely affect our gross margins and operating results. 
+ The sales prices of our offerings may fluctuate or decline for a variety of reasons, including competitive pricing pressures, discounts, the introduction of competing products or services or promotional programs, a change in our mix of products and services, cost of components, supply chain constraints, inflation and other adverse economic conditions. Competition continues in the markets in which we participate, and we expect competition to increase in the future, thereby leading to increased pricing pressures. Larger competitors may reduce the price of products or services that compete with ours or may bundle them with other products and services. Additionally, although we price our offerings predominantly in U.S. dollars, currency fluctuations in certain countries and regions may negatively impact actual prices that partners and customers are willing to pay in those countries and regions. Furthermore, we anticipate that the prices for our products will decrease over product life cycles. If we are required to decrease our prices to be competitive and are not able to offset this decrease by increases in the volume of sales or the sales of new products with higher margins, our gross margins and operating results could be adversely affected. 
+ We have experienced growth in prior periods, and we may not be able to sustain future growth effectively or at all. 
+ We have significantly expanded our overall business, customer base, headcount, channel partner relationships and operations in prior periods, and we anticipate that we will continue to expand and experience growth in future periods. Our future operating results will depend to a large extent on our ability to successfully sustain our growth and manage our continued expansion. To sustain and manage our growth successfully, we believe that we must, among other things, effectively allocate resources and operate our business across a wide range of priorities. 
+ We expect that our future growth will continue to place strain on our managerial, administrative, operational, financial and other resources. We will incur costs associated with this future growth prior to realizing the anticipated benefits, and the return on these investments may be lower than, or develop slower than we expect or may never materialize. Investors should not consider our revenue growth in prior periods as indicative of our future performance. In future periods, we may not achieve similar percentage revenue growth rates as we have achieved in some past periods. If we are unable to maintain adequate revenue or revenue growth, our stock price could be volatile, and it may be difficult to achieve and maintain profitability. If we are unable to manage our growth successfully, we may not be able to take advantage of market opportunities or release new Platform offerings in a timely manner, and we may fail to satisfy customer expectations, maintain product quality, execute on our business plan or adequately respond to competitive pressures, each of which could adversely impact our growth and affect our business and operating results. 
+ If we are unable to sell renewals of our subscription services to our customers, our future revenue and operating results will be harmed. 
+ Existing customers may not renew their subscription services agreements after the initial period and, given changing customer purchasing preferences, we may not be able to accurately predict our renewal rates. Our customers renewal rates may decline or fluctuate as a result of a number of factors, including their available budget and the level of their satisfaction with our Platform, customer support and pricing compared to our competitors. If our customers renew their contracts, they may renew on terms that are less economically beneficial to us. If our customers do not renew their agreements or renew on less favorable terms, our revenue may grow more slowly than expected, if at all. 
+ 47 
+
+Table of Contents 
+
+ Sales from our subscription and consumption offerings as a percentage of our total sales are difficult to predict, and we expect they will fluctuate over time. As such, we expect fluctuations in sales of our subscription and consumption offerings to impact both product and total revenue growth. 
+ Our sales from our Evergreen//One, Evergreen//Flex and Cloud Block Store subscription and consumption offerings as a percentage of our total sales are difficult to predict and we expect they will fluctuate over time. With a traditional CapEx sale, a large portion of revenue is recognized as product revenue when the order is fulfilled. By contrast, revenue for our Evergreen//One, Evergreen//Flex and Cloud Block Store subscription and consumption offerings is recognized over the term of the relevant contract period and the majority of revenue is included in subscription services revenue. An increase in sales from our our subscription and consumption offerings as a percentage of total sales may have a near-term negative impact on both quarter-over-quarter and year-over-year product and total revenue growth rate comparisons. By contrast, a relative decrease in sales of our subscription and consumption offerings as a percentage of total sales may have a near-term positive impact on both quarter-over-quarter and year-over-year product and total revenue growth rate comparisons. As such, we expect fluctuations in sales of our subscription and consumption offerings to impact both product and total revenue growth. 
+ We may require additional capital to support business growth, and this capital might not be available on acceptable terms, or at all. 
+ We intend to continue investing in our business growth and may require additional funds to support business initiatives, including the need to develop new Platform offerings or enhance our existing Platform offerings, enhance our operating infrastructure and acquire complementary businesses and technologies. Accordingly, we may need to engage in equity or debt financings to secure additional funds. If we raise additional funds through further issuances of equity or convertible debt securities, our stockholders could suffer significant dilution, and any new equity securities we issue could have rights, preferences and privileges superior to those of holders of our common stock. Any debt financing we undertake in the future could involve additional restrictive covenants relating to our capital raising activities and other financial and operational matters, which may make it more difficult for us to obtain additional capital and to pursue business opportunities, including potential acquisitions. We may not be able to obtain additional financing on terms favorable to us, if at all. If we are unable to obtain adequate financing or financing on terms satisfactory to us, when we require it, our ability to support our business growth and to respond to business challenges could be significantly limited and our prospects and financial condition could be harmed. 
+ We are exposed to the credit risk of some of our customers, which could harm our business, operating results and financial condition. 
+ Most of our sales are made on an open credit basis. We monitor individual customer payment capability when we grant open credit arrangements and may limit these open credit arrangements based on perceived creditworthiness. We also maintain allowances we believe are adequate to cover exposure for doubtful accounts. Although we have programs in place that are designed to monitor and mitigate these risks, we cannot assure investors these programs will be effective in managing our credit risks, especially as we expand our business internationally. If we are unable to adequately control these risks, our business, operating results and financial condition could be harmed. 
+ 48 
+
+Table of Contents 
+
+ Risks Related to Our Operations 
+ If our security measures, or those maintained on our behalf, are compromised, or the security, confidentiality, integrity or availability of our information technology, software, services, networks, products, communications or data is compromised, limited, or fails, our business could experience a material adverse impact, including without limitation, a material interruption to our operations, harm to our reputation, a loss of customers, significant fines, penalties and liabilities, or breach or triggering of data protection laws, privacy policies or other obligations. 
+ In the ordinary course of our business, we collect, store, transmit and otherwise process proprietary, confidential and sensitive data, including by using our internal systems, networks and servers, which may include intellectual property, our proprietary business information and that of our customers, suppliers and business partners and sales data, which may, on occasion, include personally identifiable information. Additionally, we design and sell products that allow our customers to store their data. We also rely on third-party service providers and technologies to operate our business and elements of our infrastructure and our business operations depend, in part, on the success of these third parties' own cybersecurity measures. The security of our networks and those of our third-party service providers, and the intrusion protection features of our products are critical to our operations and business strategy. 
+ Cyberattacks, malicious internet-based activity and online and offline fraud are prevalent and continue to increase. We have been, and may in the future be, subject to attempts to gain unauthorized access to our systems. For example, in June 2024, we were the subject of a security incident involving a third party that temporarily gained unauthorized access to a single Snowflake data analytics workspace. The workspace did not include compromising information such as passwords for customer systems, or any of the data that is stored on the customer systems, but did contain telemetry information that we use to provide proactive customer support services. The threats to our information systems and information and those of third parties on whom we rely, include traditional computer hackers, social engineering schemes (for example, attempts to induce fraudulent invoice payments or divert money from us), phishing attacks, faulty password management, software bugs, malicious code (such as viruses and worms), malware installation, personnel misconduct or error, theft, denial-of-service attacks (such as credential stuffing), advanced persistent threat intrusions, server malfunction, software or hardware failures, loss of data or other computer assets, adware, as well as attacks from nation-state and nation-state supported actors. These threats are also becoming increasingly difficult to detect. AI technologies may also be used in connection with certain attacks, resulting in heightened risks of security breaches and incidents. Additionally, ransomware attacks, including those from organized criminal threat actors, nation-states and nation-state supported actors, are becoming increasingly prevalent and severe and could lead to significant interruptions, delays, or outages in our operations, disruptions in our services, loss of data, loss of income, significant extra expense to restore data or systems, reputational loss and the diversion of funds. To alleviate the financial, operational and reputational impact of a ransomware attack, it may be preferable to make extortion payments, but we may be unwilling or unable to do so (including, for example, if applicable laws or regulations prohibit such payments). Similarly, supply chain attacks have increased in frequency and severity, and there have been high-profile incidents of third-party service providers causing widespread disruptions to their customers infrastructure due to errors in their SaaS offerings. We cannot guarantee that third parties and infrastructure in our supply chain have not been compromised or that they do not contain exploitable defects or bugs that could result in a breach of or disruption to our Platform, systems and network or the systems and networks of third parties that support us and our business. Moreover, we may have limited remedies against third-party providers in the event of a service disruption. 
+ 49 
+
+Table of Contents 
+
+ We devote significant resources to network security, authentication technologies, data encryption, employee training and other security measures designed to protect our systems and data, including to secure the transmission and storage of data and prevent third-party access to our data or accounts, but there can be no assurance that our security measures or those of our service providers, partners and other third parties upon whom we rely will be effective in protecting against a security incident or the material adverse impacts that may arise from a security incident. Notwithstanding our efforts, we may fail to detect the existence of security breaches or incidents, Malicious third parties might use techniques that we are unable to defend against to compromise and infiltrate our systems. The techniques used by malicious actors change frequently and are often not recognized until launched against a target. Any destructive or intrusive breach of our internal systems could result in the information stored on our networks, including, without limitation, source code for our products and services or the networks and systems of third parties upon whom we rely being accessed, publicly disclosed, lost or stolen. Additionally, an effective attack on our Platform could disrupt the proper functioning of our Platform, allow unauthorized access to sensitive, proprietary or confidential information of ours or our customers, disrupt or temporarily interrupt our and our customers operations or cause other destructive outcomes, including the theft of information sufficient to engage in fraudulent transactions. 
+ The risk that these types of events could seriously harm our business is likely to increase as we expand our network of channel partners, resellers and authorized service providers and operate in more countries. The economic costs to us to eliminate or alleviate cybersecurity risks and vulnerabilities could be significant and may be difficult to anticipate or measure because the damage may differ based on the identity and motive of the programmer or hacker, which are often difficult to identify. 
+ If any of these types of security incidents occurs and we are unable to protect our Platform, systems and data, or if we are perceived to have such a security incident, our relationships with our business partners and customers could be materially damaged, our reputation and brand could be materially harmed, use of our Platform could decrease and we could be exposed to a risk of loss or litigation , including, without limitation, class action litigation, and other possible liabilities. A security incident could also result in government enforcement actions that could include investigations, fines, penalties, audits and inspections, additional reporting requirements and/or oversight, temporary or permanent bans on all or some processing of personal information. 
+ Moreover, applicable data protection laws, contracts, policies and other data protection obligations may require us to notify relevant stakeholders of security incidents, including affected individuals, customers, regulators, and credit reporting agencies. Such disclosures are costly and the disclosures or the failure to comply with such requirements could lead to material adverse impacts such as negative publicity, loss of customer confidence in our services or security measures, investigations and private or government claims. Security incidents that impact our information technology systems could also result in breaches of our contracts (some of which may not have liability limitations and/or require us to indemnify affected parties) and could lead to litigation with customers, partners or other relevant stakeholders. These proceedings could force us to spend money in defense or settlement, divert management s time and attention, increase our costs of doing business and adversely affect our reputation or otherwise adversely affect our business. 
+ 50 
+
+Table of Contents 
+
+ If we are unable to attract, motivate and retain sales, engineering and other key personnel, including our management team, we may not be able to increase our revenue and our business, operating results and financial condition could be harmed. 
+ Our ability to increase our revenue depends on our ability to attract, motivate, and retain qualified sales, engineering and other key employees, including our management. These positions may require candidates with specific backgrounds in software and the storage industry, and competition for employees with such expertise is intense. We have from time to time experienced, and we expect to continue to experience, difficulty in hiring and retaining highly skilled employees with appropriate qualifications. To the extent that we are successful in hiring to fill these positions, we may need a significant amount of time to train new employees before they are effective and efficient in performing their jobs. Further, we face new challenges regarding workforce planning, employee expectations regarding the ability to work from home or remotely and maintaining employee productivity, as well as higher employee turnover and slower hiring rates. If we are unable to adequately address these challenges, our ability to recruit and retain employees and to ensure employee productivity could be negatively affected. From time to time, there may be changes in our management team, which could create short term uncertainty. All of our employees, including members of our management team and executive officers, are generally employed on an at-will basis, which means that they could terminate their employment with us at any time. If we are unable to attract, motivate and retain qualified sales, engineering and other key employees, including our management or if they are unable to work effectively, our business and operating results could suffer. 
+ If we fail to adequately expand and optimize our sales force, our growth will be impeded. 
+ We need to continue to expand and optimize our sales organization in order to grow our customer base and our business. We plan to continue to expand and train our sales force, both domestically and internationally. We must design and implement effective sales incentive programs, and it can take time before new sales representatives are fully trained and productive. We must adapt our sales processes for new sales and marketing approaches, including those required by our shift to subscription services and the changes resulting from evolving economic and budgetary constraints. If we are unable to hire, develop and retain qualified sales personnel or if new sales personnel are unable to achieve desired productivity levels in a reasonable period of time, we may not be able to realize the expected benefits of these investments or increase our revenue and our business and operating results could suffer. 
+ Our company culture has contributed to our success, and if we cannot maintain this culture as we grow, we could lose the innovation, creativity and teamwork fostered by our culture, and our business may be harmed. 
+ We believe that our company culture has been a critical contributor to our success. Our culture fosters innovation, creativity, teamwork, passion for customers, focus on execution, and facilitates critical knowledge sharing. In particular, we believe that the difference between our sales, support and engineering cultures and those of incumbent vendors, is a key competitive advantage and differentiator for our customers and partners. As we grow and change or are required to adapt to changes in business operations, including expectations around work location, we may find it difficult to maintain these important aspects of our company culture, which could limit our ability to innovate and operate effectively. Any failure to preserve our culture could also negatively affect our ability to retain and recruit personnel, continue to perform at current levels or execute on our business strategy. 
+ Our long-term success depends, in part, on sales outside of the United States, which subjects us to costs and risks associated with international operations. 
+ We maintain operations outside of the United States, which we have been expanding and intend to continue to expand in the future. As a company headquartered in the United States, conducting and expanding international operations subjects us to costs and risks that we may not face in the United States, including: 
+ exposure to foreign currency exchange rate risk; 
+ difficulties in collecting payments internationally; 
+ managing and staffing international operations; 
+ 51 
+
+Table of Contents 
+
+ establishing relationships with channel partners in international locations; 
+ increased travel, infrastructure and legal compliance costs associated with international locations; 
+ requirements to comply with a wide variety of laws and regulations associated with international operations, including taxes, customs and licensing requirements; 
+ significant fines, penalties and collateral consequences if we or our partners fail to comply with anti-bribery laws; 
+ heightened risk of improper, unfair or corrupt business practices in certain geographies; 
+ potentially adverse tax consequences, including repatriation of earnings; 
+ increased financial accounting and reporting burdens and complexities; 
+ political, social and economic instability abroad, terrorist attacks, war (such as the conflicts in Israel and Ukraine) and security concerns in general; and 
+ reduced or varied protection for intellectual property rights in some countries. 
+ The occurrence of any of these risks could negatively affect our international operations and, consequently, our business, operating results and financial condition generally. 
+ Our international operations, as well as tax law changes, could expose us to potentially adverse tax consequences. 
+ Changes in federal, state, or international tax laws or tax rulings could adversely affect our effective tax rate and our operating results. We generally conduct our international operations through wholly owned subsidiaries and report our taxable income in various jurisdictions worldwide based upon our business operations in those jurisdictions. Given proposed tax legislation and other global tax developments, we continue to evaluate our corporate structure and intercompany relationships. The Tax Cuts and Jobs Act of 2017 amendments to Internal Revenue Code (IRC) Section 174 require that specific research and experimental expenditures be capitalized and amortized over five years if incurred in the U.S. or fifteen years if incurred in a foreign jurisdiction beginning in our fiscal 2023. Although Congress is considering legislation that would defer, modify or repeal this capitalization and amortization requirement, the possibility that this will happen is uncertain. If this requirement is not deferred, modified or repealed, we may continue to incur additional cash taxes. 
+ Our intercompany relationships are, and after the implementation of any changes to our corporate structure will continue to be, subject to complex transfer pricing regulations administered by taxing authorities in various jurisdictions. The relevant taxing authorities may disagree with our determinations as to the income and expenses attributable to specific jurisdictions. If such a disagreement were to occur, and our position were not sustained, we could be required to pay additional taxes, interest and penalties, which could result in tax charges, higher effective tax rates, reduced cash flows and lower overall profitability of our operations. 
+ Third-party claims that we infringe their intellectual property rights could be costly and harm our business. 
+ There is a substantial amount of intellectual property litigation in the data storage industry, and we may become party to, or threatened with, litigation or other adversarial proceedings regarding our intellectual property rights. The outcome of intellectual property litigation is subject to uncertainties that cannot be adequately quantified in advance. We have been, and may in the future be, subject to claims that we infringe upon the intellectual property rights of other intellectual property holders, particularly as we grow and face increasing competition. 
+ 52 
+
+Table of Contents 
+
+ Any intellectual property rights claim against us or our customers, suppliers, and channel partners, with or without merit, could be time-consuming and expensive to litigate or settle, divert management s resources and attention from operating our business and force us to acquire intellectual property rights and licenses, which may involve substantial royalty payments. Further, a party making such a claim, if successful, could secure a judgment that requires us to pay substantial damages, including treble damages and attorneys fees if we are found to have willfully infringed a patent. An adverse determination also could invalidate our intellectual property rights, prevent us from manufacturing and selling our products and may require that we procure or develop substitute products that do not infringe, which could require significant effort and expense. We are also incorporating AI into the operations of our business. The intellectual property rights surrounding AI technologies are unsettled, and the use or adoption of AI technologies in our business could expose us to copyright infringement or other intellectual property misappropriation claims. 
+ We may not be able to re-engineer our products to avoid infringement, and we may have to seek a license for the infringed technology, which may not be available on reasonable terms or at all, may significantly increase our operating expenses or may require us to restrict our business activities in one or more respects. Even if we were able to obtain a license, it could be non-exclusive, which may give our competitors access to the same technologies licensed to us. Claims that we have misappropriated the confidential information or trade secrets of third parties could have a similar negative impact on our business. Any of these events could harm our business and financial condition. 
+ We currently have a number of agreements in effect with our customers, suppliers and channel partners pursuant to which we have agreed to defend, indemnify and hold them harmless from damages and costs which may arise from claims of infringement by our products of third-party patents, trademarks or other proprietary rights. The scope of these indemnity obligations varies but may, in some instances, include indemnification for damages and expenses, including attorneys fees. Our insurance may not cover intellectual property infringement claims. A claim that our products infringe a third party s intellectual property rights could harm our relationships with our customers, deter future customers from purchasing our products and expose us to costly litigation and settlement expenses. Even if we are not a party to any litigation between a customer and a third party relating to infringement claims by our products, an adverse outcome in any such litigation could make it more difficult for us to defend our products against intellectual property infringement claims in any subsequent litigation in which we are a named party. Any of these results could harm our brand, business and financial condition. 
+ The success of our business depends in part on our ability to protect and enforce our intellectual property rights. 
+ We rely on a combination of patent, copyright, service mark, trademark and trade secret laws, as well as confidentiality procedures and contractual restrictions, to establish and protect our proprietary rights, all of which provide only limited protection. We have over 2,500 issued patents and patent applications in the United States and foreign countries. We cannot assure investors that future patents issued to us, if any, will give us the protection that we seek, if at all, or that any patents issued to us will not be challenged, invalidated, circumvented or held to be unenforceable. Our issued and future patents may not provide sufficiently broad protection or may not be enforceable. Further, the laws of certain foreign countries do not provide the same level of protection of corporate proprietary information and assets such as intellectual property, trademarks, trade secrets, know-how and records, as the laws of the United States. For instance, the legal systems of certain countries, particularly certain developing countries, do not favor the enforcement of patents and other intellectual property protection. As a result, we may encounter significant problems in protecting and defending our intellectual property or proprietary rights abroad. 
+ Changes to intellectual property laws in the United States and other jurisdictions could also diminish the value of our patents and patent applications or narrow the scope of our patent protection, among other intellectual property rights. We cannot be certain that the steps we have taken will prevent theft, unauthorized use or the reverse engineering of our proprietary information and other intellectual property, including technical data, manufacturing processes, data sets or other sensitive information. Moreover, others may independently develop technologies that are competitive to ours or that infringe our intellectual property. Furthermore, any of our trademarks may be challenged by others or invalidated through administrative process or litigation. 
+ 53 
+
+Table of Contents 
+
+ Protecting against the unauthorized use of our intellectual property, products and other proprietary rights is expensive and difficult. Litigation may be necessary in the future to enforce or defend our intellectual property rights or to determine the validity and scope of the proprietary rights of others. Any such litigation could result in substantial costs and diversion of management s resources and attention, either of which could harm our business, operating results and financial condition. Further, many of our current and potential competitors have the ability to dedicate substantially greater resources than us to defend intellectual property infringement claims and enforce their intellectual property rights. Accordingly, we may not be able to prevent third parties from infringing upon or misappropriating our intellectual property. Effective patent, trademark, service mark, copyright and trade secret protection may not be available in every country in which our products are available. An inability to adequately protect and enforce our intellectual property and other proprietary rights could harm our business and financial condition. 
+ Our use of open source software could impose limitations on our ability to commercialize our Platform. 
+ We use open source software in our Platform and expect to continue to use open source software in the future. Although we monitor our use of open source software, the terms of many open source licenses have not been interpreted by U.S. or foreign courts, and there is a risk that such licenses could be construed in a manner that imposes unanticipated conditions or restrictions on our ability to market our Platform. From time to time, we may face claims from third parties claiming ownership of, or demanding release of, the open source software or derivative works that we have developed using such software, which could include our proprietary source code, or otherwise seeking to enforce the terms of the applicable open source license. These claims could result in litigation and could require us to make our software source code freely available, seek licenses from third parties in order to continue offering our Platform for certain uses or cease offering the implicated solutions unless and until we can re-engineer them to avoid infringement. This re-engineering process could require significant additional research and development resources, and we may be required to discontinue providing some of our software if re-engineering cannot be accomplished on a timely basis, any of which could harm our business, operating results and financial condition. 
+ Failure to comply with governmental laws and regulations could harm our business. 
+ Our business is subject to regulation by various federal, state, local and foreign governmental agencies, including agencies responsible for monitoring and enforcing employment and labor laws, workplace safety, product safety, environmental laws, consumer protection laws, anti-bribery laws, import/export controls, federal securities laws and tax laws and regulations. In certain jurisdictions, these regulatory requirements may be more stringent than in the United States. For example, the European Union has adopted certain directives to facilitate the recycling of electrical and electronic equipment sold in the European Union, including the Restriction on the Use of Certain Hazardous Substances in Electrical and Electronic Equipment directive and the Waste Electrical and Electronic Equipment directive. 
+ Changes in applicable laws, regulations and standards could harm our business, operating results and financial condition. For example, in recent years we have become subject to data privacy laws, including the EU General Data Protection Regulation (GDPR), California Consumer Privacy Act (CCPA), and California Privacy Rights Act (CPRA). Other states have proposed, and in certain cases enacted, similar laws. These and potentially other future privacy regulations may require us to make further changes to our policies and procedures beyond what we have already done. Our business could be impacted, to some extent, by the United Kingdom's exit from the European Union and related changes in law and regulation. We have modified our data protection compliance program in response to data privacy regulations and will continue to monitor the implementation and evolution of global data protection regulations, but if we are not compliant with such privacy regulations, we may be subject to significant fines and our business may be harmed. The potential effects of new or modified privacy laws may be far-reaching and require us to modify our data processing practices and policies and to incur substantial costs and expenses. Customers may choose to implement technological solutions to comply with such laws that impact the performance and competitiveness of our Platform. Even the perception of privacy concerns, whether or not valid, may harm our reputation and inhibit competitiveness and adoption of our Platform by current and future customers. 
+ 54 
+
+Table of Contents 
+
+ In addition, environmental, social and governance (ESG) reporting and disclosure requirements continue to evolve, with increasing global regulation. Companies must develop an expanded set of metrics and measures, data collection and processing, controls, and reporting processes in order to meet regulatory requirements. For example, the European Union recently adopted the Corporate Sustainability Reporting Directive, which requires us to prepare and provide disclosure on a variety of ESG topics; California recently enacted Senate Bill 261, which will, among other things, require us to prepare and submit climate-related financial risk reports; and the SEC recently adopted rules mandating climate-related reporting requirements. As global ESG regulatory requirements evolve, this could lead to disruptions in our product manufacturing or distribution, increase our operating costs, and harm our profitability. If we fail, or are seen as failing, to effectively respond to ESG regulatory requirements, our reputation and brand could be harmed, demand for our offerings could decline, and our profitability could be adversely impacted. 
+ Noncompliance with applicable regulations or requirements could subject us to investigations, sanctions, mandatory product recalls, enforcement actions, disgorgement of profits, fines, damages, civil and criminal penalties or injunctions. If any governmental sanctions are imposed, or if we do not prevail in any possible civil or criminal litigation, our business, operating results and financial condition could be harmed. In addition, responding to any action will likely result in a significant diversion of management s attention and resources and an increase in professional fees. Enforcement actions and sanctions could harm our business, operating results and financial condition. 
+ Governmental regulations affecting the import or export of products could negatively affect our revenue. 
+ The U.S. and various foreign governments have imposed controls, export license requirements and restrictions on the import or export of some technologies, especially encryption technology, as well as laws relating to forced labor and conflict minerals. From time to time, governmental agencies have proposed additional regulation of encryption technology, such as requiring the escrow of imports or exports. If we fail to obtain required import or export approval for our products or their various components, or to timely provide requested documentation, our international and domestic sales could be harmed and our revenue may be adversely affected. In many cases, we rely on vendors and channel partners to handle logistics associated with the import and export of our products, so our visibility and control over these matters may be limited. In addition, failure to comply with such regulations could result in penalties, costs and restrictions on export privileges, which could harm our business, operating results and financial condition. 
+ We may acquire other businesses which could require significant management attention, disrupt our business, dilute stockholder value, and adversely affect our operating results. 
+ We have completed acquisitions in the past and continue to evaluate and consider additional strategic transactions, including acquisitions of, or investments in, businesses, technologies, services, products and other assets in the future. We also may enter into relationships with other businesses in order to expand our product offerings, which could involve preferred or exclusive licenses, additional channels of distribution or discount pricing or investments in other companies. Negotiating these transactions can be time-consuming, difficult and expensive, and our ability to close these transactions may be subject to third-party or government approvals, which are beyond our control. Consequently, we can make no assurance that these transactions, once undertaken and announced, will close. 
+ 55 
+
+Table of Contents 
+
+ These kinds of acquisitions or investments may result in unforeseen operating difficulties and expenditures. In particular, we may encounter difficulties assimilating or integrating the businesses, technologies, products, personnel or operations of acquired companies, particularly if the key personnel of the acquired business choose not to work for us, and we may have difficulty retaining the customers of any acquired business. Acquisitions and investments may also disrupt our ongoing business, divert our resources and require significant management attention that would otherwise be available for development of our business. Any acquisition or investment could expose us to unknown liabilities. We may not successfully evaluate or utilize the acquired technology or personnel, or accurately forecast the financial impact of an acquisition or investment transaction. Moreover, we cannot assure investors that the anticipated benefits of any acquisition or investment will be realized. In connection with these types of transactions, we may issue additional equity securities that dilute our stockholders, use cash that we may need in the future to operate our business, incur debt on terms unfavorable to us or that we are unable to repay, incur large charges or substantial liabilities, encounter difficulties integrating diverse business cultures and become subject to adverse tax consequences, substantial impairment or deferred compensation charges. These challenges related to acquisitions or investments could harm our business and financial condition. 
+ 
+ Risks Related to Our Credit Facility 
+ Restrictive covenants in the agreement governing our senior secured revolving credit facility may restrict our ability to pursue business strategies. 
+ In August 2020, we entered into a Credit Agreement with a consortium of financial institutions and lenders that provides for a five-year, senior secured revolving credit facility of 300.0 million (Credit Facility). We can borrow, repay and re-borrow funds under this Credit Facility at any time through August 2025, subject to customary borrowing conditions, for general corporate purposes and working capital. 
+ The agreement governing our Credit Facility limits our ability, among other things, to incur additional secured indebtedness; sell, transfer, license or dispose of assets; consolidate or merge; enter into transactions with our affiliates; and incur liens. In addition, our Credit Facility contains financial and other restrictive covenants that limit our ability to engage in activities that may be in our long term best interest, such as, subject to permitted exceptions, making capital expenditures in excess of certain thresholds, making investments, loans and other advances, and prepaying any additional indebtedness while our indebtedness under our Credit Facility is outstanding. Our failure to comply with financial and other restrictive covenants could result in an event of default, which if not cured or waived, could result in the lenders requiring immediate payment of all outstanding borrowings or foreclosing on collateral pledged to them to secure the indebtedness. 
+ 
+ Risks Related to Our Common Stock 
+ The trading price of our common stock has been and may continue to be volatile, and an active, liquid, and orderly market for our common stock may not be sustained. 
+ The trading price of our common stock has been, and will likely continue to be, highly volatile. Since shares of our common stock were sold in our initial public offering in October 2015 at a price of 17.00 per share, our closing stock price has ranged from 8.76 to 68.35, through December 4, 2024. Some of the factors, many of which are beyond our control, affecting our volatility may include: 
+ price and volume fluctuations in the overall stock market from time to time; 
+ significant volatility in the market price and trading volume of technology companies in general and of companies in our industry; 
+ actual or anticipated changes in our results of operations or fluctuations in our operating results; 
+ whether our operating results meet the expectations of securities analysts or investors; 
+ issuance or new or updated research or reports by securities analysts, including the publication of unfavorable reports or change in recommendation or downgrading of our common stock; 
+ actual or anticipated developments in our competitors businesses or the competitive landscape generally; 
+ 56 
+
+Table of Contents 
+
+ litigation involving us, our industry or both; 
+ general economic conditions and trends, including the impact of interest rates on the overall stock market and the market for technology company stocks; 
+ major catastrophic events; 
+ sales of large blocks of our stock; or 
+ departures of key personnel. 
+ In several recent situations where the price of a stock has been volatile, holders of that stock have instituted securities class action litigation against the issuer. If any of our stockholders were to bring a lawsuit against us, the defense and disposition of the lawsuit could be costly and divert the time and attention of our management and harm our business, operating results and financial condition. 
+ We cannot guarantee that our share repurchase program will enhance shareholder value, and share repurchases could affect the price of our common stock. 
+ Our Board of Directors has periodically authorized share repurchases, funded from available working capital, including up to 250.0 million authorized in February 2024. The repurchase authorization has no fixed end date. Although our Board of Directors has authorized a share repurchase program, this program does not obligate us to repurchase any specific dollar amount or number of shares. The share repurchase program could affect the price of our common stock, increase volatility and diminish our cash reserves. 
+ If securities analysts do not publish research or reports about our business, or if they downgrade our stock, our stock price could decline. 
+ The trading market for our common stock will likely be influenced by research and reports that securities or industry analysts publish about us or our business. If one or more of these analysts downgrades our stock, lowers their price target, or publishes unfavorable or inaccurate research about our business, our stock price would likely decline. If one or more of these analysts ceases coverage of us or fails to publish reports on us regularly, demand for our stock could decrease, which could cause our stock price and trading volume to decline. 
+ We have never paid dividends on our common stock and we do not anticipate paying any cash dividends in the foreseeable future. 
+ We have never declared or paid any dividends on our common stock. We intend to retain any earnings to finance the operation and expansion of our business, and we do not anticipate paying any cash dividends in the future. As a result, investors may only receive a return on their investment in our common stock if the market price of our common stock increases. 
+ Provisions in our amended and restated certificate of incorporation and amended and restated bylaws and under Delaware law might discourage, delay or prevent a change of control of our company or changes in our management and, therefore, depress the price of our common stock. 
+ Our amended and restated certificate of incorporation and amended and restated bylaws contain provisions that could depress the trading price of our common stock by acting to discourage, delay or prevent a change of control of our company or changes in our management that our stockholders may deem advantageous. These provisions: 
+ establish a classified Board of Directors so that not all members of our Board of Directors are elected at one time; 
+ authorize the issuance of blank check preferred stock that our Board of Directors could issue to increase the number of outstanding shares to discourage a takeover attempt; 
+ prohibit stockholder action by written consent, which requires all stockholder actions to be taken at a meeting of our stockholders; 
+ 57 
+
+Table of Contents 
+
+ prohibit stockholders from calling a special meeting of our stockholders; 
+ provide that the Board of Directors is expressly authorized to make, alter or repeal our bylaws; and 
+ establish advance notice requirements for nominations for elections to our Board of Directors or for proposing matters that can be acted upon by stockholders at stockholder meetings. 
+ Additionally, we are subject to Section 203 of the Delaware General Corporation Law, which generally prohibits a Delaware corporation from engaging in any of a broad range of business combinations with any interested stockholder for a period of three years following the date on which the stockholder became an interested stockholder and which may discourage, delay, or prevent a change of control of our company. 
+ Any provision of our amended and restated certificate of incorporation, bylaws or Delaware law that has the effect of delaying or deterring a change in control could limit the opportunity for our stockholders to receive a premium for their shares of our common stock, and could also affect the price that some investors are willing to pay for our common stock. 
+ Our amended and restated certificate of incorporation provides that the Court of Chancery of the State of Delaware will be exclusive forum for substantially all disputes between us and our stockholders, which could limit our stockholders ability to obtain a favorable judicial forum for disputes with us or our directors, officers or employees. 
+ Our amended and restated certificate of incorporation provides that the Court of Chancery of the State of Delaware is the exclusive forum for any derivative action or proceeding brought on our behalf; any action asserting a breach of fiduciary duty; any action asserting a claim against us arising pursuant to the Delaware General Corporation Law, our amended and restated certificate of incorporation or our bylaws; or any action asserting a claim against us that is governed by the internal affairs doctrine. The choice of forum provision may limit a stockholder s ability to bring a claim in a judicial forum that it finds favorable for disputes with us or our directors, officers or other employees, which may discourage such lawsuits against us and our directors, officers and other employees. If a court were to find the choice of forum provision contained in our amended and restated certificate of incorporation to be inapplicable or unenforceable in an action, we may incur additional costs associated with resolving such action in other jurisdictions, which could harm our business and financial condition. 
+ 
+ General Risk Factors 
+ Our business is subject to the risks of earthquakes, fires, floods and other natural catastrophic events, and to interruption by man-made factors such as war, computer viruses or terrorism or by the impact of public health epidemics or pandemics. 
+ We and our suppliers have operations in locations, including our headquarters in California, that are subject to earthquakes, fires, floods and other natural catastrophic events, such as climate change, severe weather and geological events, which could disrupt our operations or the operations of our customers and suppliers. Our customers affected by a natural disaster could postpone or cancel orders of our products, which could negatively impact our business. Moreover, should any of our key suppliers fail to deliver components to us as a result of a natural disaster, we may be unable to purchase these components in necessary quantities or may be forced to purchase components in the open market at significantly higher costs. We may also be forced to purchase components in advance of our normal supply chain demand to avoid potential market shortages. Our business interruption insurance may be insufficient to compensate us for losses due to a significant natural disaster or due to man-made factors. Any natural catastrophic events may also prevent our employees from being able to reach our offices in any jurisdiction around the world, and therefore impede our ability to conduct business as usual. 
+ In addition, man-made factors, such as acts of war, terrorism or malicious computer viruses, and public health epidemics or pandemics, could cause disruptions in our or our customers businesses or the economy as a whole. To the extent that these disruptions result in delays or cancellations of customer orders or the deployment of our products, our business, operating results and financial condition could be harmed. 
+ 58 
+
+Table of Contents 
+
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds. 
+ Purchases of Equity Securities by the Issuer 
+ The following table summarizes our stock repurchase activity for the third quarter of fiscal 2025 (in thousands except for price per share): 
+ Period Average Price Paid per Share Total Number of Shares Purchased as Part of Share Repurchase Program (1) 
+ Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Program August 5 - September 1 395,372 September 2 - September 29 48.32 1,862 305,410 September 30 - November 3 52.89 1,738 213,445 
+ (1) In February 2024, our Board of Directors authorized share repurchases of up to an additional 250.0 million of our common stock. See Liquidity and Capital Resources Share Repurchase Program included under Part I, Item 2 in this Quarterly Report on Form 10-Q. 
+ The following table summarizes the shares of restricted common stock that were delivered by certain employees upon vesting of equity awards to satisfy tax withholding requirements during the third quarter of fiscal 2025 (in thousands except for price per share): 
+ Period Average Price per Share Delivered Total Number of Shares Delivered to Satisfy Tax Withholding Requirements Approximate Dollar Value of Shares Delivered to Satisfy Tax Withholding Requirements August 5 - September 1 52.12 1 8 September 2 - September 29 49.75 1,112 55,353 September 30 - November 3 
+ 
+ Item 3. Defaults upon Senior Securities. 
+ Not applicable. 
+ 
+ Item 4. Mine Safety Disclosures. 
+ Not applicable. 
+ 
+ Item 5. Other Information. 
+ Securities Trading Plans of Directors and Executive Officers 
+ During the third quarter of fiscal 2025, no director or officer, as defined in Rule 16a-1(f), or a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement, each as defined in Regulation S-K Item 408. 
+ 59 
+
+Table of Contents 
+
+ Item 6. Exhibits. Incorporation By Reference Exhibit Number Description Form SEC File No. Exhibit Filing Date 3.1 Amended and Restated Certificate of Incorporation. 
+ 10-Q 001-37570 3.1 12/11/2015 3.2 Amended and Restated Bylaws. 
+ S-1 333-206312 3.4 9/9/2015 4.1 Form of Class A Common Stock Certificate of the Company. 
+ S-1 333-206312 4.1 9/9/2015 4.2 Reference is made to Exhibits 3.1 and 3.2 31.1 Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 31.2 Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 32.1 Certification of Principal Executive Officer and Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101.INS XBRL Instance Document 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File - the cover page XBRL tags are embedded within the Inline XBRL document (included in Exhibit 101) 
+ 
+ Filed herewith. 
+ Furnished herewith. 
+ 60 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ PURE STORAGE, INC. Date: December 11, 2024 By: /s/ CHARLES GIANCARLO Charles Giancarlo Chief Executive Officer and Director 
+ (Principal Executive Officer) 
+ Date: December 11, 2024 By: /s/ KEVAN KRYSLER Kevan Krysler Chief Financial Officer 
+ (Principal Financial Officer) 
+ 
+ 61 
+
+<EX-31.1>
+ 2
+ ex-311q3fy2025.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO 
+ EXCHANGE RULES 13a-14(a) AND 15d-14(a), 
+ AS ADOPTED PURSUANT TO 
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Charles Giancarlo, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Pure Storage, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date December 11, 2024 
+ By s CHARLES GIANCARLO Charles Giancarlo Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex-312q3fy2025.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO 
+ EXCHANGE RULES 13a-14(a) AND 15d-14(a), 
+ AS ADOPTED PURSUANT TO 
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Kevan Krysler, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Pure Storage, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date December 11, 2024 
+ By s KEVAN KRYSLER Kevan Krysler Chief Financial Officer (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex-321q3fy2025.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ 
+ CERTIFICATIONS OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER 
+ PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Charles Giancarlo, certify pursuant to Rule 13a-14(b) of the Securities Exchange Act of 1934, as amended, (the Exchange Act and Section 1350 of Chapter 63 of Title 18 of the United States Code (18 U.S.C. 1350), as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report on Form 10-Q of Pure Storage, Inc. for the quarterly period ended November 3, 2024, fully complies with the requirements of Section 13(a) or 15(d) of the Exchange Act and that information contained in such Quarterly Report on Form 10-Q fairly presents, in all material respects, the financial condition and result of operations Pure Storage, Inc. Date December 11, 2024 
+ By s CHARLES GIANCARLO Charles Giancarlo Chief Executive Officer (Principal Executive Officer) 
+ 
+ I, Kevan Krysler, certify pursuant to Rule 13a-14(b) of the Securities Exchange Act of 1934, as amended, (the Exchange Act and Section 1350 of Chapter 63 of Title 18 of the United States Code (18 U.S.C. 1350), as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report on Form 10-Q of Pure Storage, Inc. for the quarterly period ended November 3, 2024, fully complies with the requirements of Section 13(a) or 15(d) of the Exchange Act and that information contained in such Quarterly Report on Form 10-Q fairly presents, in all material respects, the financial condition and result of operations Pure Storage, Inc. Date December 11, 2024 
+ By s KEVAN KRYSLER Kevan Krysler Chief Financial Officer (Principal Financial Officer) 
+ 
+ This certification accompanies the Form 10-Q to which it relates, is not deemed filed with the Securities and Exchange Commission and is not to be incorporated by reference into any filing of Pure Storage, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before or after the date of the Form 10-Q), irrespective of any general incorporation language contained in such filing. 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ pstg-20241103.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ pstg-20241103_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ pstg-20241103_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ pstg-20241103_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ pstg-20241103_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

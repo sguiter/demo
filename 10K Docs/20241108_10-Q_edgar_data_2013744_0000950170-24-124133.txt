@@ -1,0 +1,956 @@
+<Header>
+<FileStats>
+    <FileName>20241108_10-Q_edgar_data_2013744_0000950170-24-124133.txt</FileName>
+    <GrossFileSize>3711029</GrossFileSize>
+    <NetFileSize>65772</NetFileSize>
+    <NonText_DocumentType_Chars>1572746</NonText_DocumentType_Chars>
+    <HTML_Chars>779454</HTML_Chars>
+    <XBRL_Chars>489501</XBRL_Chars>
+    <XML_Chars>745565</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950170-24-124133.hdr.sgml : 20241108
+<ACCEPTANCE-DATETIME>20241108162323
+ACCESSION NUMBER:		0000950170-24-124133
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		51
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241108
+DATE AS OF CHANGE:		20241108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Bitwise Ethereum ETF
+		CENTRAL INDEX KEY:			0002013744
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		ORGANIZATION NAME:           	09 Crypto Assets
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-42159
+		FILM NUMBER:		241440960
+
+	BUSINESS ADDRESS:	
+		STREET 1:		250 MONTGOMERY STREET
+		STREET 2:		SUITE 200
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+		BUSINESS PHONE:		415-707-3663
+
+	MAIL ADDRESS:	
+		STREET 1:		250 MONTGOMERY STREET
+		STREET 2:		SUITE 200
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94104
+
+</SEC-Header>
+</Header>
+
+ 0000950170-24-124133.txt : 20241108
+
+10-Q
+ 1
+ ethw-20240930.htm
+ 10-Q
+
+10-Q 
+
+wh 
+ 
+ UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+
+FORM 
+
+Quarterly report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 for the quarterly period ended . 
+ or 
+ 	 Transition report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 for the transition period from to . 
+ Commission File Number: 
+
+(Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of 
+ 
+ (I.R.S. Employer 
+
+incorporation or organization) 
+ 
+ Identification No.) 
+
+Bitwise Investment Advisers, LLC 
+ , 
+ , 
+ 
+ (Address, including zip code, and telephone number, including area code, of registrant s primary executive offices) 
+
+Title of each class: 
+ 
+ Trading Symbol(s) 
+ 
+ Name of each exchange on which registered: 
+
+Securities registered or to be registered pursuant to Section 12(g) of the Act: None. 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer , accelerated filer , smaller reporting company and emerging growth company in Rule 12b 2 of the Exchange Act. 
+
+Large Accelerated Filer 
+
+Accelerated Filer 
+
+Smaller Reporting Company 
+
+Emerging Growth Company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided in Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b 2 of the Exchange Act.). Yes No 
+ The registrant had outstanding shares as of November 6, 2024. 
+
+STATEMENT REGARDING FORWARD-LOOKING STATEMENTS 
+ This Quarterly Report on Form 10-Q (the Quarterly Report includes forward-looking statements with respect to the financial conditions, results of operations, plans, objectives, future performance and business of Bitwise Ethereum ETF (the Trust ). In some cases, you can identify forward-looking statements by terminology such as may, might, will, should, expect, plan, anticipate, believe, estimate, predict, potential, or continue, the negative of these terms and other similar expressions are intended to identify some of the forward-looking statements. All statements (other than statements of historical fact) included in this Quarterly Report that address activities, events, or developments that will or may occur in the future, including such matters as movements in the crypto asset markets, the Trust's operations, the plans of Bitwise Investment Advisers, LLC (the Sponsor ), and references to the Trust s future success and other similar matters, are forward-looking statements. These statements are only predictions. Actual events or results may differ materially from such statements. These statements are based upon certain assumptions and analyses the Sponsor has made based on its perception of historical trends, current conditions, and expected future developments, as well as other factors appropriate in the circumstances. 
+ Whether or not actual results and developments will conform to the Sponsor s expectations and predictions is subject to a number of risks and uncertainties, including, but not limited to, any risk factors described in Part II, Item 1A. Risk Factors of this Quarterly Report on Form 10-Q. 
+ Factors which could have a material adverse effect on the Trust's business, financial condition or results of operations and future prospects or which could cause actual results to differ materially from the Trust's expectations include, but are not limited to: 
+ the special considerations discussed in this Quarterly Report; 
+
+the extreme volatility of trading price that ether has experienced in recent periods and may continue to experience, which could have a material adverse effect on the value of the Shares of the Trust; 
+
+the recentness of the development of ether and other crypto assets, and the uncertain medium-to-long term value of the Shares due to a number of factors relating to the capabilities and technology developments regarding the use of ether and other crypto assets and to the fundamental investment characteristics of ether and other crypto assets; 
+
+the value of the Shares depending on the acceptance of ether and blockchain technologies, a new and rapidly evolving industry; 
+
+the unregulated nature and lack of transparency surrounding the operations of blockchain technologies and crypto assets, which may adversely affect the value of ether and the Shares; 
+
+the limited history of the Trust; 
+
+the possibility that the Shares may trade at a price that is at, above or below the Trust s NAV per-share; 
+
+changes in laws or regulations, or actions taken by governmental authorities or U.S. federal or state regulatory bodies, including the Securities and Exchange Commission (the SEC and the Commodity Futures Trading Commission, that may affect the value of the Shares or restrict the use of ether or other crypto assets, the operation of Ethereum network, or the ether market in a manner that adversely affects the value of the Shares; 
+
+the possibility that the Trust or the Sponsor could be subject to regulation as a money service business or money transmitter, which could result in extraordinary expenses to the Trust or the Sponsor and also result in decreased liquidity for the Shares; 
+
+regulatory changes or interpretations that could obligate the Trust or the Sponsor to register and comply with new regulations, resulting in potentially extraordinary, nonrecurring expenses to the Trust; 
+
+potential conflicts of interest that may arise among the Sponsor or its affiliates and the Trust; 
+
+the Trust s reliance on the security, stability, and performance of its service providers, including the Ether Custodian, Cash Custodian, Prime Execution Agent, and other intermediaries, which may be subject to operational failures, conflicts of interest, and regulatory actions, potentially adversely affecting its operations and the value of the Shares; 
+
+general economic, market and business conditions, and political developments, including, without limitation, global pandemics and the societal and government responses thereto, which could negatively impact the value of the Trust s holdings in ether and significantly disrupt its operations; and 
+
+any additional risk factors discussed in Part II, Item 1A. Risk Factors and Part I, Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations of this Quarterly Report on Form 10-Q, as well as those described from time to time in the Trust s future reports filed with the SEC. 
+
+All the forward-looking statements made in this Quarterly Report are qualified by these cautionary statements, and there can be no assurance that the actual results or developments the Sponsor anticipates will be realized or, even if substantially realized, that they will result in the expected consequences to, or have the expected effects on, the Trust s operations or the value of the Shares. 
+ Should one or more of these risks discussed in the section entitled Risk Factors or other uncertainties materialize, or should underlying assumptions prove incorrect, actual outcomes may vary materially from those described in forward-looking statements. Forward-looking statements are made based on the Sponsor s beliefs, estimates and opinions on the date the statements are made, and neither the Trust nor the Sponsor is under a duty to update any of the forward-looking statements to conform such statements to actual results or to reflect a change in the Sponsor s expectations or predictions, other than as required by applicable laws. Investors are therefore cautioned against relying on forward-looking statements. 
+
+EMERGING GROWTH COMPANY STATUS 
+ The Trust is an emerging growth company as that term is used in the Jumpstart Our Business Startups Act (the JOBS Act and, as such, may elect to comply with certain reduced reporting requirements. For as long as the Trust is an emerging growth company, unlike other public companies, it will not be required to: 
+ provide an auditor s attestation report on management s assessment of the effectiveness of its system of internal control over financial reporting pursuant to Section 404(b) of the Sarbanes-Oxley Act of 2002; 
+
+comply with any new requirements adopted by the Public Company Accounting Oversight Board PCAOB requiring mandatory auditor rotation or a supplement to the auditor s report in which the auditor would be required to provide additional information about the audit and the financial statements of the issuer; 
+
+comply with any new audit rules adopted by the PCAOB after April 5, 2012, unless the Securities and Exchange Commission determines otherwise; 
+
+provide certain disclosure regarding executive compensation required of larger public companies; or 
+
+obtain shareholder approval of any golden parachute payments not previously approved. 
+
+The Trust will cease to be an emerging growth company upon the earliest of (i) when it has 1.235 billion or more in total annual gross revenues during its most recently completed fiscal year; (ii) when it is deemed to be a large accelerated filer under Rule 12b-2 promulgated pursuant to the Securities Exchange Act of 1934; (iii) when it has issued more than 1.0 billion of non-convertible debt over a three-year period; or (iv) the last day of the fiscal year following the fifth anniversary of its initial public offering. 
+ In addition, Section 107 of the JOBS Act also provides that an emerging growth company can take advantage of the extended transition period provided in Section 7(a)(2)(B) of the Securities Act of 1933 for complying with new or revised accounting standards. In other words, an emerging growth company can delay the adoption of certain accounting standards until those standards would otherwise apply to private companies; however, the Trust is choosing to opt out of such extended transition period, and as a result, the Trust will comply with new or revised accounting standards on the relevant dates on which adoption of such standards is required for non-emerging growth companies. Section 107 of the JOBS Act provides that the Trust s decision to opt out of the extended transition period for complying with new or revised accounting standards is irrevocable. 
+
+Bitwise ETHEREUM ETF 
+ Tabl e of Contents 
+
+Page 
+
+Part I. FINANCIAL INFORMATION 
+
+Item 1. Financial Statements (Unaudited) 
+ 
+ 1 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ 12 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ 16 
+
+Item 4. Controls and Procedures 
+ 
+ 16 
+
+Part II. OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+ 
+ 17 
+
+Item 1A. Risk Factors 
+ 
+ 17 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ 17 
+
+Item 3. Defaults Upon Senior Securities 
+ 
+ 17 
+
+Item 4. Mine Safety Disclosures 
+ 
+ 17 
+
+Item 5. Other Information 
+ 
+ 17 
+
+Item 6. Exhibits 
+ 
+ 18 
+
+Glossary 
+ 
+ 19 
+
+Signatures 
+ 
+ 23 
+
+PART I FIN ANCIAL INFORMATION: 
+ Item 1. Fin ancial Statements (Unaudited) 
+ 
+ BITWISE ETHEREUM ETF 
+ STATEMENT OF ASSETS AND LIABILITIES 
+ (Amounts in thousands, except Share and per-share amounts) 
+
+September 30, 2024 
+
+(unaudited) 
+
+Assets 
+
+Investment in ether, at fair value (cost 
+
+Cash 
+
+Total assets 
+
+Liabilities 
+
+Sponsor Fee payable 
+
+Total liabilities 
+
+Net Assets 
+
+Shares issued and outstanding, par value, unlimited amount authorized 
+
+Net asset value per share (1) 
+
+(1) 
+ 
+ The accompanying notes are an integral part of the Financial Statements. 
+ 1 
+
+BITWISE ETHEREUM ETF 
+ SCHEDULE OF INVESTMENT 
+ (Amounts in thousands, except quantity of ether and percentages) 
+ 
+ September 30, 2024 (Unaudited) 
+
+Quantity 
+
+Percentage of 
+
+of ether 
+
+Cost 
+
+Fair Value 
+
+Net Assets 
+
+Investment in ether 
+
+Total Investment 
+
+Liabilities in excess of other assets 
+
+Net Assets 
+
+The accompanying notes are an integral part of the Financial Statements. 
+ 2 
+
+Bitwise ETHEREUM ETF 
+ STATEMENT OF OPERATIONS 
+ (Amounts in thousands) 
+
+For the period July 22, 2024 (commencement of operations) through September 30, 2024 
+
+(unaudited) 
+
+Investment income 
+
+Investment income 
+
+Expenses 
+
+Sponsor Fee 
+
+Total Expenses 
+
+Less: Waivers and Reimbursement 
+
+() 
+
+Net Expenses 
+
+Net investment loss 
+
+Net realized and unrealized gain (loss) 
+
+Net realized gain (loss) on investment in ether transferred to pay Sponsor Fee 
+
+Net realized gain (loss) on investment in ether sold for redemptions 
+
+() 
+
+Net change in unrealized appreciation (depreciation) on investment in ether 
+
+() 
+
+Net realized and unrealized gain (loss) 
+
+() 
+
+Net increase (decrease) in net assets resulting from operations 
+
+() 
+
+The accompanying notes are an integral part of the Financial Statements. 
+ 3 
+
+Bitwise ETHEREUM ETF 
+ Statement of Changes in Net Assets 
+ (Amounts in thousands, except change in Shares issued and redeemed) 
+
+For the period July 22, 2024 (commencement of operations) through September 30, 2024 
+
+(unaudited) 
+
+Increase (decrease) in net assets resulting from operations 
+
+Net investment loss 
+
+Net realized gain (loss) on investment in ether transferred to pay Sponsor Fee 
+
+Net realized gain (loss) on investment in ether sold for redemptions 
+
+() 
+
+Net change in unrealized appreciation (depreciation) 
+
+() 
+
+Net increase (decrease) in net assets resulting from operations 
+
+() 
+
+Increase (decrease) in net assets from capital share transactions 
+
+Creations for Shares issued 
+
+Redemptions for Shares redeemed 
+
+() 
+
+Net increase (decrease) in net assets resulting from capital share transactions 
+
+Total increase (decrease) in net assets from operations and capital share transactions 
+
+Net assets 
+
+Beginning of period 
+
+(1) 
+
+End of period 
+
+Shares issued and redeemed 
+
+Shares issued 
+
+Shares redeemed 
+
+() 
+
+Net increase (decrease) in Shares issued and outstanding 
+
+(1) Shares at a per-share price of for . in a transaction exempt from registration under Section 4(a)(2) of the 1933 Act (the Seed Shares ). Delivery of the Seed Shares was made on May 28, 2024. Prior to the commencement of operations on July 22, 2024, BAM redeemed the entirety of its Seed Shares for . Additionally, on July 22, 2024, Bitwise Investment Manager, LLC BIM ), an affiliate of the Sponsor, purchased the initial Shares of the Trust (the Seed Baskets for , at a per-share price of . 
+ 
+ The accompanying notes are an integral part of the Financial Statements. 
+ 
+ 4 
+
+Bitwise ETHEREUM ETF 
+ Statement of Cash Flows 
+ (Amounts in thousands) 
+
+For the period July 22, 2024 (commencement of operations) through September 30, 2024 
+
+(unaudited) 
+
+Cash flow from operating activities 
+
+Net increase (decrease) in net assets resulting from operations 
+
+() 
+
+Adjustments to reconcile net increase in net assets resulting from operations to net cash provided by (used in) operating activities: 
+
+Purchases of ether 
+
+() 
+
+Proceeds from ether sold 
+
+Net realized (gain) loss from investment in ether transferred to pay Sponsor Fee 
+
+Net realized (gain) loss from investment in ether sold for redemptions 
+
+Net change in unrealized (appreciation) on investment in ether 
+
+Increase (Decrease) in Sponsor Fee payable 
+
+Net cash provided by (used in) operating activities 
+
+() 
+
+Cash flow from financing activities 
+
+Creations for Shares issued 
+
+Redemptions for Shares redeemed 
+
+() 
+
+Net cash provided by (used in) financing activities 
+
+Net increase (decrease) in cash 
+
+Cash, beginning of period (1) 
+
+Cash, end of period 
+
+. 
+ (1) . 
+ The accompanying notes are an integral part of the Financial Statements. 
+ 5 
+
+BITWISE ETHEREUM ETF 
+ Notes to Financial Statements 
+ September 30, 2024 (Unaudited) 
+ per annum. The Sponsor also paid the costs of the Trust s organization. Delaware Trust Company acts as the trustee of the Trust (the Trustee for the purpose of creating a Delaware statutory trust in accordance with the Delaware Statutory Trust Act DSTA which requires that the Trust have at least trustee with a principal place of business in the State of Delaware. The Trust purchases and sells ether directly and it creates or redeems its Shares in cash-settled transactions in blocks of Shares at the Trust s net asset value NAV per-share and only in transactions with financial firms that are authorized to purchase or redeem Shares with the Trust (each, an Authorized Participant ). An Authorized Participant will deliver, or cause to be delivered, cash to the Trust when it purchases Shares from the Trust, and the Trust will deliver cash to an Authorized Participant, or its designee, when it redeems Shares with the Trust. Authorized Participants, and their customers, may then, in turn, offer Shares to the public at prices that depend on various factors, including the supply and demand for Shares, the value of the Trust s assets, and market conditions at the time of a transaction. Investors who buy or sell Shares during the day from their broker may do so at a premium or discount relative to the NAV of the Shares. The Trust's registration statement on Form S-1 relating to its continuous public offering of Shares was declared effective by the U.S. Securities and Exchange Commission on July 22, 2024 and the Shares of the Trust were listed on the Exchange on July 23, 2024. The statement of assets and liabilities and schedule of investment as of September 30, 2024, and the statements of operations, cash flows, and changes in net assets for the period ended September 30, 2024, have been prepared on behalf of the Trust and are unaudited. In the opinion of management of the Sponsor of the Trust, all adjustments (which include normal recurring adjustments) necessary to present fairly the financial position and results of operations for the period ended September 30, 2024, and for all interim periods presented have been made. In addition, interim period results are not necessarily indicative of results for a full-year period. Prior to the commencement of operations on July 22, 2024, on May 28, 2024, Bitwise Asset Management, Inc. ("BAM"), the parent of the Sponsor, purchased Shares at a per-share price of for in a transaction exempt from registration under Section 4(a)(2) of the 1933 Act (the Seed Shares ). Delivery of the Seed Shares was made on May 28, 2024. On July 22, 2024, BAM redeemed the entirety of its Seed Shares for . Additionally, on July 22, 2024, Bitwise Investment Manager, LLC BIM ), an affiliate of the Sponsor, purchased the initial Shares of the Trust (the Seed Baskets for , at per-share. BIM acted as a statutory underwriter in connection with the initial purchase of the Seed Baskets. On July 23, 2024, BIM sold all of its Shares of the Trust for cash. 
+
+ 6 
+
+as of September 30, 2024. 
+
+7 
+
+. Calculation of Net Asset Value (NAV) and NAV per-share On each business day, as soon as practicable after 4:00 p.m. ET, the NAV of the Trust is obtained by subtracting all accrued fees and other liabilities of the Trust from the fair value of the ether and other assets held by the Trust. The Bank of New York Mellon (the Administrator computes the NAV per-share by dividing the net asset value of the Trust by the number of Shares outstanding on the date the computation is made. 
+ provision for income taxes is required and liability for unrecognized tax benefits has been recorded. The Trust does not expect that its assessment related to unrecognized tax benefits will materially change over the next 12 months. However, the Trust s conclusions may be subject to review and adjustment at a later date based on factors including, but not limited to, the nexus of income among various tax jurisdictions; compliance with U.S. federal, U.S. state, and tax laws of jurisdictions in which the Trust operates in; and changes in the administrative practices and precedents of the relevant authorities. The Trust is required to analyze all open tax years. Open tax years are those years that are open for examination by the 
+
+8 
+
+ether with a total market value of based on the CME CF Ether Dollar Reference Rate New York Variant ("Pricing Index ") price of , used to determine the Trust's NAV. The total market value of the Trust's ether held was based on the price of ether (Lukka Prime Rate) in the principal market (Crypto.com) of , used to determine the Trust's Principal Market NAV. 
+
+Purchases 
+
+Sales for the redemption of Shares 
+
+() 
+
+() 
+
+ether transferred for Sponsor Fee 
+
+Net realized gain (loss) on investment in ether transferred to pay Sponsor Fee 
+
+Net realized gain (loss) on investment in ether sold for redemptions 
+
+() 
+
+Change in unrealized appreciation (depreciation) on investment in ether 
+
+() 
+
+Ending balance as of September 30, 2024 
+
+No comparative period presented as the Trust commenced operations on July 22, 2024. 
+
+per annum of the Trust s ether holdings. For the period commencing on , the day the Shares are initially listed on the Exchange, the Sponsor has agreed to waive the entire Sponsor Fee on the first million of Trust assets through January 22, 2025. The Sponsor Fee is paid by the Trust to the Sponsor as compensation for services performed under the Trust Agreement and Sponsor Agreement. Except during periods when all or a portion of the Sponsor Fee is being waived, the Sponsor Fee will accrue daily and will be payable in ether monthly in arrears. The Administrator calculates the Sponsor Fee on a daily basis by applying a annualized rate to the Trust s total ether holdings, and the amount of ether payable in respect of each daily accrual shall be determined by reference to the Pricing Index . The NAV of the Trust is reduced each day by the amount of the Sponsor Fee calculated each day. On or about the last day of each month, an amount of ether will be transferred from the Trust Ether Account to the Sponsor Ether Account equal to the sum of all daily Sponsor Fees accrued for the month in U.S. dollars divided by the Pricing Index on the last day of the month. The Trust is not responsible for paying any fees or costs associated with the transfer of ether to the Sponsor. In exchange for the Sponsor Fee, the Sponsor has agreed to assume and pay the normal operating expenses of the Trust, which include the Trustee s monthly fee and out-of-pocket expenses, the fees of the Trust s regular service providers (Cash Custodian, Ether Custodian, Prime Execution Agent, Marketing Agent, Transfer Agent and Administrator), exchange listing fees, tax reporting fees, SEC registration fees, printing and mailing costs, audit fees and up to per annum in ordinary legal fees and expenses. The Sponsor may determine in its sole discretion to assume legal fees and expenses of the Trust in excess of per annum. The Sponsor also agreed to pay the costs of the Trust s organization. The Trust may incur certain extraordinary, non-recurring expenses that are not assumed by the Sponsor, including but not limited to, taxes and governmental charges, any applicable brokerage commissions, financing fees, Ethereum network fees and similar transaction fees, expenses and costs of any extraordinary services performed by the Sponsor (or any other service provider) on behalf 
+
+ 9 
+
+Shares of the Trust. 
+
+ Shares) based on the quantity of ether attributable to each Share of the Trust (net of accrued expenses and liabilities) multiplied by the number of Shares comprising a Basket ). This is called the Basket Amount. The Transfer Agent will facilitate the settlement of Shares in response to the placement of creation orders and redemption orders from Authorized Participants. The Trust has entered into the Cash Custody Agreement with BNY Mellon under which BNY Mellon acts as custodian of the Trust s cash and cash equivalents. The Trust only creates or redeems its Shares at NAV. Authorized Participants are the only persons that may place orders to create and redeem Baskets. Authorized Participants must be (1) registered broker-dealers or other securities market participants, such as banks and other financial institutions, that are not required to register as broker-dealers to engage in securities transactions described below, and (2) DTC Participants. To become an Authorized Participant, a person must enter into an Authorized Participant Agreement. The Authorized Participant Agreement provides the procedures for the creation and redemption of Baskets and for the delivery of the cash or Shares required for such creation and redemptions. The Authorized Participant Agreement and the related procedures attached thereto may be amended by the Trust, without the consent of any Shareholder or Authorized Participant. Authorized Participants must pay the Transfer Agent a non-refundable fee for each order they place to create or redeem one or more Baskets. The transaction fee may be waived, reduced, increased or otherwise changed by the Sponsor in its sole discretion. Authorized Participants who make deposits with the Trust in exchange for Baskets receive no fees, commissions or other form of compensation or inducement of any kind from either the Trust or the Sponsor, and no such person has any obligation or responsibility to the Sponsor or the Trust to effect any sale or resale of Shares. Each Authorized Participant is required to be registered as a broker-dealer under the Securities Exchange Act of 1934, as amended, and a member in good standing with FINRA, or exempt from being or otherwise not required to be licensed as a broker-dealer or a member of FINRA, and is qualified to act as a broker or dealer in the states or other jurisdictions where the nature of its business so requires. Certain Authorized Participants may also be regulated under federal and state banking laws and regulations. Each Authorized Participant has its own set of rules and procedures, internal controls and information barriers as it determines is appropriate in light of its own regulatory regime. 
+
+ was held by the Ether Custodian. No comparative period presented as the Trust commenced operations on July 22, 2024. 
+
+ 10 
+
+Net investment loss 1 
+
+Net realized unrealized gain (loss) 2 
+
+() 
+
+Net change in net assets from operations 
+
+() 
+
+Net asset value per-share, end of period 
+
+Total return, at net asset value 2 
+
+() 
+
+Ratios to average net assets 3 
+
+Net investment loss 
+
+Gross expenses 
+
+Net expenses 
+
+No comparative financial statements have been presented as the Trust's operations commenced on July 22, 2024. 1. Calculated using average Shares outstanding. 
+
+ 2. Total returns are calculated based on the change in value during the reporting period. An individual shareholder s total return and ratio may vary from the above total returns and ratios based on the timing of share transactions from the Trust. 
+
+ 3. Annualized. 
+
+11 
+
+Item 2. Manag ement s Discussion and Analysis of Financial Condition and Results of Operations 
+ The following discussion and analysis of our financial condition and results of operations should be read together with, and is qualified in its entirety by reference to, our unaudited financial statements and related notes included elsewhere in this Quarterly Report, which have been prepared in accordance with generally accepted accounting principles in the United States U.S. GAAP ). The following discussion may contain forward-looking statements based on assumptions we believe to be reasonable. Our actual results could differ materially from those discussed in these forward-looking statements. 
+ Trust Overview 
+ Bitwise Ethereum ETF (the Trust is a Delaware statutory trust formed on February 16, 2024. The Trust continuously issues common shares Shares ), representing units of undivided beneficial ownership of the Trust. The Shares are listed on the NYSE Arca Inc. (the Exchange under the ticker symbol ETHW. The Trust s commencement of operations was July 22, 2024. The Trust is sponsored and managed by Bitwise Investment Advisers, LLC (the Sponsor ). 
+ The Trust s investment objective is to seek to provide shareholders of the Trust Shareholders with exposure to the value of ether held by the Trust that is reflective of the actual ether market in which investors can purchase or sell ether, less the expenses of the Trust s operations and other liabilities. In seeking to achieve its investment objective, the Trust holds ether and establishes its net asset value NAV") by reference to the CME CF Ether Dollar Reference Rate New York Variant Pricing Index ). The Pricing Index was designed to provide a daily, 4:00 p.m. ET reference rate of the U.S. dollar price of one ether that may be used to develop financial products and is calculated by CF Benchmarks Ltd. (the Benchmark Provider based on an aggregation of executed trade flow of major ether trading platforms Constituent Platforms ). 
+ The Shares may trade at a premium over, or a discount to, the NAV per-share as a result of price volatility, trading volume and closings of the exchanges on which the Sponsor purchases ether on behalf of the Trust due to fraud, failure, security breaches or otherwise, and the fact that supply and demand forces at work in the secondary trading market for Shares are related, but not identical, to the supply and demand forces influencing the market price of ether. As a result of the foregoing, the price of the Shares as quoted on the Exchange has varied from the value of the Trust s NAV per-share since the Shares were approved for quotation on July 23, 2024. 
+ The following charts show the percentage of Premium/(Discount) of the Shares as quoted on the Exchange and the Trust s NAV and a comparison of the NAV of the Trust vs. the market price as quoted on the Exchange. 
+ 12 
+
+From July 23, 2024 to September 30, 2024, the Shares of the Trust traded at an average discount, based on closing prices at 4:00 p.m. ET, and estimated, unaudited, NAV per-share of 0.01 . During that same period, the highest premium was 0.58 on August 5, 2024, and the lowest premium was 0.001 on August 19, 2024. During that same period, the highest discount was 0.59 on July 24, 2024, and the lowest discount was 0.06 on September 20, 2024. 
+ The following chart shows the price of ether for the period January 1, 2024 through September 30, 2024, as quoted by the Benchmark Provider, using the Pricing Index. 
+ 13 
+
+Results of Operations 
+ As of September 30, 2024 , the Trust held a net closing balance of 100,152.9571 ether with a total market value of 259,503,322 based on the Pricing Index price of 2,591.07, used to determine the Trust's NAV. The total market value of the Trust's ether held was 259,850,853 based on the price of ether (Lukka Prime Rate) in the principal market (Crypto.com) of 2,594.54, used to determine the Trust's Principal Market NAV. 
+ No comparative period presented as the Trust commenced operations on July 22, 2024. 
+ For the Period from July 22, 2024 (commencement of operations) to September 30, 2024 
+ Net realized and unrealized loss on investment in ether for the period from July 22, 2024 to September 30, 2024 was approximately 69,387 which includes a realized loss of 1,116 on the sale of ether for redemptions and net change in unrealized depreciation on investment in ether of approximately 68,271. Net realized and unrealized loss on investment in ether for the period was driven by ether price depreciation from 3,484.67 per ether as of July 22, 2024 to 2,591.07 per ether as of September 30, 2024. Net decrease in net assets resulting from operations was approximately 69,387 for the period from July 22, 2024 to September 30, 2024, which primarily consisted of the net realized and unrealized loss on investment in ether. Net assets increased to approximately 259,851 on September 30, 2024, while NAV per-share decreased approximately 25.56 for the period. The change in net assets resulted from the net capital share transactions of approximately 329,238, offset by a net decrease resulting from operations of 69,387. 
+ No comparative period presented as the Trust commenced operations on July 22, 2024. 
+ Amounts displayed are in the '000s, except for per-share/coin references 
+ Liquidity and Capital Resources 
+ The Trust agreed to pay the unitary Sponsor Fee of 0.20 per annum of the Trust s ether holdings. The Sponsor contractually waived the Sponsor Fee on the first 500 million of Trust assets through January 22, 2025, and will accrue at an annual rate of 0.20 of the Trust s net assets thereafter. As a result, the only ordinary expense of the Trust is expected to be the Sponsor Fee. In exchange for the 
+ 14 
+
+Sponsor Fee, the Sponsor has agreed to assume and pay the normal operating expenses of the Trust, which include the Trustee s monthly fee and out-of-pocket expenses, the fees of the Trust s regular service providers (Cash Custodian, Ether Custodian, Prime Execution Agent, Marketing Agent, Transfer Agent and Administrator), exchange listing fees, tax reporting fees, SEC registration fees, printing and mailing costs, audit fees and up to 500,000 per annum in ordinary legal fees and expenses. The Sponsor may determine in its sole discretion to assume legal fees and expenses of the Trust in excess of 500,000 per annum. The Sponsor also agreed to pay the costs of the Trust s organization. 
+ The Trust may incur certain extraordinary, non-recurring expenses that are not assumed by the Sponsor, including but not limited to, taxes and governmental charges, any applicable brokerage commissions, financing fees, Ethereum network fees and similar transaction fees, expenses and costs of any extraordinary services performed by the Sponsor (or any other service provider) on behalf of the Trust to protect the Trust or the Shareholders (including, for example, in connection with any fork of the Ethereum blockchain, any Incidental Rights and any IR Asset), any indemnification of the Cash Custodian, Ether Custodian, Prime Execution Agent, Transfer Agent, Administrator or other agents, service providers or counterparties of the Trust, and extraordinary legal fees and expenses, including any legal fees and expenses incurred in connection with litigation, regulatory enforcement or investigation matters. 
+ The Trust does not hold a cash balance except in connection with the creation and redemption of Baskets (blocks of 10,000 Shares) or to pay expenses not assumed by the Sponsor. To pay for expenses not assumed by the Sponsor that are denominated in U.S. dollars, the Sponsor, on behalf of the Trust, may sell the Trust s ether as necessary to pay such expenses. The cash proceeds of the sale will be sent to the Sponsor to pay the expenses. Any remaining cash will be distributed back to the Cash Custodian. The Sponsor expects that the Trust will have an immaterial amount of cash flow from its operations and that its cash balance will be insignificant at the end of each reporting period. The Trust s only sources of cash are proceeds from the sale of Baskets and ether. The Trust will not borrow to meet liquidity needs. 
+ The Trust is not aware of any trends, demands, conditions or events that are reasonably likely to result in material changes to its liquidity needs. 
+ Off-Balance Sheet Arrangements and Contractual Obligations 
+ As of September 30, 2024, the Trust has not used, nor does it expect to use in the future, special purpose entities to facilitate off-balance sheet financing arrangements and have no loan guarantee arrangements or off-balance sheet arrangements of any kind other than agreements entered into in the normal course of business, which may include indemnification provisions related to certain risks service providers undertake in performing services which are in the best interests of the Trust. While the Trust s exposure under such indemnification provisions cannot be estimated, these general business indemnifications are not expected to have a material impact on a Trust s financial position. 
+ Sponsor Fee payments made to the Sponsor are calculated as a fixed percentage of the Trust s NAV. As such, the Sponsor cannot anticipate the payment amounts that will be required under these arrangements for future periods as NAVs are not known until a future date. 
+ No material changes have occurred during the period from July 22, 2024 (commencement of operations) to September 30, 2024. 
+ Critical Accounting Policies 
+ Principal Market and Fair Value Determination 
+ The Trust s periodic financial statements are prepared in accordance with the Financial Accounting Standards Board Accounting Standards Codification Topic 820, Fair Value Measurements and Disclosures ASC Topic 820 and utilize an exchange-traded price from the Trust s principal market for ether on the Trust s financial statement measurement date. The Sponsor determines in its sole discretion the valuation sources and policies used to prepare the Trust s financial statements in accordance with U.S. GAAP. The Trust has engaged a third-party vendor to obtain a price from a principal market for ether, which will be either the market the Trust normally transacts in for ether or, if the Trust does not normally transact in any market or such market suffers an operational interruption and is unavailable, determined and designated by such third-party vendor daily based on its consideration of several exchange characteristics, including oversight, and the volume and frequency of trades. Under U.S. GAAP, such a price is expected to be deemed a Level 1 input in accordance with the ASC Topic 820 because it is expected to be a quoted price in active markets for identical assets or liabilities. 
+ 15 
+
+Investment Company Considerations 
+ The Trust is an investment company for U.S. GAAP purposes and follows accounting and reporting guidance in accordance with the FASB ASC Topic 946, Financial Services Investment Companies. The Trust uses fair value as its method of accounting for ether in accordance with its classification as an investment company for accounting purposes. The Trust is not a registered investment company under the Investment Company Act of 1940. U.S. GAAP requires management to make estimates and assumptions that affect the reported amounts in the financial statements and accompanying notes. Actual results could differ from those estimates and these differences could be material. 
+ Item 3. Qua ntitative and Qualitative Disclosures About Market Risk . 
+ As a smaller reporting company as defined by Rule 12b-2 of the Securities Exchange Act of 1934, as amended, the Trust is not required to provide the information required by this item. 
+ Item 4. Contr ols and Procedures . 
+ Disclosure Controls and Procedures 
+ The Trust maintains disclosure controls and procedures that are designed to ensure that information required to be disclosed in its Exchange Act reports is recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms, and that such information is accumulated and communicated to the Principal Executive Officer and Principal Financial Officer of the Sponsor performing functions equivalent to those a principal executive officer and principal financial officer of the Trust would perform if the Trust had any officers, as appropriate to allow timely decisions regarding required disclosure. 
+ Under the supervision and with the participation of the Principal Executive Officer and the Principal Financial Officer of the Sponsor, the Sponsor conducted an evaluation of the Trusts disclosure controls and procedures, as defined under Exchange Act Rule 13a-15(e). Based on this evaluation, the Principal Executive Officer and the Principal Financial Officer of the Sponsor concluded that, as of September 30, 2024, the Trust s disclosure controls and procedures were effective. 
+ There are inherent limitations to the effectiveness of any system of disclosure controls and procedures, including the possibility of human error and the circumvention or overriding of the controls and procedures. 
+ Changes in Internal Control over Financial Reporting 
+ There were no changes in the Trust s internal control over financial reporting that occurred during the period from July 22, 2024 (commencement of operations) to September 30, 2024, that have materially affected, or are reasonably likely to materially affect, the Trust s internal control over financial reporting. 
+ 16 
+
+PART II OTH ER INFORMATION: 
+ Item 1. Leg al Proceedings 
+ None. 
+ Item 1A. R isk Factors 
+ As a smaller reporting company, the Trust is not required to provide the information required by this item. 
+ Item 2. Unre gistered Sales of Equity Securities and Use of Proceeds 
+ a) None. 
+
+b) Not applicable. 
+
+c) The Trust does not purchase Shares directly from its Shareholders. In connection with its redemption of Baskets held by Authorized Participants, the Trust redeemed 13 Baskets (comprising 130,000 Shares) during the period from July 22, 2024 (commencement of operations) to September 30, 2024. The following table summarizes the redemptions by Authorized Participants during the period: 
+
+Period 
+ 
+ Total Shares Redeemed 
+
+Average Price Per Share 
+
+July 1, 2024 July 31, 2024 
+
+August 1, 2024 August 31, 2024 
+
+September 1, 2024 September 30, 2024 
+
+130,000 
+
+16.40 
+
+Item 3. Defaul ts Upon Senior Securities 
+ None. 
+ Item 4. Mi ne Safety Disclosures 
+ Not applicable. 
+ Item 5. Othe r Information 
+ No executive officers or directors of the Sponsor have , , or trading plans under either a "Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement" (as such terms defined in Item 408 of Regulation S-K of the 1933 Act) for the period from July 22, 2024 (commencement of operations) to September 30, 2024. 
+ 17 
+
+Item 6. Ex hibits. 
+ Listed below are the exhibits, which are filed as part of this quarterly report on Form 10 Q (according to the number assigned to them in Item 601 of Regulation S-K of the 1933 Act): 
+
+Exhibit Number 
+ 
+ Description of Document 
+
+3.1 
+ 
+ First Amended and Restated Declaration of Trust and Trust Agreement incorporated by reference to Exhibit 3.1 of the Registration Statement on Form S-1/A (File No. 333-278308) filed by the Registrant on May 31, 2024. 
+
+3.2 
+ 
+ Certificate of Trust incorporated by reference to Exhibit 3.2 of the Registration Statement on Form S-1/A (File No. 333-278308) filed by the Registrant on March 28, 2024. 
+
+31.1 
+ 
+ Certification of Principal Executive Officer pursuant to Rule 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as amended. 
+
+31.2 
+ 
+ Certification of Principal Financial Officer pursuant to Rule 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as amended. 
+
+32.1 
+ 
+ Certification by Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+32.2 
+ 
+ Certification by Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101.INS 
+ 
+ Inline XBRL Instance Document. The instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 
+
+101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema Document 
+
+104 
+ 
+ Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) 
+
+These exhibits are furnished with this Quarterly Report on Form 10-Q and are not deemed filed with the SEC and are not incorporated by reference in any filing of Bitwise Ethereum ETF under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date hereof, and irrespective of any general incorporation language contained in such filings. 
+ 18 
+
+GLOS SARY OF DEFINED TERMS 
+ The following terms may be used throughout this Quarterly Report, including the consolidated financial statements and related notes. 
+ 1933 Act : The Securities Act of 1933. 
+ Administrator : BNY Mellon. 
+ Agent Execution Model : The model whereby the Prime Execution Agent, acting in an agency capacity, conducts ether purchases and sales on behalf of the Trust with third parties through its Coinbase Prime service pursuant to the Prime Execution Agreement. 
+ Authorized Participant : One that purchases or redeems Baskets from or to the Trust. 
+ Basket : A block of 10,000 Shares used by the Trust to issue or redeem Shares. 
+ Basket Amount : The quantity of ether attributable to each Share of the Trust (net of accrued but unpaid expenses and liabilities) multiplied by the number of Shares comprising a Basket (10,000) 
+ Benchmark Provider : CF Benchmarks Ltd. 
+ ether (lowercase) : The native unit of account and medium of exchange on the Ethereum network. 
+ Ethereum (uppercase) : The software protocol and peer-to-peer network used for the creation, transfer and possession of ether, as recorded on the Ethereum blockchain. 
+ Ether Custodian : Coinbase Custody Trust Company, LLC, a New York New York State limited liability trust company. 
+ Ether Custody Agreement : The custody agreement between the Ether Custodian and the Trust pursuant to which the Trust Ether Agreement is established. 
+ Ether Trading Counterparty : The ether trading counterparties that have been approved by the Sponsor. 
+ BNY Mellon : The Bank of New York Mellon, a national association bank in New York that serves as the Administrator and Transfer Agent. 
+ ERR : CME CF Ether Reference Rate. 
+ Business Day : Any day other than a day when the Exchange or the New York Stock Exchange is closed for regular trading. 
+ Cash Custodian : BNY Mellon. 
+ CME : The Chicago Mercantile Exchange. 
+ CME Ether Real Time Price : The CME CF Ether Real Time Index, a pricing index continuously published by the CME Group at one second intervals that calculates the U.S. dollar price of one ether on constituent crypto asset trading platforms. 
+ Code : Internal Revenue Code of 1986. 
+ Constituent Platform : The major ether trading platforms that serve as the pricing sources for the calculation of the CME CF Ether Reference Rate New York Variant and CME CF Ether Real Time Index. 
+ Cryptocurrency : A token such as ether that is the native asset of a crypto asset network. 
+ Crypto asset : A token, such as a cryptocurrency, that is the native asset of or issued on a digital asset network and secured using public private key cryptography or similar cryptographic credentials. 
+ 19 
+
+DTC : The Depository Trust Company, the securities depository for the Shares. 
+ DTC Participant : An entity that has an account with DTC. 
+ DSTA : Delaware Statutory Trust Act. 
+ ERISA : Employee Retirement Income Security Act of 1974. 
+ EST : Eastern Standard Time. 
+ Exchange : NYSE Arca, Inc. 
+ Exchange Act : The Securities Exchange Act of 1934. 
+ FDIC : Federal Deposit Insurance Corporation. 
+ FinCEN : The Financial Crimes Enforcement Network, a bureau of the U.S. Department of Treasury with the mandate to regulate financial institutions such as money services businesses in the U.S. 
+ FINRA : Financial Industry Regulatory Authority, formerly the National Association of Securities Dealers. 
+ Forked Asset : The crypto asset resulting from a hard fork that is not ether, as determined by the Sponsor in its discretion as set forth in the Trust Agreement. The holder of ether at the time of a Network Fork may use its Ethereum network private key to access the Forked Asset on the new network, typically through the use of the modified version of the Ethereum network software that created the Network Fork (or the legacy version of the Ethereum network software if the new version is determined to be Ethereum). 
+ GAAP : The generally accepted accounting principles of the United States. 
+ Incidental Right : A right to receive a benefit of a fork or airdrop. 
+ Indemnified Person : The Trustee or any officer, affiliate, director, employee, or agent of the Trustee, for the purposes of indemnification provisions of the Trust Agreement. 
+ Indirect Participants : Banks, brokers, dealers and trust companies that clear through or maintain a custodial relationship with a DTC Participant, either directly or indirectly. 
+ Insignificant Participation Exception : An exception to the designation of certain assets under the Plan Asset Rules, where the investment by all benefit plan investors relating to such assets is not significant or other exceptions apply. 
+ Investment Company Act : Investment Company Act of 1940. 
+ IRA : An individual retirement account that is a tax-qualified retirement plan under the Code. 
+ IR Asset : Any crypto asset acquired through an Incidental Right. 
+ IRS : U.S. Internal Revenue Service. 
+ ITV : Indicative Trust Value. 
+ JOBS Act : The Jumpstart Our Business Startups Act. 
+ Losses : The losses, claims, taxes, damages, reasonable expenses, and liabilities (including liabilities under State or federal securities laws) of any kind and nature whatsoever of an Indemnified Person or Sponsor Indemnified Party, as applicable, that are eligible for indemnification pursuant to the Trust Agreement. 
+ 20 
+
+Marketing Agent : Foreside Fund Services, LLC. 
+ NAV : Net asset value of the Trust, which is a Non-GAAP metric and is determined each business day by valuing the Trust s ether using the Pricing Index, less the Trust s accrued but unpaid expenses. 
+ Network Fork : A proposed change to the open-source software and protocols of the Ethereum network that results in the creation of two versions of the Ethereum network the version running the unmodified software and the version running the modified version. To the extent that a Network Fork creates Ethereum networks or Ethereum blockchains that are not interoperable, the Network Fork is referred to as a hard fork and results in separate Ethereum networks with independent ether assets and Ethereum blockchains that diverge from the point of adoption of the Network Fork. 
+ Plan : An employee benefit plan as defined in, and subject to the fiduciary responsibility provisions of, ERISA or of a plan as defined in and subject to Section 4975 of the Code. 
+ Plan Asset Rules : Rules promulgated pursuant to ERISA for determining when an investment by a Plan in an entity will result in the underlying assets of such entity being assets of the Plan for purposes of ERISA and Section 4975 of the Code. 
+ Plan Fiduciaries : Fiduciaries with investment discretion over a Plan. 
+ Prime Execution Agent : Coinbase Inc., an affiliate of the Ether Custodian. 
+ Prime Execution Agreement : The agreement between Coinbase Inc. and the Trust that sets forth the terms and conditions pursuant to which Coinbase Inc., and its affiliates, agree to open and maintain a prime broker account and provide services relating to trade execution. 
+ Pricing Index : CME CF Ether Reference - Dollar Reference Rate - New York Variant, a standardized reference rate published by the CME Group that calculates the U.S. dollar price of one ether as of 4:00 p.m. ET on each calendar day on constituent crypto asset trading platforms to reflect the performance of ether in U.S. dollars. 
+ Principal Market NAV : The net asset value of the Trust determined on a GAAP basis. 
+ Publicly-Offered Security Exception : An exception to the designation of certain assets under the Plan Asset Rules, where such assets are publicly-offered securities. 
+ Purchase Order : An order to purchase one or more Baskets. 
+ Purchase Order Cut-Off Time : The time at which Purchase Orders must be placed on a Business Day for that Business Day to constitute the Purchase Order Date. 
+ Purchase Order Date : The Business Day on which a Purchase Order is accepted by the Transfer Agent. 
+ Redemption Order : An order to redeem one or more Baskets. 
+ Redemption Order Cut-Off Time : The time at which Redemption Orders must be placed on a Business Day for that Business Day to constitute the Redemption Order Date. 
+ Redemption Order Date : The Business Day on which a Redemption Order is accepted by the Transfer Agent. 
+ Register : The record of all Shareholders and holders of the Shares in certificated form kept by the Transfer Agent. 
+ SEC : The U.S. Securities and Exchange Commission, an independent agency with the mandate to regulate securities offerings and markets in the U.S. 
+ Seed Shares : The eight (8) Shares used to seed the Trust. 
+ 21 
+
+Seed Capital Investor : Bitwise Asset Management, Inc. 
+ Shares : Common shares representing units of undivided beneficial ownership of the Trust. 
+ Shareholders : Holders of Shares. 
+ Sponsor : Bitwise Investment Advisers, LLC, a Delaware limited liability company, which controls the investments and other decisions of the Trust. 
+ Sponsor Agreement : The agreement between the Sponsor and the Trust. 
+ Sponsor Ether Account : The custody account in the name of the Sponsor held with the Ether Custodian, in which the Sponsor receives payment in ether of its management fee from the Trust Ether Account. 
+ Sponsor Fee: The unitary management fee of 0.20 per annum of the Trust s ether holdings the Trust agreed to pay to the Sponsor. 
+ Sponsor Indemnified Party : The Sponsor and its shareholders, members, directors, officers, employees, Affiliates and subsidiaries, for the purposes of indemnification under the Trust Agreement. 
+ Trade Credit : The Trust may borrow ether or cash as a credit on a short-term basis from the Trade Credit Lender pursuant to the Trade Financing Agreement. 
+ Trade Credit Lender : Coinbase Credit, Inc. 
+ Trade Financing Agreement : The Coinbase Credit Committed Trade Financing Agreement. 
+ Transfer Agent : BNY Mellon. 
+ Trust : The Bitwise Ethereum ETF. 
+ Trust Agreement : The Amended and Restated Declaration of Trust and Trust Agreement of Bitwise Ethereum ETF, entered into by the Sponsor and the Trustee. 
+ Trust Ether Account : The custody account in the name of the Trust held with the Ether Custodian, in which Trust Ether Account the Trust s ether assets are held. 
+ Trust-Directed Trade Model : The model whereby the Sponsor purchases and sells ether through the use of an Ether Trading Counterparty. 
+ Trustee : Delaware Trust Company, a Delaware trust company. 
+ U.S. : The United States of America. 
+ 22 
+
+SIG NATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Quarterly Report to be signed on its behalf by the undersigned in the capacities indicated thereunto duly authorized. 
+
+Bitwise Investment Advisers, LLC, as Sponsor of Bitwise Ethereum ETF 
+
+By: 
+ /s/ Hunter Horsley 
+
+Hunter Horsley 
+
+President 
+
+(Principal Executive Officer) 
+
+By: 
+ /s/ Paul Fusaro 
+
+Paul Fusaro 
+
+Chief Operating Officer 
+
+(Principal Financial Officer and Principal Accounting Officer) 
+
+Date: November 8, 2024 
+ The registrant is a trust and the persons are signing in their capacities as officers or directors of Bitwise Investment Advisers, LLC, the Sponsor of the registrant. 
+ 23 
+
+<EX-31.1>
+ 2
+ ethw-ex31_1.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1 
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER PURSUANT TO RULE 13a-14(a) 
+ AND 15d-14(a) UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Hunter Horsley, certify that: 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Bitwise Ethereum ETF; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of condensed financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 8, 2024 
+ By 
+ /s/ Hunter Horsley 
+
+Name: 
+ Hunter Horsley 
+
+Title: 
+ President (Principal Executive Officer) 
+
+The registrant is a trust and the persons are signing in their capacities as officers or directors of Bitwise Investment Advisers, LLC, the Sponsor of the registrant. 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ethw-ex31_2.htm
+ EX-31.2
+
+EX-31.2 
+
+Exhibit 31.2 
+ CERTIFICATION OF PRINCIPAL FINANCIAL AND ACCOUNTING OFFICER PURSUANT TO RULE 13a-14(a) 
+ AND 15d-14(a) UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Paul Fusaro, certify that: 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Bitwise Ethereum ETF; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+(b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of condensed financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+(c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+(d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 8, 2024 
+ By 
+ /s/ Paul Fusaro 
+
+Name: 
+ Paul Fusaro 
+
+Title: 
+ Principal Operating Officer (Principal Financial and Accounting Officer) 
+
+The registrant is a trust and the persons are signing in their capacities as officers or directors of Bitwise Investment Advisers, LLC, the Sponsor of the registrant. 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ethw-ex32_1.htm
+ EX-32.1
+
+EX-32.1 
+
+Exhibit 32.1 
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350 
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Bitwise Ethereum ETF (the Trust on Form 10-Q for the period ending September 30, 2024, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Hunter Horsley, the President and Treasurer of Bitwise Investment Advisers, LLC, Sponsor of the Trust, hereby certify, to the best of my knowledge, that: 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Trust. 
+
+Date: November 8, 2024 
+ By 
+ /s/ Hunter Horsley 
+
+Name: 
+ Hunter Horsley 
+
+Title: 
+ President (Principal Executive Officer) 
+
+The registrant is a trust and the persons are signing in their capacities as officers of Bitwise Investment Advisers, LLC, the Sponsor of the registrant. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ethw-ex32_2.htm
+ EX-32.2
+
+EX-32.2 
+
+Exhibit 32.2 
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350 
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of Bitwise Ethereum ETF (the Trust on Form 10-Q for the period ending September 30, 2024, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Paul Fusaro, the Principal Operating Officer of Bitwise Investment Advisers, LLC, Sponsor of the Trust, hereby certify, to the best of my knowledge, that: 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Trust. 
+
+Date: November 8, 2024 
+ By 
+ /s/ Paul Fusaro 
+
+Name: 
+ Paul Fusaro 
+
+Title: 
+ Principal Operating Officer (Principal Financial and Accounting Officer) 
+
+The registrant is a trust and the persons are signing in their capacities as officers of Bitwise Investment Advisers, LLC, the Sponsor of the registrant. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 9
+ ethw-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT
+
+</EX-101.SCH>
+

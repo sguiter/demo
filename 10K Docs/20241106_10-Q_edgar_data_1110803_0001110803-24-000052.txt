@@ -1,0 +1,944 @@
+<Header>
+<FileStats>
+    <FileName>20241106_10-Q_edgar_data_1110803_0001110803-24-000052.txt</FileName>
+    <GrossFileSize>9660787</GrossFileSize>
+    <NetFileSize>119906</NetFileSize>
+    <NonText_DocumentType_Chars>1683531</NonText_DocumentType_Chars>
+    <HTML_Chars>3385025</HTML_Chars>
+    <XBRL_Chars>2366714</XBRL_Chars>
+    <XML_Chars>1921191</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001110803-24-000052.hdr.sgml : 20241106
+<ACCEPTANCE-DATETIME>20241105181159
+ACCESSION NUMBER:		0001110803-24-000052
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		88
+CONFORMED PERIOD OF REPORT:	20240929
+FILED AS OF DATE:		20241106
+DATE AS OF CHANGE:		20241105
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ILLUMINA, INC.
+		CENTRAL INDEX KEY:			0001110803
+		STANDARD INDUSTRIAL CLASSIFICATION:	LABORATORY ANALYTICAL INSTRUMENTS [3826]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				330804655
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1229
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-35406
+		FILM NUMBER:		241428773
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5200 ILLUMINA WAY
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92122
+		BUSINESS PHONE:		8582024500
+
+	MAIL ADDRESS:	
+		STREET 1:		5200 ILLUMINA WAY
+		CITY:			SAN DIEGO
+		STATE:			CA
+		ZIP:			92122
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ILLUMINA INC
+		DATE OF NAME CHANGE:	20000331
+
+</SEC-Header>
+</Header>
+
+ 0001110803-24-000052.txt : 20241106
+
+10-Q
+ 1
+ ilmn-20240929.htm
+ 10-Q
+
+ilmn-20240929 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ Quarterly Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+ For the Quarterly Period Ended 
+ Transition Report Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+ For the transition period from to 
+ Commission File Number 
+
+(Exact name of registrant as specified in its charter) 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ , , 
+ (Address of principal executive offices) (Zip code) 
+ ) 
+ (Registrant s telephone number, including area code) 
+ N/A 
+ (Former name, former address and former fiscal year, if changed since last report) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer 
+ Non-accelerated filer 
+ Smaller reporting company 
+ Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13a of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ As of November 1, 2024, there were million shares of the registrant s common stock outstanding. 
+
+Table of Contents 
+
+ILLUMINA, INC. 
+ FORM 10-Q 
+ FOR THE FISCAL QUARTER ENDED SEPTEMBER 29, 2024 
+ TABLE OF CONTENTS 
+ 
+ See Form 10-Q Cross-Reference Index within Other Key Information for a cross-reference to the parts and items requirements of the Securities and Exchange Commission Quarterly Report on Form 10-Q. 
+ 
+ CONDENSED CONSOLIDATED FINANCIAL STATEMENTS PAGE Condensed Consolidated Balance Sheets 
+ 5 
+ Condensed Consolidated Statements of Operations 
+ 6 
+ Condensed Consolidated Statements of Comprehensive In come Los s 
+ 7 
+ Condensed Consolidated Statement s of Stockholders Equity 
+ 8 
+ Condensed Consolidated Statements of Cash Flows 
+ 10 
+ Notes to Condensed Consolidated Financial Statements 
+ 11 
+ 1. Organization and Significant Accounting Policies 
+ 11 
+ 2. GRAIL Spin-Off 
+ 13 
+ 3. Revenue 
+ 14 
+ 4. Investments and Fair Value Measurements 
+ 15 
+ 5. Debt 
+ 18 
+ 6. Stockholders Equity 
+ 19 
+ 7. Supplemental Balance Sheet Details 
+ 22 
+ 8. Legal Proceedings 
+ 27 
+ 9. Income Taxes 
+ 30 
+ 10. Segment Information 
+ 31 
+ MANAGEMENT S DISCUSSION ANALYSIS Management s Overview and Outlook 
+ 32 
+ Results of Operations 
+ 34 
+ Liquidity and Capital Resources 
+ 38 
+ Critical Accounting Policies and Estimates 
+ 40 
+ Recent Accounting Pronouncements 
+ 41 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 41 
+ OTHER KEY INFORMATION Controls and Procedures 
+ 41 
+ Legal Proceedings 
+ 41 
+ Risk Factors 
+ 41 
+ Share Repurchases and Sales 
+ 42 
+ Adoptions, Modifications or Terminations of Trading Plans 
+ 43 
+ Exhibits 
+ 44 
+ Form 10-Q Cross-Reference Index 
+ 46 
+ 
+ 2 
+
+Table of Contents 
+
+Consideration Regarding Forward-Looking Statements 
+ This Quarterly Report on Form 10-Q contains, and our officers and representatives may from time to time make, forward-looking statements within the meaning of the safe harbor provisions of the U.S. Private Securities Litigation Reform Act of 1995. Words such as: anticipate, intend, plan, goal, seek, believe, continue, project, estimate, expect, strategy, future, likely, may, potential, predict, should, will, or similar words or phrases, or the negatives of these words, may identify forward-looking statements, but the absence of these words does not necessarily mean that a statement is not forward looking. Examples of forward-looking statements include, among others, statements we make regarding: 
+ our expectations as to our future financial performance, results of operations, or other operational results or metrics; 
+ the benefits that we expect will result from our business activities and certain transactions we have completed, or may complete, such as product introductions, increased revenue, decreased expenses, and avoided expenses and expenditures; 
+ our expectations of the effect on our financial condition of claims, litigation, contingent liabilities, and governmental investigations, proceedings, and regulations; 
+ our strategies or expectations for product development, market position, financial results, and reserves; 
+ our ability to successfully implement cost reduction plans in a timely manner and the possibility that costs associated with our cost reduction plans are greater than we anticipate; 
+ risks relating to the recent divestiture of GRAIL, Inc. (f/k/a GRAIL, LLC) (GRAIL); and 
+ other expectations, beliefs, plans, strategies, anticipated developments, and other matters that are not historical facts. 
+ Forward-looking statements are neither historical facts nor assurances of future performance. Instead, they are based only on our current beliefs, expectations, and assumptions regarding the future of our business, future plans and strategies, projections, anticipated events and trends, the economy, and other future conditions. Because forward-looking statements relate to the future, they are subject to inherent uncertainties, risks, and changes in circumstances that are difficult to predict and many of which are outside of our control. Our actual results and financial condition may differ materially from those indicated in the forward-looking statements. Therefore, you should not rely on any of these forward-looking statements. Important factors that could cause our actual results and financial condition to differ materially from those indicated in the forward-looking statements include, among others, the following: 
+ our expectations and beliefs regarding prospects and growth for our business and the markets in which we operate; 
+ the timing and mix of customer orders among our products and services; 
+ challenges inherent in developing, manufacturing, and launching new products and services, including expanding manufacturing operations and reliance on third-party suppliers for critical components; 
+ the impact of recently launched or pre-announced products and services on existing products and services; 
+ risks and uncertainties regarding legal and regulatory proceedings; 
+ risks associated with contracts or other agreements containing provisions that might be implicated by the divestiture of GRAIL, including our ability to fully realize the anticipated economic benefits of our commercial arrangements with GRAIL and our obligations with respect to contingent value rights (the CVRs) issued by us in connection with the GRAIL acquisition, which may adversely affect us and our business and/or the market value of the CVRs; 
+ the risk of additional litigation arising against us in connection with the GRAIL acquisition; 
+ the assumptions underlying our critical accounting policies and estimates; 
+ 3 
+
+Table of Contents 
+
+our assessments and estimates that determine our effective tax rate; 
+ our assessments and beliefs regarding the outcome of pending legal proceedings and any liability that we may incur as a result of those proceedings, as well as the cost and potential diversion of management resources associated with these proceedings; 
+ uncertainty, or adverse economic and business conditions, including as a result of slowing or uncertain economic growth, public health crisis, or armed conflict; and 
+ other factors detailed in our filings with the Securities and Exchange Commission (SEC), including the risks, uncertainties, and assumptions described in Risk Factors within the Business Market Information section of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, the Other Key Information section of our Quarterly Report on Form 10-Q for the period ended March 31, 2024, and on Form 10-Q for the period ended June 30, 2024, the Risk Factors section below, or in information disclosed in public conference calls, the date and time of which are released beforehand. 
+ Any forward-looking statement made by us in this Quarterly Report on Form 10-Q is based only on information currently available to us and speaks only as of the date on which it is made. We undertake no obligation, and do not intend, to publicly update any forward-looking statement, whether written or oral, that may be made from time to time, or to review or confirm analysts expectations, or to provide interim reports or updates on the progress of any current financial quarter, in each case whether as a result of new information, future developments, or otherwise. 
+ 4 
+
+Table of Contents 
+
+CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+ILLUMINA, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (In millions) 
+ 
+ September 29, 2024 December 31, 2023 (Unaudited) ASSETS Current assets: Cash and cash equivalents Short-term investments Accounts receivable, net Inventory, net Prepaid expenses and other current assets Total current assets Property and equipment, net Operating lease right-of-use assets Goodwill Intangible assets, net Deferred tax assets, net Other assets Total assets LIABILITIES AND STOCKHOLDERS EQUITY Current liabilities: Accounts payable Accrued liabilities Total current liabilities Operating lease liabilities Term debt Other long-term liabilities Stockholders equity: Common stock Additional paid-in capital Accumulated other comprehensive loss ) ) Accumulated deficit ) ) Treasury stock, at cost ) ) Total stockholders equity Total liabilities and stockholders equity 
+ 
+ See accompanying notes to condensed consolidated financial statements. 
+ 
+ 5 
+
+Table of Contents 
+
+ILLUMINA, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (Unaudited) 
+ (In millions, except per share amounts) 
+ Three Months Ended Nine Months Ended September 29, 2024 October 1, 2023 September 29, 2024 October 1, 2023 Revenue: Product revenue Service and other revenue Total revenue Cost of revenue: Cost of product revenue Cost of service and other revenue Amortization of acquired intangible assets Total cost of revenue Gross profit Operating expense: Research and development Selling, general and administrative Goodwill and intangible impairment Legal contingency and settlement ) ) ) Total operating expense Income (loss) from operations ) ) ) Other income (expense): Interest income Interest expense ) ) ) ) Other income (expense), net ) ) ) Total other expense, net ) ) ) ) Income (loss) before income taxes ) ) ) Provision (benefit) for income taxes ) Net income (loss) ) ) ) Earnings (loss) per share: Basic ) ) ) Diluted ) ) ) Shares used in computing earnings (loss) per share: Basic Diluted 
+ See accompanying notes to condensed consolidated financial statements. 
+ 
+ 6 
+
+Table of Contents 
+
+ILLUMINA, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) 
+ (Unaudited) 
+ (In millions) 
+ Three Months Ended Nine Months Ended September 29, 2024 October 1, 2023 September 29, 2024 October 1, 2023 Net income (loss) ) ) ) Unrealized (loss) gain on cash flow hedges, net of deferred tax ) ) Total comprehensive income (loss) ) ) ) 
+ 
+ See accompanying notes to condensed consolidated financial statements. 
+ 
+ 7 
+
+Table of Contents 
+
+ILLUMINA, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY 
+ (Unaudited) 
+ (In millions) 
+ 
+ Accumulated 
+ Retained Additional Other 
+ Earnings 
+ Total Common Stock Paid-In Comprehensive (Accumulated) 
+ Treasury Stock Stockholders Shares Amount Capital Income (Loss) 
+ Deficit) 
+ Shares Amount Equity Balance as of January 1, 2023 ) ) Net income Unrealized loss on cash flow hedges, net of deferred tax ) ) Issuance of common stock, net of repurchases ) Share-based compensation Balance as of April 2, 2023 ) ) ) Net loss ) ) Unrealized gain on cash flow hedges, net of deferred tax Issuance of common stock, net of repurchases ) ) Share-based compensation Reclassification of liability-classified awards Balance as of July 2, 2023 ) ) Net loss ) ) Unrealized gain on cash flow hedges, net of deferred tax Issuance of common stock, net of repurchases ) Share-based compensation Balance as of October 1, 2023 ) ) Net loss ) ) Unrealized loss on cash flow hedges, net of deferred tax ) ) Issuance of common stock, net of repurchases ) ) ) Share-based compensation Balance as of December 31, 2023 ) ) ) ) 
+ 
+ See accompanying notes to condensed consolidated financial statements. 
+
+8 
+
+Table of Contents 
+
+ILLUMINA, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY 
+ (Unaudited) 
+ (In millions) Additional Accumulated Other 
+ Total Common Stock Paid-In Comprehensive Accumulated 
+ Treasury Stock Stockholders Shares Amount Capital (Loss) Income 
+ Deficit 
+ Shares Amount Equity Balance as of December 31, 2023 ) ) ) ) Net loss ) ) Unrealized gain on cash flow hedges, net of deferred tax Issuance of common stock, net of repurchases ) Share-based compensation Balance as of March 31, 2024 ) ) ) Net loss ) ) Unrealized gain on cash flow hedges, net of deferred tax Issuance of common stock, net of repurchases ) ) Share-based compensation Spin-Off of GRAIL (see Note 2 
+ ) ) Balance as of June 30, 2024 ) ) ) Net income Unrealized loss on cash flow hedges, net of deferred tax ) ) Issuance of common stock, net of repurchases 
+ ) ) ) Share-based compensation Balance as of September 29, 2024 ) ) ) ) 
+ 
+ See accompanying notes to condensed consolidated financial statements. 
+ 9 
+
+Table of Contents 
+
+ILLUMINA, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (Unaudited) 
+ (In millions) 
+ 
+ Nine Months Ended September 29, 2024 October 1, 2023 Cash flows from operating activities: Net loss ) ) Adjustments to reconcile net loss to net cash provided by operating activities: Depreciation expense Amortization of intangible assets Share-based compensation expense Deferred income taxes ) ) Goodwill and intangible (IPR D) impairment Property and equipment and right-of-use asset impairment Net losses on strategic investments Gain on Helix contingent value right ) ) Change in fair value of contingent consideration liabilities ) ) Other Changes in operating assets and liabilities: Accounts receivable ) Inventory ) ) Prepaid expenses and other current assets ) ) Operating lease right-of-use assets and liabilities, net ) ) Other assets ) Accounts payable ) ) Accrued liabilities ) ) Other long-term liabilities ) ) Net cash provided by operating activities Cash flows from investing activities: Purchases of property and equipment ) ) Net purchases of strategic investments ) ) Cash received for Helix contingent value right Cash paid for acquisitions and intangible assets, net of cash acquired ) ) Net cash used in investing activities ) ) Cash flows from financing activities: GRAIL cash deconsolidated as a result of spin-off ) Proceeds from debt, net of issuance costs ) Payments on debt obligations ) ) Payments on contingent consideration liabilities 
+ ) Common stock repurchases ) Taxes paid related to net share settlement of equity awards ) ) Proceeds from issuance of common stock Net cash used in financing activities ) ) Effect of exchange rate changes on cash and cash equivalents ) Net decrease in cash and cash equivalents ) ) Cash and cash equivalents at beginning of period Cash and cash equivalents at end of period Supplemental cash flow information: GRAIL net assets, excluding cash and cash equivalents, deconsolidated as a result of spin-off 
+
+See accompanying notes to condensed consolidated financial statements. 
+ 10 
+
+Table of Contents 
+
+ILLUMINA, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+ Unless the context requires otherwise, references in this report to Illumina, the Company, we, us, and our refer to Illumina, Inc. and its consolidated subsidiaries. 
+ 
+ shares of GRAIL common stock to Illumina stockholders on a pro rata basis. The distribution reflected approximately of the outstanding common stock of GRAIL as of 5:00 p.m. New York time on June 13, 2024, the record date for the distribution (the Record Date). We retained approximately of the shares of GRAIL common stock immediately following the Spin-Off. The disposition of GRAIL did not meet the criteria to be reported as a discontinued operation and accordingly, GRAIL s assets, liabilities, results of operations and cash flows have not been reclassified. Refer to note 2. GRAIL Spin-Off for additional details. 
+ Basis of Presentation 
+ Interim financial results are not necessarily indicative of results anticipated for the full year. These unaudited condensed consolidated financial statements should be read in conjunction with the audited consolidated financial statements and footnotes included in the Annual Report on Form 10-K for the fiscal year ended December 31, 2023, from which the prior year balance sheet information herein was derived. The preparation of financial statements requires management to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, and expense, and related disclosure of contingent assets and liabilities. Though macroeconomic factors such as inflation, exchange rate fluctuations and concerns about an economic downturn present additional uncertainty, we continue to use the best information available to form our critical accounting estimates. Actual results could differ from those estimates. 
+ Fiscal Year 
+ 11 
+
+Table of Contents 
+
+Earnings (Loss) per Share 
+ 
+ Effect of potentially dilutive common shares from: Equity awards Weighted average shares used in calculating diluted earnings (loss) per share 
+ Antidilutive shares: Equity awards Convertible senior notes Potentially dilutive shares excluded from calculation due to antidilutive effect 
+ 
+ 12 
+
+Table of Contents 
+
+shares of GRAIL common stock to Illumina stockholders on a pro rata basis. The GRAIL common stock distributed in the Spin-Off consisted of approximately of the outstanding common stock of GRAIL as of the Record Date. The Spin-Off was structured as a tax-free spin-off and Illumina stockholders received one share of GRAIL common stock for every shares of Illumina common stock held on the Record Date. We retained approximately of the shares of GRAIL common stock immediately following the Spin-Off. The disposition of GRAIL did not meet the criteria to be reported as a discontinued operation and accordingly, GRAIL s assets, liabilities, results of operations and cash flows have not been reclassified. 
+ As part of the Spin-Off, we contributed to GRAIL an amount, in cash, to cover years of GRAIL s operations (the Disposal Funding), which was determined to be million, less the cash and cash equivalents held by GRAIL. 
+ Accounts receivable, net 
+ Inventory, net 
+ Prepaid expenses and other current assets 
+ Property and equipment, net 
+ Operating lease right-of-use assets 
+ Intangible assets, net Other assets Accounts payable ) Accrued liabilities ) Operating lease liabilities ) Other long term-liabilities ) GRAIL net assets 
+ Amount of GRAIL net assets recorded to short-term investments 
+ Amount of GRAIL net assets recorded to additional paid-in capital 
+ Additional adjustments recorded to additional paid-in capital as a result of the GRAIL Spin-Off: 
+ Non-contingent indemnification liability (see Note 6 
+ Tax adjustment for difference between the book and tax values of our retained investment in GRAIL 
+ Total recorded to additional paid-in capital as a result of the GRAIL Spin-Off 
+ 
+ See note 10. Segment Information for GRAIL s results of operations, prior to the Spin-Off, included in our condensed consolidated statements of operations for the periods presented within. 
+ In planning for and executing the Spin-Off, we incurred million in separation-related transaction costs during YTD 2024, which were recognized in selling, general, and administrative expense. These transaction costs primarily related to financial advisory, legal, regulatory and other professional services fees directly related to the Spin-Off. 
+ In connection with the Spin-Off, Illumina and GRAIL entered into various agreements to effect the Spin-Off and provide a framework for GRAIL s relationship with Illumina after the Spin-Off, including a separation and distribution agreement, an employee matters agreement, a tax matters agreement, an amended supply and commercialization agreement and a stockholder s and registration rights agreement (the Agreements). The Agreements determine the treatment of the assets, employees, liabilities and obligations (including certain tax-related assets and liabilities) of Illumina attributable to periods prior to, at and after GRAIL s separation and also govern certain relationships between Illumina and GRAIL after the Spin-Off. 
+ 13 
+
+Table of Contents 
+
+Instruments Total product revenue Service and other revenue Total revenue 
+ YTD 2024 YTD 2023 In millions Sequencing Microarray Total Sequencing Microarray Total Consumables Instruments Total product revenue Service and other revenue Total revenue 
+ Revenue by Geographic Area 
+ Based on region of destination (in millions) Q3 2024 Q3 2023 YTD 2024 YTD 2023 Americas Europe Greater China (1) 
+ Asia-Pacific, Middle East, and Africa (2) 
+ Total revenue 
+ _____________ 
+ (1) Region includes revenue from China, Taiwan, and Hong Kong. 
+ (2) Region includes revenue from Russia and Turkey. 
+ Performance Obligations 
+ We regularly enter into contracts with multiple performance obligations. These contracts are believed to be firm as of the balance sheet date. However, we may allow customers to make product substitutions as we launch new products. The timing of shipments depends on several factors, including agreed upon shipping schedules, which may span multiple quarters. Most performance obligations are generally satisfied within a short time frame, approximately three to , after the contract execution date. As of September 29, 2024, the aggregate amount of the transaction price allocated to remaining performance obligations was million, of which approximately is expected to be converted to revenue in the next , approximately in the following , and the remainder thereafter. 
+ Contract Assets and Liabilities 
+ Contract assets, which consist of revenue recognized and performance obligations satisfied or partially satisfied in advance of customer billing, were million and million as of September 29, 2024 and December 31, 2023, respectively, and were recorded in prepaid expenses and other current assets. 
+ 14 
+
+Table of Contents 
+
+million and million, respectively, of which million and million, respectively, was short-term and recorded in accrued liabilities and the remaining long-term portions were recorded in other long-term liabilities. Revenue recorded in Q3 2024 and YTD 2024 included million and million, respectively, of previously deferred revenue that was included in contract liabilities as of December 31, 2023. 
+ 
+ million and million, respectively. The increase in our marketable equity securities relates to the investment we retained in GRAIL subsequent to the Spin-Off, which was initially recorded as million, representing of GRAIL s net assets disposed of at Spin-Off. Refer to note 2. GRAIL Spin-Off for details. We recorded an unrealized loss of million in YTD 2024, subsequent to the Spin-Off, based on the fair value of our investment in GRAIL as of September 29, 2024.) ) ) Less: Net losses recognized during the period on marketable equity securities sold during the period ) Net unrealized losses recognized during the period on marketable equity securities still held at the reporting date ) ) 
+ Non-Marketable Equity Securities 
+ As of September 29, 2024 and December 31, 2023, the aggregate carrying amount of non-marketable equity securities, without readily determinable fair values, included in other assets, was million and million, respectively. 
+ Venture Funds 
+ We invest in venture capital investment funds (the Funds), which are accounted for as equity-method investments. The aggregate carrying amount of the Funds, included in other assets, was million and million as of September 29, 2024 and December 31, 2023, respectively. We recorded losses of million and million in Q3 2024 and YTD 2024, respectively, and losses of million and million in Q3 2023 and YTD 2023, respectively, in other income (expense), net. 
+ April 2026 Fund II 
+ July 2029 Fund III 
+ December 2034 _____________ 
+ (1) Fund I also had recallable distributions of approximately million. 
+ Revenue recognized from transactions with our strategic investees was million and million for Q3 2024 and YTD 2024, respectively, and million and million for Q3 2023 and YTD 2023, respectively. 
+ 15 
+
+Table of Contents 
+
+Marketable equity securities Helix contingent value right Deferred compensation plan assets Total assets measured at fair value Liabilities: Contingent consideration liabilities Deferred compensation plan liability Total liabilities measured at fair value 
+ Our marketable equity securities are measured at fair value based on quoted trade prices in active markets. Our deferred compensation plan assets consist primarily of investments in life insurance contracts carried at cash surrender value, which reflects the net asset value of the underlying publicly traded mutual funds. We perform control procedures to corroborate the fair value of our holdings, including comparing valuations obtained from our investment service provider to valuations reported by our asset custodians, validating pricing sources and models, and reviewing key model inputs, if necessary. 
+ Helix Contingent Value Right 
+ In conjunction with the deconsolidation of Helix Holdings I, LLC (Helix) in April 2019, we received a contingent value right with a term that entitled us to consideration dependent upon the outcome of Helix s future financing and/or liquidity events. We elected the fair value option to measure the contingent value right received from Helix. Changes in the estimated fair value are recognized in other income (expense), net. Historically, we estimated the fair value of the contingent value right using a Monte Carlo simulation. Estimates and assumptions used in the Monte Carlo simulation included probabilities related to the timing and outcome of future financing and/or liquidity events, assumptions regarding collectability and volatility, and an estimated equity value of Helix. These unobservable inputs represented a Level 3 measurement because they are supported by little or no market activity and reflect our own assumptions in measuring fair value. On July 31, 2024, we received cash of million to settle the contingent value right early. 
+ 
+ Change in estimated fair value Cash received to settle 
+ ) Balance as of September 29, 2024 
+ 16 
+
+Table of Contents 
+
+-year period (through August 2033). As defined in the Contingent Value Rights Agreement , this will reflect a payment right to the first billion of revenue each year for years. Revenue above billion each year will be subject to a contingent payment right during this same period. Covered Revenues for the period Q4 2023 through Q2 2024 were million in aggregate and for the period Q4 2022 through Q2 2023 were million in aggregate, driven primarily by sales of GRAIL s Galleri test. Covered Revenue Payments relating to such periods were and in YTD 2024 and YTD 2023, respectively. 
+ The fair value of our contingent consideration liability related to GRAIL was million and million as of September 29, 2024 and December 31, 2023, respectively, of which million and million, respectively, was included in other long-term liabilities, with the remaining balances included in accrued liabilities. We use a Monte Carlo simulation to estimate the fair value of the GRAIL contingent consideration liability. Estimates and assumptions used in the Monte Carlo simulation include forecasted revenues for GRAIL, a revenue risk premium, a revenue volatility estimate, an operational leverage ratio and a counterparty credit spread. These unobservable inputs represent a Level 3 measurement because they are supported by little or no market activity and reflect our own assumptions in measuring fair value. Subsequent to the Spin-Off of GRAIL, we no longer have access to GRAIL management s forecasts and therefore must rely on information made public by GRAIL s management to estimate forecasted revenues through August 2033. In August 2024, GRAIL management publicly announced a corporate restructure, including a reduction in headcount and planned hires and a substantial decrease in certain R D projects and investments. To estimate the liability as of September 29, 2024, we selected a revenue risk premium of , which was derived from reconciling our forecasted revenues for GRAIL to GRAIL s market capitalization based on a -day trailing average. The significant decrease in the contingent consideration liability from December 31, 2023 was due to the decrease in the forecasted revenues, following revised revenue projections announced by GRAIL in May 2024 and the restructuring announcement in August 2024, and the increase in the revenue risk premium resulting from the lower market capitalization observed at or subsequent to the Spin-Off. 
+ The assumptions used in estimating the fair value of the contingent consideration liability related to GRAIL are inherently subject to uncertainty and we note that small changes in these assumptions could have a significant impact on the concluded value. For example, an increase or decrease of 20 , in each year, to the forecasted revenues would have resulted in an increase of million and a decrease of million, respectively, in the liability as of September 29, 2024. Additionally, an increase or decrease of 250 basis points to the selected revenue risk premium would have resulted in a decrease of million and an increase of million, respectively. We expect certain levels of volatility in the GRAIL contingent consideration liability are possible in future quarters. 
+ Acquisition Change in estimated fair value ) Cash payments 
+ ) Balance as of September 29, 2024 
+ 17 
+
+Table of Contents 
+
+Principal amount of 2026 Term Notes outstanding 
+ Principal amount of 2027 Term Notes outstanding Principal amount of 2031 Term Notes outstanding Unamortized discounts and debt issuance costs ) ) Net carrying amount of term debt, non-current 
+ Fair value of term debt outstanding (Level 2) 
+ 
+ Interest expense, which included amortization of debt discounts and issuance costs, was million and million in Q3 2024 and YTD 2024, respectively, and million and million in Q3 2023 and YTD 2023, respectively. 
+ Term Notes due 2026 (2026 Term Notes) 
+ On September 9, 2024, we issued million aggregate principal amount of 2026 Term Notes. After deducting discounts and issuance costs, we received net proceeds of million, which were used to repay a portion of the outstanding debt under the Delayed Draw Credit Agreement. The 2026 Term Notes, which mature on September 9, 2026, accrue interest at a rate of per annum, payable semi-annually on March 9 and September 9 of each year, beginning on March 9, 2025. We may redeem for cash all or any portion of the 2026 Term Notes, at our option, at any time prior to maturity at make-whole premium redemption prices as defined in the form of the notes. 
+ Term Notes due 2025 (2025 Term Notes) and Term Notes due 2027 (2027 Term Notes) 
+ In December 2022, we issued million aggregate principal amount of 2025 Term Notes and million aggregate principal amount of 2027 Term Notes. The 2025 Notes, which mature on December 12, 2025, and the 2027 Notes, which mature on December 13, 2027, accrue interest at a rate of and per annum, respectively, payable semi-annually. Interest for the 2025 Notes is payable on June 12 and December 12 of each year and interest for the 2027 Notes is payable on June 13 and December 13 of each year, beginning in June 2023. 
+ We may redeem for cash all or any portion of the 2025 or 2027 Term Notes, at our option, at any time prior to maturity. Prior to November 12, 2025 for the 2025 Notes and prior to November 13, 2027 for the 2027 Notes, the notes are redeemable at make-whole premium redemption prices as defined in the applicable forms of note. After November 12, 2025 and November 13, 2027, respectively, the notes are redeemable at a redemption price equal to of the principal to be redeemed, plus accrued and unpaid interest up to, but excluding, the redemption date. 
+ Term Notes due 2031 (2031 Term Notes) 
+ In March 2021, we issued million aggregate principal amount of 2031 Term Notes. The notes mature on March 23, 2031 and accrue interest at a rate of per annum, payable semi-annually on March 23 and September 23 of each year. We may redeem for cash all or any portion of the notes, at our option, at any time prior to maturity. Prior to December 23, 2030, the notes are redeemable at make-whole premium redemption prices as defined in the form of the notes. After December 23, 2030, the notes are redeemable at a redemption price equal to of the principal to be redeemed, plus accrued and unpaid interest up to, but excluding, the redemption date. 
+ 18 
+
+Table of Contents 
+
+-day delayed draw credit agreement (the Delayed Draw Credit Agreement), which provided us with a senior unsecured term loan credit facility in an aggregate principal amount of up to million (the Delayed Draw Credit Facility). On June 20, 2024, we borrowed million on the credit facility in order to provide a portion of the Disposal Funding to GRAIL as part of the Spin-Off. The delayed draw term loan incurred interest at a rate of . On September 9, 2024, we repaid the full principal outstanding on the Delayed Draw Credit Facility, including accrued interest, of million and terminated the Delayed Draw Credit Agreement. We recognized a loss on debt extinguishment of million in Q3 2024 related to the write-off of unamortized debt issuance costs, which was included in interest expense in the condensed consolidated statements of operations. 
+ Revolving Credit Agreement 
+ On January 4, 2023, we entered into a credit agreement (the Revolving Credit Agreement), which provides us with a million senior unsecured revolving credit facility, including a million sublimit for swingline borrowings and a million sublimit for letters of credit (the Revolving Credit Facility). Proceeds of the loans under the Revolving Credit Facility may be used to finance working capital needs and for general corporate purposes. 
+ The Revolving Credit Facility matures, and all amounts outstanding become due and payable in full, on January 4, 2028, subject to extensions at our option, the consent of the extending lenders and certain other conditions. We may prepay amounts borrowed and terminate commitments under the Revolving Credit Facility at any time without premium or penalty. As of September 29, 2024, there were no borrowings or letters of credit outstanding under the credit facility, and we were in compliance with all financial and operating covenants. 
+ Loans under the Revolving Credit Facility will have a variable interest rate based on either the term secured overnight financing rate (SOFR) or the alternate base rate, plus an applicable rate that varies with our debt rating and, in the case of loans bearing interest based on term SOFR, a credit spread adjustment equal to per annum. The Revolving Credit Agreement includes an option for us to elect to increase commitments under the credit facility or enter into one or more tranches of term loans in the aggregate principal amount of up to million, subject to consent of the lenders providing the additional commitments or loans and certain other conditions. 
+ The Revolving Credit Agreement contains financial and operating covenants. Pursuant to the Revolving Credit Agreement, we are required to maintain a ratio of total debt to adjusted annual earnings before interest, taxes, depreciation and amortization (EBITDA), calculated based on the consecutive fiscal quarters ending with the most recent fiscal quarter, of not greater than to 1.00 as of the end of each fiscal quarter. Upon the consummation of any Qualified Acquisition (as defined in the Revolving Credit Agreement) and us providing notice to the Administrative Agent, the ratio increases to to 1.00 for the fiscal quarter in which the acquisition is consummated and the consecutive fiscal quarters thereafter. The operating covenants include, among other things, limitations on (i) the incurrence of indebtedness by our subsidiaries, (ii) liens on our and our subsidiaries assets, and (iii) certain fundamental changes and the disposition of assets by us and our subsidiaries. The Credit Agreement contains other customary covenants, representations and warranties, and events of default. 
+ 
+ million shares remained available for future grants under the Amended and Restated 2015 Stock and Incentive Compensation Plan (the 2015 Plan). In connection with the GRAIL Spin-Off, all unvested RSU and PSU were equitably adjusted pursuant to the plan to preserve their intrinsic value and the number of shares reserved for issuance under the 2015 Plan was increased by shares. 
+ 19 
+
+Table of Contents 
+
+Awarded Unvested adjustment for GRAIL Spin-Off Vested ) Cancelled ) ) Outstanding at September 29, 2024 
+ _____________ 
+ (1) We issue PSU for which the number of shares issuable is based on our performance relative to specified earnings per share targets (EPS PSU) and PSU with a market condition that vest based on the Company s relative total shareholder return as compared to a peer group of companies (rTSR PSU). In Q1 2024, we began to issue PSU for which the number of shares issuable is based on our performance relative to specified operating margin targets (OM PSU). For EPS and OM PSU, the number of units reflect the estimated number of shares to be issued at the end of the performance period. For rTSR PSU, the number of units reflect the estimated number of shares to be issued based on performance as of the current reporting period. Awarded units are presented net of performance adjustments. 
+ Stock Options 
+ Cancelled ) ) Outstanding at September 29, 2024 
+ _____________ 
+ 
+ Liability-Classified Awards 
+ Prior to the GRAIL Spin-Off, we granted cash-based equity incentive awards to GRAIL employees, which were accounted for as liability-classified awards. In connection with the Spin-Off, these awards were assumed by GRAIL. 
+ Granted Vested and paid in cash ) Cancelled ) Change in fair value ) Derecognition for GRAIL Spin-Off (1) 
+ ) Outstanding at September 29, 2024 _____________ 
+ (1) The estimated liability immediately prior to the Spin-Off, recorded in accrued liabilities, was million, which was disposed of as part of GRAIL s net assets. See note 2. GRAIL Spin-Off for additional details. 
+ We recognized share-based compensation expense on these cash-based equity incentive awards of million in YTD 2024, prior to the Spin-Off, and million and million in Q3 2023 and YTD 2023, respectively. 
+ 20 
+
+Table of Contents 
+
+million. Prior to the GRAIL Spin-Off, it was not probable that the performance conditions associated with the award would be achieved and, therefore, no share-based compensation expense was recognized in the condensed consolidated statements of operations. In connection with the Spin-Off, this award was assumed by GRAIL. For a period of years following the Spin-Off, we are obligated to indemnify GRAIL for cash payments that become earned and payable related to this award. The indemnification is accounted for in accordance with ASC 460. As of September 29, 2024, we recognized a non-contingent liability of million for this indemnification, with a corresponding charge to additional paid-in capital. 
+ Employee Stock Purchase Plan (ESPP) 
+ The price at which common stock is purchased under the ESPP is equal to of the fair market value of the common stock on the first day of the offering period or purchase date, whichever is lower. During YTD 2024, approximately million shares were issued under the plan. As of September 29, 2024, there were approximately million shares available for issuance under the ESPP, which reflects an upward adjustment of approximately million shares pursuant to the terms of the plan to account for the GRAIL Spin-Off. 
+ - 
+ Expected volatility - 
+ Expected term - year 
+ Expected dividends Weighted-average grant-date fair value per share 
+ Share Repurchases 
+ In August 2024, our Board of Directors authorized a new share repurchase program, which cancels and supersedes all prior and available repurchase authorizations, to repurchase up to billion of our outstanding common stock. The repurchases may be completed through open market purchases, pursuant to Rule 10b5-1 or Rule 10b-18, or through an accelerated share repurchase program. Authorizations to repurchase up to billion of our outstanding common stock remained available as of September 29, 2024. 
+ Total cost of shares repurchased (1) 
+ _____________ 
+ (1) Total cost of shares repurchased includes the 1 excise tax imposed as part of the Inflation Reduction Act of 2022, which is calculated based on share repurchases, net of certain share issuances, and was immaterial for Q3 2024. 
+ Share-Based Compensation 
+ 21 
+
+Table of Contents 
+
+Cost of service and other revenue Research and development Selling, general and administrative Share-based compensation expense, before taxes Related income tax benefits ) ) ) ) Share-based compensation expense, net of taxes 
+ As of September 29, 2024, unrecognized compensation cost, related to restricted stock and ESPP shares issued to date, of million was expected to be recognized over a weighted-average period of approximately years. 
+
+Allowance for credit losses ) ) Total accounts receivable, net 
+ Work in process Finished goods Inventory, gross Inventory reserve ) ) Total inventory, net 
+ Contract liabilities, current portion Accrued compensation expenses 
+ Accrued taxes payable Operating lease liabilities, current portion Liability-classified equity incentive awards Other, including warranties (2) 
+ Total accrued liabilities _____________ 
+ (1) See note 8. Legal Proceedings for additional details. 
+ (2) See table below for changes in the reserve for product warranties. 
+ 22 
+
+Table of Contents 
+
+Additions charged to cost of product revenue Repairs and replacements ) ) ) ) Balance at end of period 
+ warranty on instruments. Additionally, we provide a warranty on consumables through the expiration date, which generally ranges from six to after the manufacture date. At the time revenue is recognized, an accrual is established for estimated warranty expenses based on historical experience as well as anticipated product performance. We periodically review the warranty reserve for adequacy and adjust the warranty accrual, if necessary, based on actual experience and estimated costs to be incurred. Warranty expense is recorded as a component of cost of product revenue. 
+ Restructuring 
+ In Q2 2023, we implemented a cost reduction initiative that included workforce reductions, the consolidation of certain facilities and other actions to reduce expenses, all as part of a plan to realign operating expenses while maintaining focus on our innovation roadmap and sustainable long-term growth. In YTD 2024, we recorded restructuring charges primarily consisting of asset impairment charges related to our leased facilities. 
+ Asset impairment charges (1) 
+ Other costs Total restructuring charges (2) 
+ 
+ _____________ 
+ (1) For YTD 2024, charges primarily relate to impairment of right-of-use assets and leasehold improvements for our Foster City campus. 
+ For YTD 2023, charges primarily relate to impairment of right-of-use assets and leasehold improvements for our i3 campus. 
+ (2) For Q3 2024, million was recorded in SG A expense and million in R D expense. 
+ For YTD 2024, million was recorded in SG A expense, million in R D expense, and remainder in cost of revenue. 
+ For Q3 2023, million was recorded in SG A expense, million in R D expense, and remainder in cost of revenue. 
+ For YTD 2023, million was recorded in SG A expense, million in R D expense, and remainder in cost of revenue. 
+ We recorded right-of-use asset impairments of million in Q1 2024 related to our campus in Foster City, California and another property in San Diego, California. The impairments, which were recognized in selling, general and administrative expense, were determined by comparing the fair values of the impacted right-of-use assets to the carrying values of the assets as of the impairment measurement date. The fair values of the right-of-use assets were estimated using the discounted future cash flows method, which includes estimates and assumptions for future sublease rental rates that reflect current sublease market conditions, as well as discount rates. The estimates and assumptions used in our assessments represent Level 3 measurements because they are supported by little or no market activity and reflect our own assumptions in measuring fair value. We also recorded million of leasehold improvement impairments in Q1 2024, related to our Foster City campus, recognized in selling, general and administrative expense. We continue to evaluate our options with respect to the rest of our campus in Foster City, California and the other property in San Diego, California. As of September 29, 2024, we had remaining assets, consisting primarily of right-of-use assets and leasehold improvements, related to our Foster City campus and the other property in San Diego, California of approximately million. 
+ 23 
+
+Table of Contents 
+
+Additional expense recorded 
+ Cash payments 
+ ) ) ) Adjustments to accrual 
+ ) ) Amount recorded in accrued liabilities as of September 29, 2024 
+ 
+ _____________ 
+ (1) It is expected that substantially all of the employee separation related charges will be paid by the end of Q4 2024 . 
+ Impairment of Goodwill and Intangible Assets 
+ Goodwill is reviewed for impairment annually, during the second quarter of our fiscal year, or more frequently if an event occurs indicating the potential for impairment. In May 2024, we performed our annual goodwill impairment test for our reporting units: Core Illumina and GRAIL. We performed a quantitative test for both reporting units. GRAIL s carrying value exceeded its fair value, estimated as million, and we recorded a goodwill impairment of million in Q2 2024. There was no impairment for Core Illumina, as its fair value exceeded its carrying value. 
+ To determine the fair value of GRAIL as of May 2024, we utilized enterprise value estimates of GRAIL, as estimated by investment bankers for purposes of determining pricing for the Spin-Off. Estimates and assumptions used to derive the investment bankers enterprise value estimates included estimated revenues for a year period based on assumed growth rates and implied revenue multiples for comparable companies. These estimates and assumptions represent a Level 3 measurement as they are supported by little or no market activity and reflect our own assumptions in measuring fair value. An increase in estimated enterprise values for GRAIL of 100 would still have resulted in a full impairment of goodwill. In prior periods, we used a combination of both an income (discounted cash flows) and market approach to determine the fair value of GRAIL. The income approach utilized projected cash flows for GRAIL based on a long-range plan which contemplated FDA approval and estimated cash flows for a year period. Based on this approach, in Q3 2023, we estimated the fair value of GRAIL to be billion, using a selected discount rate of , and recorded a goodwill impairment of million. An increase of 50 to 100 basis points to the discount rate used in our assessment at that time would have resulted in additional goodwill impairment of million to million. Using this same approach in Q4 2023 suggested no further decrement in fair value. Initial analyst coverage of GRAIL from December 2023 into the spring of 2024 suggested that GRAIL could be valued between billion and billion. By May 2024, prior to the consummation of the GRAIL Spin-Off, additional information about GRAIL had become available in GRAIL s amended Form 10 filings and a publicly available management presentation, which included updated disclosure about GRAIL s business and anticipated near term financial trends. Prior to the consummation of the GRAIL Spin-Off, the amount of GRAIL s Disposal Funding, million, was also disclosed. Analyst and banker valuation estimates then began to estimate fair values between million and million, consistent with the impairment recorded in Q2 2024. 
+ To determine the fair value of Core Illumina, we used a combination of both an income and market approach consistent with prior periods. The income approach utilized estimated discounted cash flows for the reporting unit, while the market approach utilized comparable company information. Estimates and assumptions used in the income approach included projected cash flows and a discount rate and represent a Level 3 measurement because they are supported by little or no market activity and reflect our own assumptions in measuring fair value. 
+ 24 
+
+Table of Contents 
+
+million in Q2 2024. The fair value of GRAIL s IPR D was determined using an income approach, specifically a discounted cash flow model. Estimates and assumptions used in the income approach, which represent a Level 3 measurement, included projected cash flows and a discount rate of . The discount rate was derived from reconciling GRAIL s long-range plan, which contemplated FDA approval and estimated cash flows for a year period, to observed market values of GRAIL based on the when-issued trading activity. An increase of 300 basis points to the discount rate used in our assessment would have resulted in additional impairment of million. There is substantial risk inherent in forecasting revenues and spend associated with research and development, including assumptions around the timing and level of resources and investment to be made, which were made more challenging in light of the Spin-Off and related Disposal Funding. 
+ We performed a recoverability test for GRAIL s definite-lived intangible assets, which include developed technology and trade name, noting no impairment. No impairment was noted for Core Illumina definite-lived intangible assets. 
+ Goodwill 
+ Acquisition 
+ Impairment 
+ ) Balance as of September 29, 2024 _____________ 
+ (1) The balance as of December 31, 2023 includes accumulated impairment of million related to our GRAIL reporting unit. 
+ 
+ Intangible Assets 
+ ) ) Licensed technologies ) ) Trade name ) ) Customer relationships ) ) License agreements ) ) Database ) ) Total finite-lived intangible assets, net ) ) In-process research and development (IPR D) ) Total intangible assets, net ) ) ) 
+ The significant decrease in developed technologies, trade name, and IPR D reflect the GRAIL intangible assets disposed of in connection with the Spin-Off. See note 2. GRAIL Spin-Off for more information. Additionally, in Q1 2024, we placed into service (reflected in developed technologies) the IPR D asset we acquired in Q2 2021. 
+ 25 
+
+Table of Contents 
+
+million, with a useful life of years, and a customer relationship intangible of million, with a useful life of years. We are still finalizing the allocation of the purchase price as it relates to the completion of certain tax returns. We expect to finalize the valuation as soon as practicable, but no later than one year after the acquisition. 
+ Amortization expense for Q3 2024 and YTD 2024 was million and million, respectively, and million and million in Q3 2023 and YTD 2023, respectively. 
+ 2025 2026 2027 2028 Thereafter Total 
+ Derivative Financial Instruments 
+ We use foreign exchange forward contracts to manage foreign currency risks related to monetary assets and liabilities denominated in currencies other than the U.S. dollar. These derivative financial instruments have terms of or less and are not designated as hedging instruments. Changes in fair value of these derivatives are recognized in other income (expense), net, along with the re-measurement gain or loss on the foreign currency denominated assets or liabilities. As of September 29, 2024, we had foreign exchange forward contracts in place to hedge exposures in the euro, Japanese yen, Australian dollar, Canadian dollar, Singapore dollar, Chinese Yuan Renminbi, and British pound. As of September 29, 2024 and December 31, 2023, the total notional amounts of outstanding forward contracts in place for these foreign currency purchases were million and million, respectively. In September 2024, as a result of the European Commission withdrawing its previously imposed fine, the related forward contracts we previously entered into for a total notional amount of million were terminated. 
+ We use foreign currency forward contracts to hedge portions of our foreign currency exposure associated with forecasted revenue transactions. These derivative financial instruments have terms up to months and are designated as cash flow hedges. Changes in fair value of our cash flow hedges are recorded as a component of accumulated other comprehensive loss and are reclassified to revenue in the same period the underlying hedged transactions are recorded. We regularly review the effectiveness of our hedges and consider them to be ineffective if it becomes probable that the forecasted transactions will not occur in the identified period. Changes in fair value of the ineffective portions of our cash flow hedges, if any, are recognized in other income (expense), net. As of September 29, 2024, we had foreign currency forward contracts in place to hedge exposures associated with forecasted revenue transactions denominated in the euro, Japanese yen, Australian dollar, Canadian dollar, and Chinese Yuan Renminbi. As of September 29, 2024 and December 31, 2023, the total notional amounts of outstanding cash flow hedge contracts in place for these foreign currency purchases were million and million, respectively. We reclassified million and million to revenue in Q3 2024 and YTD 2024, respectively, and million and million to revenue in Q3 2023 and YTD 2023, respectively. As of September 29, 2024, the fair value of foreign currency forward contracts recorded in total assets and total liabilities was million and million, respectively. As of December 31, 2023, the fair value of foreign currency forward contracts recorded in total assets and total liabilities was million and million, respectively. 
+ 26 
+
+Table of Contents 
+
+of the outstanding GRAIL common stock to Illumina stockholders on a pro rata basis. 
+ On September 3, 2024, the EU Court of Justice ruled in our favor, confirming that the European Commission had unlawfully asserted jurisdiction over our acquisition of GRAIL, and hence annulling the EU General Court s judgment and the European Commission s decisions accepting the referral of the GRAIL acquisition for EU merger review (the EU Court of Justice Judgment). The EU Court of Justice Judgment concludes these proceedings and is not subject to further appeals. In view of this judgment, on September 6, 2024, the European Commission issued a decision (the Withdrawal Decision) withdrawing all of its prior decisions, including (1) its July 22, 2021 decision opening an investigation of Illumina s proposed acquisition of GRAIL, (2) its September 6, 2022 decision prohibiting Illumina s acquisition of GRAIL, (3) its October 29, 2021 and October 28, 2022 decisions concerning interim measures, (4) its October 12, 2023 decision requiring Illumina to unwind its acquisition of GRAIL, and (5) its July 12, 2023 decision fining Illumina million and GRAIL for closing the acquisition before approval by the European Commission. The Withdrawal Decision resolves all ongoing regulatory proceedings in the European Union. 
+ As a result of the European Commission withdrawing its previously imposed fine, we recognized a net gain of million in Q3 2024. We recognized a gain of million in operating expense, resulting from reversal of the accrued fine and related accrued interest, offset by a loss of million, recognized in other income (expense), net, for the reversal of associated foreign currency fluctuations. The fine accrued interest at a rate of per annum while it was outstanding. The guarantees we provided in October 2023 to satisfy the obligation in lieu of cash payment while we appealed the European Commission s jurisdictional and fine decisions are no longer outstanding. 
+ 27 
+
+Table of Contents 
+
+28 
+
+Table of Contents 
+
+securities class action complaints was filed against Illumina and certain of its current and former executive officers in the United States District Court for the Southern District of California. The first-filed case is captioned Kangas v. Illumina, Inc. et al ., the second-filed case is captioned Roy v. Illumina, Inc. et al., and the third-filed case is captioned Louisiana Sheriffs Pension Relief Fund v. Illumina, Inc. et al. (collectively, the Actions). The complaints generally allege, among other things, that defendants made materially false and misleading statements and omitted material facts relating to Illumina s acquisition of Grail. The complaints seek unspecified damages, interest, fees, and costs. On January 9, 2024, movants filed motions to consolidate the Actions and to appoint a lead plaintiff (Lead Plaintiff Motions). On April 11, 2024, the Court issued an order consolidating the Actions into a single action (captioned in re Illumina, Inc. Securities Litigation No. 23-cv-2082-LL-MMP), and appointed Universal-Investment-Gesellschaft mbH, UI BVK Kapitalverwaltungsgesellschaft mbH, and ACATIS Investment Kapitalverwaltungsgesellschaft mbH as lead plaintiffs (the Lead Plaintiffs). On June 21, 2024, the Lead Plaintiffs filed their consolidated amended complaint. The complaint alleges that Illumina and GRAIL and certain of their current and former directors and officers violated 
+ 29 
+
+Table of Contents 
+
+additional securities class actions was filed against Illumina, certain of its officers and directors, and several other individuals and entities in the Superior Court of the State of California, County of San Mateo, captioned Loren Scott Mar v. Illumina, et al. and Scott Zerzanek v. Illumina, Inc. et al .. Both complaints generally allege, among other things, that defendants made materially false and misleading statements and omitted material facts in the November 2020 and February 2021 registration statements and prospectus relating to Illumina s acquisition of Grail. The complaints seek unspecified damages, interest, fees, and costs. On March 29, 2024, the parties to the actions filed a Joint Stipulation to Consolidate the actions and to appoint co-lead counsel for plaintiffs, which the Court granted on April 5, 2024. On August 12, 2024, the Plaintiffs filed their consolidated complaint. On September 6, 2024, Illumina and the other named defendants filed a motion to stay the litigation. On October 4, 2024, the plaintiffs opposed the motion to stay. A hearing on the motion to stay is scheduled for December 6, 2024. 
+ In light of the fact that the lawsuits are in an early stage, we cannot predict the ultimate outcome of the suits. We deny the allegations in the complaints and intend to vigorously defend the litigation. 
+ DOJ Civil Investigative Demand 
+ On January 18, 2024, we received a civil investigative demand (CID) from the U.S. Department of Justice, requiring production of certain documents and information in the course of a False Claims Act investigation to determine whether there is or has been a violation of 31 U.S.C. 3729. The False Claims Act investigation concerns allegations that the Company caused the submission of false claims to Medicare and other federal government programs because it misrepresented its compliance with cybersecurity requirements to the Food and Drug Administration and other federal agencies that purchase its devices. The Company is cooperating with the government. 
+ Books and Records Action 
+ On February 14, 2024, a stockholder filed a complaint in the Delaware Court of Chancery captioned Pavers and Road Builders Benefit Funds v. Illumina, Inc. seeking to inspect certain books and records related to the GRAIL transaction, including certain materials and minutes from meetings of our Board of Directors, which have been withheld because the Company contends they are non-responsive to the request or subject to the attorney-client privilege. Illumina previously provided documents to the stockholder in response to a demand made by letter under Delaware law, but the stockholder seeks additional and unredacted materials through this action. On March 11, 2024, Illumina filed an answer to the complaint, denying that the stockholder was entitled to inspection. We deny that the stockholder is entitled to review the documents and intend to vigorously defend the litigation. The trial took place on June 7, 2024. On July 16, 2024, the Court issued a decision requiring the Company to produce certain additional documents to plaintiff. On July 26, 2024, the stockholder filed a motion seeking in camera review of certain documents that the Company maintains are not subject to the Court s July 16, 2024 order to produce documents. The Court granted the motion on August 19, 2024, and the Company filed the documents for in camera review on August 29, 2024. On October 7, 2024, the Court ruled that the Company need not produce the documents subject to the motion for in camera review because they are privileged under the attorney opinion work product doctrine. 
+ 
+ 30 
+
+Table of Contents 
+
+and ) , respectively, compared to and ) in Q3 2023 and YTD 2023, respectively. The variance from the U.S. federal statutory tax rate of 21 for Q3 2024 was primarily because of the million income tax expense impact of GRAIL pre-acquisition net operating losses on GILTI, the utilization of U.S. foreign tax credits, and the Pillar Two global minimum top-up tax, respectively, and the million income tax expense impact of capitalizing research and development expenses for tax purposes. The variance from the U.S. federal statutory tax rate of 21 for YTD 2024 was primarily because of the million income tax expense impact from the impairment of goodwill, which is nondeductible for tax purposes, million income tax expense impact of GRAIL pre-acquisition net operating losses on GILTI, the utilization of U.S. foreign tax credits, and the Pillar Two global minimum top-up tax, and the million income tax expense impact of capitalizing research and development expenses for tax purposes. The income tax rate in Q3 2024 and YTD 2024 was favorably impacted by the reversal of the European Commission fine related to the GRAIL acquisition, which is excluded from taxable income, and by the mix of earnings in jurisdictions with lower statutory tax rates than the U.S. federal statutory tax rate, such as in Singapore. 
+ As of September 29, 2024 and December 31, 2023, prepaid income taxes, included within prepaid expenses and other current assets on the condensed consolidated balance sheets, were million and million, respectively. 
+
+GRAIL Eliminations ) ) ) Consolidated revenue Income (loss) from operations: Core Illumina GRAIL ) ) ) Eliminations ) ) Consolidated income (loss) from operations 
+ ) ) ) 
+ Total other expense, net primarily relates to Core Illumina, and we do not allocate income taxes to our segments. 
+ 
+ 31 
+
+Table of Contents 
+
+MANAGEMENT S DISCUSSION ANALYSIS Our Management s Discussion and Analysis (MD A) will help readers understand our results of operations, financial condition, and cash flow. It is provided in addition to the accompanying condensed consolidated financial statements and notes. This MD A is organized as follows: 
+ Management s Overview and Outlook . High level discussion of our operating results and significant known trends that affect our business. 
+ Results of Operations . Detailed discussion of our revenues and expenses. 
+ Liquidity and Capital Resources. Discussion of key aspects of our condensed consolidated statements of cash flows, changes in our financial position, and our financial commitments. 
+ Critical Accounting Policies and Estimates . Discussion of significant changes since our most recent Annual Report on Form 10-K that we believe are important to understanding the assumptions and judgments underlying our condensed consolidated financial statements. 
+ Recent Accounting Pronouncements . Summary of recent accounting pronouncements applicable to our condensed consolidated financial statements. 
+ Quantitative and Qualitative Disclosure About Market Risk. Discussion of our financial instruments exposure to market risk. 
+ Our discussion of our results of operations, financial condition, and cash flow for Q3 2023 and YTD 2023 can be found in Management s Discussion and Analysis of Financial Condition and Results of Operations within our filing of Form 10-Q for the fiscal quarter ended October 1, 2023. 
+ This MD A discussion contains forward-looking statements that involve risks and uncertainties. See Consideration Regarding Forward-Looking Statements preceding the Condensed Consolidated Financial Statements section of this report for additional factors relating to such statements. This MD A should be read in conjunction with our condensed consolidated financial statements and accompanying notes included in this report and our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. Operating results are not necessarily indicative of results that may occur in future periods. 
+
+MANAGEMENT S OVERVIEW AND OUTLOOK 
+ This overview and outlook provide a high-level discussion of our operating results and significant known trends that affect our business. We believe that an understanding of these trends is important to understanding our financial results for the periods being reported herein as well as our future financial performance. This summary is not intended to be exhaustive, nor is it intended to be a substitute for the detailed discussion and analysis provided elsewhere in this report. 
+ About Illumina 
+ Our focus on innovation has established us as a global leader in DNA sequencing and array-based technologies, serving customers in the research, clinical and applied markets. Our products are used for applications in the life sciences, oncology, reproductive health, agriculture and other emerging segments. Our customers include leading genomic research centers, academic institutions, government laboratories, and hospitals, as well as pharmaceutical, biotechnology, commercial molecular diagnostic laboratories, and consumer genomics companies. Our comprehensive line of products addresses the scale of experimentation and breadth of functional analysis to advance disease research, drug development, and the development of molecular tests. This portfolio of leading-edge sequencing and array-based solutions addresses a range of genomic complexity and throughput, enabling researchers and clinical practitioners to select the best solution for their scientific challenge. 
+ 32 
+
+Table of Contents 
+
+On June 24, 2024, we completed the Spin-Off of GRAIL into a new public company through the distribution of approximately 85.5 of the outstanding shares of common stock of GRAIL to Illumina stockholders on a pro rata basis. We retained approximately 14.5 of the shares of GRAIL common stock immediately following the Spin-Off. The disposition of GRAIL did not meet the criteria to be reported as a discontinued operation and accordingly, GRAIL s assets, liabilities, results of operations and cash flows have not been reclassified. In connection with the Spin-Off, Illumina s stockholders received one share of GRAIL common stock for every six shares of Illumina common stock held on the Record Date. Refer to note 2. GRAIL Spin-Off for further details. 
+ See note 10. Segment Information for details regarding our reportable segments. 
+ Our financial results have been, and will continue to be, impacted by several significant trends, which are described below. While these trends are important to understanding and evaluating our financial results, this discussion should be read in conjunction with our condensed consolidated financial statements and the notes thereto within the Condensed Consolidated Financial Statements section of this report, and the other transactions, events, and trends discussed in Risk Factors within the Other Key Information section of this report. 
+ Financial Overview 
+ Since 2023, macroeconomic factors such as inflation, exchange rate fluctuations and concerns about an economic downturn, competitive challenges in our China region, and the sanctions imposed on Russia as a result of the armed conflict between Russia and Ukraine have impacted both Illumina directly and our customers behavior. For example, some customers experienced supply chain pressures that delayed their lab expansions and others are managing inventory and capital more conservatively. We expect these factors to continue to have an impact on our sales and results of operations for the remainder of 2024, the size and duration of which is significantly uncertain. 
+ Financial highlights for YTD 2024 included the following: 
+ Revenue decreased 3 in YTD 2024 to 3,268 million compared to 3,382 million in YTD 2023 primarily due to a decrease in sequencing instruments revenue, driven by fewer shipments of our high-throughput and mid-throughout instruments, offset by increases in sequencing consumables revenue and service and other revenue, primarily driven by our strategic partnerships and service contracts. 
+ Gross profit as a percentage of revenue (gross margin) was 65.3 in YTD 2024 compared to 61.2 in YTD 2023. The increase in gross margin was driven primarily by execution of our operational excellence priorities that delivered cost savings, including freight, and improved productivity, a more favorable mix of sequencing consumables, and a decrease in warranty and field service costs. This was offset by certain strategic partnership revenue that is lower margin. Our gross margin depends on many factors, including: market conditions that may impact our pricing; sales mix changes among consumables, instruments, services, and development and licensing revenue; product mix changes between established products and new products; excess and obsolete inventories; royalties; our cost structure for manufacturing operations relative to volume; freight costs; and product support obligations. 
+ Loss from operations was 1,008 million in YTD 2024 compared to 905 million in YTD 2023. The increase in loss from operations was due to an increase in operating expense of 166 million, which included an increase in goodwill and intangible impairment of 1,068 million, offset by a 488 million favorable impact in legal contingency and settlement, as a result of the European Commission withdrawing its previously imposed fine in September 2024, and an increase in the gains recognized on our GRAIL contingent consideration liability of 222 million, offset by a 63 million increase in gross profit. We continue to focus on our cost reduction initiatives to accelerate progress toward higher margins and create flexibility for further investment in high-growth areas. 
+ 33 
+
+Table of Contents 
+
+Our effective tax rate was (3.2) in YTD 2024 compared to (3.8) in YTD 2023. The variance from the U.S. federal statutory tax rate of 21 was primarily because of the income tax expense impact of the impairment of goodwill, which is nondeductible for tax purposes, the income tax expense impact of the reversal of the European Commission fine related to the GRAIL acquisition, which is excluded from taxable income, the income tax expense impact of research and development expense capitalization for tax purposes, and the income tax expense impact of GRAIL pre-acquisition net operating losses on GILTI, the utilization of U.S. foreign tax credits, and the Pillar Two global minimum top-up tax. This was partially offset by the mix of earnings in jurisdictions with lower statutory tax rates than the U.S. federal statutory tax rate, such as in Singapore. 
+ We ended Q3 2024 with cash, cash equivalents, and short-term investments totaling 939 million, of which approximately 464 million was held by our foreign subsidiaries. 
+ 
+ RESULTS OF OPERATIONS 
+ To enhance comparability, the following table sets forth unaudited condensed consolidated statement of operations data for the specified reporting periods, stated as a percentage of total revenue. (1) 
+ Q3 2024 Q3 2023 YTD 2024 YTD 2023 Revenue: Product revenue 84.6 84.1 83.2 84.7 Service and other revenue 15.4 15.9 16.8 15.3 Total revenue 100.0 100.0 100.0 100.0 Cost of revenue: Cost of product revenue 21.8 26.2 22.5 26.1 Cost of service and other revenue 7.8 8.5 8.8 8.4 Amortization of acquired intangible assets 1.5 4.2 3.4 4.3 Total cost of revenue 31.1 38.9 34.7 38.8 Gross profit 68.9 61.1 65.3 61.2 Operating expense: Research and development 23.4 28.1 27.9 30.0 Selling, general and administrative 22.2 27.0 24.8 33.3 Goodwill and intangible impairment 73.4 57.8 24.3 Legal contingency and settlement (45.3) (0.1) (14.4) 0.4 Total operating expense 0.3 128.4 96.1 88.0 Income (loss) from operations 68.6 (67.3) (30.8) (26.8) Other income (expense): Interest income 1.0 1.2 1.1 1.4 Interest expense (3.4) (1.7) (2.3) (1.7) Other income (expense), net 0.4 (2.1) (9.8) (1.0) Total other expense, net (2.0) (2.6) (11.0) (1.3) Income (loss) before income taxes 66.6 (69.9) (41.8) (28.1) Provision (benefit) for income taxes 1.4 (2.5) 1.3 1.1 Net income (loss) 65.2 (67.4) (43.1) (29.2) 
+ _____________ 
+ (1) Percentages may not recalculate due to rounding. 
+ 
+ 34 
+
+Table of Contents 
+
+Revenue 
+ Dollars in millions Q3 2024 Q3 2023 Change Change YTD 2024 YTD 2023 Change Change Core Illumina: Consumables 807 766 41 5 2,390 2,344 46 2 Instruments 107 182 (75) (41) 342 539 (197) (37) Total product revenue 914 948 (34) (4) 2,732 2,883 (151) (5) Service and other revenue 166 158 8 5 496 458 38 8 Total Core Illumina revenue 1,080 1,106 (26) (2) 3,228 3,341 (113) (3) GRAIL: Service and other revenue 21 (21) (100) 55 62 (7) (11) Eliminations (8) 8 100 (15) (21) 6 (29) Total consolidated revenue 1,080 1,119 (39) (3) 3,268 3,382 (114) (3) 
+ Core Illumina consumables revenue increased in Q3 2024 and YTD 2024 primarily due to an increase in sequencing consumables revenue of 46 million and 48 million, respectively, driven primarily by an increase in NovaSeq X consumables. Core Illumina instruments revenue decreased in Q3 2024 and YTD 2024 primarily due to a decrease in sequencing instruments revenue of 75 million and 196 million, respectively, driven by fewer shipments of our high-throughput instruments, given we entered 2024 with a lower backlog of NovaSeq X instruments, as compared to 2023, given significant pre-orders following the launch, and fewer shipments of our mid-throughput instruments, primarily as capital and cash flow constraints continue to impact our customer s purchasing behavior. Core Illumina service and other revenue increased in Q3 2024 and YTD 2024 primarily due to increased revenue from our strategic partnerships and extended maintenance service contracts, partially offset by decreased revenue from development and licensing agreements. The increase in YTD 2024 Core Illumina service and other revenue was also partially offset by decreased revenue from genotyping services. 
+ The decrease in GRAIL revenue in Q3 2024 and YTD 2024 was due to the Spin-Off in Q2 2024. 
+ Gross Margin 
+ Dollars in millions Q3 2024 Q3 2023 Change Change YTD 2024 YTD 2023 Change Change Gross profit (loss): Core Illumina 745 715 30 4 2,181 2,161 20 1 GRAIL (27) 27 (100) (38) (77) 39 (51) Eliminations (4) 4 (100) (10) (14) 4 (29) Consolidated gross profit 745 684 61 9 2,133 2,070 63 3 Gross margin: Core Illumina 68.9 64.7 67.6 64.7 GRAIL Consolidated gross margin 68.9 61.1 65.3 61.2 
+ ________________ 
+ Not meaningful. 
+ 
+ 35 
+
+Table of Contents 
+
+The increase in Core Illumina gross margin in Q3 2024 and YTD 2024 was driven primarily by a favorable impact from the execution of our operational excellence priorities that delivered cost savings, including freight, and improved productivity, a more favorable mix of sequencing consumables, and a decrease in warranty and field service costs. The increase in YTD 2024 was offset by higher strategic partnership revenue that is lower margin. 
+ The decrease in GRAIL gross loss in Q3 2024 and YTD 2024 was due to the Spin-Off in Q2 2024. 
+ Operating Expense 
+ Dollars in millions Q3 2024 Q3 2023 Change Change YTD 2024 YTD 2023 Change Change Research and development: Core Illumina 253 238 15 6 732 771 (39) (5) GRAIL 79 (79) (100) 189 254 (65) (26) Eliminations (2) 2 (100) (8) (12) 4 (33) Consolidated research and development 253 315 (62) (20) 913 1,013 (100) (10) Selling, general and administrative: Core Illumina 239 216 23 11 621 857 (236) (28) GRAIL 87 (87) (100) 192 271 (79) (29) Eliminations (1) 1 (100) Consolidated selling, general and administrative 239 303 (64) (21) 813 1,127 (314) (28) Goodwill and intangible impairment: 
+ Core Illumina 3 3 100 GRAIL 821 (821) (100) 1,886 821 1,065 130 Consolidated goodwill and intangible impairment 
+ 821 (821) (100) 1,889 821 1,068 130 Legal contingency and settlement: Core Illumina (488) (1) (487) 48,700 (474) 14 (488) (3,486) Total consolidated operating expense 4 1,438 (1,434) (100) 3,141 2,975 166 6 
+ Core Illumina R D expense increased by 15 million, or 6 , in Q3 2024 primarily due to an increase in share-based compensation expense related to PSU awards. Core Illumina R D expense decreased by 39 million, or 5 , in YTD 2024 primarily due to decreases in headcount and employee related compensation costs, restructuring charges of 14 million, and lab supply costs, as we continue to focus on our cost reduction initiatives. 
+ Core Illumina SG A expense increased by 23 million, or 11 , in Q3 2024 primarily due to a decrease in the gains recognized on our GRAIL contingent consideration liability of 61 million and an increase in share-based compensation expense related to PSU awards. The increase was offset by decreases in restructuring charges of 49 million and GRAIL-related transaction expenses, given the Spin-Off of GRAIL in Q2 2024. Core Illumina SG A expense decreased by 236 million, or 28 , in YTD 2024 primarily due to an increase in the gains recognized on our GRAIL contingent consideration liability of 222 million and decreases in restructuring charges of 29 million, proxy contest charges of 28 million, and facility related costs, as we continue to exit certain of our facilities. The decrease was offset by increases in share-based compensation expense related to PSU awards and GRAIL-related transaction expenses, which included 53 million of expenses incurred in YTD 2024 directly related to the Spin-Off. 
+ 36 
+
+Table of Contents 
+
+The decrease in GRAIL R D and SG A expense in Q3 2024 and YTD 2024 was due to the Spin-Off in Q2 2024. 
+ GRAIL goodwill and intangible impairment for YTD 2024 consisted of goodwill impairment of 1,466 million and IPR D intangible asset impairment of 420 million as a result of performing impairment tests in Q2 2024. See note 7. Supplemental Balance Sheet Details for additional information. GRAIL goodwill and intangible impairment for Q3 2023 and YTD 2023 consisted of goodwill impairment of 712 million and IPR D intangible asset impairment of 109 million as a result of performing an interim impairment test in Q3 2023. Core Illumina goodwill and intangible impairment for YTD 2024 consisted of an IPR D intangible asset impairment recorded in Q1 2024. 
+ Core Illumina legal contingency and settlement in Q3 2024 and YTD 2024 primarily consisted of a gain of 489 million resulting from the reversal of the EC fine accrual, and related accrued interest, following the European Commission s decision to withdraw its previously imposed fine. See note 8. Legal Proceedings for additional details. Core Illumina legal contingency and settlement in YTD 2023 primarily consisted of an adjustment to our accrual for the fine previously imposed by the European Commission and other patent litigation settlement activity. 
+ Other Income (Expense) 
+ Dollars in millions Q3 2024 Q3 2023 Change Change YTD 2024 YTD 2023 Change Change Interest income 11 13 (2) (15) 36 47 (11) (23) Interest expense (36) (19) (17) 89 (75) (59) (16) 27 Other income (expense), net 4 (22) 26 (118) (319) (33) (286) 867 Total other expense, net (21) (28) 7 (25) (358) (45) (313) 696 
+ Total other expense, net primarily relates to the Core Illumina segment. 
+ Interest income in Q3 2024 and YTD 2024 consisted primarily of interest on our money market funds, which decreased primarily due to a lower cash balance in Q3 2024 as compared to the prior year. Interest expense consisted primarily of interest on our outstanding term debt and a loss on debt extinguishment of 5 million related to the repayment of our delayed draw term loan in Q3 2024. The fluctuation in other income (expense), net in Q3 2024 was primarily driven by a favorable net impact related to foreign currency activity as compared to the prior period and a decrease in net losses recognized on our strategic investments of 7 million. The fluctuation in other income (expense), net in YTD 2024 was primarily driven by an increase in net losses recognized on our strategic investments of 303 million, which included an unrealized loss of 332 million on our retained investment in GRAIL subsequent to the Spin-Off. This was offset by a favorable net impact related to foreign currency activity as compared to the prior year and an increase in the gains recognized on our Helix contingent value right of 7 million. 
+ Provision (Benefit) for Income Taxes 
+ Dollars in millions Q3 2024 Q3 2023 Change Change YTD 2024 YTD 2023 Change Change Income (loss) before income taxes 720 (782) 1,502 (192) (1,366) (950) (416) 44 Provision (benefit) for income taxes 15 (28) 43 (154) 44 36 8 22 Net income (loss) 705 (754) 1,459 (194) (1,410) (986) (424) 43 Effective tax rate 2.1 3.6 (3.2) (3.8) 
+ 37 
+
+Table of Contents 
+
+Our effective tax rate was 2.1 and (3.2) in Q3 2024 and YTD 2024, respectively, compared to 3.6 and (3.8) in Q3 2023 and YTD 2023, respectively. The variance from the U.S. federal statutory tax rate of 21 for Q3 2024 was primarily because of the 25 million income tax expense impact of GRAIL pre-acquisition net operating losses on GILTI, the utilization of U.S. foreign tax credits, and the Pillar Two global minimum top-up tax, respectively, and the 10 million income tax expense impact of capitalizing research and development expenses for tax purposes. The variance from the U.S. federal statutory tax rate of 21 for YTD 2024 was primarily because of the 308 million income tax expense impact from the impairment of goodwill, which is nondeductible for tax purposes, 141 million income tax expense impact of GRAIL pre-acquisition net operating losses on GILTI, the utilization of U.S. foreign tax credits, and the Pillar Two global minimum top-up tax, and the 53 million income tax expense impact of capitalizing research and development expenses for tax purposes. The income tax rate in Q3 2024 and YTD 2024 was favorably impacted by the reversal of the European Commission fine related to the GRAIL acquisition, which is excluded from taxable income, and by the mix of earnings in jurisdictions with lower statutory tax rates than the U.S. federal statutory tax rate, such as in Singapore. 
+ In Q3 2023 and YTD 2023, the variance from the U.S. federal statutory tax rate of 21 was primarily because of the 149 million income tax expense impact from the impairment of goodwill, which is nondeductible for tax purposes, the 20 million and 84 million income tax expense impact of capitalizing research and development expenses for tax purposes, respectively, and the 38 million and 63 million income tax expense impact of GRAIL pre-acquisition net operating losses on GILTI and the utilization of U.S. foreign tax credits, respectively. The income tax expense in Q3 2023 and YTD 2023 were also favorably impacted by the mix of earnings in jurisdictions with lower statutory tax rates than the U.S. federal statutory tax rate, such as in Singapore. 
+ Our future effective tax rate may vary from the U.S. federal statutory tax rate due to the mix of earnings in tax jurisdictions with different statutory tax rates and the other factors discussed in the risk factor We are subject to risks related to taxation in multiple jurisdictions described in Risk Factors within the Business Market Information section of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+ 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ As of September 29, 2024, we had 869 million in cash and cash equivalents, of which 464 million was held by our foreign subsidiaries. Cash and cash equivalents decreased by 179 million from December 31, 2023 due to factors described in the Cash Flow Summary below. In connection with the Spin-Off, we derecognized GRAIL s cash and cash equivalents of 968 million, which included the required Disposal Funding (see note 2. GRAIL Spin-Off ). Our primary source of liquidity, other than our holdings of cash, cash equivalents, and investments, has been cash flows from operations and, from time to time, issuances of debt. During YTD 2024, we received net proceeds from the issuance of our 2026 Term Notes of 497 million and repaid our delayed draw term loan of 750 million. Our ability to generate cash from operations, supplemented with the issuance of debt and/or liquidation of our short-term investments, provides us with the financial flexibility we need to meet operating, investing, and financing needs. As of September 29, 2024, we had 70 million in short-term investments, comprised of marketable equity securities. 
+ In September 2024, the European Commission withdrew its previously imposed fine of 432 million. Accordingly, we reversed the related accrual and recognized a net gain of 481 million in Q3 2024. The guarantees we provided in October 2023 to satisfy the obligation in lieu of cash payment while we appealed the European Commission s jurisdictional and fine decisions are no longer outstanding. Refer to note 8. Legal Proceedings for additional details. 
+ In June 2024, we entered into a 364-day Delayed Draw Credit Facility, which provided us with a senior unsecured term loan credit facility in an aggregate principal amount of up to 750 million. On June 20, 2024, we borrowed 750 million on the Delayed Draw Credit Facility. The delayed draw term loan incurred interest at a rate of 6.7 . On September 9, 2024, we repaid the full principal amount outstanding under the Delayed Draw Credit Facility, including accrued interest, of 761 million and terminated the Delayed Draw Credit Agreement. 
+ On September 9, 2024, we issued 500 million aggregate principal amount of 2026 Term Notes. We received net proceeds of 497 million, which were used to repay a portion of the outstanding debt under the Delayed Draw Credit Agreement. The 2026 Term Notes, which mature on September 9, 2026, accrue interest at a rate of 4.650 per annum, payable semi-annually on March 9 and September 9 of each year, beginning on March 9, 2025. We may redeem for cash all or any portion of the 2026 Term Notes, at our option, at any time prior to maturity. 
+ 38 
+
+Table of Contents 
+
+In December 2022, we issued 500 million aggregate principal amount of 2025 Term Notes and 500 million aggregate principal amount of 2027 Term Notes. The 2025 Term Notes, which mature on December 12, 2025, and the 2027 Term Notes, which mature on December 13, 2027, accrue interest at a rate of 5.800 and 5.750 per annum, respectively, payable semi-annually in June and December of each year. In March 2021, we issued 500 million aggregate principal amount of 2031 Term Notes, which mature on March 23, 2031, and accrue interest at a rate of 2.550 per annum, payable semi-annually in March and September of each year. We may redeem for cash all or any portion of the 2025, 2027, or 2031 Term Notes, at our option, at any time prior to maturity. 
+ In January 2023, we entered into the Revolving Credit Agreement, which provides us with a 750 million senior unsecured five year revolving credit facility, including a 40 million sublimit for swingline borrowings and a 50 million sublimit for letters of credit. The credit facility matures, and all amounts outstanding become due and payable in full, on January 4, 2028, subject to two one-year extensions at our option and consent of the extending lenders and certain other conditions. As of September 29, 2024, there were no outstanding borrowings. 
+ As of September 29, 2024, the fair value of our contingent consideration liability related to GRAIL was 82 million, of which 81 million was included in other long-term liabilities. The contingent value rights entitle the holders to receive future cash payments on a quarterly basis (Covered Revenue Payments) representing a pro rata portion of certain GRAIL-related revenues (Covered Revenues) each year through August 2033. This reflects a 2.5 payment right to the first 1 billion of revenue each year for 12 years. Revenue above 1 billion each year is subject to a 9 contingent payment right during this same period. In YTD 2024, we paid 836,000 in aggregate Covered Revenue Payments related to Covered Revenues for the period Q4 2023 through Q2 2024 of 89 million in aggregate. 
+ In August 2024, our Board of Directors authorized a new share repurchase program, which cancels and supersedes all prior and available repurchase authorizations, to repurchase up to 1.5 billion of our outstanding common stock. The repurchases may be completed through open market purchases, pursuant to Rule 10b5-1 or Rule 10b-18, or through an accelerated share repurchase program. Authorizations to repurchase up to 1.4 billion of our outstanding common stock remained available as of September 29, 2024. 
+ We had 3 million (plus recallable distributions of approximately 10 million), 49 million, and 47 million, respectively, remaining in our capital commitments to three venture capital investment funds as of September 29, 2024 that are callable through April 2026, July 2029, and December 2034, respectively. 
+ We anticipate that our current cash, cash equivalents, and short-term investments, together with cash provided by operating activities and available borrowing capacity under the Revolving Credit Facility, are sufficient to fund our near-term capital and operating needs for at least the next 12 months. Operating needs include the planned costs to operate our business, including amounts required to fund working capital and capital expenditures. Our primary short-term needs for capital, which are subject to change, may include: 
+ support of commercialization efforts related to our current and future products; 
+ acquisitions of equipment and other fixed assets for use in our current and future manufacturing and research and development facilities; 
+ the continued advancement of research and development efforts; 
+ potential strategic acquisitions and investments; 
+ repayment of debt obligations; 
+ repurchases of our outstanding common stock; and 
+ the evolving needs of our facilities, including costs of leasing and building out facilities. 
+ We expect that our revenue and results of operations, as well as the status of each of our new product development programs, will significantly impact our cash management decisions. Our future capital requirements and the adequacy of our available funds will depend on many factors, including: 
+ our ability to successfully commercialize and further develop our technologies and create innovative products in our markets; 
+ 39 
+
+Table of Contents 
+
+scientific progress in our research and development programs and the magnitude of those programs; 
+ competing technological and market developments; and 
+ the need to enter into collaborations with other companies or acquire other companies or technologies to enhance or complement our product and service offerings. 
+ 
+ Cash Flow Summary 
+ In millions YTD 2024 YTD 2023 Net cash provided by operating activities 473 254 Net cash used in investing activities (130) (146) Net cash used in financing activities (523) (1,183) Effect of exchange rate changes on cash and cash equivalents 1 (9) Net decrease in cash and cash equivalents (179) (1,084) 
+ Operating Activities 
+ Net cash provided by operating activities in YTD 2024 consisted of a net loss of 1,410 million, plus net adjustments of 2,368 million, less net changes in operating assets and liabilities of 485 million. The primary adjustments to net loss included goodwill and intangible impairment of 1,889 million, net loss on strategic investments of 342 million, share-based compensation expense of 291 million, depreciation and amortization expense of 283 million, and property and equipment and right-of-use asset impairment of 32 million, offset by change in fair value of contingent consideration liabilities of 304 million and deferred income taxes of 161 million. Cash flow impact from changes in net operating assets and liabilities were primarily driven by decreases in accrued liabilities and accounts payable. 
+ Investing Activities 
+ Net cash used in investing activities totaled 130 million in YTD 2024. We invested 99 million in capital expenditures, primarily associated with investments in facilities, paid 81 million for an acquisition, net of cash acquired, and other intangible assets, and purchased strategic investments, net of distributions, of 33 million. This was offset by the receipt of 83 million related to the settlement of our Helix contingent value right. 
+ Financing Activities 
+ Net cash used in financing activities totaled 523 million in YTD 2024. We deconsolidated cash and cash equivalents of 968 million, as a result of the GRAIL Spin-Off, repaid our delayed draw term loan of 750 million, and used 99 million to repurchase our common stock. This was offset by net borrowings on the Delayed Draw Credit Facility of 744 million, net proceeds received from the issuance of our 2026 Term Notes of 497 million, and proceeds received from the sale of shares under our employee stock purchase plan of 56 million. 
+ 
+ CRITICAL ACCOUNTING POLICIES AND ESTIMATES 
+ In preparing our condensed consolidated financial statements, we make estimates, assumptions and judgments that can have a significant impact on our net revenue, operating income (loss), and net income (loss), as well as on the value of certain assets and liabilities on our balance sheet. We believe that the estimates, assumptions and judgments involved in the accounting policies described in Critical Accounting Policies and Estimates within the Management s Discussion Analysis section of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 have the greatest potential impact on our financial statements, so we consider them to be our critical accounting policies and estimates. Though macroeconomic factors such as inflation, exchange rate fluctuations and concerns about an economic downturn present additional uncertainty, we continue to use the best information available to inform our critical accounting estimates. There were no material changes to our critical accounting policies and estimates during YTD 2024. 
+ 40 
+
+Table of Contents 
+
+RECENT ACCOUNTING PRONOUNCEMENTS 
+ For a summary of recent accounting pronouncements applicable to our condensed consolidated financial statements, see note 1. Organization and Significant Accounting Policies within the Condensed Consolidated Financial Statements section of this report, which is incorporated herein by reference. 
+ 
+ QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK 
+ There were no substantial changes to our market risks in YTD 2024, when compared to the disclosures in Quantitative and Qualitative Disclosures about Market Risk within the Management s Discussion Analysis section of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+ 
+ OTHER KEY INFORMATION CONTROLS AND PROCEDURES 
+ We design our internal controls to provide reasonable assurance that (1) our transactions are properly authorized; (2) our assets are safeguarded against unauthorized or improper use; and (3) our transactions are properly recorded and reported in conformity with U.S. generally accepted accounting principles. We also maintain internal controls and procedures to ensure that we comply with applicable laws and our established financial policies. 
+ During the third quarter of 2024, we continued to monitor and evaluate the design and operating effectiveness of key controls. There were no changes in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act) that materially affected or are reasonably likely to materially affect internal control over financial reporting. 
+ Based on management s evaluation (under the supervision and with the participation of our chief executive officer (CEO) and chief financial officer (CFO)), as of the end of the period covered by this report, our CEO and CFO concluded that our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (the Exchange Act)), are effective to provide reasonable assurance that information required to be disclosed by us in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in SEC rules and forms, and is accumulated and communicated to management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. 
+ 
+ LEGAL PROCEEDINGS 
+ See discussion of legal proceedings in note 8. Legal Proceedings in the Condensed Consolidated Financial Statements section of this report, which is incorporated herein by reference. 
+ 
+ RISK FACTORS 
+ Our business is subject to various risks, including those described in Risk Factors within the Business Market Information section of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, and the Other Key Information section of our Quarterly Report on Form 10-Q for the periods ended March 31, 2024 and June 30, 2024, which we strongly encourage you to review. In addition to the risk factors disclosed in our Form 10-K , the issues raised in the following risk factor could adversely affect our operating results and stock price: 
+ On June 24, 2024, we completed the separation of GRAIL into a separate, independent publicly traded company. As of September 6, 2024, all previously disclosed regulatory proceedings in the United States and European Union related to our acquisition of GRAIL (the Acquisition) have come to an end. Litigation, regulation, and other proceedings related to or resulting from the Acquisition have resulted in operational restrictions and increased costs and could result in similar additional future consequences or further result in loss of revenues. 
+ 41 
+
+Table of Contents 
+
+As previously disclosed, the Acquisition was subject to various legal challenges, including by the FTC and European Commission. As a result, we have been a party to a number of regulatory and administrative proceedings regarding the Acquisition. 
+ On June 24, 2024, we completed the separation (the Spin-Off) of GRAIL into a separate, independent publicly traded company as described in note 2. GRAIL Spin-Off within the Consolidated Financial Statements. We incurred significant costs to complete the Spin-Off, including significant legal, financial advisory, regulatory and other professional services fees and additional expenses, and assumed certain liabilities in connection therewith. The Spin-Off also may result in loss of revenue and other adverse effects on our business, financial condition and results of operations. In addition, we have experienced and might continue to experience negative impacts on our stock price. We cannot predict what other adverse consequences to, among other things, our reputation, our relationships with governmental or regulatory authorities, or our ability to successfully complete future transactions, our ability to attract, retain and motivate customers, key personnel and those with whom we conduct business may result. 
+ Furthermore, we have and may continue to become subject to stockholder inspection demands under Delaware law, investigations initiated by regulators and law firms, and derivative or other similar litigation that can be expensive, divert management attention and human and financial capital to less productive uses and result in potential reputational damage. The GRAIL acquisition and subsequent litigation resulted in (i) the announcement of an investigation by the SEC and others by law firms of possible securities law violations; (ii) stockholder inspection demands seeking to investigate possible breaches of fiduciary duties, corporate wrongdoing or a lack of independence of the members of the Board, including a complaint filed in the Delaware Court of Chancery seeking to inspect books and records captioned Pavers and Road Builders Benefit Funds v. Illumina, Inc. ; (iii) the filing of four securities class actions in the United States District Court for the Southern District of California: Kangas v. Illumina, Inc. et al ., Roy v. Illumina, Inc. et al. , Louisiana Sheriffs Pension Relief Fund v. Illumina, Inc. et al. and Warner v. deSouza et al .; (iv) the filing of a securities class action in the United States District Court for the District of Delaware captioned Wang v. deSouza et al. ; (v) the filing of two securities class actions in the Superior Court of the State of California, County of San Mateo: Loren Scott Mar v. Illumina, et al. and Scott Zerzanek v. Illumina, Inc. et al. ; (vi) the filing of a stockholder derivative and class action complaint captioned Icahn Partners LP, et al. v. deSouza, et al. ; (vii) the filing of a stockholder derivative complaint captioned City of Omaha Police and Firefighters Retirement System v. deSouza, et al. ; (viii) the filing of a stockholder derivative complaint captioned City of Roseville General Employees Retirement System, et al. v. deSouza, et al .; and (ix) the filing of a stockholder derivative complaint captioned Thomas P. DiNapoli v. John Thompson et al . See note 8. Legal Proceedings within the Consolidated Financial Statements for further details. In the event that any of the matters described above result in one or more adverse judgments or settlements, we may experience an adverse impact on our financial condition, results of operations or stock price. 
+ 
+ SHARE REPURCHASES AND SALES 
+ Purchases of Equity Securities by the Issuer 
+ In August 2024, our Board of Directors authorized a new share repurchase program, which cancels and supersedes all prior and available repurchase authorizations, to repurchase up to 1.5 billion of our outstanding common stock. The repurchases may be completed through open market purchases, pursuant to Rule 10b5-1 or Rule 10b-18, or through an accelerated share repurchase program. Shares repurchased in open market transactions pursuant to this program during Q3 2024 were as follows: 
+ 
+ In thousands, except price per share Total Number of Shares Purchased 
+ 
+ Average Price 
+ Paid per Share (1) 
+ Total Number of 
+ Shares Purchased as Part of Publicly 
+ Announced Program 
+ Approximate Dollar 
+ Value of Shares 
+ that May Yet Be 
+ Purchased Under 
+ the Program 
+ July 29, 2024 - August 25, 2024 106 129.05 106 1,486,318 August 26, 2024 - September 29, 2024 664 127.50 664 1,401,684 Total 770 127.71 770 1,401,684 _____________ 
+ (1) Average price paid per share excludes the excise tax on share repurchases imposed as part of the Inflation Reduction Act of 2022. 
+ 42 
+
+Table of Contents 
+
+Unregistered Sales of Equity Securities 
+ None during the quarterly period ended September 29, 2024. 
+ 
+ ADOPTIONS, MODIFICATIONS OR TERMINATIONS OF TRADING PLANS 
+ During the quarterly period ended September 29, 2024, none of the Company s directors or officers or any Rule 10b5-1 trading arrangement or any non-Rule 10b5-1 trading arrangement, in each case as such term is defined in Item 408 of Regulation S-K. 
+ 43 
+
+Table of Contents 
+
+EXHIBITS Incorporated by Reference Exhibit Number Exhibit Description Form File Number Exhibit Filing Date Filed Herewith 3.1 Amended and Restated Bylaws of Illumina, Inc., effective as of August 5, 2024 
+ 10-Q 
+ 001-35406 
+ 3.1 
+ August 7, 2024 
+ 10.1 Underwriting Agreement, dated September 4, 2024, between the Company and J.P. Morgan Securities LLC and Goldman Sachs Co. LLC, as representatives of the several underwriters named therein 
+ 8-K 001-35406 1.1 
+ September 9, 2024 
+ 10.2 Officer s Certificate, dated September 9, 2024, setting forth the terms and form of the Notes 
+ 8-K 001-35406 4.2 
+ September 9, 2024 
+ 10.3+ 
+ Separation Agreement and General Release of All Claims by and between Joydeep Goswami and Illumina, Inc. dated as of July 2, 2024 
+ 10-Q 
+ 001-35406 
+ 10.7 
+ August 7, 2024 
+ 31.1 Certification of Jacob Thaysen pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ X 31.2 Certification of Ankur Dhingra pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ X 32.1 Certification of Jacob Thaysen pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ X 32.2 Certification of Ankur Dhingra pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ X 101.INS XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document X 101.SCH XBRL Taxonomy Extension Schema X 101.CAL XBRL Taxonomy Extension Calculation Linkbase X 101.LAB XBRL Taxonomy Extension Label Linkbase X 101.PRE XBRL Taxonomy Extension Presentation Linkbase X 101.DEF XBRL Taxonomy Extension Definition Linkbase X 104 Cover Page Interactive Data File - formatted in Inline XBRL and included as Exhibit 101 X 
+ __________________________________ 
+ + Management contract or corporate plan or arrangement 
+ 44 
+
+Table of Contents 
+
+Portions of this exhibit omitted pursuant to Item 601(b)(2) and Item 601(b)(10) of Regulation S-K, as applicable. The Company agrees to furnish a supplemental and unredacted copy of any omitted schedule to the Securities and Exchange Commission upon its request. 
+ 45 
+
+Table of Contents 
+
+FORM 10-Q CROSS-REFERENCE INDEX 
+ Page PART I. FINANCIAL INFORMATION Item 1. Financial Statements 
+ 5 
+ Condensed Consolidated Balance Sheets 
+ 5 
+ Condensed Consolidated Statements of Operations 
+ 6 
+ Condensed Consolidated Statements of Comprehensive Income Loss 
+ 7 
+ Condensed Consolidated Statement of Stockholders Equity 
+ 8 
+ Condensed Consolidated Statements of Cash Flows 
+ 10 
+ Notes to Condensed Consolidated Financial Statements 
+ 11 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 32 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 41 
+ Item 4. Controls and Procedures 
+ 41 
+ PART II. OTHER INFORMATION Item 1. Legal Proceedings 
+ 41 
+ Item 1A. Risk Factors 
+ 41 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 42 
+ Item 3. Defaults Upon Senior Securities None Item 4. Mine Safety Disclosures Not Applicable Item 5. Other Information 
+ 42 
+ Item 6. Exhibits 
+ 44 
+ Signatures 
+ 47 
+ 
+ 46 
+
+Table of Contents 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ 
+ ILLUMINA, INC. (registrant) Date: November 5, 2024 By: /s/ ANKUR DHINGRA 
+ Name: Ankur Dhingra Title: Chief Financial Officer 
+ 47 
+
+<EX-31.1>
+ 2
+ fy24q3ex311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION OF JACOB THAYSEN PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Jacob Thaysen, certify that 
+ 
+ 1 I have reviewed this Quarterly Report on Form 10-Q of Illumina, Inc. 2 Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 3 Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 4 The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 5 The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Dated November 5, 2024 
+ By s JACOB THAYSEN Name Jacob Thaysen Title Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ fy24q3ex312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION OF ANKUR DHINGRA PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Ankur Dhingra, certify that 
+ 
+ 1 I have reviewed this Quarterly Report on Form 10-Q of Illumina, Inc. 2 Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 3 Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 4 The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have a) designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared b) designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles c) evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and d) disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 5 The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) a) all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and b) any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Dated November 5, 2024 
+ By s ANKUR DHINGRA Name Ankur Dhingra Title Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ fy24q3ex321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION OF JACOB THAYSEN PURSUANT TO 18 U.S.C. SECTION 
+ 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES- 
+ OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report of Illumina, Inc. (the Company on Form 10-Q for the quarter ended September 29, 2024, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Jacob Thaysen, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Dated November 5, 2024 
+ By s JACOB THAYSEN Name Jacob Thaysen Title Chief Executive Officer 
+ 
+ This certification accompanying the Report is not deemed filed with the Securities and Exchange Commission for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of such Section, and is not to be incorporated by reference into any filing of the Company under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before, on or after the date of the Report), irrespective of any general incorporation language contained in such filing. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ fy24q3ex322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION OF ANKUR DHINGRA PURSUANT TO 18 U.S.C. 
+ SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE 
+ SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report of Illumina, Inc. (the Company on Form 10-Q for the quarter ended September 29, 2024, as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Ankur Dhingra, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Dated November 5, 2024 
+ By s ANKUR DHINGRA Name Ankur Dhingra Title Chief Financial Officer 
+ 
+ This certification accompanying the Report is not deemed filed with the Securities and Exchange Commission for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of such Section, and is not to be incorporated by reference into any filing of the Company under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before, on or after the date of the Report), irrespective of any general incorporation language contained in such filing. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ ilmn-20240929.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ ilmn-20240929_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ ilmn-20240929_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ ilmn-20240929_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ ilmn-20240929_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

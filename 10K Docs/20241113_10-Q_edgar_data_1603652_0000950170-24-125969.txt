@@ -1,0 +1,1787 @@
+<Header>
+<FileStats>
+    <FileName>20241113_10-Q_edgar_data_1603652_0000950170-24-125969.txt</FileName>
+    <GrossFileSize>6817884</GrossFileSize>
+    <NetFileSize>108313</NetFileSize>
+    <NonText_DocumentType_Chars>1240956</NonText_DocumentType_Chars>
+    <HTML_Chars>2305099</HTML_Chars>
+    <XBRL_Chars>1274033</XBRL_Chars>
+    <XML_Chars>1698987</XML_Chars>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950170-24-125969.hdr.sgml : 20241113
+<ACCEPTANCE-DATETIME>20241113083020
+ACCESSION NUMBER:		0000950170-24-125969
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		65
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241113
+DATE AS OF CHANGE:		20241113
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Urgent.ly Inc.
+		CENTRAL INDEX KEY:			0001603652
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				462848640
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41841
+		FILM NUMBER:		241451323
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8609 WESTWOOD CENTER DRIVE, SUITE 810
+		CITY:			VIENNA
+		STATE:			VA
+		ZIP:			22182
+		BUSINESS PHONE:		571-350-3600
+
+	MAIL ADDRESS:	
+		STREET 1:		8609 WESTWOOD CENTER DRIVE, SUITE 810
+		CITY:			VIENNA
+		STATE:			VA
+		ZIP:			22182
+
+</SEC-Header>
+</Header>
+
+ 0000950170-24-125969.txt : 20241113
+
+10-Q
+ 1
+ uly-20240930.htm
+ 10-Q
+
+10-Q 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION WASHINGTON, DC 20549 FORM (Mark One) 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the quarterly period ended OR 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the transition period from ________________ to ________________ Commission File Number: (Exact Name of Registrant as Specified in its Charter) 
+
+(State or other jurisdiction of incorporation or organization) 
+ (I.R.S. Employer Identification No.) 
+
+, , 
+
+(Address of principal executive offices) 
+ (Zip Code) 
+ 
+ Registrant s telephone number, including area code: Securities registered pursuant to Section 12(b) of the Act: 
+
+Title of each class 
+ 
+ Trading Symbol(s) 
+ 
+ Name of each exchange on which registered 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Large accelerated filer 
+
+Accelerated filer 
+
+Smaller reporting company 
+
+Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No As of November 8, 2024, the registrant had shares of common stock, 0.001 par value per share, outstanding. 
+
+Table of Contents 
+
+Page 
+
+PART I. 
+ FINANCIAL INFORMATION 
+
+Item 1. 
+ Unaudited Condensed Consolidated Balance Sheets 
+ 1 
+
+Unaudited Condensed Consolidated Statements of Operations and Comprehensive Loss 
+ 2 
+
+Unaudited Condensed Consolidated Statements of Redeemable Convertible Preferred Stock and Stockholders Equity (Deficit) 
+ 3 
+
+Unaudited Condensed Consolidated Statements of Cash Flows 
+ 4 
+
+Notes to Unaudited Condensed Consolidated Financial Statements 
+ 5 
+
+Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 15 
+
+Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 26 
+
+Item 4. 
+ Controls and Procedures 
+ 26 
+
+PART II. 
+ OTHER INFORMATION 
+ 28 
+
+Item 1. 
+ Legal Proceedings 
+ 28 
+
+Item 1A. 
+ Risk Factors 
+ 28 
+
+Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 28 
+
+Item 3. 
+ Defaults Upon Senior Securities 
+ 29 
+
+Item 4. 
+ Mine Safety Disclosures 
+ 29 
+
+Item 5. 
+ Other Information 
+ 29 
+
+Item 6. 
+ Exhibits 
+ 29 
+
+Signatures 
+ 30 
+
+i 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS This Quarterly Report on Form 10-Q contains or may contain forward-looking statements within the meaning of the Securities Act of 1933, as amended (the Securities Act ), and Section 21E of the Exchange Act of 1934, as amended (the Exchange Act ), which statements involve substantial risks and uncertainties. Forward-looking statements generally relate to future events or our future financial or operating performance. Forward-looking terms such as may, will, could, should, would, plan, potential, intend, anticipate, project, predict, target, believe, continue, estimate or expect or the negative of these words or other words, terms and phrases of similar nature are often intended to identify forward-looking statements, although not all forward-looking statements contain these identifying words. Forward-looking statements contained in this Quarterly Report on Form 10-Q include statements related to: our ability to acquire and retain new Customer Partners (as defined below), and to do so in a cost-effective manner; 
+
+ our competitive position in the mobility assistance industry and our ability to maintain and grow our market position against current and future competitors; 
+
+ technological advances in the mobility assistance industry and the impact of artificial intelligence AI 
+
+ our history of losses and expectations regarding operating losses for the foreseeable future; 
+
+ our need for additional capital, and the availability of such additional capital on acceptable terms or at all; 
+
+ our substantial dependence on a limited number of Customer Partners; 
+
+ our failure or the failure of our third-party service providers to protect our website, networks and systems against cybersecurity incidents, or otherwise to protect our confidential information or that of the vehicle owners and operators who are the end users of our platform (our Consumers ), Customer Partners and the mobile repair, towing and maintenance service professionals participating on our platform (our Service Providers 
+
+ our reliance on Amazon Web Services to deliver our platform to Consumers; 
+
+ Customer Partners willingness to renew their service contracts with us; 
+
+ Customer Partners willingness to expand their use of our platform beyond their current roadside solutions; 
+
+ optimizing and operating our network of Service Providers; 
+
+ our ability to continue as a going concern; 
+
+ our ability to develop and maintain an effective system of internal controls and procedures and accurately report our financial results in a timely manner; 
+
+ the sustainability of our recent growth rates and future growth; 
+
+ our ability to address the service requirements of current and future Consumers; 
+
+ our expansion into new roadside assistance solutions, Customer Partners and Service Providers, technologies and geographic regions; 
+
+ expectations regarding our future prospects in light of our limited operating history and evolving business model; 
+
+ the length and variability of our sales cycle with regard to Customer Partners; 
+
+ our expectations regarding our pricing model for our platform s offerings; 
+
+ our ability or the ability of Service Providers to meet labor needs; 
+
+ adverse economic conditions or reduced automotive usage; 
+
+ our ability to hire and retain highly skilled and key personnel; 
+
+ our ability to accurately forecast demand for mobility assistance services and appropriately plan our expenses in the future; 
+
+ expectations regarding the impact of weather events, natural disasters and other events beyond our control, including Hamas attack against Israel and the ensuing war, on our business; 
+
+ our ability to comply with the terms of our existing credit facilities and any new debt obligations; 
+
+ii 
+
+our history of defaulting on certain financial, reporting and other covenants under our Structural Loan Agreement and the Highbridge Loan Agreement (together, the Loan Agreements and our ability to obtain compliance waivers with respect to such covenant defaults in the future; 
+
+ our reliance on unpatented proprietary technology, trade secrets, processes and know-how; 
+
+ our ability to protect our intellectual property rights; 
+
+ our ability to comply with laws and regulations relating to privacy, data protection, cybersecurity, advertising, and consumer protection; 
+
+ our ability to integrate successfully and realize the anticipated benefits of the Merger (as defined below); 
+
+ our expectations regarding the time during which we will be an emerging growth company under the Jumpstart Our Business Startups Act of 2012 (the JOBS Act 
+
+ our ability to maintain the listing of our common stock on the Nasdaq Stock Market LLC Nasdaq and 
+
+ our becoming a reporting company by means other than a traditional underwritten initial public offering, which could cause our stockholders to face additional risks and uncertainties. 
+
+ We caution you that the foregoing list may not contain all of the forward-looking statements made in this Quarterly Report on Form 10-Q. You should not rely upon forward-looking statements as predictions of future events. We have based the forward-looking statements contained in this Quarterly Report on Form 10-Q primarily on our current expectations and projections about future events and trends that we believe may affect our business, financial condition, results of operations, and prospects. The outcomes of the events described in these forward-looking statements are subject to risks, uncertainties, and other factors, including those described in the section titled Risk Factors in this Quarterly Report on Form 10-Q, in our Annual Report on Form 10-K filed with the Securities and Exchange Commission (the SEC on March 29, 2024 (the Annual Report and in other filings we may make from time to time with the SEC. Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Quarterly Report on Form 10-Q. We cannot assure you that the results, events, and circumstances reflected in the forward-looking statements will be achieved or occur, and actual results, events, or circumstances could differ materially from those described in the forward-looking statements. The forward-looking statements made in this Quarterly Report on Form 10-Q relate only to events as of the date on which the statements are made. We undertake no obligation to update any forward-looking statements to reflect events or circumstances after the date of this Quarterly Report on Form 10-Q or to reflect new information or the occurrence of unanticipated events, except as required by law. We may not actually achieve the plans, intentions, or expectations disclosed in our forward-looking statements, and you should not place undue reliance on our forward-looking statements. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures, or investments we may make. In addition, statements that we believe and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this Quarterly Report on Form 10-Q, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and investors are cautioned not to unduly rely upon these statements. 
+
+ iii 
+
+PART I FIN ANCIAL INFORMATION Ite m 1. Financial Statements. URGENT.LY INC. Con densed Consolidated Balance Sheets (in thousands, except share and par value data) (unaudited) 
+
+September 30, 2024 
+
+December 31, 2023 
+
+Assets 
+
+Current assets: 
+
+Cash and cash equivalents 
+
+Restricted cash 
+
+Short-term deposits 
+
+Marketable securities 
+
+Accounts receivable, net of allowance for expected losses of and in 2024 and 2023, respectively 
+
+Prepaid expenses and other current assets 
+
+Total current assets 
+
+Right-of-use assets 
+
+Property, equipment and software, net of accumulated depreciation of and in 2024 and 2023, respectively 
+
+Capitalized software costs, net of accumulated amortization of and in 2024 and 2023, respectively 
+
+Intangible assets, net 
+
+Other non-current assets 
+
+Total assets 
+
+Liabilities and Stockholders Equity (Deficit) 
+
+Current liabilities: 
+
+Accounts payable 
+
+Accrued expenses 
+
+Deferred revenue, current 
+
+Current lease liabilities 
+
+Current portion of long-term debt, net 
+
+Total current liabilities 
+
+Long-term lease liabilities 
+
+Long-term debt, net 
+
+Other long-term liabilities 
+
+Total liabilities 
+
+Stockholders equity (deficit): 
+
+Common stock, par value ; shares authorized, and issued and outstanding in 2024 and 2023, respectively 
+
+Additional paid-in capital 
+
+Accumulated deficit 
+
+() 
+
+() 
+
+Accumulated other comprehensive loss 
+
+() 
+
+Total stockholders equity (deficit) 
+
+() 
+
+Total liabilities and stockholders equity (deficit) 
+
+See accompanying notes to the unaudited condensed consolidated financial statements. 
+
+ 1 
+
+URGENT.LY INC. Con densed Consolidated Statements of Operations and Comprehensive Loss (in thousands, except share and per share data) (unaudited) 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+Revenue 
+
+Cost of revenue (excluding depreciation and amortization) 
+
+Gross profit 
+
+Operating expenses: 
+
+Research and development 
+
+Sales and marketing 
+
+Operations and support 
+
+General and administrative 
+
+Depreciation and amortization 
+
+Total operating expenses 
+
+Operating loss 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Other income (expense), net: 
+
+Interest expense 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Interest income 
+
+Change in fair value of derivative liability 
+
+() 
+
+Change in fair value of warrant liability 
+
+() 
+
+Change in fair value of contingent purchase consideration 
+
+Warrant expense 
+
+() 
+
+Gain (loss) on debt extinguishment 
+
+() 
+
+Loss on divestiture 
+
+() 
+
+() 
+
+Other income (expense) 
+
+() 
+
+() 
+
+Total other expense, net 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Loss before income taxes 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Provision for income taxes 
+
+Net loss attributable to common stockholders 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Other comprehensive income (loss): 
+
+Foreign currency translation adjustments 
+
+Unrealized gains on marketable securities 
+
+() 
+
+() 
+
+Other comprehensive income 
+
+Comprehensive loss 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Loss per share attributable to common stockholders: 
+
+Basic and diluted 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Weighted average shares outstanding: 
+
+Basic and diluted 
+
+See accompanying notes to the unaudited condensed consolidated financial statements. 
+
+ 2 
+
+URGENT.LY INC. Cond ensed Consolidated Statements of Redeemable Convertible Preferred Stock and Stockholders Equity (Deficit) (in thousands, except share data) (unaudited) 
+
+Accumulated 
+
+Redeemable Convertible 
+
+Additional 
+
+Other 
+ 
+ Total 
+
+Preferred Stock Series C 
+ 
+ Common Stock 
+ 
+ Paid-In 
+ 
+ Accumulated 
+ 
+ Comprehensive 
+ 
+ Stockholders 
+
+Shares 
+ 
+ Amount 
+ 
+ Shares 
+ 
+ Amount 
+ 
+ Capital 
+ 
+ Deficit 
+ 
+ Loss 
+ 
+ Equity (Deficit) 
+
+Balance, December 31, 2023 
+
+() 
+ 
+ () 
+
+Vesting of stock-based awards, net of shares withheld for taxes 
+
+() 
+
+() 
+
+Stock-based compensation expense 
+
+Comprehensive income (loss) 
+
+() 
+
+() 
+
+Balance, March 31, 2024 
+
+() 
+ 
+ () 
+ 
+ () 
+
+Vesting of stock-based awards 
+
+Stock-based compensation expense 
+
+Comprehensive loss 
+
+() 
+ 
+ () 
+ 
+ () 
+
+Balance, June 30, 2024 
+
+() 
+ 
+ () 
+ 
+ () 
+
+Vesting of stock-based awards 
+
+Stock-based compensation expense 
+
+Comprehensive income (loss) 
+
+() 
+
+() 
+
+Balance, September 30, 2024 
+
+() 
+
+() 
+
+Balance, December 31, 2022 
+
+() 
+
+() 
+
+Stock-based compensation expense 
+
+Comprehensive loss 
+
+() 
+
+() 
+
+Balance, March 31, 2023 
+
+() 
+
+() 
+
+Stock-based compensation expense 
+
+Comprehensive loss 
+
+() 
+
+() 
+
+Balance, June 30, 2023 
+
+() 
+
+() 
+
+Issuance of common stock 
+
+Stock-based compensation expense 
+
+Comprehensive loss 
+
+() 
+
+() 
+
+Balance, September 30, 2023 
+
+() 
+
+() 
+ 
+ See accompanying notes to the unaudited condensed consolidated financial statements. 
+
+ 3 
+
+URGENT.LY INC. Conde nsed Consolidated Statements of Cash Flows (in thousands) (unaudited) 
+
+Nine Months Ended September 30, 
+
+2024 
+
+2023 
+
+Cash flows from operating activities: 
+
+Net loss 
+
+() 
+
+() 
+
+Adjustments to reconcile net loss to net cash used in operating activities: 
+
+Depreciation and amortization 
+
+Amortization of right-of-use assets 
+
+Amortization of costs to obtain contracts 
+
+Amortization of costs to fulfill contracts 
+
+Amortization of deferred financing fees 
+
+Stock-based compensation 
+
+Bad debt expense 
+
+Foreign currency gain 
+
+() 
+
+Interest receivable on investments 
+
+() 
+
+Loss (gain) on debt extinguishment 
+
+() 
+
+Loss on divestiture 
+
+Loss on disposal of property, equipment and software 
+
+Change in fair value of derivative, warrant, and contingent consideration liabilities 
+
+() 
+
+() 
+
+Warrant expense 
+
+Noncash interest expense 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 
+
+Prepaid expenses and other current assets 
+
+Other assets 
+
+() 
+
+() 
+
+Accounts payable 
+
+() 
+
+Accrued expenses 
+
+() 
+
+Deferred revenue 
+
+() 
+
+() 
+
+Lease liabilities 
+
+() 
+
+() 
+
+Long-term liabilities 
+
+() 
+
+Net cash used in operating activities 
+
+() 
+
+() 
+
+Cash flows from investing activities: 
+
+Purchases of property, equipment and software 
+
+() 
+
+() 
+
+Investment in capitalized software 
+
+() 
+
+Proceeds from short-term deposits and sale of marketable securities 
+
+Divested cash 
+
+() 
+
+Net cash provided by (used in) investing activities 
+
+() 
+
+Cash flows from financing activities: 
+
+Proceeds from issuance of long-term debt 
+
+Repayment of term loan 
+
+() 
+
+Payments of deferred financing fees 
+
+() 
+
+() 
+
+Proceeds from issuance of convertible notes payable 
+
+Net cash provided by (used in) financing activities 
+
+() 
+
+Effect of exchange rate changes on cash, cash equivalents and restricted cash 
+
+Net increase (decrease) in cash, cash equivalents and restricted cash 
+
+() 
+
+Cash, cash equivalents and restricted cash, beginning of period 
+
+Cash, cash equivalents and restricted cash, end of period 
+
+Supplemental disclosure of cash flow information: 
+
+Cash paid for interest 
+
+Cash paid for income taxes 
+
+Supplemental noncash investing and financing activities: 
+
+Derivative liability resulting from term loan amendment 
+
+Derivative liability resulting from issuance of convertible notes 
+
+See accompanying notes to the unaudited condensed consolidated financial statements. 
+
+ 4 
+
+URGENT.LY INC. Notes to Unaudited Condensed Consolidated Financial Statements (in thousands, except share and per share data) of its common stock Common Stock and Series C preferred stock. The Company has adjusted all periods presented for the effects of the stock split. Liquidity Risk and Going Concern The accompanying unaudited condensed consolidated financial statements have been prepared assuming the Company will continue to operate as a going concern, which contemplates the realization of assets and liabilities and commitments in the normal course of business. The Company has a history of recurring operating losses and has required debt and equity financing to finance its operations. The Company reported an accumulated deficit of as of September 30, 2024 and an operating loss of for the nine months ended September 30, 2024. Liquidity risk is the risk that suitable sources of funding for the Company s business activities may not be available. The Company has a planning and budgeting process to monitor operating cash requirements including amounts projected for capital expenditures which are adjusted as input variables change. These variables include, but are not limited to, operating cash flows and the availability of other sources of debt and capital. As these variables change, the Company may be required to seek funding through additional equity issuances and/or additional debt financings. The Company completed its acquisition of Otonomo Technologies Ltd. Otonomo on October 19, 2023. The transaction consisted of the acquisition of the Otonomo business, employees, revenue contracts, technology and net assets, including approximately of cash, cash equivalents, and short-term investments, net of estimated transaction costs. The additional cash is expected to fund strategic growth initiatives and daily operations for the combined Company, and to pay down debt as required. Although a portion of this cash is available to the Company, as the Company continues to assess its capital asset plans related to the current outstanding debt, the Company believes that its cash and cash equivalents of a t September 30, 2024 may not be sufficient to fund operations beyond twelve months from the date of issuance of these condensed consolidated financial statements. This has led management to conclude that substantial doubt about the Company s ability to continue as a going concern exists. In the event the Company is unable to successfully raise additional equity or debt or refinance its existing debt during the next twelve months from the date of issuance of the condensed consolidated financial statements, the Company will not have sufficient cash flows and liquidity to finance its business operations as currently contemplated. The condensed consolidated financial statements do not include any adjustments of the amounts and classification of assets and liabilities that might be necessary should the Company be unable to continue as a going concern. Such adjustments could be material. Restructuring In the first quarter of 2024, the Company undertook actions to eliminate redundant employees primarily in Israel and the United States in an effort to reduce operating expenses, resulting in a decrease of employees, or of the Company s total employees as of December 31, 2023. During the second quarter of 2024, the Company continued actions to eliminate redundant employees resulting in a decrease of an additional employees, or approximately of the Company s total employees as of March 31, 2024. During the third quarter of 2024, the Company continued similar actions resulting in a decrease of an additional employees, or approximately of the Company s total employees as of June 30, 2024. These actions resulted in restructuring charges totaling and f or the three and nine months ended September 30, 2024, respectively. 
+
+5 
+
+and of revenue was earned from two and three customers, respectively. During the nine months ended September 30, 2024 and 2023, and of revenue was earned from two and three customers, respectively. At September 30, 2024 and December 31, 2023 , and of accounts receivable was due from three customers, respectively. 
+ . Capitalization of such costs ceases when the project is substantially complete and ready for its intended purpose. Costs for maintenance and training are expensed as incurred. 
+
+6 
+
+different from the present value of the remaining cash flows under the terms of the original instrument. If the original and new debt instruments are substantially different, the original debt is derecognized and the new debt is initially recorded at fair value, with the difference recognized as an extinguishment gain or loss. During the nine months ended September 30, 2024, the Company amended its term loans (see Note 8). 
+
+and a net loss of to the Company for the period from January 1, 2024 through September 30, 2024, respectively. Unaudited pro forma results of operations for the three and nine months ended September 30, 2024 and 2023 are included below as if the acquisition of Otonomo occurred on . 
+
+Net loss 
+
+() 
+
+() 
+
+() 
+
+() 
+
+7 
+
+of non-recurring acquisition-related costs are reflected in pro forma net loss for the nine months ended September 30, 2023 in the table above. The Floow Divestiture On September 19, 2024, the Company completed the divestiture of Otonomo s wholly owned subsidiary, The Floow Limited The Floow ), as part of its strategic effort to divest non-core assets and dedicate its resources to advancing its core business (the Divestiture ). As a result of the Divestiture, the Company returned equity ownership to The Floow s management while retaining ownership in the form of preference shares of The Floow. The preference shares were valued at by an independent valuation specialist utilizing principally the discounted cash flow method (an income approach) and considered the guideline company method using market multiples (a market approach). The Company recorded the value of the preference shares as an investment under the equity method of accounting, and the investment in The Floow is presented within Other non-current assets in the condensed consolidated balance sheets. The Company will have limited continuing involvement in The Floow as it only retains certain, customary protective rights regarding its investment. The Floow s management is not considered a related party of the Company before or after the Divestiture. The Company recognized the difference between the fair value of the preference shares and the carrying amounts of the deconsolidated net assets of The Floow on the date of the Divestiture as a loss on the transaction of which is presented in Other income (expense), net in the condensed consolidated statements of operations. The Divestiture did not meet the criteria for presentation as a discontinued operation. The Company determined that it has a variable interest in The Floow due to its ownership of the preference shares. The Floow was further determined to be a variable interest entity as it may require additional subordinated financial support based on historical performance and because the initial equity at risk may not be sufficient to finance its planned future operations. The Company concluded that it does not have the power to direct the activities that most significantly impact the economic performance of The Floow, and therefore, it does not qualify as the primary beneficiary. Accordingly, after the Divestiture, The Floow is not consolidated. The Company s risk of loss with respect to its preference shares in The Floow is limited to the carrying value of its investment balance, which was as of September 30, 2024. The Company paid to use a perpetual royalty-free license for The Floow s technology, which is presented within Property, equipment and software, net in the condensed consolidated balance sheets. The fair value of the license on September 19, 2024 was determined to be equal to its purchase price using the replacement cost method. The license will be amortized over a useful life. 
+
+8 
+
+Full-service outsourcing claim cost pass-through 
+
+Membership 
+
+Software licensing arrangements 
+
+Professional services 
+
+Contract Assets The Company capitalizes costs to obtain contracts with Customer Partners, primarily employee sales commissions. Sales commissions relating to revenues recognized over a period longer than one year are considered incremental and recoverable costs of obtaining a contract and are deferred as other non-current assets and are amortized on a straight-line basis over the initial contract term. Commission expenses are included in sales and marketing expense in the condensed consolidated statements of operations and comprehensive loss. Capitalized contract costs associated with the costs to fulfill certain contracts are deferred as other non-current assets and are amortized, on a straight-line basis, over the expected period of benefit for contracts with an amortization period that exceeds one year. Amortization cost is included in cost of revenue in the condensed consolidated statements of operations and comprehensive loss. 
+
+Additional contract costs to fulfill 
+
+Amortization of contract costs to obtain 
+
+() 
+
+() 
+
+Amortization of contract costs to fulfill 
+
+() 
+
+() 
+
+Contract assets as of September 30 
+
+Contingent purchase consideration (1) 
+
+() 
+
+() 
+
+() 
+
+9 
+
+Corporate bonds 
+
+Commercial paper 
+
+U.S. government agency securities 
+
+Contingent purchase consideration 
+
+() 
+
+() 
+
+() 
+
+(1) Contingent purchase consideration represents a liability recorded at fair value in connection with the Merger, and thus represents a Level 3 measurement within the fair value hierarchy. The fair value of the contingent purchase consideration was estimated based on the fair value of the Company s shares issuable on a contingent basis. Contingent purchase consideration is included in Accrued expenses in the condensed consolidated balance sheets. 
+
+Change in fair value 
+
+() 
+
+Fair value as of September 30, 2024 
+
+The carrying values for cash, accounts receivable, accounts payable and long-term debt approximated fair value as of September 30, 2024 and December 31, 2023. 
+ - 
+
+() 
+
+() 
+
+Domain name 
+ 
+ Indefinite 
+
+() 
+
+() 
+
+Amortization expense was and for the three months ended September 30, 2024 and 2023, respectively, and and for the nine months ended September 30, 2024 and 2023, respectively. The Company wrote off of net intangible assets from the condensed consolidated balance sheet during the third quarter of 2024 as a result of the Divestiture and is included in the calculation of loss on divestiture in the condensed consolidated statement of operations and comprehensive loss. 
+
+2025 
+
+2026 
+
+2027 
+
+2028 
+
+10 
+
+Accrued compensation 
+
+Accrued interest 
+
+Accrued contract labor 
+
+Contingent purchase consideration 
+
+Accrued lender fees 
+
+Accrued VAT and income taxes 
+
+Other accrued liabilities 
+
+Accrued lender fees as of December 31, 2023 were included in long-term liabilities in the condensed consolidated balance sheet. 
+ or the prime rate plus , maturing on 
+
+Highbridge Capital term loan with an interest rate of maturing on 
+
+2022 convertible promissory notes with an interest rate of per annum maturing on 
+
+Total principal debt 
+
+Less: current portion (1) 
+
+() 
+
+() 
+
+Less: debt issuance costs and discounts, long-term 
+
+() 
+
+Total long-term debt, net 
+
+(1) Excludes debt issuance costs and discounts of and as of September 30, 2024 and December 31, 2023, respectively. 
+ Structural Capital Term Loan On January 19, 2024, the Company executed the Third Amended and Restated Loan Agreement (as amended, the Structural Loan Agreement with a consortium led by lending affiliates of Structural Capital Structural ). The maturity date under the Structural Loan Agreement is . In connection with the third amendment and restatement of the Structural Loan Agreement (the Third Amendment ), the Company agreed to join the Otonomo entities as guarantors and make other conforming changes to the agreement. In addition, the Company repaid of the term loan and paid in related fees. The Third Amendment was accounted for as a partial debt extinguishment and, accordingly, a loss of was recognized in the accompanying condensed consolidated statement of operations and comprehensive loss. The Company incurred and capitalized of costs related to the Structural Loan Agreement that will be amortized and charged to interest expense over the remaining term of the loan. Highbridge Capital Term Loan On January 19, 2024, the Company executed the Fourth Amendment to Loan and Security Agreement (the Fourth Amendment with a consortium led by lending affiliates of Highbridge Capital Management, LLC Highbridge ). In connection with the Fourth Amendment, the Company agreed to join the Otonomo entities as guarantors and make other necessary conforming changes to the agreement. The Fourth Amendment was accounted for as a debt modification and, accordingly, gain or loss was recognized. The Company incurred and capitalized of costs related to the Fourth Amendment that will be amortized and charged to interest expense over the remaining term of the loan. 
+
+11 
+
+per annum. 
+ shares of Common Stock were initially reserved for issuance pursuant to the 2023 Plan and are subject to an annual increase, and on January 1, 2024, the 2023 Plan was increased by shares. As of September 30, 2024, shares of Common Stock were reserved under the 2023 Plan for future equity award grants. On June 16, 2023, the Board approved the 2023 Employee Stock Purchase Plan (the ESPP ), which was effective upon approval. The ESPP allows for the sale of shares of Common Stock to eligible employees within established offering periods with certain limitations on participation by individual employees and is subject to an annual increase. On January 1, 2024, the ESPP was increased by shares. During the nine months ended September 30, 2024, the Company granted restricted stock units. There were stock-based awards granted during the nine months ended September 30, 2023. Stock-based Compensation Expense The Company accounts for all stock-based payment awards made to employees, directors and advisors based on their fair values and recognizes compensation expense over the vesting period using the straight-line method over the requisite service period for each award as required by FASB Accounting Standards Codification ASC Topic No. 718, Compensation-Stock Compensation . 
+
+Sales and marketing 
+
+Operations and support 
+
+General and administrative 
+
+12 
+
+cumulative operating loss. These facts, combined with uncertain near-term market and economic conditions, reduced the Company s ability to rely on projections of future taxable income in assessing the realizability of its deferred tax assets. After a review of the four sources of taxable income as of December 31, 2023, and after consideration of the Company s cumulative loss position as of December 31, 2023, the Company will continue to fully reserve its U.S.-based deferred tax amounts as of September 30, 2024. 
+ 
+ . Additionally, the right of use asset and lease liability of relating to office space leased by The Floow were written off in connection with the Divestiture. 
+
+Sublease income 
+
+() 
+
+() 
+
+() 
+
+() 
+
+2025 
+
+2026 
+
+2027 
+
+2028 
+
+Thereafter 
+
+Total lease payments 
+
+Less imputed interest 
+
+() 
+
+Present value of lease liabilities 
+
+13 
+
+Weighted average discount rate 
+
+14 
+
+Ite m 2. Management s Discussion and Analysis of Financial Condition and Results of Operations. The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our condensed consolidated financial statements and the related notes to those statements included elsewhere in this Quarterly Report on Form 10-Q. The following discussion and analysis contains historical financial information and forward-looking statements regarding our expectations of future performance, liquidity and capital resources, our plans, estimates, beliefs and expectations that involve risks, uncertainties and assumptions. Our actual results and timing of selected events may differ materially from those anticipated or implied in these forward-looking statements as a result of many factors, including those discussed in the sections titled Risk Factors and Cautionary Note Regarding Forward-Looking Statements in this Quarterly Report on Form 10-Q. Overview We are a leading connected mobility assistance software platform, matching vehicle owners and operators with service professionals who deliver traditional roadside assistance, proactive maintenance and repair services. The traditional experience of a vehicle breakdown is often stressful and inconvenient for stranded drivers, compounded by processes that lack transparency and lead to long wait times. We offer an innovative alternative to this traditional experience, leveraging our digitally native software platform to match supply and demand in our network and deliver exceptional mobility assistance experiences at scale. We offer a digitally native software platform that combines location-based services, real-time data, AI and machine-to-machine communication to deliver quick, safe and innovative roadside assistance services for leading brands across the automotive and insurance industries, and other transportation-focused verticals. We collect signals from distressed vehicles and match those needs with local roadside assistance professionals to create a connected service network. Our platform enables our partners to deliver exceptional user experiences that drive high customer satisfaction and loyalty. With 55 Customer Partners and more than 75,000 participating Service Provider vehicle drivers in our network as of September 30, 2024, we deliver innovative, transparent and exceptional connected mobility assistance experiences at scale. We generate substantially all of our revenue from our Customer Partners, who contract with us to fulfill roadside assistance service requests for Consumers. We connect Consumers with nearby Service Providers who provide the requested roadside assistance. We enter into multi-year contracts with our Customer Partners, which are typically three years, and we generate revenue on a per-incident basis, including negotiated rates customized for each Customer Partner. We also generate revenue from Customer Partner membership programs, which are typically offered to Consumers through an out-of-warranty vehicle maintenance program or bundled with other subscription membership offerings, on a fixed fee basis. We recognize subscription revenue from our Customer Partner membership programs ratably over the term of service, which is typically one year. We also offer our platform as a SaaS solution to enable certain of our Customer Partners roadside assistance services. We anticipate that the integration of Otonomo s Mobility Platform will further enhance the customer service experience for Consumers on our platform by improving data capabilities, features, and data ingest capacity. We recognize revenue from our SaaS offering ratably over the life of the contract, which is typically one to three years. We make payments to our Service Providers on a per-job basis, typically within three weeks from job completion. Our Sales and Partner Management Department works closely with our Customer Partners to ensure that Consumers receive an exceptional assistance experience, and we have a strong track record in Customer Partner retention, Consumer satisfaction with our platform and the reliability of our service. Prospective Customer Partners typically engage us for a pilot program and enter into a multi-year contract once they are satisfied with our platform s performance. As Customer Partner contracts expire, we typically undergo a request-for-proposal process for each contract renewal. While we employ a targeted marketing program, many of our new Customer Partners are referred to us by satisfied existing Customer Partners. Key Factors Affecting Our Performance New Customer Partner Acquisition Our ability to add and retain Customer Partners is a key factor in our ability to generate new revenue, grow existing accounts, improve margins and push towards profitability. We attract enterprises seeking frictionless, digital roadside assistance solutions for Consumers with our emphasis on a well-designed and easy-to-use interface. Due to the relative concentration of the mobility assistance market, new Customer Partner acquisition can result in significant expansion of our footprint within the market. We believe the continued focus on exceptional Consumer experiences will continue to drive demand for our platform and broaden our number of Customer Partners. Historically, our ability to engage new Customer Partners has been limited primarily by our ability to effectively service the existing demand. However, as our Service Provider network grows and our support capabilities are streamlined and automated, we anticipate that our platform capabilities will also grow to meet the demands of new Customer Partners. 
+
+ 15 
+
+During the first nine months of 2024, we were successful in renewing and expanding eight existing Customer Partners and acquiring three new Customer Partners. A Customer Partner accounting for approximately 25 of our revenue in 2023 did not renew its agreement with us when the existing contract expired by its terms on January 31, 2024. Additionally, in October 2024, we were informed that another Customer Partner, a top five global OEM, shifted strategy and would no longer provide mobile technical support using our software resulting in an expected contract winddown by the end of 2024. This Customer Partner accounted for less than 5 of our revenue in the first nine months of 2024. Continued Investment in Innovation Our success depends, in part, on our ability to sustain innovation and maintain a competitive advantage in the verticals in which we operate and expand to meet new and evolving needs in roadside and mobility assistance. We believe that the emerging need for mobility assistance is a transformational opportunity that will bridge historically siloed and fragmented industries including insurance, collision, vehicle sales and service, the automotive aftermarket and logistics. These market transformations are creating new opportunities for roadside assistance providers to extend services into adjacent markets to increase revenue opportunities. We believe that our platform is differentiated from other offerings and has broad applicability to a variety of use cases, and we will continue to invest in developing and enhancing platform features and functionality to further extend adoption of our platform. We expect to continue to invest in research and development efforts to broaden the functionality of our platform, improve the value of our offering to our Customer Partners, and incorporate additional offerings. We will also continue to evaluate from time to time, strategic opportunities to acquire or invest in businesses, offerings, technologies or talent that we believe could complement or expand our platform, enhance our technical capabilities, or otherwise provide potential growth opportunities. Investing in Business Growth Our ability to support our existing Customer Partners and engage with new Customer Partners is impacted by our ability to rapidly scale and expand. Historically, we have been resource constrained and unable to commit to technology improvements because of our incremental funding history. We are now focused on investing in our proprietary technology, machine learning and data analytics models in order to streamline and digitize the high-touch aspects of our operations. These investments will enable us to optimize our Service Provider supply models, calibrate Service Provider pricing and streamline our operational processes. Our ability to manage expenses, and to effectively invest our resources to enable a better Consumer experience, will impact our operating results and future profitability. While we had embarked on an aggressive growth plan in early 2022, as a result of the adverse macro-economic environment we pivoted to a more judicious staffing model. In addition, due to staffing challenges in the United States caused by the pandemic and government stimulus payments coupled with remote work, and to maintain reliable and high-quality service, during 2022 and 2023, we migrated portions of our customer support representatives to more cost-effective alternatives (this migration together with our judicious staffing model, the Realignment ). As we maintain our priorities, we expect our operating expenses to decrease in the short term relative to historical periods but increase over the longer term as we continue our targeted investments in growth. Although operating expenses may increase, based on the Realignment actions, we expect leverage with our operating expenses, resulting in a lower operating expense as a percentage of revenue metric. In the first nine months of 2024, we capitalized 4.9 million in costs associated with internal development of our technology platform and Customer Partner implementations and expect to invest approximately 1.4 million during the remainder of 2024. Seasonality We experience seasonality in monetization on our platform. Historically, we generate higher levels of roadside assistance service requests during the summer and winter, when a greater proportion of Consumers are traveling for holidays. Particularly as we continue to adjust to the travel patterns in the post COVID-19 pandemic era, such seasonality may be more pronounced in the future or different altogether. We have also experienced increased roadside assistance service requests during periods of economic downturn. During these times Consumers may be less likely to allocate resources to vehicle maintenance, and we have observed that delaying vehicle maintenance typically increases the likelihood of a vehicle breakdown. Key Business Metrics We regularly monitor a number of operating metrics, including the following key metrics, in order to measure our current performance and estimate our future performance. 
+
+ 16 
+
+Consumer Ratings Exceptional Consumer service is a cornerstone of our business. We measure Consumer sentiment through a variety of surveys but primarily measure completed jobs on a 1-to-5-star scale, with a 5 star being the highest. We have historically averaged 4.5 out of 5 stars. We are proud of how highly Consumers rate their service experiences with us given the fact that no one aspires to have a breakdown. It s often stressful, nearly always unexpected, and often unsafe. Our aspirational goal is 100 Consumer satisfaction. We use Consumer ratings to improve the service experience by improving networks, technology, and training. For each of the three and nine months ended September 30, 2024 and 2023, our consumer satisfaction score CSAT was 4.5. Number of Dispatches We believe that our ability to increase the number of dispatches is an indicator of our Customer Partner penetration, the growth of our business and potential future business opportunities. We define the number of dispatches as the number of completed service requests in a given period. As our Customer Partner base grows and usage of our platform expands, we do not expect to continue to grow at the same year-over-year rate. Additionally, we expect the number of dispatches to fluctuate as seasonality is reflected on a period-over-period basis, as the summer and winter months typically contain more Consumer travel and roadside assistance events. For the three months ended September 30, 2024 and 2023, we completed approximately 219,000 dispatches and 290,000 dispatches, respectively. For the nine months ended September 30, 2024 and 2023, we completed approximately 656,000 dispatches and 879,000 dispatches, respectively. Non-GAAP Financial Measures In addition to our financial information presented in accordance with GAAP, we believe the following non-GAAP financial measures are useful to investors in evaluating our operating performance. We use the following non-GAAP financial measures to evaluate our ongoing operations and for internal planning and forecasting purposes. We believe that the non-GAAP financial measures, when taken together with the corresponding GAAP financial measures, may be helpful to investors because they provide consistency and comparability with past financial performance and meaningful supplemental information regarding our performance by excluding certain items that may not be indicative of our business, results of operations, or outlook. The non-GAAP financial measures are presented for supplemental informational purposes only, have limitations as analytical tools, and should not be considered in isolation or as a substitute for financial information presented in accordance with GAAP and may be different from similarly-titled non-GAAP financial measures used by other companies. In addition, other companies, including companies in our industry, may calculate similarly-titled non-GAAP financial measures differently or may use other measures to evaluate their performance, all of which could reduce the usefulness of our non-GAAP financial measures as a tool for comparison. A reconciliation is provided below for each non-GAAP financial measure to the most directly comparable financial measure stated in accordance with GAAP. Investors are encouraged to review the related GAAP financial measures and the reconciliations of the non-GAAP financial measures to our most directly comparable GAAP financial measures, and not to rely on any single financial measure to evaluate our business. Non-GAAP Operating Expenses We define non-GAAP operating expenses as operating expenses, excluding depreciation and amortization expense, stock-based compensation expense, and non-recurring charges (or income) such as transaction and restructuring costs. We use non-GAAP operating expenses in conjunction with GAAP financial measures as part of our overall assessment of our performance, including the preparation of our annual operating budget and quarterly forecasts, to evaluate the effectiveness of our business strategies, and to communicate with the Board concerning our financial performance. The following table provides a reconciliation of non-GAAP operating expenses to the most comparable GAAP measure, operating expenses, for each of the periods presented: 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+(in thousands) 
+
+Operating expenses 
+
+13,656 
+
+15,026 
+
+47,025 
+
+50,001 
+
+Less: Depreciation and amortization expense 
+
+(1,130) 
+
+(64) 
+
+(3,336) 
+
+(198) 
+
+Less: Stock-based compensation expense 
+
+(609) 
+
+(69) 
+
+(1,765) 
+
+(222) 
+
+Less: Non-recurring transaction costs 
+
+(638) 
+
+(1,970) 
+
+(1,571) 
+
+(8,449) 
+
+Less: Restructuring costs 
+
+(569) 
+
+(201) 
+
+(1,693) 
+
+(337) 
+
+Non-GAAP operating expenses 
+
+10,710 
+
+12,722 
+
+38,660 
+
+40,795 
+
+17 
+
+Non-GAAP Operating Loss We define non-GAAP operating loss as operating loss, excluding depreciation and amortization expense, stock-based compensation expense, and non-recurring charges (or income) such as transaction and restructuring costs. We use non-GAAP operating loss in conjunction with GAAP financial measures as part of our overall assessment of our performance, including the preparation of our annual operating budget and quarterly forecasts, to evaluate the effectiveness of our business strategies, and to communicate with our Board concerning our financial performance. The following table provides a reconciliation of non-GAAP operating loss to the most comparable GAAP measure, operating loss, for each of the periods presented: 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+(in thousands) 
+
+Operating loss 
+
+(5,891) 
+
+(5,848) 
+
+(22,579) 
+
+(22,304) 
+
+Add: Depreciation and amortization expense 
+
+1,130 
+
+64 
+
+3,336 
+
+198 
+
+Add: Stock-based compensation expense 
+
+609 
+
+69 
+
+1,765 
+
+222 
+
+Add: Non-recurring transaction costs 
+
+638 
+
+1,970 
+
+1,571 
+
+8,449 
+
+Add: Restructuring costs 
+
+569 
+
+201 
+
+1,693 
+
+337 
+
+Non-GAAP operating loss 
+
+(2,945) 
+
+(3,544) 
+
+(14,214) 
+
+(13,098) 
+ 
+ Components of Results of Operations Revenue We generate substantially all of our revenues from roadside assistance services RAS initiated through our software platform primarily in the United States and Canada. We contract with Customer Partners to provide the outsourced delivery for all or portions of their roadside assistance plans for Consumers. We manage the entire RAS process after receiving the initial motorist distress call or web-based request through final disposition. We currently operate under two different service models for our Customer Partners: (i) full-service outsourcing RAS-flat rate and (ii) full-service outsourcing RAS-claim cost pass-through. Full-service outsourcing of RAS-flat rate . In connection with our full-service flat-rate arrangements, we negotiate fixed rates with subcontract Service Providers and charge Customer Partners or Consumers fixed rates based on each service provided (per tow, per jump start, etc.) As a result, we record these revenues on a gross basis and the costs related are recorded as part of cost of service. We recognize these revenues over time. 
+
+ Full-service outsourcing of RAS-claim cost pass-through . In connection with our full-service claim cost pass-through arrangements, we negotiate a flat dispatch fee directly with our Customer Partners which is combined with the variable cost of subcontracted services. We act as an agent in these transactions and record only the flat dispatch fee as revenue. We recognize these revenues over time. 
+
+ For additional discussion related to our revenue, see Note 2 Summary of Significant Accounting Policies - Revenue Recognition and Note 4 Revenue to our audited consolidated financial statements for the years ended December 31, 2023, 2022 and 2021 contained in the Annual Report. Cost of Revenue Cost of revenue, exclusive of depreciation and amortization, consists primarily of fees paid to Service Providers. Other costs included in cost of revenue are specifically the technology hosting and platform-related costs, certain personnel costs related to direct call center support to Consumers as part of platform authentication, and amortization of costs to fulfill. Gross Profit and Gross Margin Gross profit represents revenue less cost of revenue, and gross margin is gross profit expressed as a percentage of revenue. Our gross margin may fluctuate from period to period as our revenue fluctuates and has been and will continue to be affected by various factors, including mix of services provided, Customer Partner pricing and Service Provider costs. We expect our gross profit to increase and our gross margin to increase modestly over the long term due to platform enhancements resulting in more cost effective and competitive Service Provider costs, although our gross margins could fluctuate from period to period depending on the interplay between the factors described above. 
+
+ 18 
+
+Research and Development Research and development expenses primarily consist of compensation expenses, including equity-based compensation, for engineering, product development, product management and design employees, expenses associated with ongoing improvements to, and maintenance of, our platform offerings and other technology that have not been capitalized. Research and development expense also includes software expenses and technology consulting fees. Sales and Marketing Sales and marketing expenses primarily consist of compensation expenses, including equity-based compensation, in support of new business capture, partner management and marketing such as commissions, salaries, and related benefits. Sales and marketing expense also includes expenses associated with advertising, promotions of our services, Partner advocacy management and brand-building. Operations and Support Operations and support expenses primarily consist of compensation expenses, including equity-based compensation, in support of customer support operations such as salaries, related benefits, contractors we use to manage customer support workload and related technology costs to support such operations. Operations and support expenses also include expenses associated with Service Provider network management. General and Administrative General and administrative expenses primarily consist of compensation expenses, including equity-based compensation and related benefits for our executive, finance, human resources, information technology, legal and other personnel performing administrative functions. General and administrative expense also includes corporate office rent expense, third-party professional fees, public company expenses and any other cost or expense incurred not deemed to be related to cost of revenue, sales and marketing expense, research and development expense, or operations and support expense. Depreciation and Amortization Depreciation and amortization expenses primarily consist of depreciation of capitalized property, equipment and software and amortization of acquired finite-lived intangible assets. Other Income (Expense), net Other income (expense), net primarily includes the following items: Interest expense, which consists primarily of interest expense associated with our outstanding debt, including accretion of debt discount and lender fees and amortization of debt financing costs. 
+
+ Interest income, which consists primarily of interest earned on cash equivalents, short-term deposits and marketable securities. 
+
+ Change in fair value of derivative liability, which represents gains or losses resulting from fluctuations in the fair value of embedded derivative liabilities associated with convertible notes. 
+
+ Change in fair value of warrant liability, which represents gains or losses resulting from fluctuations in the fair value of warrant liabilities. 
+
+ Change in fair value of accrued purchase consideration, which represents gains or losses resulting from fluctuations in the fair value of accrued purchase consideration. 
+
+ Warrant expense, which represents the fair value of warrants issued during the period for warrants classified as liabilities on the consolidated balance sheets. 
+
+ Gain or loss on debt extinguishment, which represents gains or losses in connection with amendments to our debt agreements. 
+
+ Loss on divestiture, which represents the loss recognized in connection with the divestiture of The Floow. 
+
+ Other income (expense), net, which primarily represents foreign currency exchange gains and losses relating to the exchange rate differences arising from the settlement of transactions in foreign currencies other than our international subsidiaries functional currency of the U.S. dollar. 
+
+19 
+
+Provision for Income Taxes Income tax expense or benefit is related to the provision for federal, state, and foreign taxes imposed upon our results of operations. Results of Operations The following table is a summary of our condensed consolidated statements of operations data for the periods indicated: 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+(in thousands) 
+
+Total revenue 
+
+36,246 
+
+46,047 
+
+110,875 
+
+139,602 
+
+Cost of revenue 
+
+28,481 
+
+36,869 
+
+86,429 
+
+111,905 
+
+Gross profit 
+
+7,765 
+
+9,178 
+
+24,446 
+
+27,697 
+
+Operating expenses: 
+
+Research and development 
+
+3,069 
+
+3,667 
+
+11,109 
+
+11,077 
+
+Sales and marketing 
+
+1,518 
+
+899 
+
+5,153 
+
+2,846 
+
+Operations and support 
+
+2,997 
+
+5,418 
+
+10,890 
+
+18,665 
+
+General and administrative 
+
+4,942 
+
+4,978 
+
+16,537 
+
+17,215 
+
+Depreciation and amortization 
+
+1,130 
+
+64 
+
+3,336 
+
+198 
+
+Total operating expenses 
+
+13,656 
+
+15,026 
+
+47,025 
+
+50,001 
+
+Operating loss 
+
+(5,891) 
+
+(5,848) 
+
+(22,579) 
+
+(22,304) 
+
+Other expense, net 
+
+(4,722) 
+
+(23,004) 
+
+(12,567) 
+
+(30,716) 
+
+Loss before income taxes 
+
+(10,613) 
+
+(28,852) 
+
+(35,146) 
+
+(53,020) 
+
+Provision for income taxes 
+
+149 
+
+Net loss 
+
+(10,613) 
+
+(28,852) 
+
+(35,295) 
+
+(53,020) 
+ 
+ The following table is a summary of our condensed consolidated statements of operations data expressed as a percentage of revenue for the periods indicated: 
+
+Three Months Ended September 30, 
+
+Nine Months Ended September 30, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+Total revenue 
+
+100 
+
+100 
+
+100 
+
+100 
+
+Cost of revenue 
+
+79 
+
+80 
+
+78 
+
+80 
+
+Gross margin 
+
+21 
+
+20 
+
+22 
+
+20 
+
+Operating expenses: 
+
+Research and development 
+
+8 
+
+8 
+
+10 
+
+8 
+
+Sales and marketing 
+
+4 
+
+2 
+
+5 
+
+2 
+
+Operations and support 
+
+8 
+
+12 
+
+10 
+
+13 
+
+General and administrative 
+
+14 
+
+11 
+
+15 
+
+12 
+
+Depreciation and amortization 
+
+3 
+
+0 
+
+3 
+
+0 
+
+Total operating expenses 
+
+38 
+
+33 
+
+42 
+
+36 
+
+Operating loss 
+
+(16) 
+
+(13) 
+
+(20) 
+
+(16) 
+
+Other expense, net 
+
+(13) 
+
+(50) 
+
+(11) 
+
+(22) 
+
+Loss before income taxes 
+
+(29) 
+
+(63) 
+
+(32) 
+
+(38) 
+
+Provision for income taxes 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Net loss 
+
+(29) 
+
+(63) 
+
+(32) 
+
+(38) 
+ 
+ Comparison of the Three Months Ended September 30, 2024 and 2023 Revenue Revenue decreased by 9.8 million, or 21 , to 36.2 million in the three months ended September 30, 2024 from 46.0 million in the three months ended September 30, 2023. The decrease was primarily driven by the reduction in dispatch volume from the non-renewal of one auto manufacturer Customer Partner which resulted in a decrease in revenue of 11.9 million and a reduction in dispatch volume from existing Customer Partners which resulted in a decrease in revenue of 2.2 million. This was offset by an increase in revenue from two new Customer Partners (which accounted for an increase of 2.8 million in revenue) and 1.5 million in revenue from the Otonomo business. 
+
+ 20 
+
+Cost of Revenue Cost of revenue decreased by 8.4 million, or 23 , to 28.5 million in the three months ended September 30, 2024 from 36.9 million in the three months ended September 30, 2023. The decrease was primarily related to an overall decline in dispatch volume resulting in a 9.1 million reduction in Service Provider fees. The decrease in dispatch volume was primarily due to the non-renewal of one auto manufacturer Customer Partner, partially offset by increases in dispatch volume from two new Customer Partners. In addition, our first call support and platform costs contributed to a cost increase of 0.2 million in support of new Customer Partners ramping up and a 0.5 million increase in cost of revenue attributable to the Otonomo business. Gross Profit Our gross profit for the three months ended September 30, 2024 was 7.8 million, compared to 9.2 million for the three months ended September 30, 2023. The decrease was primarily driven by the loss in volume related to the non-renewal of one auto manufacturer Customer Partner. Operating Expenses Research and Development Research and development expense decreased by 0.6 million, or 16 , to 3.1 million in the three months ended September 30, 2024 from 3.7 million in the three months ended September 30, 2023. The decrease was driven by 1.7 million in capitalized software and Customer Partner implementation costs and a 0.2 million reduction in information technology platform expenses, offset by a 0.5 million investment in additional resources hired and the addition of Otonomo research and development expense of 0.8 million. Research and development employees were 77 and 79 as of September 30, 2024 and 2023, respectively. As a percentage of total revenue, research and development expense remained flat at 8 in the three months ended September 30, 2024 compared to the three months ended September 30, 2023. Sales and Marketing Sales and marketing expense increased by 0.6 million, or 69 , to 1.5 million in the three months ended September 30, 2024 from 0.9 million in the three months ended September 30, 2023. The increase was primarily driven by the addition of Otonomo sales and marketing expense of 0.7 million, offset by 0.1 million in reduced employee and employee-related expenses. Sales and marketing employees were 18 and 22 as of September 30, 2024 and 2023, respectively. As a percentage of total revenue, sales and marketing expense increased by 2 to 4 in the three months ended September 30, 2024 from 2 in the three months ended September 30, 2023. The increase was primarily driven by the addition of the Otonomo sales and marketing expenses. Operations and Support Operations and support expense decreased by 2.4 million, or 45 , to 3.0 million in the three months ended September 30, 2024 from 5.4 million in the three months ended September 30, 2023. The decrease was primarily related to the optimization of customer support representative resources and processes resulting in a cost reduction of 1.9 million, a reduction of employee-related costs of 0.3 million, and overall lower net operating costs of 0.2 million. Consistent with the Realignment, operations and support employees were 44 and 80 as of September 30, 2024 and 2023, respectively, and full-time customer support representative employees were 223 and 396 as of September 30, 2024 and 2023, respectively. As a percentage of total revenue, operations and support expense decreased by 4 to 8 in the three months ended September 30, 2024 from 12 in the three months ended September 30, 2023. The decrease was primarily driven by customer support center transformation initiatives. General and Administrative General and administrative expense decreased by less than 0.1 million, or 1 , to 4.9 million in the three months ended September 30, 2024 from 5.0 million in the three months ended September 30, 2023. The slight decrease was related to a 1.5 million reduction in transaction-related expenses in connection with the Merger and a 0.1 million reduction in professional services, offset by the addition of Otonomo general and administrative expense of 0.6 million, an increase in employee-related expenses of 0.4 million, higher business insurance costs of 0.3 million, 0.1 million in expenses related to being a public company, business tax expense of 
+
+ 21 
+
+0.1 million, and 0.1 million in bank service charges. General and administrative employees were 49 (of which 3 were related to Otonomo) and 53 as of September 30, 2024 and 2023, respectively. As a percentage of total revenue, general and administrative expense increased by 3 to 14 in the three months ended September 30, 2024 from 11 in the three months ended September 30, 2023. The increase is primarily driven by the addition of Otonomo general and administrative expenses and public company expenses incurred following the Merger. Depreciation and Amortization Depreciation and amortization expense increased by 1.1 to 1.1 million in the three months ended September 30, 2024 from less than 0.1 million in the three months ended September 30, 2023. The increase was due primarily to the amortization of intangible assets acquired in connection with the Merger. Other Expense, net Other expense, net decreased by 18.3 million, or 79 , to 4.7 million in the three months ended September 30, 2024 from 23.0 million in the three months ended September 30, 2023 due primarily to a 12.2 million decrease in interest expense as a result of a 17.5 million payment on the Structural Loan Agreement, a 0.2 million increase in interest income, a 8.2 million net decrease in expense resulting from changes in the fair values of derivative, warrant, and contingent consideration liabilities, and a 0.9 million increase in other income relating to foreign currency. These net decreases in expense were offset by a 3.3 million loss on the Divestiture. Comparison of the Nine Months Ended September 30, 2024 and 2023 Revenue Revenue decreased by 28.7 million, or 21 , to 110.9 million in the nine months ended September 30, 2024 from 139.6 million in the nine months ended September 30, 2023. The decrease was primarily driven by the reduction in dispatch volume from the non-renewal of one auto manufacturer Customer Partner which resulted in a decrease in revenue of 30.2 million, the decision to exit non-profitable Customer Partnerships which resulted in a decrease of 5.6 million in revenue, and a reduction in dispatch volume from existing Customer Partners resulting in a decrease of 3.2 million in revenue. This was offset by an increase in dispatch volume from two new Customer Partners (which accounted for an increase of 5.5 million in revenue) and 4.8 million in revenue from the Otonomo business. Cost of Revenue Cost of revenue decreased by 25.5 million, or 23 , to 86.4 million in the nine months ended September 30, 2024 from 111.9 million in the nine months ended September 30, 2023. The decrease was primarily related to an overall decline in dispatch volume resulting in a 27.5 million reduction in Service Provider fees. The decrease in dispatch volume was primarily due to the non-renewal of one auto manufacturer Customer Partner and the decision to exit non-profitable Customer Partnerships, partially offset by increases in dispatch volume from two new Customer Partners. In addition, our optimization efforts with respect to our first call support and platform costs contributed to a cost reduction of 0.9 million, offset by 2.0 million in cost of revenue attributed to the Otonomo business and a 0.9 million increase in cost of revenue due to an increase in average Service Provider fees compared to the prior period. Gross Profit Our gross profit for the nine months ended September 30, 2024 was 24.4 million, compared to 27.7 million for the nine months ended September 30, 2023. The decrease was primarily driven by the loss in volume related to the non-renewal of one auto manufacturer Customer Partner. Operating Expenses Research and Development Research and development expense remained flat at 11.1 million in the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023. Cost increases for the period included the addition of Otonomo research and development expense of 4.2 million and an investment in additional resources of 1.3 million, offset by 4.9 million in capitalized software and Customer 
+
+ 22 
+
+Partner implementation costs and a 0.5 million reduction in information technology platform expenses. Research and development employees were 77 and 79 as of September 30, 2024 and 2023, respectively. As a percentage of total revenue, research and development expense increased by 2 to 10 in the nine months ended September 30, 2024 from 8 in the nine months ended September 30, 2023. The increase was primarily driven by the addition of the Otonomo research and development expenses. Sales and Marketing Sales and marketing expense increased by 2.3 million, or 81 , to 5.2 million in the nine months ended September 30, 2024 from 2.8 million in the nine months ended September 30, 2023. The increase was primarily driven by the addition of Otonomo sales and marketing expense of 2.5 million, offset by a decrease in employee and employee-related expenses of 0.2 million. Sales and marketing employees were 18 and 22 as of September 30, 2024 and 2023, respectively. As a percentage of total revenue, sales and marketing expense increased by 3 to 5 in the nine months ended September 30, 2024 from 2 in the nine months ended September 30, 2023. The increase was primarily driven by the addition of the Otonomo sales and marketing expenses. Operations and Support Operations and support expense decreased by 7.8 million, or 42 , to 10.9 million in the nine months ended September 30, 2024 from 18.7 million in the nine months ended September 30, 2023. The decrease was primarily related to the optimization of customer support representative resources and processes resulting in a cost reduction of 6.0 million, a reduction of employee-related costs of 1.0 million, and overall lower net operating costs of 0.8 million. Consistent with the Realignment, operations and support employees were 44 and 80 as of September 30, 2024 and 2023, respectively, and full-time customer support representative employees were 223 and 396 as of September 30, 2024 and 2023, respectively. As a percentage of total revenue, operations and support expense decreased by 3 to 10 in the nine months ended September 30, 2024 from 13 in the nine months ended September 30, 2023. The decrease was primarily driven by customer support center transformation initiatives. General and Administrative General and administrative expense decreased by 0.7 million, or 4 , to 16.5 million in the nine months ended September 30, 2024 from 17.2 million in the nine months ended September 30, 2023. The decrease was primarily related to a reduction in transaction-related expenses of 7.7 million in connection with the Merger, offset by the addition of Otonomo general and administrative expense of 2.9 million, an increase in employee-related expenses of 1.4 million, higher business insurance costs of 0.7 million, 0.6 million in bad debt expense, business tax and fees expense of 0.5 million, an increase in expenses related to being a public company of 0.4 million, 0.3 million in information technology platform expense, and an increase in other professional services of 0.2 million. During the nine months ended September 30, 2024, we increased our allowance for credit losses by approximately 0.7 million due to a Customer Partner that recently filed for bankruptcy. The total allowance for uncollectible accounts related to this Customer Partner is 0.7 million. General and administrative employees were 49 (of which 3 were related to Otonomo) and 53 as of September 30, 2024 and 2023, respectively. As a percentage of total revenue, general and administrative expense increased by 3 to 15 in the nine months ended September 30, 2024 from 12 in the nine months ended September 30, 2023. The increase is primarily driven by the addition of Otonomo general and administrative expenses and an increase in employee-related expenses and public company expenses incurred post-Merger. Depreciation and Amortization Depreciation and amortization expense increased by 3.1 million to 3.3 million in the nine months ended September 30, 2024 from 0.2 million in the nine months ended September 30, 2023. The increase was due primarily to the amortization of intangible assets acquired in connection with the Merger. Other Expense, net Other expense, net decreased by 18.1 million, or 59 , to 12.6 million in the nine months ended September 30, 2024 from 30.7 million in the nine months ended September 30, 2023 due primarily to a 28.6 million decrease in interest expense as a result of a 
+
+ 23 
+
+17.5 million payment on the Structural Loan Agreement, a 0.9 million increase in interest income, and a 0.7 million increase in other income related to foreign currency. These net decreases in expense were offset by a 2.4 million net decrease in income resulting from changes in the fair values of derivative, warrant, and contingent consideration liabilities, a 6.3 million loss when comparing the debt extinguishment loss in the first quarter of 2024 to the debt extinguishment gain in the second quarter of 2023, and a 3.3 million loss on the Divestiture. Liquidity and Capital Resources Due to our history of recurring losses from operations, negative cash flows from operations, and our dependency on debt and equity financing to fund operating shortfalls, management concluded that there is substantial doubt about our ability to continue as a going concern. Refer to Note 1 Organization of our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q. In addition, our independent registered public accounting firm has included an explanatory paragraph in their audit report for the year ended December 31, 2023 as to the substantial doubt about our ability to continue as a going concern. Our condensed consolidated financial statements have been prepared in accordance with GAAP, which contemplates that we will continue to operate as a going concern. Our interim condensed consolidated financial statements do not contain any adjustments that might result if we are unable to continue as a going concern. As of September 30, 2024, we had 17.4 million in cash, cash equivalents and restricted cash. Our principal sources of liquidity have historically consisted of financing activities, including proceeds from the issuance of preferred stock, borrowings under debt financing arrangements and credit facilities, and operating activities. As of September 30, 2024, our principal debt balance totaled 54.3 million with maturity dates through January 2025. On January 19, 2024, we executed the Structural Loan Agreement, extending the maturity date to January 1, 2025. In connection with the Structural Loan Agreement, we repaid 17.5 million of the term loan and paid 6.1 million in related fees. We completed our acquisition of Otonomo on October 19, 2023. The transaction consisted of the acquisition of the Otonomo business, employees, revenue contracts, technology and net assets, including approximately 100.0 million of cash, cash equivalents, and short-term investments, net of estimated transaction costs. The additional cash is expected to fund strategic growth initiatives and daily operations for the combined company, and to pay down debt as required. Although a portion of this cash is available to us, as we continue to assess our capital asset plans related to the current outstanding debt, we believe that our cash, cash equivalents and restricted cash of 17.4 million at September 30, 2024 may not be sufficient to fund operations beyond twelve months from the date of issuance of these condensed consolidated financial statements. This has led management to conclude that substantial doubt about our ability to continue as a going concern exists. Since inception, we have consistently maintained a working capital deficit, in which our current liabilities exceed our current assets. This is due to the nature of our business model, in that we pay our Service Providers generally within two to three weeks of performance, but our collection cycle is longer for most of our Customer Partners. Our cash needs vary from period to period primarily based on our growth: in periods of fast growth our cash needs are accelerated as we invest into the operations and servicing of new Customer Partners. Our cash needs can also vary from period to period depending upon the gross margin performance we are able to attain. Our primary liquidity needs are to fund working capital requirements, invest into our growth through spending on technology and people, and fund our debt service obligations. We believe factors that could affect our liquidity include our rate of revenue growth, changes in demand for our services, competitive pricing pressures, the timing and extent of spending on research and development and other growth initiatives, our ability to achieve further reductions in operating expenses, and overall economic conditions. In the fourth quarter of 2024, we plan to extend the terms on our existing debt agreements or seek to refinance our existing debt. In the event that additional financing is required from outside sources, we may not be able to raise it on terms acceptable to us or at all. If we are unable to raise additional capital or generate cash flows necessary to expand our operations and invest in new technologies, our competitive position could weaken, and our business and results of operations could be adversely affected. The incurrence of additional debt financing would result in debt service obligations, and any future instruments governing such debt could provide for operating and financing covenants that could restrict our operations. In addition, we may seek additional capital due to favorable market conditions or strategic considerations even if we believe we have sufficient funds for our current or future operating plans. To the extent that our current liquidity is insufficient to fund future activities, we may need to raise additional funds. In the future, we may attempt to raise additional capital through the sale of equity securities or through debt financing arrangements. For additional detail, see Note 8 Debt Arrangements to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q. In an effort to reduce operating expenses, we undertook actions to eliminate redundant employees primarily in Israel and the United States during the first quarter of 2024, resulting in a decrease of 25 employees, or 7 of our total employees as of December 31, 2023. 
+
+ 24 
+
+During the second quarter of 2024, we continued actions to eliminate redundant employees resulting in a decrease of an additional 48 employees, or approximately 15 of our total employees as of March 31, 2024. During the third quarter of 2024, we continued similar actions resulting in a decrease of an additional 37 employees, or approximately 13 of the Company s total employees as of June 30, 2024. We expect to continue to focus on aligning operating expenses with revenue, and we similarly anticipate additional actions to continue through the fourth quarter of 2024. On September 19, 2024, the Company completed the Divestiture as part of its strategic effort to divest non-core assets and dedicate its resources to advancing its core business. The Divestiture included all the assets and liabilities of The Floow, including 64 employees. For further information on the Divestiture, see Note 3 Acquisitions and Divestitures of the condensed consolidated financial statements contained elsewhere in this Quarterly Report on Form 10-Q. Cash Flows The following table is a summary of our cash flows for the periods presented: 
+
+Nine Months Ended September 30, 
+
+2024 
+
+2023 
+
+(in thousands) 
+
+Net cash provided by (used in): 
+
+Operating activities 
+
+(28,847) 
+
+(11,997) 
+
+Investing activities 
+
+25,950 
+
+(92) 
+
+Financing activities 
+
+(18,066) 
+
+14,405 
+
+Operating Activities Net cash used in operating activities for the nine months ended September 30, 2024 was 28.8 million primarily due to a net loss of 35.3 million, excluding the impact of non-cash expenses totaling 13.5 million, a decrease in accounts payable of 0.8 million, a decrease in long-term liabilities of 12.4 million, a decrease in deferred revenue of 0.1 million, an increase in other assets of 0.6 million, and a decrease in lease liabilities of 0.7 million. Sources of cash from operating activities resulted primarily from a decrease in accounts receivable of 5.6 million, an increase in accrued expenses of 1.5 million, and a decrease in prepaid expenses and other assets of 0.4 million. We anticipate that we will continue to use our existing capital to fund operating activities until we refinance our existing debt facilities or enter into a new debt facility in the fourth quarter of 2024. Net cash used in operating activities for the nine months ended September 30, 2023 was 12.0 million primarily due to a net loss of 53.0 million, excluding the impact of non-cash expenses totaling 25.5 million, a decrease in accrued expenses of 1.3 million, a decrease in deferred revenue of 0.2 million, and a decrease in lease liabilities of 0.6 million. Sources of cash from operating activities resulted primarily from a decrease in accounts receivable of 8.1 million, an increase in accounts payable of 5.2 million, an increase in long-term liabilities of 4.0 million, and a decrease in prepaid expenses and other assets of 0.3 million. Investing Activities Net cash provided by investing activities for the nine months ended September 30, 2024 was 26.0 million due to 32.2 million in proceeds from short-term deposits and the sale of marketable securities, offset by 4.1 million in investments in capitalized software, 1.6 million in purchases of equipment and software, and divested cash of 0.6 million in connection with the Divestiture. Net cash used in investing activities for the nine months ended September 30, 2023 was 0.1 million due to purchases of equipment and software. Financing Activities Net cash used in financing activities for the nine months ended September 30, 2024 was 18.1 million due to 17.5 million in payments on the Structural term loan and 0.6 million in payments of deferred financing fees related to the Structural Third Amendment and Highbridge Fourth Amendment. We anticipate that we will refinance our existing debt facilities or enter into a new debt facility in the fourth quarter of 2024, which we believe will include new sources of capital and an extension of the debt maturity terms. Net cash provided by financing activities for the nine months ended September 30, 2023 was 14.4 million due to 4.7 million in proceeds from the convertible promissory notes issued by the Company in April and May 2023 and 10.0 million in proceeds from the Structural Loan Agreement, offset by 0.3 million in payments of deferred financing fees. 
+
+ 25 
+
+Contractual Obligations and Commitments Our principal commitments consist of contractual cash obligations under our credit facilities, long-term debt, and operating leases. Our obligations under our credit facilities and long-term debt are described in Note 8 Debt Arrangements and for further information on our leases, see Note 12 Leases of the condensed consolidated financial statements contained elsewhere in this Quarterly Report on Form 10-Q. Emerging Growth Company Status As an emerging growth company, the JOBS Act allows us to delay adoption of new or revised accounting pronouncements applicable to public companies until such pronouncements are made applicable to private companies. We have elected to use this extended transition period under the JOBS Act. As a result, our interim condensed consolidated financial statements may not be comparable to the financial statements of issuers who are required to comply with the effective dates for new or revised accounting standards that are applicable to public companies, which may make our Common Stock less attractive to investors. Critical Accounting Estimates Our management s discussion and analysis of our financial condition and results of our operations is based on our consolidated financial statements and accompanying notes, which have been prepared in accordance with GAAP. Certain amounts included in or affecting the condensed consolidated financial statements contained elsewhere in this Quarterly Report on Form 10-Q and related disclosure must be estimated, requiring management to make assumptions with respect to values or conditions which cannot be known with certainty at the time the consolidated financial statements are prepared. Management believes that there are no material changes to the critical accounting estimates set forth in the critical accounting estimates section Urgently s Management s Discussion and Analysis of Financial Condition and Results of Operations - Critical Accounting Policies and Estimates contained in the Annual Report. A critical accounting estimate is one which is both important to the portrayal of our financial condition and results of operations and that involves difficult, subjective, or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain. Recent Accounting Pronouncements See Note 2 Summary of Significant Accounting Policies of the condensed consolidated financial statements contained elsewhere in this Quarterly Report on Form 10-Q for a description of new accounting standards. Ite m 3. Quantitative and Qualitative Disclosures About Market Risk. We are a smaller reporting company, as defined by Rule 12b-2 under the Exchange Act and are not required to provide the information under this item. Ite m 4. Controls and Procedures. Evaluation of Disclosure Controls and Procedures Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated, as of the end of the period covered by this Quarterly Report on Form 10-Q, the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act). Based on that evaluation, and as a result of the material weakness in internal control over financial reporting described below, our Chief Executive Officer and Chief Financial Officer concluded that, as of September 30, 2024, our disclosure controls and procedures were not effective at the reasonable assurance level. In light of this fact, our management has performed additional analyses, reconciliations, and other post-closing procedures and has concluded that, notwithstanding the material weakness in our internal control over financial reporting, the unaudited condensed consolidated financial statements for the periods covered by and included in this Quarterly Report on Form 10-Q fairly state, in all material respects, our financial position, results of operations and cash flows for the periods presented in conformity with GAAP. Material Weakness in Internal Control over Financial Reporting A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected on a timely basis. 
+
+ 26 
+
+In connection with the audit of our financial statements for the years ended December 31, 2023, 2022 and 2021, management identified one material weakness in our internal control over financial reporting that has not been remediated as of September 30, 2024. The material weakness is related to a lack of evidence of segregation of duties within the accounting and finance function. Remediation Plan We have made progress toward remediation of the control deficiencies described above. We are in the process of increasing resources within our finance department, including the expansion of our accounting, control and compliance functions to develop and implement continued improvements and enhancements to address the overall deficiencies that led to the material weakness. Our management believes that these actions will enable us to address the material weakness that was identified in a timely manner and maintain a properly designed and effective system of internal control over financial reporting and provide appropriate segregation of duties. However, this material weakness cannot be considered remediated until the applicable remedial controls operate for a sufficient period of time and management has concluded, through testing, that these controls are operating effectively. Changes in Internal Control over Financial Reporting Other than the material weakness remediation efforts underway, there were no changes in our internal control over financial reporting identified in connection with the evaluation required by Rule 13a-15(d) and 15d-15(d) of the Exchange Act that occurred during the nine months ended September 30, 2024, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. Inherent Limitations on Effectiveness of Controls and Procedures Our management, including our Chief Executive Officer and Chief Financial Officer, believes that our disclosure controls and procedures and internal control over financial reporting were designed to provide reasonable assurance of achieving their objectives. However, management does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent or detect all errors and all fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the Company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the controls. The design of any system of controls is also based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions; over time, controls may become inadequate because of changes in conditions, or the degree of compliance with policies or procedures may deteriorate. Due to inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+
+ 27 
+
+PART II OTHE R INFORMATION Ite m 1. Legal Proceedings. From time to time, we may become involved in actions, claims, suits and other legal proceedings arising in the ordinary course of our business, including assertions by third parties relating to breaches of contract, employment-related matters or intellectual property infringement as well as governmental and other regulatory investigations and proceedings. We are not currently a party to any actions, claims, suits or other legal proceedings the outcome of which, if determined adversely, would individually or in the aggregate have a material adverse effect on our business, financial condition or results of operations. Future litigation may be necessary to defend ourselves, our partners, and our customers by determining the scope, enforceability, and validity of third-party proprietary rights, or to establish our proprietary rights. The results of any current or future litigation cannot be predicted with certainty, and regardless of the outcome, litigation can have an adverse impact on us because of defense and settlement costs, diversion of management resources, and other factors. Ite m 1A. Risk Factors. There have been no material changes to our principal risks that we believe are material to our business, results of operations and financial condition, from the risk factors previously disclosed in our Annual Report other than as set forth below. We may fail to continue to meet the listing standards of Nasdaq, and as a result our common stock may be delisted, which could have a material adverse effect on the liquidity and trading price of our common stock and on our ability to raise capital, and other adverse consequences. Our common stock currently trades on The Nasdaq Capital Market. The Nasdaq Stock Market LLC Nasdaq has requirements for our equity securities to remain listed on Nasdaq, including a rule requiring our common stock to maintain a minimum closing bid price of 1.00 per share. On September 30, 2024, we received a notice from Nasdaq that we are not in compliance with Nasdaq s Listing Rule 5550(a)(2) (the Minimum Bid Price Requirement ), because the minimum bid price of our common stock had been below 1.00 per share for 30 consecutive business days (the Notice ). The Notice has no immediate effect on the listing or trading of our common stock on The Nasdaq Capital Market. In accordance with Nasdaq Listing Rule 5810(c)(3)(A), we have 180 calendar days, or until March 31, 2025, to regain compliance with the Minimum Bid Price Requirement. To regain compliance, the closing bid price of our common stock must be at least 1.00 per share for a minimum of ten consecutive business days during this 180-calendar day grace period (the Compliance Period ), unless Nasdaq exercises its discretion to extend this ten-day period. If we have not been deemed in compliance prior to the expiration of the Compliance Period, we may be eligible for an additional 180-calendar day compliance period (the Second Compliance Period ), provided that we meet the applicable market value of publicly held shares requirement for continued listing and all other initial listing standards for The Nasdaq Capital Market (with the exception of the Minimum Bid Price Requirement), and would need to provide written notice of our intention to cure the bid price deficiency during the Second Compliance Period. However, if it appears to Nasdaq that we will be unable to cure the deficiency, or if we are otherwise not eligible for the Second Compliance Period, Nasdaq would notify us that our common stock would be subject to delisting. We may appeal any such determination to delist our securities, but there can be no assurance that any such appeal would be successful. We intend to monitor closely our common stock s closing bid price and consider plans for regaining compliance with Nasdaq s Listing Rule 5550(a)(2), including by proposing a reverse stock split for stockholder approval, if necessary. While we plan to review all available options, there can be no assurance that we will be able to regain compliance with Nasdaq Listing Rule 5550(a)(2) during the Compliance Period, any subsequent extension period, or at all. If we fail to regain and maintain compliance with Nasdaq s minimum stock price requirement or other listing requirements, our common stock could be delisted from Nasdaq. If that occurs, the liquidity of our common stock would be adversely affected, and its market price could decrease. It could cause other adverse consequences, such as difficulties in raising capital and in providing stock-based incentives to attract and retain personnel. Delisting could also impair our reputation and our relationships with Customer Partners, which could adversely affect our business, financial condition and results of operations. In addition, our common stock could be deemed to be a penny stock, which could result in reduced levels of trading in our common stock, and we would also become subject to additional State securities regulations in connection with any sales of our securities. Ite m 2. Unregistered Sales of Equity Securities and Use of Proceeds. None. 
+
+ 28 
+
+Ite m 3. Defaults Upon Senior Securities. Not applicable. Ite m 4. Mine Safety Disclosures. Not applicable. Ite m 5. Other Information. Securities Trading Plans of Directors and Executive Officers During the fiscal quarter ended September 30, 2024, director or officer, as defined in Rule 16a-1(f), adopted or terminated a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement, each as defined in Regulation S-K Item 408. Ite m 6. Exhibits. The exhibits listed below are filed as part of this Quarterly Report on Form 10-Q, or are incorporated herein by reference, in each case as indicated below. 
+
+Exhibit Number 
+ 
+ Description 
+
+3.1 
+ 
+ Amended and Restated Certificate of Incorporation of Urgent.ly Inc., as currently in effect (incorporated by reference from Annex B to the registrant s Registration Statement on Form S-4 (File No. 333-271937) filed with the SEC on May 15, 2023). 
+
+3.2 
+ 
+ Bylaws of Urgent.ly Inc., as amended, as currently in effect (incorporated by reference from Annex C to the registrant s Registration Statement on Form S-4 (File No. 333-271937) filed with the SEC on May 15, 2023). 
+
+31.1 
+ 
+ Certification of Principal Executive Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+31.2 
+ 
+ Certification of Principal Financial Officer Pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as Adopted Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32.1# 
+ 
+ Certification of Principal Executive Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+32.2# 
+ 
+ Certification of Principal Financial Officer Pursuant to 18 U.S.C. Section 1350, as Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+101.INS 
+ 
+ Inline XBRL Instance Document the instance document does not appear in the Interactive Data File because XBRL tags are embedded within the Inline XBRL document. 
+
+101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema Document with Embedded Linkbases Document 
+
+104 
+ 
+ Cover Page Interactive Data File (embedded within the Inline XBRL document) 
+ 
+ Filed herewith. # These exhibits are furnished with this Quarterly Report on Form 10-Q and are not deemed filed with the Securities and Exchange Commission and are not incorporated by reference in any filing of Urgent.ly Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date hereof and irrespective of any general incorporation language contained in such filings. 
+
+ 29 
+
+SIG NATURES Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+URGENT.LY INC. 
+
+Date: November 13, 2024 
+ 
+ By: 
+ /s/ Matthew Booth 
+
+Matthew Booth 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: November 13, 2024 
+ 
+ By: 
+ /s/ Timothy C. Huffmyer 
+
+Timothy C. Huffmyer 
+
+Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+30 
+
+<EX-31.1>
+ 2
+ uly-ex31_1.htm
+ EX-31.1
+
+EX-31.1 
+
+Exhibit 31.1 CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER PURSUANT TO RULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 I, Matthew Booth, certify that: 1. I have reviewed this Quarterly Report on Form 10-Q of Urgent.ly Inc.; 
+
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+ (b) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+ (c) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 13, 2024 
+ 
+ By: 
+ /s/ Matthew Booth 
+
+Matthew Booth 
+
+Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ uly-ex31_2.htm
+ EX-31.2
+
+EX-31.2 
+
+Exhibit 31.2 CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER PURSUANT TO RULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 I, Timothy C. Huffmyer, certify that: 1. I have reviewed this Quarterly Report on Form 10-Q of Urgent.ly Inc.; 
+
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have: 
+
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+ (b) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+ (c) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 13, 2024 
+ 
+ By: 
+ /s/ Timothy C. Huffmyer 
+
+Timothy C. Huffmyer 
+
+Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ uly-ex32_1.htm
+ EX-32.1
+
+EX-32.1 
+
+Exhibit 32.1 CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 In connection with the Quarterly Report of Urgent.ly Inc. (the Company on Form 10-Q for the period ending September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Matthew Booth, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: November 13, 2024 
+ 
+ By: 
+ /s/ Matthew Booth 
+
+Matthew Booth 
+
+Chief Executive Officer (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ uly-ex32_2.htm
+ EX-32.2
+
+EX-32.2 
+
+Exhibit 32.2 CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 In connection with the Quarterly Report of Urgent.ly Inc. (the Company on Form 10-Q for the period ending September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Timothy C. Huffmyer, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that: (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date: November 13, 2024 
+ 
+ By: 
+ /s/ Timothy C. Huffmyer 
+
+Timothy C. Huffmyer 
+
+Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ uly-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA WITH EMBEDDED LINKBASES DOCUMENT
+
+</EX-101.SCH>
+

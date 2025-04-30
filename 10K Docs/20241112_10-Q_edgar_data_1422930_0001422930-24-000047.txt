@@ -1,0 +1,864 @@
+<Header>
+<FileStats>
+    <FileName>20241112_10-Q_edgar_data_1422930_0001422930-24-000047.txt</FileName>
+    <GrossFileSize>6834532</GrossFileSize>
+    <NetFileSize>107617</NetFileSize>
+    <NonText_DocumentType_Chars>1262472</NonText_DocumentType_Chars>
+    <HTML_Chars>2382710</HTML_Chars>
+    <XBRL_Chars>1612653</XBRL_Chars>
+    <XML_Chars>1342771</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001422930-24-000047.hdr.sgml : 20241112
+<ACCEPTANCE-DATETIME>20241112161734
+ACCESSION NUMBER:		0001422930-24-000047
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		77
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241112
+DATE AS OF CHANGE:		20241112
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PubMatic, Inc.
+		CENTRAL INDEX KEY:			0001422930
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				205863224
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39748
+		FILM NUMBER:		241448474
+
+	BUSINESS ADDRESS:	
+		STREET 1:		601 MARSHALL STREET
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94063
+		BUSINESS PHONE:		650-331-3485
+
+	MAIL ADDRESS:	
+		STREET 1:		601 MARSHALL STREET
+		CITY:			REDWOOD CITY
+		STATE:			CA
+		ZIP:			94063
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	PUBMATIC, INC.
+		DATE OF NAME CHANGE:	20140306
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Komli Inc
+		DATE OF NAME CHANGE:	20080107
+
+</SEC-Header>
+</Header>
+
+ 0001422930-24-000047.txt : 20241112
+
+10-Q
+ 1
+ pubm-20240930.htm
+ 10-Q
+
+pubm-20240930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, DC 20549 
+ 
+ FORM 
+ 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from________to________ 
+ Commission File Number: 
+
+(Exact name of registrant as specified in its charter) 
+ 
+ (State or other jurisdiction of incorporation or organization) 
+ (I.R.S. Employer Identification Number) 
+ Not applicable Not applicable (Address of principal executive offices) (Zip Code) Not applicable (Registrant s telephone number, including area code) Not applicable (Former name, former address and former fiscal year, if changed since last report) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No o 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No o 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ 
+ Accelerated filer 
+ o Non-accelerated filer 
+ o Smaller reporting company 
+ Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes o No 
+ As of November 5, 2024, the registrant had shares of Class A common stock outstanding and shares of Class B common stock outstanding. 
+
+Table of Contents 
+
+TABLE OF CONTENTS Page PART I - FINANCIAL INFORMATION 
+ Item 1. Condensed Consolidated Financial Statements (Unaudited) 
+ 1 
+ Condensed Consolidated Balance Sheets 
+ 1 
+ Condensed Consolidated Statements of Operations 
+ 2 
+ Condensed Consolidated Statements of Comprehensive Income Loss 
+ 3 
+ Condensed Consolidated Statements of Stockholders Equity 
+ 4 
+ Condensed Consolidated Statements of Cash Flows 
+ 6 
+ Notes to Condensed Consolidated Financial Statements 
+ 7 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 19 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 33 
+ Item 4. Controls and Procedures 
+ 33 
+ PART II - OTHER INFORMATION 
+ Item 1. Legal Proceedings 
+ 35 
+ Item 1A. Risk Factors 
+ 35 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 38 
+ Item 3. Defaults Upon Senior Securities 
+ 38 
+ Item 4. Mine Safety Disclosures 
+ 38 
+ Item 5. Other Information 
+ 39 
+ Item 6. Exhibits 
+ 40 
+ Signatures 
+ 41 
+
+Table of Contents 
+
+PART I - FINANCIAL INFORMATION 
+ 
+ ITEM 1. FINANCIAL STATEMENTS 
+ 
+ PUBMATIC, INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (In thousands, except par values) 
+ September 30, 2024 December 31, 2023 (unaudited) ASSETS Current assets Cash and cash equivalents Marketable securities Accounts receivable, net Prepaid expenses and other current assets Total current assets Property, equipment and software, net Operating lease right-of-use assets Acquisition-related intangible assets, net Goodwill Deferred tax assets Other assets, non-current TOTAL ASSETS LIABILITIES AND STOCKHOLDERS' EQUITY Current liabilities Accounts payable Accrued liabilities Operating lease liabilities, current Total current liabilities Operating lease liabilities, non-current Other liabilities, non-current TOTAL LIABILITIES Commitments and contingencies (Note 8) 
+ par value per share, shares authorized as of September 30, 2024 and December 31, 2023; shares issued and outstanding as of September 30, 2024 and December 31, 2023 
+ Common stock, par value per share; Class A shares authorized as of September 30, 2024 and December 31, 2023; shares issued and shares outstanding as of September 30, 2024; shares issued and shares outstanding as of December 31, 2023; Class B shares authorized as of September 30, 2024 and December 31, 2023; shares issued and shares outstanding as of September 30, 2024; shares issued and shares outstanding as of December 31, 2023 
+ Treasury stock, at cost; and shares as of September 30, 2024 and December 31, 2023, respectively 
+ ) ) Additional paid-in capital Accumulated other comprehensive loss ) ) Retained earnings TOTAL STOCKHOLDERS EQUITY TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 1 
+
+Table of Contents 
+
+PUBMATIC, INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (In thousands, except per share data) 
+ (Unaudited) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenue Cost of revenue Gross profit Operating expenses: Technology and development Sales and marketing General and administrative (1) 
+ Total operating expenses Operating loss ) ) ) ) Interest income Other income (expense), net ) ) Income (loss) before income taxes ) ) ) Provision for (benefit from) income taxes ) Net income (loss) ) ) ) Basic net income (loss) per share of Class A and Class B stock 
+ ) ) ) Diluted net income (loss) per share of Class A and Class B stock 
+ ) ) ) Weighted-average shares used to compute net income (loss) per share attributable to common stockholders: 
+ Basic Diluted 
+ (1) million relating to a Demand Side Platform DSP buyer of our platform that filed for Chapter 11 bankruptcy. 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 2 
+
+Table of Contents 
+
+PUBMATIC, INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS) 
+ (In thousands) 
+ (Unaudited) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net income (loss) ) ) ) Other comprehensive income (loss): Unrealized gain (loss) on marketable securities, net of tax ) Net change in foreign currency translation adjustment ) ) Comprehensive income (loss) ) ) ) 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 3 
+
+Table of Contents 
+
+PUBMATIC, INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY 
+ (In thousands) 
+ (Unaudited) 
+ Common Stock Treasury Stock Additional Paid-In Capital Accumulated Other Comprehensive Loss Retained Earnings Total Stockholders Equity Shares Amount Balance as of December 31, 2023 ) ) Stock-based compensation Exercise of stock options Repurchase of shares ) ) ) Issuance of common stock related to RSU vesting Other comprehensive loss ) ) Net loss ) ) Balance as of March 31, 2024 ) ) Stock-based compensation Exercise of stock options Repurchase of shares ) ) ) Issuance of common stock related to employee stock purchase plan Issuance of common stock related to RSU vesting Other comprehensive loss ) ) Net income Balance as of June 30, 2024 ) ) Stock-based compensation Exercise of stock options Repurchase of shares ) ) ) Issuance of common stock related to RSU vesting Other comprehensive income Net loss ) ) Balance as of September 30, 2024 ) ) 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 4 
+
+Table of Contents 
+
+Common Stock Treasury Stock Additional Paid-In Capital Accumulated Other Comprehensive Income (Loss) Retained Earnings Total Stockholders Equity Shares Amount Balance as of December 31, 2022 ) ) Stock-based compensation Exercise of stock options Repurchase of shares ) ) ) Issuance of common stock related to RSU vesting Other comprehensive income Net loss ) ) Balance as of March 31, 2023 ) Stock-based compensation Exercise of stock options Repurchase of shares 
+ ) ) ) Issuance of common stock related to employee stock purchase plan Issuance of common stock related to RSU vesting Other comprehensive loss ) ) Net loss ) ) Balance as of June 30, 2023 ) ) Stock-based compensation Exercise of stock options Repurchase of shares 
+ ) ) ) Issuance of common stock related to RSU vesting Other comprehensive income Net income Balance as of September 30, 2023 ) ) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 5 
+
+Table of Contents 
+
+PUBMATIC, INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (In thousands) 
+ (Unaudited) 
+ Nine Months Ended September 30, 2024 2023 CASH FLOW FROM OPERATING ACTIVITIES: Net loss ) ) Adjustments to reconcile net loss to net cash provided by operating activities: 
+ Depreciation and amortization Stock-based compensation Provision for doubtful accounts Deferred income taxes ) ) Accretion of discount on marketable securities ) ) Non-cash operating lease expense Other ) Changes in operating assets and liabilities: Accounts receivable ) Prepaid expenses and other assets ) Accounts payable Accrued liabilities Operating lease liabilities ) ) Other liabilities, non-current ) Net cash provided by operating activities CASH FLOWS FROM INVESTING ACTIVITIES: Purchases of property and equipment ) ) Capitalized software development costs ) ) Purchases of marketable securities ) ) Proceeds from sales of marketable securities Proceeds from maturities of marketable securities Net cash provided by (used in) investing activities ) CASH FLOWS FROM FINANCING ACTIVITIES: Payment of business combination indemnification claims holdback 
+ ) Proceeds from issuance of common stock for employee stock purchase plan Proceeds from exercise of stock options Principal payments on finance lease obligations ) ) Payments to acquire treasury stock ) ) Net cash used in financing activities ) ) NET INCREASE IN CASH AND CASH EQUIVALENTS CASH AND CASH EQUIVALENTS - Beginning of period CASH AND CASH EQUIVALENTS - End of period SUPPLEMENTAL DISCLOSURES OF CASH FLOW INFORMATION: Income taxes paid SUPPLEMENTAL DISCLOSURES OF NON-CASH INVESTING AND FINANCING INFORMATION: Stock-based compensation capitalized as internal-use software costs Property and equipment included in accounts payable and accrued liabilities Capitalized software costs included in accounts payable and accrued liabilities Business combination purchase consideration - indemnification claims holdback 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 6 
+
+Table of Contents 
+
+ PUBMATIC, INC. AND SUBSIDIARIES 
+ Notes to Condensed Consolidated Financial Statements 
+ (Unaudited) 
+ 
+ Note 1 
+ 
+ Note 2 
+ . For the three months ended September 30, 2024 and 2023, no publisher represented more than 10 of the Company s revenue. For the nine months ended September 30, 2024 and 2023, no publisher represented more than 10 of the Company s revenue. As of September 30, 2024, two buyers accounted for and , respectively, of accounts receivable. As of December 31, 2023, three buyers accounted for , , and , respectively, of accounts receivable. 
+ 7 
+
+Table of Contents 
+
+ Increase in provision for expected credit losses Write-offs ) Allowance for credit losses, ending balance 
+ During the nine months ended September 30, 2023, the provision for expected credit losses associated with accounts receivable increased by million relating to uncollectible receivables for a DSP buyer of the Company s platform that filed for Chapter 11 bankruptcy on June 30, 2023. Of the total uncollectible receivables from the DSP buyer of million, million was subject to chargeback to publishers of the Company and recorded as contra payable to publishers related to expected recoveries. The result was million of bad debt expense for the nine months ended September 30, 2023. 
+ 8 
+
+Table of Contents 
+
+ Note 3 
+ Certificates of deposit Cash equivalents Commercial paper U.S. Treasury and government debt securities Marketable securities Total financial assets December 31, 2023 Level 1 Level 2 Level 3 Total Financial Assets Money market funds Certificates of deposit Cash equivalents Commercial paper Agency debt securities U.S. Treasury and government debt securities Marketable securities Total financial assets 
+ The Company s financial assets consist of Level 1 and 2 assets. The Company had no Level 3 assets or liabilities for the periods presented. The Company classifies its cash equivalents and marketable securities within Level 1 or Level 2 because they are valued using either quoted market prices or inputs other than quoted prices which are directly or indirectly observable in the market, including readily-available pricing sources for the identical underlying security which may not be actively traded. The Company s fixed income available-for-sale securities consist of high quality, investment grade securities from diverse issuers. The valuation techniques used to measure the fair value of the Company s marketable securities were derived from non-binding market consensus prices that are corroborated by observable market data and quoted market prices for similar instruments. 
+ 
+ Note 4 
+ U.S. Treasury and government debt securities Total December 31, 2023 Amortized Cost Unrealized Gain Unrealized Loss Fair Value Commercial paper ) Agency debt securities ) U.S. Treasury and government debt securities ) Total ) 
+ 9 
+
+Table of Contents 
+
+ Network hardware, computer equipment and software Leasehold improvements Furniture and fixtures Property, equipment and software, gross Less: accumulated depreciation and amortization ) ) Total property, equipment and software, net 
+ Depreciation and amortization expense related to property, equipment, and software (excluding amortization of internal-use software) was million and million for the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+ The Company capitalized million and million in software development costs during the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. Amortization expense of internal-use software was million and million during the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. These costs are included within cost of revenue in the condensed consolidated statements of operations. 
+ The Company did t recognize any impairment charges on its long-lived assets during the nine months ended September 30, 2024 and 2023, respectively. 
+ Accounts Payable 
+ Trade and other payables Total accounts payable 
+ Accrued Liabilities 
+ Accrued and other current liabilities Total accrued liabilities 
+ 10 
+
+Table of Contents 
+
+ Note 5 
+ million the Revolving Credit Facility ), including a million letter of credit sub-facility and a million swingline sub-facility. The Company s obligations under the Revolving Credit Facility and the letter of credit sub-facility (described in Note 8) with SVB are secured by substantially all of its assets excluding its intellectual property. The Company may, subject to certain customary conditions, on one or more occasions increase commitments under the Revolving Credit Facility in an amount not to exceed million in the aggregate (the Incremental Facility ). Each Lender will have discretion to determine whether it will participate in any Incremental Facility. 
+ Borrowings under the Revolving Credit Facility will accrue interest at rates equal, at the Company s election, to (i) the applicable secured overnight financing rate SOFR ), plus the applicable margin for such loans, or (ii) the alternate base rate ABR ), which is defined as the highest of (a) the prime rate in effect from time to time, (b) the federal funds effective rate in effect from time to time plus , and (c) the adjusted term SOFR for a one (1) month tenor in effect from time to time plus , plus the applicable margin for such loans. The applicable margin for borrowings bearing interest on the SOFR ranges from to , and the applicable margin for borrowings bearing interest based on the ABR ranges from to . As of September 30, 2024, the applicable interest rate under the revolving credit facility was . The Company will pay a quarterly commitment fee during the term of the Credit Agreement for the non-use of available funds ranging from to . In addition, the Credit Agreement provides a mechanism to determine a successor reference rate to the applicable reference rate if, among other things, the applicable reference rate becomes unavailable or is generally replaced as a benchmark interest rate. 
+ The Credit Agreement contains customary representations and warranties as well as customary affirmative and negative covenants. Negative covenants include, among others, limitations on incurrence of indebtedness, liens, disposition of property and investments by the Company and its subsidiaries. In addition, the Credit Agreement requires the Company to maintain certain interest coverage, leverage and senior leverage ratios. To date, the Company is in compliance with the affirmative and negative covenants. 
+ The Credit Agreement contains customary events of default. Upon the occurrence and during the continuance of an event of default, the Lenders may declare the outstanding advances and all other obligations under the Credit Agreement immediately due and payable. 
+ The Company may use amounts borrowed under the Credit Agreement for general corporate purposes or working capital financing. The Company may borrow additional amounts under the Credit Agreement from time to time as opportunities and needs arise. As of September 30, 2024, the Company has not drawn down on the credit facility. 
+ 
+ 11 
+
+Table of Contents 
+
+ Note 6 
+ square feet of office space located in New York City, New York July 2024 Lease ), which was previously subleased. The original sublease agreement for the space was set to expire in January 2025. The July 2024 Lease extends the lease term through January 2036 and grants the Company the right to use an additional floor in the building, also comprised of approximately square feet, which has yet to commence. The Company will use the aggregate space to support its general and administrative functions, sales and marketing, technology and development, engineering and customer support. The Company has the option to exercise an early termination at either of two different points during the lease term, neither of which has been reflected in the lease term. The Company has provided an irrevocable letter of credit in the amount of approximately million, pursuant to the terms of the July 2024 Lease. 
+ During the nine months ended September 30, 2024, operating right-of-use assets obtained in exchange for new lease obligations was million. 
+ Finance lease cost Total lease cost 
+ As of September 30, 2024, a weighted average discount rate of and has been applied to the remaining operating and finance lease payments, respectively, to calculate the lease liabilities included within the condensed consolidated balance sheets. The weighted average remaining lease term of operating and finance leases is and years, respectively, as of September 30, 2024. 
+ 2025 2026 2027 2028 Thereafter Total minimum lease payments Less: imputed interest ) ) ) Total present value of lease liabilities 
+ 
+ As of September 30, 2024, the Company has additional operating lease liabilities of million from the July 2024 Lease that have not yet commenced, which are not reflected in the condensed consolidated balance sheets or the tables above. 
+ 12 
+
+Table of Contents 
+
+ Note 7 - 
+ Total acquisition-related intangible assets December 31, 2023 Gross Carrying Amount Accumulated Amortization Net Carrying Amount Developed technology Customer relationships Total acquisition-related intangible assets 
+ The weighted average remaining useful life of developed technology was years as of September 30, 2024. Amortization expense related to acquisition-related intangibles was million for the three months ended September 30, 2024 and 2023, and million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+ 2025 2026 2027 Total estimated future amortization expense for acquisition-related intangible assets 
+ 
+ Note 8 
+ million, and concurrently terminated the previous irrevocable line of credit related to the sublease of the premises of million. Therefore, as of September 30, 2024, the Company had irrevocable letters of credit outstanding related to non-cancelable facilities leases in the amounts of million and million, with annual automatic renewal and final expiration dates in July 2028 and April 2036, respectively. The letter of credit of million was also outstanding as of December 31, 2023. 
+ 13 
+
+Table of Contents 
+
+ . 
+ 
+ Note 9 
+ million of its Class A common stock 2023 Repurchase Program ). In February 2024, the Company s board of directors authorized the Company to repurchase up to an additional million of its Class A common stock 2024 Repurchase Program in addition to the million previously authorized under the 2023 Repurchase Program. As of September 30, 2024, million remains available for repurchases. Shares are repurchased in a manner deemed in the best interest of the Company and its stockholders, dependent upon business, economic and market conditions, corporate and regulatory requirements, prevailing stock prices and other considerations. 
+ During the three and nine months ended September 30, 2024, the Company repurchased and aggregate shares of Class A common stock for million and million, respectively. 
+ Repurchases are executed from time to time, subject to general business and market conditions and other investment opportunities, through open market purchases or privately negotiated transactions, in accordance with Rule 10b-18 and/or Rule 10b5-1 of the Exchange Act. The 2023 Repurchase Program is scheduled to terminate on December 31, 2024, while the 2024 Repurchase Program is scheduled to terminate on December 31, 2025. 
+ Equity Incentive Plans 
+ The Company maintains the 2020 Equity Incentive Plan 2020 Plan ), pursuant to which the Company may grant stock options, restricted stock awards, stock appreciation rights, restricted stock units RSUs ), deferred stock units DSUs ), performance awards, and stock bonus awards. As of September 30, 2024, the Company has reserved shares of Class A common stock for the issuance of awards under the 2020 Plan. These available shares will increase automatically on January 1 for each of the first calendar years during the term of the 2020 Plan by the number of shares equal to the lesser of five percent of the aggregate number of outstanding shares of all classes of the Company s common stock outstanding as of the immediately preceding December 31, or a number as may be determined by the Company s board of directors or compensation committee. No new awards were issued under the Company s prior 2006 Plan or 2017 Plan Prior Plans after the effective date of the 2020 Plan. To the extent outstanding awards under the 2006 Plan and the 2017 Plan are forfeited, expire unexercised, or would otherwise have been returned to the share reserve under the Prior Plans, the shares of Class B common stock subject to such awards instead will be available for future issuance as Class A common stock under the 2020 Plan. 
+ 14 
+
+Table of Contents 
+
+ Options granted Options exercised ) Options canceled ) Options expired ) Outstanding as of September 30, 2024 Vested and exercisable as of September 30, 2024 
+ As of September 30, 2024, unrecognized stock-based compensation of million related to unvested stock options will be recognized on a straight-line basis over a weighted average period of years. 
+ Restricted Stock Units 
+ Granted Vested ) Canceled or forfeited ) Unvested as of September 30, 2024 
+ As of September 30, 2024, unrecognized stock-based compensation of million related to unvested RSUs will be recognized on a straight-line basis over a weighted average period of years. 
+ 2020 Employee Stock Purchase Plan 
+ In November 2020, the Company s board of directors adopted, and its stockholders approved, the 2020 Employee Stock Purchase Plan ESPP ). 
+ The aggregate number of shares reserved for issuance under the ESPP increases automatically on January 1st of each of the first calendar years during the term of the ESPP by the number of shares equal to the lesser of (a) of the total outstanding shares of all classes of the Company s common stock as of the immediately preceding December 31, and (b) such number of shares of common stock as determined by the Company s board of directors. The aggregate number of shares issued over the term of the ESPP may not exceed shares of Class A common stock. As of September 30, 2024, the Company had reserved shares of its Class A common stock for issuance under the ESPP. 
+ 15 
+
+Table of Contents 
+
+ of the lesser of: (a) the fair market value on the offering date or (b) the fair market value on the purchase date. The ESPP provides for, at maximum, month offering periods and each offering period may consist of or more purchase periods, whereby the latest offering period commenced on June 1, 2024, and the offering periods thereafter consist of purchase periods ending May 31, 2025. In August 2024, the compensation committee of the Company s board of directors approved an overlapping twelve -month offering period consisting of six -month purchase periods to commence on December 1, 2024. As of September 30, 2024, million has been withheld on behalf of employees for a future purchase under the ESPP due to the timing of payroll deductions and is included in accrued liabilities. For the nine months ended September 30, 2024 and 2023, and shares of our Class A common stock were purchased under the ESPP, respectively. 
+ As of September 30, 2024, unrecognized stock-based compensation expense related to the ESPP was million, which is expected to be recognized over a weighted-average period of years. 
+ Stock-Based Compensation 
+ Technology and development Sales and marketing General and administrative Total stock-based compensation expense Tax benefit from stock-based compensation ) ) ) ) Total stock-based compensation expense, net of tax effect 
+ 
+ Note 10) ) ) Denominator: Weighted average shares outstanding basic Options to purchase common stock Restricted stock Employee stock purchase plan shares Weighted average shares outstanding diluted 
+ Net income (loss) per share diluted 
+ ) ) ) 
+ 16 
+
+Table of Contents 
+
+ Unvested restricted stock units ESPP Total common stock equivalents excluded from net loss per share diluted 
+
+Note 11 
+ million and million for the three months ended September 30, 2024 and 2023, respectively, and a provision for income taxes of million and income tax benefit of million for the nine months ended September 30, 2024 and 2023, respectively. 
+ The effective income tax rate was ) and for the three months ended September 30, 2024 and 2023, respectively, and ) and for the nine months ended September 30, 2024 and 2023, respectively. The provision for income taxes for the nine months ended September 30, 2024 is related to tax benefits from foreign-derived intangible income, research tax credits, deductions for equity awards, partially offset by nondeductible stock-based compensation and Section 162(m) limitation on the tax deductibility of officers compensation. 
+ Realization of the Company s deferred tax assets is dependent primarily on the generation of future taxable income. In considering the need for a valuation allowance, the Company considers its historical, as well as future projected, taxable income along with other objectively verifiable evidence. Objectively verifiable evidence includes the Company s realization of tax attributes, assessment of tax credits, and utilization of net operating loss carryforwards during the year. 
+ 
+ Note 12 
+ EMEA APAC Rest of the world Total 
+ The following table presents long-lived assets, net, which consist primarily of property and equipment and operating lease right-of-use assets, by geographic area (in thousands): 
+ September 30, 2024 December 31, 2023 United States Rest of the world Total 
+ 17 
+
+Table of Contents 
+
+ Note 13 
+ of their eligible compensation, subject to certain limitations. The 401(k) Plan provides for a discretionary employer matching contribution. The Company made million and million in matching contributions to the 401(k) Plan for the nine months ended September 30, 2024 and 2023 , respectively. 
+ 18 
+
+Table of Contents 
+
+ ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These forward-looking statements generally are identified by the words believe, may, will, potentially, estimate, continue, anticipate, intend, could, would, project, plan, expect, and similar expressions. Examples of forward-looking statements include, but are not limited to, statements we make regarding our ability to maintain our growth and profitability, our ability to attract and retain publishers, and our expectations concerning the advertising industry. 
+ These forward-looking statements are subject to a number of risks, uncertainties and assumptions, including those described in Risk Factors and elsewhere in this Quarterly Report on Form 10-Q. Moreover, we operate in a very competitive and rapidly changing environment, and new risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. In light of these risks, uncertainties, and assumptions, the forward-looking events and circumstances discussed in this Quarterly Report on Form 10-Q may not occur and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements. 
+ You should not rely upon forward-looking statements as predictions of future events. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee that the future results, levels of activity, performance, or events and circumstances reflected in the forward-looking statements will be achieved or occur. We undertake no obligation to update publicly any forward-looking statements for any reason after the date of this Quarterly Report on Form 10-Q to conform these statements to actual results or to changes in our expectations, except as required by law. 
+ The following discussion should be read in conjunction with the unaudited condensed consolidated financial statements and the related notes thereto included elsewhere in this Quarterly Report on Form 10-Q, and the audited consolidated financial statements and notes thereto and management s discussion and analysis of financial condition and results of operations for the fiscal year ended December 31, 2023 included in our Annual Report on Form 10-K filed with the U.S. Securities and Exchange Commission (the SEC ). 
+ 
+ Overview 
+ We are an independent technology company seeking to maximize customer value by delivering digital advertising s supply chain of the future. 
+ Our technology platform empowers the world s leading digital content creators (which we refer to as publishers across the open internet to maximize monetization of their advertising inventory. Our platform also provides control and transparency to buyers, which includes advertisers, agencies, agency trading desks, and demand side platforms DSPs ), (which we collectively refer to as buyers and enables both publishers and buyers to drive better business outcomes. Our infrastructure-driven approach allows for the efficient processing and utilization of data in real time. By delivering scalable and flexible programmatic innovation, we believe we improve outcomes for our customers while championing a vibrant and transparent digital advertising supply chain. 
+ We continue to focus on the strengths that we believe provide us with long-term competitive advantages. These strengths include our global, omnichannel reach which targets a diverse set of publishers touching many ad formats and digital device types, including mobile app, mobile web, desktop, display, video, over-the-top video/connected TV OTT/CTV ), and rich media. Additionally, as an independent infrastructure provider prioritizing transparency, we can be more closely aligned with both publishers and buyers which has enabled us to build direct relationships with publishers, advertisers, agencies, and DSPs and create bespoke products that meet our customers needs. We have also maintained a demonstrated track record of stability and agility to address these market conditions and provide superior outcomes for both publishers and buyers. Finally, we have designed our technology to efficiently process real-time advertising transactions while leveraging data to optimize outcomes for publishers and buyers. We own and operate our software and hardware infrastructure globally, which saves significant infrastructure expenditures as compared to public cloud alternatives. 
+ 19 
+
+Table of Contents 
+
+ Industry Trends and Macroeconomic Factors 
+ The digital advertising ecosystem continues to evolve and adapt at a rapid pace. Some noted trends include the continued growth of digital media across multiple platforms, a continued increase in the number of ad impressions processed and analyzed in real-time by each participant in the digital advertising ecosystem, and a desire for transparency and control throughout the supply chain from both the buyers and publishers. Additionally, rapidly evolving data and privacy regulations and industry standards continue to impact our business. For example, in July 2024, Google announced it will no longer deprecate its use of third-party cookies in Chrome and instead ask users to opt-in or opt-out of cookies in Chrome, which may impact the industry s anticipated shift to alternative identity solutions. 
+ Additionally, recent interest rate increases, foreign currency fluctuation and persistent inflation in the U.S. and other markets globally continue to create economic volatility and dislocation in the capital and credit markets in the U.S. and globally. To date, we have not observed material impacts in our business or outlook, but we intend to continue to monitor macroeconomic conditions closely and may determine to take certain financial or operational actions in response to such conditions to the extent our business begins to be adversely impacted. 
+ We believe we are positioned to benefit from tailwinds in the advertising industry, including the rapid proliferation of digital media, the need for purpose-built infrastructure to address the increasing complexity in the digital advertising landscape, and increasing consumer time spent online. 
+ See Risk Factors in this report and in our Annual Report on Form 10-K for the year ended December 31, 2023 for further discussion of the risks related to inflation, rising interest rates, foreign currency fluctuations and public health crises on our business. 
+ Business Highlights 
+ The table below summarizes the financial highlights of our business performance: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) Revenue 71,786 63,677 205,754 182,414 Operating loss (2) 
+ (1,365) (571) (10,875) (18,377) Net income (loss) (2) 
+ (912) 1,774 (1,395) (9,821) Adjusted EBITDA (1)(2) 
+ 18,546 18,240 54,679 36,403 Net cash provided by operating activities (2) 
+ 19,139 23,845 55,377 52,447 
+ _______________ 
+ (1) For a definition of Adjusted EBITDA, an explanation of our management s use of this measure, and a reconciliation of Adjusted EBITDA to net income, see Non-GAAP Financial Measure. 
+ (2) Amounts for the nine months ended September 30, 2023 include a provision for bad debt of 5.7 million relating to a Demand Side Platform DSP buyer of our platform that filed for Chapter 11 bankruptcy. 
+ 20 
+
+Table of Contents 
+
+ Our Strategy and Performance 
+ We believe our growth and financial performance are dependent on many factors, including those described below. 
+ Attract New Customers and Expand our Relationship with Existing Customers Globally 
+ We leverage our extensive platform capabilities and the subject matter expertise of our team members to grow revenue from our publishers and increase advertising spending from our buyers. Our sales and marketing team includes customer success pods to enhance customer knowledge and implementation of best practices. Once we onboard a new customer, we seek to expand our relationship with existing publishers by establishing multiple header bidding integrations by leveraging our omnichannel capabilities to maximize our access to publishers ad formats and devices, and expanding into the various properties that a publisher may own around the world. We may also up-sell additional products to publisher customers including our header bidding management, identity, and audience solutions. We automate workflow processes whenever feasible to drive predictable and value-added outcomes for our customers and increase productivity of our organization. 
+ Net dollar-based retention rate is an important indicator of publisher satisfaction and usage of our platform, as well as potential revenue for future periods. We calculate our net dollar-based retention rate at the end of each quarter for a cumulative twelve months. We calculate our net dollar-based retention rate by starting with the revenue from publishers in the prior trailing twelve-month period Prior Period Revenue ). We then calculate the revenue from these same publishers in the current trailing twelve-month period Current Period Revenue ). Current Period Revenue includes any upsells and is net of contraction or attrition, but excludes revenue from new publishers. 
+ Our net dollar-based retention rate equals the Current Period Revenue divided by Prior Period Revenue. Our net dollar-based retention rate was 112 for the trailing twelve months ended September 30, 2024 and 97 for the trailing twelve months ended September 30, 2023. Our revenue growth in the period ended September 30, 2024 and 2023 was primarily attributable to an increase in the number of ad impressions processed from our publishers, upselling additional products, penetration of header bidding for mobile app and digital video, and increased demand from the growth of our buyer relationships primarily through SPO agreements. 
+ Further, we work with DSPs to help them reduce their costs and improve advertiser ROI, which in turn makes us the specialized cloud infrastructure platform of choice for many of our buying partners. We depend upon a limited number of large DSPs for a large percentage of impressions purchased and our business results, including revenues, may be impacted by changes in their pricing strategies, bidding algorithms or go-to market efforts. As buyers increasingly consolidate their spending with fewer larger technology platforms, we seek to bring an increased proportion of their digital ad spending to our platform through direct deals. S upply Path Optimization SPO continues to be a major growth driver for us as we add new SPO relationships and expand existing ones. We have been investing in SPO technology and partnerships for five years and SPO represented over 50 of total activity for the three months ended September 30, 2024. 
+ Monetization Excellence 
+ We focus on monetizing digital impressions by coordinating over a hundred billion real-time auctions and nearly a trillion bids globally on a daily basis, using our specialized cloud software, machine learning algorithms, and scaled transaction infrastructure. Valuable ad impressions are transparent and data rich, viewable by humans, and verifiable. Each ad impression we auction consists of 631 independent data parameters, which can yield valuable insights if recorded and analyzed properly. This processing of voluminous data for each ad impression must occur in less than half a second as consumers expect a seamless digital ad experience. We continually assess impressions from new and existing publishers through a rigorous validation process. We add or remove impressions from our platform based on an assessment of the projected value of the impressions, which is influenced by the type of publisher and its related consumers, as well as the potential volume of monetizable impressions and ad format types, such as digital video. We continuously create and iterate algorithms that leverage vast datasets flowing through our infrastructure to improve the liquidity in our marketplace. Our ability to drive successful outcomes in the real-time auction process on behalf of our publishers and buyers will affect our operating results. 
+ 21 
+
+Table of Contents 
+
+ Infrastructure Platform Efficiency 
+ We have a track record of expanding the capacity of our infrastructure platform, while maintaining or reducing the corresponding costs related to processing impressions transacted on our platform on a per impression basis. We expect to continue to invest in both software and hardware infrastructure to continue growing the number of valuable ad impressions we process on our platform. 
+ Our recent growth has been driven by a variety of factors including increased access to mobile web (display and video) and mobile app (display and video) impressions and desktop video impressions. Our performance is affected by our ability to maintain and grow our access to valuable ad impressions from current publishers as well as through new relationships with publishers. In September 2024, our platform processed approximately 781 billion ad impressions daily, each in a fraction of a second. 
+ 
+ Key Components of Our Results of Operations 
+ Revenue 
+ We generate revenue from publishers who use our platform. We generate revenue primarily through fees charged to our publishers, which are generally a percentage of the value of the advertising impressions that publishers monetize on the platform. We also generate revenues from our other products such as OpenWrap, our header bidding solution, and Connect, our solution that provides additional data and insights to buyers, which are sold separate from or in conjunction with use of our platform. In 2023, we launched Activate, which allows buyers to execute direct deals on our platform with publisher inventory, and Convert, our commerce media solution. 
+ We report revenue on a net basis. This represents gross billings to buyers, net of amounts we pay publishers. We record our accounts receivable at the amount of gross billings to buyers, net of allowances, for the amounts we are responsible to collect, and we record our accounts payable at the net amount payable to publishers. Accordingly, both accounts receivable and accounts payable appear large in relation to revenue, which is reported on a net basis. 
+ Cost of Revenue 
+ Cost of revenue consists of data center co-location costs, depreciation expense related to hardware supporting our platform, amortization expense related to capitalized internal-use software development costs, personnel costs, and allocated facilities costs. Personnel costs include salaries, bonuses, stock-based compensation, and employee benefit costs, and are primarily attributable to our cloud operations group, which maintains our servers, and our client operations group, which is responsible for the integration of new publishers and buyers and providing customer support for existing customers. 
+ Operating Expenses 
+ Technology and Development. Technology and development expenses consist of personnel costs, including salaries, bonuses, stock-based compensation, and employee benefits costs, allocated facilities costs, and professional services. These expenses include costs incurred in the development, implementation and maintenance of internal-use software, including platform and related infrastructure. We expend technology and development costs as incurred, except to the extent that such costs are associated with internal-use software development that qualifies for capitalization. We expect technology and development expenses to generally increase in absolute dollars in future periods. 
+ Sales and Marketing. Sales and marketing expenses consist of personnel costs, including salaries, bonuses, stock-based compensation, and employee benefits costs, for our employees engaged in sales, sales support, marketing, business development, and customer relationship functions. Sales and marketing expenses also include expenses related to promotional, advertising and marketing activities, allocated facilities costs, travel, and entertainment primarily related to sales activity and professional services. We expect sales and marketing expenses to increase in absolute dollars in future periods. 
+ General and Administrative . General and administrative expenses consist of personnel costs, including salaries, bonuses, stock-based compensation, and employee benefits costs for our executive, finance, legal, human resources, information technology, and other administrative employees. General and administrative expenses also include outside consulting, legal and accounting services, allocated facilities costs, and travel and entertainment primarily related to inter-office travel and conferences. 
+ 22 
+
+Table of Contents 
+
+ Total Other Income (expense), Net 
+ Total other income (expense), net consists of interest income and other income (expense), net. Interest income is generated by investing excess cash into money market accounts and marketable securities. Other income (expense), net consists primarily of gains and losses from foreign currency exchange transactions. 
+ We believe that investment gains and losses, whether realized from dispositions or unrealized from changes in market prices of equity securities, are generally meaningless in understanding our reported results or evaluating the economic performance of our businesses. These gains and losses have caused and will continue to cause significant volatility in our periodic earnings. 
+ Provision for (benefit from) Income Taxes 
+ The provision for (benefit from) income taxes consists primarily of federal, state, and foreign income taxes. Our provision for income taxes or income tax benefit may be significantly affected by changes to our estimates for tax in jurisdictions in which we operate and other estimates utilized in determining the global effective tax rate. Actual results may also differ from our estimates based on changes in economic conditions. Such changes could have a substantial impact on the income tax provision. We reevaluate the judgments surrounding our estimates and make adjustments, as appropriate, each reporting period. 
+ Our effective tax rate differs from the U.S. federal statutory income tax rate due to state taxes, foreign tax rate differences, research tax credits, and stock-based compensation. 
+ Realization of our deferred tax assets is dependent primarily on the generation of future taxable income. In considering the need for a valuation allowance, we consider our historical, as well as future projected, taxable income along with other objectively verifiable evidence. Objectively verifiable evidence includes our realization of tax attributes, assessment of tax credits, and utilization of net operating loss carryforwards during the year. 
+ 23 
+
+Table of Contents 
+
+ Results of Operations 
+ The following tables set forth our condensed consolidated results of operations data and such data as a percentage of revenue for the periods presented. The period-to-period comparison of results is not necessarily indicative of results for future periods. 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) (in thousands) Revenue 71,786 63,677 205,754 182,414 Cost of revenue (2) 
+ 25,508 26,091 76,092 75,021 Gross profit 46,278 37,586 129,662 107,393 Operating expenses (2) : 
+ Technology and development 8,813 6,634 25,432 19,881 Sales and marketing 23,696 19,513 71,606 62,450 General and administrative (1) 
+ 15,134 12,010 43,499 43,439 Total operating expenses 47,643 38,157 140,537 125,770 Operating loss (1,365) (571) (10,875) (18,377) Interest income 1,969 2,246 6,873 6,313 Other income (expense), net (930) 210 3,356 (476) Income (loss) before income taxes (326) 1,885 (646) (12,540) Provision for (benefit from) income taxes 586 111 749 (2,719) Net income (loss) (912) 1,774 (1,395) (9,821) 
+ _______________ 
+ (1) Amounts for the nine months ended September 30, 2023 include a provision for bad debt of 5.7 million relating to a DSP buyer of our platform that filed for Chapter 11 bankruptcy. 
+ (2) Amounts include stock-based compensation expense before tax benefit as follows: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) (in thousands) Cost of revenue 486 387 1,417 1,089 Technology and development 1,603 1,112 4,688 3,209 Sales and marketing 3,450 2,550 10,160 7,873 General and administrative 3,918 3,151 12,002 9,354 Total stock-based compensation expense 9,457 7,200 28,267 21,525 
+ 24 
+
+Table of Contents 
+
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (as percentage of revenue) (as percentage of revenue) Revenue 100 100 100 100 Cost of revenue 36 41 37 41 Gross profit 64 59 63 59 Operating expenses: Technology and development 12 10 12 11 Sales and marketing 33 31 35 34 General and administrative 21 19 21 24 Total operating expenses 66 60 68 69 Operating loss (2) (1) (5) (10) Interest income 3 4 3 3 Other income (expense), net (1) 1 Income (loss) before income taxes 3 (1) (7) Provision for (benefit from) income taxes 1 (1) Net income (loss) (1) 3 (1) (6) 
+ Revenue, Cost of Revenue and Gross Profit 
+ Three Months Ended September 30, 2024 2023 Change Change (dollars in thousands) Revenue 71,786 63,677 8,109 13 Cost of revenue 25,508 26,091 (583) (2) Gross profit 46,278 37,586 8,692 23 Gross profit margin 64 59 Nine Months Ended September 30, 2024 2023 Change Change (dollars in thousands) Revenue 205,754 182,414 23,340 13 Cost of revenue 76,092 75,021 1,071 1 Gross profit 129,662 107,393 22,269 21 Gross profit margin 63 59 
+ Revenue for the three months ended September 30, 2024 increased by 8.1 million, or 13 , compared to the three months ended September 30, 2023. Revenue for the nine months ended September 30, 2024 increased by 23.3 million, or 13 , compared to the nine months ended September 30, 2023. Our revenues were primarily driven by increased impressions processed on our platform, new revenue streams, and growth in customer relationships. In addition,our revenues for the three and nine months ended September 30, 2024 benefited by approximately 4.2 million and 5.3 million, respectively, from incremental political spend in the United States due to the 2024 presidential election. Our business was negatively impacted by bidding methodology changes implemented by one of our buyers in the second half of the second fiscal quarter. 
+ As of September 30, 2024, we served approximately 1,900 publishers and app developers worldwide on our platform, compared to approximately 1,750 publishers and app developers worldwide as of September 30, 2023. For purposes of our publisher count, we aggregate multiple business accounts from separate divisions, segments or subsidiaries into a single master publisher based on our assessment of the related nature of the group. 
+ We expect our revenues to be affected by macroeconomic conditions for the remainder of 2024, and will continue to be impacted by the bidding methodology changes implemented by one of our buyers in the near term. The magnitude of these impacts on our future revenues is difficult to predict. 
+ 25 
+
+Table of Contents 
+
+ Cost of revenue decreased 0.6 million for the three months ended September 30, 2024 compared to the three months ended September 30, 2023, primarily due to a 1.1 million decrease in data center costs offset by a 0.4 million increase in personnel costs as headcount increased. Overall, our cost of revenue per impression processed for the three months ended September 30, 2024 decreased by approximately 22 compared to the three months ended September 30, 2023. 
+ Cost of revenue increased 1.1 million for the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023, primarily due to a 0.9 million increase in depreciation of data center equipment and amortization of internal-use software, and a 1.5 million increase in personnel costs, offset by a 1.6 million decrease in data center costs. Overall, our cost of revenue per impression processed for the nine months ended September 30, 2024 decreased by approximately 19 compared to the nine months ended September 30, 2023. 
+ Our gross margin of 64 for the three months ended September 30, 2024 increased compared to 59 for the three months ended September 30, 2023, and our gross margin of 63 for the nine months ended September 30, 2024 increased compared to 59 for the nine months ended September 30, 2023 primarily due to acceleration of revenue growth. 
+ We expect the cost of revenue to be higher in 2024 compared to 2023 in absolute dollars as we continue to expand our capacity to process impressions. Cost of revenue may fluctuate from quarter to quarter and period to period, on an absolute dollar basis and as a percentage of revenue, depending on revenue levels and the volume of transactions we process supporting those revenues, and the timing and amounts of depreciation and amortization of equipment and software. 
+ Technology and Development 
+ Three Months Ended September 30, 2024 2023 Change Change (dollars in thousands) Technology and development 
+ 8,813 6,634 2,179 33 Percent of revenue 
+ 12 10 Nine Months Ended September 30, 2024 2023 Change Change (dollars in thousands) Technology and development 
+ 25,432 19,881 5,551 28 Percent of revenue 
+ 12 11 
+ The increase in technology and development costs for the three months ended September 30, 2024 was primarily due to an increase of 2.9 million in personnel costs as headcount increased, partially offset by an increase of 1.0 million related to the capitalization of internal-use software. 
+ The increase in technology and development costs for the nine months ended September 30, 2024 was primarily due to an increase of 6.7 million in personnel costs as headcount increased and an increase in facilities costs of 0.5 million, partially offset by an increase of 2.1 million related to the capitalization of internal-use software. 
+ We expect technology and development expenses to continue to increase in 2024 compared to 2023 in absolute dollars, primarily due to additional headcount and investment in technological innovation. 
+ 26 
+
+Table of Contents 
+
+ Sales and Marketing 
+ Three Months Ended September 30, 2024 2023 Change Change (dollars in thousands) Sales and marketing 
+ 23,696 19,513 4,183 21 Percent of revenue 
+ 33 31 Nine Months Ended September 30, 2024 2023 Change Change (dollars in thousands) Sales and marketing 
+ 71,606 62,450 9,156 15 Percent of revenue 
+ 35 34 
+ Sales and marketing costs for the three months ended September 30, 2024 increased primarily due to a 3.8 million increase in personnel costs and a 0.2 million increase in facilities costs. 
+ Sales and marketing costs for the nine months ended September 30, 2024 increased primarily due to a 9.0 million increase in personnel costs and a 0.7 million increase in facilities costs, offset by a decrease in amortization of intangible assets of 0.9 million. 
+ We expect sales and marketing expenses to increase in 2024 compared to 2023 in absolute dollars primarily due to additional headcount investment and marketing programs. 
+ General and Administrative 
+ Three Months Ended September 30, 2024 2023 Change Change (dollars in thousands) General and administrative 
+ 15,134 12,010 3,124 26 Percent of revenue 
+ 21 19 Nine Months Ended September 30, 2024 2023 Change Change (dollars in thousands) General and administrative 
+ 43,499 43,439 60 Percent of revenue 
+ 21 24 
+ General and administrative expense increased for the three months ended September 30, 2024 primarily due to a 1.9 million increase in personnel costs and a 1.0 million increase in professional services fees. 
+ General and administrative expense increased for the nine months ended September 30, 2024 primarily due to a 5.2 million increase in personnel costs and a 1.0 million increase in professional services fees, offset by a 5.7 million decrease in provision for bad debt relating to a DSP buyer of our platform that filed for Chapter 11 bankruptcy in June 2023 and a 0.5 million decrease in property taxes. 
+ We expect general and administrative expenses to increase in 2024 compared to 2023 in absolute dollars primarily due to additional headcount. 
+ 27 
+
+Table of Contents 
+
+ Interest Income 
+ Three Months Ended September 30, 2024 2023 Change Change (dollars in thousands) Interest income 
+ 1,969 2,246 (277) (12) Nine Months Ended September 30, 2024 2023 Change Change (dollars in thousands) Interest income 
+ 6,873 6,313 560 9 
+ Interest income decreased for the three months ended September 30, 2024 compared to the prior year period due to a decrease in the Company s interest-bearing securities balance. Interest income increased for the nine months ended September 30, 2024 compared to the prior year period due to the increase in interest rates. 
+ Other Income (Expense), net 
+ Three Months Ended September 30, 2024 2023 Change Change (dollars in thousands) Other income (expense), net 
+ (930) 210 (1,140) (543) Nine Months Ended September 30, 2024 2023 Change Change (dollars in thousands) Other income (expense), net 
+ 3,356 (476) 3,832 (805) 
+ Other income (expense), net decreased for the three months ended September 30, 2024 due to foreign exchange rate fluctuations. Other income (expense), net increased for the nine months ended September 30, 2024 compared to the prior year period due to other income of 4.0 million from the Google Privacy Sandbox initiative in connection with their previous initiative to phase out the use of third-party cookies. This income was related to our efforts to build and test integrations with the privacy sandbox. 
+ Provision for (benefit from) Income Taxes 
+ Three Months Ended September 30, 2024 2023 Change Change (dollars in thousands) Provision for income taxes 586 111 475 428 Nine Months Ended September 30, 2024 2023 Change Change (dollars in thousands) Provision for (benefit from) income taxes 749 (2,719) 3,468 (128) 
+ The difference between the effective tax rate for the three months ended September 30, 2024 of (180) and the federal statutory income tax rate of 21 was related to tax benefits from foreign-derived intangible income (FDII), research tax credits and deductions for equity awards, partially offset by nondeductible stock-based compensation, and Section 162(m) limitation on the tax deductibility of officers' compensation. The effective income tax rate of 6 for the three months ended September 30, 2023 was related to the tax benefit from FDII, the 2022 federal tax provision to return adjustments and research tax credit, partially offset by an increase in nondeductible stock-based compensation and Section 162(m) limitation on the tax deductibility of officers compensation. 
+ 28 
+
+Table of Contents 
+
+ The difference between the effective tax rate for the nine months ended September 30, 2024 of (116) and the federal statutory income tax rate of 21 was related to tax benefits from FDII, research tax credits and deductions for equity awards, partially offset by nondeductible stock-based compensation, and Section 162(m) limitation on the tax deductibility of officers' compensation. The effective income tax rate of 22 for the nine months ended September 30, 2023 was related to the tax benefit from FDII, research tax credit, and 2022 federal tax provision to return adjustments, partially offset by an increase in tax expense primarily related to nondeductible stock-based compensation, and Section 162(m) limitation on the tax deductibility of officers compensation. 
+ 
+ Non-GAAP Financial Measures 
+ In addition to our results determined in accordance with U.S. generally accepted accounting principles GAAP ), including, in particular, operating loss, net cash provided by operating activities, and net income (loss), we believe that Adjusted EBITDA, a non-GAAP measure, is useful in evaluating our operating performance. We define Adjusted EBITDA as net income (loss) adjusted for stock-based compensation expense, depreciation and amortization, interest income, and provision for (benefit from) income taxes. 
+ The following table presents a reconciliation of Adjusted EBITDA to net income (loss) for each of the periods indicated: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (in thousands) (in thousands) Net income (loss) (1)(2) 
+ (912) 1,774 (1,395) (9,821) Add back (deduct): Stock-based compensation 9,457 7,200 28,267 21,525 Depreciation and amortization 11,384 11,401 33,931 33,731 Interest income (1,969) (2,246) (6,873) (6,313) Provision for (benefit from) income taxes 586 111 749 (2,719) Adjusted EBITDA (1) 
+ 18,546 18,240 54,679 36,403 
+ _______________ 
+ (1) Net income (loss) and Adjusted EBITDA for the nine months ended September 30, 2024 include other income of 4.0 million related to our efforts to build and test integrations with the Google Privacy Sandbox. 
+ (2) Amounts for the nine months ended September 30, 2023 include a provision for bad debt of million relating to a DSP buyer of our platform that filed for Chapter 11 bankruptcy. 
+ Although Adjusted EBITDA is used by many investors and securities analysts in their evaluations of companies, it has limitations as an analytical tool, and should not be considered in isolation or as a substitute for analysis of our results of operations as reported under GAAP. Other companies in our industry may calculate Adjusted EBITDA differently than we do, limiting its usefulness as a comparative measure. 
+ 29 
+
+Table of Contents 
+
+ Liquidity and Capital Resources 
+ We have financed our operations and capital expenditures primarily through utilization of cash generated from operations as well as sales of equity securities. As of September 30, 2024, we had cash, cash equivalents, and marketable securities of 140.4 million and net working capital, consisting of current assets less current liabilities, of 137.0 million. 
+ Our principal uses of cash are funding our operations and other working capital requirements. 
+ We believe our existing cash, cash equivalents, marketable securities and anticipated net cash provided by operating activities, together with available borrowings under our credit facility, will be sufficient to meet our working capital requirements for at least the next 12 months. However, if our operating performance during the next 12 months is below our expectations, our liquidity and ability to operate our business could be adversely affected. Our future capital requirements and the adequacy of available funds will depend on many factors, including those set forth under Risk Factors in this report and in our Annual Report on Form 10-K for the year ended December 31, 2023. As of September 30, 2024, our material cash requirements included the contractual commitments set forth under Contractual Obligations and Future Cash Requirements. 
+ In February 2023, our board of directors authorized the 2023 Repurchase Program. Subsequently in February 2024, our board of directors authorized the 2024 Repurchase Program. During the nine months ended September 30, 2024, we repurchased 3,572,563 shares of Class A common stock under the 2023 Repurchase Program and 2024 Repurchase Program, collectively, for an aggregate purchase price of 64.8 million. As of September 30, 2024, 50.9 million remained available for future share repurchases under the 2024 Repurchase Program. The U.S. Inflation Reduction Act of 2022 was enacted on August 16, 2022 and requires a one percent excise tax on certain share repurchases in excess of shares issued for employee compensation made after December 31, 2022. For purposes of calculating the excise tax, repurchasing corporations are permitted to net the fair market value of certain stock issuances against the fair market value of stock repurchases during the same taxable year, with certain exceptions. We do not expect this provision to have a material effect on our condensed consolidated financial statements. 
+ In the future, we may attempt to raise additional capital through the sale of equity securities or through equity-linked or debt financing arrangements. If we raise additional funds by issuing equity or equity-linked securities, the ownership of our existing stockholders will be diluted. If we raise additional financing by incurring additional indebtedness, we may be subject to increased fixed payment obligations and could also be subject to additional restrictive covenants, such as limitations on our ability to incur additional debt, and other operating restrictions that could adversely impact our ability to conduct our business. Any future indebtedness we incur may result in terms that could be unfavorable to equity investors. We cannot guarantee that we will be able to raise additional capital in the future on favorable terms, or at all. Any inability to raise capital could adversely affect our ability to achieve our business objectives. 
+ The global advertising industry experiences seasonal trends that affect the vast majority of participants in the digital advertising ecosystem. Most notably, advertisers have historically spent relatively more in the fourth quarter of the calendar year to coincide with the holiday shopping season, and relatively less in the first quarter. We expect seasonality trends to continue, thereby resulting in seasonality in our revenues and corresponding accounts receivable and accounts payable balances, and our ability to manage our resources in anticipation of these trends will affect our operating results. 
+ 
+ Cash Flows 
+ The following table summarizes our cash flows for the periods presented: 
+ Nine Months Ended September 30, 2024 2023 (in thousands) Net cash provided by operating activities 55,377 52,447 Net cash provided by (used in) investing activities 9,645 (7,708) Net cash used in financing activities (64,617) (39,391) Net increase in cash and cash equivalents 405 5,348 
+ 30 
+
+Table of Contents 
+
+ Operating Activities 
+ Our cash flows from operating activities are primarily influenced by growth in our operations, increases or decreases in collections from our buyers and related payments to our publishers, as well as our investment in personnel to support the anticipated growth of our business. Cash flows from operating activities have been affected by changes in our working capital, particularly changes in accounts receivable and accounts payable. The timing of cash receipts from buyers and payments to publishers can significantly impact our cash flows from operating activities. For example, we noted an impact to our operating cash flows for the nine months ended September 30, 2024 as a result of shifts in spend from one of our large DSPs. In addition, we expect seasonality to impact quarterly cash flows from operating activities. 
+ For the nine months ended September 30, 2024, net cash provided by operating activities of 55.4 million resulted primarily from adjustments for non-cash expenses of 52.8 million, including 33.9 million for depreciation and amortization and 28.3 million for stock-based compensation, offset by a net loss of 1.4 million, an increase in accounts receivable of 1.3 million, an increase in prepaid expenses and other assets of 1.6 million, a decrease in operating lease liabilities of 4.7 million, and an increase in accounts payable of 8.8 million. 
+ For the nine months ended September 30, 2023, net cash provided by operating activities of 52.4 million resulted primarily from adjustments for non-cash expenses of 48.3 million, including 33.7 million for depreciation and amortization and 21.5 million for stock-based compensation, provision for bad debt of 5.7 million relating to a DSP buyer of our platform that filed for Chapter 11 bankruptcy, a decrease in accounts receivable of 8.4 million, offset by a net loss of 9.8 million, and an increase in accrued liabilities of 3.2 million. 
+ Investing Activities 
+ Our investing activities primarily included investments in marketable securities, purchases of equipment as we expanded the infrastructure in our third-party data centers, and capitalized internal-use software costs in support of enhancing our platform. Purchases of property and equipment may vary from period-to-period due to the timing of the expansion of our data centers, the addition of headcount, and the development cycles of our software development. As our business grows, we expect our capital expenditures and our investment activity to continue to increase. 
+ For the nine months ended September 30, 2024, we used 9.6 million in investing activities, consisting of 13.3 million in purchases of property and equipment (primarily data center infrastructure), and 16.1 million of investments in capitalized internal-use software, and a net decrease in investments of marketable securities of 39.0 million. 
+ For the nine months ended September 30, 2023, we used 7.7 million in investing activities, consisting of 5.4 million in purchases of property and equipment (primarily data center infrastructure), and 13.7 million of investments in capitalized internal-use software, a net increase in investments of marketable securities of 7.4 million, offset by an increase from sales of marketable securities prior to maturity of 18.9 million. 
+ Financing Activities 
+ For the nine months ended September 30, 2024, net cash used in financing activities of 64.6 million was primarily due to purchases of treasury stock of 65.4 million, payment of a business combination indemnification holdback of 2.1 million, offset by proceeds from employee stock option exercises of 1.6 million and proceeds from our employee stock purchase plan of 1.5 million. 
+ For the nine months ended September 30, 2023, net cash used in financing activities of 39.4 million was primarily due to purchases of treasury stock. 
+ 
+ Contractual Obligations and Future Cash Requirements 
+ Our principal contractual obligations consist of non-cancelable leases for our various facilities. In certain cases, the terms of the lease agreements provide for rental payments that increase over time. 
+ There were no material changes to our contractual obligations disclosed in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+ As of September 30, 2024, we had 5.4 million of long-term income tax liabilities, including interest, related to uncertain tax positions. Because of the high degree of uncertainty regarding the settlement of these liabilities, we are unable to estimate the years in which future cash outflows may occur. 
+ 31 
+
+Table of Contents 
+
+ Critical Accounting Policies and Estimates 
+ We prepare our condensed consolidated financial statements in accordance with GAAP. The preparation of the condensed consolidated financial statements requires us to make estimates and assumptions that affect the amounts of assets and liabilities reported, disclosures about contingent assets and liabilities, and reported amounts of revenue and expenses. We evaluate our estimates and assumptions on an ongoing basis using historical experience and other factors, and adjust those estimates and assumptions when facts and circumstances dictate. Actual results could materially differ from these estimates and assumptions. 
+ Besides the update to our allowance for credit losses as included within "Note 2 Basis of Presentation and Summary of Significant Accounting Policies" to the condensed consolidated financial statements in this report, there have been no significant changes in our critical accounting policies and estimates from those disclosed in our audited consolidated financial statements and notes thereto in our Annual Report on Form 10-K for the year ended December 31, 2023. 
+ 32 
+
+Table of Contents 
+
+ ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ We are exposed to certain market risks in the ordinary course of our business. These risks primarily include: 
+ Interest Rate Risk 
+ We had cash and cash equivalents of 78.9 million and marketable securities of 61.5 million as of September 30, 2024, which consisted of bank deposits, money market accounts, time deposits, commercial paper, U.S. Treasury and government debt securities. The primary objective of our investment activities is to preserve principal while maximizing income without significantly increasing risk. Because our cash, cash equivalents, and marketable securities have a relatively short maturity, our portfolio s fair value is relatively insensitive to interest rate changes. Our line of credit is at variable interest rates. We had no amounts outstanding under our credit facility as of September 30, 2024. We do not believe that an increase or decrease in interest rates of 100 basis points would have a material effect on our operating results or financial condition. In future periods, we will continue to evaluate our investment policy relative to our overall objectives. 
+ Currency Exchange Risk 
+ Our condensed consolidated results of operations and cash flows are subject to fluctuations due to changes in foreign currency exchange rates. Historically, the majority of our revenue contracts have been denominated in U.S. Dollars. Our expenses are generally denominated in the currencies in which our operations are located, primarily the U.S. Dollar, Indian Rupee and British Pound. To date, we have not entered into any hedging arrangements with respect to foreign currency risk or other derivative instruments. In the event our foreign sales and expenses increase, our operating results may be more greatly affected by foreign currency exchange rate fluctuations, which can affect our operating income. A hypothetical 10 change in the U.S. Dollar to India Rupee exchange rate could result in a change of 1.6 million in our operating loss for the nine months ended September 30, 2024. A hypothetical 10 change in the U.S. Dollar to British Pound exchange rate could result in a change of 1.6 million in our operating loss for the nine months ended September 30, 2024. 
+ Inflation Risk 
+ We do not believe that inflation has had a material effect on our business, results of operations, or financial condition. If our costs were to become subject to significant inflationary pressures, for example in India, we might not be able to fully offset such higher costs through price increases. Our inability or failure to do so could adversely affect our business, results of operations, and financial condition. 
+ 
+ ITEM 4. CONTROLS AND PROCEDURES 
+ Evaluation of Disclosure Controls and Procedures 
+ Our management, with the participation of our principal executive officer and principal financial officer, has evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act), as of September 30, 2024. Based on such evaluation, our principal executive officer and principal financial officer have concluded that, as of such date, our disclosure controls and procedures were effective at a reasonable assurance level. 
+ Changes in Internal Control over Financial Reporting 
+ There was no change in our internal control over financial reporting (as defined in Rules 13a-15(d) and 15d-15(d) under the Exchange Act) that occurred during the quarter ended September 30, 2024 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ 33 
+
+Table of Contents 
+
+ Inherent Limitations on Effectiveness of Controls and Procedures 
+ Our management, including our principal executive officer and principal financial officer, do not expect that our disclosure controls or our internal control over financial reporting will prevent all errors and all fraud. A control system, no matter how well designated and operated, can provide only reasonable, not absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people or by management override of the controls. The design of any system of controls is also based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions; over time, controls may become inadequate because of changes in conditions, or the degree of compliance with policies or procedures may deteriorate. Because of the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+ 34 
+
+Table of Contents 
+
+ PART II - OTHER INFORMATION 
+ 
+ ITEM 1. LEGAL PROCEEDINGS 
+ From time to time, we may become involved in legal or regulatory proceedings, lawsuits and other claims arising in the ordinary course of our business. In view of the inherent difficulty of predicting the outcome of such matters, we cannot state what the eventual outcome of such matters will be. However, based on our knowledge, we are not presently a party to any legal proceedings that, in the opinion of our management, would individually or taken together have a material adverse effect on our business, operating results, financial condition, or cash flows. Regardless of outcome, litigation can have an adverse impact on us due to defense and settlement costs, diversion of management resources, negative publicity and reputational harm, and other factors. For additional information, see Note 8, Commitments and Contingencies, to our condensed consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q. 
+ 
+ ITEM 1A. RISK FACTORS 
+ Investing in our common stock involves a high degree of risk. The Company s business, operations, financial results, and our stock price can be affected by a number of factors, whether currently known or unknown, including those described in Part I, Item 1A, "Risk Factors" in our Annual Report on Form 10-K for the year ended December 31, 2023. When any one or more of these risks materialize from time to time, such developments could adversely affect our business, financial condition, results of operations, cash flows, and the trading price of our stock. Below are material changes to our risk factors since our Annual Report on Form 10-K for the year ended December 31, 2023. 
+ Risks Related to Our Business, Results of Operations and Growth 
+ If our existing customers do not expand their usage of our platform, or if we fail to attract new publishers and buyers, our growth will suffer. Moreover, any decrease in the use of the advertising channels that we primarily depend on, or failure to expand into emerging channels, could adversely affect our business, results of operations, and financial condition. 
+ We depend upon our buyer and publisher relationships, including channel partners, which aggregate large numbers of smaller publishers, to provide advertising space which we can offer to prospective buyers to continue to grow the usage of our platform. In doing so, we compete for both supply and demand with larger, well-established companies that may have technological or other advantages stemming from their broader experience in the market. We must continue to adapt and improve our technology to compete effectively, and customers have not always embraced our offerings due to various factors, including switching costs from moving away from pre-existing technology integrations, such as already implemented header bidding wrappers, and lack of awareness of our omnichannel offerings. Although we believe we provide superior transparency and accountability to such competitors, certain customers may make technological or financial demands that we are unable or unwilling to meet. These and other factors may make it difficult for us to increase our business with our publishers and buyers, cause some buyers to reduce their spending with us, or increase our costs of doing business, which could adversely affect our business, results of operations, and financial condition. 
+ A relatively small number of premium publishers have historically accounted for a significant portion of the ad impressions sold on our platform, as well as a significant portion of our revenue from publishers, including a relatively small number of channel partners. 
+ We generally do not have minimum commitments from publishers. As a result, the amount, quality, and cost of ad impressions available to us can change at any time with little or no prior notice, and we cannot assure you that we will have access to a consistent volume or quality of ad impressions at a reasonable cost, or at all. We depend upon a relatively small number of premium publishers and channel partners and expect to continue to do so for the foreseeable future. To support our continued growth, we seek to add additional publishers and buyers to our platform and to expand current utilization with our existing publishers and buyers. Any disruptions in our relationships with premium publishers, buyers, or our largest channel partners could adversely affect our business, results of operations, and financial condition. If we cannot retain or add individual publishers with valuable ad impressions, or if such publishers decide not to make their valuable ad impressions available to us, then our buyers may be less inclined to use our platform, which could adversely affect our business, results of operations, and financial condition. 
+ 35 
+
+Table of Contents 
+
+ A limited number of large demand side platforms DSPs The Trade Desk and Google DV360 in particular account for a significant portion of the ad impressions purchased on our platform. We depend upon these DSPs for a large percentage of impressions purchased and expect to do so for the foreseeable future. We have no minimum commitments from buyers to spend on our platform, so the amount of demand available to us and our ability to generate revenue from that demand can change at any time with little or no prior notice, and we cannot assure you that we will have access to a consistent volume or quality of ad campaigns or demand for our ad impressions at a reasonable or consistent price, or at all. A change in the pricing strategies, bidding algorithms or go-to-market efforts by one of these large DSPs could disproportionately impact our business results, including revenues. For example, bidding methodology changes implemented by one of our buyers in the second fiscal quarter of 2024 impacted our revenue for the quarter. Any disruptions in our relationships with DSPs, agencies, advertisers, or buyers could adversely affect our business, results of operations, and financial condition. If a buyer or group of buyers representing a significant portion of the demand in our marketplace decides to materially reduce use of our platform or the manner in which they use our platform, it could cause an immediate and significant decline in our revenue and profitability and adversely affect our business, results of operations, and financial condition. 
+ Historically, our buyers have predominantly used our platform to purchase mobile, display, and video advertising inventory from our publishers. We expect that these will continue to be significant channels used by our customers for digital advertising in the future. We also believe that our revenue growth may depend on our ability to expand within mobile, video, and in particular, CTV, and we are continuing to enhance such channels. We may not be able to accurately predict changes in overall advertiser demand for the channels in which we operate and cannot assure you that our investment in formats will correspond to any such changes or shifts in demand. Any decrease in the use of mobile, display, and video advertising, whether due to customers losing confidence in the value or effectiveness of such channels, regulatory restrictions or other causes, or any inability to further penetrate CTV or enter new and emerging advertising channels, could adversely affect our business, results of operations, and financial condition. 
+ Our results of operations may fluctuate significantly and may not meet our expectations or those of securities analysts and investors. 
+ We operate in an evolving industry with ever-changing customer needs and behavior, and, as a result, our business has evolved over time such that our operating history makes it difficult to evaluate our business and future prospects. Our results of operations have fluctuated in the past, and future results of operations are likely to fluctuate as well. Although we have experienced prolonged revenue growth, we may not be able to sustain this growth rate, current revenue levels, or profitability. In addition, because our business is evolving, our historical results of operations may be of limited utility in assessing our future prospects. We expect to face challenges, risks, and difficulties frequently experienced by growing companies in rapidly developing industries, including those relating to: 
+ changes in demand and pricing for ad impressions sold on our platform; 
+ changes in our access to valuable ad impressions from publishers; 
+ responding to evolving industry standards and government regulations that impact our business, particularly in the areas of data protection and consumer privacy; 
+ developing, maintaining, and expanding relationships with publishers, DSPs, agencies, advertisers, and buyers; 
+ seasonality in our business; 
+ innovating and developing new solutions that are adopted by and meet the needs of publishers, DSPs, agencies, advertisers, and buyers; 
+ competing against companies with a larger customer base or greater financial or technical resources; 
+ changes in the structure of the buying and selling of ad impressions; 
+ changes in the pricing policies of publishers and competitors; 
+ changes in the bidding behavior of buyers of ad impressions; 
+ changes in demand due to changes in macroeconomic environment, including as a result of an economic downturn, recession, inflation, changes in interest rates or foreign exchange rates, disruptions to supply chains, or otherwise; 
+ further expanding our business internationally; and 
+ recruiting, integrating, and retaining qualified and motivated employees, particularly engineers. 
+ 36 
+
+Table of Contents 
+
+ Any one or more of the factors above may result in significant fluctuations in our results of operations. You should not rely on our past results as an indicator of our future performance. 
+ Risk Related to Data Collection and the Use of Collected Data 
+ The disabling of third-party cookies, and the potential of others to develop proprietary replacements for cookies, could adversely affect our business, results of operations, and financial condition. 
+ Some prominent technology companies have also announced intentions to discontinue the use of third-party cookies, and to develop alternative methods and mechanisms for targeting advertisements. For example, in January 2024, Google disabled third-party cookies for up to 1 of Chrome users and also initially announced plans to disable cookies for additional users beginning in the third quarter of 2024. However, in July 2024, Google announced it will no longer depreciate its use of third-party cookies in Chrome and instead ask users to opt-in or opt-out of cookies in Chrome. If companies are forced to rely on targeting methodologies other than cookies, such companies may instead rely on proprietary products, algorithms, or statistical methods to track consumers without cookies, or may utilize log-in credentials entered by consumers into other web properties owned by those companies such as their email services to track web usage, including usage across multiple devices. 
+ Additionally, such companies may build different and potentially proprietary consumer tracking methods into their widely used web browsers, which we may not be able to effectively use for our publishers and buyers. Many applications and other devices also allow consumers to avoid receiving advertisements by paying for subscriptions or other downloads. Although we believe our platform is well-positioned to adapt and continue to provide key data insights to our publishers without cookies, this transition could be more disruptive, slower, or more expensive than we currently anticipate, or publishers and buyers could elect to move a larger proportion of their advertising inventory or spend to these providers to take advantage of proprietary consumer tracking methods, any of which could materially affect our ability to serve our customers, publishers, and buyers, and our business, results of operations, and financial condition could be adversely affected. 
+ 37 
+
+Table of Contents 
+
+ ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES, USE OF PROCEEDS, AND ISSUER PURCHASE OF EQUITY SECURITIES 
+ The following table provides information about our repurchases of our Class A common stock during the three months ended September 30, 2024: 
+ Period Total Number of Shares Purchased Average Price Paid Per Share (2) 
+ Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs (1) 
+ Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs (1) 
+ July 1, 2024 July 31, 2024 226,100 20.98 226,100 75,120,740 August 1, 2024 August 31, 2024 1,230,917 15.46 1,230,917 56,091,910 September 1, 2024 September 30, 2024 337,700 15.39 337,700 50,894,232 Total 1,794,717 1,794,717 
+ 
+ The amounts above do not include the 1 excise tax on stock repurchases enacted by the Inflation Reduction Act of 2022. 
+ _______________ 
+ (1) On February 28, 2023, we announced the authorization of a share repurchase program for the repurchase of shares of our Class A common stock in an aggregate amount of up to 75 million through December 31, 2024. On February 22, 2024, we announced the authorization of an additional share repurchase program for the repurchase of shares of our Class A common stock in an aggregate amount of up to 100 million through December 31, 2025. 
+ (2) Average price paid per share includes costs associated with the repurchases. 
+ 
+ ITEM 3. DEFAULTS UPON SENIOR SECURITIES 
+ Not applicable. 
+ 
+ ITEM 4. MINE SAFETY DISCLOSURES 
+ Not applicable. 
+ 38 
+
+Table of Contents 
+
+ ITEM 5. OTHER INFORMATION 
+ (c) Trading Plans 
+ : 
+ Trading Arrangement Name Title Action Date Rule 10b5-1 Non-Rule 10b5-1 Total Shares to be Sold Expiration Date 
+ X (1) 
+ 
+ Intended to satisfy the affirmative defense of Rule 10b5-1(c). 
+ Not intended to satisfy the affirmative defense of Rule 10b5-1(c). 
+ (1) The 10b5-1 plan included a representation from the officer to the broker administering the plan that they were not in possession of any material nonpublic information regarding the Company or the securities subject to the plan. A similar representation was made to the Company in connection with the adoption of the plan under the Company s insider trading policy. Those representations were made as of the date of adoption of the 10b5-1 plan, and speak only as of that date. In making those representations, there is no assurance with respect to any material non-public information of which the officer was unaware, or with respect to any material non-public information acquired by the officer or the Company after the date of the representation. 
+ (2) The aggregate number of RSU Shares that will be available for sale under the Plan is not yet determinable because the shares available will be net of shares sold to satisfy tax withholding obligations that arise in connection with the vesting and settlement of such RSU awards. As such, for purposes of this disclosure, the shares included in this table reflect the aggregate maximum number of shares underlying the holders RSUs without excluding the shares that will be sold to satisfy the tax withholding obligations. 
+
+39 
+
+Table of Contents 
+
+ ITEM 6. EXHIBITS 
+ Incorporated by Reference Exhibit Number Description of Document Form File No. Exhibit Filing Date Filed Herewith 31.1 Certification of Chief Executive Officer pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ X 31.2 Certification of Chief Financial Officer pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ X 32.1 Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ X 32.2 Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ X 101.INS Inline XBRL Instance Document the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document X 101.SCH Inline XBRL Taxonomy Extension Schema Document X 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document X 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document X 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document X 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document X 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) X ________________ Registrant has omitted portions of the exhibit as permitted under Item 601(b)(10) of Regulation S-K. 
+ The information in this exhibit is furnished and deemed not filed with the Securities and Exchange Commission for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), and is not to be incorporated by reference into any filing of PubMatic, Inc. under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date hereof, regardless of any general incorporation language in such filing. 
+ Indicates a management contract, compensatory plan or arrangement. 
+ 40 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ Dated: November 12, 2024 
+ PUBMATIC, INC. By: /s/ Steven Pantelick Steven Pantelick Chief Financial Officer 
+ (Principal Financial Officer) 
+ 
+ 41 
+
+<EX-31.1>
+ 2
+ q32024exhibit311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO EXCHANGE ACT RULES 13a-14(a) AND 15d-14(a) 
+ AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Rajeev K. Goel, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of PubMatic, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Dated November 12, 2024 
+ By s Rajeev K. Goel 
+ Rajeev K. Goel Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ q32024exhibit312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO EXCHANGE ACT RULES 13a-14(a) AND 15d-14(a) 
+ AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Steven Pantelick, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of PubMatic, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Dated November 12, 2024 
+ By s Steven Pantelick 
+ Steven Pantelick Chief Financial Officer (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ q32024exhibit321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO PURSUANT TO 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Rajeev K. Goel, Chief Executive Officer of PubMatic, Inc. (the Company ), do hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge 
+ 
+ (1) the Quarterly Report on Form 10-Q of the Company for the fiscal quarter ended September 30, 2024 (the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 
+ (2) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Dated November 12, 2024 
+ By s Rajeev K. Goel 
+ Rajeev K. Goel Chief Executive Officer (Principal Executive Officer) 
+ The foregoing certification is not deemed filed with the Securities and Exchange Commission for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), and is not to be incorporated by reference into any filing of PubMatic, Inc. under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date hereof, regardless of any general incorporation language in such filing. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ q32024exhibit322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO PURSUANT TO 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Steven Pantelick, Chief Financial Officer of PubMatic, Inc. (the Company ), do hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge 
+ 
+ (1) the Quarterly Report on Form 10-Q of the Company for the fiscal quarter ended September 30, 2024 (the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 
+ (2) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Dated November 12, 2024 
+ By s Steven Pantelick 
+ Steven Pantelick Chief Financial Officer (Principal Financial Officer) 
+ 
+ The foregoing certification is not deemed filed with the Securities and Exchange Commission for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), and is not to be incorporated by reference into any filing of PubMatic, Inc. under the Securities Act of 1933, as amended, or the Exchange Act, whether made before or after the date hereof, regardless of any general incorporation language in such filing. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ pubm-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ pubm-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ pubm-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ pubm-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ pubm-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

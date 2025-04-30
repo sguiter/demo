@@ -1,0 +1,1379 @@
+<Header>
+<FileStats>
+    <FileName>20241030_10-Q_edgar_data_1932393_0001932393-24-000050.txt</FileName>
+    <GrossFileSize>13626239</GrossFileSize>
+    <NetFileSize>123812</NetFileSize>
+    <NonText_DocumentType_Chars>3518676</NonText_DocumentType_Chars>
+    <HTML_Chars>5078759</HTML_Chars>
+    <XBRL_Chars>2344646</XBRL_Chars>
+    <XML_Chars>2245568</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001932393-24-000050.hdr.sgml : 20241030
+<ACCEPTANCE-DATETIME>20241030063242
+ACCESSION NUMBER:		0001932393-24-000050
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		97
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241030
+DATE AS OF CHANGE:		20241030
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GE HealthCare Technologies Inc.
+		CENTRAL INDEX KEY:			0001932393
+		STANDARD INDUSTRIAL CLASSIFICATION:	X-RAY APPARATUS & TUBES & RELATED IRRADIATION APPARATUS [3844]
+		ORGANIZATION NAME:           	08 Industrial Applications and Services
+		IRS NUMBER:				882515116
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41528
+		FILM NUMBER:		241407322
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 WEST MONROE STREET
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60661
+		BUSINESS PHONE:		833-735-1139
+
+	MAIL ADDRESS:	
+		STREET 1:		500 WEST MONROE STREET
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60661
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	GE Healthcare Holding LLC
+		DATE OF NAME CHANGE:	20220603
+
+</SEC-Header>
+</Header>
+
+ 0001932393-24-000050.txt : 20241030
+
+10-Q
+ 1
+ gehc-20240930.htm
+ 10-Q
+
+gehc-20240930 
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from ____ to ____ 
+ Commission file number 
+
+(Exact name of registrant as specified in its charter) 
+ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) , , 
+ (Address of principal executive offices) (Zip Code) 
+ (Registrant s telephone number, including area code) ) 
+ 
+ Securities Registered Pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ 
+ Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes 
+ There were sh ares of common stock with a par value of 0.01 per share outstanding as of October 23, 2024. 
+
+Table of Contents Page Forward-Looking Statements 
+ 3 
+ Part I. Financial Information Item 1. 
+ Condensed Consolidated Financial Statements (Unaudited) 
+ Condensed Consolidated Statements of Income 
+ 5 
+ Condensed Consolidated Statements of Comprehensive Income (Loss) 
+ 6 
+ Condensed Consolidated Statements of Financial Position 
+ 7 
+ Condensed Consolidated Statements of Changes in Equity 
+ 8 
+ Condensed Consolidated Statements of Cash Flows 
+ 10 
+ Notes to the Condensed Consolidated Financial Statements (Unaudited) 
+ 11 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations MD A 
+ 30 
+ Item 3. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 43 
+ Item 4. 
+ Controls and Procedures 
+ 43 
+ Part II. Other Information Item 1. 
+ Legal Proceedings 
+ 43 
+ Item 1A. 
+ Risk Factors 
+ 43 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 44 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 44 
+ Item 4. 
+ Mine Safety Disclosures 
+ 44 
+ Item 5. 
+ Other Information 
+ 44 
+ Item 6. 
+ Exhibits 
+ 44 
+ Signatures 
+ 45 
+
+2 
+
+FORWARD-LOOKING STATEMENTS 
+ 
+ This Quarterly Report on Form 10-Q contains forward-looking statements. These forward-looking statements might be identified by words, and variations of words, such as will, expect, may, would, could, plan, believe, anticipate, intend, estimate, potential, position, forecast, target, guidance, outlook, and similar expressions. These forward-looking statements may include, but are not limited to, statements about our business; financial performance, financial condition, and results of operations, including revenue, revenue growth, profit, taxes, earnings per share, and cash flows; the impacts of macroeconomic and market conditions and volatility on our business operations, financial results, and financial position and on supply chains and the world economy; our cost structure; our funding and liquidity; the impacts on our business of manufacturing, sourcing, and supply chain management; the Russia and Ukraine conflict; our operations as a stand-alone company; and risks related to foreign currency exchange, interest rates, and commodity price volatility. These forward-looking statements involve risks and uncertainties, many of which are beyond our control. Factors that could cause our actual results to differ materially from those described in our forward-looking statements include, but are not limited to, operating in highly competitive markets; our ability to successfully complete strategic transactions; the actions or inactions of third parties with whom we partner and the various collaboration, licensing, and other partnerships and alliances we have with third parties; demand for our products, services, or solutions and factors that affect that demand; management of our supply chain and our ability to cost-effectively secure the materials we need to operate our business; disruptions in our operations; changes in third-party and government reimbursement processes, rates, contractual relationships, and mix of public and private payers, including related to government shutdowns; the delayed China stimulus and the ongoing anti-corruption campaign; our ability to attract and/or retain key personnel and qualified employees; global geopolitical and economic instability, including as a result of the conflict between Ukraine and Russia, the conflict in the Middle East, and the actions in the Red Sea region; public health crises, epidemics, and pandemics, and their effects on our business; maintenance and protection of our intellectual property rights, as well as maintenance of successful research and development efforts with respect to commercially successful products and technologies; the impact of potential information technology IT ), cybersecurity, or data security breaches; compliance with the various legal, regulatory, tax, privacy, and other laws to which we are subject, such as the Foreign Corrupt Practices Act and similar anti-corruption and anti-bribery laws globally, and related changes, claims, inquiries, investigations, or actions; our ability to control increases in healthcare costs and any subsequent effect on demand for our products, services, or solutions; the impacts related to our increasing focus on and investment in cloud, edge, artificial intelligence, and software offerings; the impact of potential product liability claims; environmental, social, and governance matters; our ability to operate effectively as an independent, publicly traded company; and our level of indebtedness, as well as our general ability to comply with covenants under our debt instruments, and any related effect on our business. Please also see the Risk Factors section of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 filed with the United States Securities and Exchange Commission SEC and any updates or amendments we make in future filings. There may be other factors not presently known to us or which we currently consider to be immaterial that could cause our actual results to differ materially from those projected in any forward-looking statements we make. We do not undertake any obligation to update or revise our forward-looking statements except as required by applicable law or regulation. 
+ 
+ 3 
+
+ITEM 1. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA 
+
+Part I. Financial Information Index Item 1. Condensed Consolidated Financial Statements (Unaudited) 
+ Page Condensed Consolidated Statements of Income 
+ 5 
+ Condensed Consolidated Statements of Comprehensive Income (Loss) 
+ 6 
+ Condensed Consolidated Statements of Financial Position 
+ 7 
+ Condensed Consolidated Statements of Changes in Equity 
+ 8 
+ Condensed Consolidated Statements of Cash Flows 
+ 10 
+ Notes to the Condensed Consolidated Financial Statements (Unaudited) 
+ 11 
+ Note 1. Organization and Basis of Presentation 
+ 11 
+ Note 2. Revenue Recognition 
+ 12 
+ Note 3. Segment Information 
+ 13 
+ Note 4. Receivables 
+ 14 
+ Note 5. Financing Receivables 
+ 15 
+ Note 6. Leases 
+ 15 
+ Note 7. Acquisitions, Goodwill, and Other Intangible Assets 
+ 15 
+ Note 8. Borrowings 
+ 16 
+ Note 9. Postretirement Benefit Plans 
+ 17 
+ Note 10. Income Taxes 
+ 18 
+ Note 11. Accumulated Other Comprehensive Income (Loss) Net 
+ 19 
+ Note 12. Financial Instruments and Fair Value Measurements 
+ 20 
+ Note 13. Commitments, Guarantees, Product Warranties, and Other Loss Contingencies 
+ 24 
+ Note 14. Restructuring Activities 
+ 25 
+ Note 15. Earnings Per Share 
+ 26 
+ Note 16. Supplemental Financial Information 
+ 26 
+ Note 17. Related Parties and Transition Services Agreement 
+ 29 
+ 
+ 4 
+
+Condensed Consolidated Statements of Income (Unaudited) 
+ For the three months ended September 30 
+ For the nine months ended September 30 
+ (In millions, except per share amounts) 2024 2023 2024 2023 Sales of products Sales of services Total revenues Cost of products Cost of services Gross profit Selling, general, and administrative Research and development Total operating expenses Operating income 
+ Interest and other financial charges net Non-operating benefit (income) costs ) ) ) ) Other (income) expense net ) ) ) ) Income from continuing operations before income taxes 
+ Benefit (provision) for income taxes ) ) ) ) Net income from continuing operations 
+ Income (loss) from discontinued operations, net of taxes 
+ ) ) Net income 
+ Net (income) loss attributable to noncontrolling interests 
+ ) ) ) ) Net income attributable to GE HealthCare 
+ Deemed preferred stock dividend of redeemable noncontrolling interest ) Net income attributable to GE HealthCare common stockholders 
+ Earnings per share from continuing operations attributable to GE HealthCare common stockholders: 
+ Basic Diluted Earnings per share attributable to GE HealthCare common stockholders: Basic Diluted Weighted-average number of shares outstanding: Basic Diluted 
+ 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 5 
+
+Condensed Consolidated Statements of Comprehensive Income (Loss) (Unaudited) 
+ For the three months ended September 30 
+ For the nine months ended September 30 
+ (In millions, net of tax) 2024 2023 2024 2023 Net income attributable to GE HealthCare 
+ Net income (loss) attributable to noncontrolling interests 
+ Net income 
+ Other comprehensive income (loss): Currency translation adjustments net of taxes ) ) Pension and Other Postretirement Plans net of taxes 
+ ) ) ) ) Cash flow hedges net of taxes ) ) ) Other comprehensive income (loss) ) ) ) Comprehensive income (loss) 
+ ) Less: Comprehensive income (loss) attributable to noncontrolling interests 
+ ) ) Comprehensive income attributable to GE HealthCare 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 6 
+
+Condensed Consolidated Statements of Financial Position (Unaudited) 
+ As of (In millions, except share and per share amounts) September 30, 2024 December 31, 2023 Cash, cash equivalents, and restricted cash Receivables net of allowances of and 
+ Due from related parties Inventories Contract and other deferred assets All other current assets Current assets Property, plant, and equipment net Goodwill Other intangible assets net Deferred income taxes All other non-current assets 
+ Total assets Short-term borrowings Accounts payable Due to related parties Contract liabilities Current compensation and benefits 
+ All other current liabilities Current liabilities Long-term borrowings Non-current compensation and benefits 
+ Deferred income taxes All other non-current liabilities 
+ Total liabilities Commitments and contingencies Common stock, par value per share, shares authorized, shares issued as of September 30, 2024; shares issued as of December 31, 2023 
+ Treasury stock, at cost, shares as of September 30, 2024 and shares as of December 31, 2023 
+ ) Additional paid-in capital Retained earnings Accumulated other comprehensive income (loss) net ) ) Total equity attributable to GE HealthCare Noncontrolling interests Total equity Total liabilities, redeemable noncontrolling interests, and equity 
+ 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+
+7 
+
+Condensed Consolidated Statements of Changes in Equity (Unaudited) 
+ Common stock Treasury stock 
+ (In millions) Shares 
+ Amount 
+ Shares 
+ Amount 
+ Additional paid-in capital Retained earnings Accumulated other comprehensive income (loss) net Equity attributable to noncontrolling interests Total equity Balances as of June 30, 2024 
+ ) Issuance of shares under equity awards, net of shares withheld for taxes and other 
+ ) ) ) Net income attributable to GE HealthCare 
+ Dividends declared per common share) 
+ ) ) Other comprehensive income (loss) attributable to GE HealthCare 
+ Changes in equity attributable to noncontrolling interests Share-based compensation 
+ Balances as of September 30, 2024 
+ ) ) 
+ 
+ Common stock (In millions) Shares 
+ Amount 
+ Additional paid-in capital Retained earnings Net parent investment Accumulated other comprehensive income (loss) net Equity attributable to noncontrolling interests Total equity Balances as of June 30, 2023 
+ Issuance of shares under equity awards, net of shares withheld for taxes and other 
+ ) ) Net income attributable to GE HealthCare 
+ Dividends declared per common share) 
+ ) ) Other comprehensive income (loss) attributable to GE HealthCare 
+ ) ) Changes in equity attributable to noncontrolling interests ) ) Share-based compensation 
+ Balances as of September 30, 2023 
+ ) 
+ 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 8 
+
+Common stock 
+ Treasury stock 
+ (In millions) Shares 
+ Amount 
+ Shares 
+ Amount 
+ Additional paid-in capital Retained earnings Accumulated other comprehensive income (loss) net Equity attributable to noncontrolling interests Total equity Balances as of December 31, 2023 
+ ) Issuance of shares under equity awards, net of shares withheld for taxes and other 
+ ) ) ) Net income attributable to GE HealthCare 
+ Dividends declared per common share) 
+ ) ) Other comprehensive income (loss) attributable to GE HealthCare 
+ ) ) Changes in equity attributable to noncontrolling interests 
+ Share-based compensation 
+ Balances as of September 30, 2024 
+ ) ) 
+ Common stock (In millions) Shares 
+ Amount 
+ Additional paid-in capital Retained earnings Net parent investment Accumulated other comprehensive income (loss) net Equity attributable to noncontrolling interests Total equity Balances as of December 31, 2022 
+ ) Net transfers from GE, including Spin-Off-related adjustments 
+ ) ) Issuance of common stock in connection with the Spin-Off and reclassification of net parent investment 
+ ) Issuance of shares under equity awards, net of shares withheld for taxes and other 
+ Net income attributable to GE HealthCare 
+ Dividends declared per common share) 
+ ) ) Other comprehensive income (loss) attributable to GE HealthCare 
+ ) ) Changes in equity attributable to noncontrolling interests Share-based compensation 
+ Changes in equity due to redemption value adjustments on redeemable noncontrolling interests 
+ ) ) Balances as of September 30, 2023 
+ ) 
+ 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 9 
+
+Condensed Consolidated Statements of Cash Flows (Unaudited) 
+ For the nine months ended September 30 
+ (In millions) 
+ 2024 2023 Net income Less: Income (loss) from discontinued operations, net of taxes ) Net income from continuing operations Adjustments to reconcile Net income from continuing operations to Cash from (used for) operating activities Depreciation of property, plant, and equipment Amortization of intangible assets Gain on fair value remeasurement of contingent consideration ) ) Net periodic postretirement benefit plan (income) expense ) ) Postretirement plan contributions ) ) Share-based compensation Provision for income taxes Cash paid during the year for income taxes ) ) Changes in operating assets and liabilities, excluding the effects of acquisitions: Receivables ) Due from related parties Inventories ) ) Contract and other deferred assets ) ) Accounts payable ) Due to related parties ) ) Contract liabilities ) Current compensation and benefits 
+ ) All other operating activities - net ) Cash from (used for) operating activities continuing operations Cash flows investing activities Additions to property, plant and equipment and internal-use software ) ) Dispositions of property, plant, and equipment Purchases of businesses, net of cash acquired ) ) Purchases of investments ) ) All other investing activities - net ) ) Cash from (used for) investing activities continuing operations ) ) Cash flows financing activities Net increase (decrease) in borrowings (maturities of 90 days or less) ) Newly issued debt, net of debt issuance costs (maturities longer than 90 days) Repayments and other reductions (maturities longer than 90 days) ) ) Dividends paid to stockholders 
+ ) ) Redemption of noncontrolling interests ) Net transfers (to) from GE ) Proceeds from stock issued under employee benefit plans Taxes paid related to net share settlement of equity awards ) ) All other financing activities - net ) ) Cash from (used for) financing activities continuing operations Cash from (used for) operating activities discontinued operations ) Effect of foreign currency rate changes on cash, cash equivalents, and restricted cash ) ) Increase (decrease) in cash, cash equivalents, and restricted cash Cash, cash equivalents, and restricted cash at beginning of year Cash, cash equivalents, and restricted cash as of September 30 Supplemental disclosure of cash flows information 
+ Cash paid during the year for interest ) ) Non-cash investing activities Acquired but unpaid property, plant, and equipment 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 10 
+
+NOTE 1. 
+ 
+ of the Company s outstanding common stock to holders of record of GE s common stock as of the close of business on December 16, 2022 (the Distribution ), which resulted in the issuance of approximately million shares of common stock. Prior to the Distribution, the Company issued shares of common stock in exchange for , all of which were held by GE as of December 31, 2022. As a result of the Distribution, the Company became an independent public company. On April 2, 2024, GE completed the separation of its GE Vernova business into an independent publicly traded company. As of September 30, 2024, GE s beneficial ownership was approximately of the Company s outstanding common stock. 
+ 
+ In connection with the Spin-Off, certain adjustments were recorded to reflect transfers from GE, the draw-down of the Term Loan Facility, and settlement of Spin-Off transactions with GE, which resulted in the net reduction in Total equity of million. These items substantially consisted of the transfer of: (1) certain pension plan liabilities and assets, (2) certain deferred income taxes, (3) deferred compensation liabilities, and (4) employee termination obligations. 
+ 
+ In connection with the Spin-Off, the Company entered into or adopted several agreements that provide a framework for the relationship between the Company and GE. See Note 17, Related Parties and Transition Services Agreement for more information on these agreements and related transactions. 
+
+Effective July 1, 2024, Image Guided Therapies IGT ), previously part of the Imaging segment, was realigned to the Ultrasound segment to better match its clinical usage and realize stronger business and customer impact by providing the right image guidance in the right care setting. The Ultrasound segment was subsequently renamed Advanced Visualization Solutions AVS ). Following this realignment, the Company continues to have reportable segments: Imaging, AVS, Patient Care Solutions PCS ), and Pharmaceutical Diagnostics PDx ). These segments have been identified based on the nature of the products sold and how the Company manages its operations. Historical segment financial information presented within this report has been recast to conform to the new reportable segments structure. See Note 3, Segment Information for more information. 
+ 
+ The financial statements and notes should be read in conjunction with the Company s audited consolidated and combined financial statements and notes included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+
+11 
+
+NOTE 2. 
+ 
+ Other deferred assets Contract and other deferred assets Non-current contract assets (1) 
+ Non-current other deferred assets (1) 
+ Total contract and other deferred assets 
+ (1) Non-current contract and other deferred assets are recognized within All other non-current assets in the Condensed Consolidated Statements of Financial Position. 
+ 
+ CONTRACT LIABILITIES. 
+ Contract liabilities include customer advances and deposits received when orders are placed and billed in advance of completion of performance obligations. Contract liabilities are classified as current or non-current based on the periods over which remaining performance obligations RPO are expected to be satisfied with our customers. 
+ 
+ As of September 30, 2024 and December 31, 2023, contract liabilities were approximately million and million, respectively, of which the non-current portion of million and million, respectively, was recognized in All other non-current liabilities in the Condensed Consolidated Statements of Financial Position. Revenue recognized related to the contract liabilities balance at the beginning of the year was approximately million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+ 12 
+
+million. We expect to recognize revenue as we satisfy our RPO as follows: (1) product-related RPO of million of which is expected to be recognized within , and the remaining thereafter; and (2) services-related RPO of million of which and are expected to be recognized within and , respectively, and the remaining thereafter. 
+
+NOTE 3. 
+ 
+ core areas: Specialized Ultrasound and Procedural Guidance. Specialized Ultrasound includes Radiology, Primary Care and Point of Care, and Women s Health Ultrasound. Procedural Guidance includes Cardiovascular and Interventional Solutions, and Surgical Innovations. Under the new structure, IGT is reported within the Procedural Guidance business in AVS. Historical segment financial information presented within this report has been recast to conform to the new reportable segments structure. 
+ 
+ Following this realignment, the Company continues to have reportable segments: Imaging, AVS, PCS, and PDx. These segments have been identified based on the nature of the products sold and how the Company manages its operations. We have not aggregated any of our operating segments to form reportable segments. 
+ 
+ The performance of these segments was principally measured based on Total revenues and an earnings metric defined as Segment EBIT. Segment EBIT is calculated as income before income taxes in our Condensed Consolidated Statements of Income excluding the impact of the following: Interest and other financial charges net, Non-operating benefit (income) costs, restructuring costs, acquisition and disposition-related benefits (charges), gain (loss) on business and asset dispositions, Spin-Off and separation costs, amortization of acquisition-related intangible assets, and investment revaluation gain (loss). 
+ 
+ AVS: 
+ Procedural Guidance Specialized Ultrasound Total AVS 
+ PCS: Monitoring Solutions 
+ Life Support Solutions 
+ Total PCS Total PDx Other (1) 
+ Total revenues 
+ (1) Financial information not presented within the reportable segments, shown within the Other category, represents Hea lthCar e Financial Services HFS which does not meet the definition of an operating segment. 
+ 
+ 13 
+
+AVS 
+ PCS PDx Other (1) 
+ Restructuring costs ) ) ) ) Acquisition and disposition-related benefits (charges) 
+ Gain (loss) on business and asset dispositions 
+ ) Spin-Off and separation costs ) ) ) ) Amortization of acquisition-related intangible assets ) ) ) ) Investment revaluation gain (loss) ) ) Interest and other financial charges net ) ) ) ) Non-operating benefit income (costs) Income before income taxes 
+ 
+ (1) Financial information not presented within the reportable segments, shown within the Other category, primarily represents HFS which does not meet the definition of an operating segment. 
+
+NOTE 4. 
+ Non-income based tax receivables Other sundry receivables Current sundry receivables 
+ Allowance for credit losses ) ) Total current receivables net 
+ (1) Chargebacks, which are primarily related to our PDx business, are generally settled through issuance of credits, typically within one month of initial recognition, and are recorded as a reduction to current customer receivables. Balances related to chargebacks were million and million as of September 30, 2024 and December 31, 2023, respectively. 
+ 
+ Long-Term Receivables 
+ As of September 30, 2024 December 31, 2023 Long-term customer receivables Non-income based tax receivables Other sundry receivables 
+ Long-term sundry receivables 
+ Allowance for credit losses 
+ ) ) Total long-term receivables net (1) 
+ 
+ (1) Long-term receivables are recognized within All other non-current assets in the Condensed Consolidated Statements of Financial Position. 
+ 
+ 14 
+
+NOTE 5. 
+ 
+ Investment in financing leases, net of deferred income Allowance for credit losses ) ) Current financing receivables net (1) 
+ Loans receivable, at amortized cost 
+ Investment in financing leases, net of deferred income Allowance for credit losses ) ) Non-current financing receivables net (1) 
+ 
+ (1) Current financing receivables and non-current financing receivables are recognized within All other current assets and All other non-current assets, respectively, in the Condensed Consolidated Statements of Financial Position. 
+ 
+ As of September 30, 2024 , , , and of financing receivables were over 30 days past due, over 90 days past due, and on nonaccrual, respectively, with the majority of nonaccrual financing receivables secured by collateral. As of December 31, 2023 , , , and of financing receivables were over 30 days past due, over 90 days past due, and on nonaccrual, respectively, with the majority of nonaccrual financing receivables secured by collateral. 
+
+NOTE 6. 
+ 
+ million and million as of September 30, 2024 and December 31, 2023, respectively. The total lease expense related to our operating lease portfolio was million and million for the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+
+NOTE 7. 
+ 
+ of the stock of MIM Software Inc. MIM Software for approximately million, net of cash acquired, million of potential earn-out payments, and up to million of other contingent payments based on service requirements. The acquisition was funded with cash on hand. This transaction was accounted for as a business combination. The preliminary purchase price allocation resulted in goodwill of million, customer-related intangible assets of million, developed technology intangible assets of million, net deferred tax liabilities of million, and other net assets of million. The goodwill associated with the acquired business, recorded within the Imaging segment, is non-deductible for tax purposes and is attributed to expected synergies and commercial benefits from use of the MIM Software technology in our existing GE HealthCare portfolio. MIM Software is a global provider of medical imaging analysis and artificial intelligence AI solutions for the practice of radiation oncology, molecular radiotherapy, diagnostic imaging, and urology at imaging centers, hospitals, specialty clinics, and research organizations worldwide. 
+ 
+ Revenue and earnings of MIM Software included in the Company s financial statements since the acquisition date are not material to our consolidated revenue and earnings. If the acquisition of MIM Software had taken place as of the beginning of 2023, consolidated revenues and earnings would not have been significantly different from reported amounts. 
+ 
+ Caption Health 
+ On February 17, 2023, the Company acquired of the stock of Caption Health, Inc. Caption Health for million of upfront payment, million of future holdback payment, and potential earn-out payments valued at million based primarily on various milestones and sales targets. This transaction was accounted for as a business combination. The preliminary purchase price allocation resulted in goodwill of million, intangible assets of million, and deferred tax liabilities of million. The purchase price allocation for Caption Health was finalized in the first quarter of 2024 without material adjustments. The goodwill associated with the acquired business is non-deductible for tax purposes and is reported in the AVS segment. Caption Health is an AI company whose technology expands access to AI-guided ultrasound screening for novice users. 
+
+15 
+
+million increase in the Company s allocation of goodwill to its AVS segment and a corresponding decrease in the goodwill allocated to the Imaging segment. 
+ 
+ Reallocation 
+ ) Acquisitions 
+ Foreign currency exchange and other 
+ Balance at September 30, 2024 
+
+We assess the possibility that a reporting unit s fair value has been reduced below its carrying amount due to the occurrence of events or circumstances between annual impairment testing dates. In connection with the change in reportable segments in the third quarter of 2024, the Company evaluated the goodwill of our Imaging and AVS reporting units for impairment before and after the segment realignment. There were no impairments identified as part of these assessments. In addition, with respect to the PCS and PDx reporting units, we did not identify any events or circumstances that required an interim impairment test since the last annual impairment testing date. 
+ 
+ OTHER INTANGIBLE ASSETS. 
+ 
+ Intangible assets decreased during the nine months ended September 30, 2024, primarily as a result of amortization, partially offset by additions related to the acquisition of MIM Software. Substantially all of our intangible assets are subject to amortization. Amortization expense was million and million for the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+
+NOTE 8. 
+ 
+ million aggregate principal amount of senior unsecured notes in series with maturity dates ranging from 2024 through 2052 (collectively, the Notes ). This includes million aggregate principal amount of senior unsecured notes due in 2029 issued by the Company in the third quarter of 2024. Refer to the table below for further information about the Notes. 
+ 
+ Credit Facilities 
+ The Company has credit agreements providing for: 
+ a senior unsecured revolving credit facility in an aggregate committed amount of million, maturing on January 3, 2028; 
+ a senior unsecured revolving credit facility in an aggregate committed amount of million, maturing on December 11, 2024; and 
+ a senior unsecured term loan credit facility in an aggregate principal amount of million, maturing on January 2, 2026 (the Term Loan Facility and, together with the revolving credit facility and the revolving credit facility, the Credit Facilities ). 
+ 
+ There were outstanding amounts under the revolving credit facility and revolving credit facility, and there was million and million outstanding on the Term Loan Facility as of September 30, 2024 and December 31, 2023, respectively. 
+ 
+ In the first quarter of 2024, we repaid million of the Term Loan Facility and had principal debt repayments on the Notes in the nine months ended September 30, 2024. 
+ 
+ 16 
+
+senior notes due November 15, 2024 
+ senior notes due November 15, 2025 
+ senior notes due November 15, 2027 
+ senior notes due August 14, 2029 
+ senior notes due March 15, 2030 
+ senior notes due November 22, 2032 
+ senior notes due November 22, 2052 
+ Floating rate Term Loan Facility due January 2, 2026 
+ Other Total principal debt issued Less: Unamortized debt issuance costs and discounts Add: Cumulative basis adjustment for fair value hedges 
+ Total borrowings Less: Short-term borrowings (1) 
+ Long-term borrowings 
+ 
+ (1) Short-term borrowings as of September 30, 2024 and December 31, 2023 i ncludes million and million, respectively, related to the current portion of our long-term borrowings, net of unamortized debt issuance costs and discounts. 
+ 
+ See Note 12, Financial Instruments and Fair Value Measurements for further information about borrowings and associated derivatives contracts. 
+ 
+ LETTERS OF CREDIT, GUARANTEES, AND OTHER COMMITMENTS. 
+ 
+ As of September 30, 2024 and December 31, 2023, the Company had bank guarantees and surety bonds of approximately million and million, respectively, related to certain commercial contracts. Additionally, we have issued approximately million and million of guarantees as of September 30, 2024 and December 31, 2023, respectively, primarily related to residual value and credit guarantees on equipment sold to third-party finance companies. Our Condensed Consolidated Statements of Financial Position reflect a liability of million and million as of September 30, 2024 and December 31, 2023, respectively, related to these guarantees. For credit-related guarantees, we estimate our expected credit losses related to off-balance sheet credit exposure consistent with the method used to estimate the allowance for credit losses on financial assets held at amortized cost. See Note 13, Commitments, Guarantees, Product Warranties, and Other Loss Contingencies for further information on guarantee arrangements with GE. 
+
+NOTE 9. 
+ 
+ million are not included in the results below. 
+ 
+ Interest cost Expected return on plan assets ) ) ) ) Amortization of net loss (gain) ) ) ) ) Amortization of prior service cost (credit) ) ) ) Curtailment loss (gain) 
+ Non-operating ) ) ) ) ) ) Net periodic expense (income) ) ) ) ) ) ) 
+ 17 
+
+Interest cost Expected return on plan assets ) ) ) ) Amortization of net loss (gain) ) ) ) ) Amortization of prior service cost (credit) ) ) ) Curtailment loss (gain) 
+ Non-operating ) ) ) ) ) ) Net periodic expense (income) ) ) ) ) ) ) 
+ 
+ In the third quarter of 2023, management approved an amendment to the U.S. based GE HealthCare Pension Plan whereby the benefits for all remaining active employees will be frozen effective December 31, 2024, and additional benefit enhancements were provided. As a result, we recognized a non-cash pre-tax curtailment loss of approximately million as non-operating benefit costs. 
+ 
+ In the nine months ended September 30, 2024, the Company made cash benefit payments totaling million to its Principal Pension Plans, million to its Other Pension Plans, and million to its OPEB Plans. In 2024, the Company expects to make total cash contributions of approximately million to these plans. The Company does not have a required minimum funding contribution for its U.S.-based GE HealthCare Pension Plan in 2024. Future contributions will depend on capital market conditions, including equity market returns, and other factors. 
+ 
+ Defined Contribution Plan 
+ million and million for the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+
+NOTE 10. 
+ 
+ and for the three months ended September 30, 2024 and 2023, respectively, and and for the nine months ended September 30, 2024 and 2023, respectively. The tax rate for the three and nine months ended September 30, 2024 is higher than the U.S. statutory rate primarily due to the tax cost of global activities, reconciling adjustments to recorded tax account balances associated with the Spin-Off, withholding taxes, and state taxes, partially offset by research and development benefits. 
+ 
+ The effective tax rate for 2023 is higher than the U.S. statutory rate primarily due to the tax cost of global activities, including the U.S. taxation on international operations, tax effect of foreign currency movement, withholding taxes, and state taxes. Benefit (provision) for income taxes for the three and nine months ended September 30, 2023 included million of deferred tax provision associated with the Tax Matters Agreement TMA with GE including the effect of completing the 2022 GE U.S. federal tax return. In addition, Other (income) expense net for the three and nine months ended September 30, 2023 included a million benefit related to changes in tax indemnities with GE also associated with the TMA and the effect of completing the 2022 GE U.S. federal tax return. 
+ 
+ Post Spin-Off, the Company s previously undistributed earnings of our foreign subsidiaries are no longer indefinitely reinvested in non-U.S. businesses due to current U.S. funding needs. Therefore, in the first quarter of 2023, an incremental deferred tax liability of million was recorded for withholding and other foreign taxes due upon future distribution of earnings. In addition, the Company is providing for withholding and other foreign taxes due upon future distribution of current period earnings. 
+ 
+ The Company is currently being audited in a number of jurisdictions for tax years 2004-2022, including China, Germany, Norway, the United Kingdom, and the United States. 
+ 
+ 18 
+
+NOTE 11. ) Other comprehensive income (loss) before reclassifications net of taxes of , , and 
+ ) ) Reclassifications from AOCI net of taxes (2) of , , and 
+ ) ) ) Other comprehensive income (loss) 
+ ) ) Less: Other comprehensive income (loss) attributable to noncontrolling interests 
+ September 30, 2024 ) ) ) 
+ 
+ For the three months ended September 30, 2023 
+ Currency translation adjustments (1) 
+ Pension and Other Postretirement Plans 
+ Cash flow hedges Total AOCI June 30, 2023 ) ) Other comprehensive income (loss) before reclassifications net of taxes of ), , and ) 
+ ) ) ) Reclassifications from AOCI net of taxes (2) of , , and ) 
+ ) ) Other comprehensive income (loss) 
+ ) ) ) Less: Other comprehensive income (loss) attributable to noncontrolling interests ) ) September 30, 2023 ) ) 
+ 
+ For the nine months ended September 30, 2024 
+ Currency translation adjustments (1) 
+ Pension and Other Postretirement Plans 
+ Cash flow hedges Total AOCI December 31, 2023 ) ) ) Other comprehensive income (loss) before reclassifications net of taxes of , , and 
+ ) ) Reclassifications from AOCI net of taxes (2) of , , and 
+ ) ) ) Other comprehensive income (loss) 
+ ) ) ) Less: Other comprehensive income (loss) attributable to noncontrolling interests 
+ September 30, 2024 ) ) ) 
+ 
+ 19 
+
+) ) Other comprehensive income (loss) before reclassifications net of taxes of , , and ) 
+ ) ) ) Reclassifications from AOCI net of taxes (2) of , , and 
+ ) ) ) Other comprehensive income (loss) 
+ ) ) ) ) Spin-Off related adjustments net of taxes of , ), and 
+ Less: Other comprehensive income (loss) attributable to noncontrolling interests ) ) September 30, 2023 ) ) 
+ (1) The amount of Currency translation adjustments recognized in Other comprehensive income (loss) OCI during the three and nine months ended September 30, 2024 and 2023 included net gains (losses) relating to net investment hedges, as further discussed in Note 12, Financial Instruments and Fair Value Measurements. 
+ (2) Reclassifications from AOCI into earnings for Pension and Other Postretirement Plans are recognized within Non-operating benefit (income) costs, while Cash flow hedges are recognized within Cost of products and Cost of services in our Condensed Consolidated Statements of Income. 
+
+NOTE 12. 
+ million of pre-tax net deferred loss associated with designated cash flow hedges to earnings in the next 12 months, contemporaneously with the impact on earnings of the related hedged transactions. 
+ The cash flows associated with derivatives designated as cash flow hedges are recorded in All other operating activities in the Condensed Consolidated Statements of Cash Flows. 
+ Net Investment Hedges 
+ We use cross-currency interest rate swaps and foreign currency forward contracts in combination with foreign currency option contracts to hedge the foreign currency risk associated with our net investment in foreign operations. As of September 30, 2024, these contracts were designated as hedges of our net investment in foreign operations, primarily in Euro and Chinese Renminbi currencies. 
+ The cash flows associated with derivatives designated as net investment hedges are recorded in All other investing activities in the Condensed Consolidated Statements of Cash Flows. For the nine months ended September 30, 2024, All other investing activities includes a million payment for the settlement of cross-currency swaps that were designated in net investment hedges. Cash flows from the periodic interest settlements on the cross-currency swaps are recorded in All other operating activities in the Condensed Consolidated Statements of Cash Flows. 
+ Fair Value Hedges 
+ We use interest rate swaps to hedge the interest rate risk on our fixed rate borrowings. These derivatives are designated as fair value hedges to hedge the changes in fair value due to benchmark interest rate risk of specific designated cash flows of our senior unsecured notes. 
+ We record the changes in fair value on these swap contracts in Interest and other financial charges net in our Condensed Consolidated Statements of Income, the same line item where the offsetting change in the fair value of the designated cash flows of the senior unsecured note is recorded as a basis adjustment. 
+ 
+ 20 
+
+Derivatives accounted for as cash flow hedges Cross-currency swaps (1) 
+ Foreign currency forward and options contracts 
+ Derivatives accounted for as net investment hedges Interest rate swaps (1) 
+ Derivatives accounted for as fair value hedges 
+ Foreign currency forward contracts 
+ Other derivatives (1)(2) 
+ Derivatives not designated as hedging instruments 
+ Total derivatives 
+ (1) Accrued interest was immaterial for the periods presented and is excluded from fair value. These amounts are recognized within All other current assets and All other current liabilities in the Condensed Consolidated Statements of Financial Position. 
+ (2) Other derivatives are comprised of embedded derivatives and derivatives related to equity contracts. As of December 31, 2023, Other derivatives also included commodity contracts. 
+
+Under the master arrangements with the respective counterparties to our derivative contracts, in certain circumstances and subject to applicable requirements, we are allowed to net settle transactions with a single net amount payable by one party to the other. However, we have elected to present the derivative assets and derivative liabilities on a gross basis in our Condensed Consolidated Statements of Financial Position and in the table above. 
+ 
+ As of September 30, 2024 and December 31, 2023, the potential effect of rights of offset associated with the derivative contracts would be an offset to both assets and liabilities by million and million, respectively. 
+ 
+ 21 
+
+) Net investment hedges (1) 
+ ) ) ) 
+ (1) Amounts recognized in OCI for excluded components for the periods presented were immaterial. 
+ 
+ Effects of cash flow hedges Cross-currency swaps Foreign currency forward and options contracts 
+ Effects of net investment hedges (1) 
+ Interest rate swaps (2) 
+ Debt basis adjustment on Long-term borrowings 
+ ) Effects of fair value hedges 
+ ) Foreign currency forward contracts 
+ Other derivatives (3) 
+ Effects of derivatives not designated as hedging instruments 
+
+For the three months ended September 30, 2023 
+ Cost of products Cost of services SG A 
+ Interest and other financial charges net 
+ Other (4) 
+ Foreign currency forward contracts ) ) Effects of cash flow hedges ) ) Cross-currency swaps Foreign currency forward and option contracts Effects of net investment hedges (1) 
+ Interest rate swaps 
+ Debt basis adjustment on Long-term borrowings Effects of fair value hedges Foreign currency forward contracts ) ) Other derivatives (3) 
+ ) Effects of derivatives not designated as hedging instruments 
+ ) ) ) 
+ 
+ 22 
+
+Effects of cash flow hedges Cross-currency swaps Foreign currency forward and options contracts 
+ Effects of net investment hedges (1) 
+ Interest rate swaps (2) 
+ Debt basis adjustment on Long-term borrowings 
+ ) Effects of fair value hedges 
+ ) Foreign currency forward contracts 
+ Other derivatives (3) 
+ Effects of derivatives not designated as hedging instruments 
+
+For the nine months ended September 30, 2023 
+ Cost of products Cost of services SG A 
+ Interest and other financial charges net 
+ Other (4) 
+ Foreign currency forward contracts Effects of cash flow hedges Cross-currency swaps Foreign currency forward and option contracts 
+ Effects of net investment hedges (1) 
+ Interest rate swaps 
+ Debt basis adjustment on Long-term borrowings 
+ Effects of fair value hedges Foreign currency forward contracts ) ) Other derivatives (3) 
+ Effects of derivatives not designated as hedging instruments 
+ ) ) 
+ (1) Changes in fair value related to components other than the spot rate are excluded from effectiveness testing for the three and nine months ended September 30, 2024 and 2023. 
+ (2) Amount includes ) million and ) million of interest expense on interest rate derivatives for the three and nine months ended September 30, 2024, respectively. 
+ (3) Other derivatives are primarily comprised of embedded derivatives and derivatives related to equity contracts. 
+ (4) Amounts are inclusive of gains (losses) in Other (income) expense net in the Condensed Consolidated Statements of Income. 
+ 
+ FAIR VALUE MEASUREMENTS. 
+ 
+ Investment securities Derivatives 
+ Liabilities: Derivatives 
+ Contingent consideration 
+ 
+ 23 
+
+million and million, respectively, included money market funds of million and million, and other cash equivalents of million and million, respectively. The carrying values of the other cash equivalents approximates the fair value due to their short maturities and are valued using Level 1 or Level 2 inputs. Refer to Note 16, Supplemental Financial Information for further information. 
+ 
+ Derivatives 
+ Derivatives are measured at fair value using a discounted cash flow method or option models using interest rates, foreign exchange spot and forward rates and yield curves observable at commonly quoted intervals, implied volatilities, and credit spreads as key inputs. Unobservable inputs relate to our own credit risk which is not significant to the overall measurement of fair value. 
+ 
+ Contingent consideration 
+ Contingent consideration is recorded at fair value based on estimates of future cash flows in connection with business acquisitions . As the valuation of these liabilities is based on inputs that are less observable or not observable in the market, the determination of fair value is classified within Level 3 of the fair value hierarchy. 
+ 
+ Non-recurring fair value measurements 
+ Changes in fair value measurements of assets and liabilities measured at fair value on a non-recurring basis, such as equity method investments, equity investments without readily determinable fair value, financing receivables, and long-lived assets, were not material for the nine months ended September 30, 2024 and 2023. 
+ 
+ Fair value of other financial instruments 
+ The estimated fair value of borrowings as of September 30, 2024 and December 31, 2023 was million and million, respectively, compared to a carrying value (which only includes a reduction for unamortized debt issuance costs and discounts and cumulative basis adjustment) of million and million, respectively. The fair value of our borrowings includes accrued interest and is determined based on observable and quoted prices and spreads of comparable debt and benchmark securities and is considered Level 2 in the fair value hierarchy. See Note 8, Borrowings and Note 16, Supplemental Financial Information for further information. 
+
+NOTE 13. 
+ million. In the second quarter of 2024, these remaining performance guarantees were all terminated or replaced. 
+ 
+ PRODUCT WARRANTIES. 
+ 
+ We provide warranty coverage to our customers as part of customary practices in the market to provide assurance that the products we sell comply with agreed-upon specifications. We provide estimated product warranty expenses when we sell the related products. Warranty accruals are estimates that are based on the best available information, mostly historical claims experience, therefore claims costs may differ from amounts provided. 
+ Current-year provisions Expenditures ) ) Other changes ) ) Balance at end of period 
+ Product warranties are recognized within All other current liabilities in the Condensed Consolidated Statements of Financial Position. 
+ 
+ 24 
+
+NOTE 14. 
+ 
+ Facility and other exit costs Asset write-downs Total restructuring activities net 
+ 
+ These restructuring initiatives are expected to result in additional expenses of approximately million, to be incurred primarily over the next 12 months, substantially related to employee-related termination benefits and asset write-downs. Restructuring expenses (gains) are recognized within Cost of products, Cost of services, or SG A, as appropriate, in the Condensed Consolidated Statements of Income. 
+ 25 
+
+million and million as of September 30, 2024 and December 31, 2023, respectively. 
+
+NOTE 15. 
+ 
+ Net (income) loss attributable to noncontrolling interests ) ) ) ) Net income from continuing operations attributable to GE HealthCare 
+ Deemed preferred stock dividend of redeemable noncontrolling interest ) Net income from continuing operations attributable to GE HealthCare common stockholders 
+ Income (loss) from discontinued operations, net of taxes 
+ ) ) Net income attributable to GE HealthCare common stockholders Denominator: Basic weighted-average shares outstanding Dilutive effect of common stock equivalents Diluted weighted-average shares outstanding Basic Earnings Per Share: Continuing operations 
+ Discontinued operations ) ) Attributable to GE HealthCare common stockholders Diluted Earnings Per Share: Continuing operations 
+ Discontinued operations ) ) Attributable to GE HealthCare common stockholders Antidilutive securities (1) 
+ 
+ (1) Diluted earnings per share excludes certain shares issuable under share-based compensation plans because the effect would have been antidilutive. 
+
+NOTE 16. 
+ Short-term restricted cash Total Cash, cash equivalents, and restricted cash as presented in the Condensed Consolidated Statements of Financial Position Long-term restricted cash (2) 
+ Total Cash, cash equivalents, and restricted cash as presented in the Condensed Consolidated Statements of Cash Flows 
+ (1) The increase in cash and cash equivalents was primarily due to proceeds from the issuance of senior unsecured notes by the Company in the third quarter of 2024. Refer to Note 8, Borrowings for further information. 
+ (2) Long-term restricted cash is recognized within All other non-current assets in the Condensed Consolidated Statements of Financial Position. 
+ 
+ 26 
+
+Work in process Finished goods Inventories (1) 
+
+Accumulated depreciation 
+ ) ) Right-of-use operating lease assets, net of amortization 
+ Property, plant, and equipment net 
+
+Financing receivables net 
+ Derivative instruments 
+ Other (1) 
+ All other current assets 
+ Prepaid pension asset 
+ Equity method and other investments 
+ Financing receivables net 
+ Long-term receivables net 
+ Inventories 
+ Contract and other deferred assets 
+ Other (2) 
+ All other non-current assets 
+ 
+ (1) Current Other primarily consists of tax receivables. 
+ (2) Non-current Other primarily consists of derivative instruments, indemnity assets associated with separation agreements with GE, capitalized costs associated with cloud computing arrangements, and tax receivables. 
+ 
+ 27 
+
+Income and indirect tax liabilities including uncertain tax positions 
+ Product warranties 
+ Accrued freight and utilities 
+ Operating lease liabilities 
+ Derivative instruments (1) 
+ Interest payable on borrowings 
+ Environmental and asset retirement obligations 
+ Other (2) 
+ All other current liabilities 
+ Contract liabilities 
+ Operating lease liabilities 
+ Environmental and asset retirement obligations 
+ Income and indirect tax liabilities including uncertain tax positions 
+ Derivative instruments 
+ Finance lease obligations 
+ Sales allowances and related liabilities 
+ Other (3) 
+ All other non-current liabilities 
+ 
+ (1) Derivative instruments include the related accrued interest. Refer to Note 12, Financial Instruments and Fair Value Measurements for further information. 
+ (2) Current Other primarily consists of miscellaneous accrued costs, contingent consideration liabilities, and dividends payable to stockholders. 
+ (3) Non-current Other primarily consists of miscellaneous accrued costs, indemnity liabilities associated with separation agreements with GE, and contingent consideration liabilities. 
+ 
+ SUPPLY CHAIN FINANCE PROGRAMS. 
+ 
+ The Company participates in voluntary supply chain finance programs which provide participating suppliers the opportunity to sell their GE HealthCare receivables to third parties at the sole discretion of both the suppliers and the third parties. We evaluate supply chain finance programs to ensure the use of a third-party intermediary to settle our trade payables does not change the nature, existence, amount, or timing of our trade payables and does not provide the Company with any direct economic benefit. If any characteristics of the trade payables change or we receive a direct economic benefit, we reclassify the trade payables as borrowings. In connection with the supply chain finance programs, payment terms normally range from to days, depending on the underlying supplier agreements. 
+ 
+ Included within Accounts payable in the Condensed Consolidated Statements of Financial Position as of September 30, 2024 and December 31, 2023 were million and million, respectively, of confirmed supplier invoices that are outstanding and subject to third-party programs. 
+ 
+ REDEEMABLE NONCONTROLLING INTERESTS . 
+ 
+ The Company has noncontrolling interests with redemption features. These redemption features, such as put options, could require the Company to purchase the noncontrolling interests upon the occurrence of certain events. All noncontrolling interests with redemption features that are not solely within our control are recognized within the Condensed Consolidated Statements of Financial Position between liabilities and equity. Redeemable noncontrolling interests are initially recorded at the issuance date fair value. Those that are currently redeemable, or probable of becoming redeemable, are subsequently adjusted to the greater of current redemption value or initial carrying value. 
+
+28 
+
+Net income attributable to redeemable noncontrolling interests 
+ Redemption value adjustments (1) 
+ Distributions to and exercise of redeemable noncontrolling interests and other (2) 
+ ) ) Balance at end of period 
+ (1) As of January 3, 2023, certain redeemable noncontrolling interests were probable of becoming redeemable due to the change of control that occurred upon consummation of the Spin-Off. As a result, these redeemable noncontrolling interests were remeasured to their current redemption value. The remeasurement was accounted for as a deemed preferred stock dividend of redeemable noncontrolling interest and recorded as an adjustment to Retained earnings in the Condensed Consolidated Statements of Financial Position. 
+ (2) In the first quarter of 2023, the redeemable noncontrolling interest holder exercised its option redemption provision. The redemption amount of million was paid in the second quarter of 2023. 
+ 
+ ) Equity method income (loss) 
+ Change in fair value of assumed obligations 
+ ) ) ) ) Other items, net (1) 
+ Total other income (expense) net 
+ 
+ (1) Other items, net primarily consists of government grants, lease income, gains and losses related to derivatives, and licensing and royalty income for the three and nine months ended September 30, 2024, and change in tax indemnity, gains and losses related to derivatives, licensing and royalty income, and lease income for the three and nine months ended September 30, 2023. 
+
+NOTE 17. 
+ 
+ million, net, and million, net, for the three months ende d September 30, 2024 and 2023, respectively, and million, net, and million, net, for the nine months ended September 30, 2024 and 2023, respectively. These amounts represent fees charged from GE and GE Vernova to the Company, the majority of which are related to information technology, and are net of fees charged from the Company to GE and GE Vernova for facilities and other shared services. For more information on these agreements, see Note 19, Related Parties in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+ 
+ million and million, and due to GE were million and million, as of September 30, 2024 and December 31, 2023, respectively. These amounts were recognized within All other non-current assets and All other non-current liabilities, respectively, in the Condensed Consolidated Statements of Financial Position and primarily relate to tax and other indemnities. Following its separation from GE, GE Vernova does not meet the definition of a related party; accordingly, amounts as of September 30, 2024 due to and from GE Vernova in accordance with the TSA are excluded from the Due from related parties and Due to related parties financial statement line items and non-current balances disclosed above. 
+ 
+ 29 
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Part I. Financial Information 
+ Index Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations MD A 
+ Page Trends and Factors Impacting Our Performance 
+ 31 
+ Summary of Key Performance Measures 
+ 32 
+ Results of Operations 
+ 33 
+ Results of Operations Segments 
+ 36 
+ Non-GAAP Financial Measures 
+ 37 
+ Liquidity and Capital Resources 
+ 41 
+ Recently Issued Accounting Pronouncements 
+ 43 
+ Critical Accounting Estimates 
+ 43 
+ 
+ 30 
+
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ The following discussion and analysis of our financial condition and results of operations should be read in conjunction with the financial statements and corresponding notes included elsewhere in this Quarterly Report on Form 10-Q. The following discussion and analysis provide information management believes to be relevant to understanding the financial condition and results of operations of GE HealthCare Technologies Inc. and its subsidiaries GE HealthCare, the Company, our, us, or we for the three and nine months ended September 30, 2024 and 2023. For a full understanding of our financial condition and results of operations, the below discussion should be read alongside the Management s Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. This discussion contains forward-looking statements that are based upon current expectations and are subject to uncertainty and changes in circumstances; see Forward-Looking Statements. Our actual results could differ materially from the results contemplated by these forward-looking statements due to a number of factors, including those discussed below and elsewhere in this Quarterly Report on Form 10-Q, and particularly in Item 1A, Risk Factors in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+ On January 3, 2023, the General Electric Company, which now operates as GE Aerospace GE ), completed the spin-off of GE HealthCare Technologies Inc. (the Spin-Off ). For further information regarding the Spin-Off, refer to Note 1, Organization and Basis of Presentation. 
+ The following tables are presented in millions of United States U.S. dollars unless otherwise stated, except for per-share amounts which are presented in U.S. dollars. Certain columns and rows may not sum due to the use of rounded numbers. Percentages presented are calculated from the underlying whole-dollar amounts. 
+ Effective July 1, 2024, Image Guided Therapies, previously part of the Imaging segment, was realigned to the Ultrasound segment to better match its clinical usage and realize stronger business and customer impact by providing the right image guidance in the right care setting. The Ultrasound segment was subsequently renamed Advanced Visualization Solutions AVS ). Following this realignment, the Company continues to have four reportable segments: Imaging, AVS, Patient Care Solutions PCS ), and Pharmaceutical Diagnostics PDx ). These segments have been identified based on the nature of the products sold and how the Company manages its operations. Historical segment financial information presented within this report has been recast to conform to the new reportable segments structure. See Note 3, Segment Information for more information. 
+
+TRENDS AND FACTORS IMPACTING OUR PERFORMANCE 
+ 
+ We believe that our performance and future success depend on a number of factors that present significant opportunities for us but also pose risks and challenges, including those discussed below and particularly in Item 1A, Risk Factors in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+ 
+ KEY TRENDS AFFECTING RESULTS OF OPERATIONS. 
+ 
+ Russia and Ukraine Conflict 
+ We had 152 million and 153 million of assets in, or directly related to, Russia and Ukraine as of September 30, 2024 and December 31, 2023, respectively, none of which are subject to sanctions that impact the carrying value of the assets. We generated revenues of 243 million and 228 million from customers in these two countries for the nine months ended September 30, 2024 and 2023, respectively. The potential inability to repatriate earnings from these two countries will not have a material impact on our ability to operate. 
+ 
+ We continue to monitor the effects of Russia s invasion of Ukraine, including the consideration of financial impact, cybersecurity risks, the applicability and effect of sanctions, and the employee base in Ukraine and Russia. In May 2023, the U.S. Department of Commerce implemented expanded measures that required us to obtain a license for the export, re-export, or transfer of specified medical equipment and spare parts to customers in Russia. As of April 29, 2024, this requirement has been modified to permit us to export, re-export, or transfer medical equipment and spare parts that meet stated criteria under a License Exception, which is expected to eliminate the need for us to obtain individual U.S. licenses in most cases. The European Union and other countries have also expanded licensing requirements for certain spare parts, services, software, and other items. We will continue to apply for licenses to supply to these customers and to support our business in Russia, as required. The implementation of these measures affected our ability to supply customers in Russia during the first three quarters of 2024 and the last three quarters of 2023 and will continue to do so as we confirm applicability of the new U.S. License Exception to our transactions and continue to obtain licenses. There is no guarantee we will obtain all of the licenses for which we applied, that any approvals we obtain will be on a timely basis, or that our business in Russia will not be further disrupted due to evolving legal or operational considerations. The Board, together with management, will continue to assess whether developments related to the conflict have had, or are reasonably likely to have, a material impact on the Company. 
+ 
+ 31 
+
+China Market 
+ We continue to monitor developments in the market in China. An anti-corruption campaign directed at the healthcare sector, launched last year, is still ongoing. In addition, in March 2024, the government in China announced a new stimulus program 2024 stimulus that includes the healthcare sector and will be implemented through China s provinces. Both of these factors have contributed to delayed orders and sales in our China business, through the third quarter of 2024. We expect the 2024 stimulus program will result in opportunities for our business in China in the longer term, but it has had a short-term impact as provinces develop and announce their plans and customers wait to understand the details of the 2024 stimulus before making purchasing decisions. We expect the effects of the anti-corruption campaign and the delay in China 2024 stimulus to continue to impact our orders and sales in the near term, although we are unable to predict the exact duration or magnitude of the impact. We expect both of these impacts to be temporary, and we believe the focus of government policy in China on expanding access to healthcare will benefit our business in China in the long term. 
+ 
+ Tax Valuation Allowances 
+ Deferred income tax assets represent amounts available to reduce income taxes payable on taxable income in future years. We evaluate the recoverability of these future tax deductions and credits by evaluating all available positive and negative evidence. We have a valuation allowance against certain U.S. and foreign deferred tax assets and will release the valuation allowance when there is sufficient positive evidence to support a conclusion that it is more likely than not the deferred tax assets will be realized. Depending on our operating results in the future, we may release the valuation allowance associated with our Brazil and French deferred tax assets within the next year. The timing and amount of the valuation allowance release could vary based on our assessment of all available evidence. Release of all, or a portion, of the valuation allowance in Brazil would result in the recognition of certain deferred tax assets in Brazil offset by recognition of certain deferred tax liabilities in the United States. Release of all, or a portion, of the valuation allowance in France would result in the recognition of certain deferred tax assets in France and is expected to result in a decrease to income tax expense for the period in which the release is recorded. 
+
+SUMMARY OF KEY PERFORMANCE MEASURES 
+ Management reviews and analyzes several key performance measures including Total revenues, remaining performance obligations RPO ), Operating income, Net income attributable to GE HealthCare, Earnings per share, and Cash from (used for) operating activities. Management also reviews and analyzes Organic revenue , Adjusted earnings before interest and taxes Adjusted EBIT ), Adjusted net income , Adjusted tax expense , Adjusted effective tax rate Adjusted ETR ), Adjusted earnings per share , and Free cash flow , which are non-GAAP financial measures. These measures are reviewed and analyzed in order to evaluate our business performance, identify trends affecting our business, allocate capital, and make strategic decisions, including those discussed below. See Results of Operations and Liquidity and Capital Resources below for further discussion on our key performance measures. 
+ 
+ The non-GAAP financial measures should be considered along with the most directly comparable U.S. GAAP financial measures. Definitions of these non-GAAP financial measures, a discussion of why we believe they are useful to management and investors as well as certain of their limitations, and reconciliations to their most directly comparable U.S. GAAP financial measures are provided below under Non-GAAP Financial Measures. 
+
+____________________ 
+ Non-GAAP Financial Measure 
+ 32 
+
+RESULTS OF OPERATIONS 
+ 
+ The following tables set forth our results of operations for each of the periods presented. 
+ 
+ Condensed Consolidated Statements of Income 
+ For the three months ended September 30 For the nine months ended September 30 2024 2023 2024 2023 Sales of products 3,201 3,186 9,454 9,530 Sales of services 1,662 1,636 4,899 4,816 Total revenues 4,863 4,822 14,353 14,346 Cost of products 2,033 2,076 6,045 6,197 Cost of services 805 811 2,378 2,383 Gross profit 2,026 1,935 5,930 5,766 Selling, general, and administrative 1,034 996 3,139 3,130 Research and development 316 322 967 890 Total operating expenses 1,350 1,318 4,106 4,020 Operating income 676 617 1,824 1,746 Interest and other financial charges net 130 138 383 411 Non-operating benefit (income) costs (102) (94) (306) (332) Other (income) expense net (9) (63) (1) (85) Income from continuing operations before income taxes 658 636 1,747 1,752 Benefit (provision) for income taxes (168) (250) (435) (550) Net income from continuing operations 490 386 1,312 1,202 Income (loss) from discontinued operations, net of taxes (4) (4) Net income 490 382 1,312 1,198 Net (income) loss attributable to noncontrolling interests (19) (7) (40) (33) Net income attributable to GE HealthCare 470 375 1,272 1,165 
+ 
+ TOTAL REVENUES AND RPO. 
+ 
+ Revenues by Segment 
+ For the three months ended September 30 For the nine months ended September 30 2024 2023 change organic change 2024 2023 change organic change Segment revenues Imaging 
+ 2,229 2,236 (1) 6,462 6,552 (1) (1) AVS 
+ 1,216 1,214 3,692 3,712 (1) PCS 
+ 779 764 2 2 2,298 2,315 (1) (1) PDx 
+ 625 589 6 7 1,862 1,715 9 9 Other (1) 
+ 15 19 39 52 Total revenues 
+ 4,863 4,822 1 1 14,353 14,346 1 
+ (1) Financial information not presented within the reportable segments, shown within the Other category, represents HealthCare Financial Services which does not meet the definition of an operating segment. 
+ 
+ Revenues by Region 
+ For the three months ended September 30 For the nine months ended September 30 2024 2023 change 2024 2023 change United States and Canada USCAN 
+ 2,246 2,075 8 6,582 6,297 5 Europe, the Middle East, and Africa EMEA 
+ 1,237 1,249 (1) 3,617 3,633 China region 
+ 564 719 (22) 1,745 2,105 (17) Rest of World 
+ 816 779 5 2,408 2,311 4 Total revenues 
+ 4,863 4,822 1 14,353 14,346 
+ 
+ ____________________ 
+ Non-GAAP Financial Measure 
+ 33 
+
+For the three months ended September 30, 2024 
+ Total revenues were 4,863 million , growing 1 as reported and organically . Sales of services increased 2 or 26 million primarily due to increased pricing, and Sales of products increased 15 million with strong growth in USCAN and PDx segment revenues largely offset by lower sales volume in China. 
+ The segment revenues were as follows: 
+ 
+ Imaging segment revenues were 2,229 million, flat to the prior year and decreasing 1 organically with lower sales volume in China, partially offset by an increase in USCAN sales volume; 
+ AVS segment revenues were 1,216 million, flat to the prior year, with an increase in sales volume in USCAN offset by lower sales volume in China; 
+ PCS segment revenues were 779 million, growing 2 or 15 million driven by backlog execution; and 
+ PDx segment revenues were 625 million, growing 6 or 36 million with growth in the USCAN and EMEA regions driven by growth in volume, an increase in price, and new product introductions. 
+ 
+ The regional revenues were as follows: 
+ 
+ USCAN revenues were 2,246 million, growing 8 or 171 million with growth across all segment revenues, led by strong growth in PDx and Imaging revenues; 
+ EMEA revenues were 1,237 million, decreasing 1 or 12 million, following high single digit growth in the prior year, with declines in PCS and AVS revenues largely offset by increases in PDx revenues; 
+ China region revenues were 564 million, decreasing 22 or 155 million with current year sales impacted by the delayed 2024 stimulus and the ongoing anti-corruption campaign; and 
+ Rest of World revenues were 816 million, growing 5 or 37 million with growth in all segment revenues, partially offset by unfavorable foreign currency impacts. 
+ 
+ For the nine months ended September 30, 2024 
+ Total revenues were 14,353 million , flat to the prior year as reported and growing 1 organically . The flat result was due to Sales of products decreasing 1 or 76 million, primarily due to decreased volume following double digit reported product revenue growth in the prior year, offset by Sales of services increasing 2 or 83 million driven by increased pricing. 
+ The segment revenues were as follows: 
+ 
+ Imaging segment revenues were 6,462 million, decreasing 1 or 90 million, following high single digit revenue growth in the prior year, with current year impacts from lower sales volume in China and unfavorable foreign currency headwinds; 
+ AVS segment revenues were 3,692 million, decreasing 1 or 20 million with lower sales volume in China and unfavorable foreign currency impacts, partially offset by an increase in sales volume in USCAN; 
+ PCS segment revenues were 2,298 million, decreasing 1 or 17 million primarily due to decreased volume following high single digit revenue growth in the prior year; and 
+ PDx segment revenues were 1,862 million, growing 9 or 147 million with growth in the USCAN and EMEA regions driven by growth in volume, an increase in price, and new product introductions. 
+ 
+ The regional revenues were as follows: 
+ 
+ USCAN revenues were 6,582 million, growing 5 or 285 million with growth across all segment revenues; 
+ EMEA revenues were 3,617 million, flat to the prior year, following high single digit growth in the prior year, with growth in PDx revenues largely offset by decreases in Imaging and PCS revenues; 
+ China region revenues were 1,745 million, decreasing 17 or 360 million with declines in all segment revenues following double digit growth in the prior year due to the impact from the 2022 COVID stimulus programs, and current year sales impacted by the delayed 2024 stimulus and the ongoing anti-corruption campaign; and 
+ Rest of World revenues were 2,408 million, growing 4 or 97 million with growth in all segment revenues, partially offset by unfavorable foreign currency impacts. 
+ 
+ ____________________ 
+ Non-GAAP Financial Measure 
+ 34 
+
+Remaining Performance Obligations As of September 30, 2024 December 31, 2023 change Products 
+ 4,808 4,930 (2) Services 
+ 9,756 9,725 Total RPO 
+ 14,563 14,655 (1) 
+ 
+ RPO represents the estimated revenue expected from customer contracts that are partially or fully unperformed inclusive of amounts deferred in contract liabilities, excluding contracts, or portions thereof, that provide the customer with the right to cancel or terminate without incurring a substantive penalty. RPO as of September 30, 2024 decreased 1 from December 31, 2023, primarily due to product fulfillment and cancellations outpacing new contracts, partially offset by the timing of multi-year service contract renewals. 
+ 
+ OPERATING INCOME, NET INCOME ATTRIBUTABLE TO GE HEALTHCARE, ADJUSTED EBIT , AND ADJUSTED NET INCOME . 
+ 
+ For the three months ended September 30 For the nine months ended September 30 2024 of Total revenues 2023 of Total revenues change 2024 of Total revenues 2023 of Total revenues change Operating income 
+ 676 13.9 617 12.8 10 1,824 12.7 1,746 12.2 4 Net income attributable to GE HealthCare 
+ 470 9.7 375 7.8 25 1,272 8.9 1,165 8.1 9 Adjusted EBIT 
+ 795 16.3 744 15.4 7 2,217 15.4 2,119 14.8 5 Adjusted net income 
+ 521 10.7 451 9.4 16 1,393 9.7 1,258 8.8 11 
+ 
+ For the three months ended September 30, 2024 
+ 
+ Operating income was 676 million, an increase of 59 million and 110 basis points as a percent of Total revenues. The increase was due to the following factors: 
+ 
+ Gross profit increased 91 million or 150 basis points as a percent of Total revenues primarily due to a reduction in Cost of products sold. Cost of products sold decreased 43 million or 170 basis points as a percent of Sales of products. The decrease as a percent of sales was driven primarily by cost productivity, partially offset by cost inflation. Cost of services sold decreased 6 million or 120 basis points as a percent of Sales of services. The decrease as a percent of sales was driven by cost productivity and an increase in pricing of our service offerings, partially offset by cost inflation. Included in our total cost of revenue as part of our product investment was 102 million in engineering costs for design follow-through on new product introductions and product lifecycle maintenance subsequent to the initial product launch, compared to 101 million for the prior year comparable period ; and 
+ Total operating expenses increased 32 million primarily due to an increase in Selling, general, and administrative SG A expense of 38 million primarily driven by timing of certain costs and the favorable impact of a change in fair value of contingent consideration in the prior year, partially offset by a decrease in Research and Development R D investments of 6 million. As a result, SG A as a percentage of Total revenues increased by 60 basis points and R D as a percentage of Total revenues decreased by 20 basis points. 
+ 
+ Net income attributable to GE HealthCare and Net income margin were 470 million and 9.7 , an increase of 95 million and 190 basis points, respectively, primarily due to the following factors: 
+ 
+ Operating income increased 59 million, as discussed above; 
+ Interest and other financial charges net decreased 8 million primarily driven by repayments made on the Term Loan Facility; 
+ Non-operating benefit income increased 8 million primarily due to the impact of the prior year curtailment loss for the GE HealthCare Pension Plan; 
+ Other income net decreased 54 million primarily driven by favorable impacts in the prior year from both derivatives gains and the tax indemnification benefit received from GE; and 
+ Provision for income taxes decreased 82 million primarily due to incremental R D benefits in the current year as well as non-recurring impacts of the Tax Matters Agreement TMA with GE in the prior year. For additional detail regarding our income taxes, see Note 10, Income Taxes. 
+ 
+ ____________________ 
+ Non-GAAP Financial Measure 
+ 35 
+
+Adjusted EBIT and Adjusted EBIT margin were 795 million and 16.3 , an increase of 51 million and 90 basis points, respectively, primarily due to an increase in Gross profit, partially offset by an increase in operating expenses. 
+ 
+ Adjusted net income was 521 million, an increase of 70 million primarily due to the increase in Gross profit and lower provision for income taxes, partially offset by an increase in operating expenses. 
+ 
+ For the nine months ended September 30, 2024 
+ 
+ Operating income was 1,824 million, an increase of 78 million and 50 basis points as a percent of Total revenues. The increase was due to the following factors: 
+ 
+ Gross profit increased 164 million or 110 basis points as a percent of Total revenues primarily due to a reduction in Cost of products sold. Cost of products sold decreased 152 million or 110 basis points as a percent of Sales of products. The decrease as a percent of sales was driven by cost productivity and an increase in pricing of our products, partially offset by cost inflation. Cost of services sold decreased 5 million or 90 basis points as a percent of Sales of services. The decrease as a percent of sales was driven by cost productivity and an increase in pricing of our service offerings, partially offset by cost inflation. Included in our total cost of revenue as part of our product investment was 305 million in engineering costs for design follow-through on new product introductions and product lifecycle maintenance subsequent to the initial product launch, compared to 321 million for the prior year comparable period ; and 
+ Total operating expenses increased 86 million due to an increase in R D investments of 77 million and an increase in SG A expense of 9 million primarily driven by timing of certain costs and increased restructuring spend, partially offset by lower Spin-Off and separation costs. As a result, R D as a percentage of Total revenues increased by 50 basis points and SG A as a percentage of Total revenues increased by 10 basis points. 
+ 
+ Net income attributable to GE HealthCare and Net income margin were 1,272 million and 8.9 , an increase of 107 million and 70 basis points, respectively, primarily due to the following factors: 
+ 
+ Operating income increased 78 million, as discussed above; 
+ Interest and other financial charges net decreased 28 million primarily driven by repayments made on the Term Loan Facility; 
+ Non-operating benefit income decreased 26 million primarily related to lower amortization of net gains on our pension plans; 
+ Other income net decreased 84 million primarily driven by favorable impacts in the prior year from both derivatives gains and the tax indemnification benefit received from GE; and 
+ Provision for income taxes decreased 115 million primarily due to non-recurring impacts of the TMA with GE in the prior year and an incremental charge for the accrual of withholding and other foreign taxes due upon future distribution of earnings. For additional detail regarding our income taxes, see Note 10, Income Taxes. 
+ 
+ Adjusted EBIT and Adjusted EBIT margin were 2,217 million and 15.4 , an increase of 98 million and 70 basis points, respectively, primarily due to an increase in Gross profit, partially offset by investment in R D. 
+ 
+ Adjusted net income was 1,393 million, an increase of 135 million primarily due to an increase in Gross profit and lower provision for income taxes, partially offset by investment in R D. 
+
+RESULTS OF OPERATIONS SEGMENTS 
+ 
+ We exclude from Segment EBIT certain corporate-related expenses and certain transactions or adjustments that our Chief Operating Decision Maker (which is our Chief Executive Officer) considers to be non-operational, such as Interest and other financial charges net, Benefit (provision) for income taxes, restructuring costs, acquisition and disposition-related benefits (charges), Spin-Off and separation costs, Non-operating benefit (income) costs, gain (loss) on business and asset dispositions, amortization of acquisition-related intangible assets, Net (income) loss attributable to noncontrolling interests, Income (loss) from discontinued operations, net of taxes, and investment revaluation gain (loss). See Results of Operations section above for discussion on segment revenue performance. 
+
+____________________ 
+ Non-GAAP Financial Measure 
+ 36 
+
+Segment EBIT 
+ For the three months ended September 30 For the nine months ended September 30 2024 of segment revenues 2023 of segment revenues change 2024 of segment revenues 2023 of segment revenues change Segment EBIT (1) 
+ Imaging 
+ 287 12.9 243 10.9 18 660 10.2 566 8.6 17 AVS 
+ 232 19.0 254 20.9 (9) 744 20.2 798 21.5 (7) PCS 
+ 82 10.6 80 10.5 3 241 10.5 273 11.8 (12) PDx 
+ 193 30.9 166 28.2 16 571 30.6 473 27.6 21 
+ (1) For additional details regarding Segment EBIT, see Note 3, Segment Information. 
+ 
+ For the three months ended September 30, 2024 
+ 
+ Imaging Segment EBIT was 287 million, an increase of 44 million due to cost productivity, favorable mix, and an increase in price, partially offset by cost inflation; 
+ AVS Segment EBIT was 232 million, a decrease of 22 million due to unfavorable mix, with cost productivity offsetting inflation; 
+ PCS Segment EBIT was 82 million, an increase of 2 million with cost productivity offsetting inflation; and 
+ PDx Segment EBIT was 193 million, an increase of 27 million due to an increase in price, growth in sales volume, and cost productivity. 
+ 
+ For the nine months ended September 30, 2024 
+ 
+ Imaging Segment EBIT was 660 million, an increase of 94 million due to cost productivity and an increase in price, partially offset by cost inflation; 
+ AVS Segment EBIT was 744 million, a decrease of 54 million due to cost inflation and unfavorable mix, partially offset by cost productivity; 
+ PCS Segment EBIT was 241 million, a decrease of 32 million due to cost inflation and a decrease in sales volume, partially offset by cost productivity; and 
+ PDx Segment EBIT was 571 million, an increase of 98 million due to an increase in price, growth in sales volume, and cost productivity, partially offset by investments and cost inflation. 
+
+NON-GAAP FINANCIAL MEASURES 
+ 
+ The non-GAAP financial measures presented in this Quarterly Report on Form 10-Q are supplemental measures of our performance and our liquidity that we believe will help investors understand our financial condition, cash flows, and operating results, and assess our future prospects. When read in conjunction with our U.S. GAAP results, these non-GAAP financial measures provide a baseline for analyzing trends in our underlying businesses and can be used by management as one basis for making financial, operational, and planning decisions. Descriptions of the reported non-GAAP measures are included below. 
+ 
+ We report Organic revenue and Organic revenue growth rate to provide management and investors with additional understanding and visibility into the underlying revenue trends of our established, ongoing operations, as well as provide insights into overall demand for our products and services. To calculate these measures, we exclude the effect of acquisitions, dispositions, and foreign currency rate fluctuations. 
+ 
+ We report EBIT, Adjusted EBIT, Adjusted EBIT margin, Adjusted net income, and Adjusted earnings per share to provide management and investors with additional understanding of our business by highlighting the results from ongoing operations and the underlying profitability factors, on a normalized basis. To calculate these measures we exclude, and reflect in the detailed reconciliations below, the following adjustments as applicable: Interest and other financial charges - net, Net (income) loss attributable to noncontrolling interests, Non-operating benefit (income) costs, Benefit (provision) for income taxes and certain tax related adjustments, and certain non-recurring and/or non-cash items. We may from time to time consider excluding other non-recurring items to enhance comparability between periods. Adjusted EBIT margin is calculated by taking Adjusted EBIT divided by Total revenues for the same period. 
+ 
+ We report Adjusted tax expense and Adjusted effective tax rate Adjusted ETR to provide investors with a better understanding of the normalized tax rate applicable to our business and provide more consistent comparability across periods. A djusted tax expense excludes the income tax related to the pre-tax income adjustments included as part of Adjusted net income and certain income tax adjustments, such as adjustments to deferred tax assets or liabilities. We may from time to time consider excluding other non-recurring tax items to enhance comparability between periods. Adjusted ETR is Adjusted tax expense divided by income before income taxes less the pre-tax income adjustments referenced above. 
+ 37 
+
+We report Free cash flow to provide management and investors with an important measure of our ability to generate cash on a normalized basis and provide insight into our flexibility to allocate capital . Free cash flow is Cash from (used for) operating activities continuing operations including cash flows related to the additions and dispositions of property, plant, and equipment PP E and additions of internal-use software. Free cash flow does not represent residual cash flows available for discretionary expenditures, due to the fact that the measure does not deduct the capital required for debt repayments. 
+ 
+ Management recognizes that these non-GAAP financial measures have limitations, including that they may be calculated differently by other companies or may be used under different circumstances or for different purposes. In order to compensate for the discussed limitations, management does not consider these measures in isolation from or as alternatives to the comparable financial measures determined in accordance with U.S. GAAP. The detailed reconciliations of each non-GAAP financial measure to the most directly comparable U.S. GAAP financial measure are provided below, and no single financial measure should be relied on to evaluate our business. 
+ 
+ Organic Revenue 
+ For the three months ended September 30 For the nine months ended September 30 2024 2023 change 2024 2023 change Imaging revenues 
+ 2,229 2,236 6,462 6,552 (1) Less: Acquisitions (1) 
+ 16 29 Less: Dispositions (2) 
+ Less: Foreign currency exchange 
+ (8) (65) Imaging Organic revenue 
+ 2,220 2,236 (1) 6,497 6,552 (1) AVS revenues 
+ 1,216 1,214 3,692 3,712 (1) Less: Acquisitions (1) 
+ Less: Dispositions (2) 
+ Less: Foreign currency exchange 
+ (2) (22) AVS Organic revenue 
+ 1,218 1,214 3,713 3,712 PCS revenues 
+ 779 764 2 2,298 2,315 (1) Less: Acquisitions (1) 
+ Less: Dispositions (2) 
+ Less: Foreign currency exchange 
+ (4) PCS Organic revenue 
+ 779 764 2 2,302 2,315 (1) PDx revenues 
+ 625 589 6 1,862 1,715 9 Less: Acquisitions (1) 
+ Less: Dispositions (2) 
+ Less: Foreign currency exchange 
+ (5) (13) PDx Organic revenue 
+ 630 589 7 1,876 1,715 9 Other revenues 
+ 15 19 (22) 39 52 (25) Less: Acquisitions (1) 
+ Less: Dispositions (2) 
+ Less: Foreign currency exchange 
+ Other Organic revenue 
+ 15 19 (21) 39 52 (25) Total revenues 
+ 4,863 4,822 1 14,353 14,346 Less: Acquisitions (1) 
+ 16 29 Less: Dispositions (2) 
+ Less: Foreign currency exchange 
+ (15) (104) Organic revenue 
+ 4,863 4,822 1 14,427 14,346 1 
+ (1) 
+ Represents revenues attributable to acquisitions from the date the Company completed the transaction through the end of four quarters following the transaction. (2) 
+ Represents revenues attributable to dispositions for the four quarters preceding the disposition date. 
+
+____________________ Non-GAAP Financial Measure 
+ 38 
+
+Adjusted EBIT 
+ For the three months ended September 30 For the nine months ended September 30 2024 2023 change 2024 2023 change Net income attributable to GE HealthCare 
+ 470 375 25 1,272 1,165 9 Add: Interest and other financial charges net 
+ 130 138 383 411 Add: Non-operating benefit (income) costs 
+ (102) (94) (306) (332) Less: Benefit (provision) for income taxes 
+ (168) (250) (435) (550) Less: Income (loss) from discontinued operations, net of taxes 
+ (4) (4) Less: Net (income) loss attributable to noncontrolling interests 
+ (19) (7) (40) (33) EBIT 
+ 685 680 1 1,825 1,831 Add: Restructuring costs (1) 
+ 22 3 90 34 Add: Acquisition and disposition-related charges (benefits) (2) 
+ (4) (14) (7) (15) Add: Spin-Off and separation costs (3) 
+ 56 45 182 175 Add: (Gain) loss on business and asset dispositions (4) 
+ 1 Add: Amortization of acquisition-related intangible assets 
+ 34 32 100 95 Add: Investment revaluation (gain) loss (5) 
+ 1 (2) 26 (1) Adjusted EBIT 
+ 795 744 7 2,217 2,119 5 Net income margin 9.7 7.8 190 bps 8.9 8.1 70 bps Adjusted EBIT margin 
+ 16.3 15.4 90 bps 15.4 14.8 70 bps 
+ (1) 
+ Consists of severance, facility closures, and other charges associated with restructuring programs. 
+ (2) 
+ Consists of legal, consulting, and other transaction and integration fees, and adjustments to contingent consideration, as well as other purchase accounting related charges and other costs directly related to the transactions. 
+ (3) 
+ Costs incurred in the Spin-Off and separation from GE, including system implementations, audit and advisory fees, legal entity separation, Founders Grant equity awards, separation agreements with GE, and other one-time costs. 
+ (4) 
+ Consists of gains and losses resulting from the sale of assets and investments. (5) 
+ Primarily relates to valuation adjustments for equity investments. 
+ 
+ Adjusted Net Income 
+ For the three months ended September 30 For the nine months ended September 30 2024 2023 change 2024 2023 change Net income attributable to GE HealthCare 
+ 470 375 25 1,272 1,165 9 Add: Non-operating benefit (income) costs 
+ (102) (94) (306) (332) Add: Restructuring costs (1) 
+ 22 3 90 34 Add: Acquisition and disposition-related charges (benefits) (2) 
+ (4) (14) (7) (15) Add: Spin-Off and separation costs (3) 
+ 56 45 182 175 Add: (Gain) loss on business and asset dispositions (4) 
+ 1 Add: Amortization of acquisition-related intangible assets 
+ 34 32 100 95 Add: Investment revaluation (gain) loss (5) 
+ 1 (2) 26 (1) Add: Tax effect of reconciling items (6) 
+ (3) (4) (26) (3) Add: Spin-Off and other tax adjustments (7) 
+ 46 106 60 136 Less: Income (loss) from discontinued operations, net of taxes 
+ (4) (4) Adjusted net income 
+ 521 451 16 1,393 1,258 11 
+ (1) 
+ Consists of severance, facility closures, and other charges associated with restructuring programs. (2) 
+ Consists of legal, consulting, and other transaction and integration fees, and adjustments to contingent consideration, as well as other purchase accounting related charges and other costs directly related to the transactions. (3) 
+ Costs incurred in the Spin-Off and separation from GE, including system implementations, audit and advisory fees, legal entity separation, Founders Grant equity awards, separation agreements with GE, and other one-time costs. (4) 
+ Consists of gains and losses resulting from the sale of assets and investments. (5) 
+ Primarily relates to valuation adjustments for equity investments. (6) 
+ The tax effect of reconciling items is calculated using the statutory tax rate, taking into consideration the nature of the items and the relevant taxing jurisdiction. 
+ (7) 
+ Consists of certain income tax adjustments, including the accrual of a deferred tax liability on the prior period earnings of certain of the Company s foreign subsidiaries for which the Company is no longer permanently reinvested, the impact of adjusting deferred tax assets and liabilities to stand-alone GE HealthCare tax rates, and the impact of tax legislation changes. As of the third quarter of 2024 this line additionally includes discrete tax impacts resulting from the Spin-Off and separation from GE previously reported under Tax effect of reconciling items. 
+ 
+ ____________________ 
+ Non-GAAP Financial Measure 
+ 39 
+
+Adjusted Earnings Per Share 
+ For the three months ended September 30 For the nine months ended September 30 (In dollars, except shares outstanding presented in millions) 2024 2023 change 2024 2023 change Diluted earnings per share continuing operations 
+ 1.02 0.83 0.20 2.77 2.16 0.61 Add: Deemed preferred stock dividend of redeemable noncontrolling interest 0.40 Add: Non-operating benefit (income) costs 
+ (0.22) (0.21) (0.67) (0.73) Add: Restructuring costs (1) 
+ 0.05 0.01 0.20 0.07 Add: Acquisition and disposition-related charges (benefits) (2) 
+ (0.01) (0.03) (0.02) (0.03) Add: Spin-Off and separation costs (3) 
+ 0.12 0.10 0.40 0.38 Add: (Gain) loss on business and asset dispositions (4) 
+ 0.00 Add: Amortization of acquisition-related intangible assets 
+ 0.08 0.07 0.22 0.21 Add: Investment revaluation (gain) loss (5) 
+ 0.00 (0.00) 0.06 (0.00) Add: Tax effect of reconciling items (6) 
+ (0.01) (0.01) (0.06) (0.01) Add: Spin-Off and other tax adjustments (7) 
+ 0.10 0.23 0.13 0.30 Adjusted earnings per share 
+ 1.14 0.99 0.15 3.04 2.75 0.29 Diluted weighted-average shares outstanding 459 458 459 458 
+ (1) 
+ Consists of severance, facility closures, and other charges associated with restructuring programs. (2) 
+ Consists of legal, consulting, and other transaction and integration fees, and adjustments to contingent consideration, as well as other purchase accounting related charges and other costs directly related to the transactions. (3) 
+ Costs incurred in the Spin-Off and separation from GE, including system implementations, audit and advisory fees, legal entity separation, Founders Grant equity awards, separation agreements with GE, and other one-time costs. 
+ (4) 
+ Consists of gains and losses resulting from the sale of assets and investments. (5) 
+ Primarily relates to valuation adjustments for equity investments. (6) 
+ The tax effect of reconciling items is calculated using the statutory tax rate, taking into consideration the nature of the items and the relevant taxing jurisdiction. 
+ (7) 
+ Consists of certain income tax adjustments, including the accrual of a deferred tax liability on the prior period earnings of certain of the Company s foreign subsidiaries for which the Company is no longer permanently reinvested, the impact of adjusting deferred tax assets and liabilities to stand-alone GE HealthCare tax rates, and the impact of tax legislation changes. As of the third quarter of 2024 this line additionally includes discrete tax impacts resulting from the Spin-Off and separation from GE previously reported under Tax effect of reconciling items. 
+
+Adjusted Tax Expense and Adjusted ETR 
+ For the three months ended September 30 For the nine months ended September 30 
+ 2024 2023 2024 2023 Benefit (provision) for income taxes 
+ (168) (250) (435) (550) Add: Tax effect of reconciling items (1) 
+ (3) (4) (26) (3) Add: Spin-Off and other tax adjustments (2) 
+ 46 106 60 136 Adjusted tax expense 
+ (124) (148) (401) (417) Effective tax rate 
+ 25.5 39.3 24.9 31.4 Adjusted effective tax rate 
+ 18.7 24.4 21.9 24.4 
+ (1) 
+ The tax effect of reconciling items is calculated using the statutory tax rate, taking into consideration the nature of the items and the relevant taxing jurisdiction. 
+ (2) 
+ Consists of certain income tax adjustments, including the accrual of a deferred tax liability on the prior period earnings of certain of the Company s foreign subsidiaries for which the Company is no longer permanently reinvested, the impact of adjusting deferred tax assets and liabilities to stand-alone GE HealthCare tax rates, and the impact of tax legislation changes. As of the third quarter of 2024 this line additionally includes discrete tax impacts resulting from the Spin-Off and separation from GE previously reported under Tax effect of reconciling items. 
+
+____________________ 
+ Non-GAAP Financial Measure 
+ 40 
+
+Free Cash Flow For the nine months ended September 30 
+ 2024 2023 change Cash from (used for) operating activities continuing operations 
+ 1,042 1,051 (1) Add: Additions to PP E and internal-use software 
+ (299) (293) Add: Dispositions of PP E 
+ 1 Free cash flow 
+ 743 759 (2) 
+
+LIQUIDITY AND CAPITAL RESOURCES 
+ 
+ As of September 30, 2024, our Cash, cash equivalents, and restricted cash balance in the Condensed Consolidated Statements of Financial Position was 3,568 million. We have historically generated positive cash flows from operating activities. Additionally, we have access to revolving credit facilities of 3,500 million in aggregate, described in detail in Note 8, Borrowings. 
+ 
+ We believe that our existing balance of Cash, cash equivalents, and restricted cash, future cash generated from operating activities, access to capital markets, and existing credit facilities will be sufficient to meet the needs of our current and ongoing operations, pay taxes due, service our existing debt, and fund investments in our business for at least the next 12 months. 
+ 
+ The following table summarizes our cash flows for the periods presented: 
+ 
+ Cash Flow For the nine months ended September 30 
+ 2024 2023 Cash from (used for) operating activities continuing operations 1,042 1,051 Cash from (used for) investing activities continuing operations (674) (470) Cash from (used for) financing activities continuing operations 704 422 Free cash flow 
+ 743 759 
+ 
+ Operating Activities 
+ Cash generated from operating activities in the nine months ended September 30, 2024 was 1,042 million and included Net income from continuing operations of 1,312 million, non-cash charges primarily for depreciation and amortization of 440 million, and 711 million in outflows from incremental changes in assets and liabilities, primarily driven by company-funded benefit payments for postretirement benefit plans, an increase in inventories mainly due to inventory build to meet higher demand, and compensation and benefit payments. 
+ 
+ Cash generated from operating activities in the nine months ended September 30, 2023 was 1,051 million and included Net income from continuing operations of 1,202 million, non-cash charges primarily for depreciation and amortization of 466 million, and 617 million in outflows from incremental changes in assets and liabilities, primarily driven by company funded benefit payments for postretirement benefit plans, a decrease in account payables, and an increase in inventories. 
+ 
+ Investing Activities 
+ Cash used for investing activities in the nine months ended September 30, 2024 was 674 million and primarily included additions to PP E of 299 million related mostly to manufacturing capacity expansion and new product introductions, purchases of businesses, net of cash acquired, of 259 million related to MIM Software Inc. MIM Software ), and payment of 94 million for settlement of cross-currency swaps that were designated in net investment hedges. Refer to Note 7, Acquisitions, Goodwill, and Other Intangible Assets for additional information on the MIM Software acquisition, and Note 12, Financial Instruments and Fair Value Measurements for additional information on the settlement of cross-currency swaps. 
+ 
+ Cash used for investing activities in the nine months ended September 30, 2023 was 470 million and primarily included additions to PP E of 293 million related mostly to new product introductions, manufacturing capacity expansion, and purchases of businesses, net of cash acquired, of 147 million primarily related to Caption Health, Inc. 
+ 
+ Financing Activities 
+ Cash generated from financing activities in the nine months ended September 30, 2024 was 704 million and primarily included 994 million of net proceeds from the issuance of 1,000 million aggregate principal amount of senior unsecured notes due in 2029, partially offset by repayment of 150 million of our outstanding Term Loan Facility. Refer to Note 8, Borrowings for further information. 
+
+____________________ 
+ Non-GAAP Financial Measure 
+ 41 
+
+Cash generated from financing activities in the nine months ended September 30, 2023 was 422 million and primarily included 2,020 million of newly issued debt, partially offset by 1,317 million of transfers to GE, and 211 million of Redemption of noncontrolling interests. 
+ 
+ Free cash flow 
+ Free cash flow was 743 million for the nine months ended September 30, 2024 and primarily included 1,042 million of cash generated from operating activities, partially offset by 299 million of cash used for additions to PP E. 
+ 
+ Free cash flow was 759 million for the nine months ended September 30, 2023 and primarily included 1,051 million of cash generated from operating activities, partially offset by 293 million of cash used for additions to PP E. 
+ 
+ Capital Expenditures 
+ Cash used for capital expenditures was 299 million and 293 million for the nine months ended September 30, 2024 and 2023, respectively. Capital expenditures were primarily for manufacturing capacity expansion, new product introductions, and equipment and tooling for new and existing products. 
+ 
+ Material Cash Requirements 
+ In the normal course of business, we enter into contracts and commitments that obligate us to make payments in the future. Information regarding our obligations under lease, debt, and other commitments are provided in Note 7, Leases, Note 9, Borrowings, and Note 14, Commitments, Guarantees, Product Warranties, and Other Loss Contingencies in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. We have material cash requirements related to our pension obligations as described in Note 9, Postretirement Benefit Plans. Additionally, on April 1, 2024, we funded the acquisition of MIM Software with cash on hand. Further information regarding this acquisition is provided in Note 7, Acquisitions, Goodwill, and Other Intangible Assets. 
+ 
+ Debt and Credit Facilities 
+ As part of our capital structure, we have incurred debt. The servicing of this debt is supported by cash flows from our operations. As of September 30, 2024, we had 10,312 million of total debt compared to 9,442 million as of December 31, 2023. The increase in debt was due primarily to our issuance, in the third quarter of 2024, of 1,000 million aggregate principal amount of senior unsecured notes due in 2029, partially offset by a repayment of 150 million of the outstanding Term Loan Facility in the first quarter of 2024. As of September 30, 2024 , there were 1,000 million of senior notes due in November 2024 recognized within Short-term borrowings in our Condensed Consolidated Statements of Financial Position. We plan to use the net proceeds from the debt issuance referenced above, together with cash on hand, to repay the 1,000 million aggregate principal amount outstanding of the senior unsecured notes due in November 2024. 
+ 
+ The weighted average interest rate for the Notes and our Credit Facilities for the nine months ended September 30, 2024 was 6.05 . We had no principal debt repayments on the Notes for the nine months ended September 30, 2024. 
+ 
+ In addition to the Term Loan Facility, our credit facilities include a five-year senior unsecured revolving facility that provides borrowings of up to 2,500 million expiring in January 2028, and a 364-day senior unsecured revolving facility that provides borrowings of up to 1,000 million expiring in December 2024. As of September 30, 2024 , there were no outstanding borrowings on either of the two revolving facilities. 
+ 
+ The Credit Facilities include various customary covenants that limit, among other things, the incurrence of liens securing debt, the entry into certain fundamental change transactions by GE HealthCare, and the maximum permitted leverage ratio. As of September 30, 2024 , we were in compliance with the covenant requirements, including the maximum consolidated net leverage ratio. 
+ 
+ For additional details on debt and credit facilities, see Note 8 , Borrowings. 
+ 
+ Access to Capital and Credit Ratings 
+ In connection with the Spin-Off, we accessed the capital markets and raised 10,250 million of debt by issuing 8,250 million of senior unsecured notes in November 2022, completed a drawdown of the Term Loan Facility of 2,000 million in January 2023, and arranged 3,500 million of revolving credit facilities to further support our liquidity needs. In the third quarter of 2024, we issued 1,000 million aggregate principal amount of senior unsecured notes due in 2029. We plan to continue to rely on capital markets, and we expect to have access to credit facilities to fund our operations. The cost and availability of debt financing will be influenced by our credit ratings and market conditions. Moody s Investors Service Moody s ), Standard and Poor s Global Ratings S P ), and Fitch Ratings Fitch currently issue ratings on our long-term debt. Our credit ratings as of October 23, 2024 are set forth in the table below. 
+ 
+ Moody s 
+ S P Fitch Long-term rating 
+ Baa2 BBB BBB Outlook 
+ Stable Stable Stable 
+ ____________________ 
+ Non-GAAP Financial Measure 
+ 42 
+
+We are disclosing our credit ratings to enhance the understanding of our sources of liquidity and the effects of our ratings on our costs of funds and access to liquidity. Our ratings may be subject to a revision or withdrawal at any time by the assigning rating organization, a nd each rating should be evaluated independently of any other rating. 
+
+RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS 
+ 
+ For a discussion of recently issued accounting standards, see Note 1, Organization and Basis of Presentation. 
+
+CRITICAL ACCOUNTING ESTIMATES 
+ 
+ There have been no material changes to the critical accounting estimates disclosed in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 
+ We are exposed to market risk primarily from changes in interest rates, foreign currency exchange rates, commodity prices, and equity prices, which may impact future income, cash flows, and fair value of our business. There have been no material changes in our exposure to market risk from those disclosed in Item 7A, Quantitative and Qualitative Disclosures About Market Risk in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+ 
+ EVALUATION OF DISCLOSURE CONTROLS AND PROCEDURES. 
+ 
+ Under the supervision and with the participation of the Company s management, including the Chief Executive Officer and Chief Financial Officer, the Company evaluated its disclosure controls and procedures as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act. Based on this evaluation, the Chief Executive Officer and Chief Financial Officer concluded that the Company s disclosure controls and procedures were effective as of September 30, 2024, and that the information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized, and reported, within the time periods specified in the SEC s rules and forms, and that such information is accumulated and communicated to management, including the Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. 
+ 
+ CHANGES IN INTERNAL CONTROL OVER FINANCIAL REPORTING. 
+ 
+ During the quarter ended September 30, 2024, the Company continued to exit from various transition service agreements with GE, primarily related to IT systems that impact financial reporting. Consequently, responsibility for execution of related internal controls transferred to the Company, including general IT controls in connection with IT environment changes. Other than those discussed in the preceding sentences, there were no changes in the Company s internal control over financial reporting that occurred during the quarter ended September 30, 2024 that materially affected or are reasonably likely to materially affect the Company s internal control over financial reporting. 
+ 
+ INHERENT LIMITATIONS ON EFFECTIVENESS OF CONTROLS. 
+ 
+ All internal control systems have inherent limitations; as such, they may not prevent or detect all misstatements or all fraud. Therefore, even those internal control systems determined to be effective can provide only reasonable assurance with respect to financial statements preparation and reporting. Additionally, projections of any evaluation of effectiveness to future periods are subject to the risk that the current control structure may become inadequate for changes in conditions or the degree of compliance with the policies may deteriorate. 
+
+PART II. OTHER INFORMATION 
+ 
+ ITEM 1. LEGAL PROCEEDINGS 
+ 
+ Information on material pending legal proceedings is incorporated herein by reference to the information set forth in Note 13, Commitments, Guarantees, Product Warranties, and Other Loss Contingencies to the financial statements included elsewhere in this Quarterly Report on Form 10-Q. 
+
+ITEM 1A. RISK FACTORS 
+ 
+ There have been no material changes to the risk factors disclosed in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+ 
+ 43 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+ 
+ There were no unregistered sales of equity securities during the period covered by this report. 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES 
+ 
+ None. 
+
+ITEM 4. MINE SAFETY DISCLOSURES 
+ 
+ Not applicable. 
+
+ITEM 5. OTHER INFORMATION 
+ 
+ DIRECTOR AND OFFICER TRADING ARRANGEMENTS. 
+ 
+ None of our directors or executive officers or a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement (as defined in Item 408(c) of Regulation S-K) during the quarterly period covered by this report. 
+
+ITEM 6. EXHIBITS 
+ Number Description 
+ 3.1 Certificate of Incorporation of the Registrant (incorporated by reference to Exhibit 3.1 to the Registrant s Current Report on Form 8-K filed with the SEC on December 29, 2022). 
+ 3.2 Bylaws of the Registrant (incorporated by reference to Exhibit 3.2 to the Registrant s Current Report on Form 8-K filed with the SEC on December 29, 2022). 
+ 4.1 
+ Second Supplemental Indenture dated as of August 14, 2024, between GE HealthCare Technologies Inc. and The Bank of New York Mellon, as trustee (incorporated by reference to Exhibit 4.2 to the Registrant s Current Report on Form 8-K filed with the SEC on August 15, 2024). 
+ 31.1 Certification of the Registrant s Chief Executive Officer pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934, as amended, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 31.2 Certification of the Registrant s Chief Financial Officer pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934, as amended, as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 32.1 Certifications of the Registrant s Chief Executive Officer and Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101 The following materials from GE HealthCare Technologies Inc. s Quarterly Report on Form 10-Q for the quarter ended September 30, 2024, formatted in inline XBRL (eXtensible Business Reporting Language); (1) Condensed Consolidated Statements of Income for the three and nine months ended September 30, 2024 and 2023; (2) Condensed Consolidated Statements of Comprehensive Income (Loss) for the three and nine months ended September 30, 2024 and 2023; (3) Condensed Consolidated Statements of Financial Position as of September 30, 2024 and December 31, 2023; (4) Condensed Consolidated Statements of Changes in Equity for the three and nine months ended September 30, 2024 and 2023; (5) Condensed Consolidated Statements of Cash Flows for the nine months ended September 30, 2024 and 2023; and (6) Notes to the Condensed Consolidated Financial Statements. 
+ 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+ 44 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ 
+ GE HealthCare Technologies Inc. (Registrant) 
+ October 30, 2024 /s/ George A. Newcomb Date George A. Newcomb, Controller Chief Accounting Officer (authorized signatory) 
+
+45 
+
+<EX-31.1>
+ 2
+ gehc3q202410qexhibit311.htm
+ EX-31.1
+
+Document 
+ Exhibit 31.1 
+
+ Certification Pursuant to Rules 13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934, as Amended 
+ 
+ I, Peter J. Arduini, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of GE HealthCare Technologies Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date October 30, 2024 
+ s Peter J. Arduini Peter J. Arduini President & Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ gehc3q202410qexhibit312.htm
+ EX-31.2
+
+Document 
+ Exhibit 31.2 
+
+ Certification Pursuant to Rules 13a-14(a) or 15d-14(a) under the Securities Exchange Act of 1934, as Amended 
+ 
+ I, James K. Saccaro, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of GE HealthCare Technologies Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date October 30, 2024 
+ s James K. Saccaro James K. Saccaro Vice President & Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ gehc3q202410qexhibit321.htm
+ EX-32.1
+
+Document 
+ Exhibit 32.1 
+
+ Certification Pursuant to 18 U.S.C. Section 1350 
+ 
+ In connection with the Quarterly Report of GE HealthCare Technologies Inc. (the registrant on Form 10-Q for the period ended September 30, 2024, as filed with the Securities and Exchange Commission on the date hereof (the report ), we, Peter J. Arduini and James K. Saccaro, President & Chief Executive Officer and Vice President & Chief Financial Officer, respectively, of the registrant, certify, pursuant to 18 U.S.C. 1350, that to our knowledge 
+ (1) The report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ (2) The information contained in the report fairly presents, in all material respects, the financial condition and results of operations of the registrant. 
+ 
+ October 30, 2024 
+ 
+ s Peter J. Arduini Peter J. Arduini President & Chief Executive Officer 
+ s James K. Saccaro James K. Saccaro Vice President & Chief Financial Officer 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ gehc-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ gehc-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ gehc-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ gehc-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ gehc-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

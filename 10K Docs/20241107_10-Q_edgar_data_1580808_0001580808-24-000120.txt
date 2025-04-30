@@ -1,0 +1,893 @@
+<Header>
+<FileStats>
+    <FileName>20241107_10-Q_edgar_data_1580808_0001580808-24-000120.txt</FileName>
+    <GrossFileSize>6997397</GrossFileSize>
+    <NetFileSize>97484</NetFileSize>
+    <NonText_DocumentType_Chars>1232204</NonText_DocumentType_Chars>
+    <HTML_Chars>2604665</HTML_Chars>
+    <XBRL_Chars>1624165</XBRL_Chars>
+    <XML_Chars>1290863</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001580808-24-000120.hdr.sgml : 20241107
+<ACCEPTANCE-DATETIME>20241107162455
+ACCESSION NUMBER:		0001580808-24-000120
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		80
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241107
+DATE AS OF CHANGE:		20241107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			A10 Networks, Inc.
+		CENTRAL INDEX KEY:			0001580808
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER COMMUNICATIONS EQUIPMENT [3576]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				201446869
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36343
+		FILM NUMBER:		241436228
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2300 ORCHARD PKWY
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131
+		BUSINESS PHONE:		(408) 325-8668
+
+	MAIL ADDRESS:	
+		STREET 1:		2300 ORCHARD PKWY
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95131
+
+</SEC-Header>
+</Header>
+
+ 0001580808-24-000120.txt : 20241107
+
+10-Q
+ 1
+ aten-20240930.htm
+ 10-Q
+
+aten-20240930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+
+Form 
+
+(Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission file number: 
+
+(Exact Name of Registrant as Specified in its Charter) 
+
+(State or Other Jurisdiction of Incorporation or Organization) (I.R.S. Employer Identification No.) , , 
+ (Address of Principal Executive Offices and Zip Code) 
+ ) 
+ (Registrant s Telephone Number, Including Area Code) 
+
+Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ 
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer , smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ 
+ x Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No x 
+
+As of October 31, 2024, the number of outstanding shares of the registrant s common stock, par value 0.00001 per share, was . 
+
+A10 NETWORKS, INC. 
+ FORM 10-Q 
+ 
+ TABLE OF CONTENTS 
+ Page No. Note Regarding Forward-Looking Statements 
+ 2 
+ PART I. FINANCIAL INFORMATION 
+ 4 
+ Item 1. Condensed Consolidated Financial Statements (unaudited): 
+ 4 
+ Condensed Consolidated Balance Sheets as of September 30, 2024 and December 31, 2023 
+ 4 
+ Condensed Consolidated Statements of Operations for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 5 
+ Condensed Consolidated Statements of Comprehensive Income for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 6 
+ Condensed Consolidated Statements of Stockholders Equity for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 7 
+ Condensed Consolidated Statements of Cash Flows for the Nine Months Ended September 30, 2024 and 2023 
+ 9 
+ Notes to Condensed Consolidated Financial Statements 
+ 10 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 24 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 36 
+ Item 4. Controls and Procedures 
+ 36 
+ 
+ PART II. OTHER INFORMATION 
+ 38 
+ Item 1. Legal Proceedings 
+ 38 
+ Item 1A. Risk Factors 
+ 38 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 38 
+ Item 5. Other Information 
+ 38 
+ Item 6. Exhibits 
+ 39 
+ Signatures 
+ 40 
+ 
+ 1 
+
+NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ 
+ The Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. The words believe, may, will, potentially, estimate, continue, anticipate, intend, could, would, project, plan, expect, and similar expressions that convey uncertainty of future events or outcomes are intended to identify forward-looking statements. 
+ 
+ These forward-looking statements include, but are not limited to, statements concerning the following: 
+ our strategy, business plan and our ability to effectively manage our growth and business operations; 
+ our expectations with respect to recognizing revenue related to remaining performance obligations; 
+ our plans to introduce new products; 
+ loss or delay of expected purchases by our largest end-customers; 
+ our expectations concerning relationships with third parties; 
+ our expectations with respect to the realization of our tax assets and our unrecognized tax benefits; 
+ our plans with respect to the repatriation of our earnings from our foreign operations; 
+ our ability to maintain profitability while continuing to invest in our sales, marketing, product development, distribution channel programs and research and development teams; 
+ our expectations regarding our future costs and expenses; 
+ variability of our gross margin and the factors affecting it; 
+ our expectations with respect to liquidity position and future capital requirements; 
+ our stock repurchase program and our quarterly cash dividends; 
+ our accounting policies and estimates; 
+ fluctuations in currency exchange rates; 
+ the cost and potential outcomes of litigation; and 
+ future acquisitions of or investments in complementary companies, products, services or technologies. 
+ 
+ These forward-looking statements are subject to a number of risks, uncertainties, and assumptions, including those described in Risk Factors and elsewhere in our Annual Report on Form 10-K filed with the SEC on February 29, 2024. Moreover, we operate in a very competitive and rapidly changing environment, and new risks emerge from time to time. It is not possible for our management to predict all risks, nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ materially from those contained in any forward-looking statements we may make. Important factors that could cause our actual results and financial condition to differ materially from those indicated in the forward-looking statements include, among others, the following: execution risks related to closing key deals and improving our execution; the continued market adoption of our products; our ability to successfully anticipate market needs and opportunities; our timely development of new products and features; our ability to maintain profitability; any loss or delay of expected purchases by our largest end-customers; our ability to maintain or improve our competitive position; competitive and execution risks related to cloud-based computing trends; our ability to attract and retain new end-customers and our largest end-consumers; our ability to maintain and enhance our brand and reputation; changes demanded by our customers in the deployment and payment model for our products; continued growth in markets relating to networking and network security; the success of any future acquisitions or investments in complementary companies, products, services or technologies; the ability of our sales and other teams to execute well; our ability to shorten our close cycles; the ability of our channels to sell our products; variations in product mix or geographic locations of our sales; risks associated with our presence in international markets; any unforeseen need for capital which may require us to divert funds we may have otherwise used for the dividend program or stock repurchase program; a significant decline in global macroeconomic or political conditions that have an adverse impact on our business and financial results; business interruptions related to our supply chain; our ability to manage our business and expenses if customers cancel or delay orders; weaknesses or deficiencies in our internal control over financial reporting; and our ability to timely file periodic reports required to be filed under the Securities Exchange Act of 1934, as well as other risks identified in the Risk Factors section contained in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2023. 
+ 
+ In light of these risks, uncertainties, and assumptions, the forward-looking events and circumstances discussed in this Quarterly Report on Form 10-Q may not occur and actual results could differ materially and adversely from those anticipated or implied in the forward-looking statements. 
+ 
+ You should not rely upon forward-looking statements as predictions of future events. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee that the future results, levels of activity, performance or events and circumstances reflected in the forward-looking statements will be achieved or occur. Any 
+ 2 
+
+forward-looking statements made by us in this report speak only as of the date of this report, and we do not intend to update these forward-looking statements after the filing of this report, except as required by law. 
+ 
+ Our investor relations website is located at https://investors.A10networks.com. We use our investor relations website, our company blog (https://www.a10networks.com/blog) and our corporate X (formerly Twitter) account (https://x.com/A10Networks) to post important information for investors, including news releases, analyst presentations, and supplemental financial information, and as a means of disclosing material non-public information and for complying with our disclosure obligations under Regulation FD. Accordingly, investors should monitor our investor relations website, our company blog and our corporate X account, in addition to following press releases, SEC filings and public conference calls and webcasts. We also make available, free of charge, on our investor relations website under SEC Filings, our Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K and amendments to these reports as soon as reasonably practicable after electronically filing or furnishing those reports to the SEC. 
+ 
+ 3 
+
+PART I. FINANCIAL INFORMATION 
+
+ITEM 1. CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) 
+
+A10 NETWORKS, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (unaudited, in thousands, except par value) 
+ September 30, 2024 December 31, 2023 ASSETS Current assets: Cash and cash equivalents Marketable securities Accounts receivable, net of allowances of 1,171 and 405, respectively Inventory Prepaid expenses and other current assets Total current assets Property and equipment, net Goodwill Deferred tax assets, net Other non-current assets Total assets LIABILITIES AND STOCKHOLDERS EQUITY Current liabilities: Accounts payable Accrued liabilities Deferred revenue Total current liabilities Deferred revenue, non-current Other non-current liabilities Total liabilities Commitments and contingencies (Note 2 and Note 6) Treasury stock, at cost: 16,467 and 14,644 shares, respectively ) ) Additional paid-in-capital Dividends paid ) ) Accumulated other comprehensive income (loss) ) Accumulated deficit ) ) Total stockholders' equity Total liabilities and stockholders' equity 
+ See accompanying notes to the condensed consolidated financial statements. 
+ 
+ 4 
+
+A10 NETWORKS, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (unaudited, in thousands, except per share amounts) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net revenue: Products Services Total net revenue Cost of net revenue: Products Services Total cost of net revenue Gross profit Operating expenses: Sales and marketing Research and development General and administrative Total operating expenses Income from operations Non-operating income, net: Interest income Other income, net Non-operating income, net Income before provision for (benefit from) income taxes Provision for (benefit from) income taxes ) Net income Net income per share: Basic Diluted Weighted-average shares used in computing net income per share: Basic Diluted 
+
+See accompanying notes to the condensed consolidated financial statements. 
+
+5 
+
+A10 NETWORKS, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+ (unaudited, in thousands) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net income Other comprehensive income (loss), net of tax: Realized loss reclassified to earnings ) Unrealized gain (loss) on marketable securities ) Unrealized gain (loss) on cash flow hedge ) ) ) Comprehensive income 
+
+See accompanying notes to the condensed consolidated financial statements. 
+ 
+ 6 
+
+A10 NETWORKS, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY 
+ (unaudited, in thousands) 
+ 
+ Three Months Ended September 30, 2023 Common Stock Treasury stock, at cost Additional Paid-in Capital Dividends Paid Accumulated Other Comprehensive Income (Loss) Accumulated Deficit Total Stockholders' Equity Shares Amount Balance at June 30, 2023 ) ) ) Common stock issued under employee equity incentive plans Repurchase of common stock ) ) ) Stock-based compensation expense Payments for dividends ) ) Unrealized loss on marketable securities, net of tax ) ) Unrealized loss on cash flow hedge, net of tax ) ) Net Income Balance at September 30, 2023 ) ) ) 
+
+Three Months Ended September 30, 2024 Common Stock Treasury stock, at cost Additional Paid-in Capital Dividends Paid Accumulated Other Comprehensive Income (Loss) Accumulated Deficit Total Stockholders' Equity Shares Amount Balance at June 30, 2024 ) ) ) Common stock issued under employee equity incentive plans Repurchase of common stock ) ) ) Stock-based compensation expense Payments for dividends ) ) Unrealized gain on marketable securities, net of tax Unrealized loss on cash flow hedge, net of tax ) ) Net Income Balance at September 30, 2024 ) ) ) 
+ 
+ See accompanying notes to the condensed consolidated financial statements. 
+ 7 
+
+A10 NETWORKS, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY (CONTINUED) 
+ (unaudited, in thousands) 
+ 
+ Nine Months Ended September 30, 2023 Common Stock Treasury stock, at cost Additional Paid-in Capital Dividends Paid Accumulated Other Comprehensive Income (Loss) Accumulated Deficit Total Stockholders' Equity Shares Amount Balance at December 31, 2022 ) ) ) ) Common stock issued under employee equity incentive plans Repurchase of common stock ) ) ) Stock-based compensation expense Payments for dividends ) ) Realized loss reclassified to earnings ) ) Unrealized gain on marketable securities, net of tax Unrealized gain on cash flow hedge, net of tax Net Income Balance at September 30, 2023 ) ) ) 
+
+Nine Months Ended September 30, 2024 Common Stock Treasury stock, at cost Additional Paid-in Capital Dividends Paid Accumulated Other Comprehensive Income (Loss) Accumulated Deficit Total Stockholders' Equity Shares Amount Balance at December 31, 2023 ) ) ) ) Common stock issued under employee equity incentive plans Repurchase of common stock ) ) ) Stock-based compensation expense Payments for dividends ) ) Unrealized gain on marketable securities, net of tax Unrealized loss on cash flow hedge, net of tax ) ) Net Income Balance at September 30, 2024 ) ) ) 
+
+See accompanying notes to the condensed consolidated financial statements. 
+ 8 
+
+A10 NETWORKS, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (unaudited, in thousands) 
+ Nine Months Ended September 30, 2024 2023 Cash flows from operating activities: Net income Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization Stock-based compensation Other non-cash items ) Changes in operating assets and liabilities: Accounts receivable Inventory ) ) Prepaid expenses and other assets Accounts payable ) ) Accrued liabilities ) Deferred revenue Net cash provided by operating activities Cash flows from investing activities: Proceeds from sales of marketable securities Proceeds from maturities of marketable securities Purchases of marketable securities ) ) Capital expenditures ) ) Net cash provided by (used in) investing activities ) Cash flows from financing activities: Proceeds from issuance of common stock under employee equity incentive plans Repurchase of common stock ) ) Payments for dividends ) ) Net cash used in financing activities ) ) Net increase (decrease) in cash and cash equivalents ) Cash and cash equivalents beginning of period Cash and cash equivalents end of period Non-cash investing and financing activities: Transfers between inventory and property and equipment Purchases of property and equipment included in accounts payable 
+ 
+ See accompanying notes to the condensed consolidated financial statements. 
+ 9 
+
+A10 Networks, Inc. 
+ 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited) 
+
+1. 
+ secure application solutions; Thunder Application Delivery Controller ADC ), Lightning Application Delivery Controller Lightning ADC ), Thunder Carrier Grade Networking CGN ), Thunder Threat Protection System TPS ), Thunder SSL Insight SSLi and Thunder Convergent Firewall CFW ), and intelligent management and automation tools; Harmony Controller and aGalaxy TPS. Our solutions are available in a variety of form factors, such as optimized hardware appliances, bare metal software, containerized software, virtual appliances and cloud-native software. Our 7000+ customers span global large enterprises and communications, cloud and web service providers, and government organizations. 
+ 
+ We derive revenue from two sources: (i) products revenue, which includes hardware, perpetual software license and subscription offerings, which include term-based license agreements; and (ii) services revenue, which includes post contract support PCS ), professional services, training and software-as-a-service offerings. Revenue for term-based license agreements is recognized at a point in time when the Company delivers the software license to the customer and over time once the subscription term has commenced. For our software-as-a-service offerings, our customers do not take possession of the Company s software but rather we provide access to the service via a hosting arrangement. Revenue in these arrangements is recognized over time as the services are provided. A substantial portion of our revenue is from sales of our products and services through distribution channels, such as resellers and distributors. Our customers predominantly purchase PCS services in conjunction with purchases of our products. We recognize services revenue ratably over the term of the PCS contract, which is typically one year, but can be up to seven years. 
+ 
+ We sell our products globally to service providers and enterprises that depend on data center applications and networks to generate revenue and manage operations efficiently. We report two customer verticals: service providers and enterprises, and we report customer revenues in three broad geographic regions: the Americas, APJ and EMEA regions. The Americas region comprises the United States and other countries in the Americas (excluding the United States). The APJ region comprises Japan and other countries in Asia Pacific. The EMEA region comprises Europe, Middle East and Africa. We believe this geographic revenue view is consistent with how we evaluate our financial performance. 
+ 
+ Our end-customers operate in a variety of industries, including telecommunications, technology, industrial, retail, financial, gaming, education and government. Since inception, our customer base has grown rapidly. 
+ 
+ We sell substantially all of our solutions through our high-touch sales organization as well as distribution channels, including distributors, value-added resellers and system integrators, and fulfill nearly all orders globally through such channels. We believe this sales approach allows us to obtain the benefits of channel distribution, such as expanding our market coverage, while still maintaining face-to-face relationships with our end-customers. We outsource the manufacturing of our hardware products to original design manufacturers. We perform quality assurance and testing at our San Jose, Taiwan and Japan distribution centers, as well as at our manufacturers locations. 
+ 
+ 10 
+
+Significant Accounting Policies 
+ 
+ The Company s significant accounting policies are disclosed in Part II Item 8, Financial Statements and Supplementary Data of the 2023 Annual Report filed with the SEC on February 29, 2024. There have been no material changes to the Company s significant accounting policies during the three and nine months ended September 30, 2024. 
+
+Revenues from our significant end-customers as a percentage of our total revenue are as follows: 
+ 
+ represents less than 10 of total revenue 
+ 11 
+
+of our total gross accounts receivable. As of December 31, 2023, one customer accounted for of our total gross accounts receivable. 
+
+2. 
+ 
+ Total right-of-use assets Lease liabilities: Accrued liabilities Other non-current liabilities Total operating lease liabilities 
+
+12 
+
+2025 2026 2027 Total lease payments Less: imputed interest ) Present value of lease liabilities 
+ 
+ The components of lease costs were as follows (in thousands): 
+ Short-term lease costs Total lease costs 
+ 
+ Average lease terms and discount rates for the Company s operating leases were as follows: Three Months Ended September 30, 2024 2023 Weighted-average remaining term (years) Weighted-average discount rate 
+ 
+ Supplemental cash flow information for the Company s operating leases were as follows (in thousands): Three Months Ended September 30, 2024 2023 Cash paid for amounts included in the measurement of lease liabilities: Operating cash flows from operating leases 
+
+3. 
+ 
+ ) ) U.S. Treasury and agency securities ) Commercial paper Debt securities ) ) Publicly held equity securities - Level 1 4,558 5,728 Total marketable securities 104,043 62,056 
+ 
+ During the three and nine months ended September 30, 2024 and 2023, we did not reclassify any amount to earnings from accumulated other comprehensive income (loss) related to unrealized gains or losses. 
+ 
+ 13 
+
+Mature in 1 - 3 years Debt securities 
+ All available-for-sale securities have been classified as current because they are available for use in current operations. 
+ 
+ ) ) U.S. Treasury and agency securities Total ) ) 
+ 
+ Marketable securities in an unrealized loss position as of December 31, 2023 consisted of the following (in thousands): 
+ 
+ Less Than 12 Months 12 Months or More Total As of December 31, 2023 Fair Value Gross Unrealized Losses Fair Value Gross Unrealized Losses Fair Value Gross Unrealized Losses Corporate securities ) ) U.S. Treasury and agency securities ) ) Total ) ) 
+ 
+ Based on evaluation of securities that have been in a continuous loss position, we did not recognize any other-than-temporary impairment charges during the three and nine months ended September 30, 2024 and 2023. 
+ 
+ 14 
+
+Cash equivalents Corporate securities U.S. Treasury and agency securities Commercial paper Publicly held equity securities - Level 1 Total 
+ There were no transfers between Level 1 and Level 2 fair value measurement categories during the three and nine months ended September 30, 2024 and 2023. 
+
+4. 
+ 
+ million and million, respectively. These contracts have maturities of less than days. For the three months ended September 30, 2024 and 2023, the Company recorded foreign exchange related net losses of thousand and net gains of million, respectively, and for the nine months ended September 30, 2024 and 2023, the Company recorded net losses of million and million, respectively, in its consolidated statements of operations related to these contracts. 
+ 
+ For foreign exchange forward contracts designated as hedging instruments, unrealized gains and losses arising from these contracts are recorded as a component of accumulated other comprehensive income (loss) on the consolidated balance sheets. The hedging gains and losses in accumulated other comprehensive income (loss) in the consolidated balance sheet are subsequently reclassified to expenses, as applicable, in the consolidated statements of operations in the same period in which the underlying transactions affect the Company s earnings. As of September 30, 2024 and December 31, 2023, foreign exchange forward currency contracts designated as hedging instruments had notional amounts of million and million, respectively. These contracts have day maturities. 
+ 
+ 15 
+
+5. Condensed Consolidated Financial Statement Components 
+ 
+ Increase (decrease) in allowance Write-offs ) ) Allowance for credit losses, ending balance 
+ 
+ Inventory 
+ 
+ Finished goods Total inventory 
+ 
+ Prepaid Expenses and Other Current Assets 
+ 
+ Deferred contract acquisition costs Other Total prepaid expenses and other current assets 
+ 
+ Property and Equipment, Net 
+ 
+ Software 1 - 3 Furniture and fixtures 1 - 7 Leasehold improvements Lease term Construction in process Property and equipment, gross Less: accumulated depreciation ) ) Property and equipment, net 
+ 
+ Construction in process primarily consists of deferred software development costs related to several software-as-a-service projects that will take longer than one year to complete. 
+ 
+ 16 
+
+Depreciation expense on property and equipment was million and million for the three months ended September 30, 2024 and 2023, respectively, and was million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+ 
+ Internally Developed Software to be Marketed and Sold 
+ 
+ During the three and nine months ended September 30, 2024, costs were capitalized associated with internally developed software to be marketed and sold. During the three and nine months ended September 30, 2023, capitalized costs associated with internally developed software to be marketed and sold totaled thousand and million, respectfully. During the three months ended September 30, 2024 and 2023, amortization cost totaled million in each period, respectfully. During the nine months ended September 30, 2024 and 2023, amortization cost totaled million and million, respectively. As of September 30, 2024, the unamortized capitalized internally developed software balance was million and is included in other non-current assets. 
+ 
+ Accrued Liabilities 
+ 
+ Accrued tax liabilities Lease liability Other Total accrued liabilities 
+ 
+ Deferred Revenue 
+ 
+ Services Total deferred revenue Less: current portion ) ) Non-current portion 
+
+6. 
+ 
+ million for both the three months ended September 30, 2024 and 2023 and was million and million for the nine months ended September 30, 2024 and 2023, respectively 
+ 
+ Purchase Commitments 
+ 
+ 17 
+
+million as of September 30, 2024. 
+ 
+ Guarantees and Indemnifications 
+ 
+ In the normal course of business, we provide indemnifications to customers against claims of intellectual property infringement made by third parties arising from the use of our products. Other guarantees or indemnification arrangements include guarantees of product and service performance, and standby letters of credit for lease facilities and corporate credit cards. We have not recorded a liability related to these indemnification and guarantee provisions and our guarantees and indemnification arrangements have not had any significant impact on our condensed consolidated financial statements to date. 
+
+7. 
+ 
+ shares available for future grant under the 2023 Plan. 
+ 
+ 2014 Employee Stock Purchase Plan 
+ 
+ The 2014 Employee Stock Purchase Plan, as amended (the Amended 2014 Purchase Plan provides employees with an opportunity to purchase our common stock through accumulated contributions, up to a maximum of of eligible compensation, with offering periods of in duration, beginning on or about December 1 and June 1 each year. As of September 30, 2024, the Company had shares available for future issuance under the Amended 2014 Purchase Plan. 
+ 
+ Stock-Based Compensation 
+ 
+ Employee stock purchase rights Stock-based compensation by category of expense: Cost of net revenue Sales and marketing Research and development General and administrative 
+ 
+ As of September 30, 2024, the Company had million of unrecognized stock-based compensation expense related to unvested stock-based awards, including common stock acquired under our Amended 2014 Purchase Plan, which will be recognized over a weighted-average period of years. 
+ 18 
+
+Exercised ) Canceled ) Outstanding as of September 30, 2024 Vested and exercisable as of September 30, 2024 
+ 
+ As of September 30, 2024, the aggregate intrinsic value represents the excess of the closing price of our common stock of over the exercise price of the outstanding in-the-money options. 
+ 
+ The intrinsic value of options exercised was million and million during the three months ended September 30, 2024 and 2023, respectively, and was million and million during the nine months ended September 30, 2024 and 2023, respectively. 
+ 
+ Stock Awards 
+ 
+ The Company has granted RSUs to its employees, consultants and members of its Board of Directors, and PSUs to certain executives and employees. The Company s PSUs have market performance-based vesting conditions as well as service-based vesting conditions. As of September 30, 2024, there were RSUs and PSUs outstanding. 
+ 
+ Granted Released ) Canceled ) Nonvested as of September 30, 2024 
+ 
+ The aggregate fair value of stock awards released was million and million for the three months ended September 30, 2024 and 2023, respectively, and was million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+ 
+ Stock Repurchase Programs 
+ 
+ On November 1, 2022, the Company announced its Board of Directors authorized a stock repurchase program of up to million of its common stock over a period of twelve months (the 2022 Program ). During the nine months ended September 30, 2023, the Company repurchased million shares for a total cost of million under the 2022 Program. This repurchase program was active for twelve months and expired in the second half of 2023. 
+ 
+ On November 7, 2023, the Company announced its Board of Directors authorized a stock repurchase program of up to million of its common stock over a period of twelve months (the 2023 Program ). During the nine months ended September 30, 2024, the Company repurchased million shares for a total cost of million under the 2023 Program. 
+ 19 
+
+million of its common stock (the 2024 Program ). The 2024 Program does not have a specified term or termination date. 
+ 
+ Under the Company s stock repurchase programs, repurchased shares are held in treasury at cost. The Company s stock repurchase programs do not obligate it to acquire any specific number of shares. Shares may be repurchased in privately negotiated and/or open market transactions, including under plans complying with Rule 10b5-1 under the Exchange Act. 
+
+8. 
+ 
+ Denominator: Weighted-average shares outstanding - basic Effect of dilutive potential common shares from stock options, stock awards and employee stock purchase plan Weighted-average shares outstanding - diluted Net income per share: Basic Diluted 
+
+9. 
+ 
+ million and a benefit for income tax of million for the three months ended September 30, 2024 and 2023, respectively, and we recorded a provision for income tax expense of million and million for the nine months ended September 30, 2024 and 2023, respectively. The Company s income tax provision and benefit for the three and nine months ended September 30, 2024 and 2023 primarily consisted of U.S. federal and state taxes. 
+ 
+ We had million of unrecognized tax benefits as of September 30, 2024. We do not anticipate a material change to our unrecognized tax benefits over the next twelve months. Unrecognized tax benefits may change during the next twelve months for items that arise in the ordinary course of business. 
+ 
+ 20 
+
+10. 
+ 
+ United States Americas-other APJ EMEA Total net revenue 187,492 181,283 
+ 
+ APAC Japan EMEA Total 
+ 
+ 21 
+
+11. 
+ 
+ Enterprises Total 
+ 
+ Contract Balances 
+ Deferred revenue, current Deferred revenue, non-current 
+ 
+ We receive payments from customers based upon billing cycles. Invoice payment terms usually range from 30 to 90 days. 
+ 
+ Accounts receivable are recorded when the right to consideration becomes unconditional. 
+ 
+ Contract assets include amounts related to our contractual right to consideration for performance obligations not yet billed and are included in prepaid and other current assets in the condensed consolidated balance sheets. The amounts were immaterial as of September 30, 2024 and December 31, 2023. 
+ 
+ Deferred revenue primarily consists of amounts that have been invoiced but not yet been recognized as revenue and consists of performance obligations pertaining to support and subscription services. We recognized revenue of million and million during the three months ended September 30, 2024 and 2023, respectively, related to deferred revenues at the beginning of the respective periods. We recognized revenue of million and million during the nine months ended September 30, 2024 and 2023, respectively, related to deferred revenues at the beginning of the respective periods. 
+ As of September 30, 2024, the current and non-current portions of deferred contract acquisition costs were million and million, respectively. As of December 31, 2023, the current and non-current portions of deferred contract acquisition costs were million and million, respectively. Related amortization expense was million and million for the three months ended September 30, 2024 and 2023, respectively, and was million and million, for the nine months ended September 30, 2024 and 2023, respectively. 
+ 
+ We had impairment loss in relation to the costs capitalized and asset impairment charges related to contract assets during the three and nine months ended September 30, 2024 and 2023. 
+ 
+ 22 
+
+Next 2 to 3 years Thereafter Total 
+
+12. 
+ 
+ , the Company announced its Board of Directors approved a quarterly cash dividend. The dividend, in the amount of per share outstanding, will be paid on to stockholders of record on as a return of capital. Future dividends will be subject to further review and approval by the Board of Directors in accordance with applicable law. The Board of Directors reserves the right to adjust or withdraw the quarterly dividend in future periods as it reviews the Company s capital allocation strategy from time-to-time. 
+ 
+ million of its outstanding common stock. The 2024 Program does not have a specified term or termination date. Under the 2024 Program, the Company is authorized to repurchase shares of common stock in privately negotiated transactions, and/or open market transactions, including under plans complying with Rule 10b5-1 under the Exchange Act, and in block trades, or a combination of the foregoing. The Board will review the share repurchase program periodically and may authorize adjustment of its term and size. The Company plans to fund repurchases from its existing cash balance and cash provided by operating activities. 
+
+23 
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ The following discussion and analysis of our financial condition and results of operations MD A should be read in conjunction with our condensed consolidated financial statements and related notes included elsewhere in this document. In addition to historical information, the MD A contains forward-looking statements that reflect our plans, estimates, and beliefs that involve significant risks and uncertainties. Our actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause or contribute to those differences include those discussed below and elsewhere in this Quarterly Report on Form 10-Q, particularly in Note Regarding Forward-Looking Statements and other risk factors contained in Part I, Item 1A Risk Factors in our 2023 Annual Report. 
+
+Overview 
+ 
+ We are a leading provider of security and infrastructure solutions and services for on-premises, hybrid cloud and edge-cloud environments that enable a new generation of intelligently connected companies with the ability to continuously improve cyber protection and digital responsiveness across dynamic Information Technology IT and network infrastructures. Our product portfolio seeks to address many of the cyber protection challenges and solution requirements. The portfolio consists of six secure application solutions; Thunder Application Delivery Controller ADC ), Lightning Application Delivery Controller Lightning ADC ), Thunder Carrier Grade Networking CGN ), Thunder Threat Protection System TPS ), Thunder SSL Insight SSLi and Thunder Convergent Firewall CFW ), and two intelligent management and automation tools; Harmony Controller and aGalaxy TPS. Our solutions are available in a variety of form factors, such as optimized hardware appliances, bare metal software, containerized software, virtual appliances and cloud-native software. Our 7000+ customers span global large enterprises and communications, cloud and web service providers, and government organizations. 
+ 
+ We derive revenue from two sources: (i) products revenue, which includes hardware, perpetual software license and subscription offerings, which include term-based license agreements; and (ii) services revenue, which includes post contract support PCS ), professional services, training and software-as-a-service offerings. Revenue for term-based license agreements is recognized at a point in time when the Company delivers the software license to the customer and over time once the subscription term has commenced. For our software-as-a-service offerings, our customers do not take possession of the Company s software but rather we provide access to the service via a hosting arrangement. Revenue in these arrangements is recognized over time as the services are provided. A substantial portion of our revenue is from sales of our products and services through distribution channels, such as resellers and distributors. Our customers predominantly purchase PCS services in conjunction with purchases of our products. We recognize services revenue ratably over the term of the PCS contract, which is typically one year, but can be up to seven years. 
+ 
+ We sell our products globally to service providers and enterprises that depend on data center applications and networks to generate revenue and manage operations efficiently. We report two customer verticals: service providers and enterprises, and we report customer revenues in three broad geographic regions: the Americas, APJ and EMEA regions. The Americas region comprises the United States and other countries in the Americas (excluding the United States). The APJ region comprises Japan and other countries in Asia Pacific. The EMEA region comprises Europe, Middle East and Africa. We believe this geographic revenue view is consistent with how we evaluate our financial performance. 
+ 
+ Our end-customers operate in a variety of industries, including telecommunications, technology, industrial, retail, financial, gaming, education and government. Since inception, our customer base has grown rapidly. 
+ 
+ We sell substantially all of our solutions through our high-touch sales organization as well as distribution channels, including distributors, value-added resellers and system integrators, and fulfill nearly all orders globally through such channels. We believe this sales approach allows us to obtain the benefits of channel distribution, such as expanding our market coverage, while still maintaining face-to-face relationships with our end-customers. We outsource the manufacturing of our hardware products to original design manufacturers. We perform quality assurance and testing at our San Jose, Taiwan and Japan distribution centers, as well as at our manufacturers locations. 
+ 
+ 24 
+
+During the three months ended September 30, 2024, (i) 51 of our total revenue was generated from the Americas region, of which 45 was generated from the United States and 6 was generated from the Americas-other, (ii) 34 from the APJ region and (iii) 14 from the EMEA region. During the three months ended September 30, 2023, (i) 45 of our total revenue was generated from the Americas region, of which 41 was generated from the United States and 4 was generated from the Americas-other, (ii) 37 from the APJ region and (iii) 19 from the EMEA region. One of our priorities is to strengthen our sales efforts in North America. Our enterprise customers accounted for 45 and 50 of our total revenue during the three months ended September 30, 2024 and 2023, respectively, and our service provider customers accounted for 55 and 50 of our total revenue during the three months ended September 30, 2024 and 2023, respectively. 
+ 
+ As a result of the nature of our target market and the current stage of our development, a substantial portion of our revenue comes from a limited number of large customers, including service providers and enterprise customers, in any period. Purchases by our ten largest end-customers accounted for 44 and 29 of our total revenue for the three months ended September 30, 2024 and 2023, respectively. Sales to these large end-customers have typically been characterized by large but irregular purchases with long sales cycles. The timing of these purchases and the delivery of the purchased products are difficult to predict. Consequently, any acceleration or delay in anticipated product purchases by or deliveries to our largest customers could materially impact our revenue and operating results in any quarterly period. This may cause our quarterly revenue and operating results to fluctuate from quarter to quarter and make them difficult to predict. 
+ 
+ As of September 30, 2024, we had 78.1 million of cash and cash equivalents and 104.0 million of marketable securities. Cash provided by operating activities was 64.8 million during the nine months ended September 30, 2024, compared to 41.8 million in the same period of 2023. 
+ 
+ We intend to continue to invest for long-term growth. We have invested and expect to continue to invest in our product development efforts to deliver new products and additional features in our current products to address customer needs. In addition, we may expand our global sales and marketing organizations, expand our distribution channel programs and increase awareness of our solutions on a global basis. Our investments in growth in these areas may affect our short-term profitability. 
+ 
+ 25 
+
+Results of Operations 
+ 
+ A summary of our condensed consolidated statements of operations for the three and nine months ended September 30, 2024 and 2023 is as follows (dollars in thousands): 
+ Three Months Ended September 30, 2024 2023 Increase (Decrease) Amount Percent of Total Revenue Amount Percent of Total Revenue Amount Percent Net revenue: Products 36,862 55.2 30,260 52.4 6,602 21.8 Services 29,859 44.8 27,515 47.6 2,344 8.5 Total net revenue 66,721 100.0 57,775 100.0 8,946 15.5 Cost of net revenue: Products 7,531 11.3 6,815 11.8 716 10.5 Services 5,508 8.3 4,194 7.3 1,314 31.3 Total cost of net revenue 13,039 19.5 11,009 19.1 2,030 18.4 Gross profit 53,682 80.5 46,766 80.9 6,916 14.8 Operating expenses: Sales and marketing 21,011 31.5 21,324 36.9 (313) (1.5) Research and development 15,734 23.6 17,620 30.5 (1,886) (10.7) General and administrative 6,494 9.7 5,613 9.7 881 15.7 Total operating expenses 43,239 64.8 44,557 77.1 (1,318) (3.0) Income from operations 10,443 15.7 2,209 3.8 8,234 372.7 Non-operating income, net: Interest income 1,634 2.4 1,766 3.1 (132) (7.5) Other income, net 2,312 3.5 987 1.7 1,325 134.2 Non-operating income, net 3,946 5.9 2,753 4.8 1,193 43.3 Income before provision for (benefit from) income taxes 14,389 21.6 4,962 8.6 9,427 190.0 Provision for (benefit from) income taxes 1,752 2.6 (1,507) (2.6) 3,259 (216.3) Net income 12,637 18.9 6,469 11.2 6,168 95.3 
+ 
+ 26 
+
+Nine Months Ended September 30, 2024 2023 Increase (Decrease) Amount Percent of Total Revenue Amount Percent of Total Revenue Amount Percent Revenue: Products 96,464 51.4 100,532 55.5 (4,068) (4.0) Services 91,028 48.6 80,751 44.5 10,277 12.7 Total revenue 187,492 100.0 181,283 100.0 6,209 3.4 Cost of revenue: Products 21,143 11.3 22,334 12.3 (1,191) (5.3) Services 15,378 8.2 12,354 6.8 3,024 24.5 Total cost of revenue 36,521 19.5 34,688 19.1 1,833 5.3 Gross profit 150,971 80.5 146,595 80.9 4,376 3.0 Operating expenses: Sales and marketing 61,678 32.9 64,526 35.6 (2,848) (4.4) Research and development 44,533 23.8 43,250 23.9 1,283 3.0 General and administrative 19,188 10.2 18,177 9.9 1,011 5.6 Total operating expenses 125,399 66.9 125,953 69.5 (554) (0.4) Income from operations 25,572 13.6 20,642 11.4 4,930 23.9 Non-operating income, net: Interest income 5,077 2.7 3,401 1.9 1,676 49.3 Other income, net 5,943 3.2 653 0.4 5,290 810.1 Non-operating income, net 11,020 5.9 4,054 2.2 6,966 171.8 Income before provision for income taxes 36,592 19.5 24,696 13.6 11,896 48.2 Provision for income taxes 4,753 2.5 2,643 1.5 2,110 79.8 Net income 31,839 17.0 22,053 12.2 9,786 44.4 
+ Net Revenue 
+ 
+ We derive revenue from two sources: (i) products revenue, which includes hardware, perpetual software license and subscription offerings, which include term-based license agreements; and (ii) services revenue, which includes post contract support PCS ), professional services, training and software-as-a-service offerings. 
+ 
+ Our products revenue primarily consists of revenue from sales of our hardware appliances upon which our software is installed. Such software includes our ACOS software platform plus one or more of our ADC, CGN, TPS, SSLi or CFW solutions. Purchase of a hardware appliance includes a perpetual license to the included software. With respect to sales of our hardware appliances, we recognize products revenue upon transfer of control, generally at the time of shipment, provided that all other revenue recognition criteria have been met. Revenue for term-based license agreements is recognized at a point in time when we deliver the software license to the customer and the subscription term has commenced. As a percentage of revenue, our products revenue may vary from quarter to quarter based on, among other things, the timing of orders and delivery of products, cyclicality and seasonality, changes in currency exchange rates and the impact of significant transactions with unique terms and conditions. 
+ 
+ We generate services revenue from sales of PCS, which is bundled with sales of products and technical services. We offer tiered PCS services under renewable, fee-based PCS contracts, primarily including technical support, hardware repair and replacement parts, and software upgrades on a when-and-if-available basis. We recognize services revenue ratably over the term of the PCS contract, which is typically one year, but can be up to seven years. For our software-as-a-service offerings, our customers do not take possession of our software but rather we provide access to the service via a hosting arrangement. Revenue in these arrangements is recognized over time as the services are provided. Additionally, an immaterial portion of our services revenue comes from subscription revenue. We offer several services by subscription, primarily through either term-based license agreements or as a service through our cloud-based platform. 
+ 27 
+
+A summary of our total revenue is as follows (dollars in thousands): 
+ 
+ Three Months Ended September 30, 2024 2023 Increase (Decrease) Amount Percent of Total Revenue Amount Percent of Total Revenue Amount Percent Net revenue: Products 36,862 55 30,260 52 6,602 22 Services 29,859 45 27,515 48 2,344 9 Total net revenue 66,721 100 57,775 100 8,946 15 Net revenue by geographic region: Americas 34,253 51 25,818 45 8,435 33 United States 30,323 45 23,777 41 6,546 28 Americas-other 3,930 6 2,041 4 1,889 93 APJ 22,989 35 21,196 37 1,793 8 EMEA 9,479 14 10,761 19 (1,282) (12) Total net revenue 66,721 100 57,775 100 8,946 15 
+ 
+ Nine Months Ended September 30, 2024 2023 Increase (Decrease) Amount Percent of Total Revenue Amount Percent of Total Revenue Amount Percent Net revenue: Products 96,464 51 100,532 55 (4,068) (4) Services 91,028 49 80,751 45 10,277 13 Total net revenue 187,492 100 181,283 100 6,209 3 Net revenue by geographic region: Americas 92,564 49 92,695 51 (131) United States 80,176 43 79,738 44 438 1 Americas-other 12,388 7 12,957 7 (569) (4) APJ 67,319 36 58,938 33 8,381 14 EMEA 27,609 15 29,650 16 (2,041) (7) Total revenue 187,492 100 181,283 100 6,209 3 
+ 
+ Three Months Ended September 30, 2024 and 2023 
+ 
+ Total net revenue increased 8.9 million, or 15 , during the three months ended September 30, 2024, compared to the same period of 2023. Changes in revenue were due primarily to (i) an increase of 8.4 million in the Americas region, comprised of increases of 6.5 million in the United States and 1.9 million in Americas-other, (ii) an increase of 1.8 million in the APJ region, and (iii) a decrease of 1.3 million in the EMEA region. The overall increase in revenue was attributable to a 8.0 million increase in revenue from service provider customers and a 0.9 million increase in revenue from enterprise customers during the three months ended September 30, 2024 compared to the same period of 2023. Products revenue increased 6.6 million, of which the Americas region increased 6.9 million and the APJ region increased 1.3 million, partially offset by a decrease of 1.6 million in the EMEA region for the three months ended September 30, 2024, compared to the same period of 2023. Services revenue increased 2.3 million, comprised of increases of 1.6 million, 0.5 million and 0.3 million in the Americas, APJ and EMEA regions, respectively, for the three months ended September 30, 2024, compared to the same period of 2023. 
+ 28 
+
+Products revenue increased 6.6 million, or 22 , during the three months ended September 30, 2024 compared to the same period of 2023, as a result of an increase in demand from our service provider customers in the Americas and APJ regions. 
+ 
+ Services revenue increased 2.3 million, or 9 , during the three months ended September 30, 2024, compared to the same periods of 2023, primarily attributable to an increase in PCS sales as a result of our growing installed customer base across all regions. 
+ 
+ During the three months ended September 30, 2024, 34.3 million, or 51 of total revenue, was generated from the Americas region, which represents a 33 increase in revenue compared to the same period of 2023. The increase was primarily due to higher products revenue due to an increase in demand from our service provider customers in the Americas region. 
+ 
+ During the three months ended September 30, 2024, 23.0 million, or 35 of total revenue, was generated from the APJ region, which represents an 8 increase compared to the same period of 2023. The increase was primarily due to higher services revenue due to an increase in demand from both our enterprise and service provider customers in the APJ region. 
+ 
+ During the three months ended September 30, 2024, 9.5 million, or 14 of total revenue, was generated from the EMEA region, which represents a 12 decrease compared to the same period of 2023. The decrease was primarily due to lower products revenue due to a decrease in demand from our service provider customers in the EMEA region. 
+ 
+ Nine Months Ended September 30, 2024 and 2023 
+ 
+ Total net revenue increased 6.2 million, or 3 , during the nine months ended September 30, 2024, compared to the same period of 2023. Changes in revenue were due primarily to (i) a decrease of 0.1 million in the Americas region, comprised of a decrease of 0.6 million in Americas-other, partially offset by an increase of 0.4 million in the United States, (ii) an increase of 8.4 million in the APJ region, and (iii) a decrease of 2.0 million in the EMEA region. The overall increase in revenue was attributable to a 10.3 million increase in revenue from service provider customers, partially offset by a 4.1 million decrease in revenue from enterprise customers during the nine months ended September 30, 2024 compared to the same period of 2023. Products revenue decreased 4.1 million, of which the EMEA region decreased 4.3 million and the Americas region decreased 4.1 million, partially offset by an increase of 4.4 million in the APJ region for the nine months ended September 30, 2024, compared to the same period of 2023. Services revenue increased 10.3 million, comprised of increases of 4.0 million, 4.0 million and 2.3 million in the Americas, APJ and EMEA regions, respectively, for the nine months ended September 30, 2024, compared to the same period of 2023. 
+ 
+ Products revenue decreased 4.1 million, or 4 , during the nine months ended September 30, 2024 compared to the same period of 2023, as a result of a decrease in demand from our service provider customers in the Americas regions. 
+ 
+ Services revenue increased 10.3 million, or 13 , during the nine months ended September 30, 2024, compared to the same periods of 2023, primarily attributable to an increase in PCS sales as a result of our growing installed customer base across all regions. 
+ 
+ During the nine months ended September 30, 2024, 92.6 million, or 49 of total revenue, was generated from the Americas region, which represents an immaterial decrease in revenue compared to the same period of 2023. The decrease was primarily due to lower products revenue due to a decrease in demand from our service provider customers in the Americas region. 
+ 
+ During the nine months ended September 30, 2024, 67.3 million, or 36 of total revenue, was generated from the APJ region, which represents a 14 increase compared to the same period of 2023. The increase was primarily due to higher products and services revenue due to an increase in demand from our service provider customers in the APJ region. 
+ 
+ During the nine months ended September 30, 2024, 27.6 million, or 15 of total revenue, was generated from the EMEA region, which represents a 7 decrease compared to the same period of 2023. The decrease was primarily due to lower products revenue due to a decrease in demand from our service provider customers in the EMEA region. 
+ 
+ 29 
+
+Cost of Net Revenue, Gross Margin and Gross Profit 
+ 
+ Cost of Net Revenue 
+ 
+ Cost of products revenue is primarily comprised of cost of third-party manufacturing services and cost of inventory for the hardware component of our products. Cost of products revenue also includes warehouse personnel costs, shipping costs, inventory write-downs, certain allocated facilities and information technology infrastructure costs, and expenses associated with logistics and quality control. 
+ 
+ Cost of services revenue is primarily comprised of personnel costs for our technical support and training teams. Cost of services revenue also includes the costs of inventory used to provide hardware replacements to end- customers under PCS contracts and certain allocated facilities and information technology infrastructure costs. 
+ 
+ A summary of our cost of net revenue is as follows (dollars in thousands): 
+ 
+ Three Months Ended September 30, Increase (Decrease) 2024 2023 Amount Percent Cost of net revenue: Products 7,531 6,815 716 10.5 Services 5,508 4,194 1,314 31.3 Total cost of net revenue 13,039 11,009 2,030 18.4 
+ 
+ Nine Months Ended September 30, Increase (Decrease) 2024 2023 Amount Percent Cost of net revenue: Products 21,143 22,334 (1,191) (5.3) Services 15,378 12,354 3,024 24.5 Total cost of net revenue 36,521 34,688 1,833 5.3 
+ Products cost of revenue increased 10.5 and decreased 5.3 during the three and nine months ended September 30, 2024, respectively, compared to the same periods of 2023, primarily due product and regional mix. 
+ 
+ Services cost of revenue increased 31.3 and 24.5 during the three and nine months ended September 30, 2024, respectively, compared to the same periods of 2023, primarily driven by the mix of services delivered, which include technical support, training and service costs. 
+ 
+ Gross Margin 
+ 
+ Gross margin may vary and be unpredictable from period to period due to a variety of factors. These may include the mix of revenue from each of our regions, the mix of our products sold within a period, discounts provided to customers, inventory write-downs and foreign currency exchange rates. 
+ 
+ Our sales are generally denominated in U.S. Dollars; however, in Japan, our sales are denominated in Japanese Yen. 
+ 
+ Any of the factors noted above can generate either a favorable or unfavorable impact on gross margin. 
+ 
+ A summary of our gross profit and gross margin is as follows (dollars in thousands): 
+ 
+ 30 
+
+Three Months Ended September 30, 2024 2023 Increase (Decrease) Amount Gross Margin Amount Gross Margin Amount Gross Margin Gross profit: Products 29,331 79.6 23,445 77.5 5,886 2.1 Services 24,351 81.6 23,321 84.8 1,030 (3.2) Total gross profit 53,682 80.5 46,766 80.9 6,916 (0.4) 
+ 
+ Nine Months Ended September 30, 2024 2023 Increase (Decrease) Amount Gross Margin Amount Gross Margin Amount Gross Margin Gross profit: Products 75,321 78.1 78,198 77.8 (2,877) 0.3 Services 75,650 83.1 68,397 84.7 7,253 (1.6) Total gross profit 150,971 80.5 146,595 80.9 4,376 (0.4) 
+ Products gross margin increased 2.1 and 0.3 during the three and nine months ended September 30, 2024, respectively, compared to the same periods of 2023, primarily due to product and regional mix. 
+ 
+ Services gross margin decreased 3.2 and 1.6 during the three and nine months ended September 30, 2024, respectively, compared to the same periods of 2023, primarily driven by the mix of services delivered, which include technical support, training and service costs. 
+ 
+ 31 
+
+Operating Expenses 
+ 
+ Our operating expenses consist of sales and marketing, research and development and general and administrative expenses. The largest component of our operating expenses is personnel costs which consist of wages, benefits, bonuses, and, with respect to sales and marketing expenses, sales commissions. Personnel costs also include stock-based compensation. 
+ 
+ A summary of our operating expenses is as follows (dollars in thousands): 
+ Three Months Ended September 30, Increase (Decrease) 2024 2023 Amount Percent Operating expenses: Sales and marketing 21,011 21,324 (313) (1.5) Research and development 15,734 17,620 (1,886) (10.7) General and administrative 6,494 5,613 881 15.7 Total operating expenses 43,239 44,557 (1,318) (3.0) 
+ Nine Months Ended September 30, Increase (Decrease) 2024 2023 Amount Percent Operating expenses: Sales and marketing 61,678 64,526 (2,848) (4.4) Research and development 44,533 43,250 1,283 3.0 General and administrative 19,188 18,177 1,011 5.6 Total operating expenses 125,399 125,953 (554) (0.4) 
+ Sales and Marketing 
+ 
+ Sales and marketing expenses are our largest functional category of operating expenses and primarily consist of personnel costs. Sales and marketing expenses also include the cost of marketing programs, trade shows, consulting services, promotional materials, demonstration equipment, depreciation and certain allocated facilities and information technology infrastructure costs. 
+ 
+ Sales and marketing operating expenses decreased 0.3 million, or 1.5 , in the three months ended September 30, 2024, compared to the same period in 2023, and decreased 2.8 million, or 4.4 , in the nine months ended September 30, 2024, compared to the same period in 2023, primarily due to a decrease in personnel costs. 
+ 
+ For the full year 2024, we expect sales and marketing expenses to decrease from 2023 levels as we apply a disciplined approach to focus our investments in areas that offer the greatest opportunities. 
+ 
+ Research and Development 
+ 
+ Research and development efforts are focused on new product development and on developing additional functionality for our existing products. These expenses primarily consist of personnel costs, and, to a lesser extent, prototype materials, 
+ 32 
+
+depreciation and certain allocated facilities and information technology infrastructure costs. We expense research and development costs as incurred. 
+ 
+ Research and development operating expenses decreased 1.9 million, or 10.5 , in the three months ended September 30, 2024, compared to the same period in 2023, and increased 1.3 million, or 3.0 , in the nine months ended September 30, 2024, compared to the same period in 2023, primarily due to fluctuations in personnel costs. 
+ 
+ For the full year 2024, we expect research and development expenses to increase from 2023 levels reflecting strategic investments in our growth priorities, including cybersecurity technology. 
+ 
+ General and Administrative 
+ 
+ General and administrative expenses primarily consist of personnel costs, professional services and office expenses. General and administrative personnel costs include executive, finance, human resources, information technology, facility and legal related expenses. Professional services primarily consist of fees for outside accounting, tax, external legal counsel (including litigation), recruiting and other administrative services. 
+ 
+ General and administrative operating expenses increased 0.9 million, or 15.7 , in the three months ended September 30, 2024, compared to the same period in 2023, and increased 1.1 million, or 5.6 , in the nine months ended September 30, 2024, compared to the same period in 2023, primarily due to an increase in personnel costs. 
+ 
+ For the full year 2024, we expect general and administrative expenses to increase modestly from 2023 levels as we apply a disciplined approach to focus our investments in areas that offer the greatest opportunities. 
+
+Non-Operating Income, Net 
+ 
+ Non-Operating income, net, consists primarily of interest income earned on our cash and cash equivalents and marketable securities, foreign currency exchange gains and losses and fair value adjustments on investments in publicly held equity securities. Foreign currency exchange gains and losses are primarily a result of fluctuations in the Japanese Yen versus the U.S. Dollar. 
+ 
+ Non-operating income, net, had a favorable change of 1.2 million for the three months ended September 30, 2024, compared to the same period of 2023. The favorable change was primarily driven by fair value adjustment gains of 0.9 million and foreign exchange gains of 0.5 million, partially offset by a decrease in interest income of 0.1 million for the three months ended September 30, 2024, compared to the same period of 2023. 
+ 
+ Non-operating income, net, had a favorable change of 7.0 million for the nine months ended September 30, 2024, compared to the same period of 2023. The favorable change was primarily driven by a favorable change in foreign exchange gains and losses of 3.0 million, fair value adjustment gains of 2.0 million and an increase in interest income of 1.7 million for the nine months ended September 30, 2024, compared to the same period of 2023. 
+
+Provision for Income Taxes 
+ 
+ We recorded a provision for income tax of 1.8 million and a benefit for income tax of 1.5 million for the three months ended September 30, 2024 and 2023, respectively, and we recorded a provision for income tax expense of 4.8 million and 2.6 million for the nine months ended September 30, 2024 and 2023, respectively. The Company s income tax provision and benefit for the three and nine months ended September 30, 2024 and 2023 primarily consisted of U.S. federal and state taxes. 
+
+Liquidity and Capital Resources 
+ 
+ As of September 30, 2024, we had cash and cash equivalents of 78.1 million, including 2.9 million held outside the United States in our foreign subsidiaries, and 104.0 million of marketable securities. We currently do not have any plans to repatriate our earnings from our foreign operations. As of September 30, 2024, we had working capital of 156.8 million, accumulated deficit of 58.6 million and total stockholders equity of 217.3 million. Our marketable securities are highly liquid and are classified as available for sale should the Company decide to quickly raise cash at any time in the future. 
+ 
+ 33 
+
+We plan to continue to invest for long-term growth, and our investment may increase. We believe that our existing cash and cash equivalents and marketable securities will be sufficient to meet our anticipated cash needs for at least the next 12 months and beyond. Our future capital requirements will depend on many factors, including our growth rate, the expansion of sales and marketing activities, the timing and extent of spending to support development efforts, the introduction of new and enhanced product and service offerings and the continuing market acceptance of our products. In the event that additional financing is required from outside sources, we may not be able to raise such financing on terms acceptable to us or at all. If we are unable to raise additional capital when desired, our business, operating results and financial condition could be adversely affected. 
+ 
+ The Company s Board of Directors (the Board has authorized various stock repurchase programs from time to time, including a twelve-month 50 million program approved on November 1, 2022 (the 2022 Program ), a twelve-month 50 million program approved November 7, 2023 (the 2023 Program and a 50 million program approved November 7, 2024 (the 2024 Program ). Under all programs, repurchased shares are held in treasury at cost. The Company s stock repurchase programs do not obligate us to acquire any specific number of shares. Shares may be repurchased in privately negotiated and/or open market transactions, including under plans complying with Rule 10b5-1 under the Exchange Act. Through December 31, 2023, the Company had repurchased 1.2 million shares for a total cost of 15.7 million under the 2022 Program. Through September 30, 2024, the Company had repurchased 1.8 million shares for a total cost of 24.6 million under the 2023 Program. 
+ 
+ In October 2021, our Board approved the initiation of a regular quarterly cash dividend on our common stock. In the three and nine months ended September 30, 2024, the Company paid cash dividends of 0.06 per share outstanding, for a total of 4.5 million and 13.4 million, respectively, as a return of capital. In the three and nine months ended September 30, 2023, the Company paid cash dividends of 0.06 per share outstanding, for a total of 4.4 million 13.4 million, respectively, as a return of capital. The next dividend, in the amount of 0.06 per share, will be paid on December 2, 2024 to stockholders of record on November 18, 2024 as a return of capital. We currently anticipate that we will continue to pay comparable quarterly cash dividends in the future. However, the payment, amount and timing of future dividends remain within the discretion of our Board and will depend upon our results of operations, financial condition, cash requirements, and other factors. 
+ 
+ As described in Part II Item 1, Legal Proceedings of this Quarterly Report on Form 10-Q, from time to time we are involved in ongoing litigation. Any adverse settlements or judgments in any litigation could have a material adverse impact on our results of operations, cash balances and cash flows in the period in which such events occur. 
+ 
+ Statements of Cash Flows 
+ 
+ The following table summarizes our cash flow related activities (in thousands): 
+ Nine Months Ended September 30, 2024 2023 Cash provided by (used in): Operating activities 64,782 41,783 Investing activities (48,192) 13,443 Financing activities (35,771) (19,045) Net increase (decrease) in cash and cash equivalents (19,181) 36,181 
+ 
+ Cash Flows from Operating Activities 
+ 
+ Our cash provided by operating activities is driven primarily by sales of our products and management of working capital investments. Our primary uses of cash from operating activities have been for personnel-related expenditures, manufacturing costs, marketing and promotional expenses and costs related to our facilities. Our cash flows from operating activities will continue to be affected principally by the extent to which we increase spending on our business and our working capital requirements. 
+ 
+ During the nine months ended September 30, 2024 cash provided by operating activities was 64.8 million, consisting of net income of 31.8 million, non-cash charges of 19.5 million and an increase in cash resulting from the net change in operating assets and liabilities of 13.4 million. Our non-cash charges consisted primarily of depreciation and amortization expenses of 8.2 million and stock-based compensation expense of 12.3 million. The net change in our operating assets and liabilities primarily reflects cash inflows from the changes in accounts receivable of 8.4 million, accrued liabilities of 5.1 million, deferred revenue of 2.9 million and prepaid expenses and other assets of 0.8 million, partially offset by cash outflows from inventory of 1.9 million and accounts payable of 1.8 million. 
+ 34 
+
+The favorable change in accounts receivable was attributed to timing of billing and cash collections. The favorable change in accrued expenses was primarily due to an increase in accrued variable compensation. The unfavorable change in inventory was attributable to the timing of product shipments. The unfavorable change in accounts payable was attributable to the timing of payments to vendors. The unfavorable change in prepaid expenses and other assets was attributable to an increase in prepaid state and federal taxes. The unfavorable change in deferred revenue was attributable to the timing of service contract bookings. 
+ 
+ During the nine months ended September 30, 2023, cash provided by operating activities was 41.8 million, consisting of net income of 22.1 million and non-cash charges of 18.8 million and an increase in cash resulting from the net change in operating assets and liabilities of 0.9 million. Our non-cash charges consisted primarily of depreciation and amortization expenses of 6.8 million and stock-based compensation expense of 11.2 million. The net change in our operating assets and liabilities primarily reflects cash inflows from the changes in accrued receivable of 14.1 million, deferred revenue of 8.7 million and prepaid expenses and other assets of 2.0 million, partially offset by cash outflows from changes in accrued liabilities of 17.4 million, inventory of 5.3 million and accounts payable of 1.2 million. 
+ 
+ The unfavorable change in accrued liabilities was attributed to variable cash compensation accruals. The unfavorable change in inventory was attributable to the timing of product shipments. The unfavorable change in accounts payable was attributable to the timing of payments to vendors. The favorable change in deferred revenue was attributable to the timing of service contract bookings. The favorable change in prepaid expenses and other assets was primarily due to the release and return of a security deposit. The favorable change in accounts receivable was attributed to timing of billing and cash collections. 
+ 
+ Cash Flows from Investing Activities 
+ 
+ During the nine months ended September 30, 2024, cash used in investing activities was 48.2 million, consisting of purchases of marketable securities of 127.3 million and capital expenditures of 9.9 million, partially offset by maturities and sales of marketable securities of 89.0 million. 
+ 
+ During the nine months ended September 30, 2023, cash provided by investing activities was 13.4 million, consisting of maturities and sales of marketable securities of 96.3 million, partially offset by purchases of marketable securities of 75.1 million and capital expenditures of 7.8 million. 
+ 
+ Cash Flows from Financing Activities 
+ 
+ During the nine months ended September 30, 2024, cash used in financing activities was 35.8 million and primarily consisting of 24.3 million used for repurchases of common stock and 13.4 million used for cash dividend payments, partially offset by 1.9 million of proceeds from common stock issued under the Company s equity plans. 
+ 
+ During the nine months ended September 30, 2023, cash used in financing activities was 19.0 million and primarily consisting of 13.4 million used for cash dividend payments and 8.7 million used for repurchases of common stock, partially offset by 3.0 million of proceeds from common stock issued under the Company s equity plans. 
+ 
+ Contractual Obligations 
+ 
+ Our contractual obligations consist of non-cancellable operating lease arrangements and totaled 13.2 million as of September 30, 2024. Our operating lease arrangements expire on various dates through July 2027. These arrangements require us to pay certain operating expenses, such as taxes, repairs and insurance, and contain renewal and escalation clauses. 
+
+Critical Accounting Policies and Estimates 
+ 
+ Our condensed consolidated financial statements are prepared in accordance with U.S. GAAP. The preparation of these condensed consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, expenses and related disclosures. We evaluate our estimates and assumptions on an ongoing basis. Our estimates are based on historical experience and various other assumptions that we believe to be reasonable under the circumstances. Our actual results could differ from these estimates. 
+ 
+ 35 
+
+The Company s critical accounting policies and estimates are disclosed in Part II Item 7, Critical Accounting Estimates of the Company s Annual Report on Form 10-K for the year ended December 31, 2023 filed with the SEC on February 29, 2024. There have been no material changes to the Company s critical accounting policies and estimates during the nine months ended September 30, 2024. 
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ Foreign Currency Risk 
+ 
+ Our condensed consolidated results of operations, financial position and cash flows are subject to fluctuations due to changes in foreign currency exchange rates. Historically, the majority of our revenue contracts are denominated in U.S. Dollars, with the most significant exception being Japan where we invoice primarily in Japanese Yen. Our costs and expenses are generally denominated in the currencies where our operations are located, which is primarily in the Americas, EMEA and, to a lesser extent, Japan and the Asia Pacific region. We have a hedging program with respect to foreign currency risk. Revenue resulting from selling in local currencies and costs and expenses incurred in local currencies are exposed to foreign currency exchange rate fluctuations, which can affect our revenue and operating income. As exchange rates vary, operating income may differ from expectations. 
+ 
+ The functional currency of our foreign subsidiaries is the U.S. Dollar. At the end of each reporting period, monetary assets and liabilities are remeasured to the functional currency using exchange rates in effect at the balance sheet date. Non-monetary assets and liabilities are remeasured at historical exchange rates. Gains and losses related to remeasurement are recorded in interest and other income, net in the condensed consolidated statements of operations. A significant fluctuation in the exchange rates between our subsidiaries local currencies, especially the Japanese Yen, British Pound and Euro, and the U.S. Dollar could have an adverse impact on our condensed consolidated financial position and results of operations. 
+ 
+ We recorded 1.3 million and 3.8 million of net foreign exchange gains during the three and nine months ended September 30, 2024, respectively. We recorded 0.9 million and 0.8 million of net foreign exchange gains during the three and nine months ended September 30, 2023. The effect of a hypothetical 10 change in our exchange rate would not have a significant impact on our condensed consolidated results of operations. 
+ 
+ Interest Rate Sensitivity 
+ 
+ Our exposure to market risk for changes in interest rates relates primarily to our marketable securities. Our marketable securities are typically comprised of corporate securities, U.S. Treasury and agency securities, commercial paper, asset-backed securities and equity securities of publicly traded companies. We do not enter into investments for trading or speculative purposes. As of September 30, 2024, our investment portfolio included marketable securities with an aggregate amortized cost basis of 98.9 million and a fair value of 104.0 million. Fair value includes 4.6 million for our investment in publicly held equity securities. The effect of a hypothetical 10 change in interest rates would not have a material impact on our interest expense. 
+ 
+ The following table presents the hypothetical fair values of our marketable securities assuming immediate parallel shifts in the yield curve of 50 basis points BPS ), 100 BPS and 150 BPS as of September 30, 2024 (in thousands): 
+ 
+ Fair Value as of (150 BPS) (100 BPS) (50 BPS) 9/30/2024 50 BPS 100 BPS 150 BPS Marketable securities 105,035 104,704 104,374 104,043 103,713 103,382 103,051 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+ 
+ Management s Evaluation of Disclosure Controls and Procedures 
+ 
+ Our management, with the participation of our Chief Executive Officer (our principal executive officer) and Chief Financial Officer (our principal financial officer), has evaluated the effectiveness of our disclosure controls and procedures as of September 30, 2024, as required by Rule 13a-15(b) under the Securities Exchange Act of 1934, or the Exchange Act. The term disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, means 
+ 36 
+
+controls and other procedures of a company that are designed to ensure that information required to be disclosed by the company in the reports that it files or submits to the SEC, under the Exchange Act is recorded, processed, summarized and reported, within the time periods specified in the SEC s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedures designed to ensure that information required to be disclosed by a company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the company s management, including its principal executive and financial officers, as appropriate to enable timely decisions regarding required disclosure. 
+ 
+ In designing and evaluating our disclosure controls and procedures, our management recognizes that any disclosure controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that our management is required to apply its judgment in evaluating the benefits of possible controls and procedures relative to their costs. 
+ 
+ Our Chief Executive Officer and Chief Financial Officer, as our principal executive officer and principal financial officer, respectively, concluded that our disclosure controls and procedures were effective at the reasonable assurance level as of September 30, 2024, and that the condensed consolidated financial statements included in this Form 10-Q present fairly, in all material respects, and in conformity with U.S. GAAP, our financial position, results of operations and cash flows for the periods presented. 
+ 
+ Changes in Internal Control over Financial Reporting 
+ 
+ There were no changes in the Company s internal control over financial reporting during the three months ended September 30, 2024, which were identified in connection with management s evaluation required by paragraph (d) of Rules 13a-15 and 15d-15 under the Exchange Act, that have materially affected, or are reasonably likely to materially affect, the Company s internal control over financial reporting. 
+ 
+ Inherent Limitations on Effectiveness of Controls 
+ 
+ Our management, including our principal executive officer and our principal financial officer, does not expect that our disclosure controls or our internal control over financial reporting will prevent or detect all error and all fraud. A control system, no matter how well-designed and operated, can provide only reasonable, not absolute, assurance that the control system s objectives will be met. The design of a control system must reflect the fact that there are resource constraints and the benefits of controls must be considered relative to their costs. Further, because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that misstatements due to error or fraud will not occur or that all control issues and instances of fraud, if any, have been detected. The design of any system of controls is based in part on certain assumptions about the likelihood of future events and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Projections of any evaluation of the effectiveness of controls to future periods are subject to risks. Over time, controls may become inadequate because of changes in conditions or deterioration in the degree of compliance with policies or procedures. 
+ 
+ 37 
+
+PART II. OTHER INFORMATION 
+
+ITEM 1. LEGAL PROCEEDINGS 
+ 
+ We have been and may currently be involved in various legal proceedings, the outcomes of which are not within our complete control or may not be known for prolonged periods of time. Management is required to assess the probability of loss and amount of such loss, if any, in preparing our condensed consolidated financial statements. We evaluate the likelihood of a potential loss from legal proceedings to which we are a party. We record a liability for such claims when a loss is deemed probable and the amount can be reasonably estimated. Significant judgment may be required in the determination of both probability and whether an exposure is reasonably estimable. Our judgments are subjective based on the status of the legal proceedings, the merits of our defenses and consultation with in-house and outside legal counsel. As additional information becomes available, we reassess the potential liability related to pending claims and may revise our estimates. Due to the inherent uncertainties of the legal processes in the multiple jurisdictions in which we operate, our judgments may be materially different than the actual outcomes, which could have material adverse effects on our business, financial conditions and results of operations. 
+
+ITEM 1A. RISK FACTORS 
+ Investing in our common stock involves a high degree of risk. You should carefully review and consider the information regarding certain factors that could materially affect our business, financial condition or future results set forth under Part I, Item 1A "Risk Factors" in our Annual Report on Form 10-K for the year ended December 31, 2023. There have been no material changes to the risk factors disclosed in our 2023 Annual Report on Form 10-K. 
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+ 
+ On November 7, 2023, we announced that our Board authorized a new 50 million share repurchase program, the 2023 Program, under which we may repurchase up to 50 million of our outstanding common stock during the next 12 months. Under the 2023 Program, we may repurchase shares of common stock in the open market, privately negotiated transactions, in block trades or a combination of the foregoing. We are not obligated under the 2023 Program to repurchase any specific number or dollar amount of shares of common stock, and we may modify, suspend or discontinue the 2023 Program at any time. Our management and Board will determine the timing and amount of any repurchase in its discretion based on a variety of factors, such as the market price of our common stock, corporate requirements, general market economic conditions and legal requirements. The Company plans to fund repurchases from its existing cash balance and cash provided by operating activities. 
+ 
+ Share repurchase activity during the three months ended September 30, 2024 was as follows (in thousands, except per share amounts): Periods Total Number of Shares Purchased Average Price Paid Per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs Approximate Dollar Value of Shares That May Yet Be Purchased Under the Plans or Programs (1) July 1 - 31, 2024 2 13.72 2 34,800 August 1 - 31, 2024 743 12.64 743 25,405 September 1 - 30, 2024 2 13.45 2 25,381 Total 747 25,381 
+ 
+ (1) The 25,381 thousand in the table above represents the amount available to repurchase shares under the 2023 Program as of September 30, 2024. 
+
+ITEM 5. OTHER INFORMATION 
+ 
+ Insider Adoption or Termination of Trading Arrangements 
+ 
+ 38 
+
+During the fiscal quarter ended September 30, 2024, of our directors or officers adopted or terminated a Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement, as those terms are defined in Regulation S-K, Item 408. 
+
+ITEM 6. EXHIBITS 
+ 
+ Incorporated herein by reference is a list of the exhibits contained in the Exhibit Index below. 
+ 
+ EXHIBIT INDEX 
+ Exhibit Number Description 3.1 Amended and Restated Certificate of Incorporation of the Registrant (incorporated by reference to Exhibit 3.1 to the Registrant s Current Report on Form 8-K filed on December 6, 2019) 
+ 3.2 Amended and Restated Bylaws of the Registrant (incorporated by reference to Exhibit 3.2 to the Registrant s Current Report on Form 8-K filed on December 6, 2019) 
+ 31.1 Certification of Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act 
+ 31.2 Certification of Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act 
+ 32.1 Certification of Chief Executive Officer pursuant to Section 906 of the Sarbanes-Oxley Act 
+ 32.2 Certification of Chief Financial Officer pursuant to Section 906 of the Sarbanes-Oxley Act 
+ 101 Inline XBRL Document Set for the condensed consolidated financial statements and accompanying notes in Part I Item 1, Condensed Consolidated Financial Statements (Unaudited) of this Quarterly Report on Form 10-Q 
+ 104 Inline XBRL for the cover page of this Quarterly Report on Form 10-Q, included in the Exhibit 101 Inline XBRL Document Set 
+ 
+ Filed herewith. 
+ 
+ The certifications attached as Exhibit 32.1 and 32.2 that accompany this Quarterly Report on Form 10-Q are not deemed filed with the Securities and Exchange Commission and are not to be incorporated by reference into any filing of A10 Networks, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, whether made before or after the date of this Quarterly Report on Form 10-Q, irrespective of any general incorporation language contained in such filing. 
+ 39 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ 
+ A10 NETWORKS, INC. 
+ Date: November 7, 2024 
+ By: /s/ Dhrupad Trivedi Dhrupad Trivedi President and Chief Executive Officer (Principal Executive Officer) 
+ Date: November 7, 2024 
+ By: /s/ Brian Becker Brian Becker Chief Financial Officer (Principal Accounting and Financial Officer) 
+ 40 
+
+<EX-31.1>
+ 2
+ ex-3119302024.htm
+ EX-31.1
+
+Document 
+ Exhibit 31.1 
+
+ CERTIFICATION 
+ I, Dhrupad Trivedi, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of A10 Networks, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 7, 2024 By s Dhrupad Trivedi Dhrupad Trivedi President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex-3129302024.htm
+ EX-31.2
+
+Document 
+ Exhibit 31.2 
+
+ CERTIFICATION 
+ I, Brian Becker, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of A10 Networks, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 7, 2024 By s Brian Becker Brian Becker Chief Financial Officer (Principal Accounting and Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex-3219302024.htm
+ EX-32.1
+
+Document 
+ Exhibit 32.1 
+
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report on Form 10-Q of A10 Networks, Inc. (the Company for the fiscal quarter ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Dhrupad Trivedi, President and Chief Executive Officer of the Company, certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date November 7, 2024 By s Dhrupad Trivedi Dhrupad Trivedi President and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex-3229302024.htm
+ EX-32.2
+
+Document 
+ Exhibit 32.2 
+
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report on Form 10-Q of A10 Networks, Inc. (the Company for the fiscal quarter ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Brian Becker, Chief Financial Officer of the Company, certify pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date November 7, 2024 By s Brian Becker Brian Becker Chief Financial Officer (Principal Accounting and Financial Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ aten-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ aten-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ aten-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ aten-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ aten-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

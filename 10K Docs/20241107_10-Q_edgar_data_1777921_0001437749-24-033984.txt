@@ -1,0 +1,3346 @@
+<Header>
+<FileStats>
+    <FileName>20241107_10-Q_edgar_data_1777921_0001437749-24-033984.txt</FileName>
+    <GrossFileSize>8083033</GrossFileSize>
+    <NetFileSize>119294</NetFileSize>
+    <NonText_DocumentType_Chars>1307539</NonText_DocumentType_Chars>
+    <HTML_Chars>2678493</HTML_Chars>
+    <XBRL_Chars>1886188</XBRL_Chars>
+    <XML_Chars>1861149</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001437749-24-033984.hdr.sgml : 20241107
+<ACCEPTANCE-DATETIME>20241107171138
+ACCESSION NUMBER:		0001437749-24-033984
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		85
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241107
+DATE AS OF CHANGE:		20241107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AvePoint, Inc.
+		CENTRAL INDEX KEY:			0001777921
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				834461709
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39048
+		FILM NUMBER:		241437027
+
+	BUSINESS ADDRESS:	
+		STREET 1:		525 WASHINGTON BLVD
+		STREET 2:		SUITE 1400
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07310
+		BUSINESS PHONE:		(201) 793-1111
+
+	MAIL ADDRESS:	
+		STREET 1:		525 WASHINGTON BLVD
+		STREET 2:		SUITE 1400
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07310
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Apex Technology Acquisition Corp
+		DATE OF NAME CHANGE:	20190528
+
+</SEC-Header>
+</Header>
+
+ 0001437749-24-033984.txt : 20241107
+
+10-Q
+ 1
+ avpt20240930_10q.htm
+ FORM 10-Q
+
+avpt20240930_10q.htm 
+
+Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the quarterly period ended 
+ or 
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from __________ to ___________. 
+ 
+ Commission file number: 
+ 
+ AvePoint, Inc. 
+ 
+ (Exact name of registrant as specified in its charter) 
+
+(State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+
+, 
+ (Address of principal executive offices) (Zip Code) 
+ 
+ ) 
+ (Registrant s telephone number, including area code) 
+ 
+ Not Applicable 
+ (Former name, former address and former fiscal year, if changed since last report). 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ 
+ Title of each class Trading symbol Name of each exchange on which registered 
+ The Global Select Market 
+ The Global Select Market 
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ 
+ Accelerated filer 
+ Non-accelerated filer Smaller reporting company 
+ Emerging growth company 
+
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ 
+ As of November 6, 2024 there were shares of the registrant s common stock, par value 0.0001 per share, issued and outstanding. 
+
+Table of Contents 
+
+AVEPOINT, INC. 
+ FORM 10-Q 
+ For the Fiscal Quarter Ended September 30, 2024 
+ TABLE OF CONTENTS 
+
+Page 
+
+FORWARD-LOOKING STATEMENTS 
+ 3 
+
+PART I. FINANCIAL INFORMATION 
+ 4 
+
+Item 1. Financial Statements 
+ 4 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 31 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 48 
+
+Item 4. Controls and Procedures 
+ 49 
+
+PART II. OTHER INFORMATION 
+ 50 
+
+Item 1. Legal Proceedings 
+ 50 
+
+Item 1A. Risk Factors 
+ 50 
+
+Item 2. Unregistered Sales of Equity Securities, Use of Proceeds, and Issuer Purchases of Equity Securities 
+ 51 
+
+Item 3. Defaults Upon Senior Securities 
+ 51 
+
+Item 4. Mine Safety Disclosures 
+ 51 
+
+Item 5. Other Information 
+ 52 
+
+Item 6. Exhibits 
+ 53 
+
+Signatures 
+ 54 
+
+2
+
+Table of Contents 
+
+FORWARD-LOOKING STATEMENTS 
+ 
+ This Quarterly Report on Form 10-Q (this Quarterly Report of AvePoint, Inc. (hereinafter referred to as the Company , AvePoint , we ," us and our includes estimates, projections, statements relating to our business plans, objectives, and expected operating results that may constitute forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended (the Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ). Forward-looking statements, as well as descriptions of the risks and uncertainties that could cause actual results and events to differ materially, may appear throughout this Quarterly Report, including in the following sections: Management s Discussion and Analysis of Financial Condition and Results of Operations (Part I, Item 2 of this Quarterly Report), Quantitative and Qualitative Disclosures about Market Risk (Part I, Item 3 of this Quarterly Report), and Risk Factors (Part II, Item 1A of this Quarterly Report). These risks and uncertainties also include, but are not limited to, those described from time to time in the Company s reports filed with the Securities and Exchange Commission SEC ). 
+ 
+ These forward-looking statements generally are identified by the words believe, project, expect, anticipate, estimate, intend, strategy, future, opportunity, plan, may, should, will, would, will be, will continue, will likely result, and similar expressions. However, the absence of these words or similar expressions does not mean that a statement is not forward-looking. All statements that address operating performance, events, or developments that we expect or anticipate will occur in the future including statements relating to volume growth, sales, earnings, and statements expressing general views about future operating results are forward-looking statements. These forward-looking statements are, by their nature, subject to significant risks and uncertainties, and are based on the beliefs of, as well as assumptions made by and information currently available to, our management. Our management believes that these forward-looking statements are reasonable as and when made. However, caution should be taken not to place undue reliance on any such forward-looking statements because such statements speak only as of the date when made. Readers should evaluate all forward-looking statements made in the context of these risks and uncertainties. The important factors referenced above may not contain all of the factors that are important to investors. 
+ 
+ In addition, we cannot assure you that we will realize the results or developments we expect or anticipate or, even if substantially realized, that they will result in the consequences or affect us or our operations in the way we expect. We undertake no obligation to update or revise publicly any forward-looking statements, whether because of new information, future events, or otherwise, except as required by law. All written and oral forward-looking statements attributable to us, or persons acting on our behalf, are expressly qualified in their entirety by these cautionary statements as well as other cautionary statements that are made from time to time in our other SEC filings and public communications. 
+
+3
+
+Table of Contents 
+
+PART I 
+ Item 1 
+ 
+ PART I. FINANCIAL INFORMATION. 
+ 
+ Item 1. Financial Statements. 
+
+Index to Financial Statements (Unaudited) 
+ 
+ Page 
+
+Condensed Consolidated Balance Sheets as of September 30, 2024 and December 31, 2023 
+ 
+ 5 
+
+Condensed Consolidated Statements of Income for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 
+ 6 
+
+Condensed Consolidated Statements of Comprehensive Income (Loss) for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 
+ 7 
+
+Condensed Consolidated Statements of Mezzanine Equity and Stockholders Equity for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 
+ 8 
+
+Condensed Consolidated Statements of Cash Flows for the Nine Months Ended September 30, 2024 and 2023 
+ 
+ 10 
+
+Notes to Condensed Consolidated Financial Statements 
+ 
+ 11 
+
+4
+
+Table of Contents 
+
+AvePoint, Inc. 
+ Condensed Consolidated Balance Sheets 
+ (In thousands, except par value) 
+ (Unaudited) 
+
+September 30, December 31, 
+ 2024 2023 
+ Assets 
+ Current assets: 
+ Cash and cash equivalents 
+ Short-term investments 
+ Accounts receivable, net 
+ Prepaid expenses and other current assets 
+ Total current assets 
+ Property and equipment, net 
+ Goodwill 
+ Intangible assets, net 
+ Operating lease right-of-use assets 
+ Deferred contract costs 
+ Other assets 
+ Total assets 
+ Liabilities, mezzanine equity, and stockholders equity 
+ Current liabilities: 
+ Accounts payable 
+ Accrued expenses and other current liabilities 
+ Current portion of deferred revenue 
+ Total current liabilities 
+ Long-term operating lease liabilities 
+ Long-term portion of deferred revenue 
+ Earn-out shares liabilities 
+ Other liabilities 
+ Total liabilities 
+ Commitments and contingencies (Note 9) 
+ Mezzanine equity 
+ Redeemable noncontrolling interest 
+ Total mezzanine equity 
+ Stockholders equity 
+ Common stock, 0.0001 par value; 1,000,000 shares authorized, 187,431 and 184,652 shares issued and outstanding as of September 30, 2024 and December 31, 2023, respectively 
+ Additional paid-in capital 
+ Accumulated other comprehensive income 
+ Accumulated deficit 
+ Noncontrolling interest 
+ Total stockholders equity 
+ Total liabilities, mezzanine equity, and stockholders equity 
+
+See accompanying notes. 
+
+5
+
+Table of Contents 
+
+AvePoint, Inc. 
+ Condensed Consolidated Statements of Income 
+ (In thousands, except per share amounts) 
+ (Unaudited) 
+
+Three Months Ended 
+
+Nine Months Ended 
+
+September 30, 
+
+September 30, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+Revenue: 
+
+SaaS 
+
+Term license and support 
+
+Services 
+
+Maintenance 
+
+Total revenue 
+
+Cost of revenue: 
+
+SaaS 
+
+Term license and support 
+
+Services 
+
+Maintenance 
+
+Total cost of revenue 
+
+Gross profit 
+
+Operating expenses: 
+
+Sales and marketing 
+
+General and administrative 
+
+Research and development 
+
+Total operating expenses 
+
+Income (loss) from operations 
+
+() 
+
+() 
+
+Other expense, net 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Income (loss) before income taxes 
+
+() 
+
+() 
+
+() 
+
+Income tax expense 
+
+Net income (loss) 
+
+() 
+
+() 
+
+() 
+
+Net income (loss) attributable to noncontrolling interest 
+
+() 
+
+() 
+
+Net income (loss) available to common shareholders 
+
+() 
+
+() 
+
+() 
+
+Net income (loss) per share: 
+
+Basic 
+
+() 
+
+() 
+
+() 
+
+Diluted 
+
+() 
+
+() 
+
+() 
+
+Weighted average shares outstanding: 
+
+Basic 
+
+Diluted 
+
+See accompanying notes. 
+
+6
+
+Table of Contents 
+
+AvePoint, Inc. 
+ Condensed Consolidated Statements of Comprehensive Income (Loss) 
+ (In thousands) 
+ (Unaudited) 
+
+Three Months Ended 
+
+Nine Months Ended 
+
+September 30, 
+
+September 30, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+Net income (loss) 
+
+() 
+
+() 
+
+() 
+
+Other comprehensive income (loss) net of taxes 
+
+Unrealized gain (loss) on available-for-sale securities 
+
+() 
+
+Foreign currency translation adjustments 
+
+Total other comprehensive income 
+
+Total comprehensive income (loss) 
+
+() 
+
+() 
+
+() 
+
+Comprehensive income (loss) attributable to noncontrolling interest 
+
+() 
+
+() 
+
+() 
+
+Total comprehensive income (loss) available to common shareholders 
+
+() 
+
+() 
+
+() 
+
+See accompanying notes. 
+
+7
+
+Table of Contents 
+
+AvePoint, Inc. 
+ Condensed Consolidated Statements of Mezzanine Equity and Stockholders Equity 
+ (In thousands, except share amounts) 
+ (Unaudited) 
+
+Three Months Ended September 30, 2024 
+
+Accumulated 
+
+Additional 
+
+Other 
+
+Total 
+
+Common Stock 
+
+Paid-In 
+
+Accumulated 
+
+Comprehensive 
+
+Noncontrolling 
+
+Stockholders 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+Income 
+
+Interest 
+
+Equity 
+
+Balance, June 30, 2024 
+
+() 
+
+Proceeds from exercise of options 
+
+Common stock issued upon vesting of restricted stock units 
+
+Stock-based compensation expense 
+
+Reclassification of earn-out RSUs to earn-out shares 
+
+() 
+
+() 
+
+Purchase of public warrants 
+
+() 
+
+() 
+
+Repurchase and retirement of common stock 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Comprehensive income: 
+
+Net income 
+
+Unrealized gain on available-for-sale securities 
+
+Foreign currency translation adjustments 
+
+Balance, September 30, 2024 
+
+() 
+
+Three Months Ended September 30, 2023 
+ Redeemable Total Accumulated 
+ noncontrolling mezzanine Additional Other Total 
+ interest equity Common Stock Paid-In Accumulated Comprehensive Stockholders 
+ Amount Amount Shares Amount Capital Deficit Income Equity 
+ Balance, June 30, 2023 
+ Proceeds from exercise of options 
+ Common stock issued upon vesting of restricted stock units 
+ Stock-based compensation expense 
+ Reclassification of earn-out RSUs to earn-out shares 
+ Repurchase and retirement of common stock 
+ Comprehensive income (loss): 
+ Net loss (4,230 
+ Net loss attributable to and accretion of redeemable noncontrolling interest 18 
+ Foreign currency translation adjustments 
+ Balance, September 30, 2023 
+
+See accompanying notes. 
+
+8
+
+Table of Contents 
+
+AvePoint, Inc. 
+ Condensed Consolidated Statements of Mezzanine Equity and Stockholders Equity 
+ (In thousands, except share amounts) 
+ (Unaudited) 
+
+Nine Months Ended September 30, 2024 
+
+Redeemable 
+
+Total 
+
+Accumulated 
+
+noncontrolling 
+
+mezzanine 
+
+Additional 
+
+Other 
+
+Total 
+
+interest 
+
+equity 
+
+Common Stock 
+
+Paid-In 
+
+Accumulated 
+
+Comprehensive 
+
+Noncontrolling 
+
+Stockholders 
+
+Amount 
+
+Amount 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Deficit 
+
+Income 
+
+Interest 
+
+Equity 
+
+Balance, December 31, 2023 
+
+() 
+
+Proceeds from exercise of options 
+
+Common stock issued upon vesting of restricted stock units 
+
+() 
+
+Stock-based compensation expense 
+
+Accretion of redeemable noncontrolling interest 
+
+() 
+
+() 
+
+Redemption of noncontrolling interest 
+
+() 
+
+() 
+
+() 
+
+Reclassification of earn-out RSUs to earn-out shares 
+
+() 
+
+() 
+
+Purchase of public warrants 
+
+() 
+
+() 
+
+Repurchase and retirement of common stock 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Comprehensive (loss) income: 
+
+Net (loss) income 
+
+(5) 
+
+(5) 
+
+() 
+
+() 
+
+Unrealized loss on available-for-sale securities 
+
+() 
+
+() 
+
+Foreign currency translation adjustments 
+
+() 
+
+() 
+
+Balance, September 30, 2024 
+
+() 
+
+Nine Months Ended September 30, 2023 
+
+Redeemable 
+
+Total 
+
+Accumulated 
+
+noncontrolling 
+
+mezzanine 
+
+Additional 
+
+Other 
+
+Total 
+
+interest 
+
+equity 
+
+Common Stock 
+
+Paid-In 
+
+Treasury Stock 
+
+Accumulated 
+
+Comprehensive 
+
+Stockholders 
+
+Amount 
+
+Amount 
+
+Shares 
+
+Amount 
+
+Capital 
+
+Shares 
+
+Amount 
+
+Deficit 
+
+Income 
+
+Equity 
+
+Balance, December 31, 2022 
+
+() 
+
+() 
+
+Proceeds from exercise of options 
+
+Common stock issued upon vesting of restricted stock units 
+
+Stock-based compensation expense 
+
+Reclassification of earn-out RSUs to earn-out shares 
+
+() 
+
+() 
+
+Repurchase and retirement of common stock 
+
+() 
+
+() 
+
+() 
+
+() 
+
+() 
+
+() 
+
+Comprehensive income (loss): 
+
+Net loss 
+
+() 
+
+() 
+
+Net income attributable to and accretion of redeemable noncontrolling interest 
+
+() 
+
+() 
+
+Foreign currency translation adjustments 
+
+() 
+
+() 
+
+Balance, September 30, 2023 
+
+() 
+
+See accompanying notes. 
+
+9
+
+Table of Contents 
+
+AvePoint, Inc. 
+ Condensed Consolidated Statements of Cash Flows 
+ (In thousands) 
+ (Unaudited) 
+
+Nine Months Ended 
+
+September 30, 
+
+2024 
+
+2023 
+
+Operating activities 
+
+Net loss 
+
+() 
+
+() 
+
+Adjustments to reconcile net loss to net cash provided by operating activities: 
+
+Depreciation and amortization 
+
+Operating lease right-of-use assets expense 
+
+Foreign currency remeasurement loss 
+
+Stock-based compensation 
+
+Deferred income taxes 
+
+() 
+
+() 
+
+Other 
+
+() 
+
+Change in value of earn-out and warrant liabilities 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 
+
+() 
+
+Prepaid expenses and other current assets 
+
+Deferred contract costs and other assets 
+
+() 
+
+() 
+
+Accounts payable, accrued expenses, operating lease liabilities and other liabilities 
+
+() 
+
+() 
+
+Deferred revenue 
+
+Net cash provided by operating activities 
+
+Investing activities 
+
+Maturities of investments 
+
+Purchases of investments 
+
+() 
+
+() 
+
+Capitalization of internal-use software 
+
+() 
+
+() 
+
+Purchase of property and equipment 
+
+() 
+
+() 
+
+Issuance of notes receivables 
+
+() 
+
+() 
+
+Other investing activities 
+
+() 
+
+Net cash used in investing activities 
+
+() 
+
+() 
+
+Financing activities 
+
+Repurchase of common stock 
+
+() 
+
+() 
+
+Proceeds from stock option exercises 
+
+Redemption of redeemable noncontrolling interest 
+
+() 
+
+Purchase of public warrants 
+
+() 
+
+Repayments of finance leases 
+
+() 
+
+() 
+
+Net cash used in financing activities 
+
+() 
+
+() 
+
+Effect of exchange rates on cash 
+
+() 
+
+Net increase (decrease) in cash and cash equivalents 
+
+() 
+
+Cash and cash equivalents at beginning of period 
+
+Cash and cash equivalents at end of period 
+
+Supplemental disclosures of cash flow information 
+
+Income taxes paid 
+
+See accompanying notes. 
+
+10
+
+Table of Contents 
+
+AvePoint, Inc.
+
+Notes to Condensed Consolidated Financial Statements
+
+(Unaudited)
+
+million and million, respectively. For purposes of the condensed consolidated statements of cash flows, cash includes all amounts in the condensed consolidated balance sheets captioned cash and cash equivalents. 
+
+impairment was deemed necessary as of September 30, 2024 or December 31, 2023 . 
+
+million and million for the three and nine months ended September 30, 2024 , and million and million for the three and nine months ended September 30, 2023 , is included as a component of sales and marketing expenses in our condensed consolidated statements of income. Deferred contract costs recognized as a contract asset in the condensed consolidated balance sheets were million and million as of September 30, 2024 and December 31, 2023 , respectively. 
+
+million and million for the three and nine months ended September 30, 2024 , and million and million for the three and nine months ended September 30, 2023 . Accounts receivable, net is inclusive of accounts receivable, and current unbilled receivables, net of allowance for credit losses. We record an unbilled receivable when revenue is recognized prior to invoicing. We have a well-established collection history from our direct and indirect sales. We periodically evaluate the collectability of our accounts receivable and provide an allowance for credit losses as necessary, based on the age of the receivable, expected payment ability, and collection experience. As of September 30, 2024 and December 31, 2023 , the allowance for credit losses was not material. We record deferred revenue in the condensed consolidated balance sheets when cash is collected or invoiced before revenue is earned. Deferred revenue as of September 30, 2024 and December 31, 2023 was million and million, respectively. Revenue recognized that was included in the deferred revenue balance as of December 31, 2023, was million for the nine months ended September 30, 2024 . 
+ The opening and closing balances of the Company s accounts receivable, net, deferred revenue and deferred contract costs are as follows: 
+ 
+ Balance, September 30, 2024 
+ 
+ 1 Includes long-term unbilled receivables. There were no significant changes to the Company s contract assets or liabilities during the nine months ended September 30, 2024 and the year ended December 31, 2023 outside of its sales activities. As of September 30, 2024 , transaction price allocated to remaining performance obligations, which includes deferred revenue and amounts that will be invoiced and recognized as revenue in future periods, was million, of which million is related to SaaS and term license and support revenue. We expect to recognize approximately of the total transaction price allocated to remaining performance obligations over the next twelve months and the remainder thereafter. 
+
+Effect of foreign currency translation 
+ Balance as of September 30, 2024 
+
+Customer related assets 
+ Content 
+ Total 
+
+Amortization expense for intangible assets was million and million for the three and nine months ended September 30, 2024 , and million and million for the three and nine months ended September 30, 2023 , respectively. 
+ 
+ As of September 30, 2024 , estimated future amortization expense for intangible assets, net is as follows: 
+
+2025 
+ 2026 
+ 2027 
+ 2028 
+ Thereafter 
+ Total intangible assets subject to amortization 
+
+Current unbilled receivables 
+
+Allowance for credit losses 
+
+() 
+
+() 
+
+million, with an accordion feature that provides up to million of additional borrowing capacity the Company may draw upon at its request. The line bears interest at a rate equal to term SOFR plus to depending on the Consolidated Total Leverage Ratio (as defined in the Loan Agreement). The line carries an unused fee at a rate equal to . The line will mature on November 3, 2026. We are required to maintain a minimum Consolidated Fixed Charge Coverage Ratio (as defined in the Loan Agreement) as well as a maximum Consolidated Total Leverage Ratio, tested by HSBC each quarter. The Company pledged, assigned and granted HSBC a security interest in all shares of its subsidiaries, future proceeds and assets (except for excluded assets, including material intellectual property) as security for the performance of the Loan Agreement obligations. As of September 30, 2024, the Company is compliant with all covenants under the line and had no borrowings outstanding under the line of credit. 
+
+and ) for the three and nine months ended September 30, 2024 , respectively, and ) and ) for the three and nine months ended September 30, 2023 , respectively. 
+ 
+ The change in effective tax rates for the three -month period ended September 30, 2024 as compared to the three -month period ended September 30, 2023 was primarily due to the mix of pre-tax income (loss) results by jurisdictions taxed at different rates, the impact of foreign inclusions, stock-based compensation and changes in valuation allowance in certain jurisdictions. 
+ 
+ The change in effective tax rates for the nine -month period ended September 30, 2024 as compared to the nine -month period ended September 30, 2023 was primarily due to the mix of pre-tax income (loss) results by jurisdictions taxed at different rates, the impact of foreign inclusions, stock-based compensation and changes in valuation allowance in certain jurisdictions. 
+ 
+ The Company continues to evaluate the realizability of its deferred tax assets on a quarterly basis and will adjust such amounts in light of changing facts and circumstances. In making such an assessment, management would consider all available supporting data, including the level of historical taxable income, future reversals of existing temporary differences, tax planning strategies, and projected future taxable income. 
+
+Short-term lease expenses (1) 
+ Variable lease cost not included in the lease liability (2) 
+ Total lease cost 
+
+1 Short-term lease expenses include rent expenses from leases of 12 months or less on the transition date or lease commencement. 
+
+2 Variable lease cost includes common area maintenance, property taxes, and fluctuations in rent due to a change in an index or rate. 
+ 
+ Our lease agreements generally contain lease and non-lease components. Non-lease components primarily include payments for maintenance and utilities. We elected to combine fixed payments for non-lease components, for all classes of underlying assets, with our lease payments and account for them together as a single lease component which increases the amount of our lease assets and liabilities. 
+ 
+ During the nine months ended September 30, 2024 and 2023 , right-of-use assets obtained in exchange for new operating lease liabilities amounted to million and million, respectively. 
+ 
+ Other information related to operating leases is as follows: 
+
+As of September 30, 2024 , our operating leases had a weighted average remaining lease term of years and a weighted average discount rate of . 
+
+As of
+ December 31, 2023, our operating leases had a weighted average remaining lease term of
+ years and a weighted average discount rate of
+ .
+
+The maturity schedule of the operating lease liabilities as of
+ September 30, 2024 is as follows:
+
+2025 
+ 2026 
+ 2027 
+ 2028 
+ Thereafter 
+ Total future lease payments 
+ Less: Present value adjustment 
+ Present value of future lease payments (1) 
+
+1 Includes the current portion of operating lease liabilities of million, which is reflected in accrued expenses and other liabilities in the condensed consolidated balance sheets. 
+ 
+ As of September 30, 2024, letters of credit have been issued in the amount of million as security for operating leases. The letters of credit are secured by certificates of deposit and a line of credit. The certificates of deposit are included in short-term investments within the condensed consolidated balance sheets. 
+
+million and the sponsors obtaining a policy with a million limit. The parties participated in a mediation in October and agreed to settlement terms. Pursuant to a signed letter of intent and a forthcoming settlement agreement, releasing us and the Defendants and settling the class action, we will contribute million toward the full settlement amount of million. The remaining million will be paid pursuant to the two aforementioned insurance policies covering the Defendants and sponsor. As of September 30, 2024, an estimated accrual of million was included in the accrued expenses and other current liabilities within the condensed consolidated balance sheets. 
+ 
+ Guarantees 
+ 
+ In the normal course of business, customers in certain geographies or in highly regulated sectors occasionally require contingency agreements for the completion of service projects, the completion of which are secured by certificates of deposit and a line of credit. The certificates of deposit are included in short-term investments within the condensed consolidated balance sheets. As of September 30, 2024 , letters of credit have been issued in the amount of million, as security for the agreements. These agreements have not had a material effect on our results of operations, financial position or cash flow. 
+
+shares of AvePoint s common stock, in the aggregate, if at any time from July 1, 2021 through July 1, 2028 a) AvePoint s stock price is greater than or equal to 12.50 over any 20 Trading Days within any 30 trading day period or (b) the Company consummates a subsequent transaction, which results in the stockholders of the Company having the right to exchange their shares for cash, securities or other property having a value equaling or exceeding 12.50 per share; 
+
+shares of AvePoint s common stock, in the aggregate, if at any time from July 1, 2021 through July 1, 2028 a) AvePoint s stock price is greater than or equal to 15.00 over any 20 Trading Days within any 30 trading day period or (b) the Company consummates a subsequent transaction, which results in the stockholders of the Company having the right to exchange their shares for cash, securities or other property having a value equaling or exceeding 15.00 per share; 
+
+shares of AvePoint s common stock, in the aggregate, if at any time from July 1, 2021 through July 1, 2028 a) AvePoint s stock price is greater than or equal to 17.50 over any 20 Trading Days within any 30 trading day period or (b) the Company consummates a subsequent transaction, which results in the stockholders of the Company having the right to exchange their shares for cash, securities or other property having a value equaling or exceeding 17.50 per share. 
+
+The rights described above are hereafter referred to as the Company Earn-Out Shares . To the extent that any portion of the Company Earn-Out Shares that would otherwise be issued to a holder of options that remain unvested at the date of the milestones described above, then in lieu of issuing the applicable Company Earn-Out Shares, the Company shall instead issue an award of restricted stock units of the Company for a number of shares of AvePoint s common stock equal to such portion of the Company Earn-Out Shares issuable with respect to the unvested options (the Company Earn-Out RSUs ). In evaluation of the Company Earn-Out Shares and Company Earn-Out RSUs, management determined that the Company Earn-Out Shares represent derivatives to be marked to market at each reporting period, while the Company Earn-Out RSUs represent equity under ASC 718, Compensation-Stock Compensation ASC 718 ). Refer to Note 13 Stock-Based Compensation for more information regarding the Company Earn-Out RSUs. 
+ 
+ In order to capture the market conditions associated with the Company Earn-Out Shares, the Company applied an approach that incorporated a Monte Carlo simulation, which involved random iterations that took different future price paths over the Sponsor Earn-Out Shares (as defined below) contractual life based on the appropriate probability distributions. The fair value was determined by taking the average of the fair values under each Monte Carlo simulation trial. The Monte Carlo model requires highly subjective assumptions including the expected volatility of the price of our common stock, and the expected term of the earn-out shares. Significant increases or decreases to these inputs in isolation could result in a significantly higher or lower liability. Under this approach, the fair value of the Company Earn-Out Shares on July 1, 2021 was determined to be million. The fair value was remeasured as of September 30, 2024 and December 31, 2023 , and was determined to be million and million, respectively, and included in the earn-out shares liabilities in the condensed consolidated balance sheets. As a result, million and million increases in liability were recognized during the three and nine months ended September 30, 2024 , and million and million increases in liability were recognized during the three and nine months ended September 30, 2023 , and included as other expense, net in the condensed consolidated statements of income. No Company Earn-Out Shares have been issued as of September 30, 2024. We estimated the earn-out shares fair value using a Monte Carlo model with the following significant unobservable assumptions: 
+
+Volatility 
+
+50.0 
+ 
+ 55.0 
+
+Private Warrants to Acquire Common Stock 
+ 
+ On July 1, 2021, the Company granted private placement warrants with a -year term and an exercise price of per share. Management has determined that the private placement warrants are to be classified as liabilities to be marked to market at each reporting period. 
+ 
+ The private placement warrants are non-transferable and any transfer to an unrelated party would cause the warrants to be converted into public warrants. Consequently, the fair value of the private placement warrants is equivalent to the quoted price of the publicly traded warrants. Under this approach, the fair value of the private placement warrants on July 1, 2021, was determined to be million. The fair value was remeasured as of September 30, 2024 and December 31, 2023 , and was determined to be million and million, respectively, and included in the other non-current liabilities in the condensed consolidated balance sheets. As a result, million and million of losses were recognized during the three and nine months ended September 30, 2024 , and million and million were recognized during the three and nine months ended September 30, 2023 , and included as other expense, net in the condensed consolidated statements of income. 
+ 
+ As of September 30, 2024, private placement warrants remained outstanding. 
+
+shares of common stock at par value. There were and shares issued and outstanding as of September 30, 2024 and December 31, 2023 , respectively. Each share of common stock is entitled to one vote. The holders of common stock are also entitled to receive dividends whenever funds are legally available and when declared by the Company s Board of Directors. The Company s Board of Directors has not declared common stock dividends since inception. 
+ 
+ Share Repurchase Program 
+ 
+ On March 17, 2022, the Company announced that its Board of Directors authorized a new share repurchase program (the Share Repurchase Program for the Company to buy back shares of its common stock. Under the Share Repurchase Program, the Company has the authority to buy up to million of common stock via acquisitions in the open market or privately negotiated transactions. The Share Repurchase Program will remain open for a period of three years from the date of authorization and may be suspended or discontinued at any time. The Company is not obligated to make purchases of, nor is it obligated to acquire any particular amount of, common stock under the Share Repurchase Program. During the nine months ended September 30, 2024 , the Company repurchased and retired shares at an average price of per share. The shares were returned to the status of authorized but unissued shares. As a result, common stock amount, additional paid-in capital, and accumulated deficit in the condensed consolidated balance sheet during the nine months ended September 30, 2024, were reduced by million, million, and million, respectively. During the nine months ended September 30, 2023 , the Company repurchased and retired shares at an average price of . 
+
+Sponsor Earn-Out Shares 
+
+On July 1, 2021, the Company modified the terms of shares of common stock Sponsor Earn-Out Shares then held by Apex Technology Acquisition Corporation s sponsor, such that such shares will be subject to the following vesting provisions: 
+ 
+ 100 of the Sponsor Earn-Out Shares shall vest and be released if at any time through July 1, 2028, AvePoint s stock price is greater than or equal to 15.00 (as adjusted for share splits, share capitalization, reorganizations, recapitalizations and the like) over any 20 trading days within any 30 trading day period; and 
+ 100 of the remaining Sponsor Earn-Out Shares that have not previously vested shall vest and be released if at any time through July 1, 2028, the Company consummates a subsequent transaction. 
+
+The Sponsor Earn-Out Shares are currently outstanding and receive all benefits of regular shares with the exception of the fact that the shares are held in escrow and restricted from transfer until the vesting conditions described above are met. Consequently, the shares are classified as equity. Sponsor Earn-Out Shares have vested as of September 30, 2024 . 
+ 
+ Public Warrants to Acquire Common Stock 
+
+On July 1, 2021, the Company issued public warrants with an exercise price of . Each warrant entitles the registered holder to purchase one share of AvePoint s common stock and the warrants are exercisable from the date of issuance through July 1, 2026. 
+ 
+ On August 27, 2024, the Company announced the commencement of an offer to purchase all of its outstanding public warrants at a price of per warrant in cash, with an expiration date of September 26, 2024 the Offer ). On September 26, 2024, the Company announced that warrants had been validly tendered and purchased, representing approximately of the outstanding warrants, for a total amount of million. As of September 30, 2024 , warrants remained outstanding. 
+
+Redeemable Noncontrolling Interest 
+ 
+ During the nine months ended September 30, 2024, the redeemable noncontrolling interest shareholders of MaivenPoint Pte. Ltd. MaivenPoint ), a consolidated subsidiary of the Company, submitted notices of exercise of their put option to cause MaivenPoint to repurchase their shares at a price of million. As a result of the exercise, AvePoint s ownership in MaivenPoint became , with the remaining ownership interest held by an unaffiliated investor. Due to the ownership percentage change, the Company adjusted the carrying amount of the noncontrolling interest by multiplying the adjusted net assets of MaivenPoint by the unaffiliated investor s new ownership percentage, resulting in a reduction to noncontrolling interest and increase in additional-paid-in capital of million, respectively, within the condensed consolidated balance sheets. 
+ 
+ There are put options held by MaivenPoint s remaining noncontrolling interest shareholders, and therefore, there is longer any redeemable noncontrolling interest in MaivenPoint as of September 30, 2024. 
+
+million to the Fund, to be called as needed, for portfolio investments, fees, and expenses of the Fund. The Company also participates in Fund establishment costs and an annual management fee equal to of the total commitment. Any future repayment obligations will be triggered upon the receipt by LCP of profit allocations related to the Fund. 
+ 
+ As of September 30, 2024, no portion of the Company s million commitment has been called or was callable, and the operations of the Fund and the Venture have not materially impacted the Company s financial position, financial performance, or cash flows. 
+ 
+ As of September 30, 2024, million of management fee and establishment costs were included in accrued expenses and other liabilities in the condensed consolidated balance sheets. During the three and nine months ended September 30, 2024, million and million, respectively, of management fee and establishment costs were included in general and administrative in the condensed consolidated statements of income. 
+
+shares remained for future issuance under the 2021 Plan. To date, the Company has issued only stock options and restricted stock units to employees, directors and consultants. 
+ 
+ For the three months ended September 30, 2024 and 2023, total stock-based compensation expense was million and million, respectively. For the nine months ended September 30, 2024 and 2023, total stock-based compensation expense was million and million, respectively. 
+ 
+ Stock Options 
+ 
+ The compensation costs for stock option awards are accounted for in accordance with ASC 718. Stock options vest over a four -year service period and expire on the tenth anniversary of the date of award. 
+ 
+ On March 5, 2024, the Company granted options under the 2021 Plan. The Company estimated the grant date fair value of these stock options using the Black-Scholes option-pricing model with the following weighted-average assumptions: 
+
+Expected volatility 
+ Risk-free rate 
+ Dividend yield 
+
+To estimate the expected life of stock options, the Company considered the vesting term, contractual expiration period, and market conditions. Expected volatility is based on historical volatility of a group of peer entities. Dividend yields are based upon historical dividend yields. Risk-free interest rates are based on the implied yields currently available on U.S. Treasury zero coupon issues with a remaining term equal to the expected life. Based on these inputs, the grant-date fair value was determined to be million. 
+ 
+ As of September 30, 2024 , there was million in unrecognized compensation costs related to all unvested options. 
+ 
+ As of September 30, 2024 , the Company had options outstanding and options exercisable with intrinsic values of million and million, respectively. During the nine months ended September 30, 2024 , options were exercised, with a total intrinsic value of million. 
+
+Restricted Stock Units 
+ 
+ Under the terms of the 2021 Plan, we have issued restricted stock unit awards with a continuous employment condition only Time-Based RSUs ), and restricted stock unit awards with a continuous employment condition that are also contingent on the Company meeting certain performance goals PSUs , and together RSUs ). Both types of RSU awards vest over a four -year period from the grant date. 
+ 
+ Time-Based RSUs and PSUs were granted under the 2021 Plan during the nine months ended September 30, 2024 , with a weighted-average grant date fair-value of per award. The compensation costs for RSUs are accounted for in accordance with ASC 718. RSUs are measured at the fair market value of the underlying stock at the grant date. RSUs that vested during the nine months ended September 30, 2024 had an aggregate fair value at vesting of million. As of September 30, 2024 , there was million in unrecognized compensation costs specific to the unvested RSUs, to be recognized over a weighted-average period of years. As of September 30, 2024 , the Company had unvested Time-Based RSUs and unvested PSUs with a weighted-average grant date fair-value of per award. 
+ 
+ Company Earn-Out RSUs 
+ 
+ The compensation costs for Company Earn-Out RSUs are accounted for in accordance with ASC 718. In order to capture the market conditions associated with the Company Earn-Out RSUs, the Company applied an approach that incorporated a Monte Carlo simulation, which involved random iterations that took different future price paths over the Sponsor Earn-Out RSUs contractual life based on the appropriate probability distributions. The fair value was determined by taking the average of the fair values under each Monte Carlo simulation trial. Under this approach, the grant-date fair value of the Company Earn-Out RSUs on July 1, 2021, was determined to be million. The stock options underlying the Earn-Out RSUs vest over a four -year period and expire on the tenth anniversary of the date of award. If the contingent milestones of the Earn-Out RSUs are not met by July 1, 2028, the holders of the underlying stock options will not receive the Earn-Out RSUs. 
+
+Money market funds 
+ U.S. treasury bills 
+ Short term investments: 
+ Certificates of deposit 
+ Other assets: 
+ Certificates of deposit 
+ Notes receivables (1) 
+ Total 188,728 
+ Liabilities: 
+ Earn-out shares liabilities: 
+ Earn-out shares (2) 
+ Other non-current liabilities: 
+ Warrant liabilities (2) 
+ Total 
+
+Money market funds 
+ U.S. treasury bills 
+ Short term investments: 
+ Certificates of deposit (3) 
+ Other assets: 
+ Notes receivables (1) 
+ Total 183,358 
+ Liabilities: 
+ Earn-out shares liabilities: 
+ Earn-out shares (2) 
+ Other non-current liabilities: 
+ Warrant liabilities (2) 
+ Total 
+
+1 During 2023, the Company extended a credit facility to LCP with a total commitment of up to million and maturities of greater than twelve months (the LCP Notes Receivable ). Refer to Note 12 Growth Equity Fund for further details. The LCP Notes Receivable bear interest at an annual rate equal to . As of September 30, 2024 and December 31, 2023, the LCP Notes Receivable in the amounts of million and million, respectively, were included in other assets within the condensed consolidated balance sheets. Fair values are based on discounted future cash flows using current interest rates offered for similar notes to third parties with similar credit ratings for the same remaining maturities. 
+ 2 Refer to Note 10 Earn-Out and Warrant Liabilities for further details. 
+ 3 The majority of certificates of deposit are foreign deposits. 
+
+The following tables summarize the Company s available-for-sale securities measured at fair value as of September 30, 2024 and December 31, 2023. 
+
+Total 
+
+Total 
+
+The contractual maturity of the available-for-sale securities held as of September 30, 2024 and December 31, 2023 was within one year. 
+ 
+ The following table presents the reconciliation in Level 3 instruments which consisted of earn-out shares liabilities which were measured on a recurring basis. 
+
+Total gains or losses from the period 
+ Included in other expense, net 
+ Reclass from Earnout-RSU 
+ Closing balance 
+
+EMEA 
+ APAC 
+ Total revenue 
+
+The following table sets forth revenue generated by countries which represent more than 10 of total consolidated revenue: 
+
+Singapore 
+ Germany 
+
+() 
+
+() 
+
+() 
+
+Interest income, net 
+
+Profits on securities (1) 
+
+Foreign currency exchange gain (loss), net 
+
+() 
+
+() 
+
+() 
+
+Other, net 
+
+() 
+
+() 
+
+() 
+
+Other expense, net 
+
+() 
+
+() 
+
+() 
+
+() 
+
+1 Profits on securities consist of interest income from amortization of the discount arising at acquisition of U.S. treasury bills. 
+
+Net income attributable to Sponsor Earn-out Shares 
+ Net (income) loss attributable to noncontrolling interest 
+ Total net income (loss) available to common shareholders 
+ Denominator: 
+ Weighted average common shares outstanding 
+ Effect of dilutive securities 
+ Stock options 
+ RSUs 
+ Weighted average diluted shares 
+ 
+ Basic net income (loss) per share available to common shareholders, excluding sponsor earn-out shareholders 
+ Diluted net income (loss) per share available to common shareholders, excluding sponsor earn-out shareholders 
+
+To arrive at net income (loss) available to common stockholders, the Company deducted net income attributable to Sponsor Earn-out Shares and net (income) loss attributable to noncontrolling interest. 
+
+The below table includes the total potentially dilutive securities for the three and nine months ending September 30, 2024 and the three and nine months ending September 30, 2023 which have been excluded from the computation of diluted net income (loss) per share as their effect is anti-dilutive: 
+
+30
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ The following Management s Discussion and Analysis of Financial Condition and Results of Operations (Part I, Item 2 of this Quarterly Report) MD A summarizes (and is intended to help the reader understand) the significant factors affecting the consolidated operating results, financial condition, liquidity and cash flows of our Company as of and for the periods presented below. The MD A should be read in conjunction with our Annual Report on Form 10-K for the year ended December 31, 2023 (our Annual Report and our condensed consolidated financial statements and the related notes included elsewhere in this Quarterly Report. 
+ 
+ Third Quarter 2024 Business Highlights 
+
+Total annual recurring revenue ARR increased 23 year-over-year to 308.9 million as of September 30, 2024; 
+
+Total revenue increased 22 year-over-year to 88.8 million for the three months ended September 30, 2024; 
+
+SaaS revenue increased 45 year-over-year to 60.9 million for the three months ended September 30, 2024; and 
+
+Announced the general availability of AvePoint Cloud Backup Express, designed to use Microsoft 365 Backup Storage for rapid and more efficient data protection. 
+
+Overview 
+ 
+ AvePoint provides a cloud-native data management software platform that organizations rely on to manage and protect critical data, optimize IT operations, achieve meaningful cost savings, and efficiently secure the digital workplace. Companies around the world have adopted a hybrid work model, and they are now tasked with delivering a seamless and secure workplace experience for knowledge workers, centered around an extensive portfolio of Software-as-a-Service SaaS solutions and productivity applications. 
+ 
+ The adoption of a portfolio of solutions is a substantial and ongoing challenge for most organizations, which for decades had used only a small number of multi-purpose on-premises applications to drive business outcomes. However, to deliver an efficient digital workplace today, companies must manage this range of applications and the associated explosive growth and sprawl of critical data with a platform offering that is well governed, fit for purpose, easy to use and built on automation. 
+ 
+ In addition, many organizations are beginning to realize the potential of generative artificial intelligence AI to drive competitive advantage and value creation, including (1) extracting greater value from complex datasets, (2) making more informed business decisions, (3) reducing employee workloads, and (4) improving the overall customer experience. While these data-driven improvements are expected to lead to stronger revenue growth and operational efficiency, successfully leveraging this new technology is in turn dependent on first addressing data management challenges that all organizations face. Specifically, for AI-driven projects to succeed, companies must apply robust strategies across the data estate to manage the information lifecycle, properly govern and secure their data, and ensure its compliance. These are the core business problems that AvePoint has been solving for more than two decades, and why we believe AvePoint is well positioned to be a key enabler of generative AI adoption within enterprises in the coming years. 
+ 
+ AvePoint s Confidence Platform empowers organizations of all sizes, in all regions, and across all industries to optimize and secure the solutions that most commonly establish and underpin the digital workplace. As our customers seek to rapidly reduce costs, improve productivity and make more informed business decisions, they depend on our platform for data-driven insights, critical business intelligence and ongoing operational value through automation. 
+
+31
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+Key Business Metric 
+
+September 30, 
+
+2024 
+
+2023 
+
+Total ARR in mil) 
+
+308.9 
+
+250.6 
+
+Annual Recurring Revenue 
+ 
+ We believe ARR further enables measurement of our business performance, is an important metric for financial forecasting and better enables us to make strategic decisions on the business. We calculate ARR as the annualized sum of contractually obligated Annual Contract Value ACV from SaaS, term license and support, and maintenance revenue sources from all active customers at the end of a reporting period. As of September 30, 2024 and September 30, 2023, total ARR was 308.9 million and 250.6 million, respectively, representing growth of 23 . Growth in ARR is driven by both new business and the expansion of existing business. ARR should be viewed independently of revenue and deferred revenue and is not intended to be combined with or replace these items. ARR is not a forecast of future revenue, and the active contracts used in calculating ARR may or may not be extended or renewed by our customers. 
+
+32
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+Components of Results of Operations 
+
+Revenue 
+ 
+ We generate revenue from four primary sources: SaaS, term license and support, services, and maintenance. SaaS revenues are generated from our cloud-based solutions. Term license and support revenues are generated from the sales of on-premise or hybrid licenses, which include a distinct support component. Both SaaS and term license and support revenues are primarily billed annually. SaaS and term license and support are generally sold per user license or based upon the amount of data protected. SaaS revenue is recognized ratably over the term of the contract. For term license and support revenues, the license component is generally recognized upfront at the point in time when the software is made available to the customer to download and use, and the support component is recognized ratably over the term of the contract. Services revenue includes revenue generated from implementation, training, consulting, license customization and managed services. These revenues are recognized by applying a measure of progress, such as labor hours, to determine the percentage of completion of each contract. These offerings are not inherently recurring in nature and as such are subject to more period-to-period volatility than other elements of our business. Services revenue from managed services are recognized ratably or on a straight-line basis over the contract term. Maintenance revenue is a result of selling on-going support for legacy perpetual licenses. It also includes recurring professional services such as technical account management. Maintenance revenue is recognized ratably over the term of the maintenance agreement, which is typically one year. 
+
+Cost of Revenue 
+ 
+ Cost of SaaS and cost of term license and support consists of all direct costs to deliver and support our SaaS and term license and support products, including salaries, benefits, stock-based compensation and related expenses, overhead, third-party hosting fees related to our cloud services, depreciation and amortization. We recognize these expenses as they are incurred. We expect that these costs will increase in absolute dollars but may fluctuate as a percentage of SaaS and term license and support revenue from period to period. Cost of maintenance consists of all direct costs to support our legacy perpetual license products, including salaries, benefits, stock-based compensation and related expenses, overhead, depreciation and amortization. We recognize these expenses as they are incurred. We expect that cost of maintenance revenue will decrease in absolute dollars as maintenance revenue declines but may fluctuate as a percentage of maintenance revenue. Cost of services consists of salaries, benefits, stock-based compensation and related expenses for our services organization, overhead, IT necessary to provide services for our customers, depreciation and amortization. We recognize these expenses as they are incurred. 
+
+Gross Profit and Gross Margin 
+ 
+ Gross profit is revenue less cost of revenue, and gross margin is gross profit as a percentage of revenue. Gross profit has been and will continue to be affected by various factors, including the mix of our revenue, the costs associated with third-party cloud-based hosting services for our cloud-based subscriptions, and the extent to which we expand our customer support and services organizations. We expect that our gross margin will fluctuate from period to period depending on the interplay of these various factors but should increase in the long term as SaaS revenue continues to increase as a percentage of total revenue. 
+
+Sales and Marketing 
+ 
+ Sales and marketing expenses consist primarily of personnel-related expenses for sales, marketing and customer success personnel, stock-based compensation expense, sales commissions, marketing programs, travel-related expenses, overhead costs, depreciation and amortization. We focus our sales and marketing efforts on creating sales leads and establishing and promoting our brand. Incremental sales commissions for new customer contracts are deferred and amortized ratably over the estimated period of our relationship with such customers. We plan to continue our investment in sales and marketing by hiring additional sales and marketing personnel, executing our go-to-market strategy globally, and building our brand awareness. 
+
+33
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+General and Administrative 
+ 
+ General and administrative expenses consist primarily of personnel-related expenses for finance, legal and compliance, human resources, and IT personnel, as well as stock-based compensation expense, external professional services, overhead costs, other administrative functions, depreciation and amortization. Our general and administrative expenses have increased as a result of operating as a public company, including costs to comply with the rules and regulations applicable to companies listed on a national securities exchange, costs related to compliance and reporting obligations pursuant to the rules and regulations of the SEC, and increased expenses for insurance, investor relations, and professional services. 
+
+Research and Development 
+ 
+ Research and development expenses consist primarily of personnel-related expenses incurred for our engineering and product and design teams, as well as stock-based compensation expense, overhead costs, depreciation and amortization. We have a geographically dispersed research and development presence in the United States, China, Singapore and Vietnam. We believe this provides a strategic advantage, allowing us to invest efficiently in both new product development and increasing our existing product capabilities. We believe delivering expanding product functionality is critical to enhancing the success of existing customers while new product development further reinforces our breadth of software solutions. 
+
+Other Expense, net 
+ 
+ Other Expense, net consists primarily of fair value adjustments on earn-out and warrant liabilities, realized gain/loss for securities, and of foreign currency remeasurement gains/losses. 
+
+Income Taxes 
+ 
+ We are subject to income taxes in the U.S. (federal and state) and numerous foreign jurisdictions. Tax laws, regulations, administrative practices, principles, and interpretations in various jurisdictions may be subject to significant change, with or without notice, due to economic, political, and other conditions. The foreign jurisdictions in which we operate have different statutory tax rates than those of the United States. Accordingly, our effective tax rate could be affected by the relative proportion of foreign to domestic income, use of foreign tax credits, changes in the valuation of our deferred tax assets and liabilities, applicability of any valuation allowances, and changes in tax laws in jurisdictions in which we operate. 
+
+34
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+Results of Operations 
+ 
+ The below period-to-period comparisons of operating results are not necessarily indicative of results for future periods. 
+
+Comparison of Three Months Ended September 30, 2024 and September 30, 2023 
+ 
+ Revenue 
+ 
+ The components of AvePoint s revenue during the three months ended September 30, 2024 and 2023 were as follows: 
+
+Three Months Ended 
+
+September 30, 
+
+Change 
+
+2024 
+
+2023 
+
+Amount 
+
+(in thousands, except percentages) 
+
+Revenue: 
+
+SaaS 
+
+60,866 
+
+41,910 
+
+18,956 
+
+45.2 
+
+Term license and support 
+
+14,140 
+
+16,293 
+
+(2,153) 
+
+(13.2) 
+
+Services 
+
+10,810 
+
+11,194 
+
+(384) 
+
+(3.4) 
+
+Maintenance 
+
+2,988 
+
+3,363 
+
+(375) 
+
+(11.2) 
+
+Total revenue 
+
+88,804 
+
+72,760 
+
+16,044 
+
+22.1 
+
+Total revenue increased 22.1 to 88.8 million for the three months ended September 30, 2024, due to an increase in SaaS revenue, which increased 45.2 to 60.9 million, and represented 69 of total revenue, up from 58 of total revenue in the prior year. The increase in SaaS revenue, which was driven by strong customer demand for our SaaS solutions, was partially offset by an expected decrease in both term license and support and maintenance revenue. 
+ 
+ Services revenue is expected to fluctuate as the services generally are not recurring in nature. Additionally, maintenance revenue is expected to continue declining as we have shifted away from the sale of perpetual licenses and towards SaaS and term licenses. Without perpetual license sales, there will be limited opportunities to sell maintenance contracts to new customers. Existing customers have and will continue to transition to SaaS and term licenses, which will continue the decline in maintenance revenue. 
+ 
+ Revenue by geographic region for the three months ended September 30, 2024 and 2023 was as follows: 
+
+Three Months Ended 
+
+September 30, 
+
+Change 
+
+2024 
+
+2023 
+
+Amount 
+
+(in thousands, except percentages) 
+
+North America 
+
+37,648 
+
+31,751 
+
+5,897 
+
+18.6 
+
+EMEA 
+
+26,298 
+
+21,739 
+
+4,559 
+
+21.0 
+
+APAC 
+
+24,858 
+
+19,270 
+
+5,588 
+
+29.0 
+
+Total 
+
+88,804 
+
+72,760 
+
+16,044 
+
+22.1 
+
+For the three months ended September 30, 2024, North America revenue increased 18.6 to 37.6 million, driven by a 46.2 , or 8.3 million, increase in SaaS revenue, partially offset by a combined 2.4 million decrease in term license and support, services, and maintenance revenues. EMEA revenues increased 21.0 to 26.3 million, driven by a 41.5 , or 6.5 million, increase in SaaS revenue, partially offset by a combined 1.9 million decrease in term license and support, services and maintenance revenues. APAC revenues increased 29.0 to 24.9 million, driven by a 50.4 , or 4.1 million, increase in SaaS revenue, a 10.3 , or 0.8 million, increase in services revenue, a 22.7 , or 0.4 million, increase in term license and support revenue, and a 16.0 , or 0.2 million, increase in maintenance revenue. 
+
+35
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+Cost of Revenue, Gross Profit, and Gross Margin 
+ 
+ Cost of revenue, gross profit, and gross margin during the three months ended September 30, 2024 and 2023 were as follows: 
+
+Three Months Ended 
+
+September 30, 
+
+Change 
+
+2024 
+
+2023 
+
+Amount 
+
+(in thousands, except percentages) 
+
+Cost of revenue: 
+
+SaaS 
+
+10,624 
+
+9,561 
+
+1,063 
+
+11.1 
+
+Term license and support 
+
+373 
+
+484 
+
+(111) 
+
+(22.9) 
+
+Services 
+
+10,057 
+
+9,922 
+
+135 
+
+1.4 
+
+Maintenance 
+
+167 
+
+189 
+
+(22) 
+
+(11.6) 
+
+Total cost of revenue 
+
+21,221 
+
+20,156 
+
+1,065 
+
+5.3 
+
+Gross profit 
+
+67,583 
+
+52,604 
+
+14,979 
+
+28.5 
+
+Gross margin 
+
+76.1 
+
+72.3 
+
+GAAP cost of revenue 
+
+21,221 
+
+20,156 
+
+1,065 
+
+5.3 
+
+Stock-based compensation expense 
+
+(530) 
+
+(806) 
+
+276 
+
+(34.2) 
+
+Amortization of acquired intangible assets 
+
+(242) 
+
+(241) 
+
+(1) 
+
+0.4 
+
+Non-GAAP cost of revenue 
+
+20,449 
+
+19,109 
+
+1,340 
+
+7.0 
+
+Non-GAAP gross profit 
+
+68,355 
+
+53,651 
+
+14,704 
+
+27.4 
+
+Non-GAAP gross margin 
+
+77.0 
+
+73.7 
+
+Cost of revenue increased 5.3 to 21.2 million for the three months ended September 30, 2024, primarily driven by a 0.6 million increase in personnel costs and a 0.4 million increase from higher aggregate hosting costs resulting from increased SaaS revenue. 
+
+36
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+Operating Expenses 
+ 
+ Sales and Marketing 
+ 
+ Sales and marketing expenses during the three months ended September 30, 2024 and 2023 were as follows: 
+
+Three Months Ended 
+
+September 30, 
+
+Change 
+
+2024 
+
+2023 
+
+Amount 
+
+(in thousands, except percentages) 
+
+Sales and marketing 
+
+30,050 
+
+28,436 
+
+1,614 
+
+5.7 
+
+Percentage of revenue 
+
+33.8 
+
+39.1 
+
+GAAP sales and marketing 
+
+30,050 
+
+28,436 
+
+1,614 
+
+5.7 
+
+Stock-based compensation expense 
+
+(2,186) 
+
+(2,358) 
+
+172 
+
+(7.3) 
+
+Amortization of acquired intangible assets 
+
+(120) 
+
+(112) 
+
+(8) 
+
+7.1 
+
+Non-GAAP sales and marketing 
+
+27,744 
+
+25,966 
+
+1,778 
+
+6.8 
+
+Non-GAAP percentage of revenue 
+
+31.2 
+
+35.7 
+
+Sales and marketing expenses increased 5.7 to 30.1 million for the three months ended September 30, 2024, primarily driven by a 1.2 million increase in personnel costs, which included additional headcount and other investments in the business to respond to strong customer demand for our solutions and provide support for future growth. 
+ 
+ General and Administrative 
+ 
+ General and administrative expenses during the three months ended September 30, 2024 and 2023 were as follows: 
+
+Three Months Ended 
+
+September 30, 
+
+Change 
+
+2024 
+
+2023 
+
+Amount 
+
+(in thousands, except percentages) 
+
+General and administrative 
+
+17,043 
+
+15,838 
+
+1,205 
+
+7.6 
+
+Percentage of revenue 
+
+19.2 
+
+21.8 
+
+GAAP general and administrative 
+
+17,043 
+
+15,838 
+
+1,205 
+
+7.6 
+
+Stock-based compensation expense 
+
+(4,925) 
+
+(5,264) 
+
+339 
+
+(6.4) 
+
+Non-GAAP general and administrative 
+
+12,118 
+
+10,574 
+
+1,544 
+
+14.6 
+
+Non-GAAP percentage of revenue 
+
+13.6 
+
+14.5 
+
+General and administrative expenses increased 7.6 to 17.0 million for the three months ended September 30, 2024. The increase was primarily driven by 0.5 million in new fees related to the Company s investment in a growth equity fund, a 0.5 million increase in salary and benefits, and a 0.2 million increase in software license expense due to increased headcount, partially offset by a 0.3 million decrease in stock-based compensation. 
+
+37
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+Research and Development 
+ 
+ Research and development expenses during the three months ended September 30, 2024 and 2023 were as follows: 
+
+Three Months Ended 
+
+September 30, 
+
+Change 
+
+2024 
+
+2023 
+
+Amount 
+
+(in thousands, except percentages) 
+
+Research and development 
+
+12,838 
+
+8,643 
+
+4,195 
+
+48.5 
+
+Percentage of revenue 
+
+14.5 
+
+11.9 
+
+GAAP research and development 
+
+12,838 
+
+8,643 
+
+4,195 
+
+48.5 
+
+Stock-based compensation expense 
+
+(2,170) 
+
+(857) 
+
+(1,313) 
+
+153.2 
+
+Non-GAAP research and development 
+
+10,668 
+
+7,786 
+
+2,882 
+
+37.0 
+
+Non-GAAP percentage of revenue 
+
+12.0 
+
+10.7 
+
+Research and development expenses 
+ increased
+ 
+ 48.5 
+ to 
+ 12.8
+ million for the three months ended 
+ September 30, 2024
+ , primarily driven by a 3.6 million increase in personnel costs associated with the expansion of our workforce. 
+
+Income Tax Provision 
+ 
+ Income tax expense during the three months ended September 30, 2024 and 2023 was as follows: 
+
+Three Months Ended 
+
+September 30, 
+
+Change 
+
+2024 
+
+2023 
+
+Amount 
+
+(in thousands, except percentages) 
+
+Income tax expense 
+
+183 
+
+2,841 
+
+(2,658) 
+
+(93.6) 
+
+AvePoint s income tax expense for the three months ended September 30, 2024 was 0.2 million, as compared to a tax expense of 2.8 million for the three months ended September 30, 2023. The effective tax rate was 5.9 for the three months ended September 30, 2024, compared to (204.5) for the three months ended September 30, 2023. The change in effective tax rates was primarily due to the mix of pre-tax income (loss) results by jurisdictions taxed at different rates, certain jurisdictions with separate tax expense calculated, impact of foreign inclusions, stock-based compensation, and changes in valuation allowance. 
+ 
+ In assessing the need for a valuation allowance, the Company has considered all available positive and negative evidence including its historical levels of income, expectations of future taxable income, future reversals of existing taxable temporary differences and ongoing tax planning strategies. If in the future, the Company determines it is more likely than not that deferred tax assets will not be realized, the Company may set up a valuation allowance, which may result in income tax expense in the Company s condensed consolidated statements of income and condensed consolidated statements of comprehensive income (loss). 
+
+38
+
+Part I
+
+Item 2
+
+Comparison of Nine Months Ended September 30, 2024 and September 30, 2023 
+ 
+ Revenue 
+ 
+ The components of AvePoint s revenue during the nine months ended September 30, 2024 and 2023 were as follows: 
+
+Nine Months Ended 
+
+September 30, 
+
+Change 
+
+2024 
+
+2023 
+
+Amount 
+
+(in thousands, except percentages) 
+
+Revenue: 
+
+SaaS 
+
+165,820 
+
+115,701 
+
+50,119 
+
+43.3 
+
+Term license and support 
+
+35,128 
+
+40,474 
+
+(5,346) 
+
+(13.2) 
+
+Services 
+
+31,808 
+
+31,007 
+
+801 
+
+2.6 
+
+Maintenance 
+
+8,543 
+
+10,019 
+
+(1,476) 
+
+(14.7) 
+
+Total revenue 
+
+241,299 
+
+197,201 
+
+44,098 
+
+22.4 
+
+Total revenue increased 22.4 to 241.3 million for the nine months ended September 30, 2024, primarily as a result of an increase in SaaS revenue, which increased 43.3 to 165.8 million, and represented 69 of total revenue, up from 59 of total revenue in the prior year. The increase in revenue, which was driven by strong customer demand for our SaaS products, was partially offset by an expected decrease in both term license and support and maintenance revenue. 
+ 
+ Services revenue is expected to fluctuate as the services generally are not recurring in nature. Additionally, maintenance revenue is expected to continue declining as we have shifted away from the sale of perpetual licenses and towards SaaS and term licenses. Without perpetual license sales, there will be limited opportunities to sell maintenance contracts to new customers. Existing customers have and will continue to transition to SaaS and term licenses, which will continue the decline in maintenance revenue. 
+ 
+ Revenue by geographic region for the nine months ended September 30, 2024 and 2023 was as follows: 
+
+Nine Months Ended 
+
+September 30, 
+
+Change 
+
+2024 
+
+2023 
+
+Amount 
+
+(in thousands, except percentages) 
+
+North America 
+
+99,240 
+
+84,484 
+
+14,756 
+
+17.5 
+
+EMEA 
+
+72,193 
+
+60,800 
+
+11,393 
+
+18.7 
+
+APAC 
+
+69,866 
+
+51,917 
+
+17,949 
+
+34.6 
+
+Total 
+
+241,299 
+
+197,201 
+
+44,098 
+
+22.4 
+
+For the nine months ended September 30, 2024, North America revenue increased 17.5 to 99.2 million, driven by a 42.7 , or 21.8 million, increase in SaaS revenue, partially offset by a combined 7.1 million decrease in term license and support, services, and maintenance revenues. EMEA revenues increased 18.7 to 72.2 million, driven by a 41.0 , or 17.5 million, increase in SaaS revenue, partially offset by a combined 6.1 million decrease in term license and support, services and maintenance revenues. APAC revenues increased 34.6 to 69.9 million, primarily driven by a 49.1 , or 10.9 million, increase in SaaS revenue, a 25.7 , or 5.2 million, increase in services revenue, and a 34.6 , or 1.8 million, increase in term license and support revenue. 
+
+39
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+Cost of Revenue, Gross Profit, and Gross Margin 
+ 
+ Cost of revenue, gross profit, and gross margin during the nine months ended September 30, 2024 and 2023 were as follows: 
+
+Nine Months Ended 
+
+September 30, 
+
+Change 
+
+2024 
+
+2023 
+
+Amount 
+
+(in thousands, except percentages) 
+
+Cost of revenue: 
+
+SaaS 
+
+30,139 
+
+26,586 
+
+3,553 
+
+13.4 
+
+Term license and support 
+
+1,202 
+
+1,441 
+
+(239) 
+
+(16.6) 
+
+Services 
+
+28,777 
+
+29,231 
+
+(454) 
+
+(1.6) 
+
+Maintenance 
+
+487 
+
+584 
+
+(97) 
+
+(16.6) 
+
+Total cost of revenue 
+
+60,605 
+
+57,842 
+
+2,763 
+
+4.8 
+
+Gross profit 
+
+180,694 
+
+139,359 
+
+41,335 
+
+29.7 
+
+Gross margin 
+
+74.9 
+
+70.7 
+
+GAAP cost of revenue 
+
+60,605 
+
+57,842 
+
+2,763 
+
+4.8 
+
+Stock-based compensation expense 
+
+(1,516) 
+
+(2,292) 
+
+776 
+
+(33.9) 
+
+Amortization of acquired intangible assets 
+
+(722) 
+
+(725) 
+
+3 
+
+(0.4) 
+
+Non-GAAP cost of revenue 
+
+58,367 
+
+54,825 
+
+3,542 
+
+6.5 
+
+Non-GAAP gross profit 
+
+182,932 
+
+142,376 
+
+40,556 
+
+28.5 
+
+Non-GAAP gross margin 
+
+75.8 
+
+72.2 
+
+Cost of revenue increased 4.8 to 60.6 million for the nine months ended September 30, 2024, primarily driven by a 1.7 million increase in personnel costs and a 1.4 million increase from higher aggregate hosting costs resulting from increased SaaS revenue. 
+
+40
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+Operating Expenses 
+ 
+ Sales and Marketing 
+ 
+ Sales and marketing expenses during the nine months ended September 30, 2024 and 2023 were as follows: 
+
+Nine Months Ended 
+
+September 30, 
+
+Change 
+
+2024 
+
+2023 
+
+Amount 
+
+(in thousands, except percentages) 
+
+Sales and marketing 
+
+90,459 
+
+82,978 
+
+7,481 
+
+9.0 
+
+Percentage of revenue 
+
+37.5 
+
+42.1 
+
+GAAP sales and marketing 
+
+90,459 
+
+82,978 
+
+7,481 
+
+9.0 
+
+Stock-based compensation expense 
+
+(6,684) 
+
+(7,267) 
+
+583 
+
+(8.0) 
+
+Amortization of acquired intangible assets 
+
+(342) 
+
+(381) 
+
+39 
+
+(10.2) 
+
+Non-GAAP sales and marketing 
+
+83,433 
+
+75,330 
+
+8,103 
+
+10.8 
+
+Non-GAAP percentage of revenue 
+
+34.6 
+
+38.2 
+
+Sales and marketing expenses increased 9.0 to 90.5 million for the nine months ended September 30, 2024, primarily driven by a 6.6 million increase in personnel costs, which included additional headcount and other investments in the business to respond to strong customer demand for our solutions and provide support for future growth. 
+ 
+ General and Administrative 
+ 
+ General and administrative expenses during the nine months ended September 30, 2024 and 2023 were as follows: 
+
+Nine Months Ended 
+
+September 30, 
+
+Change 
+
+2024 
+
+2023 
+
+Amount 
+
+(in thousands, except percentages) 
+
+General and administrative 
+
+52,095 
+
+45,679 
+
+6,416 
+
+14.0 
+
+Percentage of revenue 
+
+21.6 
+
+23.2 
+
+GAAP general and administrative 
+
+52,095 
+
+45,679 
+
+6,416 
+
+14.0 
+
+Stock-based compensation expense 
+
+(15,451) 
+
+(14,551) 
+
+(900) 
+
+6.2 
+
+Non-GAAP general and administrative 
+
+36,644 
+
+31,128 
+
+5,516 
+
+17.7 
+
+Non-GAAP percentage of revenue 
+
+15.2 
+
+15.8 
+
+General and administrative expenses increased 14.0 to 52.1 million for the nine months ended September 30, 2024. The increase was primarily driven by a 2.9 million increase in personnel costs, 1.9 million in new fees related to the Company s investment in a growth equity fund, a 0.8 million increase in software license expense due to increased headcount, and a 0.6 million increase in professional services expense. 
+
+41
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+Research and Development 
+ 
+ Research and development expenses during the nine months ended September 30, 2024 and 2023 were as follows: 
+
+Nine Months Ended 
+
+September 30, 
+
+Change 
+
+2024 
+
+2023 
+
+Amount 
+
+(in thousands, except percentages) 
+
+Research and development 
+
+35,827 
+
+26,931 
+
+8,896 
+
+33.0 
+
+Percentage of revenue 
+
+14.8 
+
+13.7 
+
+GAAP research and development 
+
+35,827 
+
+26,931 
+
+8,896 
+
+33.0 
+
+Stock-based compensation expense 
+
+(6,156) 
+
+(2,865) 
+
+(3,291) 
+
+114.9 
+
+Non-GAAP research and development 
+
+29,671 
+
+24,066 
+
+5,605 
+
+23.3 
+
+Non-GAAP percentage of revenue 
+
+12.3 
+
+12.2 
+
+Research and development expenses increased 33.0 
+ 
+ to 35.8 
+ million for the 
+ nine
+ months ended 
+ September 30, 2024
+ , primarily driven by a 7.9 million increase in personnel costs. 
+
+Income Tax Provision 
+ 
+ Income tax expense during the nine months ended September 30, 2024 and 2023 was as follows: 
+
+Nine Months Ended 
+
+September 30, 
+
+Change 
+
+2024 
+
+2023 
+
+Amount 
+
+(in thousands, except percentages) 
+
+Income tax expense 
+
+6,170 
+
+8,132 
+
+(1,962) 
+
+(24.1) 
+
+AvePoint s income tax expense for the nine months ended September 30, 2024 was 6.2 million, as compared to a tax expense of 8.1 million for the nine months ended September 30, 2023. The effective tax rate was (106.5) for the nine months ended September 30, 2024, compared to (45.7) for the nine months ended September 30, 2023. The change in effective tax rates was primarily due to the mix of pre-tax income (loss) results by jurisdictions taxed at different rates, certain jurisdictions with separate tax expense calculated, impact of foreign inclusions, stock-based compensation, and changes in valuation allowance. 
+ 
+ In assessing the need for a valuation allowance, the Company has considered all available positive and negative evidence including its historical levels of income, expectations of future taxable income, future reversals of existing taxable temporary differences and ongoing tax planning strategies. If in the future, the Company determines it is more likely than not that deferred tax assets will not be realized, the Company may set up a valuation allowance, which may result in income tax expense in the Company s condensed consolidated statements of income and condensed consolidated statements of comprehensive income (loss). 
+ 
+ Certain Non-GAAP Financial Measures 
+ 
+ We believe that, in addition to our financial results determined in accordance with GAAP, non-GAAP operating income (loss) and non-GAAP operating margin are useful in evaluating our business, results of operations, and financial condition. 
+
+42
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+Non-GAAP Operating Income and Non-GAAP Operating Margin 
+ 
+ Non-GAAP operating income and non-GAAP operating margin are non-GAAP financial measures that our management uses to assess our overall performance. We define non-GAAP operating income as GAAP operating income (loss) plus stock-based compensation and the amortization of acquired intangible assets. We define non-GAAP operating margin as non-GAAP operating income divided by revenue. We believe non-GAAP operating income and non-GAAP operating margin provide our management and investors consistency and comparability with our past financial performance and facilitate period-to-period comparisons of operations, as these metrics eliminate the effects of stock-based compensation which has had historical volatility from period to period due to marked-to-market securities, and of acquired intangible assets, which are unrelated to current operations and are neither comparable to the prior period nor predictive of future results. We believe the elimination of the effect of variability caused by stock-based compensation expense and the amortization of acquired assets, both of which are non-cash expenses, provides a better representation as to the overall operating performance of the Company. We use non-GAAP financial measures (a) to evaluate our historical and prospective financial performance and trends as well as our performance relative to our peers, (b) to set and approve spending budgets, (c) to allocate resources, (d) to measure operational profitability and the accuracy of forecasting, and (e) to assess financial discipline over operational expenditures. 
+ 
+ Non-GAAP operating income and non-GAAP operating margin should not be considered as an alternative to operating income, operating margin or any other performance measures derived in accordance with GAAP as measures of performance. Non-GAAP operating income and non-GAAP operating margin should not be considered in isolation or as a substitute for analysis of our results as reported under GAAP. 
+ 
+ The following table presents a reconciliation of (i) non-GAAP operating income from the most comparable GAAP measure, operating income, and (ii) non-GAAP operating margin from the most comparable GAAP measure, operating margin, for the periods presented: 
+
+Three Months Ended 
+
+Nine Months Ended 
+
+September 30, 
+
+September 30, 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+(in thousands, except percentages) 
+
+GAAP operating income (loss) 
+
+7,652 
+
+(313) 
+
+2,313 
+
+(16,229) 
+
+GAAP operating margin 
+
+8.6 
+
+(0.4) 
+
+1.0 
+
+(8.2) 
+
+Add: 
+
+Stock-based compensation 
+
+9,811 
+
+9,285 
+
+29,807 
+
+26,975 
+
+Amortization of acquired intangible assets 
+
+362 
+
+353 
+
+1,064 
+
+1,106 
+
+Non-GAAP operating income 
+
+17,825 
+
+9,325 
+
+33,184 
+
+11,852 
+
+Non-GAAP operating margin 
+
+20.1 
+
+12.8 
+
+13.8 
+
+6.0 
+
+Liquidity and Capital Resources 
+ 
+ As of September 30, 2024, we had 249.8 million in cash and cash equivalents and 0.2 million in short-term investments. 
+ 
+ Our short-term liquidity needs primarily include working capital for sales and marketing, research and development, and continued innovation. In addition, we extended a credit facility with a remaining commitment of 2.5 million, and committed 50.0 million to a growth equity fund. We also have letters of credit issued in the amount of 0.8 million as security for operating leases, and 3.7 million as security for customer contingency agreements. Our long-term capital requirements will depend on many factors, including our growth rate, levels of revenue, the expansion of sales and marketing activities, market acceptance of our platform, the results of business initiatives, and the timing of new product introductions. 
+
+43
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+We currently maintain a loan and security agreement (the Loan Agreement ), dated as of November 3, 2023, with HSBC Bank USA, National Association, HSBC as lender, for a revolving line of credit of up to 30.0 million with an accordion feature that provides up to 20.0 million of additional borrowing capacity we may to draw upon at our request. The line currently bears interest at a rate equal to term SOFR plus 3.0 to 3.3 depending on the Consolidated Total Leverage Ratio (as defined in the Loan Agreement). The line carries an unused fee at a rate equal to 0.5 . The line will mature on November 3, 2026. We are required to maintain a minimum Consolidated Fixed Charge Coverage Ratio (as defined in the Loan Agreement) as well as a maximum Consolidated Total Leverage Ratio, tested by HSBC each quarter. We pledged, assigned, and granted HSBC a security interest in all shares of our subsidiaries, future proceeds and assets (except for excluded assets, including material intellectual property) as a security for the performance of the loan and security agreement obligations. 
+ 
+ We believe that our existing cash, cash equivalents and short-term investments, our cash flows from operating activities, and our borrowing capacity under our credit facility with HSBC are sufficient to meet our working capital and capital expenditure needs for at least the next twelve months. In the future, we may attempt to raise additional capital through the sale of additional equity or debt financing. The sale of additional equity would be dilutive to our stockholders. Additional debt financing could result in increased debt service obligations and more restrictive financial and operational covenants. 
+ 
+ Cash Flows 
+ 
+ The following table sets forth a summary of AvePoint s cash flows for the periods indicated. 
+
+Nine Months Ended 
+
+September 30, 
+
+2024 
+
+2023 
+
+(in thousands) 
+
+Net cash provided by operating activities 
+
+56,134 
+
+13,284 
+
+Net cash used in investing activities 
+
+(1,369) 
+
+(4,224) 
+
+Net cash used in financing activities 
+
+(28,218) 
+
+(29,809) 
+
+Operating Activities 
+ 
+ Net cash provided by operating activities for the nine months ended September 30, 2024 was 56.1 million, reflecting AvePoint s net loss of 12.0 million, adjusted for non-cash items of 51.5 million and net cash inflows of 16.6 million from changes in its operating assets and liabilities. The primary drivers of non-cash items were stock-based compensation which reflects ongoing compensation and an increase in the mark to market value of earn-out and warranty liabilities. The drivers of changes in operating assets and liabilities are seasonal in nature. These drivers are related to a decrease in accounts receivable due primarily to the timing of customer invoices and an increase in prepaid expenses and other current assets primarily related to prepaid software maintenance and subscription, an increase in deferred revenue and an increase in accrued expenses primarily due to income tax payable. 
+ 
+ Net cash provided by operating activities for the nine months ended September 30, 2023 was 13.3 million, reflecting AvePoint s net loss of 25.9 million, adjusted for non-cash items of 43.9 million and net cash outflows of 4.7 million from changes in its operating assets and liabilities. The primary drivers of non-cash items were stock-based compensation which reflects ongoing compensation and an increase in the mark to market value of earn-out and warranty liabilities. The drivers of changes in operating assets and liabilities are seasonal in nature. These drivers are related to a decrease in accounts receivable due primarily to timing of customer invoices and decrease in prepaid expenses and other current assets primarily related to prepaid insurance, an increase in deferred revenue and a decrease in accrued expenses primarily due to accrued bonuses, commissions and VAT/sales tax payable. 
+ 
+ Investing Activities 
+ 
+ Net cash used in investing activities for the nine months ended September 30, 2024 was 1.4 million. It primarily consisted of 2.3 million of purchases of property and equipment, 1.9 million of purchases of short-term investments, 1.5 million investment in notes, and 0.9 million from the capitalization of internal use software, offset by 5.4 million from the maturity of short-term investments. 
+ 
+ Net cash used in investing activities for the nine months ended September 30, 2023 was 4.2 million. It primarily consisted of 2.1 million of purchases of short-term investments, 1.5 million of purchases of property and equipment, and 1.0 million from the capitalization of internal use software, partially offset by 1.3 million from the maturity of short-term investments. 
+
+44
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+Financing Activities 
+ 
+ Net cash used in financing activities for the nine months ended September 30, 2024 was 28.2 million, primarily consisting of 21.7 million in repurchases of common stock under the previously announced Share Repurchase Program that authorizes us to repurchase up to 150 million of our common shares (the Share Repurchase Program ), 6.1 million in the redemption of the redeemable noncontrolling interest of MaivenPoint, and 4.0 million in the purchase of our public warrants, partially offset by 3.6 million of proceeds from the exercise of stock options. 
+ 
+ Net cash used in financing activities for the nine months ended September 30, 2023 was 29.8 million, primarily consisting of 33.6 million in repurchases of common stock under the Share Repurchase Program, partially offset by 3.9 million of proceeds from the exercise of stock options. 
+ 
+ Indebtedness 
+ 
+ Credit Facility 
+ 
+ We maintain a line of credit under Loan Agreement with HSBC, as the lender. See Note 6 - Line of Credit in Part I, Item 1 Financial Statements of this Quarterly Report on Form 10-Q. 
+
+The Loan Agreement provides for a revolving line of credit of up to 30.0 million and an additional 20.0 million accordion feature for additional capital we may draw upon at our request. Borrowings under the line currently bear interest at a rate equal to term SOFR plus 3.0 to 3.3 depending on the Consolidated Total Leverage Ratio (as defined in the Loan Agreement). The line carries an unused fee at a rate equal to 0.5 . Any proceeds of borrowings under the Loan Agreement will be used for general corporate purposes. 
+ 
+ On a consolidated basis with our subsidiaries, we are required to maintain a minimum Consolidated Fixed Charge Coverage Ratio as well as a maximum Consolidated Total Leverage Ratio, tested by HSBC each quarter. Pursuant to the Loan Agreement, we pledged, assigned, and granted HSBC a security interest in all shares of our subsidiaries, future proceeds, and certain assets as security for our obligations under the Loan Agreement. Our line of credit under the Loan Agreement will mature on November 3, 2026. 
+ 
+ To date, we are in compliance with all covenants under the Loan Agreement. We have not at any time borrowed under the Loan Agreement. The description of the Loan Agreement is qualified in its entirety by the full text of the form of such agreement, a copy of which is referenced as an exhibit to our Annual Report. 
+
+Leasing Activities 
+ 
+ We are obligated under various non-cancelable operating leases for office space. The initial terms of the leases expire on various dates through 2030. As of September 30, 2024, the commitments related to these operating leases is 16.3 million, of which 6.3 million is due in the next twelve months. 
+ 
+ Operating Segment Information 
+ 
+ We operate in one segment. Our products and services are sold throughout the world, through direct and indirect sales channels. Our chief operating decision maker (the CODM is our Chief Executive Officer. The CODM makes operating performance assessment and resource allocation decisions on a global basis. The CODM does not receive discrete financial information about asset allocation or profitability by product or geography. See the section titled Notes to Condensed Consolidated Financial Statements (Part I, Item 1 of this Quarterly Report) under the sub-heading Note 15 Segment Information for more information. 
+
+45
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+Critical Accounting Policies and Estimates 
+ 
+ Preparation of these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets and liabilities and the disclosure of contingent assets and liabilities. We also make estimates and assumptions on the reported revenue generated and reported expenses incurred during the reporting periods. Our estimates are based on our historical experience and on various other factors that our management believes are reasonable under the circumstances. The results of these estimates form the basis for making judgments about the carrying value of assets and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates. 
+ 
+ While our significant accounting policies are described in more detail in the section titled Notes to Condensed Consolidated Financial Statements (Part I, Item 1 of this Quarterly Report), we believe the following critical accounting policies and estimates are most important to understanding and evaluating our reported financial results. 
+ 
+ Revenue Recognition 
+ 
+ We derive revenue from four primary sources: SaaS, term license and support, services, and maintenance. Many of our contracts with customers include multiple performance obligations. Judgement is required in determining whether each performance obligation is distinct. Our products and services generally do not require a significant amount of integration or interdependency; therefore, our products and services are generally not combined. We allocate the transaction price for each contract to each performance obligation based on the relative standalone selling price SSP for each performance obligation within each contract. 
+ 
+ We use judgment in determining the SSP for products and services. For substantially all performance obligations except term licenses, we are able to establish the SSP based on the observable prices of products or services sold separately in comparable circumstances to similar customers. We typically establish an SSP range for our products and services which is reassessed on a periodic basis or when facts and circumstances change. Term licenses are sold only as a bundled arrangement that includes the rights to a term license and support. In determining the SSP of license and support in a term license arrangement, we utilize observable inputs and consider the value relationship between support and term license when compared to the value relationship between support and perpetual licenses, the average economic life of our products, and software renewals rates. Using a combination of the relative fair value method, or the residual value method the SSP of the performance obligations in an arrangement is allocated to each performance obligation within a sales arrangement. 
+
+Company Earn-Out Shares 
+
+In evaluation of the Company Earn-Out Shares and Company Earn-Out RSUs, management determined that the Company Earn-Out Shares represent derivatives to be marked to market at each reporting period, while the Company Earn-Out RSUs represent equity under ASC 718. Refer to
+ Note 13 
+ Stock-Based Compensation for more information regarding the Company Earn-Out RSUs.
+
+In order to capture the market conditions associated with the Company Earn-Out Shares, the Company applied an approach that incorporated a Monte Carlo simulation, which involved random iterations that took different future price paths over the Sponsor Earn-Out Shares contractual life based on the appropriate probability distributions. The fair value was determined by taking the average of the fair values under each Monte Carlo simulation trial. The Monte Carlo model requires highly subjective assumptions including the expected volatility of the price of our common stock, and the expected term of the earn-out shares.
+
+46
+
+Table of Contents 
+
+Part I
+
+Item 2
+
+Economic Conditions, Challenges, and Risks 
+ 
+ The markets for software and cloud-based services are dynamic and highly competitive. Our competitors are developing new software while also deploying competing cloud-based services for consumers and businesses. Customer preferences evolve rapidly, and choices in hardware, products, and devices can and do influence how users access services in the cloud, and in some cases, the user s choice of which suite of cloud-based services to use. We must continue to evolve and adapt to keep pace with this changing environment. The investments we are making in infrastructure, research and development, marketing, and geographic expansion will continue to increase our operating costs and may decrease our operating margins. 
+ 
+ Our success is highly dependent on our ability to attract and retain qualified employees. We hire a mix of university and industry talent worldwide. We compete for talented individuals globally by offering an exceptional working environment, broad customer reach, scale in resources, the ability to grow one s career across many different products and businesses, and competitive compensation and benefits. 
+ 
+ Additionally, demand for our software and service is correlated to global macroeconomic and geopolitical factors, which remain dynamic and currently include multiple ongoing conflicts where the outcomes and consequences are not possible to predict, but could include regional instability and geopolitical shifts, and could materially adversely affect global trade, currency exchange rates, regional economies and the global economy. These in turn could increase our costs, disrupt our supply chain, reduce our sales and earnings, impair our ability to raise additional capital when needed on acceptable terms, if at all, or otherwise adversely affect our business, financial condition, and results of operations. 
+ 
+ Our international operations provide a significant portion of our total revenues and expenses. Many of these revenues and expenses are denominated in currencies other than the U.S. dollar. As a result, changes in foreign exchange rates may significantly affect revenue and expenses. Refer to the section titled Risk Factors (Part I, Item 1A of our Annual Report) for a discussion of these factors and other risks. 
+ 
+ Seasonality 
+ 
+ Our quarterly revenue fluctuates and does not necessarily grow sequentially when measuring any one fiscal quarter s revenue with another (e.g. comparing the fourth fiscal quarter of fiscal year 2023 with the first fiscal quarter of fiscal year 2024). Historically, our third and fourth quarters have been our highest revenue quarters, however those results are not necessarily indicative of future quarterly revenue or full year results. Higher third and fourth quarter revenue is driven primarily by increased sales resulting from our customers fiscal year ends. Additionally, new product and service introductions (including the timing of those introductions) can significantly impact revenue. Revenue can also be affected when customers anticipate a product introduction. Our operating expenses have generally increased sequentially due to increases in personnel in connection with the expansion of our business. 
+
+Recently Issued and Adopted Accounting Pronouncements 
+ 
+ For information about recent accounting pronouncements, see Note 2 - Summary of Significant Accounting Policies in Part I, Item 1 Financial Statements of this Quarterly Report on Form 10-Q. 
+
+47
+
+Table of Contents 
+
+Part I 
+ Item 3 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risks 
+ 
+ We are exposed to potential economic risk from interest rates, foreign exchange rates, and our concentration of credit. We continued to evaluate our exposure to market risks during the nine months ended September 30, 2024, and have determined that there have been no material changes to our exposure to market risks from those described in our Annual Report. However, we have provided the following information to supplement or update our disclosures in our Annual Report. 
+ 
+ Interest Rate Risk 
+ 
+ As of September 30, 2024, we had cash and cash equivalents, marketable securities, and short-term deposits of 250.0 million, which we hold for working capital purposes. Our cash and cash equivalents are held in cash deposits and money market funds. Due to the short-term nature of these instruments, we believe that it does not have any material exposure to changes in the fair value of our investment portfolio due to changes in interest rates. Declines in interest rates, however, would reduce our future interest income. The effect of a hypothetical 10 change in interest rates would not have a material negative impact on our condensed consolidated financial statements. To the extent we enter into other long-term debt arrangements in the future, we would be subject to fluctuations in interest rates which could have a material impact on our future financial condition and results of operation. 
+ 
+ Foreign Currency Exchange Risk 
+ 
+ Fluctuations in foreign currencies impact the amount of total assets and liabilities that we report for our foreign subsidiaries upon the translation of these amounts into U.S. Dollars. In particular, the amount of cash, cash equivalents and marketable securities that we report in U.S. Dollars for a significant portion of the cash held by these subsidiaries is subject to translation variance caused by changes in foreign currency exchange rates as of the end of each respective reporting period, the offset to which is substantially recorded to accumulated other comprehensive income on our condensed consolidated balance sheets and is also presented as a line item in its condensed consolidated statements of comprehensive income (loss). We believe we are in large part naturally hedged against foreign currency exchange risk from our ongoing business operations, as most of our regional revenues are generated in the same currency as that region s expenses are paid. 
+ 
+ Concentration of Credit Risk 
+ 
+ We deposit our cash with financial institutions, and, at times, such balances may exceed federally insured limits. 
+
+48
+
+Table of Contents 
+
+Part I 
+ Item 4 
+ 
+ Item 4. Controls and Procedures 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ 
+ Under the supervision and with the participation of our management, including our Chief Executive Officer (in his capacity as Principal Executive Officer and our Chief Financial Officer (in his capacity as Principal Financial and Accounting Officer ), we conducted an evaluation of the effectiveness of our disclosure controls and procedures (as defined in Rule 13a-15(e) and Rule 15d-15(e)) under the Exchange Act, as of the end of the period covered by this report. Based upon that evaluation, our Principal Executive Officer and Principal Financial and Accounting Officer concluded that our disclosure controls and procedures were not effective as of September 30, 2024, due to the material weakness described below. 
+ 
+ Notwithstanding such material weakness in internal control over financial reporting, our Principal Executive Officer and Principal Financial and Accounting Officer have concluded that our condensed consolidated financial statements included in this report present fairly, in all material respects, our financial position, results of operations, and cash flows for the periods presented in conformity with U.S. generally accepted accounting principles GAAP ). 
+ 
+ Previously Disclosed Material Weakness 
+ 
+ Our management is responsible for establishing and maintaining effective internal control over financial reporting, as such term is defined in Rule 13a-15(f) under the Securities Exchange Act of 1934. As reported in our Annual Report, we did not maintain effective internal control as of December 31, 2023, as a result of a material weakness in our internal control over financial reporting for accuracy and completeness of information used. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of the Company s annual or interim financial statements will not be prevented or detected on a timely basis. Refer to our Annual Report for a description of our material weakness. 
+ 
+ 2024 Remediation Plan 
+ 
+ Our material weakness was not remediated as of September 30, 2024. Our management has been and continues to be committed to remediating this material weakness and has identified and implemented several steps to enhance our internal controls over financial reporting. We have implemented a remediation plan (the 2024 Remediation Plan ), which includes actions not limited to: 
+
+enhance the design of controls that address the accuracy and completeness of reports being utilized in the execution of internal controls; and 
+
+establishing additional training to address the accuracy and completeness of data used controls and the level of documentation required to evidence control activities. 
+
+We have implemented documented policies and procedures for, and are in the process of testing the implementation and operating effectiveness of, the newly designed controls. The material weakness in our internal control over financial reporting will not be considered remediated until the newly designed controls operate for a sufficient period of time, and management has concluded, through testing, that these controls are designed and operating effectively. In addition, we may discover additional material weaknesses that require additional time and resources to remediate, and we may decide to take additional measures to address the material weaknesses or modify the remediation steps described above. 
+ 
+ Changes in Internal Control Over Financial Reporting 
+ 
+ Other than described above, there have been no changes in our internal control over financial reporting during the quarter ended September 30, 2024, that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+
+49
+
+Table of Contents 
+
+Part II 
+ Items 1 and 1A 
+ 
+ PART II. OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings 
+ 
+ As part of the business combination with Apex Technology Acquisition Corporation, Inc. Apex ), we assumed certain indemnification obligations for Apex Technology Sponsor LLC and Jeff Epstein, Brad Koenig, David Chao, Peter Bell, Donna Wells, and Alex Vieux (the Indemnitees or Defendants ). On February 2, 2024, Drulias and Farzad (as purported Apex stockholders, the Plaintiffs filed a class action complaint against the Indemnities in Delaware Court of Chancery, captioned Dean William Drulias, et.al. v. Apex Technology Sponsor LLC, et.al., C.A. No. 2024-0094-LWW. Plaintiffs asserted breach of fiduciary duty and unjust enrichment claims against the Defendants. The complaint alleged that Defendants made false and misleading disclosures in the June 2, 2021 proxy statement of Apex impacting its stockholders vote to approve a merger between Apex and us and also affecting stockholders redemption rights prior to the merger. Plaintiffs sought unspecified damages, rescission or rescissory damages, and disgorgement of unjust enrichment. We were not a named defendant in the complaint but had indemnification obligations to the Defendants under indemnification agreements executed during the merger. Also, in accordance with the business combination agreement, the Defendants obtained insurance policies to cover post-closing liability, with Apex securing a policy with a limit of 10 million and the sponsors obtaining a policy with a 3 million limit. The parties participated in a mediation in October and agreed to settlement terms. Pursuant to a signed letter of intent and a forthcoming settlement agreement, releasing us and the Defendants and settling the class action, we will contribute 1.4 million toward the full settlement amount of 14.4 million. The remaining 13 million will be paid pursuant to the two aforementioned insurance policies covering the Defendants and sponsor. As of September 30, 2024, an estimated accrual of 1.4 million was included in the accrued expenses and other current liabilities within the condensed consolidated balance sheets. 
+ 
+ In the normal course of our business, we may be involved in various claims, negotiations, and legal actions. Except for such claims that arise in the normal course of business, as of and for the fiscal quarter ended September 30, 2024, we are not a party to any material asserted, ongoing, threatened, or pending claims, suits, assessments, proceedings, or other litigation for which a material claim is reasonably possible, probable, or estimable. 
+ 
+ Refer to the information under the section titled Risk Factors of our Annual Report (Part I, Item 1A of our Annual Report) for information regarding the potential legal and regulatory risks (including potential legal proceedings and litigation) in which we may become involved. 
+ 
+ Item 1A. Risk Factors 
+ 
+ Our operations and financial results are subject to various risks and uncertainties, including those described in Part I, Item 1A, Risk Factors in our Annual Report, which risks and uncertainties could affect our business, financial condition, results of operations, cash flows, and the trading price of our common stock. There have been no material changes to the risk factors previously disclosed in our Annual Report. We urge you to read the risk factors in our Annual Report. 
+
+50
+
+Table of Contents 
+
+Part II 
+ Items 2, 3 and 4 
+ 
+ ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES, USE OF PROCEEDS, AND ISSUER PURCHASES OF EQUITY SECURITIES 
+ 
+ During the quarter ended September 30, 2024, we did not issue any shares of our common stock or any other equity securities without registration under the Securities Act of 1933, as amended. 
+ 
+ Issuer Purchases of Equity Securities. 
+ 
+ On March 17, 2022, we announced that our Board of Directors authorized the Share Repurchase Program for us to buy back shares of our common stock. Under the Share Repurchase Program, we have the authority to buy up to 150 million of our common stock shares via acquisitions in the open market or privately negotiated transactions. The Share Repurchase Program will remain open for a period of three years from the date of authorization. Purchases made pursuant to the Share Repurchase Program may be conducted in compliance with Exchange Act Rule 10b-18 and/or Exchange Act Rule 10b5-1. Purchases made pursuant to the Share Repurchase Program will be conducted in compliance with all applicable legal, regulatory, and internal policy requirements, including our Insider Trading Policy. We are not obligated to make purchases of, nor are we obligated to acquire any particular amount of, our common stock under the Share Repurchase Program. The Share Repurchase Program may be suspended or discontinued at any time. 
+ 
+ The following table presents information with respect to common stock shares repurchased under the Share Repurchase Program during the three months ended September 30, 2024: 
+
+Period 
+ Total number of shares purchased (1) 
+ Average price paid per share (2) 
+ Total number of shares purchased as part of the Share Repurchase Program 
+ Approximate dollar value of shares that may yet be purchased under the Share Repurchase Program (3) 
+
+July 1, 2024 - July 31, 2024 
+ 2,696 
+ 10.2964 
+ 2,696 
+ 71,857,416 
+
+August 1, 2024 - August 31, 2024 
+ 13,064 
+ 10.4160 
+ 13,064 
+ 71,721,341 
+
+September 1, 2024 - September 30, 2024 
+ 202,786 
+ 11.7813 
+ 202,786 
+ 69,332,259 
+
+(1) All shares reported herein were purchased pursuant to the publicly announced Share Repurchase Program. 
+ (2) Average price paid per share includes costs associated with the repurchases and excludes the 1 excise tax on stock repurchases enacted by the Inflation Reduction Act of 2022. 
+ (3) The maximum remaining dollar value of shares that may yet be purchased under the Share Repurchase Program is reduced by the aggregate price paid for share purchases in addition to any fees, commissions, or other costs that may arise as a result of the purchase. 
+ 
+ ITEM 3. DEFAULTS UPON SENIOR SECURITIES 
+ 
+ None. 
+ 
+ ITEM 4. MINE SAFETY DISCLOSURES 
+ 
+ Not applicable. 
+
+51
+
+Table of Contents 
+
+Part II 
+ Item 5 
+
+ITEM 5. OTHER INFORMATION 
+ 
+ During the quarter ended September 30, 2024, no director or officer of the Company adopted or terminated a Rule 10b5 - 1 trading arrangement or non-Rule 10b5 - 1 trading arrangement, as each term is defined in Item 408 (a) of Regulation S-k. 
+
+52
+
+Table of Contents 
+
+Part II 
+ Item 6 
+ 
+ Item 6. Exhibits 
+ 
+ The following exhibits are filed as part of, furnished with, or incorporated by reference into, this Quarterly Report on Form 10-Q, in each case as indicated therein. 
+ 
+ Exhibit Index 
+
+Incorporated by Reference 
+
+Exhibit Number 
+ 
+ Description 
+ 
+ Schedule/ Form 
+ 
+ File No. 
+ 
+ Exhibit 
+ 
+ Filing Date 
+ 
+ Filed Herewith 
+
+31.1 
+
+Certification of Principal Executive Officer pursuant to Securities Exchange Act Rules 13a-14(a) and 15(d)-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+X 
+
+31.2 
+ 
+ Certification of Principal Financial Officer pursuant to Securities Exchange Act Rules 13a-14(a) and 15(d)-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+X 
+
+32.1 
+ 
+ Certification of Principal Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+X 
+
+32.2 
+ 
+ Certification of Principal Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+X 
+
+101.INS 
+ 
+ Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 
+
+X 
+
+101.SCH 
+ 
+ Inline XBRL Taxonomy Extension Schema Document. 
+
+X 
+
+101.CAL 
+ 
+ Inline XBRL Taxonomy Extension Calculation Linkbase Document. 
+
+X 
+
+101.DEF 
+ 
+ Inline XBRL Taxonomy Extension Definition Linkbase Document. 
+
+X 
+
+101.LAB 
+ 
+ Inline XBRL Taxonomy Extension Labels Linkbase Document. 
+
+X 
+
+101.PRE 
+ 
+ Inline XBRL Taxonomy Extension Presentation Linkbase Document. 
+
+X 
+
+104.1 
+ 
+ Cover Page Interactive Data File (Embedded within the Inline XBRL document and included in Exhibit 101). 
+
+X 
+
+Furnished herewith. Any exhibit furnished herewith (including the certifications furnished in Exhibit 32.1 and Exhibit 32.2 hereto) are deemed to accompany this Quarterly Report on Form 10-Q and will not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, except to the extent that the Registrant specifically incorporates it by reference. 
+
+53
+
+Table of Contents 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+
+AVEPOINT, INC. 
+
+Date: November 7, 2024 
+ /s/ Tianyi Jiang 
+
+Name: 
+ Tianyi Jiang 
+
+Title: 
+ Chief Executive Officer (Principal Executive Officer) 
+
+Date: November 7, 2024 
+ /s/ James Caci 
+
+Name: 
+ James Caci 
+
+Title: 
+ Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+54
+
+<EX-31.1>
+ 2
+ ex_721482.htm
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER PURSUANT TO SECURITIES EXCHANGE ACT RULES 13A-14(A) AND 15(D)-14(A), AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002.
+
+ex_721482.htm 
+
+Exhibit 31.1 
+
+CERTIFICATIONS 
+
+I, Tianyi Jiang, certify that: 
+
+1. 
+
+I have reviewed this Quarterly Report on Form 10-Q of AvePoint, Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Securities Exchange Act of 1934, as amended, ("Exchange Act") Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+
+Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 7, 2024 
+
+By: 
+
+/s/ Tianyi Jiang 
+
+Tianyi Jiang 
+
+			 Chief Executive Officer 
+
+			 (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex_721483.htm
+ CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER PURSUANT TO SECURITIES EXCHANGE ACT RULES 13A-14(A) AND 15(D)-14(A), AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002.
+
+ex_721483.htm 
+
+Exhibit 31.2 
+
+CERTIFICATIONS 
+
+I, James Caci, certify that: 
+
+1. 
+
+I have reviewed this Quarterly Report on Form 10-Q of AvePoint, Inc.; 
+
+2. 
+
+Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+
+3. 
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+
+4. 
+
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Securities Exchange Act of 1934, as amended, ("Exchange Act") Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) 
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+
+b) 
+			 
+			 Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+
+c) 
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+
+d) 
+
+Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. 
+
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+
+(a) 
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+
+(b) 
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 7, 2024 
+
+By: 
+
+/s/ James Caci 
+
+James Caci 
+
+			 Chief Financial Officer 
+
+			 (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex_721484.htm
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002.
+
+ex_721484.htm 
+
+Exhibit 32.1 
+
+CERTIFICATION OF THE CHIEF EXECUTIVE OFFICER 
+
+ PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+Pursuant to the requirement set forth in Rule 13a-14(b) of the Securities Exchange Act of 1934, as amended, (the Exchange Act and Section 1350 of Chapter 63 of Title 18 of the United States Code (18 U.S.C. 1350), Tianyi Jiang, Chief Executive Officer of AvePoint, Inc. (the Company hereby certifies that, to the best of his knowledge: 
+
+1. 
+			 
+			 The Company s Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024 (the Report fully complies with the requirements of Section 13(a) or 15(d) of the Exchange Act; and 
+
+2. 
+			 
+			 The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company as of and for the period covered by the Report. 
+
+Date: November 7, 2024 
+
+By: 
+
+/s/ Tianyi Jiang 
+
+Tianyi Jiang 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex_721485.htm
+ CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002.
+
+ex_721485.htm 
+
+Exhibit 32.2 
+
+CERTIFICATION OF THE CHIEF FINANCIAL OFFICER 
+
+ PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+Pursuant to the requirement set forth in Rule 13a-14(b) of the Securities Exchange Act of 1934, as amended, (the Exchange Act and Section 1350 of Chapter 63 of Title 18 of the United States Code (18 U.S.C. 1350), James Caci, Chief Financial Officer of AvePoint, Inc. (the Company hereby certifies that, to the best of his knowledge: 
+
+1. 
+			 
+			 The Company s Quarterly Report on Form 10-Q for the quarterly period ended September 30, 2024 (the Report fully complies with the requirements of Section 13(a) or 15(d) of the Exchange Act; and 
+
+2. 
+
+The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company as of and for the period covered by the Report. 
+
+Date: November 7, 2024 
+
+By: 
+
+/s/ James Caci 
+
+James Caci 
+
+Chief Financial Officer 
+
+(Principal Financial and Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ avpt-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ avpt-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ avpt-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ avpt-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ avpt-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE
+
+</EX-101.PRE>
+

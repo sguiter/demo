@@ -1,0 +1,855 @@
+<Header>
+<FileStats>
+    <FileName>20241107_10-Q_edgar_data_1288847_0001288847-24-000153.txt</FileName>
+    <GrossFileSize>9878678</GrossFileSize>
+    <NetFileSize>141660</NetFileSize>
+    <NonText_DocumentType_Chars>1607921</NonText_DocumentType_Chars>
+    <HTML_Chars>3681474</HTML_Chars>
+    <XBRL_Chars>2306042</XBRL_Chars>
+    <XML_Chars>1927694</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001288847-24-000153.hdr.sgml : 20241107
+<ACCEPTANCE-DATETIME>20241107161527
+ACCESSION NUMBER:		0001288847-24-000153
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		93
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241107
+DATE AS OF CHANGE:		20241107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Five9, Inc.
+		CENTRAL INDEX KEY:			0001288847
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				943394123
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36383
+		FILM NUMBER:		241435961
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3001 BISHOP DRIVE
+		STREET 2:		SUITE 350
+		CITY:			SAN RAMON
+		STATE:			CA
+		ZIP:			94583
+		BUSINESS PHONE:		9252012000
+
+	MAIL ADDRESS:	
+		STREET 1:		3001 BISHOP DRIVE
+		STREET 2:		SUITE 350
+		CITY:			SAN RAMON
+		STATE:			CA
+		ZIP:			94583
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Five 9 Inc
+		DATE OF NAME CHANGE:	20040428
+
+</SEC-Header>
+</Header>
+
+ 0001288847-24-000153.txt : 20241107
+
+10-Q
+ 1
+ fivn-20240930.htm
+ 10-Q
+
+fivn-20240930 
+ 
+ Table of Contents 
+
+ UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ (Mark One) QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission File Number: 
+ 
+ (Exact Name of Registrant as Specified in Its Charter) 
+ (State or Other Jurisdiction of 
+ Incorporation or Organization) 
+ (I.R.S. Employer 
+ Identification No.) 
+
+, 
+ , 
+ (Address of Principal Executive Offices) (Zip Code) 
+ ) 
+ (Registrant s Telephone Number, Including Area Code) 
+ _______________________________ 
+ Securities registered pursuant to Section 12(b) of the Act: Title of Each Class Trading Symbol(s) Name of Each Exchange on Which Registered 
+ 
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. : No: 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). : No: 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definitions of large accelerated filer, accelerated filer , smaller reporting company , and emerging growth company in Rule 12b-2 of the Exchange Act. Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. Yes: No: 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes: No: 
+ As of November 4, 2024, there were shares of the Registrant s common stock, par value 0.001 per share, outstanding. 
+
+Table of Contents 
+
+ FIVE9, INC. 
+ FORM 10-Q 
+ TABLE OF CONTENTS SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ 2 
+ PART I. FINANCIAL INFORMATION 
+ ITEM 1. Financial Statements 
+ 4 
+ Condensed Consolidated Balance Sheets (Unaudited) 
+ 4 
+ Condensed Consolidated Statements of Operations and Comprehensive Loss (Unaudited) 
+ 5 
+ Condensed Consolidated Statements of Stockholder s Equity (Unaudited) 
+ 6 
+ Condensed Consolidated Statements of Cash Flows (Unaudited) 
+ 9 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+ 10 
+ ITEM 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 32 
+ Overview 
+ 32 
+ Key Operating and Non-GAAP Financial Performance Metrics 
+ 33 
+ Key Components of Our Results of Operations 
+ 35 
+ Results of Operations for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 36 
+ Liquidity and Capital Resources 
+ 39 
+ Critical Accounting Policies and Estimates 
+ 41 
+ Recent Accounting Pronouncements 
+ 42 
+ Contractual and Other Obligations 
+ 42 
+ ITEM 3. Quantitative and Qualitative Disclosure about Market Risk 
+ 44 
+ ITEM 4. Controls and Procedures 
+ 45 
+ PART II. OTHER INFORMATION 
+ ITEM 1. Legal Proceedings 
+ 46 
+ ITEM 1A. Risk Factors 
+ 46 
+ ITEM 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 47 
+ ITEM 3. Defaults Upon Senior Securities 
+ 48 
+ ITEM 4. Mine Safety Disclosures 
+ 48 
+ ITEM 5. Other Information 
+ 48 
+ ITEM 6. Exhibits 
+ 49 
+ SIGNATURES 
+ 50 
+
+1 
+
+Table of Contents 
+
+ SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ 
+ This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, which involve substantial risks and uncertainties. These statements reflect the current views of our senior management with respect to our future events, strategies and financial trends and performance. These forward-looking statements include statements with respect to our business, expenses, strategies, losses, growth plans, product and client initiatives, market growth projections, and our industry. Statements that include the words expect, intend, plan, believe, project, forecast, estimate, may, should, anticipate and similar statements of a future or forward-looking nature identify forward-looking statements for purposes of the federal securities laws or otherwise. 
+ Forward-looking statements address matters that involve risks and uncertainties. Accordingly, there are or will be important factors that could cause our actual results to differ materially from those indicated in these statements. These factors include the information under the caption "Risk Factors" set forth in Part 1, Item 1A, of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 and Part II, Item 1A, of this Quarterly Report, which we encourage you to carefully read, and include the following: 
+ adverse economic conditions, including the impact of macroeconomic challenges, including continued inflation, increased interest rates, supply chain disruptions, decreased economic output and fluctuations in currency rates, the impact of the Russia-Ukraine conflict, the impact of the conflict in the Middle East, and other factors, may continue to harm our business; 
+ if we are unable to attract new clients or sell additional services and functionality to our existing clients, our revenue and revenue growth will be harmed; 
+ if our existing clients terminate their subscriptions or reduce their subscriptions and related usage, or fail to grow subscriptions at the rate they have in the past or that we might expect, our revenues and gross margins will be harmed, and we will be required to spend more money to grow our client base; 
+ because a significant percentage of our revenue is derived from existing clients, downturns or upturns in new sales will not be immediately reflected in our operating results and may be difficult to discern; 
+ if we fail to manage our technical operations infrastructure, our existing clients may experience service outages, our new clients may experience delays in the deployment of our solution and we could be subject to, among other things, claims for credits or damages; 
+ further development of our AI solutions may not be successful and may result in reputational harm and our future operating results could be materially harmed; 
+ we have established, and are continuing to increase, our network of technology solution distributors and resellers to sell our solution; our failure to effectively develop, manage, and maintain this network could materially harm our revenues; 
+ our quarterly and annual results may fluctuate significantly, including as a result of the timing and success of new product and feature introductions by us, may not fully reflect the underlying performance of our business and may result in decreases in the price of our common stock; 
+ if we are unable to attract and retain highly skilled leaders and other employees, our business and results of operations may be adversely affected; 
+ our historical growth may not be indicative of our future growth, and even if we continue to grow rapidly, we may fail to manage our growth effectively; 
+ failure to adequately retain and expand our sales force will impede our growth; 
+ the AI technology and features incorporated into our solution include new and evolving technologies that may present both legal and business risks; 
+ the use of AI by our workforce may present risks to our business; 
+ the contact center software solutions market is subject to rapid technological change, and we must develop and sell incremental and new solutions in order to maintain and grow our business; 
+ our growth depends in part on the success of our strategic relationships with third parties and our failure to successfully maintain, grow and manage these relationships could harm our business; 
+ the markets in which we participate involve a high number of competitors that is continuing to increase, and if we do not compete effectively, our operating results could be harmed; 
+ we continue to expand our international operations, which exposes us to significant macroeconomic and other risks; 
+ 2 
+
+Table of Contents 
+
+ security breaches and improper access to, use of, or disclosure of our data or our clients data, or other cyber attacks on our systems, could result in litigation and regulatory risk, harm our reputation, our business or financial results; 
+ we may acquire other companies, or technologies or be the target of strategic transactions, or be impacted by transactions by other companies, which could divert our management s attention, result in additional dilution to our stockholders or use a significant amount of our cash resources and otherwise disrupt our operations and harm our operating results; 
+ we sell our solution to larger organizations that require longer sales and implementation cycles and often demand more configuration and integration services or customized features and functions that we may not offer, any of which could delay or prevent these sales and harm our growth rates, business and operating results; 
+ we rely on third-party telecommunications and internet service providers to provide our clients and their customers with telecommunication services and connectivity to our cloud contact center software and any failure by these service providers to provide reliable services could cause us to lose clients and subject us to claims for credits or damages, among other things; 
+ we have a history of losses and we may be unable to achieve or sustain profitability; 
+ our stock price has been volatile, may continue to be volatile and may decline, including due to factors beyond our control; 
+ we may not be able to secure additional financing on favorable terms, or at all, to meet our future capital needs; 
+ failure to comply with laws and regulations could harm our business and our reputation; and 
+ we may not have sufficient cash to service our convertible senior notes and repay such notes, if required. 
+ The foregoing factors should not be construed as exhaustive and should be read together with the other cautionary statements included in, or incorporated into, this report. If one or more of these or other risks or uncertainties materialize, or if our underlying assumptions prove to be incorrect, our actual results may differ materially from what we anticipate. You should not place undue reliance on our forward-looking statements. Any forward-looking statements you read in this report reflect our views only as of the date of this report with respect to future events and are subject to these and other risks, uncertainties and assumptions relating to our operations, results of operations, growth strategy and liquidity. We undertake no obligation to update any forward-looking statements made in this report to reflect events or circumstances after the date of this report or to reflect new information or the occurrence of unanticipated events, except as required by law. 
+ 
+ 3 
+
+Table of Contents 
+
+ PART I. FINANCIAL INFORMATION 
+ 
+ ITEM 1. Financial Statements 
+ 
+ FIVE9, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (In thousands, except per share data) September 30, 2024 December 31, 2023 (Unaudited) ASSETS Current assets: Cash and cash equivalents Marketable investments Accounts receivable, net Prepaid expenses and other current assets Deferred contract acquisition costs, net Total current assets Property and equipment, net Operating lease right-of-use assets Finance lease right-of-use assets Intangible assets, net Goodwill Other assets Deferred contract acquisition costs, net less current portion Total assets LIABILITIES AND STOCKHOLDERS EQUITY Current liabilities: Accounts payable Accrued and other current liabilities Operating lease liabilities Finance lease liabilities Deferred revenue Convertible senior notes Total current liabilities Convertible senior notes - less current portion Operating lease liabilities less current portion Finance lease liabilities less current portion Other long-term liabilities Total liabilities Commitments and contingencies (Note 10) Additional paid-in capital Accumulated other comprehensive income Accumulated deficit ) ) Total stockholders equity Total liabilities and stockholders equity 
+ See accompanying notes to the unaudited condensed consolidated financial statements. 
+ 4 
+
+Table of Contents 
+
+ FIVE9, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+ AND COMPREHENSIVE LOSS 
+ (Unaudited, in thousands, except per share data) 
+ Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 Revenue Cost of revenue Gross profit Operating expenses: Research and development Sales and marketing General and administrative Total operating expenses Loss from operations ) ) ) ) Other income (expense), net: Interest expense ) ) ) ) Gain on early extinguishment of debt Interest income and other Total other income (expense), net Loss before income taxes ) ) ) ) (Benefit from) provision for income taxes ) Net loss ) ) ) ) Net loss per share: Basic and diluted Shares used in computing net loss per share: Basic and diluted Comprehensive Loss: Net loss ) ) ) ) Other comprehensive income Comprehensive loss ) ) ) ) 
+ See accompanying notes to the unaudited condensed consolidated financial statements. 
+ 5 
+
+Table of Contents 
+
+FIVE9, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY 
+ (Unaudited, in thousands) 
+
+Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Income (Loss) Accumulated Deficit Total Stockholders Equity Shares Amount Balance as of June 30, 2023 ) ) Issuance of common stock upon exercise of stock options Issuance of common stock upon vesting of restricted stock units ) Stock-based compensation Other comprehensive income Net loss ) ) Balance as of September 30, 2023 ) ) Balance as of June 30, 2024 ) ) Issuance of common stock upon exercise of stock options Issuance of common stock upon vesting of restricted stock units Stock-based compensation Other comprehensive income Net loss ) ) Balance as of September 30, 2024 ) 
+ 6 
+
+Table of Contents 
+
+ Common Stock Additional Paid-In Capital Accumulated Other Comprehensive Income (Loss) Accumulated Deficit Total Stockholders Equity Shares Amount Balance as of December 31, 2022 ) ) Issuance of common stock upon partial conversion of the 2023 convertible senior notes Settlement at maturity of the outstanding capped calls and retirement of common stock related to the 2023 convertible senior notes ) Issuance of common stock upon exercise of stock options Issuance of common stock upon vesting of restricted stock units ) Issuance of common stock under ESPP Stock-based compensation Other comprehensive income Net loss ) ) Balance as of September 30, 2023 ) ) Balance as of December 31, 2023 ) Issuance of new capped calls associated with the 2029 convertible senior notes ) ) Partial termination of existing capped calls associated with the 2025 convertible senior notes Issuance of common stock upon exercise of stock options Issuance of common stock upon vesting of restricted stock units Issuance of common stock under ESPP Stock-based compensation Other comprehensive income Net loss ) ) Balance as of September 30, 2024 ) 
+
+See accompanying notes to the unaudited condensed consolidated financial statements. 
+ 7 
+
+Table of Contents 
+
+8 
+
+Table of Contents 
+
+ FIVE9, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (Unaudited, in thousands) Nine Months Ended September 30, 2024 September 30, 2023 Cash flows from operating activities: Net loss ) ) Adjustments to reconcile net loss to net cash provided by operating activities: Depreciation and amortization Amortization of operating lease right-of-use assets Amortization of deferred contract acquisition costs Accretion of discount on marketable investments ) ) Provision for credit losses Stock-based compensation Amortization of discount and issuance costs on convertible senior notes Gain on early extinguishment of debt ) Impairment charge of an equity investment Interest on finance lease obligations Deferred taxes Tax benefit of valuation allowance associated with an acquisition ) Other ) Changes in operating assets and liabilities: Accounts receivable ) ) Prepaid expenses and other current assets ) ) Deferred contract acquisition costs ) ) Other assets ) ) Accounts payable Accrued and other current liabilities ) Deferred revenue Other liabilities ) Net cash provided by operating activities Cash flows from investing activities: Purchases of marketable investments ) ) Proceeds from sales of marketable investments Proceeds from maturities of marketable investments Purchases of property and equipment ) ) Capitalization of software development costs ) ) Cash paid to acquire Acqueon Inc. ) Cash paid to acquire Aceyus, Inc. ) Net cash used in investing activities ) ) Cash flows from financing activities: Proceeds from issuance of 2029 convertible senior notes, net of issuance costs Payments for capped call transactions associated with the 2029 convertible senior notes ) Repurchase of a portion of 2025 convertible senior notes, net of costs ) Repayment of outstanding 2023 convertible senior notes at maturity ) Cash received from the settlement at maturity of the outstanding capped calls associated with the 2023 convertible senior notes Cash received from partial termination of capped calls associated with the 2025 convertible senior notes Proceeds from exercise of common stock options Proceeds from sale of common stock under ESPP Payment of holdback related to an acquisition ) Payment of finance lease liabilities ) ) Net cash provided by financing activities Net increase (decrease) in cash, cash equivalents and restricted cash ) Cash, cash equivalents and restricted cash: Beginning of period End of period Supplemental disclosures of cash flow data: Cash paid for interest Cash paid for income taxes Non-cash investing and financing activities: Property and equipment unpaid at period-end Capitalization of leasehold improvements and furniture and fixtures through non-cash lease incentive Acquisition and related transaction costs accrued at period-end Stock-based compensation included in capitalized software development costs Reconciliation of Cash, Cash Equivalents and Restricted Cash to the Condensed Consolidated Balance Sheets - Beginning of Period: Cash and cash equivalents Restricted cash in other assets Total cash, cash equivalents and restricted cash Reconciliation of Cash, Cash Equivalents and Restricted Cash to the Condensed Consolidated Balance Sheets - End of Period: Cash and cash equivalents Restricted cash in other assets Total cash, cash equivalents and restricted cash 
+ See accompanying notes to the unaudited condensed consolidated financial statements. 
+ 9 
+
+Table of Contents 
+
+ FIVE9, INC. 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+ 
+ 1. 
+ 
+ Significant Accounting Policies 
+ There have been no material changes from the significant accounting policies previously disclosed in Part II, Item 8, of the Company's Annual Report on Form 10-K for the fiscal year ended December 31, 2023 as filed with the SEC on February 22, 2024. 
+ 
+ 10 
+
+Table of Contents 
+
+ 2. 
+ Deferred contract acquisition costs, net: Current Non-current Total deferred contract acquisition costs, net Contract assets and contract liabilities: Contract assets (included in prepaid expenses and other current assets) Contract liabilities (deferred revenue) ) ) Noncurrent contract liabilities (deferred revenue) (included in other long-term liabilities) ) ) Net contract liabilities ) ) 
+ 
+ . 
+ In the three and nine months ended September 30, 2024, the Company recognized revenue of million and million, respectively, related to its contract liabilities at December 31, 2023. 
+ Remaining Performance Obligations 
+ As of September 30, 2024, the aggregate amount of the total transaction price allocated in contracts with original duration of greater than one year to the remaining performance obligations was million. months, with the balance recognized thereafter. The Company excludes amounts for remaining performance obligations that are part of contracts with an original expected duration of one year or less. Such remaining performance obligations represent unsatisfied or partially unsatisfied performance obligations. 
+ 
+ 3. 
+ 11 
+
+Table of Contents 
+
+ U.S. treasury securities ) U.S. agency and government-sponsored securities ) Commercial paper Corporate bonds ) Total ) 
+ December 31, 2023 Short-Term Marketable Investments Cost Gross Unrealized Gains Gross Unrealized Losses Fair Value Certificates of deposit U.S. treasury securities ) U.S. agency and government-sponsored securities ) Commercial paper Municipal bonds Corporate bonds ) Total )) ) U.S. agency and government-sponsored securities ) ) Corporate bonds ) ) Total ) ) 
+ Although the Company had certain available-for-sale debt securities in an unrealized loss position as of September 30, 2024, no impairment loss was recorded since it did not intend to sell them, did not anticipate a need to sell them, and the decline in fair value was not due to any credit-related factors. 
+ Due after one year through two years Total 
+ 
+ Fair Value Measurements 
+ 12 
+
+Table of Contents 
+
+ U.S. treasury securities Total cash equivalents Marketable investments Certificates of deposit U.S. treasury securities U.S. agency and government sponsored securities Commercial paper Corporate bonds Total marketable investments 
+
+13 
+
+Table of Contents 
+
+ Certificates of deposit U.S. treasury securities Commercial paper Total cash equivalents Marketable investments Certificates of deposit U.S. treasury securities U.S. agency and government-sponsored securities Commercial paper Municipal bonds Corporate bonds Total marketable investments 
+ In March 2024, the Company issued million aggregate principal amount of convertible senior notes due 2029 (the "2029 convertible senior notes") in a private offering. In connection with the issuance of the 2029 convertible senior notes, the Company used part of the net proceeds from the issuance to repurchase approximately million aggregate principal amount of its convertible senior notes due 2025 (the "2025 convertible senior notes"). As of September 30, 2024 and December 31, 2023, the estimated fair value of the Company's outstanding 2025 convertible senior notes was million and million, respectively. As of September 30, 2024, the estimated fair value of the Company's outstanding 2029 convertible senior notes was million. The fair values were determined based on the quoted price of the convertible senior notes in an inactive market on the last trading day of the reporting period and have been classified as Level 2 in the fair value hierarchy. See Note 6 for further information on the Company s convertible senior notes. 
+ In February 2022, the Company made a million equity investment in a privately-held company that the Company does not have the ability to exercise significant influence over. The Company elected to utilize the measurement alternative for an equity security without a readily determinable fair value. Accordingly, this investment is accounted for at its cost minus impairment, if any, and is classified within Level 3. If the Company identifies observable price changes in orderly transactions for such investment or a similar investment, it will measure the investment at fair value as of the date that the observable transactions or events occurred. During the third quarter of 2024, the Company noted an indicator of impairment of this investment and recorded a million impairment charge. 
+ Except for the equity investment described above, there were assets or liabilities measured at fair value on a non-recurring basis as of September 30, 2024 and December 31, 2023. 
+ The fair value of the Company s other financial instruments, including accounts receivable, accounts payable and other current liabilities, approximate their carrying value due to the relatively short maturity of those instruments. The carrying amounts of the Company s operating and finance leases approximate their fair value, which is the present value of expected future cash payments based on assumptions about current interest rates and the creditworthiness of the Company. 
+ 14 
+
+Table of Contents 
+
+ 4. 
+ Money market funds Certificates of deposit U.S. treasury securities Commercial paper Total cash and cash equivalents 
+ Unbilled trade accounts receivable, net of advance client deposits Provision for credit losses ) ) Accounts receivable, net 
+ There was one client that represented and of accounts receivable as of September 30, 2024 and December 31, 2023, respectively, 
+ Other current assets Contract assets Prepaid expenses and other current assets 
+ Computer software Internal-use software development costs Furniture and fixtures Leasehold improvements Property and equipment Accumulated depreciation and amortization ) ) Property and equipment, net 
+ Depreciation and amortization expense associated with property and equipment was million and million for the three and nine months ended September 30, 2024, respectively. Depreciation and amortization expense associated with property and equipment was million and million for the three and nine months ended September 30, 2023, respectively. 
+ 15 
+
+Table of Contents 
+
+ Equity investment in a privately-held company Deferred tax assets Other assets 
+ Accrued compensation and benefits Accrued federal fees Sales tax liabilities Accrued and other current liabilities 
+ Sales tax liabilities Other long-term liabilities Other long-term liabilities 
+ 16 
+
+Table of Contents 
+
+ 5. 
+ million and intangible assets of million were recorded as a result of the Company's acquisition of Acqueon Inc. ("Acqueon") in August 2024. See Note 13 for further details. Addition (Acqueon) Measurement period adjustment (Aceyus) ) Amortization ) End of the period, September 30, 2024 
+ ) ) Acquired workforce ) ) Customer relationships ) ) Trademarks ) ) Total ) ) 
+ Amortization expense related to intangible assets was million and million for the three and nine months ended September 30, 2024, respectively. Amortization expense related to intangible assets was million and million for the three and nine months ended September 30, 2023, respectively. 
+ 2025 2026 2027 2028 Thereafter Total 
+
+6. 
+ million aggregate principal amount of 
+ 17 
+
+Table of Contents 
+
+ million (the Repurchase Transaction ). 
+ The Repurchase Transaction was accounted for as a debt extinguishment. The difference between the consideration used to extinguish the 2025 convertible senior notes and the carrying value of the 2025 convertible senior notes (including unamortized debt discount and issuance costs) resulted in an extinguishment gain of approximately million recorded through Other income (expense), net on the Company s condensed consolidated statements of operations and comprehensive loss. 
+ In connection with the Repurchase Transaction, the Company also entered into a partial termination agreement with each bank counterparty and unwound a corresponding portion of the previously purchased capped call instruments entered into in connection with the issuance of the 2025 convertible senior notes (the 2025 Capped Calls ). The Company received approximately million in cash in connection with these partial terminations, representing the fair value at the date of settlement of the unwound 2025 Capped Calls. 
+ 2029 Convertible Senior Notes and Related Capped Call Transactions 
+ In March 2024, the Company issued million aggregate principal amount of 2029 convertible senior notes in a private offering, which aggregate principal amount included the exercise in full of the initial purchasers option to purchase up to an additional million principal amount of the 2029 convertible senior notes. The 2029 convertible senior notes mature on March 15, 2029 and bear interest at a fixed rate of per annum, payable semiannually in arrears on March 15 and September 15 of each year, beginning on September 15, 2024. The total net proceeds from the issuance of the 2029 convertible senior notes, after deducting initial purchasers' discounts and commissions and estimated debt issuance costs, were approximately million. 
+ Each 1,000 principal amount of the 2029 convertible senior notes is initially convertible into 12.5918 shares of the Company s common stock (the 2029 Conversion Option ), which is equivalent to an initial conversion price of approximately per share of common stock, subject to adjustment upon the occurrence of specified events. The initial conversion price represents a premium of approximately to the per share closing price of the Company s common stock on The Nasdaq Global Market on February 27, 2024. There have been no changes to the initial conversion price of the 2029 convertible senior notes since issuance. The 2029 convertible senior notes are convertible, in multiples of 1,000 principal amount, at the option of the holders prior to the close of business on the business day immediately preceding December 15, 2028, only under the following circumstances: (1) during any calendar quarter commencing after the calendar quarter ending on June 30, 2024 (and only during such calendar quarter), if the last reported sale price of the Company s common stock for at least trading days (whether or not consecutive) during a period of consecutive trading days ending on, and including, the last trading day of the immediately preceding calendar quarter is greater than or equal to of the conversion price on each applicable trading day; (2) during the business day period after any consecutive trading day period (the 2029 Measurement Period in which the trading price (as defined in the 2029 Indenture governing the 2029 convertible senior notes) per 1,000 principal amount of the 2029 convertible senior notes for each trading day of the 2029 Measurement Period was less than of the product of the last reported sale price of the Company s common stock and the conversion rate in effect on each such trading day; (3) if the Company calls any or all of the 2029 convertible senior notes for redemption, at any time prior to the close of business on the second scheduled trading day immediately preceding the redemption date; or (4) upon the occurrence of specified corporate events. On or after December 15, 2028 until the close of business on the second scheduled trading day immediately preceding the maturity date, holders may convert all or any portion of their 2029 convertible senior notes, in multiples of 1,000 principal amount, at the option of the holder regardless of the foregoing circumstances. 
+ Upon conversion, the Company will pay or deliver, as the case may be, cash, shares of the Company s common stock or a combination of cash and shares of the Company s common stock, at the Company s election. If the Company undergoes a fundamental change (as defined in the indenture governing the 2029 convertible senior notes), subject to certain conditions, holders may require the Company to repurchase for cash all or any portion of their 2029 convertible senior notes, in principal amounts of 1,000 or a multiple thereof, at a fundamental change repurchase price equal to of the principal amount of the 2029 convertible senior notes to be repurchased, plus accrued and unpaid interest, if any, to, but excluding, the fundamental change repurchase date. In addition, following certain corporate events or if the Company issues a notice of redemption, it will, under certain circumstances, increase the conversion rate for holders who elect to convert their notes in connection with such corporate event or during the relevant redemption period. 
+ The closing market price of the Company's common stock of per share on September 30, 2024, the last trading day during the three months ended September 30, 2024, was below per share, which represents of the initial conversion price of per share. Additionally, the last reported sale price of the Company s common stock for at least trading days (whether or not consecutive) during a period of consecutive trading days ending on, and including, the last trading day, September 30, 2024, was not greater than or equal to of 
+ 18 
+
+Table of Contents 
+
+ of the conversion price then in effect for at least trading days (whether or not consecutive) during any consecutive trading day period (including the last trading day of such period) ending on, and including, the trading day immediately preceding the date on which the Company provides notice of redemption at a redemption price equal to of the principal amount of the 2029 convertible senior notes to be redeemed, plus accrued and unpaid interest, if any, to, but excluding, the redemption date. However, the Company may not redeem less than all of the outstanding 2029 convertible senior notes unless at least million aggregate principal amount of 2029 convertible senior notes are outstanding and not called for redemption at the time the redemption notice is sent. sinking fund is provided for the 2029 convertible senior notes. 
+ The 2029 convertible senior notes are the Company s senior unsecured obligations and rank senior in right of payment to any of the Company s indebtedness that is expressly subordinated in right of payment to the 2029 convertible senior notes; equal in right of payment to any of the Company s unsecured indebtedness that is not so subordinated (including the 2025 convertible senior notes); effectively junior in right of payment to any of the Company s secured indebtedness to the extent of the value of the assets securing such indebtedness; and structurally junior to all indebtedness and other liabilities. 
+ Unamortized issuance costs ) Net carrying amount 
+ Amortization of issuance costs Total interest expense 
+ The debt issuance costs are amortized into interest expense over the term of the 2029 convertible senior notes at an effective interest rate of . 
+ In connection with the issuance of the 2029 convertible senior notes, the Company entered into privately negotiated capped call transactions (each a 2029 Capped Call, and collectively the "2029 Capped Calls") with certain financial institutions. The 2029 Capped Call has an initial strike price of approximately , subject to certain adjustments, which corresponds to the initial conversion price of the 2029 convertible senior notes. The 2029 Capped Calls have an initial cap price of per share, subject to certain adjustments. The 2029 Capped Calls are expected to partially offset the potential dilution to the Company s common stock upon any conversion of the 2029 convertible senior notes, with such offset subject to a cap based on the cap price. Each 2029 Capped Call covers, subject to anti-dilution adjustments, approximately million shares of the Company s common stock. The 2029 Capped Call is subject to adjustment upon the occurrence of specified extraordinary events affecting the Company, including merger events, tender offers, and announcement events. In addition, each 2029 Capped Call is subject to certain specified additional disruption events that may give rise to a termination of the 2029 Capped Calls, including nationalization, insolvency or delisting, changes in law, failures to deliver, insolvency filings, and hedging disruptions. For accounting purposes, each 2029 Capped Call is treated as a separate transaction from, and not part of the terms of the 2029 convertible senior notes. As these transactions meet certain accounting criteria, the 2029 Capped Calls are recorded in stockholders' equity and are not accounted for as derivatives. The 2029 Capped Calls will not be remeasured as long as they continue to meet the conditions for equity classification. 
+ 19 
+
+Table of Contents 
+
+ million aggregate principal amount of 2025 convertible senior notes in a private offering, which aggregate principal amount included the exercise in full of the initial purchasers option to purchase up to an additional million principal amount of the 2025 convertible senior notes. The 2025 convertible senior notes mature on June 1, 2025 and bear interest at a fixed rate of per annum, payable semiannually in arrears on June 1 and December 1 of each year, beginning on December 1, 2020. The total net proceeds from the issuance of the 2025 convertible senior notes, after deducting initial purchasers' discounts and commissions and estimated debt issuance costs, were approximately million. 
+ In March 2024, the Company used part of the net proceeds from the issuance of the 2029 convertible senior notes to repurchase million aggregate principal amount of the 2025 convertible senior notes in privately-negotiated transactions. As of September 30, 2024, after giving effect to the Repurchase Transaction, approximately million aggregate principal amount of 2025 convertible senior notes remained outstanding. 
+ Each 1,000 principal amount of the 2025 convertible senior notes is initially convertible into 7.4437 shares of the Company s common stock (the 2025 Conversion Option ), which is equivalent to an initial conversion price of approximately per share of common stock, subject to adjustment upon the occurrence of specified events. The initial conversion price represents a premium of approximately to the per share closing price of the Company s common stock on The Nasdaq Global Market on May 21, 2020. There have been no changes to the initial conversion price of the 2025 convertible senior notes since issuance. The 2025 convertible senior notes are convertible, in multiples of 1,000 principal amount, at the option of the holders prior to the close of business on the business day immediately preceding March 1, 2025, only under the following circumstances: (1) during any calendar quarter commencing after the calendar quarter ending on September 30, 2020 (and only during such calendar quarter), if the last reported sale price of the Company s common stock for at least trading days (whether or not consecutive) during a period of consecutive trading days ending on, and including, the last trading day of the immediately preceding calendar quarter is greater than or equal to of the conversion price on each applicable trading day; (2) during the business day period after any consecutive trading day period (the 2025 Measurement Period in which the trading price (as defined in the 2025 Indenture governing the 2025 convertible senior notes) per 1,000 principal amount of the 2025 convertible senior notes for each trading day of the 2025 Measurement Period was less than of the product of the last reported sale price of the Company s common stock and the conversion rate in effect on each such trading day; (3) if the Company calls any or all of the 2025 convertible senior notes for redemption, at any time prior to the close of business on the second scheduled trading day immediately preceding the redemption date; or (4) upon the occurrence of specified corporate events. On or after March 1, 2025 until the close of business on the second scheduled trading day immediately preceding the maturity date, holders may convert all or any portion of their 2025 convertible senior notes, in multiples of 1,000 principal amount, at the option of the holder regardless of the foregoing circumstances. 
+ Upon conversion, the Company will pay or deliver, as the case may be, cash, shares of the Company s common stock or a combination of cash and shares of the Company s common stock, at the Company s election. If the Company undergoes a fundamental change (as defined in the indenture governing the 2025 convertible senior notes), subject to certain conditions, holders may require the Company to repurchase for cash all or any portion of their 2025 convertible senior notes, in principal amounts of 1,000 or a multiple thereof, at a fundamental change repurchase price equal to of the principal amount of the 2025 convertible senior notes to be repurchased, plus accrued and unpaid interest, if any, to, but excluding, the fundamental change repurchase date. In addition, following certain corporate events or if the Company issues a notice of redemption, it will, under certain circumstances, increase the conversion rate for holders who elect to convert their notes in connection with such corporate event or during the relevant redemption period. 
+ The closing market price of the Company's common stock of per share on September 30, 2024, the last trading day during the three months ended September 30, 2024, was below per share, which represents of the initial conversion price of per share. Additionally, the last reported sale price of the Company s common stock for at least trading days (whether or not consecutive) during a period of consecutive trading days ending on, and including, the last trading day, September 30, 2024, was not greater than or equal to of the initial conversion price. As such, during the three months ended September 30, 2024, the conditions allowing holders of the 2025 convertible senior notes to convert were not met. The 2025 convertible senior notes are therefore not convertible during the three months ending December 31, 2024. 
+ The 2025 convertible senior notes became redeemable at the Company's option on June 6, 2023. The Company may redeem for cash all or any portion of the 2025 convertible senior notes, at its option, prior to March 1, 2025, if the last reported sale price of its common stock has been at least of the conversion price then in effect for at least trading days (whether or not consecutive) during any consecutive trading day period (including the last trading day of such period) ending not more than trading days immediately preceding the date on which the Company provides notice of redemption at a redemption price equal to of the principal amount of the 2025 
+ 20 
+
+Table of Contents 
+
+ sinking fund is provided for the 2025 convertible senior notes. During the three months ended September 30, 2024, the conditions allowing the Company to redeem for cash all or any portion of the 2025 convertible senior notes were not met. 
+ The 2025 convertible senior notes are the Company s senior unsecured obligations and rank senior in right of payment to any of the Company s indebtedness that is expressly subordinated in right of payment to the 2025 convertible senior notes; equal in right of payment to any of the Company s unsecured indebtedness that is not so subordinated; effectively junior in right of payment to any of the Company s secured indebtedness to the extent of the value of the assets securing such indebtedness; and structurally junior to all indebtedness and other liabilities (including trade payables) of the Company s subsidiaries. 
+ Unamortized issuance costs ) ) Principal repaid ) Net carrying amount 
+ Amortization of issuance costs Total interest expense 
+ The debt issuance costs are amortized into interest expense over the term of the 2025 convertible senior notes at an effective interest rate of . 
+ In connection with the issuance of the 2025 convertible senior notes, the Company entered into privately negotiated capped call transactions (each a 2025 Capped Call, and collectively the "2025 Capped Calls") with certain financial institutions. The 2025 Capped Calls each have an initial strike price of approximately , which corresponds to the initial conversion price of the 2025 convertible senior notes. The initial cap price of the 2025 Capped Calls was per share and is subject to certain adjustments under the terms of the 2025 Capped Calls. In connection with the Repurchase Transaction, the Company unwound a portion of the 2025 Capped Calls. Refer to the Repurchase Transaction section above for further information. There are no changes or amendments made to the remaining 2025 Capped Calls. The remaining 2025 Capped Calls cover, subject to anti-dilution adjustments, approximately million shares of the Company s common stock. Each 2025 Capped Call is subject to adjustment upon the occurrence of specified extraordinary events affecting the Company, including merger events, tender offers, and announcement events. In addition, each 2025 Capped Call is subject to certain specified additional disruption events that may give rise to a termination of each 2025 Capped Call, including nationalization, insolvency or delisting, changes in law, failures to deliver, insolvency filings, and hedging disruptions. For accounting purposes, each 2025 Capped Call is a separate transaction from, and not part of the terms of the 2025 convertible senior notes. As these transactions meet certain accounting criteria, the 2025 Capped Calls are recorded in stockholders' equity and are not accounted for as derivatives. The 2025 Capped Calls will not be remeasured as long as they continue to meet the conditions for equity classification. 
+ 
+ 7. 
+ shares of common stock with a par value of per share. As of September 30, 2024 and December 31, 2023, the Company had and shares of common stock issued and outstanding, respectively. 
+ 21 
+
+Table of Contents 
+
+ shares of preferred stock with a par value of per share in one or more series without stockholder approval and to fix the rights, preferences, privileges and restrictions thereof. As of September 30, 2024 and December 31, 2023, there were shares of preferred stock issued and outstanding. 
+ Common Stock Reserved for Future Issuance 
+ RSUs (including PRSUs) outstanding Shares available for future grant under 2014 Plan Shares available for future issuance under ESPP Total shares of common stock reserved 
+ Stock Options 
+ Options granted Options exercised ) Options forfeited or expired ) Outstanding as of September 30, 2024 
+ The aggregate intrinsic value amounts are computed based on the difference between the exercise price of the stock options and the fair market value of the Company s common stock of per share as of September 30, 2024 for all in-the-money stock options outstanding. 
+ Restricted Stock Units (including PRSUs) 
+ RSUs granted (1) 
+ RSUs vested and released ) RSUs forfeited or cancelled ) Outstanding as of September 30, 2024 
+ PRSUs granted during the nine months ended September 30, 2024. 
+ PRSUs with Market and Service Conditions In 2022, the Company granted PRSUs subject to market and service conditions market-based PRSUs with a grant date fair value of million as part of its annual grant of equity incentive awards to certain executives and in connection with the appointment of Michael Burkland as its new Chief Executive Officer. In 2023, the Company granted market-based PRSUs with a grant date fair value of million. During the nine months ended September 30, 2024, the Company granted an additional 
+ 22 
+
+Table of Contents 
+
+ market-based PRSUs with a grant date fair value of million. The amount that may be earned pursuant to the market-based PRSUs ranges from to of the target number based on the Company s relative total shareholder return RTSR performance as compared to the companies in the S P Software and Services Select Index during performance periods. One-third of the total market-based PRSUs may be earned and settled in shares following the end of each performance period based on RTSR performance and subject to continued employment through the payment date. If the Company s absolute total shareholder return for any performance period is negative, then no more than of the target amount of market-based PRSUs for such period may be earned. If an executive's employment with the Company terminates before the end of the final performance period due to death or disability, (if due to death) or (if due to disability) of the unvested market-based PRSUs may be earned subject to ultimate RTSR performance in each remaining performance period. Upon a qualifying termination of employment in connection with a change in control of the Company, the unvested market-based PRSUs will vest on a double-trigger basis (i) at the target level for the market-based PRSUs subject to the 2022-2024 performance period, (ii) for the market-based PRSUs subject to the 2023-2025 performance period, and (iii) for the market-based PRSUs subject to the 2024-2026 performance period, (a) at the target level for the uncompleted portions of the performance periods and (b) at the actual level of performance measured through the date of the change in control of the Company, based on the price per share paid in such change in control. The fair value of the market-based PRSUs is determined on their grant date using a Monte Carlo Simulation model based upon assumptions presented below. The Company recognizes the fair value of the market-based PRSUs ratably over their requisite service period. 
+ During the first quarter of 2023, the Company certified the performance results for the 2022 measurement period for the market-based PRSUs subject to the 2022-2024 performance period. Under the market-based PRSU agreements, the TSR payout percentage ranges from to , with a payout at the 25th TSR percentile (threshold), payout at the 55th TSR percentile (target), payout at the 90th percentile or greater (maximum) and no payout below the threshold performance level. The Company determined that its actual total shareholder return was - for 2022, and that its relative total shareholder return ranking was in the 30.2 percentile relative to companies in the S P Software Services Select Index, which resulted in a payout percentage of of target. During the first quarter of 2024, the Company certified the performance results for the 2023 measurement period for the market-based PRSUs subject to the 2022-2024 performance period. The Company determined that its actual total shareholder return was for 2023, and that its relative total shareholder return ranking was in the percentile relative to companies in the S P Software Services Select Index, which resulted in a payout percentage of of target. During the first quarter of 2024, the Company also certified the performance results for the 2023 measurement period for the market-based PRSUs subject to the 2023-2025 performance period. The Company determined that its actual total shareholder return was for 2023, and that its relative total shareholder return ranking was in the percentile relative to companies in the S P Software Services Select Index, which resulted in a payout percentage of of target. 
+ PRSUs with Revenue and Service Conditions In 2022, the Company granted PRSUs subject to revenue-based performance and service conditions revenue-based PRSUs with a grant date fair value of million. The amount of revenue-based PRSUs that may be earned will be determined based on achievement of quarterly revenue goals. One third of the revenue-based PRSUs may be earned based on achievement of the first revenue target and, if achieved, will vest in quarterly installments, with the first installment occurring on the date such achievement is certified, subject to the executive's continuous service through the applicable vesting dates. Two thirds of the revenue-based PRSUs may be earned based on achievement of the second revenue target and, if achieved, will vest in quarterly installments, with the first installment occurring on the date such achievement is certified, subject to the executive's continuous service through the applicable vesting dates. The revenue-based PRSUs are otherwise on the Company's standard award terms for its market-based PRSUs. During 2023, the Company certified that the first revenue target was achieved, and thus recognized the related stock-based compensation expense for this first revenue target. However, the Company certified during the first quarter of 2024 
+ 23 
+
+Table of Contents 
+
+ Research and development Sales and marketing General and administrative Total stock-based compensation expense 
+ Weighted-average amortization period year years years years 
+ Expected term (years) Volatility Risk-free interest rate Dividend yield (1) 
+ 
+ (1) The Company has not paid, and does not anticipate paying, cash dividends on its shares of common stock. Accordingly, the expected dividend yield is . 
+ 
+ 8. 
+ 24 
+
+Table of Contents ) ) ) Weighted-average shares used in computing basic and diluted net loss per share Basic and diluted net loss per share 
+ RSUs (including PRSUs) 
+ Convertible senior notes 
+ Total 
+
+9.) million and million, respectively. The provision for income taxes for the three and nine months ended September 30, 2023 was approximately million and million, respectively. 
+ 
+ The benefit from income taxes for the three months ended September 30, 2024 was primarily related to the Company's acquisition of Acqueon, which included a domestic net deferred tax liability balance of million and provided the Company with a source of taxable income to release a portion of its U.S.valuation allowance. The provision for income taxes for the nine months ended September 30, 2024 consisted primarily of U.S. federal and U.S. state tax expense as a result of IRC Section 174 research and experimental capitalization requirements and tax attribute utilization limitations, and foreign current income tax expense as a result from income produced by the Company's intercompany cost-plus operating model, which were partially offset by the benefit related to the Company's acquisition of Acqueon, discussed above. The provision for income taxes for the three and nine months ended September 30, 2023 consisted primarily of current U.S. state tax expense due to the lack of available net operating losses to offset the taxable income generated and foreign income tax expense due to the Company's intercompany cost-plus operating model. 
+ For the three and nine months ended September 30, 2024, the (benefit from) provision for income taxes differed from the statutory amount primarily due to the domestic full valuation allowance position maintained against the domestic net deferred tax assets, and the partial release discussed above. For the three and nine months ended September 30, 2023, the provision for income taxes differed from the statutory amount primarily due to domestic state income taxes, foreign income taxes and the Company realizing no benefit for prior year domestic losses due to maintaining a full valuation allowance against its domestic net deferred tax assets. 
+ The realization of tax benefits from deferred tax assets is dependent upon future levels of taxable income, of an appropriate character, to be recognized in the periods the items are expected to be deductible or taxable. Based on the weight of the available objective evidence, the Company does not believe it is more likely than not that the U.S. net deferred tax assets will be realizable. Accordingly, the Company has provided a full valuation allowance against 
+ 25 
+
+Table of Contents 
+
+10. 
+ million for terms ranging up to months. These agreements require the Company to make monthly payments over the service term in exchange for certain network services. 
+ As of September 30, 2024, the Company had outstanding cloud services and software and maintenance agreement commitments totaling million, of which million is expected to be purchased in the remainder of 2024, million is expected to be purchased in 2025, and the remaining million is expected to be purchased in 2026. During the three months ended September 30, 2024, the Company entered into equipment finance lease arrangements that resulted in a million additional reduction of its outstanding cloud services commitment. See Note 12 for more information. 
+ As of September 30, 2024, (i) million of aggregate principal of the 2025 convertible senior notes was outstanding and is due on June 1, 2025, and (ii) million of aggregate principal of the 2029 convertible senior notes was outstanding and is due on March 15, 2029. See Note 6 for more information concerning the convertible senior notes. 
+ Legal Matters 
+ The Company is involved in various legal and regulatory matters arising in the normal course of business. In management s opinion, resolution of these matters is not expected to have a material impact on the Company s consolidated results of operations, cash flows, or its financial position. However, due to the uncertain nature of legal matters, an unfavorable resolution of a matter could materially affect the Company s future consolidated results of operations, cash flows or financial position in a particular period. The Company expenses legal fees as incurred. 
+ Indemnification Agreements 
+ 
+ 26 
+
+Table of Contents 
+
+ 11. 
+ International Total revenue 
+ The following table summarizes total property and equipment, net in the respective locations (in thousands): September 30, 2024 December 31, 2023 United States International Property and equipment, net 
+ 
+ 12. 
+ , some of the leases include a Company option to extend the leases for up to one to , and some of the leases include the option to terminate the leases upon -days' notice. The Company does not separate lease and non-lease components for real estate operating leases. The Company entered into equipment finance lease agreements and recognized million right of use assets during the three months ended September 30, 2024, which were reported within "Finance lease right-of-use assets" and are being depreciated on a straight-line basis over the lease term. As a result, the Company also recognized short-term lease liabilities of million within "Finance lease liabilities" and long-term lease liabilities of million within "Finance lease liabilities - less current portion" for the three months ended September 30, 2024. 
+ Finance lease cost: Amortization of right-of-use assets Interest on finance lease liabilities Total finance lease cost 
+ Supplemental cash flow information related to leases was as follows (in thousands): Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 Cash paid for amounts included in the measurement of lease liabilities: Operating cash used in operating leases ) ) ) ) Financing cash used in finance leases ) ) ) ) Right of use assets obtained in exchange for lease obligations: Operating leases Finance leases 
+ 27 
+
+Table of Contents 
+
+ Operating lease liabilities Operating lease liabilities less current portion Total operating lease liabilities Finance leases Finance lease right-of-use assets Finance lease liabilities Finance lease liabilities less current portion Total finance lease liabilities 
+ Finance leases 
+ Weighted average discount rates were as follows: September 30, 2024 December 31, 2023 Weighted average discount rate Operating leases Finance leases 
+ 2025 2026 2027 2028 Thereafter Total future minimum lease payments Less: imputed interest ) ) Total 
+
+28 
+
+Table of Contents 
+
+ 13. 
+ million. This acquisition, which was accounted for as a business combination, is intended to build on the pre-existing partnership between the companies, and to extend the Company's AI-powered CX platform by adding omnichannel proactive customer engagement to expand Five9 s outbound capabilities. 
+ The excess of the purchase price over identifiable intangible assets and net tangible assets in the amount of million was allocated to goodwill, which is not deductible for tax purposes. The fair values assigned to assets acquired and liabilities assumed are based on management s best estimates and assumptions as of the acquisition date and are considered preliminary pending finalization of valuation analyses pertaining to intangible assets acquired, liabilities assumed and tax liabilities assumed. During the measurement period, which may be up to one year from the acquisition date, the Company may record adjustments to the fair value of these tangible and intangible assets acquired and liabilities assumed, with the corresponding offset to goodwill. Tangible assets acquired Other assets acquired Acquired technology Customer relationships Trademarks Goodwill Total assets acquired Deferred tax liability ) Liabilities assumed ) Total 
+ The acquired technology, customer relationships, and trademarks will be amortized on a straight-line basis over their estimated useful lives of , , and , respectively. The Company used the income approach to estimate the fair value of intangible assets acquired. 
+ In connection with this acquisition, the Company incurred total acquisition-related transaction costs of million and million during the three and nine months ended September 30, 2024, respectively, which have been expensed as incurred and included in general and administrative expenses in the consolidated statements of operations and comprehensive loss. 
+ The results of operations of this acquisition are included in the accompanying consolidated statements of operations and comprehensive loss from the date of acquisition and are not material to the Company's condensed consolidated financial statements. 
+ 29 
+
+Table of Contents 
+
+ million. This acquisition, which was accounted for as a business combination, is intended to accelerate the Company's ability to capitalize on business opportunities, namely facilitating the migration of large enterprise customers from on-premise to cloud and leveraging contextual data to deliver personalized experiences throughout the customer journey, including using this contextual data in the Company's AI Automation solutions. 
+ The excess of the purchase price over identifiable intangible assets and net tangible assets in the amount of million was allocated to goodwill, which is not deductible for tax purposes. The fair values assigned to assets acquired and liabilities assumed are based on management s best estimates and assumptions as of the reporting date and are considered final. The Company recorded an adjustment of million during the one year from acquisition date measurement period. Tangible assets acquired Other assets acquired Acquired technology Customer relationships Trademarks Goodwill Total assets acquired Liabilities assumed ) Total 
+ The acquired technology, customer relationships, and trademarks will be amortized on a straight-line basis over their estimated useful lives of , , and , respectively. The Company used the income approach to estimate the fair value of intangible assets acquired. 
+ In connection with this acquisition, the Company incurred total acquisition-related transaction costs of million in 2023, and incurred additional costs during the nine months ended September 30, 2024, which have been expensed as incurred and included in general and administrative expenses in the consolidated statements of operations and comprehensive loss. 
+
+14. 
+ 
+ . For the three months ended September 30, 2024, the Company incurred a total of million in restructuring costs under the Plan, primarily consisting of notice period payments, severance payments, employee benefits and related costs, all of which are cash expenditures, of which million was recorded in cost of revenue, million was recorded in research and development expenses, million was recorded in sales and marketing expenses, and million was recorded in general and administrative expenses. As of September 30, 2024, million had been paid and the remaining million was recorded within "Accrued and other current liabilities" and is mostly expected to be paid by the fourth quarter of 2024. The Company does expect to incur any additional costs under this plan. 
+ 30 
+
+Table of Contents 
+
+31 
+
+Table of Contents 
+
+ ITEM 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ You should read the following discussion in conjunction with the condensed consolidated financial statements and notes thereto included elsewhere in this Quarterly Report on Form 10-Q and our Annual Report on Form 10-K for the year ended December 31, 2023. 
+ 
+ Overview 
+ We are a pioneer and leading provider of intelligent cloud contact centers with more than 3,000 clients. We believe we achieved this leadership position through our expertise and technology, which has empowered us to help organizations of all sizes transition from legacy on-premise contact center systems to our cloud solution. Our solution, comprised of our Virtual Contact Center, or VCC, cloud platform and applications, allows simultaneous management and optimization of customer interactions across voice, chat, email, web, social media and mobile channels, either directly or through our application programming interfaces, or APIs. Our VCC cloud platform matches each customer interaction with an appropriate agent resource and delivers relevant customer data to the agent in real-time through integrations with adjacent enterprise applications, such as customer relationship management, or CRM, software, to optimize the customer experience and improve agent productivity. Unlike legacy on-premise contact center systems, our solution requires minimal up-front investment, can be rapidly deployed and adjusted depending on our client s requirements. 
+ Since founding our business in 2001, we have focused exclusively on delivering cloud contact center software. We initially targeted smaller contact center opportunities with our telesales team and, over time, invested in expanding the breadth and depth of the functionality of our cloud platform to meet the evolving requirements of our clients. In 2009, we made a strategic decision to expand our market opportunity to include larger contact centers. This decision drove further investments in research and development and the establishment of our field sales team to meet the requirements of these larger contact centers. We believe this shift has helped us diversify our client base, while significantly enhancing our opportunity for future revenue growth. To complement these efforts, we have also focused on building client awareness and driving adoption of our solution through marketing activities, which include internet advertising, digital marketing campaigns, social media, trade shows, industry events, telemarketing and out of home campaigns. 
+ We provide our solution through a SaaS business model with recurring subscriptions. We offer a comprehensive suite of applications delivered on our VCC cloud platform that are designed to enable our clients to manage and optimize interactions across inbound and outbound contact centers. We primarily generate revenue by selling subscriptions and related usage of our VCC cloud platform. We charge our clients monthly subscription fees for access to our solution, primarily based on the number of agent seats, as well as the specific functionalities and applications our clients deploy. We define agent seats as the maximum number of named agents allowed to concurrently access our solution. Our clients typically have more named agents than agent seats, and multiple named agents may use an agent seat, though not simultaneously. Substantially all of our clients purchase both subscriptions and related telephony usage from us. A small percentage of our clients subscribe to our platform but purchase telephony usage directly from wholesale telecommunications service providers. We do not sell telephony usage on a stand-alone basis to any client. The related usage fees are based on the volume of minutes for inbound and outbound interactions. We also offer bundled plans, generally for smaller deployments, where the client is charged a single monthly fixed fee per agent seat that includes both subscription and unlimited usage in the contiguous 48 states and, in some cases, Canada. We offer monthly, annual and multiple-year contracts to our clients, generally with 30 days notice required for reductions in the number of agent seats. Increases in the number of agent seats can be provisioned almost immediately. Our clients, therefore, are able to adjust the number of agent seats used to meet their changing contact center volume needs. Our larger clients typically choose annual contracts, which generally include an implementation and ramp period of several months. Fixed subscription fees, including bundled plans, are generally billed monthly in advance, while related usage fees are billed in arrears. For each of the three and nine months ended September 30, 2024, subscription and related usage fees accounted for 92 of our revenue. For each of the three and nine months ended September 30, 2023, subscription and related usage fees accounted for 92 of our revenue. The remainder was comprised of professional services revenue from the implementation and optimization of our solution. 
+ Macroeconomic and Other Factors 
+ We are subject to risks and exposures, including those caused by adverse economic conditions, including continued macroeconomic challenges, the Russia-Ukraine conflict and the conflict in the Middle East. 
+ Macroeconomic factors include the global economic slowdown, continued inflation, increased interest rates, supply chain disruptions, decreased economic output and fluctuations in currency exchange rates. We continuously 
+ 32 
+
+Table of Contents 
+
+ monitor the direct and indirect impacts of these circumstances on our business and financial results, as well as the overall global economy and geopolitical landscape. While the implications of macroeconomic events on our business, results of operations and overall financial position remain uncertain over the long term, we expect that adverse economic conditions will continue to have an adverse impact on our revenue in future periods. For example, our installed base business, which typically contributes approximately half of our annual revenue growth, continues to experience macroeconomic headwinds. 
+ In August 2024, we announced a Plan as part of our broader efforts to drive balanced, profitable growth, further supporting our positive, long-term outlook and focus on increasing shareholder value. The Plan reduced our global full-time employees by approximately 6 . For the three months ended September 30, 2024, we incurred a total of 9.6 million in restructuring costs under the Plan, primarily consisting of notice period payments, severance payments, employee benefits and related costs, all of which are cash expenditures, of which 2.1 million was recorded in cost of revenue, 1.9 million was recorded in research and development expenses, 4.4 million was recorded in sales and marketing expenses, and 1.2 million was recorded in general and administrative expenses. As of September 30, 2024, 3.0 million had been paid and the remaining 6.6 million was recorded within accrued and other current liabilities and is mostly expected to be paid in the fourth quarter of 2024. We do not expect to incur any additional costs under this plan. 
+ In March 2022 we decided to close our Russia office and to establish a new European development center in Portugal, in part due to the growing uncertainty arising from the Russia-Ukraine conflict. During both the three and nine months ended September 30, 2024, we incurred approximately 0.2 million in costs related to the closure and relocation of our Russian operations. During the three and nine months ended September 30, 2023, we incurred approximately 0.9 million and 2.7 million in costs related to the closure and relocation of our Russian operations. Going forward, we do not expect to incur additional material costs related to the closure and relocation of our Russia operations. We currently do not believe that this decision will have a material effect on our business, results of operations or financial condition. 
+ Key GAAP Operating Results 
+ Our revenue increased to 264.2 million and 763.3 million for the three and nine months ended September 30, 2024 from 230.1 million and 671.4 million for the three and nine months ended September 30, 2023. Revenue growth was primarily attributable to our larger clients, driven by an increase in our sales and marketing activities and our improved brand awareness. For each of the three and nine months ended September 30, 2024 and 2023, no single client accounted for more than 10 of our total revenue. As of September 30, 2024, we had over 3,000 clients across multiple industries with a wide range of seat sizes. We had a net loss of 4.5 million and 24.4 million in the three and nine months ended September 30, 2024, compared to a net loss of 20.4 million and 69.4 million in the three and nine months ended September 30, 2023. 
+ We have continued to make significant expenditures and investments, including in sales and marketing, research and development, infrastructure and investments in complementary businesses, technologies and intellectual property rights. We primarily evaluate the success of our business based on revenue growth and the efficiency and effectiveness of our investments. The growth of our business and our future success depend on many factors, including our ability to continue to expand our base of larger clients, grow revenue from our existing clients, innovate and expand internationally. While these areas represent significant opportunities for us, they also pose risks and challenges that we must successfully address, including the impact of continued macroeconomic challenges, the Russia-Ukraine conflict and the conflict in the Middle East, in order to successfully grow our business and improve our operating results. 
+ 
+ Key Operating and Non-GAAP Financial Performance Metrics 
+ In addition to measures of financial performance presented in our condensed consolidated financial statements, we monitor the key metrics set forth below to help us evaluate growth trends, establish budgets, measure the effectiveness of our sales and marketing efforts and assess operational efficiencies. 
+ Annual Dollar-Based Retention Rate 
+ We believe that our Annual Dollar-Based Retention Rate provides insight into our ability to retain and grow revenue from our clients, and is a measure of the long-term value of our client relationships. Our Annual Dollar-Based Retention Rate is calculated by dividing our Retained Net Revenue by our Retention Base Net Revenue on a monthly basis, which we then average using the rates for the trailing twelve months for the period presented. We define Retention Base Net Revenue as recurring net revenue from all clients in the comparable prior year period, and 
+ 33 
+
+Table of Contents 
+
+ we define Retained Net Revenue as recurring net revenue from that same group of clients in the current period. We define recurring net revenue as net subscription and related usage revenue. 
+ The following table shows our Annual Dollar-Based Retention Rate based on Net Revenue for the periods presented: Twelve Months Ended September 30, 2024 September 30, 2023 Annual Dollar-Based Retention Rate 108 110 
+ Our Dollar-Based Retention Rate decreased year-over-year primarily due to continued macroeconomic headwinds on our installed base. 
+ Adjusted EBITDA 
+ We monitor adjusted EBITDA, a non-GAAP financial measure, to analyze our financial results and believe that it is useful to investors, as a supplement to U.S. GAAP measures, in evaluating our ongoing operational performance and enhancing an overall understanding of our past financial performance. We believe that adjusted EBITDA helps illustrate underlying trends in our business that could otherwise be masked by the effect of the income or expenses that we exclude from adjusted EBITDA. Furthermore, we use this measure to establish budgets and operational goals for managing our business and evaluating our performance. We also believe that adjusted EBITDA provides an additional tool for investors to use in comparing our recurring core business operating results over multiple periods with other companies in our industry. 
+ Adjusted EBITDA should not be considered in isolation from, or as a substitute for, financial information prepared in accordance with U.S. GAAP, and our calculation of adjusted EBITDA may differ from that of other companies in our industry. We compensate for the inherent limitations associated with using adjusted EBITDA through disclosure of these limitations, presentation of our financial statements in accordance with U.S. GAAP and reconciliation of adjusted EBITDA to the most directly comparable U.S. GAAP measure, net loss. We calculate adjusted EBITDA as net loss before (1) depreciation and amortization, (2) stock-based compensation, (3) interest expense, (4) gain on early extinguishment of debt, (5) interest (income) and other, (6) exit costs related to the closure and relocation of Russian operations, (7) acquisition and related transaction costs and one-time integration costs, (8) lease amortization for finance leases, (9) costs related to a reduction in force plan, (10) (benefit from) provision for income taxes, and (11) other items that do not directly affect what we consider to be our core operating performance. 
+ 34 
+
+Table of Contents 
+
+ The following table shows a reconciliation of net loss to adjusted EBITDA for the periods presented (in thousands): Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 Net loss (4,479) (20,419) (24,372) (69,406) Non-GAAP adjustments: Depreciation and amortization (1) 
+ 13,144 12,482 38,265 35,553 Stock-based compensation (2) 
+ 39,556 52,611 127,872 156,721 Interest expense 4,068 1,972 10,541 5,683 Gain on early extinguishment of debt (6,615) Interest income and other (11,144) (8,233) (35,503) (18,477) Exit costs related to closure and relocation of Russian operations (3) 
+ 21 659 78 2,070 Acquisition and related transaction costs and one-time integration costs 4,486 778 9,506 3,110 Lease amortization for finance leases 951 492 1,863 492 Costs related to a reduction in force plan 9,625 9,625 (Benefit from) provision for income taxes (3,868) 942 466 2,222 Adjusted EBITDA 52,360 41,284 131,726 117,968 
+ (1) Depreciation and amortization expenses included in our results of operations for the periods presented are as follows (in thousands): Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 Cost of revenue 10,414 10,075 30,448 28,251 Research and development 721 831 2,352 2,571 Sales and marketing 32 36 85 38 General and administrative 1,977 1,540 5,380 4,693 Total depreciation and amortization 
+ 13,144 12,482 38,265 35,553 
+ (2) See Note 7 to the condensed consolidated financial statements for stock-based compensation expense included in our results of operations for the periods presented. 
+ (3) Exit costs related to the closure and relocation of our Russian operations were 0.2 million during both the three and nine months ended September 30, 2024. The 0.0 million and 0.1 million adjustments presented above were net of 0.2 million and 0.1 million included in Interest income and other. Exit costs related to the closure and relocation of our Russian operations were 0.9 million and 2.7 million during the three and nine months ended September 30, 2023. The 0.7 million and 2.1 million adjustments presented above were net of 0.2 million and 0.6 million included in Interest income and other. 
+ 
+ Key Components of Our Results of Operations 
+ Revenue 
+ Our revenue consists of subscription and related usage as well as professional services. We consider our subscription and related usage to be recurring revenue. This recurring revenue includes fixed subscription fees for the delivery and support of our VCC cloud platform, as well as related usage fees. The related usage fees are generally based on the volume of minutes for inbound and outbound client interactions. We also offer bundled plans, generally for smaller deployments, where the client is charged a single monthly fixed fee per agent seat that includes both subscription and unlimited usage in the contiguous 48 states and, in some cases, Canada. We offer monthly, annual and multiple-year contracts for our clients, generally with 30 days notice required for reductions in the number of agent seats. Increases in the number of agent seats can be provisioned almost immediately. Our clients, therefore, are able to adjust the number of agent seats used to meet their changing contact center volume needs. Our larger clients typically choose annual contracts, which generally include an implementation and ramp period of several months. 
+ Fixed subscription fees, including plans with bundled usage, are generally billed monthly in advance, while variable usage fees are billed in arrears. Fixed subscription fees are recognized on a straight-line basis over the applicable term, which is predominantly the monthly contractual billing period. Support activities include technical assistance for our solution and upgrades and enhancements on a when and if available basis, which are not billed separately. Variable subscription related usage fees for non-bundled plans are billed in arrears based on client- 
+ 35 
+
+Table of Contents 
+
+ specific per minute rate plans and are recognized as actual usage occurs. We generally require advance deposits from clients based on estimated usage. All fees, except usage deposits, are non-refundable. 
+ In addition, we generate professional services revenue from assisting clients in implementing our solution and optimizing use. These services include application configuration, system integration and education and training services. Professional services are primarily billed on a fixed-fee basis and are typically performed by us directly. In limited cases, our clients choose to perform these services themselves or engage their own third-party service providers to perform such services. Professional services are recognized as the services are performed using the proportional performance method, with performance measured based on labor hours, provided all other criteria for revenue recognition are met. 
+ While the implications of macroeconomic events on our business, results of operations and overall financial position remain uncertain over the long term, we expect that macroeconomic challenges will continue to have an adverse impact on our revenue in future periods. For example, our installed base business, which typically contributes approximately half of our annual revenue growth, continues to experience macroeconomic headwinds. 
+ Cost of Revenue 
+ Our cost of revenue consists primarily of personnel costs, including stock-based compensation, fees that we pay to telecommunications providers for usage, Universal Service Fund, or USF, contributions and other regulatory costs, depreciation and related expenses of our servers and equipment, costs to build out and maintain co-location data centers, costs of public cloud-based data centers, allocated office and facility costs, amortization of acquired technology, amortization of internal-use software development costs and lease amortization for finance leases. Cost of revenue can fluctuate based on a number of factors, including the fees we pay to telecommunications providers, which vary depending on our clients usage of our VCC cloud platform, the timing of capital expenditures and related depreciation charges and changes in headcount. We expect to continue investing in professional services, public cloud, cloud operations, client support and network infrastructure to maintain high quality and availability of services, which we believe will result in absolute dollar increases in cost of revenue but percentage of revenue declines in the long-term through economies of scale. 
+ Operating Expenses 
+ We classify our operating expenses as research and development, sales and marketing, and general and administrative expenses. 
+ Research and Development . Our research and development expenses consist primarily of salary and related expenses, including stock-based compensation, for personnel related to the development of improvements and expanded features for our services, as well as quality assurance, testing, product management and allocated overhead. We expense research and development expenses as they are incurred except for internal use software development costs that qualify for capitalization. We believe that continued investment in our solution is important for our future growth, and we expect our research and development expenses to increase in absolute dollars and fluctuate as a percentage of revenue in the near and longer term. 
+ Sales and Marketing . Sales and marketing expenses consist primarily of salaries and related expenses, including stock-based compensation, for personnel in sales and marketing, amortization of deferred contract acquisition costs, as well as advertising, marketing, corporate communications, travel costs and allocated overhead. We believe it is important to continue investing in sales and marketing to continue to generate revenue growth, and we expect sales and marketing expenses to increase in absolute dollars and fluctuate as a percentage of revenue in the near and longer term as we continue to support our growth initiatives. 
+ General and Administrative. General and administrative expenses consist primarily of salary and related expenses, including stock-based compensation, for management, finance and accounting, legal, information systems and human resources personnel, professional fees, compliance costs, other corporate expenses and allocated overhead. We expect that general and administrative expenses will fluctuate in absolute dollars and as a percentage of revenue in the near term, but to increase in absolute dollars and decline as a percentage of revenue in the longer term. 
+ 
+ Results of Operations for the Three and Nine Months Ended September 30, 2024 and 2023 
+ Based on the condensed consolidated statements of operations and comprehensive loss set forth in this Quarterly Report on Form 10-Q, the following table sets forth our operating results as a percentage of revenue for 
+ 36 
+
+Table of Contents 
+
+ the periods indicated: Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 Revenue 100 100 100 100 Cost of revenue 46 48 46 48 Gross profit 54 52 54 52 Operating expenses: Research and development 16 18 16 18 Sales and marketing 30 32 32 33 General and administrative 14 13 13 13 Total operating expenses 60 63 61 64 Loss from operations (6) (11) (7) (12) Other income (expense), net: Interest expense (1) (1) (1) (1) Gain on early extinguishment of debt 1 Interest income and other 4 4 4 3 Total other income (expense), net 3 3 4 2 Loss before income taxes (3) (8) (3) (10) (Benefit from) provision for income taxes (1) 1 Net loss (2) (9) (3) (10) 
+ Revenue Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 Change Change September 30, 2024 September 30, 2023 Change Change (in thousands, except percentages) Revenue 264,182 230,105 34,077 15 763,278 671,426 91,852 14 
+ The increase in revenue for the three and nine months ended September 30, 2024 compared to the same periods of 2023 was primarily attributable to our larger clients, driven by an increase in our sales and marketing activities and our improved brand awareness. 
+ Cost of Revenue Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 Change Change September 30, 2024 September 30, 2023 Change Change (in thousands, except percentages) Cost of revenue 121,933 111,080 10,853 10 354,877 320,197 34,680 11 of Revenue 46 48 46 48 
+ The increase in cost of revenue for the three and nine months ended September 30, 2024 compared to the same periods of 2023 was primarily due to a 4.8 million and 15.8 million increase in depreciation, data center and public cloud costs to support our growing capacity needs, a 3.1 million and 8.9 million increase in personnel-related costs primarily driven by 2.1 million in restructuring costs and an increase in net personnel costs, a 1.1 million and 2.4 million increase in USF contributions and other federal telecommunication service fees due to increased client usage, a 0.9 million and 1.8 million increase in office, facilities and related costs, a 0.5 million and 3.7 million increase in third-party costs driven by increased client activities, a 0.5 million and 2.1 million increase in amortization of capitalized internal-use software development costs, and a 0.4 million and 1.3 million increase in lease amortization of finance leases. 
+ 
+ 37 
+
+Table of Contents 
+
+ Gross Profit Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 Change Change September 30, 2024 September 30, 2023 Change Change (in thousands, except percentages) Gross profit 142,249 119,025 23,224 20 408,401 351,229 57,172 16 of Revenue 54 52 54 52 
+ The increase in gross profit for the three and nine months ended September 30, 2024 compared to the same periods of 2023 was primarily due to increases in subscription and related revenues. We expect gross margin to increase in the long term despite continued investments in professional services, public cloud, cloud operations, client support and network infrastructure, as we expect revenue growth in the long term to more than offset these increases. 
+ Operating Expenses 
+ Research and Development Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 Change Change September 30, 2024 September 30, 2023 Change Change (in thousands, except percentages) Research and development 
+ 42,482 40,391 2,091 5 124,717 117,709 7,008 6 of Revenue 16 18 16 18 
+ The increase in research and development expenses for the three and nine months ended September 30, 2024 compared to the same periods of 2023 was primarily due to a 4.3 million and 12.6 million increase in personnel-related costs primarily driven by 1.9 million in restructuring costs and an increase in net personnel costs, a 1.6 million and 2.6 million increase in staff augmentation costs, a 0.5 million and 1.3 million increase in office, facilities and related costs, and a 0.4 million and 1.5 million increase in public cloud development costs, offset in part by a 5.0 million and 11.6 million increase in research and development costs that qualified for capitalization. 
+ Sales and Marketing Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 Change Change September 30, 2024 September 30, 2023 Change Change (in thousands, except percentages) Sales and marketing 
+ 78,615 73,366 5,249 7 238,056 223,757 14,299 6 of Revenue 30 32 32 33 
+ The increase in sales and marketing expenses for the three months ended September 30, 2024 compared to the same period of 2023 was primarily due to a 3.6 million increase in amortization of deferred contract acquisition costs driven by the growth in sales and bookings of our solution, a 3.3 million increase in personnel-related costs primarily driven by 4.4 million in restructuring costs and partially reduced by a decrease in net personnel costs, offset in part by a 1.8 million decrease in marketing spend. 
+ The increase in sales and marketing expenses for the nine months ended September 30, 2024 compared to the same period of 2023 was primarily due to a 12.5 million increase in amortization of deferred contract acquisition costs driven by the growth in sales and bookings of our solution, a 5.0 million increase in personnel-related costs primarily driven by 4.4 million in restructuring costs, offset in part by a 4.8 million decrease in marketing spend. 
+ 38 
+
+Table of Contents 
+
+ General and Administrative Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 Change Change September 30, 2024 September 30, 2023 Change Change (in thousands, except percentages) General and administrative 
+ 36,575 31,006 5,569 18 101,111 89,741 11,370 13 of Revenue 14 13 13 13 
+ The increase in general and administrative expenses for the three months ended September 30, 2024 compared to the same period of 2023 was primarily due to a 3.9 million increase in costs associated with the acquisition of Acqueon, and a 0.8 million increase in personnel-related costs primarily driven by 1.2 million in restructuring costs and partially reduced by a decrease in net personnel costs. 
+ The increase in general and administrative expenses for the nine months ended September 30, 2024 compared to the same period of 2023 was primarily due to a 7.2 million increase in costs associated with the acquisition of Acqueon, and a 4.4 million increase in personnel-related costs primarily driven by an increase in net personnel costs and by 1.2 million in restructuring costs. 
+ Other Income (Expense), Net Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 Change Change September 30, 2024 September 30, 2023 Change Change (in thousands, except percentages) Interest expense (4,068) (1,972) (2,096) 106 (10,541) (5,683) (4,858) 85 Gain on early extinguishment of debt 6,615 6,615 100 Interest income and other 11,144 8,233 2,911 35 35,503 18,477 17,026 92 Total other income (expense), net 7,076 6,261 815 13 31,577 12,794 18,783 147 of Revenue 3 3 4 2 
+ The increase in interest expense for the three and nine months ended September 30, 2024 compared to the same periods of 2023 was primarily due to the issuance of the 2029 convertible senior notes in March 2024. 
+ In connection with the issuance of the 2029 convertible senior notes, we used part of the net proceeds from the issuance to repurchase approximately 313.1 million aggregate principal amount of our then outstanding 2025 convertible senior notes in privately-negotiated transactions for aggregate cash consideration of approximately 304.9 million. The repurchase transaction was accounted for as a debt extinguishment. The difference between the consideration used to extinguish the 2025 convertible senior notes and the carrying value of the 2025 convertible senior notes (including unamortized debt discount and issuance cost) resulted in an extinguishment gain of approximately 6.6 million. See Note 6 to the condensed consolidated financial statements for further details. 
+ The increase in interest income and other for the three and nine months ended September 30, 2024 compared to the same periods of 2023 was primarily due to higher interest income on our marketable investments due to higher investable balances and higher interest rates, offset in part by a 1.3 million impairment charge of an equity investment. 
+ 
+ Liquidity and Capital Resources 
+ To date, we have financed our operations primarily through sales of our solution, net proceeds from our equity and debt financings, including the issuance of our 2029 convertible senior notes in March 2024, issuance of our 2025 convertible senior notes in May and June 2020 and of our 2023 convertible senior notes in May 2018, and lease facilities. As of September 30, 2024, we had 554.0 million in working capital, which included 291.0 million in cash and cash equivalents and 675.7 million in marketable investments. Our intent is that all marketable investments are available for use in our current operations, including marketable investments with maturity dates greater than one year from September 30, 2024. 
+ 39 
+
+Table of Contents 
+
+ In March 2024, we issued 747.5 million aggregate principal amount of our 2029 convertible senior notes in a private offering. The 2029 convertible senior notes mature of March 15, 2029 and are our senior unsecured obligations. The 2029 convertible senior notes bear interest at a fixed rate of 1.00 per annum, payable semiannually in arrears on March 15 and September 15 of each year, beginning on September 15, 2024. The total net proceeds from the issuance of the 2029 convertible senior notes, after deducting initial purchaser' discounts and commissions and estimated debt issuance costs, were approximately 728.9 million. In connection with the issuance of the 2029 convertible senior notes, we used part of the net proceeds from the issuance to repurchase approximately 313.1 million aggregate principal amount of our then outstanding 2025 convertible senior notes in privately-negotiated transactions for aggregate cash consideration of approximately 304.9 million. In connection with the issuance of the 2029 convertible senior notes, we also entered into privately negotiated capped call transactions with certain financial institutions. We believe our existing cash and cash equivalents will be sufficient to meet our working capital and capital expenditure needs for at least the next 12 months. 
+ We plan to continue to finance our operations in the future primarily through sales of our solution, net proceeds from equity and debt financings, and lease facilities, but we may consider pursuing a revolving credit facility in the future. Our future capital requirements will depend on many factors including our growth rate, continuing market acceptance of our solution, the strength of the global economy, client retention, growth within our installed base, our ability to gain new clients, the timing and extent of spending to support research and development efforts, the outcome of any pending or future litigation or other claims by third parties or governmental entities, the expansion of sales and marketing activities and personnel, the introduction of new and enhanced offerings, expenses incurred in closing our Russia operations and expanding our operations in Portugal and any operational disruptions due to this transition, and the effect of the length and severity of the continued macroeconomic challenges, the Russia-Ukraine conflict, and the conflict in the Middle East on these or other factors. We may also acquire or invest in complementary businesses, technologies and intellectual property rights, such as our recent acquisitions of Aceyus in August 2023 and Acqueon in August 2024, which may increase our use of cash and future capital requirements, both to pay acquisition costs and to support our combined operations. We may raise additional capital through equity or debt financings at any time to fund these or other requirements. However, we may not be able to raise additional capital through equity or debt financings when needed on terms acceptable to us or at all, depending on our financial performance and condition, economic and market conditions, the trading price of our common stock, and other factors, including the length and severity of the current economic downturn and fluctuations in the financial markets, including due to the Russia-Ukraine conflict and the conflict in the Middle East. If we are unable to raise additional capital as needed, our business, operating results and financial condition could be harmed. In addition, if our operating performance during the next twelve months is below our expectations, our liquidity and ability to operate our business also could be harmed. 
+ If we raise additional funds by issuing equity or equity-linked securities, the ownership of our existing stockholders would be diluted. If we raise additional funds through the incurrence of additional indebtedness, we will be subject to increased debt service obligations and could also be subject to restrictive covenants and other operating restrictions that could negatively impact our ability to operate our business. 
+ Cash Flows 
+ The following table summarizes our cash flows for the periods presented (in thousands): Nine Months Ended September 30, 2024 September 30, 2023 Net cash provided by operating activities 93,353 92,294 Net cash used in investing activities (284,741) (234,974) Net cash provided by financing activities 339,398 91,047 Net increase (decrease) in cash, cash equivalents and restricted cash 148,010 (51,633) 
+ Cash Flows from Operating Activities 
+ Cash provided by operating activities is primarily influenced by our personnel-related expenditures, data center and telecommunications carrier costs, office and facility related costs, USF contributions and other regulatory costs and the amount and timing of client payments. If we continue to improve our financial results, we expect net cash provided by operating activities to increase. Our largest source of operating cash inflows is cash collections from our clients for subscription and related usage services. Payments from clients for these services are typically received monthly. 
+ 40 
+
+Table of Contents 
+
+ Net cash provided by operating activities was 93.4 million during the nine months ended September 30, 2024. Net cash provided by operating activities resulted from our net loss of 24.3 million, adjustments to reconcile net loss to net cash provided by operating activities of 207.2 million, primarily consisting of 127.9 million of stock-based compensation, 52.2 million of amortization of deferred contract acquisition costs, 38.3 million of depreciation and amortization, 10.6 million of amortization of operating lease right-of-use assets, 4.0 million of amortization of issuance costs on our convertible senior notes, 1.3 million impairment charge of an equity investment, (16.8) million accretion of discount on marketable investments and (6.6) million gain on early extinguishment of debt, partially offset by use of cash for operating assets and liabilities of (89.5) million primarily due to the timing of cash payments to vendors and cash receipts from customers. 
+ Net cash provided by operating activities was 92.3 million during the nine months ended September 30, 2023. Net cash provided by operating activities resulted from our net loss of 69.4 million, adjustments to reconcile net loss to net cash provided by operating activities of 238.6 million, primarily consisting of 156.7 million of stock-based compensation, 35.6 million of depreciation and amortization, 40.1 million of amortization of deferred contract acquisition costs, 9.2 million of amortization of operating lease right-of-use assets, 2.8 million of 
+ amortization of issuance costs on our convertible senior notes, and (7.7) million accretion of discount on marketable investments, partially offset by use of cash for operating assets and liabilities of (76.9) million primarily due to the timing of cash payments to vendors and cash receipts from customers. 
+ Cash Flows from Investing Activities 
+ Net cash used in investing activities of (284.7) million in the nine months ended September 30, 2024 was comprised of 993.5 million related to purchases of marketable investments, 167.2 million, net of cash acquired in connection with the acquisition of Acqueon, 33.1 million in capital expenditures and 14.2 million in capitalized software development costs, offset in part by 923.1 million related to cash proceeds from sales and maturities of marketable investments. 
+ Net cash used in investing activities of (235.0) million in the nine months ended September 30, 2023 was comprised of 544.7 million related to purchases of marketable investments, 80.6 million, net of cash acquired in connection with the acquisition of Aceyus, 19.9 million in capital expenditures and 5.8 million in capitalized software development costs, offset in part by 416.1 million related to cash proceeds from sales and maturities of marketable investments. 
+ Cash Flows from Financing Activities 
+ Net cash provided by financing activities of 339.4 million in the nine months ended September 30, 2024 was related to net cash proceeds of 728.8 million from the issuance of the 2029 convertible senior notes, net of initial purchasers' discounts and commissions and debt issuance costs, 9.5 million from the sale of common stock under our employee stock purchase plan, 0.5 million cash received from the partial termination of capped calls associated with the 2025 convertible senior notes, and 0.4 million of cash proceeds from the exercise of stock options, offset in part by 304.5 million from the repurchase of a portion of the 2025 convertible senior notes, 93.4 million from the payment for capped call transactions associated with the 2029 convertible senior notes, and 2.0 million of payments related to finance leases. 
+ Net cash provided by financing activities of 91.0 million in the nine months ended September 30, 2023 was related to 74.5 million of cash received from the settlement at maturity of the outstanding capped calls associated with the repurchase and early settlements of the 2023 convertible senior notes, 9.4 million from the sale of common stock under our employee stock purchase plan, and cash proceeds of 8.3 million from the exercise of stock options, offset in part by 0.5 million of holdback payment related to an acquisition, 0.5 million of payments related to finance leases and 0.2 million of cash paid in connection with 2023 convertible senior note settlements. 
+ 
+ Critical Accounting Policies and Estimates 
+ Our condensed consolidated financial statements are prepared in accordance with U.S. GAAP. The preparation of these financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, expenses and related disclosures. On an ongoing basis, we evaluate our estimates and assumptions. Our actual results may differ from these estimates under different assumptions or conditions. 
+ 41 
+
+Table of Contents 
+
+ There have been no material changes to our critical accounting policies and estimates from those disclosed in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 filed with the SEC on February 22, 2024. 
+ 
+ Recent Accounting Pronouncements 
+ Refer to Note 1 of the notes to condensed consolidated financial statements included in this report. 
+ 
+ Contractual and Other Obligations 
+ Our material cash requirements include the following contractual and other obligations. 
+ Convertible Senior Notes 
+ In May and June 2020, we issued 747.5 million aggregate principal amount of our 2025 convertible senior notes in a private offering. The 2025 convertible senior notes mature on June 1, 2025 and are our senior unsecured obligations. The 2025 convertible senior notes bear interest at a fixed rate of 0.50 per annum, payable semiannually in arrears on June 1 and December 1 of each year, beginning December 1, 2020. The total net proceeds from the offering, after deducting initial purchasers discounts and commissions and estimated debt issuance costs, were approximately 728.8 million. In connection with the issuance of the 2029 convertible senior notes, we used part of the net proceeds from the issuance to repurchase approximately 313.1 million aggregate principal amount of our 2025 convertible senior notes. As of September 30, 2024, the aggregate principal amount outstanding of our 2025 convertible senior notes was 434.4 million. 
+ In March 2024, we issued 747.5 million aggregate principal amount of our 2029 convertible senior notes in a private offering. The 2029 convertible senior notes mature of March 15, 2029 and are our senior unsecured obligations. The 2029 convertible senior notes bear interest at a fixed rate of 1.00 per annum, payable semiannually in arrears on March 15 and September 15 of each year, beginning on September 15, 2024. The total net proceeds from the issuance of the 2029 convertible senior notes, after deducting initial purchasers' discounts and commissions and debt issuance costs, were approximately 728.9 million. As of September 30, 2024, the aggregate principal amount outstanding of our 2025 convertible senior notes was 747.5 million. 
+ See Note 6 to the condensed consolidated financial statements included in this report for further details. 
+ Leases 
+ We have leases for offices, data centers and computer and networking equipment that expire at various dates through 2031. Our leases have remaining terms of one to seven years. Some of the leases include an option to extend the leases for up to one to five years, and some of the leases include the option to terminate the leases upon 30-days' notice. We had outstanding operating lease obligations of 56.9 million as of September 30, 2024, with 3.5 million payable in the remainder of 2024, 24.0 million payable in 2025 and 2026, 15.0 million payable in 2027 and 2028, and 14.4 million payable after 2028. We also had outstanding finance lease obligations of 23.1 million as of September 30, 2024, with 2.2 million payable in the remainder of 2024, 16.4 million payable in 2025 and 2026, and 4.5 million payable in 2027 and 2028. We entered into three-year equipment finance lease agreements and recognized 18.6 million right of use assets during the three months ended September 30, 2024, which were reported within "Finance lease right-of-use assets" and are being depreciated on a straight-line basis over the lease term. As a result, we also recognized short-term lease liabilities of 5.9 million within "Finance lease liabilities" and long-term lease liabilities of 12.7 million within "Finance lease liabilities - less current portion" for the three months ended September 30, 2024. See Note 12 to the condensed consolidated financial statements included in this report for further details. 
+ Cloud Services and Software and Maintenance 
+ As of September 30, 2024, we had outstanding cloud services and software and maintenance agreement commitments totaling 42.1 million, of which 0.4 million is expected to be purchased in the remainder of 2024, 21.9 million is expected to be purchased in 2025, and the remaining 19.8 million is expected to be purchased in 2026. During the three months ended September 30, 2024, we entered into equipment finance lease arrangements that resulted in a 17.2 million additional reduction of our outstanding cloud services commitment. See Note 12 for more information. 
+ Hosting and Telecommunication Usage Services 
+ 42 
+
+Table of Contents 
+
+ We have agreements with third parties to provide co-location hosting and telecommunication usage services. The agreements require payments per month for a fixed period of time in exchange for certain guarantees of network and telecommunication availability. As of September 30, 2024, we had outstanding hosting and telecommunication usage services obligations of 11.7 million, with 1.5 million payable in the remainder of 2024, 7.4 million payable in 2025 and 2026, 2.7 million payable in 2027 and 2028, and 0.1 million payable in 2029. 
+ Indemnification Agreements 
+ In the ordinary course of business, we enter into agreements of varying scope and terms pursuant to which we agree to indemnify clients, vendors, lessors, business partners and other parties with respect to certain matters, including, but not limited to, losses arising out of breach of such agreements, services to be provided by us or from intellectual property infringement claims made by third parties. In addition, we have entered into indemnification agreements with our directors, officers and certain employees that will require us, among other things, to indemnify them against certain liabilities that may arise by reason of their status or service as directors, officers or employees. There are no claims that we are aware of that could have a material effect on our consolidated balance sheet, consolidated statements of operations and comprehensive loss, or consolidated statements of cash flows. 
+ Contingencies Legal and Regulatory 
+ We are subject to certain legal and regulatory proceedings, and from time to time may be involved in a variety of claims, lawsuits, investigations, and proceedings relating to contractual disputes, intellectual property rights, employment matters, regulatory compliance matters, and other litigation matters relating to various claims that arise in the normal course of business. We determine whether an estimated loss from a contingency should be accrued by assessing whether a loss is deemed probable and can be reasonably estimated. We assess our potential liability by analyzing specific litigation and regulatory matters using reasonably available information. We develop our views on estimated losses in consultation with inside and outside counsel, which involves a subjective analysis of potential results and outcomes, assuming various combinations of appropriate litigation and settlement strategies. Legal fees are expensed in the period in which they are incurred. See Note 10 to the condensed consolidated financial statements for more details. 
+
+43 
+
+Table of Contents 
+
+ ITEM 3. Quantitative and Qualitative Disclosures about Market Risk 
+ We are exposed to market risk in the ordinary course of our business. Market risk represents the risk of loss that may impact our financial position due to adverse changes in financial market prices and rates. Our market risk exposure is primarily a result of fluctuations in interest rates and foreign currency exchange rates. We do not hold or issue financial instruments for trading purposes. For a discussion of market risk, see Quantitative and Qualitative Disclosure about Market Risk in Item 7A of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. Our exposure to market risk has not changed materially since December 31, 2023. 
+ Interest Rate Sensitivity 
+ We had cash and cash equivalents, and marketable securities totaling 966.7 million as of September 30, 2024. Cash equivalents and marketable securities were invested primarily in U.S. agency and government sponsored securities, U.S. treasury securities, municipal bonds, commercial paper, corporate bonds, certificates of deposit and money market funds. Our investment policy is focused on the preservation of capital and supporting our liquidity needs. Under this policy, we invest in highly rated securities, while limiting the amount of credit exposure to any one issuer other than the U.S. government. We do not invest in financial instruments for trading or speculative purposes, nor do we use leveraged financial instruments. We utilize external investment managers who adhere to the guidelines of our investment policy. A hypothetical 100 basis point change in interest rates would not have a material impact on the value of our cash and cash equivalents or marketable investments. 
+ As of September 30, 2024, aggregate principal amount outstanding of our 2025 and 2029 convertible senior notes was 1,181.9 million. The fair value of the convertible senior notes are subject to interest rate risk, market risk and other factors due to their conversion features. The fair value of the convertible senior notes will generally increase as our common stock price increases and will generally decrease as our common stock price declines. The interest and market value changes affect the fair value of the convertible senior notes but do not impact our financial position, cash flows or results of operations due to the fixed nature of the debt obligations. Additionally, we carry the convertible senior notes at face value less unamortized discount on our condensed consolidated balance sheets, and we present the fair value for required disclosure purposes only. 
+ Our 2025 and 2029 convertible senior notes bear fixed interest rates and, therefore, are not subject to interest rate risk. We have not utilized derivative financial instruments, derivative commodity instruments or other market risk sensitive instruments, positions or transactions in any material fashion, except for the privately negotiated capped call transactions entered into in May and June 2020 related to the issuance of our 2025 convertible senior notes and entered into in March 2024 related to the issuance of our 2029 convertible senior notes. 
+ Foreign Currency Risk 
+ The functional currency of our foreign subsidiaries is the U.S. dollar. Our sales are primarily denominated in U.S. dollars and, therefore, our revenue is not directly subject to foreign currency risk. However, we are indirectly exposed to foreign currency risk. A stronger U.S. dollar makes our solution more expensive outside the United States and therefore can reduce demand. A weaker U.S. dollar could have the opposite effects. Such economic exposure to currency fluctuations is difficult to measure or predict because our sales are influenced by many factors in addition to the impact of currency fluctuations. Our operating expenses are generally denominated in the currencies of the countries in which our operations are located, except for Russia where compensation of our employees was primarily denominated in the U.S. dollar. In March 2022, we made a decision to close our Russia office in June 2022 and to establish a new European development center in Portugal. 
+ Our consolidated results of operations and cash flows are, therefore, subject to fluctuations due to changes in foreign currency exchange rates and may be adversely affected in the future due to changes in foreign exchange rates. To date, we have not entered into any hedging arrangements with respect to foreign currency risk or other derivative financial instruments. During the nine months ended September 30, 2024, the effect of a hypothetical 10 change in foreign currency exchange rates applicable to our business would have a maximum impact of 7.2 million on our operating expenses. 
+ 44 
+
+Table of Contents 
+
+ ITEM 4. Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ Under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, we conducted an evaluation of the effectiveness of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, as of September 30, 2024. 
+ Based on management s evaluation, our Chief Executive Officer and Chief Financial Officer concluded that, as of September 30, 2024, our disclosure controls and procedures were designed, and were effective, to provide assurance at a reasonable level that the information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms, and that such information is accumulated and communicated to our management as appropriate to allow timely decisions regarding required disclosures. 
+ In designing and evaluating our disclosure controls and procedures, management recognizes that any disclosure controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply its judgment in evaluating the benefits of possible controls and procedures relative to their costs. 
+ Changes in Internal Control over Financial Reporting 
+ During the three months ended September 30, 2024, there was no change in our internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ 45 
+
+Table of Contents 
+
+ PART II. OTHER INFORMATION 
+ 
+ ITEM 1. Legal Proceedings 
+ Information with respect to this Item may be found under the heading Legal Matters in Note 10 to the condensed consolidated financial statements in this Quarterly Report on Form 10-Q, which information is incorporated herein by reference. 
+ 
+ ITEM 1A. Risk Factors 
+ Except for the below risk factors, which update those previously disclosed in our Annual Report on Form 10-K filed with the SEC on February 22, 2024, there have been no material changes from the Risk Factors previously disclosed in Part 1, Item 1A, of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. In addition to the other information set forth in this report, including the below update to Risk Factors, you should carefully consider the Risk Factors discussed in our Annual Report on Form 10-K as they could materially affect our business, financial condition and future results of operation. 
+ Risks Related to Ownership of Our Convertible Senior Notes 
+ Servicing our debt may require a significant amount of cash. We may not have sufficient cash flow from our business to pay our indebtedness, and we may not have the ability to raise the funds necessary to settle conversions of the convertible senior notes in cash or to repurchase the convertible senior notes for cash upon a fundamental change, which could adversely affect our business and results of operations. 
+ In May and June 2020, we issued 747.5 million in aggregate principal amount of the 2025 convertible senior notes in a private offering, 434.4 million of which was outstanding as of September 30, 2024. The 2025 convertible senior notes mature on June 1, 2025, and the interest rate of the 2025 convertible senior notes is fixed at 0.500 per annum, payable semiannually in arrears on June 1 and December 1 of each year, beginning on December 1, 2020. In March 2024, we issued 747.5 million in aggregate principal amount of the 2029 senior notes in a private offering, all of which were outstanding as of September 30, 2024. The 2029 convertible senior notes mature on March 15, 2029, and the interest rate of the 2029 convertible senior notes is fixed at 1.000 per annum, payable semiannually in arrears on March 15 and September 15 of each year, beginning on September 15, 2024. 
+ Our ability to make scheduled payments of principal and interest under our 2025 convertible senior notes and our 2029 convertible senior notes, or to refinance such indebtedness, depends on our future performance, which is subject to economic, financial, competitive and other factors beyond our control, including those described in this report. Our business may not generate cash flows from operations in the future that are sufficient to service our indebtedness and make necessary capital expenditures. If we are unable to generate sufficient cash flows, we may be required to pursue one or more alternatives, such as selling assets, restructuring debt or obtaining additional debt financing or equity capital on terms that may be onerous or highly dilutive to existing holders of our common stock. Our ability to obtain additional financing or refinance the 2025 convertible senior notes, the 2029 convertible senior notes or any future indebtedness, will depend on conditions in the capital markets and our financial condition at such time, among other factors. We may not be able to engage in any of these activities on favorable terms or at all, which could result in a default on our debt obligations or other material adverse effects on our business and financial condition. 
+ Subject to certain conditions, holders of the convertible senior notes have the right to require us to repurchase for cash all or any portion of their convertible senior notes upon the occurrence of a fundamental change (as defined in the indenture governing the convertible senior notes) at a fundamental change repurchase price equal to 100 of the principal amount of the convertible senior notes to be repurchased, plus accrued and unpaid interest, if any, to, but excluding, the applicable fundamental change repurchase date. 
+ Upon conversion of the convertible senior notes in accordance with their terms, unless we elect to deliver solely shares of our common stock to settle such conversion (other than paying cash in lieu of delivering any fractional share), we will be required to settle a portion or all of our conversion obligation through the payment of cash. We may not have enough available cash or be able to obtain financing at the time we are required to make repurchases in connection with such conversion and our ability to pay may be further limited by law, regulatory authority or agreements governing our future indebtedness. Our failure to repurchase any convertible senior notes at a time when the repurchase is required by the applicable indenture or to pay any cash payable on any future conversions as required by such indenture would constitute a default under such indenture. A default under the applicable indenture would lead to, and the occurrence of the fundamental change itself may also lead to, a default under agreements governing our future indebtedness. If the repayment of the related indebtedness were to be 
+ 46 
+
+Table of Contents 
+
+ accelerated after any applicable notice or grace periods, we may not have sufficient funds to repay the indebtedness or repurchase the convertible senior notes when required, or to make cash payments upon conversions thereof. 
+ If triggered, the conditional conversion features of the convertible senior notes may adversely affect our financial condition and operating results. 
+ If and to the extent the conditional conversion features of either or both series of our convertible senior notes are triggered, holders of such convertible senior notes will be entitled to convert their convertible senior notes at any time during specified periods at their option. During the three months ended September 30, 2024, the conversion features of the 2025 convertible senior notes were not triggered. Accordingly, holders of the 2025 convertible senior notes are not entitled to convert their convertible senior notes from October 1, 2024 to December 31, 2024. During the three months ended September 30, 2024, the conversion features of the 2029 convertible senior notes were not triggered. Accordingly, holders of the 2029 convertible senior notes are not entitled to convert their convertible senior notes from October 1, 2024 to December 31, 2024. Whether either or both series of our convertible senior notes will be convertible after December 31, 2024 will depend on the satisfaction of the applicable conversion conditions. 
+ To the extent that the conditional conversion features of either or both series of our convertible senior notes are triggered in the future, holders of such convertible senior notes will be entitled to convert their convertible senior notes at any time during the specified periods at their option. If one or more holders elect to convert their convertible senior notes during any such specified period, we have the option to pay or deliver, as the case may be, cash, shares of our common stock or a combination of cash and shares of our common stock, at our election. Any election to settle conversions of convertible senior notes with cash could adversely affect our liquidity. 
+ Transactions relating to the convertible senior notes may dilute the ownership interests of our existing stockholders or adversely affect the market price of our common stock; the trading price of our convertible senior notes may be affected by volatility in the price of our common stock. 
+ The conversion of some or all of the convertible senior notes would dilute the ownership interests of our existing stockholders to the extent we satisfy our conversion obligation by delivering shares of our common stock. In this regard, if holders of the convertible senior notes elect to convert their notes, we may settle our conversion obligations by delivering to them cash, shares of our common stock or a combination thereof. In addition, we may issue shares of our common stock in connection with repurchases, exchanges or other transactions involving the convertible senior notes. Historically, we have elected to satisfy our convertible senior note conversion obligations through the payment of cash in certain circumstances, the issuance of shares of common stock in other circumstances, or a combination thereof, to such convertible senior note holders. See Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operation-Liquidity and Capital Resources, for further discussion of our elections to satisfy our conversion obligations. 
+ In addition, in connection with the issuance of each series of the convertible senior notes, we entered into capped call transactions with certain financial institutions, or the Option Counterparties. The capped call transactions are expected generally to reduce the potential dilution to holders of our common stock upon any conversion or settlement of the convertible notes and/or offset any cash payments we are required to make in excess of the principal amount of such convertible senior notes, as the case may be, with such reduction and/or offset subject to a cap under the terms of the capped call transactions. We expect that the Option Counterparties or their respective affiliates may from time to time purchase shares of our common stock and/or enter into various derivative transactions with respect to our common stock in connection with their hedging activities relating to the capped call transactions. The Option Counterparties or their respective affiliates also may modify their hedge positions by entering into or unwinding such derivative transactions and/or purchasing or selling our common stock or other securities of ours in secondary market transactions prior to the applicable maturity of the convertible senior notes. These activities could negatively affect the market price of our common stock. 
+ Volatility and declines in the trading price of our common stock may result in decreases in the trading prices of our convertible senior notes. Our convertible senior notes do not trade in a liquid market and are thus subject to increased volatility, particularly when our common stock price is volatile. 
+ 
+ ITEM 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ Not applicable. 
+ 47 
+
+Table of Contents 
+
+ ITEM 3. Defaults Upon Senior Securities 
+ None. 
+ 
+ ITEM 4. Mine Safety Disclosures 
+ Not applicable. 
+ 
+ ITEM 5. Other Information 
+ Rule 10b5-1 Plans 
+ During the fiscal quarter ended September 30, 2024, none of the Company's directors and officers , modified, or a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement: 
+
+48 
+
+Table of Contents 
+
+ ITEM 6. Exhibits Exhibit Number Description 31.1 
+ Certification of Chief Executive Officer of Five9, Inc. Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 31.2 
+ Certification of Chief Financial Officer of Five9, Inc. Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+ 32.1 
+ Certification of Chief Executive Officer and Chief Financial Officer of Five9, Inc. Pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101.INS XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 101.SCH XBRL Taxonomy Schema Linkbase Document 101.CAL XBRL Taxonomy Calculation Linkbase Document 101.DEF XBRL Taxonomy Definition Linkbase Document 101.LAB XBRL Taxonomy Labels Linkbase Document 101.PRE XBRL Taxonomy Presentation Linkbase Document 104 Cover Page Interactive Data File. Formatted as inline XBRL and contained in Exhibit 101. 
+ Filed herewith. 
+ Furnished herewith. 
+
+49 
+
+Table of Contents 
+
+ SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. Five9, Inc. Date: November 7, 2024 By: /s/ Michael Burkland Michael Burkland Chief Executive Officer (Principal Executive Officer) /s/ Barry Zwarenstein Barry Zwarenstein Chief Financial Officer (Principal Financial Officer) /s/ Leena Mansharamani Leena Mansharamani Chief Accounting Officer (Principal Accounting Officer) 
+ 
+ 50 
+
+<EX-31.1>
+ 2
+ a093024exhibit311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO SECTION 302 OF 
+ THE SARBANES-OXLEY ACT OF 2002 
+ I, Michael Burkland, certify that 
+ 
+ 1. I have reviewed this quarterly report on Form 10-Q of Five9, Inc. for the quarter ended September 30, 2024 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 7, 2024 By s Michael Burkland Michael Burkland Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a093024exhibit312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO SECTION 302 OF 
+ THE SARBANES-OXLEY ACT OF 2002 
+ I, Barry Zwarenstein, certify that 
+ 
+ 1. I have reviewed this quarterly report on Form 10-Q of Five9, Inc. for the quarter ended September 30, 2024 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 7, 2024 By s Barry Zwarenstein Barry Zwarenstein Chief Financial Officer (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ a093024exhibit321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL OFFICER 
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Michael Burkland, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report of Five9, Inc. (the Company on Form 10-Q for the fiscal quarter ended September 30, 2024 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Quarterly Report on Form 10-Q fairly presents in all material respects the financial condition and results of operations of the Company. 
+ Date November 7, 2024 By s Michael Burkland Michael Burkland Chief Executive Officer 
+
+I, Barry Zwarenstein, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that the Quarterly Report of Five9, Inc. (the Company on Form 10-Q for the fiscal quarter ended September 30, 2024 fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and that information contained in such Quarterly Report on Form 10-Q fairly presents in all material respects the financial condition and results of operations of the Company. 
+ Date November 7, 2024 By s Barry Zwarenstein Barry Zwarenstein Chief Financial Officer 
+
+This certification accompanies the Form 10-Q to which it relates, is not deemed filed with the Securities and Exchange Commission and is not to be incorporated by reference into any filing of Five9, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before or after the date of the Form 10-Q), irrespective of any general incorporation language contained in such filing. 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ fivn-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ fivn-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ fivn-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ fivn-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ fivn-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

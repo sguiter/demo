@@ -1,0 +1,842 @@
+<Header>
+<FileStats>
+    <FileName>20241030_10-Q_edgar_data_1169561_0001169561-24-000133.txt</FileName>
+    <GrossFileSize>7016873</GrossFileSize>
+    <NetFileSize>87104</NetFileSize>
+    <NonText_DocumentType_Chars>2276722</NonText_DocumentType_Chars>
+    <HTML_Chars>1621278</HTML_Chars>
+    <XBRL_Chars>1617317</XBRL_Chars>
+    <XML_Chars>1320512</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001169561-24-000133.hdr.sgml : 20241030
+<ACCEPTANCE-DATETIME>20241030140502
+ACCESSION NUMBER:		0001169561-24-000133
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		108
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241030
+DATE AS OF CHANGE:		20241030
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COMMVAULT SYSTEMS INC
+		CENTRAL INDEX KEY:			0001169561
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-33026
+		FILM NUMBER:		241409249
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1 COMMVAULT WAY
+		CITY:			TINTON FALLS
+		STATE:			NJ
+		ZIP:			07724
+		BUSINESS PHONE:		732-870-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		1 COMMVAULT WAY
+		CITY:			TINTON FALLS
+		STATE:			NJ
+		ZIP:			07724
+
+</SEC-Header>
+</Header>
+
+ 0001169561-24-000133.txt : 20241030
+
+10-Q
+ 1
+ cvlt-20240930.htm
+ 10-Q
+
+cvlt-20240930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ Quarterly Report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+ For the quarterly period ended: 
+ 
+ Transition report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+ Commission File Number: 
+ 
+ . 
+ (Exact name of registrant as specified in its charter) 
+ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ 
+ , 
+ (Address of principal executive offices, including zip code) 
+
+(Registrant s telephone number, including area code) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer", "accelerated filer", "smaller reporting company", and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+ x Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No x 
+ As of October 28, 2024, there were shares of the registrant s common stock, 0.01 par value, outstanding. 
+ 1 
+
+COMMVAULT SYSTEMS, INC. 
+ FORM 10-Q 
+ INDEX 
+ 
+ Page Part I FINANCIAL INFORMATION Item 1. Financial Statements 
+ Unaudited Consolidated Balance Sheets as of September 30, 2024 and March 31, 2024 
+ 1 
+ Unaudited Consolidated Statements of Operations for the three and six months ended September 30, 2024 and 2023 
+ 2 
+ Unaudited Consolidated Statements of Comprehensive Income for the three and six months ended September 30, 2024 and 2023 
+ 3 
+ Unaudited Consolidated Statements of Stockholders Equity for the three and six months ended September 30, 2024 and 2023 
+ 4 
+ Unaudited Consolidated Statements of Cash Flows for the six months ended September 30, 2024 and 2023 
+ 6 
+ Notes to Consolidated Financial Statements (unaudited) 
+ 7 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 23 
+ Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+ 36 
+ Item 4. Controls and Procedures 
+ 37 
+ Part II OTHER INFORMATION 
+ Item 1. Legal Proceedings 
+ 38 
+ Item 1A. Risk Factors 
+ 38 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 38 
+ Item 3. Defaults Upon Senior Securities 
+ 38 
+ Item 4. Mine Safety Disclosures 
+ 38 
+ Item 5. Other Information 
+ 39 
+ Item 6. Exhibits 
+ 39 
+ SIGNATURES 
+ 40 
+
+2 
+
+Table of Contents 
+
+Commvault Systems, Inc. 
+ Consolidated Balance Sheets 
+ (In thousands, except per share data) 
+ (Unaudited) 
+ September 30, 2024 March 31, 2024 ASSETS Current assets: Cash and cash equivalents Trade accounts receivable, net Assets held for sale Other current assets Total current assets Deferred tax assets, net Property and equipment, net Operating lease assets Deferred commissions cost Intangible assets, net Goodwill Other assets Total assets LIABILITIES AND STOCKHOLDERS EQUITY Current liabilities: Accounts payable Accrued liabilities Current portion of operating lease liabilities Deferred revenue Total current liabilities Deferred revenue, less current portion Deferred tax liabilities Long-term operating lease liabilities Other liabilities Commitments and contingencies (Note 8) par value: shares authorized, shares issued and outstanding 
+ Common stock, par value: shares authorized, shares and shares issued and outstanding at September 30, 2024 and March 31, 2024, respectively 
+ Additional paid-in capital Accumulated deficit ) ) Accumulated other comprehensive loss ) ) Total stockholders equity Total liabilities and stockholders equity 
+ See accompanying unaudited notes to consolidated financial statements 
+ 1 
+
+Table of Contents 
+
+ Commvault Systems, Inc. 
+ Consolidated Statements of Operations 
+ (In thousands, except per share data) 
+ (Unaudited) 
+ Three Months Ended September 30, Six Months Ended September 30, 2024 2023 2024 2023 Revenues: Subscription Perpetual license Customer support Other services Total revenues Cost of revenues: Subscription Perpetual license Customer support Other services Total cost of revenues Gross margin Operating expenses: Sales and marketing Research and development General and administrative Restructuring Depreciation and amortization Impairment charges 
+ Total operating expenses Income from operations Interest income Interest expense ) ) ) ) Other income (expense), net ) Income before income taxes Income tax expense Net income Net income per common share: Basic Diluted Weighted average common shares outstanding: Basic Diluted 
+ 
+ See accompanying unaudited notes to consolidated financial statements 
+ 2 
+
+Table of Contents 
+
+Commvault Systems, Inc. 
+ Consolidated Statements of Comprehensive Income 
+ (In thousands) 
+ (Unaudited) 
+ Three Months Ended September 30, Six Months Ended September 30, 2024 2023 2024 2023 Net income Other comprehensive income (loss): Foreign currency translation adjustment ) ) Comprehensive income 
+ 
+ See accompanying unaudited notes to consolidated financial statements 
+ 3 
+
+Table of Contents 
+
+ Commvault Systems, Inc. 
+ Consolidated Statements of Stockholders Equity 
+ (In thousands) 
+ (Unaudited) 
+ 
+ Common Stock Additional Paid In Capital Accumulated Deficit Accumulated Other Comprehensive Loss Total Shares Amount Balance as of June 30, 2024 ) ) Stock-based compensation Share issuances related to stock-based compensation Repurchase of common stock ) ) ) ) ) Net income Other comprehensive income Balance as of September 30, 2024 ) ) 
+ 
+ Common Stock Additional Paid In Capital Accumulated Deficit Accumulated Other Comprehensive Loss Total Shares Amount Balance as of March 31, 2024 ) ) Stock-based compensation Share issuances related to business combination Share issuances related to stock-based compensation Repurchase of common stock ) ) ) ) ) Net income Other comprehensive income Balance as of September 30, 2024 ) ) 
+
+4 
+
+Table of Contents 
+
+ Commvault Systems, Inc. 
+ Consolidated Statements of Stockholders Equity 
+ (In thousands) 
+ (Unaudited) 
+ Common Stock Additional Paid In Capital Accumulated Deficit Accumulated Other Comprehensive Loss Total Shares Amount Balance as of June 30, 2023 ) ) Stock-based compensation Share issuances related to stock-based compensation Repurchase of common stock ) ) ) ) ) Net income Other comprehensive loss ) ) Balance as of September 30, 2023 ) ) 
+ 
+ Common Stock Additional Paid In Capital Accumulated Deficit Accumulated Other Comprehensive Loss Total Shares Amount Balance as of March 31, 2023 ) ) Stock-based compensation Share issuances related to stock-based compensation Repurchase of common stock ) ) ) ) ) Net income Other comprehensive loss ) ) Balance as of September 30, 2023 ) ) 
+ 
+ See accompanying unaudited notes to consolidated financial statements 
+ 
+ 5 
+
+Table of Contents 
+
+ Commvault Systems, Inc. 
+ Consolidated Statements of Cash Flows 
+ (In thousands) 
+ (Unaudited) 
+ Six Months Ended September 30, 2024 2023 Cash flows from operating activities Net income Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization Noncash stock-based compensation Noncash change in fair value of equity securities ) ) Noncash impairment charges Noncash operating lease expense Deferred income taxes ) Amortization of deferred commissions cost Changes in operating assets and liabilities: Trade accounts receivable, net Operating lease liabilities ) ) Other current assets and Other assets ) ) Deferred commissions cost ) ) Accounts payable ) Accrued liabilities ) ) Deferred revenue Other liabilities ) Net cash provided by operating activities Cash flows from investing activities Purchase of property and equipment ) ) Purchase of equity securities ) ) Business combination, net of cash acquired ) Net cash used in investing activities ) ) Cash flows from financing activities Repurchase of common stock ) ) Proceeds from stock-based compensation plans Net cash used in financing activities ) ) Effects of exchange rate changes in cash ) Net decrease in cash and cash equivalents ) ) Cash and cash equivalents at beginning of period Cash and cash equivalents at end of period Supplemental disclosures of noncash activities Issuance of common stock for business combination Operating lease liabilities arising from obtaining right-of-use assets 
+
+See accompanying unaudited notes to consolidated financial statements 
+ 6 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited 
+ (In thousands, except per share data) 
+
+1. 
+
+7 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+2. 
+ 8 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+Sales through our distribution agreement with Arrow Enterprise Computing Solutions, Inc. Arrow totaled and of total revenues for the three months ended September 30, 2024 and 2023, respectively, and for both the six months ended September 30, 2024 and 2023. Arrow accounted for approximately and of total accounts receivable as of September 30, 2024 and March 31, 2024, respectively. 
+ Sales through our distribution agreement with Carahsoft Technology Corp. ("Carahsoft") totaled and of total revenues for the three and six months ended September 30, 2024, respectively. Carahsoft accounted for approximately of total accounts receivable as of September 30, 2024. 
+ 
+ See Note 4 for further details of the acquisition and contingent consideration. 
+ March 31, 2024 Level 1 Level 2 Level 3 Total Assets: Cash equivalents 
+
+9 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+as of September 30, 2024, which are accounted for under the net asset value practical expedient as permitted under ASC 820, Fair Value Measurement We had total unfunded commitments in private equity funds of as of September 30, 2024. 
+ 
+ . Developed technology purchased in fiscal 2022 was valued using the replacement cost method and is being amortized on a straight-line basis over its economic life of . We believe this method most closely reflects the pattern in which the economic benefits of the assets will be consumed. Impairment losses are recognized if the carrying amount of an intangible asset is both not recoverable and exceeds its fair value. 
+ , the expected period of benefit of the asset capitalized. We currently estimate a period of is appropriate based on consideration of historical average customer life and the estimated useful life of the underlying software sold as part of the transaction. The commission paid on the renewal of subscription arrangements is not commensurate with the commission paid on the initial purchase. As a result, the cost of commissions allocated to SaaS offerings, software updates and customer support on the initial term-based software license transactions are amortized over a period of approximately , consistent with the accounting for these costs associated with perpetual licenses. The costs of commissions allocated to SaaS offerings, software updates and customer support for the renewal of term-based software licenses is limited to the contractual period of the arrangement, as we pay a commensurate renewal commission upon the next renewal of the subscription software license and related updates and support. 
+ 
+ The incremental costs attributable to professional services are generally amortized over the period the related services are provided and revenue is recognized. Amortization expense related to these costs is included in sales and marketing expenses in the accompanying consolidated statements of operations. 
+ 10 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+3. 
+ but can range between one and . For SaaS offerings, revenue is generally recognized ratably over the contract term beginning on the date that the service is made available to the customer. 
+ Perpetual License 
+ Perpetual license includes the revenues from the sale of perpetual software licenses. Perpetual software license revenue is typically recognized when the software is delivered or made available for download. 
+ Customer Support 
+ Customer support includes revenues associated with support contracts tied to our software products. Customer support includes software updates on a when-and-if-available basis, telephone support, integrated web-based support, and other premium support offerings, for both subscription software and perpetual software license arrangements. We sell our customer support contracts as a percentage of net software purchases. Customer support revenue is recognized ratably over the term of the customer support agreement, which is typically on our perpetual licenses and over the term on our term-based licenses. 
+ Other Services 
+ Other services consist primarily of revenues related to professional service offerings, including consultation, assessment and design, installation services, and customer education. Revenues related to other services can vary period over period based on the timing services are delivered and are typically recognized as the services are performed. 
+ We do not customize our software licenses (both perpetual and term-based) and installation services are not required. Software licenses are delivered before related services are provided and are functional without professional services, updates, or technical support. We have concluded that our software licenses (both perpetual and term-based) are functional intellectual property that is distinct, as the user can benefit from the software on its own. Revenues for both perpetual and term-based licenses are typically recognized when the software is delivered and/or made available for download as this is the point the user of the software can direct the use of and obtain substantially all the remaining benefits from the functional intellectual property. We do not recognize software revenue related to the renewal of subscription software licenses earlier than the beginning of the new subscription period. 
+ We also offer appliances that integrate our software with hardware and address a wide range of business needs and use cases, ranging from support for remote or branch offices with limited IT staff up to large corporate data centers. Our appliances are almost exclusively sold via a software only model in which we sell software to a third party, which assembles an integrated appliance that is sold to end user customers. As a result, the revenues and costs associated with hardware are usually not included in our financial statements. 
+ 11 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+days of shipment except for certain subscription licenses which are paid for over time 
+ Residual approach Software-as-a-service (SaaS) Ratably over the course of the contract (over time) Annually or at the beginning of the contract period Observable in transactions without multiple performance obligations Perpetual License Perpetual software licenses Upon shipment or made available for download (point in time) Within days of shipment 
+ Residual approach Customer Support Software updates Ratably over the course of the support contract (over time) At the beginning of the contract period Observable in renewal transactions Customer support Ratably over the course of the support contract (over time) At the beginning of the contract period Observable in renewal transactions Other Services Other professional services (except for education services) As work is performed (over time) Within days of services being performed 
+ Observable in transactions without multiple performance obligations Education services When the class is taught (point in time) Within days of services being performed 
+ Observable in transactions without multiple performance obligations 
+ 
+ Judgments related to revenue recognition 
+ Most of our contracts with customers contain multiple performance obligations. For these contracts, we evaluate and account for individual performance obligations separately if they are determined to be distinct. The transaction price is allocated to the separate performance obligations on a relative standalone selling price basis. Standalone selling prices of software licenses (both perpetual and term-based) are typically estimated using the residual approach. Standalone selling prices for SaaS, customer support contracts, and other services are typically estimated based on observable transactions when these services are sold on a standalone basis. We recognize revenue net of sales tax. 
+ 
+ Disaggregation of Revenues 
+ 
+ We disaggregate revenues from contracts with customers into geographical regions. Our Americas region includes the United States, Canada, and Latin America. Our International region primarily includes Europe, Middle East, Africa, Australia, India, Southeast Asia, and China. 
+ International Total revenues 
+
+12 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+, of which approximately is expected to be recognized as revenue over the next months and the remainder recognized thereafter. 
+ 
+ Remaining performance obligations, excluding deferred revenue, related to subscription arrangements, customer support revenue and other services were , , and , respectively. Of these balances, we expect approximately of subscription arrangements, of customer support and of other services to be recognized as revenue over the next months and the remainder recognized thereafter. We expect approximately of subscription arrangements and of customer support remaining performance obligations to be recognized as revenue in the third quarter of fiscal 2025. These balances represent transactions consisting primarily of early renewals, unbilled and undelivered support and other services, and orders received prior to the last day of the quarter that were not delivered or provisioned to customers. 
+ 
+ Remaining performance obligations will fluctuate period to period. We do not believe the amount of remaining performance obligations is indicative of future sales or revenue or that the mix at the end of any given period correlates with actual sales performance. 
+
+Information about Contract Balances 
+
+Increase/(decrease) ) ) Ending balance as of September 30, 2024 
+
+The net decrease in accounts receivable (inclusive of unbilled receivables) is primarily the result of the timing of our billings and cash collections. The net increase in deferred revenue is primarily the result of an increase in SaaS contracts which are billed upfront but recognized ratably over the contract period, partially offset by a decrease in professional service contracts. 
+ 
+ and for the three and six months ended September 30, 2024, respectively. The vast majority of this revenue consists of SaaS arrangements and customer support. The amount of revenue recognized from performance obligations satisfied in prior periods was not significant. 
+ 
+ 13 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+4 . 
+ of the shares of Appranix, Inc., a Boston-based cloud cyber resilience company, for a purchase price of , which consisted of in cash (exclusive of of contingent consideration) and of unregistered restricted stock units. These stock units were valued based on the volume weighted average price of our share price for the thirty days preceding the close date. As a result, unregistered restricted stock units were issued at a fair value of per share. The primary reason for the business combination is to extend and enhance our product and service offerings in the cyber resiliency market. 
+ During the three and six months ended September 30, 2024, we incurred acquisition-related costs of approximately and , respectively, which were included in general and administrative expenses. 
+ Fair value of unregistered restricted stock units Fair value of contingent consideration Total purchase price Assets acquired and liabilities assumed: Cash Trade accounts receivable Developed technology Accrued liabilities ) Deferred revenue ) Deferred tax liability ) Total identifiable net assets acquired and liabilities assumed Goodwill Total purchase price 
+ 
+ The purchase price allocation is preliminary as it relates to the valuation of income taxes. The amounts recognized will be finalized as the information necessary to complete the analysis is obtained, but no later than one year after the acquisition date. 
+ Contingent Consideration 
+ The contingent consideration arrangement requires us to pay up to in cash to the former owner of Appranix, contingent upon the achievement of certain financial metrics measured on December 31, 2024 and June 30, 2025. The actual consideration can range from to . The fair value of the contingent liability was estimated to be using a Monte Carlo simulation model and is included in accrued liabilities on the consolidated balance sheets. At the end of each reporting period after the acquisition date, the arrangement is remeasured at its fair value, with changes in fair value recorded through the consolidated statements of operations as general and administrative expenses. As of September 30, 2024, we continue to estimate the fair value of the liability at . 
+ 
+ 14 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+and , and estimated net loss of approximately and , for the three and six months ended September 30, 2024, respectively. 
+ of acquisition-related costs incurred in fiscal 2025. The fiscal 2024 supplemental pro forma net income was adjusted to include these charges. In addition to estimated operating expenses, both periods include noncash amortization expenses related to intangible assets as if the acquisition had taken place on April 1, 2023. 
+ The unaudited pro forma financial information is presented for illustrative purposes only, is based on a purchase price allocation, and is not necessarily indicative of the results of operations that would have actually been reported had the acquisition occurred on April 1, 2023, nor is it necessarily indicative of the future results of operations of the combined company. 
+ Unaudited Three Months Ended September 30, Six Months Ended September 30, 2024 2023 2024 2023 Revenue Net income 
+ 15 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+5. 
+ impairments to the carrying amounts of goodwill during the six months ended September 30, 2024 and 2023. of the goodwill recorded is expected to be deductible for income tax purposes. 
+ Additions Impairments Balance as of September 30, 2024 
+ 
+ Intangible Assets, Net 
+ Intangible assets consist of developed technology. Developed technology acquired in fiscal 2025 was valued using the multi-period excess earnings method and has an estimated useful life of . Previously acquired developed technology was valued using the replacement cost method, has an estimated useful life of , and will be fully amortized within fiscal 2025. All of our intangible assets are amortized on a straight-line basis. 
+ ) ) 
+ During the six months ended September 30, 2024, we acquired developed technology valued at as part of the acquisition of Appranix. Amortization expense from acquired intangible assets was and for the three and six months ended September 30, 2024, respectively, and and for the three and six months ended September 30, 2023, respectively. 
+ 2026 2027 2028 2029 Thereafter Total 
+ 16 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+6. 
+ , which includes changes in the estimated fair value and estimated costs to sell. 
+ Subsequent Event 
+ On October 2, 2024, we signed a purchase and sale agreement to sell the property for . The agreement includes a due diligence period for the buyer, is contingent on receiving approvals from certain government agencies, and includes other customary conditions. We believe the sale will close in fiscal year 2025. Upon closing of the transaction, we will enter into a lease for a portion of the premises. 
+
+7. 
+ 
+ Basic net income per common share: Basic weighted average shares outstanding Basic net income per common share Diluted net income per common share: Basic weighted average shares outstanding Dilutive effect of stock options and restricted stock units Diluted weighted average shares outstanding Diluted net income per common share 
+ 
+ The diluted weighted average shares outstanding exclude restricted stock units, performance restricted stock units, shares to be purchased under the ESPP and outstanding stock options totaling and for the three months ended September 30, 2024 and 2023, respectively, and and for the six months ended September 30, 2024 and 2023, respectively, because the effect would have been anti-dilutive. 
+ 
+ 17 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+8. 
+ which resolved certain legal matters. For the six months ended September 30, 2024, was recorded in general and administrative expenses and the remaining was incurred in a prior period that is not presented in the consolidated statements of operations. 
+ We do not believe that we are currently party to any pending legal action that could reasonably be expected to have a material adverse effect on our business or operating results. 
+ The Company has a contingent liability related to the acquisition of Appranix. See Note 4 for further details of the arrangement. 
+
+9. 
+ was available. The Board's authorization has no expiration date. For the six months ended September 30, 2024, we repurchased of our common stock, or approximately shares. The remaining amount available under the current authorization as of September 30, 2024 was . 
+
+10. 
+ Sales and marketing Research and development General and administrative Restructuring Stock-based compensation expense 
+ 
+ As of September 30, 2024, there was of unrecognized stock-based compensation expense that is expected to be recognized over a weighted average period of years. We account for forfeitures as they occur. To the extent that awards are forfeited, stock-based compensation will be different from our current estimate. 
+ 
+ Stock option activity was not significant for both the six months ended September 30, 2024 and 2023. 
+ 18 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+Awarded Vested ) Forfeited ) Non-vested as of September 30, 2024 
+ 
+ The weighted average fair value of restricted stock units awarded was and per unit during the three and six months ended September 30, 2024, respectively, and and per unit during the three and six months ended September 30, 2023, respectively. The weighted average fair value of awards includes the awards with a market condition described below. 
+ 
+ Performance Based Awards 
+ In the six months ended September 30, 2024, we granted approximately performance stock units ("PSUs") to certain executives. Vesting of these awards is contingent upon i) us meeting certain non-GAAP performance goals (performance-based) in fiscal 2025 and ii) our customary service periods. The awards vest over and have the potential to vest between and shares) based on actual fiscal 2025 performance. The vesting quantity of these awards may vary based on actual fiscal 2025 performance. The related stock-based compensation expense is determined based on the value of the underlying shares on the date of grant and is recognized over the vesting term using the accelerated method. During the interim financial periods, management estimates the probable number of PSUs that would vest until the ultimate achievement of the performance goals is known. The awards are included in the restricted stock unit table. 
+ Awards with a Market Condition 
+ In the six months ended September 30, 2024, we granted approximately market PSUs to certain executives. The vesting of these awards is contingent upon us meeting certain total shareholder return ("TSR") levels as compared to the Russell 3000 market index over the next . The awards vest in annual tranches and have the potential to vest between and shares) based on TSR performance. The related stock-based compensation expense is determined based on the estimated fair value of the underlying shares on the date of grant and is recognized using the accelerated method over the vesting term. The estimated fair value was calculated using a Monte Carlo simulation model. The fair value of the awards granted during the six months ended September 30, 2024 was per unit. The awards are included in the restricted stock unit table. 
+ 19 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+of the lower of the fair market values of the stock as of the beginning or the end of offering periods. An employee s payroll deductions under the ESPP are limited to of the employee s salary and employees may not purchase more than of stock during any calendar year. Employees purchased shares in exchange for of proceeds in the six months ended September 30, 2024, and shares in exchange for of proceeds in the six months ended September 30, 2023. The ESPP is considered compensatory and the fair value of the discount and look back provision are estimated using the Black-Scholes formula and recognized over the withholding period prior to purchase. The total expense associated with the ESPP for the six months ended September 30, 2024 and 2023 was and , respectively. As of September 30, 2024, there was approximately of unrecognized cost related to the current offering period of our ESPP. 
+ 
+ 11. 
+ and in the three and six months ended September 30, 2024, respectively, compared to expense of and in the three and six months ended September 30, 2023, respectively. The decrease in income tax expense compared to the prior year period relates primarily to the recognition of deferred tax assets that were not recognized in prior years due to the Company s valuation allowance, as well as windfalls from stock compensation. 
+ 20 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+12. 
+ restructuring charges for the three and six months ended September 30, 2023. 
+ Lease exit costs (1) 
+ Stock-based compensation Total restructuring charges 
+ (1) Lease exit costs relate to office for the six months ended September 30, 2024. 
+ 
+ Restructuring accrual 
+ Employee severance and related costs Payments ) Balance as of September 30, 2024 
+ 
+ (1) During the six months ended September 30, 2024, there were new charges incurred or payments made related to our prior restructuring plan that was completed in fiscal 2023. The amount included in the balance as of September 30, 2024 related to the completed plan was insignificant. 
+ 21 
+
+Table of Contents 
+ Commvault Systems, Inc. 
+ Notes to Consolidated Financial Statements - Unaudited (continued) 
+ (In thousands, except per share data) 
+
+13. 
+ senior secured revolving credit facility (the Credit Facility with JPMorgan Chase Bank, N.A. The Credit Facility is available for share repurchases, general corporate purposes, and letters of credit. The Credit Facility contains financial maintenance covenants, including a leverage ratio and interest coverage ratio. The Credit Facility also contains certain customary events of default which would permit the lender to, among other things, declare all loans then outstanding to be immediately due and payable if such default is not cured within applicable grace periods. The Credit Facility also limits our ability to incur certain additional indebtedness, create or permit liens on assets, make acquisitions, make investments, engage in loans or advances, sell or transfer assets, pay dividends or distributions, and engage in certain transactions with foreign affiliates. Outstanding borrowings under the Credit Facility accrue interest at an annual rate equal to the Secured Overnight Financing Rate plus subject to increases based on our actual leverage. The unused balance on the Credit Facility is also subject to a annual interest charge subject to increases based on our actual leverage. As of September 30, 2024, there were borrowings under the Credit Facility and we were in compliance with all covenants. 
+ We have deferred the expense related to debt issuance costs, which are classified as other assets, and will amortize the costs into interest expense over the term of the Credit Facility. Unamortized amounts as of September 30, 2024 were . 
+ Interest expense Total charges 
+
+14. 
+ , subject to customary transaction adjustments. The primary reason for the business combination is to extend our product offerings in our existing cyber resiliency market. As the transaction closed subsequent to the quarter ended September 30, 2024, we are still evaluating the purchase price allocation of the transaction, but we expect the primary assets acquired to be intangible assets and goodwill. Acquired tangible assets and assumed liabilities are expected to be immaterial. The allocation is expected to be finalized during the second half of fiscal 2025. 
+ 22 
+
+Table of Contents 
+
+ Item 2 - Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ You should read the following discussion and analysis along with our consolidated financial statements and the related notes included elsewhere in this Quarterly Report on Form 10-Q. The statements in this discussion regarding our expectations of our future performance, liquidity and capital resources, and other non-historical statements are forward-looking statements. These forward-looking statements are subject to numerous risks and uncertainties, including, but not limited to, the risks and uncertainties described under Risk Factors in our Annual Report on Form 10-K for the fiscal year ended March 31, 2024. Our actual results may differ materially from those contained in or implied by any forward-looking statements. 
+ 
+ Overview 
+ Incorporated in Delaware in 1996, Commvault Systems, Inc. provides its customers with a scalable platform that enhances customers' cyber resiliency by protecting their data in a world of increasing threats. We provide these products and services for their data across many types of environments, including on-premises, hybrid and multi-cloud. Our offerings are delivered via self-managed software, software-as-a-service ("SaaS"), integrated appliances, or managed by partners. Customers use our Commvault Cloud platform to protect themselves from threats like ransomware and recover their data efficiently. 
+ Sources of Revenues 
+ We generate revenues through subscription arrangements, perpetual software licenses, customer support contracts and other services. A significant portion of our total revenues comes from subscription arrangements, which include both sales of term-based licenses and SaaS offerings. We are focused on these types of recurring revenue arrangements. 
+ We expect our subscription arrangements will continue to generate revenues from the renewals of term-based licenses and SaaS offerings sold in prior years. Any of our pricing models (capacity, instance based, etc.) can be sold via a subscription arrangement, either through term-based licensing or hosted services. In term-based license arrangements, the customer has the right to use the software over a designated period of time. The capacity of the license is fixed and the customer has made an unconditional commitment to pay. Software revenue in these arrangements is generally recognized when the software is delivered. In SaaS offerings, customers use hosted software over the contract period without taking possession of the software. Revenue related to SaaS is recognized ratably over the contract period. 
+ We sell to end-user customers both directly through our sales force and indirectly through our global network of value-added reseller partners, systems integrators, corporate resellers, original equipment manufacturers, and marketplaces. Subscription revenue generated through indirect distribution channels accounted for approximately 90 of total subscription revenue in both the six months ended September 30, 2024 and 2023. Subscription revenue generated through direct distribution channels accounted for approximately 10 of total subscription revenue in both the six months ended September 30, 2024 and 2023. Deals initiated by our direct sales force are sometimes transacted through indirect channels based on end-user customer requirements, which are not always in our control and can cause this overall percentage split to vary from period-to-period. As such, there may be fluctuations in the dollars and percentage of subscription revenue generated through our direct distribution channels from time-to-time. We believe that the growth of our subscription revenue, derived from both our indirect channel partners and direct sales force, are key attributes to our long-term growth strategy. We intend to continue to invest in both our channel relationships and direct sales force in the future, but we continue to expect more revenue to be generated through indirect distribution channels over the long term. The failure of our indirect distribution channels or our direct sales force to effectively sell our products and services could have a material adverse effect on our revenues and results of operations. 
+ We have a non-exclusive distribution agreement with Arrow pursuant to which Arrow's primary role is to enable a more efficient and effective distribution channel for our solutions by managing our resellers and leveraging their own industry experience. We generated 36 of our total revenues through Arrow for both the six months ended September 30, 2024 and 2023. If Arrow were to discontinue or reduce the sales of our solutions or if our agreement with Arrow were terminated, and if we were unable to take back the management of our reseller channel or find another distributor to replace Arrow, there could be a material adverse effect on our future business. 
+ Our c ustomer support revenue includes support contracts tied to our software products. Customer support includes software updates on a when-and-if-available basis, telephone support, integrated web-based support, and other premium support offerings, for both term-based software license and perpetual software license 
+ 23 
+
+Table of Contents 
+
+ arrangements. We sell our customer support contracts as a percentage of net software. Customer support revenue is recognized ratably over the term of the customer support agreement, which is typically one year on our perpetual licenses. The term of our subscription arrangements is typically one to three years but can range between one and five years. 
+ Our other services revenue consists primarily of professional service offerings, including consultation, assessment and design, installation services, and customer education. Revenues from other services can vary period over period based on the timing services are delivered and are typically recognized as the services are performed. 
+ 
+ Foreign Currency Exchange Rates Impact on Results of Operations 
+ Sales outside the United States were 46 of our total revenues for both the six months ended September 30, 2024 and 2023. The income statements of our non-U.S. operations are translated into U.S. dollars at the average exchange rates for each applicable month in a period. To the extent the U.S. dollar weakens against foreign currencies, the translation of these foreign currency denominated transactions generally results in increased revenues, operating expenses and income from operations for our non-U.S. operations. Similarly, our revenues, operating expenses and net income will generally decrease for our non-U.S. operations if the U.S. dollar strengthens against foreign currencies. 
+ Using the average foreign currency exchange rates from the three months ended September 30, 2023, our total revenues would have been lower by 1.8 million, our cost of revenues would have been lower by 0.1 million and our operating expenses would have been lower by 1.0 million from non-U.S. operations for the three months ended September 30, 2024. Using the average foreign currency exchange rates from the six months ended September 30, 2023, our total revenues would have been lower by 0.6 million, our cost of revenues would have been higher by less than 0.1 million and our operating expenses would have been lower by 0.7 million from non-U.S. operations for the six months ended September 30, 2024. 
+ In addition, we are exposed to risks of foreign currency fluctuation primarily from cash balances, accounts receivables and intercompany accounts denominated in foreign currencies and are subject to the resulting transaction gains and losses, which are recorded as a component of general and administrative expenses. We recognized net foreign currency transaction losses of approximately 0.3 million for both the three and six months ended September 30, 2024. We recognized net foreign currency transaction losses of approximately 0.1 million and 0.2 million for the three and six months ended September 30, 2023, respectively. 
+ 
+ Critical Accounting Policies 
+ In presenting our consolidated financial statements in conformity with U.S. GAAP, we are required to make estimates and judgments that affect the amounts reported therein. Some of the estimates and assumptions we are required to make relate to matters that are inherently uncertain as they pertain to future events. We base these estimates on historical experience and on various other assumptions that we believe to be reasonable and appropriate. Actual results may differ significantly from these estimates. To the extent that there are material differences between these estimates and actual results, our future financial statement presentation, financial condition, results of operations and cash flows may be affected. 
+ In many cases, the accounting treatment of a particular transaction is specifically dictated by U.S. GAAP and does not require management s judgment in its application, while in other cases, significant judgment is required in selecting among available alternative accounting standards that allow different accounting treatment for similar transactions. We consider these policies requiring significant management judgment to be critical accounting policies. These critical accounting policies are: 
+ Revenue Recognition 
+ Accounting for Income Taxes 
+ Goodwill 
+ There have been no significant changes in our critical accounting policies during the six months ended September 30, 2024 as compared to the critical accounting policies and estimates disclosed in Management s Discussion and Analysis of Financial Condition and Results of Operations - Critical Accounting Policies included in our Annual Report on Form 10-K for the year ended March 31, 2024. 
+ 24 
+
+Table of Contents 
+
+Results of Operations 
+ Amounts reported in millions are rounded based on the amounts in thousands. As a result, the sum of the components reported in millions may not equal the total amount reported in millions due to rounding. 
+ Three months ended September 30, 2024 compared to three months ended September 30, 2023 
+ Revenues in millions) 
+
+Total revenues increased 32.3 million, or 16 year over year, driven prim arily by an increase in subscription revenue, partially offset by decreases in perpetual license and other services revenues. We remain focused on selling subscription arrangements through both term-based software licenses and SaaS offerings. 
+ Subscription revenue increased 36.3 million, or 37 year over year, driven primarily by a 75 increase in our SaaS revenue. Term-based license revenue increased 22 , primarily due to an increase in the number of larger term-based license transactions (deals greater than 0.1 million) period over period and an increase in the average selling price of these transactions. Subscription revenue accounted for 57 of total revenues for the three months ended September 30, 2024 compared to 49 for the three months ended September 30, 2023. 
+ Perpetual license revenue decreased 3.9 million, or 27 year over year. Our preferred route to market is led by the sale of term-based licenses. Perpetual licenses are generally only sold in certain verticals and geographies. Perpetual license revenue accounted for 5 of total revenues for the three months ended September 30, 2024 compared to 7 for the three months ended September 30, 2023. 
+ Customer support revenue increased 0.7 million, or 1 year over year, driven by a 6.8 million increase in customer support revenue related to term-based license arrangements, partially offset by a 6.1 million decrease in support attached to perpetual license support renewals. 
+ Other services revenue decreased 0.8 million, or 7 year over year. Changes in other services revenue can vary period over period, primarily due to the timing professional services are delivered. 
+ 25 
+
+Table of Contents 
+
+ We track total revenues on a geographic basis. Our Americas region includes the United States, Canada, and Latin America. Our International region primarily includes Europe, Middle East, Africa, Australia, India, Southeast Asia and China. Americas and International represented 62 and 38 of total revenues, respectively, for the three months ended September 30, 2024. Total revenues increased 20 and 10 year over year in the Americas and International, respectively. 
+ The increase in Americas total revenues was primarily due to an increase of 40 in subscription revenues, offset by decreases of 11 , 1 and 9 in perpetual license, customer support and other services revenues, respectively, as compared to the same period of the prior year. 
+ The increase in International total revenues was primarily due to increases of 32 and 3 in subscription and customer support revenues, respectively, offset by decreases of 34 and 2 in perpetual license and other services revenues, respectively, as compared to the same period of the prior year. 
+ 
+ Our total revenues in International is subject to changes in foreign exchange rates as further discussed above in the Foreign Currency Exchange Rates Impact on Results of Operations section. 
+ 26 
+
+Table of Contents 
+
+ Cost of Revenues and Gross Margin in millions) 
+ 
+ Three Months Ended September 30, 2024 2023 Cost of Revenues Gross Margin Cost of Revenues Gross Margin Subscription 19.5 85 14.6 85 Perpetual license 0.4 96 0.6 96 Customer support 15.3 80 14.9 81 Other services 7.6 31 7.7 35 Total 42.9 82 37.9 81 
+ 
+ Total cost of revenues increased 5.0 million, representing 18 of our total revenues for the three months ended September 30, 2024 compared to 19 for the three months ended September 30, 2023. 
+ Cost of subscription revenue increased 4.9 million and represented 15 of our total subscription revenue for both the three months ended September 30, 2024 and 2023. The year over year increase is primarily the result of an increase in the cost of infrastructure related to growth in our SaaS offerings. 
+ Cost of perpetual license revenue decreased 0.2 million and represented 4 of our total perpetual revenue for both the three months ended September 30, 2024 and 2023. 
+ Cost of customer support revenue increased 0.4 million, representing 20 of our total customer support revenue for the three months ended September 30, 2024 compared to 19 for the three months ended September 30, 2023. 
+ Cost of other services revenue decreased 0.1 million, representing 69 of our total other services revenue for the three months ended September 30, 2024 compared to 65 for the three months ended September 30, 2023. The decrease in cost of other services revenue was driven by timing of the delivery of certain professional services. 
+
+27 
+
+Table of Contents 
+
+ Operating Expenses in millions) 
+
+Sales and marketing expenses increased 17.2 million, or 20 , driven by a 14.1 million increase in employee compensation and sales commissions associated with increased revenues relative to the same period in the prior year, including an increase of 1.7 million in stock-based compensation. 
+ Research and development expenses increased 2.6 million, or 8 , driven by increases in employee compensation and related expenses, including an increase of 0.2 million in stock-based compensation. The increase in employee compensation and related expenses is primarily driven by additional headcount, including the headcount related to the Appranix, Inc. ("Appranix") acquisition completed in April 2024. Investing in research and development remains a priority for Commvault and we anticipate continued responsible spending related to the development of our software applications and hosted services. 
+ General and administrative expenses increased 6.2 million, or 22 , primarily due to increases in accounting and legal expenses related to the acquisitions of Appranix and Clumio, Inc. ("Clumio"), and increases in employee compensation and related expenses, including an increase of 1.0 million in stock-based compensation year over year. 
+ Restructuring: Our restructuring plan, initiated in the fourth quarter of fiscal 2024, is intended to enhance customer satisfaction through the reorganization and redesign of our customer success functions. The realignment of the customer success structure aims to optimize operational efficiency and improve continuity for our customers through the pre-sales and post-sales experience. Restructuring expenses were 0.6 million for the three months ended September 30, 2024. These charges relate primarily to severance and related costs associated with headcount reductions. These expenses included 0.2 million of stock-based compensation related to modifications of existing awards granted to certain employees impacted by the plan. We anticipate the restructuring plan will be completed in the second half of fiscal 2025. There were no restructuring expenses in the three months ended September 30, 2023. 
+ Risks associated with our restructuring plan include additional unexpected costs, adverse effects on employee morale and the failure to meet operational and growth targets due to the loss of key employees, any of which may impair our ability to achieve anticipated results of operations or otherwise harm our business. 
+ Depreciation and amortization expense increased 0.5 million, driven by the acquisition of intangible assets in the first quarter of fiscal 2025. 
+ 28 
+
+Table of Contents 
+
+ Impairment charges: During the three months ended September 30, 2024, we recorded an impairment charge of 2.9 million related to our assets held for sale, which includes changes in the estimated fair value and estimated costs to sell. 
+ 
+ Interest Income 
+ Interest income increased 0.4 million, from 1.4 million in the three months ended September 30, 2023 to 1.7 million in the three months ended September 30, 2024, primarily as a result of the amount of invested funds subject to interest income. 
+ 
+ Income Tax Expense 
+ Income tax expense was 1.1 million in the three months ended September 30, 2024 compared to expense of 5.7 million in the three months ended September 30, 2023. The decrease in income tax expense compared to the same period in the prior year relates primarily to the recognition of deferred tax assets that were not recognized in prior years due to the Company s valuation allowance, as well as windfalls from stock compensation. 
+ 
+ 29 
+
+Table of Contents 
+
+ Six months ended September 30, 2024 compared to six months ended September 30, 2023 
+ Revenues in millions) 
+
+Total revenues increased 58.8 million, or 15 year over year, driven prim arily by an increase in subscription revenue, offset by decreases in perpetual license and other services revenues. We remain focused on selling subscription arrangements through both term-based software licenses and SaaS offerings. 
+ Subscription revenue increased 63.1 million, or 32 year over year, driven primarily by a 72 increase in our SaaS revenue. Term-based license revenue increased 17 , primarily due to an increase in the number of larger term-based license transactions (deals greater than 0.1 million) period over period and an increase in the average selling price of these transactions. Subscription revenue accounted for 56 of total revenues for the six months ended September 30, 2024 compared to 49 for the six months ended September 30, 2023. 
+ Perpetual license revenue decreased 3.3 million, or 12 year over year. Our preferred route to market is led by the sale of term-based licenses. Perpetual licenses are generally only sold in certain verticals and geographies. Perpetual license revenue accounted for 5 of total revenues for the six months ended September 30, 2024 compared to 7 for the six months ended September 30, 2023. 
+ Customer support revenue was flat compared to the same period of the prior year, driven by a 12.4 million increase in customer support revenue related to term-based license arrangements, offset by a 12.4 million decrease in support attached to perpetual license support renewals. 
+ Other services revenue decreased 1.0 million, or 5 year over year. Changes in other services revenue can vary period over period, primarily due to the timing professional services are delivered. 
+ We track total revenues on a geographic basis. Our Americas region includes the United States, Canada, and Latin America. Our International region primarily includes Europe, Middle East, Africa, Australia, India, Southeast Asia and China. Americas and International represented 62 and 38 of total revenues, respectively, for the six months ended September 30, 2024. Total revenues increased 17 and 12 year over year in the Americas and International, respectively. 
+ The increase in Americas was primarily due to a 33 increase in subscription revenue, offset by a 3 decrease in perpetual license revenue, driven by the shift from selling perpetual licenses to subscription arrangements. Customer support and other services revenues declined 2 and 6 , respectively. 
+ The increase in International total revenues was primarily due to a 31 increase in subscription revenue, offset by a 16 decrease in perpetual license revenue. Customer support revenue increased 2 year over 
+ 30 
+
+Table of Contents 
+
+ year. Other services revenue decreased 2 year over year due to a decrease in the delivery of professional services for the region as compared to the same period of the prior year. 
+ 
+ Our total revenues in International is subject to changes in foreign exchange rates as further discussed above in the Foreign Currency Exchange Rates Impact on Results of Operations section. 
+ 31 
+
+Table of Contents 
+
+ Cost of Revenues and Gross Margin in millions) 
+ 
+ Six Months Ended September 30, 2024 2023 Cost of Revenues Gross Margin Cost of Revenues Gross Margin Subscription 37.1 86 27.0 86 Perpetual license 0.8 97 1.1 96 Customer support 29.6 81 29.9 81 Other services 15.2 30 15.5 32 Total 82.7 82 73.4 82 
+ 
+ Total cost of revenues increased 9.2 million and represented 18 of our total revenues for both the six months ended September 30, 2024 and 2023. 
+ Cost of subscription revenue increased 10.1 million and represented 14 of our total subscription revenue for both the six months ended September 30, 2024 and 2023. The year over year increase is primarily the result of an increase in the cost of infrastructure related to growth in our SaaS offerings. 
+ Cost of perpetual license revenue decreased 0.3 million, representing 3 of our total perpetual revenue for the six months ended September 30, 2024 compared to 4 for the six months ended September 30, 2023. 
+ Cost of customer support revenue decreased 0.3 million and represented 19 of our total customer support revenue for both the six months ended September 30, 2024 and 2023. 
+ Cost of other services revenue decreased 0.3 million, representing 70 of our total other services revenue for the six months ended September 30, 2024 compared to 68 for the six months ended September 30, 2023. The decrease in cost of other services revenue was driven by timing of the delivery of certain professional services. 
+
+32 
+
+Table of Contents 
+
+ Operating Expenses in millions) 
+
+Sales and marketing expenses increased 29.1 million, or 17 , primarily due to a 20.2 million increase in employee compensation and sales commissions associated with increased revenues relative to the same period in the prior year, including an increase of 1.5 million in stock-based compensation. In addition, there was an increase year over year in expenses related to a live sales kickoff event and participation in certain strategic conferences, including the RSA conference during the period. These events did not occur in the same period in the prior year. 
+ Research and development expenses increased 4.3 million, or 7 , driven by increases in employee compensation and related expenses resulting from additional headcount related to the Appranix acquisition completed in April 2024. Expenses related to stock-based compensation were flat compared to the same period of the prior year. Investing in research and development remains a priority for Commvault and we anticipate continued responsible spending related to the development of our software applications and hosted services. 
+ General and administrative expenses increased 10.0 million, or 18 , driven by increases in accounting and legal expenses related to the acquisitions of Appranix and Clumio, and increases in employee compensation and related expenses, including an increase of 0.2 million in stock-based compensation year over year. 
+ Restructuring: Our restructuring plan, initiated in the fourth quarter of fiscal 2024, is intended to enhance customer satisfaction through the reorganization and redesign of our customer success functions. The realignment of the customer success structure aims to optimize operational efficiency and improve continuity for our customers through the pre-sales and post-sales experience. Restructuring expenses were 5.2 million for the six months ended September 30, 2024. These charges relate primarily to severance and related costs associated with headcount reductions as well as costs related to office termination and exit charges. These expenses included 4.2 million of stock-based compensation related to modifications of existing awards granted to certain employees impacted by the plan. We anticipate the restructuring plan will be completed in the second half of fiscal 2025. There were no restructuring expenses in the six months ended September 30, 2023. 
+ Risks associated with our restructuring plan include additional unexpected costs, adverse effects on employee morale and the failure to meet operational and growth targets due to the loss of key employees, any of which may impair our ability to achieve anticipated results of operations or otherwise harm our business. 
+ 33 
+
+Table of Contents 
+
+ Depreciation and amortization expense increased 0.8 million, or 26 , driven by the acquisition of intangible assets in the first quarter of fiscal 2025. 
+ Impairment charges: During the six months ended September 30, 2024, we recorded an impairment charge of 2.9 million related to our assets held for sale, which includes changes in the estimated fair value and estimated costs to sell. 
+ 
+ Interest Income 
+ Interest income increased 1.4 million, from 2.1 million in the six months ended September 30, 2023 to 3.5 million in the six months ended September 30, 2024, primarily as a result of the amount of invested funds subject to interest income. 
+ 
+ Income Tax Expense 
+ Income tax expense was 3.2 million in the six months ended September 30, 2024 compared to expense of 12.6 million in the six months ended September 30, 2023. The decrease in income tax expense compared to the prior year relates primarily to the recognition of deferred tax assets that were not recognized in prior years due to the Company s valuation allowance, as well as windfalls from stock compensation. 
+
+34 
+
+Table of Contents 
+
+Liquidity and Capital Resources 
+ In recent fiscal years, our principal source of liquidity has been cash provided by operations. As of September 30, 2024, our cash and cash equivalents balance was 303.1 million, of which approximately 198.8 million was held outside of the United States by our foreign legal entities. These balances are dispersed across approximately 35 international locations around the world. We believe that such dispersion meets the current and anticipated future liquidity needs of our foreign legal entities. In the event we need to repatriate funds from outside of the United States, such repatriation would likely be subject to restrictions by local laws and/or tax consequences, including foreign withholding taxes. 
+ On December 13, 2021, we entered into a five-year 100 million senior secured revolving credit facility (the Credit Facility with JPMorgan Chase Bank, N.A. The Credit Facility is available for share repurchases, general corporate purposes, and letters of credit. The Credit Facility contains financial maintenance covenants, including a leverage ratio and interest coverage ratio. The Credit Facility also contains certain customary events of default which would permit the lender to, among other things, declare all loans then outstanding to be immediately due and payable if such default is not cured within applicable grace periods. The Credit Facility also limits our ability to incur certain additional indebtedness, create or permit liens on assets, make acquisitions, make investments, engage in loans or advances, sell or transfer assets, pay dividends or distributions, and engage in certain transactions with foreign affiliates. Outstanding borrowings under the Credit Facility accrue interest at an annual rate equal to the Secured Overnight Financing Rate plus 1.25 subject to increases based on our actual leverage. The unused balance on the Credit Facility is also subject to a 0.25 annual interest charge subject to increases based on our actual leverage. As of September 30, 2024, there were no borrowings under the Credit Facility and we were in compliance with all covenants. 
+ On April 18, 2024, the Board of Directors approved an increase of the existing share repurchase program so that 250.0 million was available. The Board's authorization has no expiration date. For the six months ended September 30, 2024, we repurchased 103.3 million of our common stock. The remaining amount available under the current authorization as of September 30, 2024 was 153.2 million. 
+ Our summarized cash flow information is as follows (in millions): 
+ Six Months Ended September 30, 2024 2023 Net cash provided by operating activities 100.3 79.4 Net cash used in investing activities (24.3) (2.0) Net cash used in financing activities (92.2) (76.0) Effects of exchange rate - changes in cash 6.5 (5.9) Net decrease in cash and cash equivalents (9.7) (4.5) 
+ 35 
+
+Table of Contents 
+
+Net cash provided by operating activities was impacted by net income adjusted for the impact of non-cash charges and a decrease in accounts receivable, partially offset by an increase in deferred commissions costs. 
+ Net cash used in investing activities was related to 21.0 million for the acquisition of Appranix, 2.7 million of capital expenditures and 0.6 million for the purchase of equity securities. 
+ Net cash used in financing activities was the result of 103.3 million of repurchases of common shares, partially offset by 11.1 million of proceeds from the exercise of stock options and the Employee Stock Purchase Plan. 
+ Working capital decreased 15.6 million from 110.2 million as of March 31, 2024 to 94.6 million as of September 30, 2024. The net decrease in working capital was primarily driven by a decrease in accounts receivable, partially offset by decreases in accrued liabilities and the current portion of deferred revenue. 
+ We believe that our existing cash, cash equivalents and our cash from operations will be sufficient to meet our anticipated cash needs for working capital, income taxes, capital expenditures and potential stock repurchases for at least the next twelve months. We may seek additional funding through public or private financings or other arrangements during this period. Adequate funds may not be available when needed or may not be available on terms favorable to us, or at all. If additional funds are raised by issuing equity securities, dilution to existing stockholders will result. If we raise additional funds by obtaining loans from third parties, the terms of those financing arrangements may include negative covenants or other restrictions on our business that could impair our operational flexibility and would also require us to fund additional interest expense. If funding is insufficient at any time in the future, we may be unable to develop or enhance our products or services, take advantage of business opportunities, or respond to competitive pressures, any of which could have a material adverse effect on our business, financial condition and results of operations. 
+
+Off-Balance Sheet Arrangements 
+ As of September 30, 2024, we did not have off-balance sheet financing arrangements, including any relationships with unconsolidated entities or financial partnerships, such as entities often referred to as structured finance or special purpose entities. 
+
+Impact of Recently Issued Accounting Standards 
+ See Note 2 of the unaudited consolidated financial statements for a discussion of the impact of recently issued accounting standards. 
+
+Item 3 - Quantitative and Qualitative Disclosures about Market Risk 
+ Interest Rate Risk 
+ None. 
+ 36 
+
+Table of Contents 
+
+ Foreign Currency Risk 
+ Economic Exposure 
+ As a global company, we face exposure to adverse movements in foreign currency exchange rates. Our international sales are generally denominated in foreign currencies and this revenue could be materially affected by currency fluctuations. Approximately 46 of our sales were outside the United States for the six months ended September 30, 2024. Our primary exposures are to fluctuations in exchange rates for the U.S. dollar versus the Euro, and to a lesser extent, the Australian dollar, British pound sterling, Canadian dollar, Chinese yuan, Indian rupee, Korean won and Singapore dollar. Changes in currency exchange rates could adversely affect our reported revenues and require us to reduce our prices to remain competitive in foreign markets, which could also have a material adverse effect on our results of operations. Historically, we have periodically reviewed and revised the pricing of our products available to our customers in foreign countries and we have not maintained excess cash balances in foreign accounts. 
+ Transaction Exposure 
+ Our exposure to foreign currency transaction gains and losses is primarily the result of certain net receivables due from our foreign subsidiaries and customers being denominated in currencies other than the functional currency of the subsidiary. Our foreign subsidiaries conduct their businesses in local currency and we generally do not maintain excess U.S. dollar cash balances in foreign accounts. 
+ Foreign currency transaction gains and losses are recorded in general and administrative expenses in the consolidated statements of operations. We recognized net foreign currency transaction losses of approximately 0.3 million for both the three and six months ended September 30, 2024. We recognized net foreign currency transaction losses of approximately 0.1 million and 0.2 million for the three and six months ended September 30, 2023, respectively. 
+
+Item 4 - Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ Our management, with the participation of the Chief Executive Officer and Chief Financial Officer, has evaluated the effectiveness of our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended, as of September 30, 2024. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of September 30, 2024. 
+ Changes in Internal Control over Financial Reporting 
+ There was no change in our internal control over financial reporting that occurred during the second quarter of fiscal 2025 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ Inherent Limitations on Internal Controls 
+ Our management, including our Chief Executive Officer and Chief Financial Officer, do not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent or detect all error and fraud. A control system, no matter how well designed and operated, can provide only reasonable, not absolute, assurance that the control objectives of the control system are met. Further, the design of a control system must reflect the fact that there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within the company have been detected. These inherent limitations include the realities that judgments in decision-making can be faulty, and that breakdowns can occur because of a simple error or mistake. Additionally, controls can be circumvented by the individual acts of some persons, by collusion of two or more people, or by management override of the controls. The design of any system of controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions. Over time, controls may become inadequate because of changes in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because of inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected. 
+ 
+ 37 
+
+Table of Contents 
+
+PART II. OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings 
+ From time to time, we are subject to claims in legal proceedings arising in the normal course of business. We do not believe that we are currently party to any pending legal action that could reasonably be expected to have a material adverse effect on our business or operating results. Please refer to Part I, Item 1A. Risk Factors in our Annual Report on Form 10-K for the year ended March 31, 2024 for additional information. 
+
+Item 1A. Risk Factors 
+ In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part I, Item 1A. Risk Factors in our Annual Report on Form 10-K for the year ended March 31, 2024, which are incorporated herein by reference, and could materially affect our business, financial condition or future results. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition and/or operating results. If any of the risks actually occur, our business, financial conditions or results of operations could be negatively affected. In that case, the trading price of our stock could decline, and our stockholders may lose part or all of their investment. There have been no material changes from the risk factors set forth in Part I, Item 1A. Risk Factors in our Annual Report on Form 10-K for the year ended March 31, 2024. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ Purchases of Equity Securities by the Issuer 
+ On April 18, 2024, the Board approved an increase of the existing share repurchase program so that 250.0 million was available. The Board's authorization has no expiration date. During the three months ended September 30, 2024, we repurchased 51.9 million of common stock, or approximately 0.4 million shares, under our share repurchase program. As of September 30, 2024, the remaining amount available under the current authorization was 153.2 million. A summary of our repurchases of common stock is as follows: 
+ Period Total number of shares purchased Average price paid per share Total number of shares purchased as part of publicly announced programs Approximate dollar value of shares that may yet be purchased under the program (in thousands) July 1, 2024 - July 31, 2024 87,699 125.27 87,699 194,108 August 1, 2024 - August 31, 2024 141,253 148.34 141,253 173,155 September 1, 2024 - September 30, 2024 133,763 149.25 133,763 153,191 Three Months Ended September 30, 2024 362,715 143.09 362,715 
+
+Item 3. Defaults upon Senior Securities 
+ None. 
+
+Item 4. Mine Safety Disclosures 
+ Not Applicable. 
+ 
+ 38 
+
+Table of Contents 
+
+ Item 5. Other Information 
+ During the three months ended September 30, 2024, no directors or officers of the Company , modified or any Rule 10b5-1 trading arrangement or Non-Rule 10b5-1 trading arrangement as each term is defined in Item 408 of Regulation S-K. 
+
+Item 6. Exhibits 
+ Exhibit No. Description 10.1 
+ Purchase and Sale Agreement, by and between Commvault and Somerset Development, LLC, with an effective date of October 2,2024 (Incorporated by reference to Exhibit 10.1 to the Registrant's Form 8-K dated October 4, 2024). 31.1 
+ Certification of Chief Executive Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 31.2 
+ Certification of Chief Financial Officer Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 32.1 
+ Certification of Chief Executive Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 32.2 
+ Certification of Chief Financial Officer Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 101.INS XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) Certain exhibits to this Agreement have been omitted pursuant to Item 601(a)(5) of Regulation S-K. A copy of any omitted exhibit will be furnished as a supplement to the Securities and Exchange Commission upon request. 
+ Furnished herewith 
+ 
+ 39 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ Commvault Systems, Inc. Dated: October 30, 2024 By: /s/ Sanjay Mirchandani Sanjay Mirchandani Director, President and Chief Executive Officer (Principal Executive Officer) Dated: October 30, 2024 By: /s/ Jennifer DiRico Jennifer DiRico Chief Financial Officer (Principal Financial Officer) 
+ 40 
+
+<EX-31.1>
+ 2
+ a20240930ex311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ Certification of Chief Executive Officer 
+ Required by Rule 13a-14(a) (17 CFR 240.13a-14(a)) 
+ I, Sanjay Mirchandani, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Commvault Systems, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing equivalent functions) 
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ s Sanjay Mirchandani Sanjay Mirchandani Director, President and Chief Executive Officer (Principal Executive Officer) 
+ Date October 30, 2024 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a20240930ex312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ Certification of Chief Financial Officer 
+ Required by Rule 13a-14(a) (17 CFR 240.13a-14(a)) 
+ I, Jennifer DiRico, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Commvault Systems, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing equivalent functions) 
+ 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ s Jennifer DiRico Jennifer DiRico Chief Financial Officer (Principal Financial Officer) 
+ Date October 30, 2024 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ a20240930ex321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ Certification Pursuant To 
+ 18 U.S.C. Section 1350 
+ As Adopted Pursuant To 
+ Section 906 of the Sarbanes-Oxley Act of 2002 
+ In connection with the Quarterly Report of Commvault Systems, Inc. (the Company on Form 10-Q for the period ended September 30, 2024 as filed with the Securities and Exchange Commission (the Report ), I, Sanjay Mirchandani, Director, President and Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ s Sanjay Mirchandani Sanjay Mirchandani Director, President and Chief Executive Officer (Principal Executive Officer) 
+ October 30, 2024 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ a20240930ex322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ Certification Pursuant To 
+ 18 U.S.C. Section 1350 
+ As Adopted Pursuant To 
+ Section 906 of the Sarbanes-Oxley Act of 2002 
+ In connection with the Quarterly Report of Commvault Systems, Inc. (the Company on Form 10-Q for the period ended September 30, 2024 as filed with the Securities and Exchange Commission (the Report ), I, Jennifer DiRico, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ s Jennifer DiRico Jennifer DiRico Chief Financial Officer (Principal Financial Officer) 
+ October 30, 2024 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ cvlt-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ cvlt-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ cvlt-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ cvlt-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ cvlt-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

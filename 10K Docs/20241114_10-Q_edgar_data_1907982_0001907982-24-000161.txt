@@ -1,0 +1,962 @@
+<Header>
+<FileStats>
+    <FileName>20241114_10-Q_edgar_data_1907982_0001907982-24-000161.txt</FileName>
+    <GrossFileSize>7276827</GrossFileSize>
+    <NetFileSize>117469</NetFileSize>
+    <NonText_DocumentType_Chars>1349216</NonText_DocumentType_Chars>
+    <HTML_Chars>2256947</HTML_Chars>
+    <XBRL_Chars>1920720</XBRL_Chars>
+    <XML_Chars>1509293</XML_Chars>
+    <N_Exhibits>11</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001907982-24-000161.hdr.sgml : 20241114
+<ACCEPTANCE-DATETIME>20241114162937
+ACCESSION NUMBER:		0001907982-24-000161
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		79
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241114
+DATE AS OF CHANGE:		20241114
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			D-Wave Quantum Inc.
+		CENTRAL INDEX KEY:			0001907982
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41468
+		FILM NUMBER:		241463066
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2650 EAST BAYSHORE ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94303
+		BUSINESS PHONE:		(604) 630-1428
+
+	MAIL ADDRESS:	
+		STREET 1:		3033 BETA AVENUE
+		CITY:			BURNABY
+		STATE:			A1
+		ZIP:			V5G4M9
+
+</SEC-Header>
+</Header>
+
+ 0001907982-24-000161.txt : 20241114
+
+10-Q
+ 1
+ qbts-20240930.htm
+ 10-Q
+
+qbts-20240930 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ ________________________ 
+ FORM 
+ ________________________ 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from ___________ and ____________ 
+ Commission file number 
+ 
+ ________________________ 
+ 
+ (Exact name of registrant as specified in its charter) 
+ ________________________ 
+ 
+ (State or other jurisdiction of 
+ incorporation or organization) 
+ (I.R.S. Employer 
+ Identification No.) 
+ , , 
+ 
+ (Address of Principal Executive Offices) 
+ (Zip Code) 
+ 
+ ) 
+ Registrant's telephone number, including area code 
+ (Former name, former address and former fiscal year, if changed since last report) 
+ ________________________ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports) and (2) has been subject to such filing requirements for the past 90 days. x No o 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No o 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer Accelerated filer 
+ o x Smaller reporting company 
+ Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes o No 
+ 
+ APPLICABLE ONLY TO CORPORATE ISSUERS: 
+ As of November 13, 2024, there were outstanding shares of the registrant s common stock, par value 0.0001 per share. In addition, there were 43,762,188 exchangeable shares outstanding as of November 13, 2024, which are convertible into shares of common stock on a one for one basis at any time for no consideration. 
+
+Table of Contents 
+ Page Part I. Financial Information 
+ 3 
+ Item 1. 
+ D-Wave Quantum Inc. Financial Statements (Unaudited) 
+ 3 
+ Condensed Consolidated Balance Sheets (Unaudited) 
+ Condensed Consolidated Statements of Operations and Comprehensive Loss (Unaudited) 
+ Condensed Consolidated Statements of Stockholders Deficit (Unaudited) 
+ Condensed Consolidated Statements of Cash Flows (Unaudited) 
+ Notes to Condensed Consolidated Financial Statements (Unaudited) 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 27 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 35 
+ Item 4. 
+ Controls and Procedures 
+ 35 
+ Part II. Other Information 
+ 37 
+ Item 1 . 
+ Legal Proceedings 
+ 37 
+ Item 1A . 
+ Risk Factors 
+ 37 
+ Item 2 . 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 37 
+ Item 3 . 
+ Defaults Upon Senior Securities 
+ 37 
+ Item 4 . 
+ Mine Safety Disclosures 
+ 37 
+ Item 5 . 
+ Other Information 
+ 37 
+ Item 6 . 
+ Exhibits and Financial Statement Schedules 
+ 37 
+ Signatures 
+ 39 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ Certain statements in this Quarterly Report on Form 10-Q (this Report may constitute forward-looking statements within the meaning of the federal securities laws, including the Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. Our forward-looking statements include, but are not limited to, statements regarding D-Wave Quantum Inc. s and D-Wave Quantum Inc. s management team s expectations, hopes, beliefs, intentions or strategies regarding the future. In addition, any statements that refer to projections, forecasts or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements. In some cases, you can identify forward-looking statements by the following words: believe, may, will, could, would, should, expect, intend, plan, anticipate, trend, believe, estimate, predict, project, potential, seem, seek, future, outlook, forecast, projection, continue, ongoing, or the negative of these terms or other comparable terminology, although not all forward-looking statements contain these words. These statements involve risks, uncertainties, and other factors that may cause actual results, levels of activity, performance, or achievements to be materially different from the information expressed or implied by these forward-looking statements. We caution you that these statements are based on a combination of facts and factors currently known by us and our projections of the future, which are subject to a number of risks. Factors that might cause or contribute to a material difference include those risks discussed below and in Part I, Item 1A, Risk Factors in our most recent Annual Report on Form 10-K and our other filings with the Securities and Exchange Commission (the "SEC ). You should not place undue reliance on these forward-looking statements in making an investment decision with respect to the securities offered under this Report. These forward-looking statements are not intended to serve as, and must not be relied on as, a guarantee, an assurance, a prediction or a definitive statement of fact or probability regarding future performance, events or circumstances. Many of the factors affecting actual performance, events and circumstances are beyond the control of D-Wave Quantum. As a result of a number of known and unknown risks and uncertainties, our actual results or performance may be materially different from those expressed or implied by these forward-looking statements. All forward-looking statements set forth in this Report are qualified by these cautionary statements, and there can be no assurance that the actual results or developments anticipated by the Company will be realized or, even if substantially realized, that they will have the expected consequence to or effects on the Company or its business or operations. The following discussion should be read in conjunction with the Company s audited Consolidated Financial Statements and related notes thereto included our most recent Annual Report on Form 10-K. These forward-looking statements are based on information available as of the date of this Report, and current expectations, forecasts and assumptions, and involve a number of judgments, risks and uncertainties and are not predictions of actual performance. Accordingly, forward-looking statements should not be relied upon as representing our views as of any subsequent date, and we do not undertake any obligation to update forward-looking statements to reflect events or circumstances after the date they were made, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws. 
+
+2 
+
+Part I - Financial Information 
+ 
+ Item 1. Financial Statements 
+
+D-Wave Quantum Inc. 
+ Condensed Consolidated Balance Sheets 
+ 
+ September 30, December 31, 2024 2023 (In thousands, except share and per share data) (Unaudited) Assets Current assets: Cash Trade accounts receivable, net of allowance for doubtful accounts of and 
+ Inventories Prepaid expenses and other current assets Total current assets Property and equipment, net Operating lease right-of-use assets Intangible assets, net Other non-current assets Total assets Liabilities and stockholders' deficit Current liabilities: Trade accounts payable Accrued expenses and other current liabilities Current portion of operating lease liabilities Loans payable, net, current (including and as of September 30, 2024 and December 31, 2023, respectively, at fair value) 
+ Deferred revenue, current Total current liabilities Warrant liabilities Operating lease liabilities, net of current portion Loans payable, net, non-current (including and as of September 30, 2024 and December 31, 2023, respectively, at fair value) 
+ Deferred revenue, non-current Total liabilities Commitments and contingencies (Note 10) per share; shares authorized at both September 30, 2024 and December 31, 2023; shares and shares issued and outstanding as of September 30, 2024 and December 31, 2023, respectively. 
+ Additional paid-in capital Accumulated deficit ) ) Accumulated other comprehensive loss ) ) Total stockholders' deficit ) ) Total liabilities and stockholders deficit 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 
+ 3 
+
+D-Wave Quantum Inc. 
+ Condensed Consolidated Statements of Operations and Comprehensive Loss 
+ (Unaudited) 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, (In thousands, except share and per share data) 2024 2023 2024 2023 Revenue Cost of revenue Total gross profit Operating expenses: Research and development General and administrative Sales and marketing Total operating expenses Loss from operations ) ) ) ) Other income (expense), net: Interest expense ) ) ) ) Change in fair value of Term Loan ) ) Term Loan debt issuance costs ) ) Gain (loss) on investment in marketable equity securities ) Change in fair value of warrant liabilities ) Other income (expense), net ) Total other income (expense), net ) ) ) Net loss ) ) ) ) Net loss per share, basic and diluted Weighted-average shares used in computing net loss per share, basic and diluted Comprehensive loss: Net loss ) ) ) ) Foreign currency translation adjustment ) ) ) Net comprehensive loss ) ) ) ) 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 
+ 4 
+
+D-Wave Quantum Inc. 
+ Condensed Consolidated Statements of Stockholders Deficit 
+ For the Three Months Ended September 30, 2024 
+ (Unaudited) 
+ 
+ Common stock Additional paid-in capital Accumulated deficit Accumulated other comprehensive loss Total stockholders' deficit (In thousands, except share data) Shares Amount Balance at June 30, 2024 ) ) ) Issuance of common stock in connection with the Lincoln Park Purchase Agreement Issuance of common stock in at-the-market offerings, net of issuance costs of 
+ Issuance of common stock in connection with exercise of stock options and vesting of RSUs Stock-based compensation Tax withholding related to vesting of restricted stock units ) ) Foreign currency translation adjustment, net of tax ) ) Net loss ) ) Balances at September 30, 2024 ) ) ) 
+ 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+
+5 
+
+D-Wave Quantum Inc. 
+ Condensed Consolidated Statements of Stockholders Deficit 
+ For the Three Months Ended September 30, 2023 
+ (Unaudited) 
+ 
+ Common stock Additional paid-in capital Accumulated deficit Accumulated other comprehensive loss Total stockholders' deficit (In thousands, except share data) Shares Amount Balance at June 30, 2023 ) ) ) Exercise of stock options Issuance of common stock in connection with the Lincoln Park Purchase Agreement Issuance of common stock in connection with the Employee Stock Purchase Plan Stock-based compensation Foreign currency translation adjustment, net of tax Net loss ) ) Balances at September 30, 2023 ) ) ) 
+ 
+ The accompanying notes are an integral part of these condensed consolidated financial statements 
+
+6 
+
+D-Wave Quantum Inc. 
+ Condensed Consolidated Statements of Stockholders Deficit 
+ For the Nine Months Ended September 30, 2024 
+ (Unaudited) 
+ 
+ Common stock Additional paid-in capital Accumulated deficit Accumulated other comprehensive loss Total stockholders' deficit (In thousands, except share data) Shares Amount Balances at December 31, 2023 ) ) ) Issuance of common stock in connection with the Lincoln Park Purchase Agreement Issuance of common stock in at-the-market offerings, net of issuance costs of 
+ Issuance of common stock in connection with the Employee Stock Purchase Plan Issuance of common stock in connection with exercise of stock options and vesting of RSUs Stock-based compensation Tax withholding related to vesting of restricted stock units ) ) Foreign currency translation adjustment, net of tax ) ) Net loss ) ) Balances at September 30, 2024 ) ) ) 
+ 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 
+ 7 
+
+D-Wave Quantum Inc. 
+ Condensed Consolidated Statements of Stockholders Deficit 
+ For the Nine Months Ended September 30, 2023 
+ (Unaudited) 
+ 
+ Common stock Additional paid-in capital Accumulated deficit Accumulated other comprehensive loss Total stockholders' deficit (In thousands, except share data) Shares Amount Balances at December 31, 2022 ) ) ) Exercise of stock options 
+ Issuance of common stock in connection with the Purchase Agreement Issuance of common stock in connection with the Employee Stock Purchase Plan Stock-based compensation Short-swing profit settlement Foreign currency translation adjustment, net of tax ) ) Net loss ) ) Balances at September 30, 2023 ) ) ) 
+ 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 
+ 8 
+
+D-Wave Quantum Inc. 
+ Condensed Consolidated Statements of Cash Flows 
+ (Unaudited) 
+ Nine Months Ended September 30, (in thousands) 2024 2023 Cash flows from operating activities: Net loss ) ) Adjustments to reconcile net loss to cash used in operating activities: Depreciation and amortization Stock-based compensation Amortization of operating right-of-use assets Provision for excess and obsolete inventory Non-cash interest expense, net of cash paid for PIK interest ) Change in fair value of Warrant liabilities ) Change in fair value of Term Loan ) Debt issuance costs netted from Term Loan proceeds Gain on marketable securities ) Unrealized foreign exchange gain ) ) Change in operating assets and liabilities: Trade accounts receivable Inventories ) ) Prepaid expenses and other current assets ) Trade accounts payable ) ) Accrued expenses and other current liabilities Deferred revenue Operating lease liability ) Other non-current assets Net cash used in operating activities ) ) Cash flows from investing activities: Purchase of property and equipment ) ) Purchase of convertible note (Note 4) ) Sales of marketable equity securities (Note 4) Expenditures for internal-use software ) ) Net cash used in investing activities ) ) Cash flows from financing activities: Proceeds from the issuance of common stock pursuant to the Lincoln Park Purchase Agreement Proceeds from the issuance of common stock in at-the-market offerings, net of issuance costs of 
+ Proceeds from the issuance of common stock upon exercise of stock options Proceeds from common stock issued under the Employee Stock Purchase Plan Proceeds from Term Loan Proceeds from government assistance Payment on directors and officers insurance financing arrangement ) Payment of tax withheld pursuant to stock-based compensation settlements ) Short swing profit settlement Debt payment for Term Loan ) Debt payment for TPC Loan ) ) Net cash provided by financing activities Effect of exchange rate changes on cash and cash equivalents ) ) Net increase (decrease) in cash and cash equivalents ) Cash and cash equivalents at beginning of period Cash and cash equivalents at end of period Supplemental disclosures of cash flow information: Cash Paid for Interest Supplemental disclosure of non-cash investing and financing activities: Inventory applied to capital projects Operating lease right-of-use assets exchanged for new operating lease obligations Purchases of property and equipment included in accounts payable Bonus settled in vested share based compensation awards 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 
+ 9 
+
+D-Wave Quantum Inc. 
+ Notes to Condensed Consolidated Financial Statements 
+ 
+ operating facilities, which it leases, in North America. These facilities are located in Burnaby, British Columbia, Richmond, British Columbia, and Palo Alto, California. 
+ 
+ Liquidity and Going Concern 
+ The Company has prepared its condensed consolidated financial statements assuming that it will continue as a going concern. Since its inception, the Company has incurred net losses and negative cash flows from operations. As of September 30, 2024, the Company had an accumulated de ficit of million. For the three months ended September 30, 2024 and 2023, the Company incurred a net loss of million and million, respectively. For the nine months ended September 30, 2024 and 2023, the Company incurred a net loss of million and million, respectively. For the nine months ended September 30, 2024 and 2023, the Company had net cash outflows from operating activities of million and million, respectively. As of September 30, 2024, the Company had cash of million and working capital (current assets less current liabilities) of million. Additionally, total liabilities exceeded total assets at September 30, 2024 by million. The Company expects to incur additional operating losses and negative cash flows from operating activities as it continues to expand its commercial operations and research and development programs. 
+ 
+ 10 
+
+million in tranches, with financial performance requirements. The first two tranches of million each were disbursed on April 14, 2023, and July 13, 2023, respectively. The third tranche of million is contingent on meeting specific criteria, including a non-dilutive financing closure. As of September 30, 2024, the Company had prepaid million of the Term Loan, including million in principal and million in accrued PIK interest. The remaining balance as of September 30, 2024 was million at amortized cost. The Term Loan was subsequently repaid in full on October 22, 2024. 
+ In conjunction with the Merger, the Company and D-Wave Systems entered into a purchase agreement with Lincoln Park Capital Fund, LLC ("Lincoln Park") on June 16, 2022 (the "Purchase Agreement") which provides D-Wave the sole right, but not the obligation, to direct Lincoln Park to buy specified dollar amounts up to million of D-Wave's common stock, par value per share through November 1, 2025 . The Purchase Agreement may provide the Company and D-Wave with additional liquidity to fund the business, subject to the conditions set forth in the agreement, including volume limitations tied to periodic market prices, ownership limitations restricting Lincoln Park from owning more than of the then total outstanding share of common stock of the Company, par value , (the "Common Shares") and a floor price of at or below which the Company may not sell to Lincoln Park any Common Shares. When the Company sells shares to Lincoln Park, Lincoln Park may resell all, some, or none of those Common Shares at any time or from time to time in its discretion. During the nine months ended September 30, 2024, the Company has received million in proceeds through the issuance of Common Shares to Lincoln Park under the Purchase Agreement. In order for the Company to issue Common Shares under the Purchase Agreement, the Company's share price must be above the floor price of . There is no assurance that the floor price will not fall below preventing the Company from being able to make sales to Lincoln Park in the future. As of September 30, 2024, D-Wave had million of issuance capacity under the Purchase Agreement. 
+ On May 24, 2024, the Company entered into an at-the-market sales agreement (the ATM Agreement with Needham Company, LLC, B. Riley Securities, Inc. and Roth Capital Partners, LLC (collectively, the Agents ), pursuant to which the Company may sell from time to time, at its option, shares of the Company s common stock, par value per share, through or to the Agents, as sales agent or principal. In accordance with the terms of the ATM Agreement, the Company may offer and sell shares of its common stock having an aggregate offering price of up to million from time to time through or to the Agents, as sales agent or principal. During the nine months ended September 30, 2024, the Company has received million in net proceeds through the issuance of Common Shares under the Sales Agreement. As of September 30, 2024, D-Wave had million of issuance capacity under the ATM Agreement. 
+ The sale of shares of the Company s common stock under the ATM Agreement will be made by any method permitted that is deemed to be an at-the-market equity offering as defined in Rule 415(a)(4) promulgated under the Securities Act of 1933, as amended (the Securities Act ), including sales made directly on the New York Stock Exchange ("NYSE") or any other trading market for the Company s common stock. Subject to the terms and conditions of the Sales Agreement, the Agents will use commercially reasonable efforts to sell the shares of the Company s common stock from time to time, based upon the Company s instructions. 
+ The compensation payable to the Agents as sales agent shall be up to of the gross sales price of the shares sold through or to the Agents pursuant to the ATM Agreement. In addition, the Company will reimburse the Agents for certain expenses incurred in connection with the ATM Agreement, and the Company has agreed in the ATM Agreement to provide indemnification and contribution to the Agents against certain liabilities, including liabilities under the Securities Act. 
+ The Company is not obligated to make any sales of shares of common stock under the ATM Agreement. The offering of common stock pursuant to the ATM Agreement will terminate upon (a) the election of the Agents upon the occurrence of certain adverse events, (b) five business days advance notice from the Company to the Agents or advance notice from any of the Agents to the Company, or (c) otherwise by mutual agreement of the parties pursuant to the terms of the ATM Agreement. 
+
+11 
+
+12 
+
+million as of September 30, 2024. The charge was recorded within general and administrative expenses in the condensed consolidated statements of operations and comprehensive loss. 
+ 
+ million (the "SIF Loan"). The SIF Loan is conditionally repayable according to a revenue-based formula. See Note 6 for additional information concerning the SIF Loan. 
+ The accounting treatment for the SIF Loan considers the "sale of future revenues" guidance promulgated by ASC 470-10-25. The debt arising from the SIF Loan was recorded at face value and will be amortized using the effective interest method, leading to the accrual of interest expenses over the estimated term of the SIF Loan. The amortization schedule is based on projected cash flows derived from the Company's long-term revenue forecast. Subsequent changes in forecasted cash flows will be accounted for under the catch-up method, which entails adjusting the accrued interest portion of the principal balance through earnings to reflect the currently projected effective interest rate. The liability is classified as non-current, as the current forecast indicates that repayments will not commence within the 12 months following the balance sheet date. 
+ As the SIF Loan is originated through a government program, a market rate of interest is not imputed in accordance with the scope limitations of ASC 835. 
+ Term Loan fair value option election 
+ The Company determined that it is eligible for the fair value option election in connection with the Term Loan. The Term Loan meets the definition of a recognized financial liability which is an acceptable financial instrument eligible for the fair value option under ASC 825. At the date of issuance, the fair value of the Term Loan was derived from the instrument s implied discount rate at inception. The fair value option election was made to enhance the relevance and transparency of information presented related to the features embedded in the Term Loan. 
+ Changes in the fair value of the Term Loan, other than changes associated with the Company's own credit risk, are recorded as gains or losses in the Company s condensed consolidated statements of operations and comprehensive loss in each reporting period. Changes in fair value attributable to the Company's own credit risk are recorded in other comprehensive income or loss in the Company's condensed consolidated statements of operations and comprehensive loss in each reporting period; there have been no such changes for the nine months ended September 30, 2024. Under the fair value option, debt issuance costs were recorded in other expense in the Company s condensed consolidated statements of operations and comprehensive loss. 
+ 
+ 13 
+
+. 
+ Warrant Liabilities Private Placement Warrants 2 Term Loan 
+ 3 
+ The valuation of the Term Loan is classified as Level 3 fair measurements, attributable to the utilization of the Monte Carlo simulation, recognized as a Level 3 valuation technique. 
+ 
+ 14 
+
+Professional services Other revenue Total revenue Timing of revenue recognition Revenue recognized over time Revenue recognized at a point in time Total revenue 
+ Other revenue includes support, maintenance and printed circuit board sales. For the three and nine months ended September 30, 2023, maintenance revenues have been reclassified from professional services to other revenue. 
+ 
+ 15 
+
+Germany Canada Japan Switzerland Other Total revenue 
+ "Other" includes the rest of Europe, the Middle East, Africa, Asia and Australia where the revenue from a single country is not greater than 10 of total consolidated revenue. The Company has not had any sales in China, Russia or Ukraine. 
+ Significant customers 
+ A significant customer is defined as one that comprises up to ten percent or more of total revenues in a particular year or ten percent of outstanding accounts receivable balance as of the period end. 
+ Customer B Customer C Customer D Customer E 
+ As of each of September 30, 2024 and 2023, there were and significant customers, respectively, that comprised percent or more of outstanding accounts receivable balances. 
+ Contract balances 
+ Contract asset for unbilled receivables Contract acquisition costs Total contract assets Contract liabilities: Deferred revenue, current Deferred revenue, non-current Customer deposit 1 
+ Total contract liabilities 
+ 1 Customer deposit is included in accrued expenses and other current liabilities on the condensed consolidated balance sheets. 
+ 
+ 16 
+
+million as of September 30, 2024 and December 31, 2023. Write-offs were immaterial during the three months ended September 30, 2024 and 2023. 
+ The revenue recognized in the condensed consolidated statements of operations and comprehensive loss that was included in the contract liability balance at the beginning of each period was million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+ Deferral of revenue Recognition of deferred revenue ) ) Balance at end of period 
+ Remaining performance obligations 
+ A significant number of the Company s product and service sales are short-term in nature with a contract term of one year or less. For those contracts, the Company has utilized the practical expedient in ASC 606-10-50-14 exempting the Company from disclosure of the transaction price allocated to remaining performance obligations if the performance obligation is part of a contract that has an original expected duration of one year or less. 
+ As of September 30, 2024, the aggregate amount of remaining performance obligations that were unsatisfied or partially unsatisfied related to customer contracts was million, of which approximately is expected to be recognized to revenue in the next 12 months, is expected to be recognized to revenue in the next two years, is expected to be recognized within . Revenues allocated to remaining performance obligations represents the transaction price of noncancellable orders for which service has not been performed, which include deferred revenue and the amounts that will be invoiced and recognized as revenues in future periods from open contracts and excludes unexercised renewals. 
+ 
+ Work-in-process Total inventories 
+ Prepaid expenses and other current assets 
+ Prepaid software Prepaid insurance Prepaid rent Other Total prepaid expenses and other current assets 
+ Certain amounts presented in the table above as of December 31, 2023 have been reclassified to conform to the current period presentation. 
+ 
+ 17 
+
+Long-term deposits Contract acquisition costs Total 
+ On January 5, 2024, one of the Company's equity investments was acquired by another entity and the transaction was determined to result in an observable price change in the equity. Consequently, the carrying value of the Company's investment was adjusted based on the consideration received, resulting in a net gain of approximately million, recorded in gain (loss) on investment in marketable equity securities during the nine months ended September 30, 2024. 
+ On February 8, 2024, the Company entered into a collaboration arrangement with Zapata to develop and bring to market commercial applications that combine generative AI and quantum computing technologies. As part of the collaboration, the Company purchased the Note with a principal amount of million from Zapata. The Note matures on December 15, 2026, and bears interest at per annum. The Note is prepayable without penalty after December 15, 2025 or if the aggregate value of Zapata's convertible notes outstanding falls below million. The Note is convertible into Zapata common stock at the Company's option at a conversion price of , subject to adjustment for stock splits, recapitalizations, and other similar corporate transactions. 
+ On April 1, 2024 the conversion feature associated with the Note was bifurcated from the debt host instrument in connection with the underlying stock becoming readily convertible to cash as the result of a de-SPAC transaction. As a result, the fair value of the conversion feature of million was given separate recognition. As of September 30, 2024, the fair value of the conversion feature was , resulting in a loss of million recorded to change in fair value of marketable securities on the condensed consolidated statement of operations and comprehensive loss. 
+ On October 11, 2024, Zapata announced that it was insolvent and would cease operations. Considering this and other financial information available prior to the balance sheet date, the Note was provisionally determined to be uncollectible, and the Company has recognized a credit loss provision for the entire balance owed of million as of September 30, 2024. The charge was recorded within general and administrative expenses in the condensed consolidated statements of operations and comprehensive loss. See Note 2 for additional discussion of the Note and the Company's collateral rights to substantially all of Zapata's assets. 
+ Accrued expenses and other current liabilities 
+ Accrued professional services Other accruals Total accrued expenses and other current liabilities 
+ Certain amounts presented in the table above as of December 31, 2023 have been reclassified to conform to the current period presentation. 
+ 
+ 18 
+
+Lab equipment Computer equipment Leasehold improvements Furniture and fixtures Construction-in-progress Total property and equipment Less: Accumulated depreciation ) ) Total property and equipment, net 
+ million and million , respectivel y. Depreciation expense for the nine months ended September 30, 2024 and 2023 was million and million , respectivel 
+
+Term Loan, due 2027 Total loans payable, net, current Loans payable, net, non-current: SIF Loan Variable 1 
+ Term Loan, due 2027 TPC Loan, non-current Interest free Total loans payable, net, non-current 
+ 1 Refer below for additional information on the SIF Loan repayment period and effective interest rate. 
+ 
+ 19 
+
+Total loans payable, net, current, at amortized cost Fair value option - Term Loan Total loans payable, net, current 
+ As of September 30, 2024 As of December 31, 2023 SIF Loan TPC Loan, non-current Total loans payable, net, non-current, at amortized cost Fair value option - Term Loan Total loans payable, net, non-current 
+ TPC loan 
+ During the period spanning 2010 through 2021, the Company received funding totaling C million from Technology Partnerships Canada (the "TPC Loan"). On November 23, 2020 , an amendment forgave C million of unpaid accrued debt principal and interest from prior years. Additionally, the amendment waived the interest charge on the remaining C million of principal and revised the repayment schedule to C million due annually on each April 30 through 2025. 
+ The estimated fair value of the TPC Loan (Level 2) at September 30, 2024 was million . The fair value of the TPC Loan was valued using a discounted cash flow model, with key inputs relating to terms, discount rate and expectations for defaults and prepayments. 
+ As the TPC Loan is originated through a government program, a market rate of interest is not imputed in accordance with the scope limitations of ASC 835. 
+ SIF Loan 
+ On November 20, 2020, the Company entered into the SIF Loan. As of December 31, 2023, the Company had received the full C million in tranches between November 2020 and December 2023. Funds from the SIF Loan were used for projects involving the adaptation of research findings for commercial applications that have the potential for market disruption; development of current product and services through the implementation of new or incremental technology that will enhance the Company s competitive capability; and development of process improvements which reduce the environmental footprint of current production through the use of new or improved technologies. 
+ Principal and interest amounts to be repaid under the SIF Loan are determined using a revenue-based formula, and are capped at of the principal amount (the "Repayment Cap"). Repayments are due in up to annual installments, commencing on April 30 of the second fiscal year following the fiscal year in which the Company first reports annual revenue of at least million (the "Benchmark Year"). If the Company fails to reach million in annual revenue after years from origination, or if the total of the revenue-based annual installments is less than the principal amount, any remaining repayment obligation will be forgiven. 
+ Repayments of the SIF Loan can also be triggered upon default of the agreement, termination of the agreement, or upon a change of control that has not been approved by the Canadian government. As of September 30, 2024, the Company is not aware of any events that would trigger default or termination of the agreement. 
+ The gross proceeds of the SIF Loan were recorded as a liability related to the sale of future revenues (see Note 2 - Basis of Presentation and Summary of Significant Accounting Policies). As of September 30, 2024 and December 31, 2023, the Company calculated a weighted average effective interest rate for all tranches of and , respectively based on the most recent revenue projections at each reporting date. 
+ The estimated fair value of the SIF Loan (Level 3) at September 30, 2024 was million . The fair value of SIF Loan was valued using a discounted cash flow model, with significant assumptions relating to the amount and timing of future revenues and the appropriate discount rate. 
+ 
+ 20 
+
+million are to be made available to the Company in tranches, subject to certain terms and conditions. 
+ The Term Loan was subsequently repaid in full on October 22, 2024. 
+ The Term Loan matures on March 31, 2027, is secured by a first-priority security interest in substantially all of the Company's assets and contains certain operational and financial covenants, including a financial covenant that measures the Company's revenue against certain minimum percentages of budgeted revenue per quarter. The Term Loan is subject to a drawdown fee and requires that any proceeds from the issuance of Common Shares under the Purchase Agreement be applied towards the repayment of advances under the Term Loan. Such repayments are subject to a premium payment equal to of the amount then prepaid to the Lender, in addition to the regular prepayment premium applicable on that date, except as modified by the amendment to the Term Loan as discussed below. The Term Loan is subject to a prepayment premium due to the Lender equal to of the amount prepaid/repaid within the first year of the Closing Date, in the second year, in the third year and no prepayment premium thereafter. At the Company's discretion, the Term Loan bears interest on a monthly basis at either (i) payable in cash, or (ii) payable in kind ('PIK'), with the latter added to the principal value of the Term Loan. For the three months ended September 30, 2024 and 2023, t he Company recognized million and million, respectively, in PIK interest expense related to the Term Loan. For the nine months ended September 30, 2024 and 2023, t he Company recognized million and million, respectively, in PIK interest expense related to the Term Loan. The PIK interest expense is included in interest expense on the condensed consolidated statements of operations and comprehensive loss. 
+ Prior to PSPIB's advance of the first tranche, the Company satisfied several closing conditions including the provision of a cash flow forecast and the board of directors' retention of an advisor. The first and second tranche of the Term Loan, each in an aggregate principal amount of million, were advanced to D-Wave on April 14, 2023 and July 13, 2023, respectively, with the third tranche of million to be made automatically available to the Company subject to the satisfaction of certain conditions. PSPIB has waived certain covenants under the Term Loan that the Company did not meet, including the minimum revenue financial covenant for the fiscal quarters ended June 30, 2024, June 30, 2023 and September 30, 2023. 
+ The availability of the third tranche is subject to the Company closing a million non-dilutive financing on terms reasonably acceptable to the Lender, the intellectual property valuation report submitted as a condition precedent to the second tranche remaining satisfactory to the Lender and providing a board-approved operating budget for 2023 through 2027 by August 31, 2023 that is satisfactory to the Lender. The deadline to provide the operating budget was extended to December 31, 2023 from August 31, 2023 by the fourth amendment to the Term Loan dated October 6, 2023, and the budget was provided prior to the extended deadline. 
+ The Term Loan was amended to allow the Company to issue up to million under the Purchase Agreement without needing to pay down the Term Loan if the proceeds were received before December 31, 2023. On February 7, 2024, a fifth amendment was made to include the investment in Zapata via a senior secured promissory note as a "Permitted Investment." Any proceeds from issuing Common Shares under the Purchase Agreement exceeding million must be used to repay the Term Loan, plus a premium on the prepaid amount. 
+ On April 16, 2024, the Company entered into the sixth amendment to the Term Loan with PSPIB. The amendment provides an additional period during which no prepayment of the advances under the Term Loan is required for up to million in gross proceeds received by the Company from share issuances under the Purchase Agreement or the Company s million shelf registration statement on Form S-3, which became effective on May 24, 2024, between April 16, 2024, and September 30, 2024 (the "Second Prepayment Exemption"). Additionally, the amendment allows for a prepayment premium exemption for up to million in gross proceeds received after the million Second Prepayment Exemption. Under this exemption, the additional prepayment premium will not apply for any mandatory prepayment from proceeds from the issuance of Common Shares under the ELOC. As of September 30, 2024, the Company had prepaid million of the Term Loan, including million in principal and million in accrued PIK interest. The remaining balance as of September 30, 2024 was million measured at amortized cost. 
+ Any unrealized gain or loss on the Term Loan is included in change in fair value of Term Loan on the condensed consolidated statements of operations and comprehensive loss. 
+ 
+ 21 
+
+Range: to 
+ Default Trigger Event probability on April 1, 2025 
+ ELOC financing trigger event probability from November 1, 2025 through January 1, 2025 
+ ATM financing trigger event probability from November 1, 2025 through January 1, 2025 
+ Weighted-average market yield rate (Default Trigger Event) 
+ Weighted-average market yield rate (Call Option) 
+ Range: to 
+ Weighted-average market yield volatility 
+
+PIK interest expenses 
+ Change in fair value 
+ Payments ) Ending balance 
+
+22 
+
+DPCM public warrants (the "Public Warrants") and DPCM private warrants (the "Private Warrants", collectively the "Warrants"). During the nine months ended September 30, 2024, DPCM public or private warrants were exercised. 
+ As of September 30, 2024, the Company has Warrants outstanding. As part of the Merger, each DPCM Public Warrant and Private Warrant that was issued and outstanding immediately prior to the Merger was automatically and irrevocably converted into D-Wave Quantum warrant. The Warrants are subject to the terms and conditions of the warrant agreement entered into between DPCM, Continental Stock Transfer Trust Company and the Company (the Warrant Agreement Amendment as specified in the Transaction Agreement). 
+ Each such Warrant will be exercisable at an exercise price of for Common Shares, or an approximate exercise price per Common Share of , subject to adjustments. The Warrants may be exercised for a whole number of shares of the Company. No fractional shares will be issued upon exercise of the Warrants. The Warrants will expire on August 5, 2027, or earlier upon redemption or liquidation. 
+ The Private Warrants are identical to the Public Warrants except that the Private Warrants are exercisable on a cashless basis and are non-redeemable so long as they are held by the initial purchasers or their permitted transferees. If the Private Warrants are held by someone other than the initial purchasers or their permitted transferees, the Private Warrants will be redeemable by the Company and exercisable by such holders on the same basis as the Public Warrants. 
+ The Company may redeem the Public Warrants: 
+ in whole and not in part; 
+ at per warrant upon a minimum of days prior written notice of redemption; provided that holders will be able to exercise their warrants on a cashless basis prior to redemption and receive that number of shares based on the redemption date and the fair market value of the Common Shares; 
+ if, and only if, the last reported sales price of the shares of the Common Shares for any twenty ) trading days within the thirty ) trading-day period ending on the third trading day prior to the date on which a notice of redemption is given equals or exceeds per share (as adjusted for stock splits, stock dividends, reorganizations, recapitalization and the like) (the "Reference Value"); 
+ if the Reference Value is less than per share (as adjusted for stock splits, stock dividends, reorganizations, recapitalization and the like), the Private Warrants must also be concurrently called for redemption on the same terms as the outstanding Public Warrants, as described above; and 
+ if, and only if, there is an effective registration statement covering the issuance of the Common Shares issuable upon exercise of the warrants and a current prospectus relating thereto available throughout the period after written notice of redemption is given, or an exemption from registration is available. 
+ If the Company calls the Public Warrants for redemption, management will have the option to require all holders that wish to exercise the Public Warrants to do so on a cashless basis, as described in the warrant agreement. The exercise price and number of the Common Shares issuable upon exercise of the warrants may be adjusted in certain circumstances including in the event of a stock dividend, or recapitalization, reorganization, merger or consolidation. However, the warrants will not be adjusted for issuance of the Common Shares at a price below its exercise price. Additionally, in no event will the Company be required to net cash settle the warrants. 
+ D-Wave Systems Warrant Transaction Agreements 
+ shares of its Class A Preferred Shares (the Warrant Preferred Shares ), subject to certain vesting requirements. The warrant agreement was amended on August 5, 2022, contemporaneously with the closing of the Merger, to convert the Warrant Preferred Shares to a warrant to acquire up to Common Shares of the Company in accordance with the Conversion Ratio of (the "Conversion Ratio") established in the Merger. The warrants vest based on various contractual milestones. The warrant agreement was terminated on November 28, 2022. As of the termination date of the agreement, approximately of the warrants had vested, resulting in warrants exercisable into Common Shares remaining after the termination date. The vested warrants will remain exercisable for up to Common Shares at an exercise price of additional Warrant Preferred Shares were vested or probable of vesting. 
+ 
+ 23 
+
+to from the original grant date, and all awards issued to date under the 2022 Plan will expire from the original grant date. 
+ Share-based compensation awards are settled by issuing new shares. 
+ Common stock option activity 
+ Granted Exercised ) Forfeited and expired ) Outstanding as of September 30, 2024 Options exercisable as of September 30, 2024 Options unvested as of September 30, 2024 
+ As of December 31, 2023, a total of options had been issued and remained outstanding under the 2020 Plan. The number of options, along with the weighted average exercise price and weighted average remaining contractual term shown in the table above, have been adjusted using the Conversion Ratio applied to these options. 
+ Restricted stock unit awards 
+ Granted Forfeited and expired ) Vested ) Unvested as of September 30, 2024 
+ Employee Stock Purchase Plan 
+ During the three months ended September 30, 2024, common shares were issued under the Employee Stock Purchase Plan. During the nine months ended September 30, 2024, common shares were issued under the Employee Stock Purchase Plan. 
+ 
+ 24 
+
+Research and development General and administrative Sales and marketing Total stock-based compensation 
+ As of September 30, 2024, total unrecognized stock-based compensation cost, net of estimated forfeitures, related to our unvested stock awards was million. This amount is based on an estimated future forfeiture rate of per year and will be recognized over a weighted-average period of approximately years. 
+ 
+ million to the Sponsor (the "Affiliate Note") for additional working capital. million was drawn on the Affiliate Note. As part of the Merger, the Company assumed and amended the Affiliate Note. The Affiliate Note had been fully repaid as of December 31, 2023. 
+ Similarly, on April 13, 2022, DPCM obtained an unsecured promissory note of up to million from the Sponsor (the "DPCM Note") for additional working capital. million was drawn on the DPCM Note. The Company also assumed and amended this note. The Affiliate Note had been fully repaid as of December 31, 2023. 
+ These transactions are considered related party transactions as they involve affiliates of the Company. 
+ Short swing profit settlement 
+ During the nine months ended September 30, 2023, the Company recorded approximately million related to a short swing profit settlement remitted by a shareholder of the Company under Section 16(b) of the Securities Exchange Act of 1934, as amended. The Company recognized the proceeds as an increase to additional paid-in-capital in the condensed consolidated statements of stockholders deficit, as well as in financing activities in the condensed consolidated statements of cash flows for the nine months ended September 30, 2023. 
+ 
+ million and million, respectively. During the nine months ended September 30, 2024 and 2023, total operating lease costs were million and million, respectively. 
+ Litigation 
+ From time to time, the Company may become involved in various legal proceedings in the ordinary course of its business and may be subject to third-party infringement claims. 
+ 
+ 25 
+
+Denominator: Weighted-average common stock outstanding Net loss per share attributable to common stockholders - basic and diluted 
+ 
+ Nine Months Ended September 30, 2024 2023 Numerator: Net loss attributable to common stockholders - basic and diluted Denominator: Weighted-average common stock outstanding Net loss per share attributable to common stockholders - basic and diluted 
+ For the nine months ended September 30, 2024 and 2023 the Company s potentially dilutive securities were stock options, the Warrant Shares, the Public Warrants and Private Warrants and the unvested restricted stock unit awards. 
+ Since the Company was in a loss position for all periods presented, basic net loss per share is the same as diluted net loss per share for all periods as the inclusion of all potential common shares outstanding would have been anti-dilutive. 
+ Private Warrants as converted to Common Shares (Note 7) D-Wave Systems Warrant Shares as converted to Common Shares (Note 7) Stock options issued and outstanding Unvested restricted stock unit awards Total 
+ 
+ 26 
+
+Common Shares in connection with the Purchase Agreement for total proceeds of million. 
+ Subsequent to September 30, 2024, the Company has issued Common Shares in connection with the ATM Agreement for total proceeds of million. 
+ Repayment of Term Loan 
+ On October 22, 2024, the Company fully repaid and extinguished the Term Loan. 
+ NYSE Listing Standards Compliance 
+ On November 1, 2024, the NYSE provided D-Wave with a notification letter of recompliance based on a calculation of the Company s average closing share price for the 30 trading days ended October 31, 2024, which reflected an average closing share price above the NYSE s 1.00 minimum requirement. D-Wave will continue to be traded on the NYSE, subject to its continued compliance with all applicable listing standards. 
+ 
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ The following discussion is intended to assist you in understanding our present business and the results of operations together with our present financial condition. This section should be read in conjunction with our unaudited condensed consolidated financial statements and the accompanying notes contained in Part I, Item I of this Quarterly Report of Form 10-Q (this "Report"), as well as our Annual Report on Form 10-K for the year ended December 31, 2023 filed with the Securities and Exchange Commission on March 29, 2024. In this section, unless otherwise specified, the terms we , our , us , D-Wave" or the "Company" refer to D-Wave Quantum Inc. and its subsidiaries following the closing of the merger between DPCM Capital, Inc. ("DPCM"), D-Wave Systems Inc., and certain other affiliated entities through a series of transactions (the "Merger") on August 5, 2022 (the "Closing") while "D-Wave Systems" refers to D-Wave Systems Inc. prior to the Closing. All other capitalized terms have the meanings ascribed thereto elsewhere in this Report. All dollar amounts are expressed in thousands of United States dollars ), unless otherwise indicated. 
+ 
+ Overview 
+ We are a commercial quantum computing company that provides customers with a full suite of professional services and web-based access to our superconducting quantum computer systems and integrated software environment through our Leap TM quantum cloud service. Historically, we have developed our own annealing superconducting quantum computer and associated software, and our current generation quantum system is the D-Wave Advantage TM system. We are a leader in the development and delivery of quantum computing systems, software and services, and we are the world s first commercial supplier of quantum computers and the only company developing both annealing quantum computers and gate-model quantum computers. 
+ Our business model is focused primarily on generating revenue from providing customers access to our quantum computing systems via the cloud in the form of quantum computing as a service ("QCaaS") products, and from providing professional services wherein we assist our customers in identifying and implementing quantum computing applications. We have three operating facilities, which we lease, in North America. These facilities are located in Burnaby, British Columbia, Richmond, British Columbia, and Palo Alto, California. 
+ During the three months ended September 30, 2024 and 2023, we generated revenue totaling 1.9 million and 2.6 million, respectively. During the nine months ended September 30, 2024 and 2023, we generated revenue totaling 6.5 million and 5.9 million, respectively. We have incurred significant operating losses since inception. For the three months ended September 30, 2024 and 2023, our net losses were 22.7 million and 16.1 million, respectively. For the nine months ended September 30, 2024 and 2023, our net losses were 57.8 million and 66.7 million, respectively. We expect to continue to incur significant losses for the foreseeable future as we continue to invest in a number of research and development programs as well as a variety of go-to-market initiatives. As of September 30, 2024, we had an accumulated deficit of 540.9 million. 
+ 
+ 27 
+
+Macroeconomic Environment 
+ Unfavorable conditions in the economy in the United States, Canada and abroad, including conditions resulting from changes in inflationary pressure, gross domestic product growth, financial and credit market fluctuations, banking collapses and related uncertainty, international trade relations, political turmoil, natural catastrophes, outbreaks of contagious diseases, warfare and terrorist attacks on the United States, Europe or elsewhere, including military actions affecting Russia, Ukraine, Israel or elsewhere, could cause a decrease in business investments on our products and negatively affect the growth of our business and our results of operations. 
+ 
+ Key Components of Results of Operations 
+ Revenue 
+ We currently generate our revenue primarily through subscription sales to access our QCaaS cloud platform and professional services related to the development and implementation of quantum computing applications and delivery of quantum computing application training. QCaaS revenue is recognized on a ratable basis over the contract term, which generally ranges from one month to two years. Professional services revenue is recognized over time on a percentage of completion basis using the costs incurred input measure of progress. 
+ We expect that QCaaS revenue, as a percentage of total revenue, will increase due to an increasing number of QCaaS agreements being driven by the completion of professional services engagements yielding production applications that require QCaaS services, as well as by customers that choose to access our Leap TM cloud service without utilizing our professional services organization. 
+ Cost of Revenue 
+ Our cost of revenue consists of all direct and indirect expenses related to providing our QCaaS offering and delivering our professional services, such as personnel-related expenses, including stock-based compensation, costs associated with maintaining the cloud platform on which we provide the QCaaS product and depreciation and amortization related to our quantum computing systems and related software. 
+ We expect our total cost of revenue to trend upward in absolute dollars in future periods, corresponding to our anticipated growth in revenue and necessary to support our customers and to maintain the QCaaS cloud offering, operate our quantum computing systems, and to deliver our professional services. In the short term, decreases in share based compensation expenses may offset the expected long-term upward trend. We expect our cost of revenue as a percentage of total revenue to trend downward over time due to a higher mix of QCaaS revenue that has a lower cost to deliver compared to professional service revenue. 
+ Operating Expenses 
+ Our operating expenses consist of research and development, general and administrative, and sales and marketing expenses. 
+ Research and Development 
+ Research and development expenses consist primarily of personnel-related expenses, including salaries, benefits and stock-based compensation for personnel, fabrication costs, lab supplies, and cloud computing resources and allocated facility costs for our research and development functions. Unlike a standard computer, design and development efforts continue throughout the useful life of our quantum computing systems to ensure proper calibration and optimal functionality. Research and development expenses also include purchased hardware components, fabrication and software costs related to quantum computing systems constructed for research purposes that do not have a high probability of providing near-term future economic benefits, and may have no alternate future use. We currently do not capitalize any research and development expenses. 
+ We expect our research and development expenses will trend upward on an absolute dollar basis for the foreseeable future as we continue to invest in research and development efforts to enhance the performance of our annealing quantum computers, to complete the development of our gate model quantum computer, and to broaden the functionality, improve the reliability, availability and scalability of our QCaaS cloud platform. If in the future we receive government grants and research incentives, which have historically offset a portion of research and development costs, these costs could decrease in absolute dollars. Also, non-cash share based compensation expenses may cause downward fluctuations in these costs from time to time. 
+ 
+ 28 
+
+General and Administrative 
+ General and administrative expenses consist primarily of personnel-related expenses, including salaries, benefits and stock-based compensation for personnel and outside professional services expenses including legal, audit and accounting services, insurance, other administrative expenses and allocated facility costs for our administrative functions. 
+ We expect our general and administrative expenses to decrease in absolute dollars in the near term due to significant investments in scaling up our ability to operate as a public company made in prior years. However, in the longer term we expect general and administrative expenses to increase in absolute dollars as we continue to invest in more comprehensive compliance and governance functions, increased IT security and compliance, and expanded internal controls over financial reporting in accordance with the Sarbanes-Oxley Act of 2002. However, non-cash stock-based compensation expenses may cause downward fluctuations in these costs from time to time. 
+ Sales and Marketing 
+ Sales and marketing expenses consist primarily of personnel-related expenses, including salaries, benefits and stock-based compensation for personnel, direct advertising, marketing and promotional material costs, sales commission expense, consulting fees and allocated facility costs for our sales and marketing functions. We intend to continue to make significant investments in our sales and marketing organization to drive additional revenue, expand our global customer base, and broaden our brand awareness. We expect our sales and marketing expenses to continue to increase in absolute dollars for the foreseeable future. However, non-cash stock-based compensation expenses may cause downward fluctuations in these costs from time to time. 
+ 
+ Results of Operations 
+ Comparison of the Three Months Ended September 30, 2024 and 2023 
+ The following table sets forth our results of operations for the periods indicated (in thousands): 
+ Three Months Ended September 30, Variance (In thousands, except share and per share data) 2024 2023 Amount Revenue 1,870 2,562 (692) (27) Cost of revenue 827 1,033 (206) (20) Total gross profit 1,043 1,529 (486) (32) Operating expenses: Research and development 8,668 9,459 (791) (8) General and administrative 9,259 8,003 1,256 16 Sales and marketing 3,752 2,474 1,278 52 Total operating expenses 21,679 19,936 1,743 9 Loss from operations (20,636) (18,407) (2,229) 12 Other income (expense), net: Interest expense (1,180) (1,035) (145) 14 Change in fair value of Term Loan (1,559) 1,701 (3,260) (192) Term Loan debt issuance costs (725) 725 (100) Gain (loss) on investment in marketable equity securities (8) (8) 100 Change in fair value of warrant liabilities 476 1,433 (957) (67) Other income (expense), net 195 927 (732) (79) Total other income (expense), net (2,076) 2,301 (4,377) (190) Net loss (22,712) (16,106) (6,606) 41 Foreign currency translation adjustment (151) 15 (166) (1107) Net comprehensive loss (22,863) (16,091) (6,772) 42 
+ Revenue 
+ Revenue decreased by 0.7 million, or 27 , to 1.9 million for the three months ended September 30, 2024 as compared to 2.6 million for the three months ended September 30, 2023. The decrease was due primarily to a decrease of 1.1 million in professional service revenue, partially offset by an increase in QCaaS revenue of 0.5 million stemming from an increase in the average revenue per QCaaS customer. 
+ 
+ 29 
+
+Cost of Revenue 
+ Cost of revenue decreased by 0.2 million, or 20 , to 0.8 million for the three months ended September 30, 2024 as compared to 1.0 million for the three months ended September 30, 2023. The decrease in cost of revenue was primarily driven by a decrease in non-cash stock-based compensation of 0.2 million. 
+ Operating Expenses 
+ Research and Development Expenses 
+ Research and development expenses decreased by 0.8 million, or 8 , to 8.7 million for the three months ended September 30, 2024 compared to 9.5 million for the three months ended September 30, 2023. The decrease was primarily driven by decreases in stock-based compensation expenses of 1.0 million and fabrication and related expenses of 0.2 million, partially offset by increases in professional service expenses of 0.3 million and personnel costs of 0.1 million. 
+ General and Administrative Expenses 
+ General and administrative expenses increased by 1.3 million, or 16 , to 9.3 million for the three months ended September 30, 2024 as compared to 8.0 million for the three months ended September 30, 2023. The increase was primarily driven by increases of 1.1 million in professional services, 1.0 million in credit losses and personnel costs of 0.2 million. These were partially offset by decreases in stock-based compensation expense of 0.8 million and insurance costs of 0.2 million. 
+ Sales and Marketing Expenses 
+ Sales and marketing expenses increased by 1.3 million, or 52 , to 3.8 million for the three months ended September 30, 2024 as compared to 2.5 million for the three months ended September 30, 2023. The increase was primarily driven by increases in personnel costs of 0.8 million, stock-based compensation expense of 0.2 million, travel expenses of 0.2, marketing expenses of 0.1 million, and software expenses of 0.1 million. 
+ Other Income (Expense), net 
+ Interest Expense 
+ Interest expense increased by 0.1 million, or 14 , to 1.2 million for the three months ended September 30, 2024 as compared to 1.0 million for the three months ended September 30, 2023. The increase is primarily due to interest expenses related to the Term Loan (as defined below). During the three months ended September 30, 2024, the Company had prepaid 16.4 million in principal of the Term Loan, reducing interest expense incurred. Refer to Note 6 to the accompanying condensed consolidated financial statements for further details. 
+ Change in fair value of Term Loan 
+ The fair value of Term Loan increased by 1.6 million for the three months ended September 30, 2024 as compared to a decrease of 1.7 million for the three months ended September 30, 2023. On April 13, 2023, the Company entered into a Term Loan with PSPIB. The Company opted for the fair value option for accounting of the Term Loan (see Note 2 to the accompanying condensed consolidated financial statements ). Changes in the fair value of the Term Loan, excluding changes due to the Company's own credit risk, are recorded as gains or losses in the Company s condensed consolidated statements of operations and comprehensive loss in each reporting period. The fair value of the Term Loan varies primarily based on the market yield rate, market yield volatility, and the probabilities of various settlement outcomes. 
+ Term Loan debt issuance costs 
+ Term Loan debt issuance costs decreased by 0.7 million for the three months ended September 30, 2024 as compared to the three months ended September 30, 2023, as there were no advances on the Term Loan during the three months ended September 30, 2024. 
+ Gain (loss) on investment in marketable equity securities 
+ Loss on investment in marketable equity securities was minimal for both the three months ended September 30, 2024 and the three months ended September 30, 2023. 
+ Change in fair value of warrant liabilities 
+ Fair value of warrant liabilities decreased by 0.5 million for the three months ended September 30, 2024 as compared to a decrease of 1.4 million for the three months ended September 30, 2023. The fair value of the warrant liabilities varies primarily with the trading price of the Public Warrants listed on the New York Stock Exchange (see Note 2 and Note 7 to the accompanying condensed consolidated financial statements). 
+ 
+ 30 
+
+Other income (expense), net 
+ Other income (expense), net decreased by 0.7 million, or 79 , to 0.2 million for the three months ended September 30, 2024 as compared to 0.9 million for the three months ended September 30, 2023. The decrease was primarily driven by the net impact of foreign exchange loss of 1.3 million, partially offset by an increase in interest income of 0.6 million, due primarily to higher interest rates earned on cash and cash equivalent balances. 
+ Comparison of the Nine Months Ended September 30, 2024 and 2023 
+ The following table sets forth our results of operations for the periods indicated (in thousands): 
+ Nine Months Ended September 30, Variance (In thousands, except share and per share data) 2024 2023 Amount Revenue 6,518 5,852 666 11 Cost of revenue 2,428 3,197 (769) (24) Total gross profit 4,090 2,655 1,435 54 Operating expenses: Research and development 25,548 29,922 (4,374) (15) General and administrative 24,296 28,875 (4,579) (16) Sales and marketing 11,237 7,862 3,375 43 Total operating expenses 61,081 66,659 (5,578) (8) Loss from operations (56,991) (64,004) 7,013 (11) Other income (expense), net: Interest expense (3,480) (1,822) (1,658) 91 Change in fair value of Term Loan (635) 1,356 (1,991) (147) Term Loan debt issuance costs (2,118) 2,118 (100) Gain (loss) on investment in marketable equity securities 1,495 1,495 100 Change in fair value of warrant liabilities 19 (79) 98 (124) Other income (expense), net 1,790 (34) 1,824 (5365) Total other income (expense), net (811) (2,697) 1,886 (70) Net loss (57,802) (66,701) 8,899 (13) Foreign currency translation adjustment (82) (70) (12) 17 Net comprehensive loss (57,884) (66,771) 8,887 (13) 
+ Revenue 
+ Revenue increased by 0.7 million, or 11 , to 6.5 million for the nine months ended September 30, 2024 as compared to 5.9 million for the nine months ended September 30, 2023, with the increase due primarily to an increase in QCaaS revenue of 1.7 million, primarily due to an increase in the average revenue per QCaaS customer, partially offset by a decrease of 0.9 million in professional service revenue. 
+ Cost of Revenue 
+ Cost of revenue decreased by 0.8 million, or 24 , to 2.4 million for the nine months ended September 30, 2024 as compared to 3.2 million for the nine months ended September 30, 2023. The decrease in cost of revenue was primarily driven by a decrease in non-cash stock-based compensation of 0.5 million, personnel costs of 0.2 million and quantum computing infrastructure costs of 0.1 million. 
+ Operating Expenses 
+ Research and Development Expenses 
+ Research and development expenses decreased by 4.4 million, or 15 , to 25.5 million for the nine months ended September 30, 2024 compared to 29.9 million for the nine months ended September 30, 2023. The decrease was primarily driven by decreases in stock-based compensation expenses of 3.0 million, personnel costs of 0.7 million and fabrication expenses of 0.7 million. 
+ 
+ 31 
+
+General and Administrative Expenses 
+ General and administrative expenses decreased by 4.6 million, or 16 , to 24.3 million for the nine months ended September 30, 2024 as compared to 28.9 million for the nine months ended September 30, 2023. The decrease was primarily driven by decreases in professional fees of 2.7 million, stock-based compensation expense of 2.6 million and insurance costs of 0.8 million, partially offset by an increase in credit loss expenses of 1.2 million. 
+ Sales and Marketing Expenses 
+ Sales and marketing expenses increased by 3.4 million, or 43 , to 11.2 million for the nine months ended September 30, 2024 as compared to 7.9 million for the nine months ended September 30, 2023. The increase was primarily driven by increases in personnel costs of 2.5 million, stock-based compensation expense of 0.5 million and marketing expenses of 0.3 million. 
+ Other Income (Expense), net 
+ Interest Expense 
+ Interest expense increased by 1.7 million, or 91 , to 3.5 million for the nine months ended September 30, 2024 as compared to 1.8 million for the nine months ended September 30, 2023. The increase is primarily due to interest expenses related to the Term Loan, which was advanced to us in two tranches, each in an aggregate principal amount of 15.0 million, on April 14, 2023 and July 13, 2023, respectively. During the nine months ended September 30, 2024, the Company had prepaid 16.4 million in principal of the Term Loan, reducing interest expense incurred. Refer to Note 6 to the accompanying unaudited condensed consolidated financial statements for further details. 
+ Change in fair value of Term Loan 
+ The fair value of Term Loan increased by 0.6 million for the nine months ended September 30, 2024 as compared to a decrease of 1.4 million for the nine months ended September 30, 2023. As previously mentioned, on April 13, 2023, the Company entered into a Term Loan with PSPIB. The Company opted for the fair value option for accounting of the Term Loan (see Note 2 to the accompanying condensed consolidated financial statements ). Changes in the fair value of the Term Loan, excluding changes due to the Company's own credit risk, are recorded as gains or losses in the Company s condensed consolidated statements of operations and comprehensive loss in each reporting period. The fair value of the Term Loan varies primarily based on the market yield rate, market yield volatility, and the probabilities of various settlement scenarios. 
+ Term Loan debt issuance costs 
+ Term Loan debt issuance costs decreased by 2.1 million for the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023, as there were no advances on the Term Loan during the nine months ended September 30, 2024. 
+ Gain (loss) on investment in marketable equity securities 
+ Gain (loss) on investment in marketable equity securities increased by 1.5 million for the nine months ended September 30, 2024 as compared to zero for the nine months ended September 30, 2023. On January 5, 2024, an investee of the Company was acquired for a combination of cash and stock in an observable orderly transaction. Consequently, the carrying value of the Company's investment was adjusted based on the consideration received, resulting in a net gain of 1.7 million, partially offset by a loss associated with the fair value of the conversion feature of the Zapata Note. 
+ Change in fair value of warrant liabilities 
+ Change in fair value of warrant liabilities was minimal for both the nine months ended September 30, 2024 and the nine months ended September 30, 2023. The fair value of the warrant liabilities varies primarily with the trading price of the Public Warrants listed on the New York Stock Exchange (see Note 2 and Note 7 to the accompanying condensed consolidated financial statements). 
+ Other income (expense), net 
+ Other income (expense), net increased by 1.8 million or 5365 , to net income of 1.8 million for the nine months ended September 30, 2024 as compared to net expense of 34.0 thousand for the nine months ended September 30, 2023. The increase was primarily driven by the net impact of foreign exchange gains of 0.8 million and increase in interest income of 1.0 million, due primarily to higher interest rates earned on cash and cash equivalent balances. 
+ 
+ 32 
+
+Liquidity and Capital Resources 
+ Since its inception, the Company has incurred net losses and negative cash flows from operations. As of September 30, 2024, the Company had an accumulated deficit of 540.9 million. For the three months ended September 30, 2024 and 2023, the Company incurred a net loss of 22.7 million and 16.1 million, respectively. For the nine months ended September 30, 2024 and 2023, the Company incurred a net loss of 57.8 million and 66.7 million, respectively. For the nine months ended September 30, 2024 and 2023, the Company had net cash outflows from operating activities of 44.7 million and 45.9 million, respectively. As of September 30, 2024, the Company had cash of 29.3 million and working capital (current assets less current liabilities) of 9.3 million. Additionally, total liabilities exceeded total assets at September 30, 2024 by 16.9 million. The Company expects to incur additional operating losses and negative cash flows from operating activities as it continues to expand its commercial operations and research and development programs. 
+ On April 13, 2023 (the "Closing Date") , the Company finalized a Term Loan and Security Agreement ("Term Loan") with PSPIB Unitas Investments II Inc. ("PSPIB" or the "Lender"), a related party to the Company's largest shareholder. The Term Loan, outlined in Note 6 - Loans payable, net, provides 50.0 million in three tranches, with financial performance requirements. The first two tranches of 15.0 million each were disbursed on April 14, 2023, and July 13, 2023, respectively. The third tranche of 20.0 million is contingent on meeting specific criteria, including a non-dilutive financing closure. As of September 30, 2024, the Company had prepaid 21.1 million of the Term Loan, including 16.4 million in principal and 4.2 million in accrued PIK interest. The remaining balance as of September 30, 2024 was 13.7 million at amortized cost. The Term Loan was subsequently repaid in full on October 22, 2024. 
+ In conjunction with the Merger, the Company and D-Wave Systems entered into a purchase agreement with Lincoln Park Capital Fund, LLC ("Lincoln Park") on June 16, 2022, which provides D-Wave the sole right, but not the obligation, to direct Lincoln Park to buy specified dollar amounts up to 150.0 million of D-Wave's common stock, par value 0.0001 per share through November 1, 2025 . The Purchase Agreement may provide the Company and D-Wave with additional liquidity to fund the business, subject to the conditions set forth in the agreement, including volume limitations tied to periodic market prices, ownership limitations restricting Lincoln Park from owning more than 9.9 of the then total outstanding Common Shares and a floor price of 1.00 at or below which the Company may not sell to Lincoln Park any Common Shares. When the Company sells shares to Lincoln Park, Lincoln Park may resell all, some, or none of those Common Shares at any time or from time to time in its discretion. During the nine months ended September 30, 2024, the Company has received 32.2 million in proceeds through the issuance of 25,569,997 Common Shares to Lincoln Park under the Purchase Agreement. In order for the Company to issue Common Shares under the Purchase Agreement, the Company's share price must be above the floor price of 1.00. There is no assurance that the floor price will not fall below 1.00 preventing the Company from being able to make sales to Lincoln Park in the future. As of September 30, 2024, D-Wave had 49.9 million of issuance capacity under the Purchase Agreement. 
+ On May 24, 2024, the Company entered into an at-the-market sales agreement (the ATM Agreement with Needham Company, LLC, B. Riley Securities, Inc. and Roth Capital Partners, LLC (collectively, the Agents ), pursuant to which the Company may sell from time to time, at its option, shares of the Company s common stock, par value 0.0001 per share, through or to the Agents, as sales agent or principal. In accordance with the terms of the ATM Agreement, the Company may offer and sell shares of its common stock having an aggregate offering price of up to 100.0 million from time to time through or to the Agents, as sales agent or principal. During the nine months ended September 30, 2024, the Company has received 20.7 million in proceeds through the issuance of 19,337,124 Common Shares under the Sales Agreement. As of September 30, 2024, D-Wave had 79.1 million of issuance capacity under the ATM Agreement. 
+ The sale of shares of the Company s common stock under the ATM Agreement will be made by any method permitted that is deemed to be an at-the-market equity offering as defined in Rule 415(a)(4) promulgated under the Securities Act of 1933, as amended (the Securities Act ), including sales made directly on the New York Stock Exchange or any other trading market for the Company s common stock. Subject to the terms and conditions of the ATM Agreement, the Agents will use commercially reasonable efforts to sell the shares of the Company s common stock from time to time, based upon the Company s instructions. 
+ The compensation payable to the Agents as sales agent shall be up to 3.0 of the gross sales price of the shares sold through or to the Agents pursuant to the ATM Agreement. In addition, the Company will reimburse the Agents for certain expenses incurred in connection with the ATM Agreement, and the Company has agreed in the ATM Agreement to provide indemnification and contribution to the Agents against certain liabilities, including liabilities under the Securities Act. 
+ 
+ 33 
+
+The Company is not obligated to make any sales of shares of common stock under the ATM Agreement. The offering of common stock pursuant to the ATM Agreement will terminate upon (a) the election of the Agents upon the occurrence of certain adverse events, (b) five business days advance notice from the Company to the Agents or five days advance notice from any of the Agents to the Company or (c) otherwise by mutual agreement of the parties pursuant to the terms of the ATM Agreement. 
+ To the extent that sufficient capital is not obtained through the cash received in connection with the proceeds of the Term Loan or the issuance of Common Shares under the Purchase Agreement with Lincoln Park and the ATM Agreement, management will be required to obtain additional capital through the issuance of debt and/or equity, or other arrangements. However, there can be no assurance that D-Wave will be able to raise additional capital when needed or under acceptable terms. The issuance of additional equity may dilute existing stockholders and newly issued shares may contain senior rights and preferences compared to the currently outstanding common stock. Any future debt may contain covenants and limit D-Wave s ability to pay dividends or make other distributions to stockholders. If D-Wave is unable to obtain sufficient financing, operations will be scaled back or discontinued. 
+ In connection with the Company s assessment of going concern considerations in accordance with Financial Accounting Standard Board s Accounting Standards Codification ASC Topic 205-40, Basis of Presentation Going Concern , management has determined that the Company's liquidity condition raises substantial doubt about the Company s ability to continue as a going concern, which is considered to be for a period of one year from the issuance of these financial statements. These condensed consolidated financial statements do not include any adjustments relating to the recoverability and classification of recorded asset amounts or the amounts and classification of liabilities that might result from the outcome of this uncertainty. Such adjustments could be material. 
+ 
+ Cash Flows 
+ The following table sets forth our cash flows for the periods indicated (in thousands): Nine Months Ended September 30, 2024 2023 Net cash provided by (used in): Operating Activities (44,660) (45,910) Investing Activities (2,178) (176) Financing Activities 34,887 92,408 Effect of exchange rate changes on cash and cash equivalents (82) (70) Net increase (decrease) in cash and cash equivalents (12,033) 46,252 
+ Cash Flows Used in Operating Activities 
+ Our cash flows from operating activities are significantly affected by the growth of our business, and are primarily related to research and development, sales and marketing and general and administrative activities. Our operating cash flows are also affected by our working capital needs to support growth in personnel-related expenditures and fluctuations in accounts payable, accounts receivable and other current assets and liabilities. 
+ For the nine months ended September 30, 2024, net cash used in operating activities was 44.7 million, a decrease of 1.3 million from 45.9 million for the nine months ended September 30, 2023. The change is primarily due to a decrease in net loss of 8.9 million, offset by a decrease in noncash items of 10.0 million and an increase in cash released from working capital of 2.4 million. The decrease in noncash items was primarily due to a decrease in stock-based compensation of 5.6 million, a decrease in non-cash interest expense of 3.1 million due to the cash settlement of accrued PIK interest on the Term Loan, a gain on marketable securities of 1.5 million, a decrease in debt issuance costs of 1.0 million, and an increase in unrealized foreign exchange gain of 0.8 million, partially offset by an increase in fair value of Term Loan of 2.0 million. The decrease in working capital was primarily driven by an increase in change in accrued expenses and other current liabilities of 2.3 million, a decrease in change in trade accounts payable of 1.4 million, a decrease in change in operating lease liability of 0.7 million and an increase in change in other non-current assets of 0.6 million, partially offset by a decrease in change in prepaid expenses and other current assets of 2.5 million. 
+ Cash Flows Used in Investing Activities 
+ Net cash used in investing activities during the nine months ended September 30, 2024 was 2.2 million, an increase of 2.0 million in cash used in investing activities from 0.2 million for the nine months ended September 30, 2023. The increase is primarily due to purchase of convertible note of 1.0 million and an increase in purchase of property and equipment of 1.0 million. 
+ 
+ 34 
+
+Cash Flows Provided by Financing Activities 
+ Net cash provided by financing activities during the nine months ended September 30, 2024 was 34.9 million, a decrease of 57.5 million from cash provided by financing activities of 92.4 million for the nine months ended September 30, 2023. The decrease is primarily due to a decrease in proceeds from the issuance of common stock pursuant to the Purchase Agreement of 29.2 million, a decrease in debt financing proceeds of 29.0 million, an increase in debt repayments of 16.4 million, as well as a decrease in proceeds from the issuance of common stock upon exercise of stock options of 1.8 million, and the payment of tax withheld for common stock issued under stock-based compensation settlements of 1.5 million. The decrease was partially offset by proceeds from the issuance of common stock pursuant to the ATM Agreement of 20.7 million. 
+ 
+ Contractual Obligations and Commitments 
+ As of September 30, 2024, there have been no material changes with regard to contractual obligations from those disclosed in our "Management's Discussion and Analysis on Financial Condition and Results of Operations Contractual Obligations and Commitments" in our Annual Report on Form 10-K for the year ended December 31, 2023. 
+ Critical Accounting Estimates 
+ There have been no material changes to our critical accounting policies from those disclosed in our " Management's Discussion and Analysis of Financial Condition and Results of Operations Critical Accounting Estimates " in our Annual Report on Form 10-K for the year ended December 31, 2023 . 
+ Recently Issued and Adopted Accounting Standards 
+ A discussion of recent accounting pronouncements is included in Note 2 to our unaudited condensed consolidated financial statements included elsewhere in this Report. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ Not applicable to Smaller Reporting Companies. 
+ 
+ Item 4. Controls and Procedures 
+ Limitations on Effectiveness of Controls and Procedures 
+ In designing and evaluating our disclosure controls and procedures, as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. 
+ Evaluation of Disclosure Controls and Procedures 
+ In accordance with the Exchange Act Rules 13a-15(e) and 15d-15(e), we carried out an evaluation, under the supervision and with the participation of management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of the design and operation of our disclosure controls and procedures as of September 30, 2024. Based on this evaluation, our Chief Executive Officer and Chief Financial Officer concluded that, due to a material weakness in our internal control over financial reporting specifically related to D-Wave s control environment in relation to our financial statement close process (i.e., lack of sufficient accounting and financial reporting personnel with requisite knowledge and experience in the application of complex areas of GAAP and SEC rules to facilitate accurate and timely financial reporting and to perform sufficient review over certain financial statement areas), as previously disclosed in Item 9A of our Annual Report on Form 10-K for the year ended December 31, 2023, our disclosure controls and procedures were not effective as of the end of the period covered by this Report. 
+ Notwithstanding the material weakness described above, we have concluded that our unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q are fairly stated in all material respects in accordance with U.S. GAAP for the periods presented therein. 
+ Remediation Efforts on Previously Reported Material Weakness 
+ The Company is devoting significant time, attention, and resources to remediating the above material weakness. The Company has undertaken and continues to execute the following steps intended to remediate the material weakness described above and strengthen our internal controls, specifically: 
+ The Company hired experienced finance and accounting executives in the positions of SVP Finance, VP Corporate Controller, and Senior Manager of Financial Reporting and Technical Accounting. 
+ 
+ 35 
+
+The Company continues to develop accounting personnel with a level of accounting knowledge and experience in the application of US GAAP commensurate with our financial reporting requirements and the complexity of our operations and transactions, including providing adequate training and supervision to our staff. 
+ The Company has engaged external specialists as needed to provide assistance in accounting for significant, non-routine or complex transactions. 
+ The Company has engaged external consultants to assist the Company in designing, implementing, and monitoring an appropriate system of internal control. 
+ The Company continues to make significant progress in addressing the previously identified material weakness, however the material weakness will not be considered remediated until our remediation plan has been fully implemented, the applicable controls have operated for a sufficient period of time, and we have concluded, through testing, that the newly implemented and enhanced controls have been designed and operating effectively for a sufficient period of time. 
+ Changes in Internal Control Over Financial Reporting 
+ Other than the ongoing remediation to address the material weakness described above, there was no change in our internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act), during the three months ended September 30, 2024 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+
+36 
+
+Part II 
+ 
+ Item 1. Legal Proceedings 
+ From time to time, we may become involved in legal proceedings arising in the ordinary course of business. There are currently no pending or threatened legal proceedings or claims against us that, in our opinion, are likely to have a material adverse effect on our business, operating results, financial condition or cash flows. Defending such proceedings is costly and can impose a significant burden on management and team members. The results of any future litigation cannot be predicted with certainty, but regardless of the outcome, litigation can have an adverse impact on us because of defense and settlement costs, diversion of management resources and other factors. 
+ 
+ Item 1A. Risk Factors 
+ There have been no material changes from the risk factors set forth in our Annual Report on Form 10-K for the year ended December 31, 2023, as filed with the SEC on March 29, 2024. 
+ 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ None. 
+ 
+ Item 3. Defaults Upon Senior Securities 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures 
+ Not applicable. 
+ 
+ Item 5. Other Information 
+ 
+ Securities Trading Plans of Directors and Executive Officers 
+ During the three months ended September 30, 2024, none of the Company s directors or officers , modified, or a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement , as such terms are defined under Item 408 of Regulation S-K. 
+
+37 
+
+Item 6. Exhibits and Financial Statement Schedules 
+ Exhibit No. Description Incorporated by Reference Exhibits Filer Form Exhibit Filing Date 10.1 Lease Renewal Agreement, dated as of July 23, 2024, by and between Omni Circuit Boards Ltd. and 0937847 B.C. Ltd. 
+ 10.2 Limited Waiver Agreement, dated as of August 7, 2024, by and among PSPIB Unitas Investments II Inc. and D-Wave Quantum Inc. 
+ D-Wave Quantum Inc. 10-Q 10.2 August 7, 2024 31.1 Certification of Chief Executive Officer pursuant to Rule 13a-14(a) and Rule 15d-14(a), promulgated under the Securities Exchange Act of 1934, as amended. 
+ 31.2 Certification of Chief Financial Officer pursuant to Rule 13a-14(a) and Rule 15d-14(a), promulgated under the Securities Exchange Act of 1934, as amended. 
+ 32.1 Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 32.2 Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ 101.INS Inline XBRL Instance Document 101.SCH Inline XBRL Taxonomy Extension Schema Document. 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document. 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document. 101.LAB Inline XBRL Taxonomy Extension Labels Linkbase Document. 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+ 
+ Filed herewith. 
+ Furnished with this report in accordance with Item 601(b)(32) of Regulation S-K, this exhibit is not deemed filed for purposes of Section 18 of the Exchange Act or otherwise subject to the liabilities of that section. Such certifications will not be deemed incorporated by reference into any filing under the Securities Act, except to the extent that the registrant specifically incorporates it by reference. 
+ Certain portions of this exhibit (indicated by [ ] have been redacted pursuant to Regulation S-K, Item 601(a)(6). 
+
+38 
+
+Signatures 
+ Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ D-Wave Quantum Inc. November 14, 2024 By: /s/ John M. Markovich John M. Markovich Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+39 
+
+<EX-10.1>
+ 2
+ exhibit101-leaserenewalagr.htm
+ EX-10.1
+
+Document 
+
+LEASE RENEWAL AGREEMENT 
+ 
+ THIS AGREEMENT made November 13, 2024. 
+ 
+ BETWEEN 
+ 
+ 0937847 B.C. Ltd., a company duly incorporated under the laws of British Columbia (Incorporation No. BC0937847), having a registered and records office at 1235 Long Ridge Dr, Kelowna, B.C. V1V 2X3 
+ 
+ (the Landlord 
+ 
+ AND 
+ 
+ Omni Circuit Boards Ltd., a company duly incorporated under the laws of British Columbia (Incorporation No. BC0288918), having a registered and records office at 2600 595 Burrard Street, Vancouver, B.C. V7X 1L3 
+ 
+ (the Tenant 
+ 
+ BACKGROUND 
+ 
+ A. By a lease (the Original Lease made December 15, 2017 between the Landlord and the Tenant, the Landlord leased to the Tenant for a term of 5 years from December 15, 2017, the premises as shown in Schedule A attached to the Original Lease, more particularly known and described as 
+ 
+ Civic Address 3 12760 Bathgate Way 
+ Richmond, B.C. 
+ V6V 1Z4 
+ Legal Description STRATA LOT 45 BLOCK 5N PLAN NWS1200 SECTION 30 RANGE 5W LAND DISTRICT 36 TOGETHER WITH AN INTEREST IN THE COMMON PROPERTY IN PROPORTION TO THE UNIT ENTITLEMENT OF THE STRATA LOT AS SHOWN ON FORM 1 
+ - 1 - 
+
+Civic Address 4 12760 Bathgate Way 
+ Richmond, B.C. 
+ V6V 1Z4 
+ Legal Description STRATA LOT 44 BLOCK 5N PLAN NWS1200 SECTION 30 RANGE 5W LAND DISTRICT 36 TOGETHER WITH AN INTEREST IN THE COMMON PROPERTY IN PROPORTION TO THE UNIT ENTITLEMENT OF THE STRATA LOT AS SHOWN ON FORM 1 
+ (together, the Leased Premises 
+
+B. By a renewal to the Original Lease dated October 14, 2022, the Landlord granted to the Tenant a renewal of 2 years under the terms of such renewal (the First Renewal Lease ). 
+ 
+ C. The Landlord wishes to offer the Tenant a New Lease Offer (as defined in the First Renewal Lease) under the terms set out in the First Renewal Lease. 
+ 
+ D. The Tenant has requested that the Landlord grant to the Tenant a renewal under the terms of this second renewal lease (the Second Renewal Lease and together with the Original Lease and the Renewal Lease, the Extended Lease which will extend the Extended Lease by three (3) years. 
+ 
+ AGREEMENTS 
+ 
+ In consideration of the grants, rents, and mutual covenants hereinafter reserved and contained, the parties covenant and agree as follows 
+
+1. Under the rights contained in the First Renewal Lease, and in consideration of the rents, covenants, conditions, and agreements hereinafter respectively reserved and contained, the Landlord hereby grants the Tenant a lease of the Leased Premises for a Renewal Term commencing December 15, 2024 and ending on December 14, 2026 (the Renewal Term ). 
+ 
+ 2. The Tenant covenants and agrees to pay to the Landlord, or as the Landlord may in writing direct, in lawful money of Canada, without any set-off, compensation, or deduction whatsoever, on the days and at the times hereinafter specified, in addition to all Additional Rent and other amounts payable under the Original Lease 
+ 
+ A Basic Rent per annum during the Renewal Term of , payable in equal monthly installments payable on the first day of each month in advance of each Section 1 of the Original Lease will be amended accordingly. 
+ - 2 - 
+
+3. The Tenant hereby acknowledges and agrees that its acceptance of the Leased Premises on the commencement date of the Second Renewal Term will be on an as is basis as is being the condition of the Leased Premises as of such date. 
+ 
+ 4. This Second Renewal Lease is expressly made a part of the Original Lease to the same extent as if incorporated in the Original Lease, and the parties agree that all agreements, covenants, conditions, and provisos contained in the Original Lease, not including any personal rights or rights of first refusal, except as amended or altered in this Second Renewal Lease, will be and remain unaltered and in full force and effect during the Second Renewal Term. The Landlord and the Tenant acknowledge and agree to perform and observe, respectively, the obligations of the Landlord and the Tenant under the Original Lease as renewed and modified hereby. The Landlord and the Tenant hereby confirm and ratify the Original Lease and renewal of it as hereby further renewed and amended. 
+
+5. Upon the end of the Second Renewal Term 
+ 
+ (a) The Extended Lease will terminate at the end of the Second Renewal Term, unless terminated at an earlier date in accordance with the applicable termination provisions or extended in accordance with the terms set out herein 
+ 
+ (b) The Landlord may, at their discretion, choose to extend an offer for a new lease to the Tenant, to take effect following the termination date of the Extended Lease, in accordance with Clause 5(a) herein (the New Lease Offer 
+ 
+ (c) If the Landlord wishes to extend a New Lease Offer, in accordance with Clause 5(b) of this Agreement, the Landlord must do so at least One Hundred Eighty (180) days prior to the end of the Second Renewal Term, unless otherwise agreed to by the Landlord and the Tenant at a later date 
+ 
+ (d) The Tenant acknowledges and agrees that the terms of a New Lease Offer may differ from the Extended Lease, including, without limitation, the Basic Rent amount 
+ 
+ (e) Notwithstanding the Landlord s ability to extend a New Lease Offer, as set out in Clauses 5(b) 5(d) above, Tenant may exercise its option to renew the Extended Lease for a Third Renewal Term (as defined in Exhibit A hereto) in accordance with the provisions set out at Exhibit A hereto and 
+ 
+ - 3 - 
+
+(f) If the Landlord does not extend a New Lease Offer and the Tenant does not exercise its option to obtain a Third Renewal Term, the Tenant agrees to vacate the Leased Premises on or before the end of the Second Renewal Term. The Tenant s failure to vacate the Leased Premises, in accordance with the Extended Lease, may result in the forfeiture of all deposits provided by the Tenant to the Landlord. In such a case, forfeiture of deposits shall in no way limit or impact the remedies available to the Landlord. 
+ 6. The following Sections of the Original Lease do not apply to the Second Renewal Lease and are hereby deleted 
+ 
+ Section 1.1(j) 
+ Section 1.2(o) 
+ Schedule B Option to Renew 
+ Schedule C Tenant s Right of First Refusal 
+ 
+ 7. The Landlord agrees to negotiate in good faith any documents or agreements that are required by the Tenant's lender at any time and from time to time, including, but not limited to, a consent to removal of personal property from the Premises, where such personal property serves as collateral for the Tenant's obligations under a loan agreement with the lender. 
+ 
+ 8. All terms capitalized in this Second Renewal Lease and not otherwise defined in this Second Renewal Lease will have the same meaning as in the Original Lease or the First Renewal Lease, as applicable. 
+ 
+ 9. This Second Renewal Lease will enure to the benefit of and be binding upon the parties and their respective successors and assigns. 
+ 
+ 10. This Second Renewal Lease may be executed in one or more counterparts, each of which shall be an original, and all of which together shall constitute a single instrument. Further, the parties agree that this Second Renewal Lease may be signed and or transmitted by electronic mail of a .PDF document or electronic signature (e.g., DocuSign or similar electronic signature technology) and thereafter maintained in electronic form, and that such electronic record shall be valid, and effective to bind the party so signing, as a paper copy bearing such party s hand-written signature. The parties further consent and agree that the electronic signatures appearing on this Second Renewal Lease shall be treated, for the purposes of validity, enforceability, and admissibility, the same as hand-written signatures. 
+
+IN WITNESS WHEREOF the Landlord and the Tenant have executed this Second Renewal Lease as of the day and year first above mentioned. 
+ 
+ - 4 - 
+
+Remainder of this page intentionally left blank signature page follows. 
+
+0937847 B.C. LTD. 
+ Per 
+
+s Paul Jackson 
+ Authorized Signatory 
+
+OMNI CIRCUIT BOARDS LTD. 
+ Per 
+
+s Mark Johnson 
+ Authorized Signatory 
+
+- 5 - 
+
+Exhibit A Lease Renewal Option 
+ 
+ . 
+ - 6 - 
+
+</EX-10.1>
+
+<EX-10.2>
+ 3
+ exhibit102-limitedwaiver.htm
+ EX-10.2
+
+Document 
+
+LIMITED WAIVER 
+ LIMITED WAIVER (this Waiver ), dated as of August 7, 2024, by and between D-WAVE QUANTUM INC., a Delaware corporation (the Borrower ), and the Lender (as defined below) party hereto. 
+ W I T N E S S E T H 
+ WHEREAS , the Borrower, D-Wave Systems Inc., a British Columbia corporation, D-Wave US Inc., a Delaware corporation, D-Wave Government Inc., a Delaware corporation, D-Wave Commercial Inc., a Delaware corporation, D-Wave International Inc., a Canadian corporation, D-Wave Quantum Solutions Inc., a Canadian corporation, Omni Circuit Boards Ltd., a British Columbia corporation, DPCM Capital, Inc., a Delaware corporation, 1372929 B.C. Ltd, a British Columbia corporation, 1372934 B.C. LTD., a British Columbia corporation, DWSI Canada Holdings ULC, a British Columbia corporation, D Wave Quantum Technologies Inc., a British Columbia corporation, and each other Person hereafter joined thereto as a guarantor (collectively or individually, as the context may dictate, the Guarantors and together with the Borrower, the Loan Parties and PSPIB Unitas Investments II Inc., a Canadian corporation, as Collateral and as Lender (the Lender ), are parties to that certain Loan and Security Agreement, dated as of April 13, 2023 (as amended pursuant to that certain First Amendment to Loan and Security Agreement dated as of June 16, 2023, that certain Limited Waiver and Second Amendment to Loan and Security Agreement dated as of July 13, 2023, that certain Third Amendment to Loan and Security Agreement dated as of July 20, 2023, that certain Fourth Amendment to Loan and Security Agreement dated as of October 6, 2023, that certain Fifth Amendment to Loan and Security Agreement dated as of February 7, 2024, and that certain Sixth Amendment to Loan and Security Agreement dated as of April 16, 2024 and as further amended, modified, supplemented, renewed, restated or replaced from time to time, the Existing Loan Agreement 
+ WHEREAS, Section 7.16(b)(iv) of the Loan Agreement provides that the Borrower shall not permit or cause the consolidated revenue of the Borrower and its Subsidiaries to be, for each fiscal quarter after the quarter ending March 31, 2024, less than 85 of the consolidated revenue set forth in the July 2023 Budget for the trailing four-fiscal quarter period, tested at quarter end (the Permitted Variance Covenant 
+ WHEREAS, the July 2023 Budget as defined in the Existing Loan Agreement refers to the budget approved by the Board of Directors of the Borrower on November 29, 2023 
+ WHEREAS, the Borrower will not meet the requirements of the Permitted Variance Covenant for the quarter ended June 30, 2024 (the 2024 Q2 Permitted Variance Covenant and Lender has agreed to waive the 2024 Q2 Permitted Variance Covenant, subject to the terms and conditions hereof 
+ NOW THEREFORE , in consideration of the covenants and agreements contained herein, as well as other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto hereby agree as follows 
+ 1. Capitalized terms used but not defined herein shall have the respective meanings assigned to such terms in the Existing Loan Agreement. 
+ 77470431 1 
+
+2 
+
+2. Subject to the terms and conditions set forth herein, the Lender hereby waives the 2024 Q2 Permitted Variance Covenant. 
+ 3. For certainty, the waiver provided in Section 2 hereof is provided solely in respect of the 2024 Q2 Permitted Variance Covenant, and no other obligation, requirement or right of the Lender under the Loan Agreement is being waived or affected and all of the terms of the Loan Agreement and all other Loan Documents shall remain in full force and effect. The Lender expressly reserves all rights, powers and discretions which it may have under the Loan Agreement or any other Loan Document. 
+ 4. This Waiver constitutes a Loan Document for the purposes of the Loan Agreement. 
+ 5. Time is of the essence of this Waiver. 
+ 6. This Waiver will enure to the benefit of and be binding upon the respective successors and permitted assigns of the parties. 
+ 7. This Waiver is governed by and will be construed in accordance with the laws of the State of New York. Section 15 of the Loan Agreement applies to this Waiver (mutatis mutandis). 
+ 8. This Waiver may be executed by the parties hereto in one or more counterparts, each of which shall be deemed to be an original and all of which will constitute together the one and the same agreement. 
+ 
+ 77470431 1 
+
+IN WITNESS WHEREOF the parties hereto have hereunto set their hands and seals as of the day and year first above written. 
+ BORROWER 
+ 
+ D-WAVE QUANTUM INC. 
+ 
+ By ______________________ 
+ Name Alan Baratz 
+ Title President & CEO 
+
+Signature Page Waiver 
+ 77470431 1 
+
+LENDER 
+ 
+ PSPIB UNITAS INVESTMENTS II INC. 
+ 
+ By ______________________ 
+ Name 
+ Title 
+ 
+ By _______________________ 
+ Name Jonathan Ostrzega 
+ Title Authorized Signatory 
+
+Signature Page Waiver 
+ 77470431 1 
+
+</EX-10.2>
+
+<EX-31.1>
+ 4
+ exhibit311-q32024.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ 
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER 
+ PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO SECTION 302 OF 
+ THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Alan Baratz, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of D-Wave Quantum Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e) and internal control over financial reporting (as defined in Exchange Act Rules 13a 15(f) and 15d 15(f)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Dated November 14, 2024 
+ By s Alan Baratz Alan Baratz President and Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ exhibit312-q32024.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ 
+ CERTIFICATION OF PRINCIPAL FINANCIAL AND ACCOUNTING OFFICER 
+ PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO SECTION 302 OF 
+ THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, John M. Markovich, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of D-Wave Quantum Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e) and internal control over financial reporting (as defined in Exchange Act Rules 13a 15(f) and 15d 15(f)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Dated November 14, 2024 
+ By s John M. Markovich John M. Markovich Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ exhibit321-q32024.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ 
+ CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER 
+ PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report of D-Wave Quantum Inc. (the Company on Form 10-Q for the period ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Alan Baratz, President & Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Dated November 14, 2024 
+ By s Alan Baratz President and Chief Executive Officer (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ exhibit322-q32024.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ 
+ CERTIFICATION OF PRINCIPAL FINANCIAL AND ACCOUNTING OFFICER 
+ PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report of D-Wave Quantum Inc. (the Company on Form 10-Q for the period ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, John M. Markovich, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Dated November 14, 2024 
+ By s John M. Markovich Chief Financial Officer (Principal Financial and Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 8
+ qbts-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 9
+ qbts-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 10
+ qbts-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 11
+ qbts-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 12
+ qbts-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

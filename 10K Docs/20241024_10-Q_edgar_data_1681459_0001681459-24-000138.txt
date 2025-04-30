@@ -1,0 +1,789 @@
+<Header>
+<FileStats>
+    <FileName>20241024_10-Q_edgar_data_1681459_0001681459-24-000138.txt</FileName>
+    <GrossFileSize>9059086</GrossFileSize>
+    <NetFileSize>108072</NetFileSize>
+    <NonText_DocumentType_Chars>1458762</NonText_DocumentType_Chars>
+    <HTML_Chars>3447229</HTML_Chars>
+    <XBRL_Chars>1910559</XBRL_Chars>
+    <XML_Chars>1939751</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001681459-24-000138.hdr.sgml : 20241024
+<ACCEPTANCE-DATETIME>20241024160042
+ACCESSION NUMBER:		0001681459-24-000138
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		88
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241024
+DATE AS OF CHANGE:		20241024
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TechnipFMC plc
+		CENTRAL INDEX KEY:			0001681459
+		STANDARD INDUSTRIAL CLASSIFICATION:	OIL & GAS FILED MACHINERY & EQUIPMENT [3533]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				981283037
+		STATE OF INCORPORATION:			X0
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37983
+		FILM NUMBER:		241392561
+
+	BUSINESS ADDRESS:	
+		STREET 1:		HADRIAN HOUSE
+		STREET 2:		WINCOMBLEE ROAD
+		CITY:			NEWCASTLE UPON TYNE
+		STATE:			X0
+		ZIP:			NE6 3PL
+		BUSINESS PHONE:		44 191 295 0303
+
+	MAIL ADDRESS:	
+		STREET 1:		HADRIAN HOUSE
+		STREET 2:		WINCOMBLEE ROAD
+		CITY:			NEWCASTLE UPON TYNE
+		STATE:			X0
+		ZIP:			NE6 3PL
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TechnipFMC Ltd
+		DATE OF NAME CHANGE:	20160803
+
+</SEC-Header>
+</Header>
+
+ 0001681459-24-000138.txt : 20241024
+
+10-Q
+ 1
+ fti-20240930.htm
+ 10-Q
+
+fti-20240930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from _____ to _____ . 
+ Commission File Number: 
+ 
+ (Exact name of registrant as specified in its charter) 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) , 
+ (Address of principal executive offices) (Zip Code) 
+ + - 
+ (Registrant s telephone number, including area code) 
+ ______________________________________________________ 
+ Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ Indicate the number of shares outstanding of each of the issuer s classes of common stock, as of the latest practicable date. 
+ Class Outstanding at October 22, 2024 Ordinary shares, 1.00 par value per share 
+
+TABLE OF CONTENTS 
+ Page PART I - Financial Information 
+ 4 
+ Item 1. Financial Statements (Unaudited) 
+ 4 
+ Condensed Consolidated Statements of Income 
+ 4 
+ Condensed Consolidated Statements of Comprehensive Income 
+ 5 
+ Condensed Consolidated Balance Sheets 
+ 6 
+ Condensed Consolidated Statements of Cash Flows 
+ 7 
+ Condensed Consolidated Statements of Changes in Stockholders Equity 
+ 8 
+ Notes to Condensed Consolidated Financial Statements 
+ 10 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 29 
+ Business Outlook 
+ 29 
+ Consolidated Results of Operations 
+ 32 
+ Segment Results of Operations 
+ 35 
+ Inbound Orders and Order Backlog 
+ 38 
+ Liquidity and Capital Resources 
+ 38 
+ Critical Accounting Estimates 
+ 41 
+ Other Matters 
+ 41 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 41 
+ Item 4. Controls and Procedures 
+ 42 
+ PART II - Other Information 
+ 43 
+ Item 1. Legal Proceedings 
+ 43 
+ Item 1A. Risk Factors 
+ 43 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 43 
+ Item 3. Defaults Upon Senior Securities 
+ 43 
+ Item 4. Mine Safety Disclosures 
+ 43 
+ Item 5. Other Information 
+ 43 
+ Item 6. Exhibits 
+ 44 
+ Signatures 
+ 45 
+ 
+ 2 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ This Quarterly Report on Form 10-Q of TechnipFMC plc (the Company, we, us, or our contains forward-looking statements as defined in Section 27A of the United States Securities Act of 1933, as amended, and Section 21E of the United States Securities Exchange Act of 1934, as amended (the Exchange Act ). Forward-looking statements usually relate to future events, market growth, and recovery, growth of our New Energy business and anticipated revenues, earnings, cash flows, or other aspects of our operations or operating results. Forward-looking statements are often identified by the words believe, expect, anticipate, plan, intend, foresee, should, would, could, may, estimate, outlook , and similar expressions, including the negative thereof. The absence of these words, however, does not mean that the statements are not forward-looking. These forward-looking statements are based on our current expectations, beliefs, and assumptions concerning future developments and business conditions and their potential effect on us. While management believes these forward-looking statements are reasonable as and when made, there can be no assurance that future developments affecting us will be those that we anticipate. 
+ All of our forward-looking statements involve risks and uncertainties (some of which are significant or beyond our control) and assumptions that could cause actual results to differ materially from our historical experience and our present expectations or projections. Known material factors that could cause actual results to differ materially from those contemplated in the forward-looking statements include those set forth in Part I, Item 1A, Risk Factors of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 and Part II, Item 1A Risk Factors and elsewhere in this Quarterly Report on Form 10-Q, including unpredictable trends in the demand for and price of oil and natural gas; competition and unanticipated changes relating to competitive factors in our industry, including ongoing industry consolidation; our inability to develop, implement, and protect new technologies and services and intellectual property related thereto, including new technologies and services for our New Energy business; the cumulative loss of major contracts, customers or alliances and unfavorable credit and commercial terms of certain contracts; disruptions in the political, regulatory, economic, and social conditions of the countries in which we conduct business; the refusal of DTC to act as depository and clearing agency for our shares; the impact of our existing and future indebtedness and the restrictions on our operations by terms of the agreements governing our existing indebtedness; the risks caused by our acquisition and divestiture activities; additional costs or risks from increasing scrutiny and expectations regarding ESG matters; uncertainties related to our investments in New Energy business; the risks caused by fixed-price contracts; our failure to timely deliver our backlog; our reliance on subcontractors, suppliers, and our joint venture partners; a failure or breach of our IT infrastructure or that of our subcontractors, suppliers or joint venture partners, including as a result of cyber-attacks; risks of pirates and maritime conflicts endangering our maritime employees and assets; any delays and cost overruns of new capital asset construction projects for vessels and manufacturing facilities; potential liabilities inherent in the industries in which we operate or have operated; our failure to comply with existing and future laws and regulations, including those related to environmental protection, climate change, health and safety, labor and employment, import/export controls, currency exchange, bribery and corruption, taxation, privacy, data protection and data security; the additional restrictions on dividend payouts or share repurchases as an English public limited company; uninsured claims and litigation against us; tax laws, treaties and regulations and any unfavorable findings by relevant tax authorities; potential departure of our key managers and employees; adverse seasonal, weather, and other climatic conditions; unfavorable currency exchange rates; risk in connection with our defined benefit pension plan commitments; and our inability to obtain sufficient bonding capacity for certain contracts. We caution you not to place undue reliance on any forward-looking statements, which speak only as of the date hereof. We undertake no obligation to publicly update or revise any of our forward-looking statements after the date they are made, whether as a result of new information, future events, or otherwise, except to the extent required by law. 
+ 3 
+
+PART I - FINANCIAL INFORMATION 
+ 
+ ITEM 1. FINANCIAL STATEMENTS 
+ 
+ TECHNIPFMC PLC AND CONSOLIDATED SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF INCOME (UNAUDITED) 
+ Three Months Ended Nine Months Ended September 30, September 30, (In millions, except per share data) 
+ 2024 2023 2024 2023 Revenue Service revenue Product revenue Lease revenue Total revenue Costs and expenses Cost of service revenue Cost of product revenue Cost of lease revenue Selling, general and administrative expense Research and development expense Restructuring, impairment and other charges Total costs and expenses Other expense, net ) ) ) ) Gain on disposal of Measurement Solutions business (Note 3) Income from equity affiliates (Note 10) Income before net interest expense and income taxes Interest income Interest expense ) ) ) ) Income before income taxes Provision (benefit) for income taxes (Note 16) ) Net income (Income) attributable to non-controlling interests ) ) ) ) Net income attributable to TechnipFMC plc Earnings per share attributable to TechnipFMC plc Basic Diluted Weighted average shares outstanding (Note 6) Basic Diluted 
+ The accompanying notes are an integral part of the condensed consolidated financial statements. 
+ 4 
+
+TECHNIPFMC PLC AND CONSOLIDATED SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (UNAUDITED) 
+ Three Months Ended Nine Months Ended September 30, September 30, (In millions) 
+ 2024 2023 2024 2023 Net income attributable to TechnipFMC plc (Income) attributable to non-controlling interests ) ) ) ) Net income attributable to TechnipFMC plc, including non-controlling interests Foreign currency translation adjustments Net unrealized gains (losses) arising during the period ) ) ) Reclassification adjustment for net losses included in net income Foreign currency translation adjustments (a) 
+ ) ) ) Net gains (losses) on hedging instruments Net (losses) gains arising during the period ) ) Reclassification adjustment for net (gains) included in net income ) ) ) ) Net gains (losses) on hedging instruments (b) 
+ ) ) ) Pension and other post-retirement benefits Net gains (losses) arising during the period ) ) Reclassification adjustment for amortization of prior service cost included in net income Reclassification adjustment for amortization of net actuarial losses included in net income Reclassification adjustment for net (gain) included in net income ) Net pension and other post-retirement benefits (c) 
+ ) Other comprehensive income (loss), net of tax ) ) ) Comprehensive income (loss) ) Comprehensive (income) attributable to non-controlling interest ) ) ) ) Comprehensive income (loss) attributable to TechnipFMC plc ) 
+ 
+ (a) for the three and nine months ended September 30, 2024 and 2023. 
+ (b) million and million for the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+ (c) million and ) million for the three months ended September 30, 2024 and 2023, respectively, and ) million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+ 
+ The accompanying notes are an integral part of the condensed consolidated financial statements. 
+ 5 
+
+TECHNIPFMC PLC AND CONSOLIDATED SUBSIDIARIES 
+ CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED) 
+ (In millions, except par value data) September 30, 2024 December 31, 2023 Assets Cash and cash equivalents Trade receivables, net of allowances of in 2024 and in 2023 
+ Contract assets, net of allowances of in 2024 and in 2023 
+ Inventories, net (Note 8) Derivative financial instruments (Note 17) Income taxes receivable Advances paid to suppliers Measurements Solutions business classified as assets held for sale (Note 3) Other current assets (Note 9) Total current assets Investments in equity affiliates (Note 10) Property, plant and equipment, net of accumulated depreciation of in 2024 and in 2023 
+ Operating lease right-of-use assets Finance lease right-of-use assets Intangible assets, net of accumulated amortization of in 2024 and in 2023 
+ Deferred income taxes Derivative financial instruments (Note 17) Other assets Total assets Liabilities and equity Short-term debt and current portion of long-term debt (Note 12) Operating lease liabilities Finance lease liabilities Accounts payable, trade Contract liabilities Accrued payroll Derivative financial instruments (Note 17) Income taxes payable Measurements Solutions business classified as liabilities held for sale (Note 3) Other current liabilities (Note 9) Total current liabilities Long-term debt, less current portion (Note 12) Operating lease liabilities, less current portion Financing lease liabilities, less current portion Deferred income taxes Accrued pension and other post-retirement benefits, less current portion Derivative financial instruments (Note 17) Other liabilities Total liabilities Commitments and contingent liabilities (Note 15) par value; shares authorized in 2024 and 2023; shares and shares issued and outstanding in 2024 and 2023, respectively 
+ Capital in excess of par value of ordinary shares Accumulated deficit ) ) Accumulated other comprehensive loss ) ) Total TechnipFMC plc stockholders equity Non-controlling interests Total equity Total liabilities and equity 
+ The accompanying notes are an integral part of the condensed consolidated financial statements. 
+ 6 
+
+TECHNIPFMC PLC AND CONSOLIDATED SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED) 
+ Nine Months Ended September 30, (In millions) 
+ 2024 2023 Cash provided (required) by operating activities Net income Adjustments to reconcile income to cash provided (required) by operating activities Depreciation and amortization Deferred income tax benefit ) ) Income from equity affiliates, net of dividends received ) ) Gain on disposal of Measurement Solutions business ) Other non-cash items, net Changes in operating assets and liabilities, net of effects of acquisitions Trade receivables, net and Contract assets, net ) ) Inventories, net ) ) Accounts payable, trade Contract liabilities Income taxes payable, net ) Other current assets and liabilities, net ) Other non-current assets and liabilities, net ) Cash provided (required) by operating activities ) Cash provided (required) by investing activities Capital expenditures ) ) Proceeds from sales of assets Proceeds from sale of Measurement Solutions business Other investing activities Cash provided (required) by investing activities ) Cash required by financing activities Net decrease in short-term debt ) ) Share repurchases 
+ ) ) Dividends paid ) ) Payments related to taxes withheld on share-based compensation ) ) Proceeds from exercise of stock options Other financing activities ) ) Cash required by financing activities ) ) Effect of changes in foreign exchange rates on cash and cash equivalents ) ) Change in cash and cash equivalents ) ) Cash and cash equivalents, beginning of period Cash and cash equivalents, end of period 
+ 
+ The accompanying notes are an integral part of the condensed consolidated financial statements. 
+ 7 
+
+TECHNIPFMC PLC AND CONSOLIDATED SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY (UNAUDITED) 
+ THREE MONTHS ENDED SEPTEMBER 30, 2024 and 2023 
+ (In millions) Ordinary Shares Capital in Excess of Par Value of Ordinary Shares Accumulated Deficit Accumulated Other Comprehensive Income (Loss) Non-controlling Interest Total Stockholders Equity Balance as of June 30, 2024 ) ) Net income Other comprehensive income (loss) ) Share-based compensation Shares repurchased and cancelled ) ) ) ) Proceeds from exercise of stock options ) Dividends declared and paid ) ) Other ) ) ) ) Balance as of September 30, 2024 ) ) Balance as of June 30, 2023 ) ) Net income Other comprehensive income (loss) ) ) Issuance of ordinary shares, net of shares withheld for tax Share-based compensation Shares repurchased and cancelled ) ) ) Dividends declared and paid ) ) Other ) Balance as of September 30, 2023 ) ) 
+ 
+ 8 
+
+TECHNIPFMC PLC AND CONSOLIDATED SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS EQUITY (UNAUDITED) 
+ NINE MONTHS ENDED SEPTEMBER 30, 2024 and 2023 
+ (In millions) Ordinary Shares Capital in Excess of Par Value of Ordinary Shares Accumulated Deficit Accumulated Other Comprehensive Income (Loss) Non-controlling Interest Total Stockholders Equity Balance as of December 31, 2023 ) ) Net income Other comprehensive income (loss) ) ) ) Issuance of ordinary shares, net of shares withheld for tax ) ) Share-based compensation Shares repurchased and cancelled ) ) ) ) Proceeds from exercise of stock options Dividends declared and paid ) ) ) Other ) ) ) ) Balance as of September 30, 2024 ) ) Balance as of December 31, 2022 ) ) Net income Other comprehensive income (loss) ) ) Issuance of ordinary shares, net of shares withheld for tax ) ) Share-based compensation Shares repurchased and cancelled ) ) ) Dividends declared and paid ) ) Other ) Balance as of September 30, 2023 ) ) 
+ 
+ The accompanying notes are an integral part of the condensed consolidated financial statements. 
+ 9 
+
+TECHNIPFMC PLC AND CONSOLIDATED SUBSIDIARIES 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED) 
+ 
+ NOTE 1. 
+ 
+ NOTE 2. 
+ 10 
+
+NOTE 3. 
+ million in cash, subject to customary adjustments at the closing of the transaction. As part of the Surface Technologies segment, MSB encompasses terminal management solutions and metering products and systems and includes engineering and manufacturing locations in North America and Europe. 
+ We recorded transaction costs associated with the sale of million, during the three months ended March 31, 2024 . These transaction costs are included within restructuring, impairment, and other charges in our condensed consolidated statement of income. 
+ On March 11, 2024, we completed the sale of equity interests and assets of MSB for cash proceeds of million and recognized a gain on disposal of million. The purchase consideration was adjusted for various working capital balances and assumed liabilities as of the transaction closing date. 
+ FMC Technologies (UK) Pension Plan Buy-In 
+ In February 2024, one of the U.K. pension plans entered into a buy-in contract for its pensioners. Under the buy-in contract terms, the responsibility to pay pension benefits still rests with the plan and the obligation is still recorded by the Company. 
+ 
+ NOTE 4. 
+ Europe and Central Asia North America Africa Asia Pacific Middle East Total revenue 
+
+11 
+
+Europe and Central Asia North America Africa Asia Pacific Middle East Total revenue 
+ The following tables present total revenue by contract type for each reportable segment for the three and nine months ended September 30, 2024 and 2023: 
+ Reportable Segments Three Months Ended September 30, 2024 September 30, 2023 (In millions) Subsea Surface Technologies Subsea Surface Technologies Services Products Lease Total revenue 
+ Reportable segments Nine Months Ended September 30, 2024 September 30, 2023 (In millions) Subsea Surface Technologies Subsea Surface Technologies Services Products Lease Total revenue 
+ Contract Balances 
+ The timing of revenue recognition, billings, and cash collections results in billed accounts receivable, costs, and estimated earnings in excess of billings on uncompleted contracts (contract assets), and billings in excess of costs and estimated earnings on uncompleted contracts (contract liabilities) in the condensed consolidated balance sheets. Any expected contract losses are recorded in the period in which they become probable. 
+ Contract Assets - Contract assets include unbilled amounts typically resulting from sales under long-term contracts when revenue is recognized over time and revenue recognized exceeds the amount billed to the customer, and right to payment is not just subject to the passage of time. Amounts may not exceed their net realizable value. Costs and estimated earnings in excess of billings on uncompleted contracts are generally classified as current. 
+ Contract Liabilities - We sometimes receive advances or deposits from our customers, before revenue is recognized, resulting in contract liabilities. 
+ 12 
+
+Contract liabilities ) ) Net contract liabilities ) ) 
+ In order to determine revenue recognized in the period from contract liabilities, we first allocate revenue to the individual contract liability balance outstanding at the beginning of the period until the revenue exceeds that balance. Any subsequ ent revenu e we recognize increases the contract asset balance. Revenue recognized for the three months ended September 30, 2024 and 2023 that was included in the contract liabilities balance as of December 31, 2023 and 2022 was million and million, respectively, and million and million for the nine months ended September 30, 2024 a nd 2023, respectively. 
+ Net revenue recognized from our performance obligations satisfied or partially satisfied in previous periods had a favorable and unfavorable impact of million and million for the three months ended September 30, 2024 and 2023, respectively. For the nine months ended September 30, 2024 and 2023 we had a favorable and unfavorable impact of million and million, respectively. 
+ For the three months ended September 30, 2024 , there were no projects with individually material impacts. Certain projects were materially and favorably impacted for the nine months ended September 30, 2024, by million, as a result of improved performance in the delivery and was offset by individually immaterial projects with net negative impacts of million. For the three and nine months ended September 30, 2023, there were no projects with individually material impacts. 
+ Transaction Price Allocated to the Remaining Unsatisfied Performance Obligations 
+ Remaining unsatisfied performance obligations (or order backlog represent the transaction price for products and services for which we have a material right, but work has not been performed. The transaction price of the order backlog includes the base transaction price, variable consideration, and changes in transaction price. The order backlog table does not include contracts for which we recognize revenue at the amount to which we have the right to invoice for services performed. The transaction price of order backlog related to unfilled, confirmed customer orders is estimated at each reporting date. As of September 30, 2024, the aggregate amount of the transaction price allocated to order backlog was billion. TechnipFMC expects to recognize revenue on approximately percent of the order backlog through 2024 and percent thereafter. 
+ Surface Technologies Total order backlog 
+ 
+ NOTE 5. 
+ reporting segments, Subsea and Surface Technologies: 
+ Subsea - designs and manufactures products and systems, performs engineering, procurement, and project management, and provides services used by oil and gas companies involved in offshore exploration and production of oil and natural gas 
+ 13 
+
+Surface Technologies Total segment revenue Segment operating profit Subsea Surface Technologies (a) 
+ Total segment operating profit Corporate items Corporate expens e (b) 
+ ) ) ) ) Net interest expense ) ) ) ) Foreign exchange losses ) ) ) ) Total corporate items ) ) ) ) Income before income taxes (c) 
+ 
+ (a) Includes the gain on disposal of MSB for the nine months ended September 30, 2024, see Note 3 for additional details. 
+ (b) Corporate expense primarily includes corporate staff expenses, share-based compensation expenses, and other employee benefits. For the nine months ended September 30, 2023, corporate expense includes a non-recurring legal settlement charge of million. 
+ 
+ 14 
+
+NOTE 6. 
+ Weighted average number of shares outstanding Dilutive effect of restricted stock units Dilutive effect of stock options Dilutive effect of performance shares Total shares and dilutive securities Basic and diluted earnings per share attributable to TechnipFMC plc: Earnings per share attributable to TechnipFMC plc Basic Diluted 
+ For the three months ended September 30, 2023 and the nine months ended September 30, 2024 and 2023, weighted average shares of million, million and million shares, respectively, were excluded from the calculation of diluted weighted average number of shares, because their effect would be anti-dilutive. 
+ 
+ NOTE 7. 
+ Moody s rating A3 -Ba2 2020-2023 Debt securities at amortized cost Moody s rating B3 2021 Total financial assets 
+ Credit Losses 
+ For contract assets and trade receivables, we have elected to calculate an expected credit loss based on loss rates from historical data. We develop loss-rate statistics on the basis of the amount written-off over the life of the financial assets and contract assets and adjust these historical credit loss trends for forward-looking factors specific to the debtors and the economic environment to determine lifetime expected losses. 
+ For loans receivables and other and held-to-maturity debt securities at amortized cost, we evaluate whether these securities are considered to have low credit risk at the reporting date using available, reasonable, and supportable information. 
+ 15 
+
+Current period provision (release) for expected credit losses ) Recoveries ) Allowance for credit losses at September 30, 2024 
+ Balance as of September 30, 2023 (In millions) Trade receivables Contract assets Loans receivable and other Allowance for credit losses at December 31, 2022 Current period provision (release) for expected credit losses ) Recoveries ) Allowance for credit losses at September 30, 2023 
+ Trade receivables are due in one year or less. We do not have any financial assets that are past due or are on non-accrual status. 
+ 
+ NOTE 8. 
+ Work in process Finished goods Inventories, net 
+ 
+ NOTE 9. 
+ Prepaid expenses Withholding tax and other receivables Current financial assets at amortized cost Other Total other current assets 
+ 16 
+
+Social security liability Warranty accruals and project contingencies Value-added tax and other taxes payable Legal provisions Other provisions Current portion of accrued pension and other post-retirement benefits Legal settlement liability (a) 
+ Other accrued liabilities Total other current liabilities (a) See Note 15 for additional details. 
+ 
+ NOTE 10. 
+ million and million, respectively. Our income from equity affiliates during the three and nine months ended September 30, 2023 was million and million, respectively. 
+ Our major equity method investment is as follows: 
+ Dofcon Brasil AS is an affiliated company in the form of a joint venture between TechnipFMC and DOF Subsea DOF and was founded in 2006. The joint venture is composed of three legal entities: Dofcon Brasil AS, Techdof Brasil AS, and Dofcon Navegacao Ltda. Dofcon Brasil AS is the joint venture holding company and is owned percent by DOF and percent by TechnipFMC. Dofcon Brasil AS owns percent of both Dofcon Navegacao Ltda. and Techdof Brasil AS. All joint venture entities are collectively referred to as Dofcon. Dofcon provides Pipe-Laying Support Vessels for work in oil and natural gas fields offshore Brazil. Dofcon is considered a variable interest entity VIE because it does not have sufficient equity to finance its activities without additional subordinated financial support from other parties. We are not the primary beneficiary of the VIE. As such, we have accounted for our percent investment using the equity method of accounting with results reported in our Subsea segment. 
+ In June 2023, Dofcon Brasil AS declared a million dividend to its joint venture partners. The dividend receivable was recorded within other current assets on our consolidated balance sheets until December 2023 when the joint venture partners agreed and signed the agreement to convert their outstanding dividend receivable into a long-term loan receivable from Dofcon. As a result of this conversion, we converted our percent share of this dividend receivable into a long-term loan receivable that has a due date of June 26, 2028 and is included in other assets on our condensed consolidated balance sheets as of September 30, 2024 and December 31, 2023. 
+ Dofcon Navegacao Ltda. and Techdof Brasil AS have debts related to loans on their vessels. TechnipFMC and DOF provide guarantees for the debts and our share of the guarantees was million as of September 30, 2024. 
+ TechDof Brasil AS owns and operates the Skandi Buzios vessel. During June 2023, a fire occurred onboard the vessel alongside Porto do A u in Brazil. Repairs on the vessel have been completed, and the vessel was returned to service in the third quarter of 2024. We did not record an impairment on the carrying value of our investment as we did not note any impairment indicators from the incident. 
+ 17 
+
+NOTE 11. 
+ million to Dofcon, for which interest income of million and million, respectively, has been recorded during the three and nine months ended September 30, 2024 and for the three and nine months ended September 30, 2023. 
+ 
+ NOTE 12. 
+ 2020 Private Placement Notes due 2025 
+ Senior notes due 2026 
+ 2012 Private Placement Notes due 2027 
+ 2012 Private Placement Notes due 2032 
+ 2013 Private Placement Notes due 2033 
+ Bank borrowings and other Unamortized debt issuance costs and discounts ) ) Total debt Less: current borrowings Long-term debt 
+ Credit Facilities and Debt 
+ Revolving Credit Facility - On February 16, 2021, we entered into a credit agreement, which provided for a billion senior secured multi-currency revolving credit facility, including a million letter of credit sub-facility (the Revolving Credit Facility ). We incurred million of debt issuance costs in connection with the Revolving Credit Facility. These debt issuance costs are deferred and are included in other assets in our condensed consolidated balance sheets. The deferred debt issuance costs are amortized to interest expense over the term of the Revolving Credit Facility. 
+ On April 24, 2023, we entered into a fifth amendment (the Amendment No. 5 to the Revolving Credit Facility (as amended, the Credit Agreement , which increased the commitments available to the Company to billion and extended the term to from the date of the Amendment No. 5. The Credit Agreement also provides for a million letter of credit sub-facility. We incurred million of debt issuance costs in connection with the Amendment No. 5. These debt issuance costs are deferred and are included in other assets in our condensed consolidated balance sheets. The deferred debt issuance costs are amortized to interest expense over the term of the Credit Agreement. 
+ Availability of borrowings under the Credit Agreement is reduced by the outstanding letters of credit issued against the facility. As of September 30, 2024, there were letters of credit outstanding, and our availability under the Credit Agreement was billion. 
+ 18 
+
+percent and the rate for base rate loans is percent effective from June 28, 2024. The Credit Agreement is subject to customary representations and warranties, covenants, events of default, mandatory repayment provisions, and financial covenants. 
+ Letter of Credit Facility - On April 24, 2023, the Company entered into a new million senior secured performance letters of credit facility (the Performance LC Credit Agreement ). The commitments under the Performance LC Credit Agreement may be increased to billion, subject to the satisfaction of certain customary conditions precedent. The Performance LC Credit Agreement permits the Company and its subsidiaries to have access to performance letters of credit denominated in a variety of currencies to support the contracting activities with counterparties that require or request a performance or similar guarantee. It contains substantially the same customary representations and warranties, covenants, events of default, mandatory repayment provisions, and financial covenants as the Credit Agreement and benefits from the same guarantees and security as the Credit Agreement on a pari passu basis. 
+ On March 7, 2024, S P Global Ratings S P upgraded TechnipFMC to investment grade, raising its rating to BBB- from BB+ for both the issuer credit as well as the issue-level ratings on the Company s senior unsecured notes. On June 27, 2024, Fitch Ratings Fitch assigned a first-time investment grade long-term issuer default rating of BBB- for TechnipFMC. As a result of the S P and Fitch investment grade ratings and the satisfaction of certain other conditions precedent, the Investment Grade Debt Rating (as defined in the Credit Agreement) has occurred and the collateral securing the Credit Agreement and the Performance LC Credit Agreement was released and certain negative covenants no longer apply to the Company. 
+ 2021 Notes - On January 29, 2021, we issued billion of percent senior notes due 2026 (the 2021 Notes ). The interest on the 2021 Notes is paid semi-annually on February 1 and August 1 of each year, beginning on August 1, 2021. The 2021 Notes are senior unsecured obligations and are guaranteed on a senior unsecured basis by substantially all of our wholly owned U.S. subsidiaries and non-U.S. subsidiaries in Brazil, the Netherlands, Norway, Singapore, and the United Kingdom. We incurred million of debt issuance costs in connection with issuance of the 2021 Notes. These debt issuance costs are deferred and are included in long-term debt in our condensed consolidated balance sheets. The deferred debt issuance costs are amortized to interest expense over the term of the 2021 Notes, which approximates the effective interest method. The outstanding balance of the 2021 Notes as of September 30, 2024 is million. 
+ As of September 30, 2024, TechnipFMC was in compliance with all debt covenants. 
+ Bank borrowings - Include term loans issued in connection with financing for certain of our vessels and amounts outstanding under our foreign committed credit lines. 
+ Foreign committed credit - We have committed credit lines at many of our international subsidiaries for immaterial amounts. We utilize these facilities for asset financing and to provide a more efficient daily source of liquidity. The effective interest rates depend upon the local national market. 
+ 19 
+
+NOTE 13. 
+ per share. The Company intends to pay dividends on a quarterly basis, and this dividend represents per share on an annualized basis. The cash dividend paid during the three and nine months ended September 30, 2024 was million and million, respectively. 
+ As an English public limited company, we are required under U.K. law to have available distributable reserves to conduct share repurchases or pay dividends to shareholders. Distributable reserves are a statutory requirement and are not linked to a GAAP reported amount (e.g., retained earnings). The declaration and payment of dividends require the authorization of our Board of Directors, provided that such dividends on issued share capital may be paid only out of our distributable reserves on our statutory balance sheet. Therefore, we are not permitted to pay dividends out of share capital, which includes share premium. 
+ In July 2022, the Board of Directors authorized the repurchase of up to million of our outstanding ordinary shares under our share repurchase program. On July 26, 2023, the Board of Directors authorized additional share repurchase of up to million, and the Company s total share repurchase authorization was increased to million of our outstanding ordinary shares under our share repurchase program. Pursuant to this share repurchase program, we repurchased million and million, respectively, of ordinary shares during the three and nine months ended September 30, 2024. 
+ Based upon the remaining repurchase authority of million and the closing stock price as of September 30, 2024, approximately million ordinary shares could be subject to repurchase. Since the initial share repurchase authorization in July 2022, we have purchased an aggregate amount of million of ordinary shares through September 30, 2024. All repurchased shares were immediately cancelled. 
+ 
+ 20 
+
+) ) ) ) Other comprehensive income (loss) before reclassifications, net of tax ) Reclassification adjustment for net (gains) losses included in net income (loss), net of tax ) ) Other comprehensive income (loss), net of tax ) September 30, 2024 ) ) ) ) ) June 30, 2023 ) ) ) ) ) Other comprehensive income (loss) before reclassifications, net of tax ) ) Reclassification adjustment for net (gains) losses included in net income, net of tax ) ) Other comprehensive income (loss), net of tax ) ) ) September 30, 2023 ) ) ) ) ) 
+ 
+ (In millions) Foreign Currency Translation Hedging Defined Pension and Other Post-Retirement Benefits Accumulated Other Comprehensive Loss Attributable to TechnipFMC plc Accumulated Other Comprehensive Loss Attributable to Non-Controlling Interest December 31, 2023 ) ) ) ) Other comprehensive loss before reclassifications, net of tax ) ) ) ) ) Reclassification adjustment for net (gains) losses included in net income (loss), net of tax ) Other comprehensive income (loss), net of tax ) ) ) ) September 30, 2024 ) ) ) ) ) December 31, 2022 ) ) ) ) ) Other comprehensive income (loss) before reclassifications, net of tax ) ) ) Reclassification adjustment for net (gains) losses included in net income (loss), net of tax ) ) Other comprehensive income (loss), net of tax ) ) ) September 30, 2023 ) ) ) ) ) 
+ 21 
+
+) Other income (expense), net ) Net income Gains (losses) on hedging instruments Foreign exchange contracts ) ) ) ) Revenue Cost of sales ) ) Other income (expense), net Income before income taxes Provision for income taxes Net income Pension and other post-retirement benefits Amortization of prior service credit (cost) ) ) ) ) Other income (expense), net (a) 
+ Amortization of net actuarial loss ) ) ) ) Other income (expense), net (a) 
+ Reclassification adjustment for net gain included in net income Other income (expense), net (a) 
+ ) ) ) ) Loss before income taxes ) ) ) Provision (benefit) for income taxes ) ) ) ) Net loss 
+ (a) These accumulated other comprehensive income components are included in the computation of net periodic pension cost. 
+ 
+ NOTE 14. 
+ million and million, respectively. 
+ 
+ NOTE 15. 
+ . Management does not expect any of these financial instruments to result in losses that would have a material adverse effect on our condensed consolidated financial position, results of operations or cash flows. 
+ 22 
+
+Performance guarantees (b) 
+ Maximum potential undiscounted payments 
+ (a) Financial guarantees represent contracts that contingently require a guarantor to make payments to a guaranteed party based on changes in an underlying agreement that is related to an asset, a liability, or an equity security of the guaranteed party. These tend to be drawn down only if there is a failure to fulfill our financial obligations. 
+ (b) Performance guarantees represent contracts that contingently require a guarantor to make payments to a guaranteed party based on another entity's failure to perform under a non-financial obligating agreement. Events that trigger payment are performance-related, such as failure to ship a product or provide a service. 
+ We believe the ultimate resolution of our known contingencies will not materially adversely affect our condensed consolidated financial position, results of operations, or cash flows. 
+ Contingent liabilities associated with legal and tax matters - We are involved in various pending or potential legal and tax actions or disputes in the ordinary course of our business. These actions and disputes can involve our agents, suppliers, clients, and venture partners, and can include claims related to payment of fees, service quality, and ownership arrangements, including certain put or call options. We are unable to predict the ultimate outcome of these actions because of their inherent uncertainty. However, we believe that the most probable, ultimate resolution of these matters will not have a material adverse effect on our condensed consolidated financial position, results of operations, or cash flows. 
+ The Company has resolved an anti-corruption investigation by French authorities (the Parquet National Financier PNF )). On June 22, 2023, the Company, through its subsidiary Technip UK Limited, along with Technip Energies SAS, a subsidiary of Technip Energies NV, reached a resolution with the PNF of all outstanding matters, including its investigations into historical projects in Equatorial Guinea, Ghana, and Angola. The resolution took the form of a convention judiciaire d'interet public CJIP ), which does not involve any admission of liability or guilt. 
+ Under the terms of the CJIP, Technip UK and Technip Energies France will pay a public interest fine of million and million, respectively, for a total of million. Under the companies separation agreements, TechnipFMC is responsible for million to be paid in installments through July 2024, and Technip Energies is responsible for the remaining million. During the three months ended June 30, 2023, we recorded an incremental liability of million. After making all scheduled installment payments of million, million, million, and million on July 13, 2023, January 15, 2024, April 8, 2024, and July 10, 2024, respectively, we have further outstanding balance as of September 30, 2024. 
+ TechnipFMC fully cooperated with the PNF and was not required to retain a monitor. The CJIP received final approval by the President of the Tribunal Judiciaire of Paris at a hearing on June 28, 2023. 
+ All obligations to PNF related to the enforcement matters in Equatorial Guinea, Ghana, and Angola have been completed and the Company has been unconditionally released by PNF. 
+ 
+ Contingent liabilities associated with liquidated damages - Some of our contracts contain provisions that require us to pay liquidated damages if we are responsible for the failure to meet specified contractual milestone dates and the applicable customer asserts a conforming claim under these provisions. These contracts define the conditions under which our customers may make claims against us for liquidated damages. Based upon the evaluation of our performance and other commercial and legal analysis, management believes we have appropriately recognized probable liquidated damages as of September 30, 2024 and December 31, 2023, and that the ultimate resolution of such matters will not materially affect our condensed consolidated financial position, results of operations, or cash flows. 
+ 23 
+
+NOTE 16.) percent and percent, respectively, and for the nine months ended September 30, 2024 and 2023, percent and percent, respectively, The change in the effective tax rate was largely due to the release of a valuation allowance in the United States with a positive net tax discrete benefit of million, the change in geographical profit mix year-over-year and tax adjustments related to the reassessment of prior year tax accruals. During the third quarter of 2024, the Company determined it was more likely than not the Company would be able to realize the benefit of a portion of the deferred tax assets in the United States, resulting in a partial release of the valuation allowance. In reaching this determination, the Company considered the growing trend of profitability over the last three years in the United States, as well as expectations regarding the generation of future taxable income and the sources of future taxable income . 
+ 
+ Our effective tax rate can fluctuate depending on our country mix of earnings, since our foreign earnings are generally subject to higher tax rates than in the United Kingdom. 
+ 
+ NOTE 17. 
+ 
+ Brazilian real British pound Canadian dollar Euro Indonesian rupiah ) ) Malaysian ringgit Norwegian krone Singapore dollar Czech koruna Swedish krona Polish zloty U.S. dollar ) ) 
+ 24 
+
+Euro ) ) Norwegian krone ) ) U.S. dollar 
+ Fair value amounts for all outstanding derivative instruments have been determined using available market information and commonly accepted valuation methodologies. See Note 18 for further details. Accordingly, the estimates presented may not be indicative of the amounts we would realize in a current market exchange and may not be indicative of the gains or losses we may ultimately incur when these contracts are settled. 
+ Long-term - Derivative financial instruments Total derivatives designated as hedging instruments Derivatives not designated as hedging instruments Foreign exchange contracts Current - Derivative financial instruments ) Long-term - Derivative financial instruments Total derivatives not designated as hedging instruments ) Total derivatives 
+ Cash flow hedges of forecasted transactions, net of tax, which qualify for hedge accounting, resulted in accumulated other comprehensive gains (losses) o f ) million and million, respectively, as of September 30, 2024 and December 31, 2023. We expect to transfer an approximate million gain from accumulated OCI to earnings during the next 12 months when the anticipated transactions actually occur. All anticipated transactions currently being hedged are expected to occur by the seco nd half of 2027. 
+ ) ) 
+ 25 
+
+) ) Amounts excluded from effectiveness testing ) ) ) Total cash flow hedge gain (loss) recognized in income ) Gain (loss) recognized in income on derivatives not designated as hedging instruments ) ) ) Total (a) 
+ ) 
+ 
+ (In millions) Nine Months Ended September 30, 2024 Nine Months Ended September 30, 2023 Total amount of income (expense) presented in the condensed consolidated statements of income associated with hedges and derivatives Revenue Cost of sales Other income (expense), net Revenue Cost of sales Other income (expense), net Amounts reclassified from accumulated OCI to income (loss) ) ) ) Amounts excluded from effectiveness testing ) ) Total cash flow hedge gain (loss) recognized in income ) Gain (loss) recognized in income on derivatives not designated as hedging instruments ) ) ) ) ) Total (a) 
+ ) 
+
+Balance Sheet Offsetting - We execute derivative contracts with counterparties that consent to a master netting agreement, which permits net settlement of the gross derivative assets against gross derivative liabilities. Each instrument is accounted for individually, and assets and liabilities are not offset. As of September 30, 2024 and December 31, 2023, we had no collateralized derivative contracts. 
+ ) ) Derivative liabilities ) ) 
+ 26 
+
+NOTE 18. 
+ Money market and stable value funds Derivative financial instruments Foreign exchange contracts Total assets Liabilities Derivative financial instruments Foreign exchange contracts Total liabilities 
+ Equity securities - The fair value measurement of our traded securities is based on quoted prices that we have the ability to access in public markets. 
+ Money market and stable value funds - These funds are valued at the net asset value of the shares held at the end of the quarter, which is based on the fair value of the underlying investments using information reported by our investment advisor at quarter-end. These funds include fixed income and other investments measured at fair value. Certain investments that are measured at fair value using net asset value per share (or its equivalent) have not been classified in the fair value hierarchy. 
+ Derivative financial instruments - We use the income approach as the valuation technique to measure the fair value of foreign currency derivative instruments on a recurring basis. This approach calculates the present value of the future cash flow by measuring the change from the derivative contract rate and the published market indicative currency rate, multiplied by the contract notional values. Credit risk is then incorporated by reducing the derivative s fair value in asset positions by the result of multiplying the present value of the portfolio by the counterparty s published credit spread. Portfolios in a liability position are adjusted by the same calculation; however, a spread representing our credit spread is used. Our credit spread, and the credit spread of other counterparties not publicly available, are approximated by using the spread of similar companies in the same industry, of similar size, and with the same credit rating. 
+ We currently have no credit-risk-related contingent features in our agreements with the financial institutions that would require us to post collateral for derivative positions in a liability position. See Note 17 for further details. 
+ Other fair value disclosures 
+ The carrying amounts of cash and cash equivalents, trade receivables, accounts payable, short-term debt, debt associated with our bank borrowings, credit facilities, as well as amounts included in other current assets and other current liabilities that meet the definition of financial instruments, approximate fair value. 
+ Fair value of debt - We use a market approach to determine the fair value of our fixed-rate debt using observable market data, which results in a Level 2 fair value measurement. The estimated fair value of our private placement notes and senior notes was million and million as of September 30, 2024 and December 31, 2023, respectively. 
+ Credit risk - By their nature, financial instruments involve risk, including credit risk, for non-performance by counterparties. Financial instruments that potentially subject us to credit risk primarily consist of trade receivables and derivative contracts. We manage the credit risk on financial instruments by transacting only with what management believes are financially secure counterparties, requiring credit approvals and credit limits and monitoring counterparties financial condition. Our maximum exposure to credit loss in the event of non-performance by the counterparty is limited to the amount drawn and outstanding on the financial instrument. Allowances for losses on trade receivables are established based on collectability assessments. We mitigate credit risk on 
+ 27 
+
+NOTE 19. 
+ per share, payable on December 4, 2024 to shareholders of record as of the close of business on the New York Stock Exchange on November 19, 2024. The ex-dividend date is November 19, 2024. 
+ The Board of Directors also authorized additional share repurchase of up to billion. Together with the existing program, the Company s remaining authorization allows for repurchases up to billion, representing more than of the Company s outstanding shares as of October 23, 2024. 
+ 28 
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ BUSINESS OUTLOOK 
+ Overall Outlook - The global economy remains resilient despite prevailing headwinds. Some central banks have lowered interest rates in response to softening inflation, but they remain diligent in their efforts to balance price stability with economic growth. These factors are expected to support sustained growth in energy demand. 
+ Conflicts in Ukraine and the Middle East have further highlighted the need for greater energy security across the globe. As a result, the energy industry has accelerated its efforts to address the essential need for hydrocarbons today to ensure the continuity of affordable energy while also playing an essential role in the energy transition. 
+ The price of oil has been supported by regional geopolitical tensions and more disciplined capital spend spending within the industry, particularly among OPEC+ countries. These nations are prioritizing production levels that foster both economic growth and energy investment, as evident by OPEC maintaining voluntary reductions to existing production into 2025. Additionally, a prolonged period of underinvestment has also contributed to a supply deficit, requiring increased upstream spending and reinforcing a positive long-term outlook for oil and natural gas prices. 
+ We see continued strength ahead, driven by the resiliency and durability of the current market. The demand for energy will continue to grow. However, we believe the market s evolution will differ from the past, driven by three major trends. First, a shift in capital flows, which we believe will largely be directed to the offshore and Middle East markets. Second, an increased role for new technologies to drive further innovation and market expansion, particularly in the offshore market. And third, an expanded role for subsea services, driven by the needs of growing and aging infrastructure. These trends allow TechnipFMC to leverage our full suite of integrated solutions, differentiated technologies, and the industry s most comprehensive subsea services offering. 
+ Client discussions remain focused on project activity that extends beyond 2025 as they look to secure capacity for future phases of their offshore developments towards the end of the decade. There is also momentum in new offshore frontiers, which are likely to yield additional inbound well beyond the orders we are discussing today. 
+ While we are confident that conventional resources will remain a large part of the energy mix for an extended period, we are also committed to the energy transition. Here, we believe that offshore will play a meaningful role in the transition to renewable energy resources and reduction of carbon emissions. We are making real progress through our three main pillars of greenhouse gas removal, offshore floating renewables, and hydrogen solutions. We have also been successful in building on our partnerships and alliances to further position ourselves as the leading architect for offshore energy. 
+ Our leadership in subsea processing, technology innovation, and integrated solutions was recognized at the beginning of the year with the award of the Mero 3 HISEP project, which is the first iEPCI iEPCI contract ever awarded by Petrobras. The significance of this project for the subsea industry cannot be overstated. This will be the first project to use subsea processing to capture CO 2 rich dense gases directly from the well stream for injection back into the reservoir, with all of the infrastructure residing on the seafloor. 
+ In addition to reducing greenhouse gas emission intensity, HISEP technologies will increase production capacity by debottlenecking the gas processing plant that currently resides on the floating production storage and offloading unit FPSO ). By moving the gas processing entirely to the seafloor, future FPSO and topside designs can be further simplified, driving significant improvement in project economics. With the award of the Mero 3 HISEP project, our New Energy business has now achieved more than 1 billion of inbound orders - nearly two years earlier than previously anticipated. 
+ In March, we were selected to deliver the first all-electric subsea iEPCI for carbon capture and storage from the Northern Endurance Partnership NEP ). The partnership, which is a joint venture between bp, Equinor, and TotalEnergies, is building CO 2 transportation and storage infrastructure for carbon capture projects in the U.K. s East Coast Cluster. Our all-electric solution will collect and feed the pressurized gas into an aquifer for permanent storage. The NEP project demonstrates our ability to leverage our unique combination of innovative technologies and integrated execution as we continue to further refine our positioning and mature our offering, particularly in carbon transportation and storage. 
+ 29 
+
+Subsea - Innovative approaches to subsea projects, like our iEPCI solution, have improved project economics through more efficient design and installation of the entire subsea field architecture. Our integrated commercial model, iEPCI, brought together the complementary work scopes of the subsea production system SPS with the subsea umbilicals, risers, and flowlines SURF ), and installation vessels. iEPCI created a new market and helped expand the deepwater opportunity set for our clients and has grown to represent nearly one-third of the addressable subsea market. 
+ As the subsea industry continues to evolve, we are driving simplification, standardization, and industrialization to reduce cycle times and further reduce costs. An example of this is Subsea 2.0 , our pre-engineered configurable product offering. This technology provides simplification of unique project requirements by leveraging a configure-to-order CTO model that further improves the economics of our customers projects while driving greater efficiencies for TechnipFMC. 
+ With CTO, we have designed an architecture, process, culture, and tools that are scalable and, more importantly, are transformational to the future of our company. CTO has allowed us to redefine our sourcing strategy and transform our manufacturing flow, resulting in up to 25 percent lower product cost and a shortened 12-month delivery time for subsea production equipment - savings that are both real and sustainable. This has paved the way for other products to adopt a similar operating model, enabling an enterprise-wide way of working. 
+ Given the significant improvement in project economics, many offshore discoveries can be developed economically well below today s oil prices. We believe these changes are fundamental and sustainable, as a result of new business models and technology pioneered by our company. 
+ There is also exploration activity occurring in new offshore frontiers. In Suriname, five major discoveries have been made through the successful appraisal of multiple blocks, with confirmed combined recoverable resources of approximately 700 million barrels of oil. In October, TotalEnergies and partners reached a final investment decision for the first oil development in Block 58. In Namibia, there has also been a major discovery with multiple operators beginning their drilling campaigns. We believe additional countries will become producers of deepwater resources during this decade. 
+ Offshore development is likely to remain a significant part of many of our customers portfolios. We estimate over 35 MMBD of new oil production will be required by 2040 to meet future energy demand, including approximately 10 MMBD of new deepwater production. 
+ Our Subsea inbound orders grew to 9.7 billion in 2023, an increase of 45 percent versus the prior year. The robust inbound benefited from a record level of iEPCI projects, and when including all other direct awards and Subsea Services, the combination represented more than 70 percent of total segment orders. The strong order activity has continued, with 7.7 billion of orders in the current year increasing backlog to 13.7 billion as of September 30, 2024 - a record level for TechnipFMC. We are well positioned for Subsea inbound to approach 10 billion for the full year, giving us confidence in achieving 30 billion in Subsea orders over the three-year period ending 2025. 
+ Surface Technologies - International markets comprise a significant portion of segment revenue, representing over 60 percent of the total in the first nine months of the year. We continue to benefit from our exposure to the North Sea, Asia Pacific, and the Middle East. TechnipFMC s unique capabilities in these markets, which demand higher specification equipment, global services, and local content, provide a platform for us to extend our leadership positions. 
+ Drilling activity in international markets is less cyclical than in North America, as most activities are undertaken by national oil companies that tend to maintain a longer-term view that exhibits less variability in capital spend. This trend is most evident in the Middle East where we expect to continue benefiting from our exposure to the region, particularly in the United Arab Emirates and Saudi Arabia, driven by our clients continued investment in long-term production growth. The completion of our new, state-of-the-art facility in Saudi Arabia and the qualification of our product portfolio are favorably impacting our company today and represent a differentiated growth opportunity for TechnipFMC. 
+ The shift to renewable energy resources will take time. During this transition, we believe that natural gas will provide a bridge between current conventional energy supply and future renewable energy supply. The transition is expected to drive growth in the surface market, led by large natural gas projects in the Middle East. We also expect 
+ 30 
+
+North America to play an important role in meeting increased natural gas demand, due in part to sanctions placed upon Russian supply. 
+ 31 
+
+CONSOLIDATED RESULTS OF OPERATIONS OF TECHNIPFMC PLC 
+ THREE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023 
+ Three Months Ended September 30, Change (In millions, except 2024 2023 Revenue 2,348.4 2,056.9 291.5 14.2 Costs and expenses Cost of sales 1,854.6 1,690.5 164.1 9.7 Selling, general and administrative expense 187.4 183.8 3.6 2.0 Research and development expense 15.4 17.5 (2.1) (12.0) Restructuring, impairment and other charges 3.8 4.3 (0.5) (11.6) Total costs and expenses 2,061.2 1,896.1 165.1 8.7 Other expense, net (7.3) (41.5) 34.2 82.4 Income from equity affiliates 8.4 20.6 (12.2) (59.2) Net interest expense (15.9) (26.7) 10.8 40.4 Income before income taxes 272.4 113.2 159.2 140.6 Provision (benefit) for income taxes (6.0) 19.5 (25.5) (130.8) Net income 278.4 93.7 184.7 197.1 (Income) attributable to non-controlling interests (3.8) (3.7) (0.1) (2.7) Net Income attributable to TechnipFMC plc 274.6 90.0 184.6 205.1 
+ Revenue 
+ Revenue increased 291.5 million during the three months ended September 30, 2024, compared to the same period in 2023. Subsea revenue increased by 319.8 million, primarily driven by a 49.6 percent higher backlog as of December 31, 2023, when compared to December 31, 2022, which resulted in increased revenue from higher iEPCI, supply of flexible pipe and installation activities particularly in the United Kingdom, Australia, Angola, and Guyana. Surface Technologies revenue decreased by 28.3 million, compared to the same period in 2023, primarily due to lower drilling and completion activity in Europe, North America and the sale of MSB during the three months ended March 31, 2024 by 52.2 million. This decrease was partially offset by 23.9 million of revenue growth from higher equipment delivery across the rest of the world, with the majority of the increase occurring in the Middle East. 
+ Gross Profit 
+ Gross profit increased to 493.8 million during the three months ended September 30, 2024, compared to 366.9 million in the prior year period. Subsea gross profit increased year-over-year by 124.6 million, of which 55.7 million was due to volume increase and 68.9 million due to favorable activity mix. Surface Technologies gross profit decreased year-over-year by 0.6 million, primarily due to lower drilling and completion activity in Europe, North America and the sale of MSB in the three months ended March 31, 2024 resulting in a decrease of 11.7 million, partially offset by 6.9 million of higher profitability from continued growth in the Middle East and an additional 4.2 million increase from other operating locations such as Asia Pacific and Latin America. 
+ Selling, General and Administrative Expense 
+ Selling, general and administrative expense increased 3.6 million year-over-year, driven by higher employee costs in support of increased business activities. 
+ 
+ 32 
+
+Other Expense, Net 
+ Other income (expense), net, includes gains and losses associated with the remeasurement of net monetary assets and liabilities, gains and losses on sales of property, plant and equipment, and non-operating gains and losses. The 34.2 million year-over-year decrease in net expense was driven by the decrease in foreign currency loss of 43.3 million, primarily related to the net impact of hedging positions year-over-year. This decrease was partially offset by a net decrease in miscellaneous other net non-operating charges. 
+ Income from Equity Affiliates 
+ For the three months ended September 30, 2024 and 2023, we recorded income from equity method affiliates of 8.4 million and 20.6 million, respectively. The year-over-year decline was driven by a decrease in operational activity of our joint ventures. 
+ Net Interest Expense 
+ Net interest expense of 15.9 million decreased by 10.8 million in the three months ended September 30, 2024, compared to the same period in 2023, primarily due to the net decrease in outstanding debt. 
+ Provision for Income Taxes 
+ Our provision for income taxes for the three months ended September 30, 2024 and 2023 reflected effective tax rates of (2.2) percent and 17.2 percent, respectively. The change in the effective tax rate was largely due to the release of a valuation allowance in the United States with a positive net tax discrete benefit of 60.6 million, the change in geographical profit mix year-over-year and tax adjustments related to the reassessment of prior year tax accruals. During the third quarter of 2024, the Company determined it was more likely than not the Company would be able to realize the benefit of a portion of the deferred tax assets in the United States, resulting in a partial release of the valuation allowance. 
+ Our effective tax rate can fluctuate depending on our country mix of earnings, since our foreign earnings are generally subject to higher tax rates than those of the United Kingdom. 
+
+33 
+
+CONSOLIDATED RESULTS OF OPERATIONS OF TECHNIPFMC PLC 
+ NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023 
+ Nine Months Ended September 30, Change (In millions, except 2024 2023 Revenue 6,716.0 5,746.5 969.5 16.9 Costs and expenses Cost of sales 5,379.9 4,828.8 551.1 11.4 Selling, general and administrative expense 522.1 487.7 34.4 7.1 Research and development expense 48.2 49.7 (1.5) (3.0) Restructuring, impairment and other charges 11.2 10.0 1.2 12.0 Total costs and expenses 5,961.4 5,376.2 585.2 10.9 Other expense, net (63.7) (225.1) 161.4 71.7 Gain on disposal of Measurement Solutions business 75.2 75.2 Income from equity affiliates 12.4 35.9 (23.5) (65.5) Net interest expense (50.0) (75.7) 25.7 33.9 Income before income taxes 728.5 105.4 623.1 591.2 Provision for income taxes 102.9 100.2 2.7 2.7 Net income 625.6 5.2 620.4 11,930.8 (Income) attributable to non-controlling interests (7.4) (2.0) (5.4) (270.0) Net income attributable to TechnipFMC plc 618.2 3.2 615.0 19,218.8 
+ Revenue 
+ Revenue increased by 969.5 million during the nine months ended September 30, 2024, compared to the same period in 2023. Subsea revenue increased by 1,057.7 million, driven by conversion of increased backlog, which was 49.6 percent higher as of December 31, 2023, when compared to December 31, 2022, and resulted in increased revenue from higher installation, iEPCI, supply of flexible pipe and services activities particularly in Angola, the United States, Guyana, Australia, Brazil and the United Kingdom. Surface Technologies revenue decreased by 88.2 million, compared to the same period in 2023. The decline was primarily due to lower drilling and completion activity in Europe, North America and the sale of MSB during the three months ended March 31, 2024, which collectively decreased revenues by 139.6 million. This decrease was partially offset by a 51.4 million of revenue growth from higher equipment delivery across the rest of the world, with the majority of the increase occurring in the Middle East. 
+ Gross Profit 
+ Gross profit increased to 1,336.1 million in 2024 compared to 920.5 million in 2023. Subsea gross profit increased year-over-year by 403.1 million, of which 183.0 million was due to volume increase and 220.1 million due to favorable activity mix. Surface Technologies gross profit decreased by 3.5 million compared to the same period in 2023, primarily due to lower drilling and completion activity in Europe, North America and the sale of MSB in the three months ended March 31, 2024 resulting in a decrease of 33.6 million, partially offset by 30.1 million of higher profitability from growth and higher operational leverage and efficiency across international markets such as Middle East, Asia Pacific, and Latin America. 
+ Selling, General and Administrative Expense 
+ Selling, general and administrative expense increased by 34.4 million during the nine months ended September 30, 2024, compared to the same period in 2023, driven by higher employee costs in support of increased business activities. 
+ 34 
+
+Other Expense, Net 
+ Other income (expense), net, includes gains and losses associated with the remeasurement of net monetary assets and liabilities, gains and losses on sales of property, plant and equipment, and non-operating gains and losses. The net decrease in expense of 161.4 million was driven by the 126.5 million non-recurring legal settlement charge recognized during the nine months ended September 30, 2023. Foreign currency loss decreased by 67.3 million, due to exposures to certain currencies with limited derivative hedging markets such as Angolan kwanza and the net impact of hedging positions during the nine months ended September 30, 2023. These decreases are partially offset by a net increase in miscellaneous other non-operating charges. 
+ Gain on disposal of Measurement Solutions business 
+ For the nine months ended September 30, 2024, we recognized a gain of 75.2 million from the sale of equity interests and assets of MSB. 
+ Income from Equity Affiliates 
+ For the nine months ended September 30, 2024 and 2023, we recorded income from equity method affiliates o f 12.4 million and 35.9 million, respectively. The year-over-year decline was driven by a decrease in operational activity of our joint ventures. 
+ Net Interest Expense 
+ Net interest expense of 50.0 million decreased by 25.7 million in the nine months ended September 30, 2024, compared to the same period in 2023, primarily due to a net reduction in outstanding debt and higher interest income. 
+ Provision for Income Taxes 
+ Our provision for income taxes for the nine months ended September 30, 2024 and 2023 reflected effective tax rates of 14.1 percent and 95.1 percent, respectively. The change in the effective tax rate was largely due to the release of a valuation allowance in the United States with a positive net tax discrete benefit of 60.6 million, the change in geographical profit mix year-over-year and tax adjustments related to the reassessment of prior year tax accruals. During the third quarter of 2024, the Company determined it was more likely than not the Company would be able to realize the benefit of a portion of the deferred tax assets in the United States, resulting in a partial release of the valuation allowance. 
+ Our effective tax rate can fluctuate depending on our country mix of earnings, since our foreign earnings are generally subject to higher tax rates than in the United Kingdom. 
+
+SEGMENT RESULTS OF OPERATIONS OF TECHNIPFMC PLC 
+ THREE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023 
+ Segment operating profit is defined as total segment revenue less segment operating expenses. Certain items have been excluded in computing segment operating profit and are included in corporate items. See Note 5 for further details. 
+ Subsea 
+ Three Months Ended September 30, Change (In millions, except and pts.) 2024 2023 Revenue 2,028.1 1,708.3 319.8 18.7 Operating profit 288.8 177.7 111.1 62.5 Operating profit as a percentage of revenue 14.2 10.4 3.8 pts. 
+ 
+ 35 
+
+Subsea revenue increased 319.8 million during the three months ended September 30, 2024, compared to the same period in 2023, driven by increased backlog in 2023 related to higher energy demand and upstream spending, further aided by our unique commercial offerings. Of the increase in revenue, 89.9 million was from the United Kingdom, 88.0 million from Australia, 78.7 million from Angola and 78.0 million from Guyana, driven by higher iEPCI, supply of flexible pipe and installation activities. The increased revenue in these geographies was modestly offset by a net 26.5 million decrease from the rest of the world, primarily from lower activity as projects reached completion. 
+ Subsea operating profit for the three months ended September 30, 2024, increased by 111.1 million, of which 68.9 million was the result of a favorable activity mix and 55.7 million from higher volume, partially offset by a 13.5 million increase in operating expense related to the higher activity. 
+ Surface Technologies 
+ Three Months Ended September 30, Change (In millions, except and pts.) 2024 2023 Revenue 320.3 348.6 (28.3) (8.1) Operating profit 33.7 33.3 0.4 1.2 Operating profit as a percentage of revenue 10.5 9.6 0.9 pts. 
+ Surface Technologies revenue decreased by 28.3 million, compared to the same period in 2023, primarily due to 52.2 million decreased revenue as a result of lower drilling and completion activity in Europe, North America and the sale of MSB during the three months ended March 31, 2024. This decrease was partially offset by 23.9 million of revenue growth from higher equipment delivery across the rest of the world, with the majority of the increase occurring in the Middle East. 
+ Surface Technologies operating profit increased by 0.4 million, due to growth in the Middle East with increased operating profit of 4.7 million and an additional 1.4 million increase from other operating locations offset by a reduction of 5.7 million due to lower drilling and completion activity in Europe, North America and the sale of MSB in the three months ended March 31, 2024. 
+ Corporate Expense 
+ Three Months Ended September 30, Change (In millions, except 2024 2023 Corporate expense (31.1) (24.7) (6.4) (25.9) 
+ Corporate expense increased by 6.4 million, compared to the same period in the prior year, was related to costs associated with our support functions, such as corporate staff expenses, share-based compensation expense, and other employee benefits. 
+
+36 
+
+SEGMENT RESULTS OF OPERATIONS OF TECHNIPFMC PLC 
+ NINE MONTHS ENDED SEPTEMBER 30, 2024 AND 2023 
+ Subsea 
+ Nine Months Ended September 30, Change (In millions, except 2024 2023 Revenue 5,772.0 4,714.3 1,057.7 22.4 Operating profit 723.1 397.9 325.2 81.7 Operating profit as a percentage of revenue 12.5 8.4 4.1 pts. 
+ Subsea revenue increased by 1,057.7 million during the nine months ended September 30, 2024, compared to the same period in 2023, driven by increased backlog during 2023 related to higher energy demand and upstream spending, further aided by our unique commercial offerings. 257.5 million of the increase in revenue was from Angola, 195.0 million from Brazil, 176.9 million from Guyana, 168.8 million from the United States, 155.7 million from Australia, and 145.5 million from the United Kingdom, driven by higher installation, iEPCI, supply of flexible pipe and services activities. The increased revenue in these geographies was offset by a net 39.1 million decrease from the rest of the world, primarily from lower activity as projects reached completion. 
+ Subsea operating profit for the nine months ended September 30, 2024, increased by 325.2 million, of which 220.1 million was the result of a favorable activity mix and 183.0 million from higher volume, partially offset by a 77.9 million increase in operating expense related to the higher activity. 
+ Surface Technologies 
+ Nine Months Ended September 30, Change (In millions, except 2024 2023 Revenue 944.0 1,032.2 (88.2) (8.5) Operating profit 167.7 81.4 86.3 106.0 Operating profit as a percentage of revenue 17.8 7.9 9.9 pts. 
+ Surface Technologies revenue decreased by 88.2 million, compared to the same period in 2023, primarily due to 139.6 million decreased revenue as a result of lower drilling and completion activity in Europe, North America and the sale of MSB during the three months ended March 31, 2024. This decrease was partially offset by 51.4 million of revenue growth from higher equipment delivery across the rest of the world, with the majority of the increase occurring in the Middle East. 
+ Surface Technologies operating profit increased by 86.3 million, and was driven by the gain on the sale of MSB, which was partially offset by lower drilling and completion activity in Europe and North America, resulting in a net increase of 61.1 million. Additionally, improved operating performance in Latin America and activities in the Middle East, Asia Pacific and other operating units generated improved profitability of 25.2 million. 
+ 
+ Corporate Expense 
+ Nine Months Ended September 30, Change (In millions, except 2024 2023 Corporate expense (87.0) (205.6) 118.6 57.7 
+ Corporate expense decreased by 118.6 million, or 57.7 percent, compared to the same period in the prior year, primarily driven by the non-recurring legal settlement charge incurred during 2023. 
+ 37 
+
+INBOUND ORDERS AND ORDER BACKLOG 
+ Inbound orders - Inbound orders represent the estimated sales value of confirmed customer orders received during the reporting period. 
+ Inbound Orders Three Months Ended September 30, Nine Months Ended September 30, (In millions) 2024 2023 2024 2023 Subsea 2,463.2 1,828.0 7,705.0 8,479.0 Surface Technologies 321.3 317.1 946.1 972.3 Total inbound orders 2,784.5 2,145.1 8,651.1 9,451.3 
+ Order backlog - Order backlog is calculated as the estimated sales value of unfilled, confirmed customer orders at the reporting date. Backlog reflects the transaction price for products and services for which we have a material right, but work has not been performed. See Note 4 for further details. 
+ Order Backlog (In millions) September 30, 2024 December 31, 2023 Subsea 13,732.1 12,164.1 Surface Technologies 966.8 1,066.9 Total order backlog 14,698.9 13,231.0 
+ Subsea - Subsea backlog of 13,732.1 million as of September 30, 2024 increased by 1,568.0 million compared to December 31, 2023, and was composed of various subsea projects, including Petrobras Buzios 6, Mero 3 HISEP and flexibles; Equinor Raia and Rosebank; ExxonMobil Whiptail and Uaru; TotalEnergies Mozambique LNG and GirLiFlex; Energean Katlan Phase 1; Shell Sparta and Bonga North; bp Kaskida, AkerBP Utsira High and Azule Energy Agogo. 
+ Surface Technologies - Order backlog for Surface Technologies as of September 30, 2024 decreased by 100.1 million compared to December 31, 2023. Surface Technologies backlog of 966.8 million as of September 30, 2024, was composed primarily of projects in the Middle East, namely Aramco and ADNOC. The remaining backlog was composed of various projects in the rest of the world. 
+ 
+ LIQUIDITY AND CAPITAL RESOURCES 
+ Most of our cash is managed centrally and flows through bank accounts controlled and maintained by TechnipFMC globally in various jurisdictions to best meet the liquidity needs of our global operations. 
+ Net Debt - Net debt is a non-GAAP financial measure reflecting cash and cash equivalents, net of debt. Management uses this non-GAAP financial measure to evaluate our capital structure and financial leverage. We believe net debt is a meaningful financial measure that may assist investors in understanding our financial condition and recognizing underlying trends in our capital structure. Net debt should not be considered an alternative to, or more meaningful than, cash and cash equivalents as determined in accordance with GAAP or as an indicator of our operating performance or liquidity. 
+ 
+ 38 
+
+The following table provides a reconciliation of our cash and cash equivalents to net debt, utilizing details of classifications from our condensed consolidated balance sheets: 
+ (In millions) September 30, 2024 December 31, 2023 Cash and cash equivalents 837.5 951.7 Short-term debt and current portion of long-term debt (310.4) (153.8) Long-term debt, less current portion (656.3) (913.5) Net debt (129.2) (115.6) 
+ Cash Flows 
+ Operating cash flows - Operating activities provided 382.1 million of cash during nine months ended September 30, 2024 as compared to 8.1 million cash used in operating cash flows during the same period in 2023. The increase of 390.2 million in cash from operating activities was primarily due to increased profitability during nine months ended September 30, 2024, as compared to the same period in 2023. It was also due to timing differences on project milestones, payments to vendors for inventory, and fluctuations in derivative assets and liabilities that require cash settlement. 
+ Investing cash flows - Investing activities provided 36.7 million of cash during the nine months ended September 30, 2024 as compared to 63.5 million cash used in investing cash flows during the same period in 2023. The increase of 100.2 million in cash from investing activities was primarily due to 186.1 million in proceeds received from the sale of MSB, which was partially offset by a decrease of 69.8 million from proceeds of sale of other assets as compared to the same period in 2023. 
+ Financing cash flows - Financing activities used 522.5 million and 276.7 million during the nine months ended September 30, 2024 and 2023, respectively. The increase of 245.8 million in cash used by financing activities was primarily due to an increase of 180.0 million in share repurchases, an increase in dividends paid of 42.9 million, and an increase of payments related to taxes withheld on share-based compensation of 32.5 million during the nine months ended September 30, 2024. 
+ Debt and Liquidity 
+ We are committed to maintaining a capital structure that provides sufficient cash resources to support future operating and investment plans. We maintain a level of liquidity sufficient to allow us to meet our cash needs in both the short term and long term. 
+ Availability of borrowings under the Revolving Credit Facility is reduced by the outstanding letters of credit issued against the facility. As of September 30, 2024, there were no letters of credit outstanding, and our availability of borrowings under the Revolving Credit Facility was 1,250.0 million. 
+ Credit Ratings - Our credit ratings with Standard and Poor s S P are BBB- for our long-term unsecured, guaranteed debt (2021 Notes) and BBB- for our 2012 and 2020 long-term unsecured debt (the 2012 and 2020 Private Placement Notes). Our credit rating with Moody s is Ba1 for our long-term unsecured, guaranteed debt. See Note 12 for further details regarding our debt. 
+ On March 7, 2024, S P upgraded TechnipFMC to investment grade, raising its rating to BBB- from BB+ for both the issuer credit as well as the issue-level ratings on the Company s senior unsecured notes. On June 27, 2024, Fitch assigned a first-time investment grade long-term issuer default rating of BBB- to TechnipFMC. As a result of the S P and Fitch investment grade ratings and the satisfaction of certain other conditions precedent, the Investment Grade Debt Rating (as defined in the Credit Agreement) has occurred and the collateral securing the Credit Agreement and the Performance LC Credit Agreement was released and certain negative covenants no longer apply to the Company. 
+ 39 
+
+On February 20, 2024, April 23, 2024 and July 23, 2024, our Board of Directors authorized and declared a quarterly cash dividend of 0.05 per share. The cash dividends of 0.05 per share were paid on March 28, 2024, June 5, 2024, and September 4, 2024 to shareholders of record as of the close of business on the New York Stock Exchange on March 19, 2024, May 21, 2024, and August 20, 2024, respectively. The cash dividends paid during the three and nine months ended September 30, 2024 were 21.5 million and 64.7 million, respectively. We intend to pay dividends on a quarterly basis, and these dividends represent 0.20 per share on an annualized basis. 
+ On October 23, 2024, the Company announced that its Board of Directors authorized and declared a quarterly cash dividend of 0.05 per share, payable on December 4, 2024 to shareholders of record as of the close of business on the New York Stock Exchange on November 19, 2024. The ex-dividend date is November 19, 2024. 
+ On July 26, 2023, our Board of Directors authorized an additional share repurchase of up to 400.0 million. Together with the then existing program, our total share repurchase authorization was increased to 800.0 million of our outstanding ordinary shares under our share repurchase program. Pursuant to this share repurchase program, we repurchased 330.1 million of ordinary shares during the nine months ended September 30, 2024. 
+ The Board of Directors also authorized additional share repurchase of up to 1.0 billion on October 23, 2024. Together with the existing program, the Company s remaining authorization allows for repurchases up to 1.2 billion, representing more than 10 of the Company s outstanding shares as of October 23, 2024. 
+ Since the initial share repurchase authorization in July 2022, we have purchased an aggregate amount of 635.4 million of ordinary shares through September 30, 2024. Based upon the remaining repurchase authority of 164.6 million and the closing stock price as of September 30, 2024, approximately 6.3 million ordinary shares could be subject to repurchase. All shares repurchased were immediately cancelled. 
+ Credit Risk Analysis 
+ For the purposes of mitigating the effect of the changes in exchange rates, we hold derivative financial instruments. Valuations of derivative assets and liabilities reflect the fair value of the instruments, including the values associated with counterparty risk. These values must also take into account our credit standing, thus including the valuation of the derivative instrument and the value of the net credit differential between the counterparties to the derivative contract. Adjustments to our derivative assets and liabilities related to credit risk were not material for any period presented. 
+ The income approach was used as the valuation technique to measure the fair value of foreign currency derivative instruments on a recurring basis. This approach calculates the present value of the future cash flow by measuring the change from the derivative contract rate and the published market indicative currency rate, multiplied by the contract notional values. Credit risk is then incorporated by reducing the derivative s fair value in asset positions by the result of multiplying the present value of the portfolio by the counterparty s published credit spread. Portfolios in a liability position are adjusted by the same calculation; however, a spread representing our credit spread is used. 
+ Our credit spread, and the credit spread of other counterparties not publicly available, are approximated using the spread of similar companies in the same industry, of similar size, and with the same credit rating. See Notes 17 and 18 for further details. 
+ At this time, we have no credit-risk-related contingent features in our agreements with the financial institutions that would require us to post collateral for derivative positions in a liability position. 
+ Financial Position Outlook 
+ We are committed to a strong balance sheet. We continue to maintain sufficient liquidity to support the needs of the business through growth, cyclicality, and unforeseen events. We continue to maintain and drive sustainable leverage to preserve access to capital throughout the cycle. Our capital expenditures can be adjusted and managed to match market demand and activity levels. Projected capital expenditures do not include all contingent capital that may be needed to respond to contract awards. In maintaining our commitment to sustainable leverage and liquidity, we expect to be able to continue to generate cash flow available for investment in growth and distribution to shareholders through the business cycle. 
+ 40 
+
+CRITICAL ACCOUNTING ESTIMATES 
+ Refer to our Annual Report on Form 10-K for the year ended December 31, 2023 for a discussion of our critical accounting estimates. During the nine months ended September 30, 2024, there were no changes to our identified critical accounting estimates. 
+ 
+ OTHER MATTERS 
+ On June 25, 2019, we announced a global resolution to pay a total of 301.3 million to the U.S. Department of Justice DOJ ), the SEC, and Brazilian authorities (Federal Prosecution Service MPF )) and the Comptroller General of Brazil CGU and the Attorney General of Brazil AGU to resolve these anti-corruption investigations related to historic conduct by Technip S.A. in Brazil and historic conduct by FMC Technologies concerning services provided by a vendor, Unaoil S.A.M. We were not required to have a monitor and instead, provided reports on our anti-corruption program to the Brazilian and U.S. authorities for two and three years, respectively. 
+ As part of this resolution, we entered into a three-year Deferred Prosecution Agreement DPA with the DOJ related to charges of conspiracy to violate the FCPA related to conduct in Brazil and with Unaoil. In addition, Technip USA, Inc., a U.S. subsidiary, pled guilty to one count of conspiracy to violate the FCPA related to conduct in Brazil. We also consented to the entry of an Administrative Order issued by the SEC related to Unaoil. 
+ In Brazil, on June 25, 2019, our subsidiaries Technip Brasil - Engenharia, Instala es E Apoio Mar timo Ltda., and Flexibr s Tubos Flex veis Ltda. entered into leniency agreements with both the MPF and the CGU/AGU. We made, as part of those agreements, certain enhancements to the compliance programs in Brazil during the two-year self-reporting period, which aligned with our commitment to cooperation and transparency with the compliance community in Brazil and globally. 
+ On December 8, 2022, the Company received notice of the official release from all obligations and charges by CGU, having successfully completed all of the self-reporting requirements in the leniency agreements and the case was closed. On December 27, 2022, the DOJ filed a Motion to Dismiss the charges against TechnipFMC related to conspiracy to violate the FCPA, noting to the Court that the Company had fully met and completed all of its obligations under the DPA. The Dismissal Order was signed by the Court on January 4, 2023, thereby closing the case. All obligations to regulatory authorities related to the enforcement matters in the United States and Brazil have been completed and the Company has been unconditionally released by both jurisdictions. 
+ As previously disclosed, we have also resolved an anti-corruption investigation by French authorities (the Parquet National Financier PNF )). On June 22, 2023, the Company, through its subsidiary Technip UK Limited, along with Technip Energies SAS, a subsidiary of Technip Energies NV, reached a resolution with the PNF of all outstanding matters, including its investigations into historical projects in Equatorial Guinea, Ghana, and Angola. The resolution took the form of a convention judiciaire d'interet public CJIP ), which does not involve any admission of liability or guilt. 
+ Under the terms of the CJIP, Technip UK, and Technip Energies France will pay a public interest fine of 154.8 million and 54.1 million, respectively, for a total of 208.9 million. Under the companies separation agreements, TechnipFMC is responsible for 179.45 million to be paid in installments through July 2024, and Technip Energies is responsible for the remaining 29.45 million. During the three months ended June 30, 2023, we recorded an incremental liability of 126.5 million. After making all scheduled installment payments of 24.7 million, 51.6 million, 51.6 million, and 51.6 million on July 13, 2023, January 15, 2024, April 8, 2024, and July 10, 2024, respectively, we have no further outstanding balance as of September 30, 2024. 
+ TechnipFMC fully cooperated with the PNF and was not required to retain a monitor. The CJIP received final approval by the President of the Tribunal Judiciaire of Paris at a hearing on June 28, 2023. 
+ All obligations to PNF related to the enforcement matters in Equatorial Guinea, Ghana, and Angola have been completed and the Company has been unconditionally released by PNF. 
+ 
+ ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ For quantitative and qualitative disclosures about market risk affecting the Company, see Part II, Item 7A, Quantitative and Qualitative Disclosures About Market Risk, in our Annual Report on Form 10-K for the year ended December 31, 2023. Our exposure to market risk has not changed materially since December 31, 2023. 
+ 41 
+
+ITEM 4. CONTROLS AND PROCEDURES 
+ Evaluation of Disclosure Controls and Procedures 
+ As of September 30, 2024, under the direction of our Chief Executive Officer CEO and Chief Financial Officer CFO ), we have evaluated the effectiveness of our disclosure controls and procedures, as defined in Rule 13a-15(e) and 15d-15(e) under the Exchange Act. Based upon this evaluation, our CEO and CFO have concluded that, as of the period covered by this report, our disclosure controls and procedures were effective with respect to (i) the accumulation and communication to our management, including our CEO and our CFO, of information required to be disclosed by us in the reports that we submit under the Exchange Act, and (ii) the recording, processing, summarizing and reporting of such information within the time periods specified in the SEC's rules and forms. 
+ Changes in Internal Controls over Financial Reporting 
+ There were no changes in our internal control over financial reporting during the three months ended September 30, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 42 
+
+PART II - OTHER INFORMATION 
+ 
+ ITEM 1. LEGAL PROCEEDINGS 
+ We are involved in various pending or potential legal actions or disputes in the ordinary course of our business. These actions and disputes can involve our agents, suppliers, clients, and joint venture partners and can include claims related to payment of fees, service quality, and ownership arrangements, including certain put or call options. Management is unable to predict the ultimate outcome of these actions because of their inherent uncertainty. However, management believes that the most probable, ultimate resolution of these matters will not have a material adverse effect on our condensed consolidated financial position, results of operations or cash flows. 
+ 
+ ITEM 1A. RISK FACTORS 
+ As of the date of this filing, there have been no material changes or updates to our risk factors that were previously disclosed in Part I, Item 1A of our Annual Report on Form 10-K for the year ended December 31, 2023. 
+ 
+ ITEM 2. UNREGI STERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+ We had no unregistered sales of equity securities during the three months ended September 30, 2024. 
+ The following table summarizes repurchases of our ordinary shares during the three months ended September 30, 2024: 
+ ISSUER PURCHASES OF EQUITY SECURITIES 
+ Period Total Number of 
+ Shares 
+ Purchased (a) 
+ Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs Maximum Number 
+ of Shares That May 
+ Yet Be Purchased 
+ Under the Plans or 
+ Programs (b) 
+ July 1, 2024 to July 31, 2024 August 1, 2024 to August 31, 2024 September 1, 2024 to September 30, 2024 2,987,453 26.77 2,987,453 6,274,051 Total 2,987,453 26.77 2,987,453 
+ (a) In July 2023, the Board of Directors authorized additional share repurchase of up to 400.0 million. Together with the then-existing program, the Company s total share repurchase authorization was increased to 800.0 million. For the three months ended September 30, 2024, we repurchased 2,987,453 shares for a total cost of 80.0 million at an average price of 26.77 per share. 
+ (b) Based upon the remaining repurchase authority and the closing stock price as of the last trading date of the respective period. 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES 
+ None. 
+ 
+ ITEM 4. MINE SAFETY DISCLOSURES 
+ None. 
+ 
+ ITEM 5. OTHER INFORMATION 
+ None. 
+ 43 
+
+ITEM 6. EXHIBITS 
+ Exhibit Number Exhibit Description 31.1 Certification of Chief Executive Officer Pursuant to Rule 13a-14(a) and Rule 15d-14(a). 
+ 31.2 Certification of Chief Financial Officer Pursuant to Rule 13a-14(a) and Rule 15d-14(a). 
+ 32.1 Certification of Chief Executive Officer Under Section 906 of the Sarbanes-Oxley Act of 2002, 18 U.S.C. 1350. 
+ 32.2 Certification of Chief Financial Officer Under Section 906 of the Sarbanes-Oxley Act of 2002, 18 U.S.C. 1350. 
+ 101.INS XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 
+ 101.SCH Inline XBRL Taxonomy Extension Schema Document. 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document. 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document. 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document. 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101). 
+ Furnished herewith. 
+
+44 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ TechnipFMC plc 
+ (Registrant) 
+ /s/ David Light David Light Senior Vice President, Controller, and Chief Accounting Officer (Chief Accounting Officer and a Duly Authorized Officer) 
+ Date: October 24, 2024 
+
+45 
+
+<EX-31.1>
+ 2
+ technipfmc2024930ex311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO RULE 13A-14(A) AND RULE 15D-14(A) 
+ OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED 
+ 
+ I, Douglas J. Pferdehirt, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q for the period ended September 30, 2024 of TechnipFMC plc (the registrant 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date October 24, 2024 
+ s DOUGLAS J. PFERDEHIRT Douglas J. Pferdehirt Executive Chairman and Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ technipfmc2024930ex312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO RULE 13A-14(A) AND RULE 15D-14(A) 
+ OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED 
+ 
+ I, Alf Melin, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q for the period ended September 30, 2024 of TechnipFMC plc (the registrant 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date October 24, 2024 
+ s ALF MELIN Alf Melin Executive Vice President and Chief Financial Officer (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ technipfmc2024930ex321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ UNDER SECTION 906 OF THE SARBANES-OXLEY 
+ ACT OF 2002, 18 U.S.C. SECTION 1350 
+ 
+ I, Douglas J. Pferdehirt, Executive Chairman and Chief Executive Officer of TechnipFMC plc (the Company ), do hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge 
+ 
+ (a) The Quarterly Report on Form 10-Q of the Company for the period ended September 30, 2024, as filed with the Securities and Exchange Commission (the Report ), fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ 
+ (b) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date October 24, 2024 
+ 
+ s DOUGLAS J. PFERDEHIRT Douglas J. Pferdehirt Executive Chairman and Chief Executive Officer (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ technipfmc2024930ex322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ UNDER SECTION 906 OF THE SARBANES-OXLEY 
+ ACT OF 2002, 18 U.S.C. SECTION 1350 
+ 
+ I, Alf Melin, Executive Vice President and Chief Financial Officer of TechnipFMC plc (the Company ), do hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge 
+ 
+ (a) The Quarterly Report on Form 10-Q of the Company for the period ended September 30, 2024, as filed with the Securities and Exchange Commission (the Report ), fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ 
+ (b) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Date October 24, 2024 
+ 
+ s ALF MELIN Alf Melin 
+ Executive Vice President and Chief Financial Officer 
+ (Principal Financial Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ fti-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ fti-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ fti-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ fti-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ fti-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

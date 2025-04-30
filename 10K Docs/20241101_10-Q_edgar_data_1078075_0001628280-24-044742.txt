@@ -1,0 +1,903 @@
+<Header>
+<FileStats>
+    <FileName>20241101_10-Q_edgar_data_1078075_0001628280-24-044742.txt</FileName>
+    <GrossFileSize>8428663</GrossFileSize>
+    <NetFileSize>144584</NetFileSize>
+    <NonText_DocumentType_Chars>1587421</NonText_DocumentType_Chars>
+    <HTML_Chars>2948640</HTML_Chars>
+    <XBRL_Chars>1904012</XBRL_Chars>
+    <XML_Chars>1688687</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001628280-24-044742.hdr.sgml : 20241101
+<ACCEPTANCE-DATETIME>20241101160400
+ACCESSION NUMBER:		0001628280-24-044742
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		98
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241101
+DATE AS OF CHANGE:		20241101
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NETSCOUT SYSTEMS INC
+		CENTRAL INDEX KEY:			0001078075
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				042837575
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-26251
+		FILM NUMBER:		241419024
+
+	BUSINESS ADDRESS:	
+		STREET 1:		310 LITTLETON ROAD
+		CITY:			WESTFORD
+		STATE:			MA
+		ZIP:			01886
+		BUSINESS PHONE:		978-614-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		310 LITTLETON ROAD
+		CITY:			WESTFORD
+		STATE:			MA
+		ZIP:			01886
+
+</SEC-Header>
+</Header>
+
+ 0001628280-24-044742.txt : 20241101
+
+10-Q
+ 1
+ ntct-20240930.htm
+ 10-Q
+
+ntct-20240930 
+ 
+ Table of Contents 
+
+ UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, DC 20549 
+ FORM 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from to 
+
+Commission file number 
+
+(Exact Name of Registrant as Specified in Its Charter) 
+ 
+ (State or Other Jurisdiction of Incorporation or Organization) (IRS Employer Identification No.) 
+ , , 
+ ) 
+ 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered: 
+ 
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act. (Check one): 
+ Accelerated filer 
+ Non-accelerated filer Smaller reporting company 
+ Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ The number of shares outstanding of the registrant's common stock, par value 0.001 per share, as of October 24, 2024 was . 
+
+Table of Contents 
+
+ NETSCOUT SYSTEMS, INC. 
+ FORM 10-Q 
+ FOR THE QUARTER ENDED SEPTEMBER 30, 2024 
+ TABLE OF CONTENTS 
+ CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING STATEMENTS 1 
+ PART I: FINANCIAL INFORMATION 
+ Item 1. Unaudited Financial Statements: 
+ Consolidated Balance Sheets: At September 30, 2024 and March 31, 2024 
+ 2 
+ Consolidated Statements of Operations: For the three and six months ended September 30, 2024 and 2023 
+ 3 
+ Consolidated Statements of Comprehensive Income (Loss): For the three and six months ended September 30, 2024 and 2023 
+ 4 
+ Consolidated Statements of Stockholder's Equity: For the three and six months ended September 30, 2024 and 2023 
+ 5 
+ Consolidated Statements of Cash Flows: For the six months ended S e ptember 30, 2024 and 2023 
+ 7 
+ Notes to Consolidated Financial Statements 
+ 8 
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 26 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 44 
+ Item 4. Controls and Procedures 
+ 44 
+ PART II: OTHER INFORMATION 
+ Item 1. Legal Proceedings 
+ 45 
+ Item 1A. Risk Factors 
+ 45 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 45 
+ Item 3. Defaults Upon Senior Securities 45 
+ Item 4. Mine Safety Disclosures 45 
+ Item 5. Other Information 45 
+ Item 6. Exhibits 
+ 46 
+ SIGNATURES 
+ 47 
+
+Unless the context suggests otherwise, references in this Quarterly Report on Form 10-Q, or Quarterly Report, to "NetScout," the "Company," "we," "us," and "our" refer to NetScout Systems, Inc. and, where appropriate, our consolidated subsidiaries. 
+ 
+ NetScout, the NetScout logo, Adaptive Service Intelligence and other trademarks or service marks of NetScout appearing in this Quarterly Report are the property of NetScout Systems, Inc. and/or its subsidiaries and/or affiliates in the United States and/or other countries. Any third-party trade names, trademarks and service marks appearing in this Quarterly Report are the property of their respective holders. 
+
+Table of Contents 
+
+Cautionary Statement Concerning Forward-Looking Statements 
+ 
+ In addition to historical information, the following discussion and other parts of this Quarterly Report contain forward-looking statements under Section 21E of the Securities Exchange Act of 1934, as amended, and other federal securities laws. These forward-looking statements involve risks and uncertainties. These statements relate to future events or our future financial performance and are identified by terminology such as "may," "will," "could," "should," "expects," "plans," "intends," "seeks," "anticipates," "believes," "estimates," "potential," or "continue," or the negative of such terms or other comparable terminology. These statements are only predictions. You should not place undue reliance on these forward-looking statements. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties, and other factors, including those described in Part I, Item 1A. Risk Factors in our Annual Report on Form 10-K for our fiscal year ended March 31, 2024, filed with the Securities and Exchange Commission, and elsewhere in this Quarterly Report. These factors may cause our actual results to differ materially from any forward-looking statement. Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Quarterly Report on Form 10-Q. We cannot assure you that the results, events, and circumstances reflected in the forward-looking statements will be achieved or occur, and actual results, events, or circumstances could differ materially from those described in the forward-looking statements. 
+ The forward-looking statements made in this Quarterly Report on Form 10-Q relate only to events as of the date on which the statements are made. We undertake no obligation to update any forward-looking statements made in this Quarterly Report on Form 10-Q to reflect events or circumstances after the date of this Quarterly Report on Form 10-Q or to reflect new information or the occurrence of unanticipated events, except as required by law. We may not actually achieve the plans, intentions, or expectations disclosed in our forward-looking statements and you should not place undue reliance on our forward-looking statements. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures, or investments we may make. 
+ 
+ 1 
+
+Table of Contents 
+
+PART I: FINANCIAL INFORMATION 
+ 
+ Item 1. Unaudited Financial Statements 
+ 
+ NetScout Systems, Inc. 
+ Consolidated Balance Sheets 
+ (In thousands, except share data) 
+ 
+ September 30, 2024 March 31, 2024 (Unaudited) Assets Current assets: Cash and cash equivalents Marketable securities and investments Accounts receivable and unbilled costs, net of allowance for credit allowances of and a t September 30, 2024 and March 31, 2024, respectively 
+ Inventories and deferred costs Prepaid income taxes Prepaid expenses and other current assets Total current assets Fixed assets, net Operating lease right-of-use assets Goodwill Intangible assets, net Deferred income taxes Long-term marketable securities Other assets Total assets Liabilities and Stockholders' Equity Current liabilities: Accounts payable Accrued compensation Accrued other Income taxes payable Deferred revenue and customer deposits Current portion of operating lease liabilities Total current liabilities Other long-term liabilities Deferred tax liability Accrued long-term retirement benefits Long-term deferred revenue and customer deposits Operating lease liabilities, net of current portion Long-term debt Total liabilities Commitments and contingencies (Note 14) 
+ par value: 
+ shares authorized; shares issued or outstanding at September 30, 2024 and March 31, 2024 
+ Common stock, par value: 
+ shares authoriz ed; and shares issued and and shares outstanding at September 30, 2024 and March 31, 2024, respectively 
+ Additional paid-in capital Accumulated other comprehensive income Treasury stock at cost, a nd share s at September 30, 2024 and March 31, 2024, respectively 
+ ) ) (Accumulated deficit) retained earnings ) Total stockholders' equity Total liabilities and stockholders' equity 
+ The accompanying notes are an integral part of these consolidated financial statements. 
+ 2 
+
+Table of Contents 
+
+ NetScout Systems, Inc. 
+ Consolidated Statements of Operations 
+ (In thousands, except per share data) 
+ (Unaudited) 
+ 
+ Three Months Ended Six Months Ended September 30, September 30, 2024 2023 2024 2023 Revenue: Product Service Total revenue Cost of revenue: Product Service Total cost of revenue Gross profit Operating expenses: Research and development Sales and marketing General and administrative Amortization of acquired intangible assets Restructuring charges Goodwill impairment Gain on divestiture of a business ) ) Total operating expenses Income (loss) from operations ) Interest and other income (expense), net: Interest income Interest expense ) ) ) ) Other income (expense), net ) Total interest and other income (expense), net ) Income (loss) before income tax expense (benefit) ) Income tax expense (benefit) ) Net income (loss) ) Basic net income (loss) per share ) Diluted net income (loss) per share ) Weighted average common shares outstanding used in computing: Net income (loss) per share - basic Net income (loss) per share - diluted 
+ The accompanying notes are an integral part of these consolidated financial statements. 
+ 3 
+
+Table of Contents 
+
+ NetScout Systems, Inc. 
+ Consolidated Statements of Comprehensive Income (Loss) 
+ (In thousands) 
+ (Unaudited) 
+ 
+ Three Months Ended Six Months Ended September 30, September 30, 2024 2023 2024 2023 Net income (loss) ) Other comprehensive income (loss): Cumulative translation adjustments ) ) Changes in market value of investments: Changes in unrealized gains (losses), net of taxes (benefit) of , , and ), respectively 
+ ) Total net change in market value of investments ) Changes in market value of derivatives: Changes in market value of derivatives, net of taxes (benefit) of , ), , and ), respectively 
+ ) ) Reclassification adjustment for net (losses) gains included in net income (loss), net of (benefit) taxes of ), ), , and ), respectively 
+ ) ) ) Total net change in market value of derivatives ) ) Other comprehensive income (loss) ) ) Total comprehensive income (loss) ) 
+ The accompanying notes are an integral part of these consolidated financial statements. 
+ 4 
+
+Table of Contents 
+
+ NetScout Systems, Inc. 
+ Consolidated Statements of Stockholders' Equity 
+ (In thousands, except share data) 
+ (Unaudited) Three Mo nths Ended September 30, 2024 
+ Common Stock Voting Additional Paid In Capital Accumulated Other Comprehensive Income Treasury Stock (Accumulated Deficit) Retained Earnings Total Stockholders' Equity Shares Par Value Shares Stated Value Balance, June 30, 2024 ) ) Net income Unrealized net investment gains Unrealized net gains on derivative financial instruments Cumulative translation adjustments Issuance of common stock pursuant to vesting of restricted stock units Stock-based compensation expense for restricted stock units granted to employees Issuance of common stock under employee stock purchase plan Repurchase of treasury stock ) ) Balance, September 30, 2024 ) ) 
+ 
+ Six Mo nths Ended September 30, 2024 
+ Common Stock Voting Additional Paid In Capital Accumulated Other Comprehensive Income Treasury Stock (Accumulated Deficit) Retained Earnings Total Stockholders' Equity Shares Par Value Shares Stated Value Balance, March 31, 2024 ) Net loss ) ) Unrealized net investment gains Unrealized net gains on derivative financial instruments Cumulative translation adjustments Issuance of common stock pursuant to vesting of restricted stock units Stock-based compensation expense for restricted stock units granted to employees Issuance of common stock under employee stock purchase plan Repurchase of treasury stock ) ) Balance, September 30, 2024 ) ) 
+ 
+ The accompanying notes are an integral part of these consolidated financial statements. 
+
+5 
+
+Table of Contents 
+
+NetScout Systems, Inc. 
+ Consolidated Statements of Stockholders' Equity 
+ (In thousands, except share data) 
+ (Unaudited) 
+ Three Mo nths Ended September 30, 2023 
+ Common Stock Voting Additional Paid In Capital Accumulated Other Comprehensive Income (loss) Treasury Stock Retained Earnings Total Stockholders' Equity Shares Par Value Shares Stated Value Balance, June 30, 2023 ) Net income Unrealized net investment gains Unrealized net losses on derivative financial instruments ) ) Cumulative translation adjustments ) ) Issuance of common stock pursuant to vesting of restricted stock units Stock-based compensation expense for restricted stock units granted to employees Issuance of common stock under employee stock purchase plan Repurchase of treasury stock ) ) Balance, September 30, 2023 ) 
+
+Six Mo nths Ended September 30, 2023 
+ Common Stock Voting Additional Paid In Capital Accumulated Other Comprehensive Income (loss) Treasury Stock Retained Earnings Total Stockholders' Equity Shares Par Value Shares Stated Value Balance, March 31, 2023 ) Net income Unrealized net investment losses ) ) Unrealized net losses on derivative financial instruments ) ) Cumulative translation adjustments ) ) Issuance of common stock pursuant to vesting of restricted stock units Stock-based compensation expense for restricted stock units granted to employees Issuance of common stock under employee stock purchase plan Repurchase of treasury stock ) ) Balance, September 30, 2023 ) 
+ 
+ The accompanying notes are an integral part of these consolidated financial statements. 
+
+6 
+
+Table of Contents 
+
+ NetScout Systems, Inc. 
+ Consolidated Statements of Cash Flows 
+ (In thousands) 
+ (Unaudited) 
+ Six Months Ended September 30, 2024 2023 Cash flows from operating activities: Net income (loss) ) Adjustments to reconcile net income loss) to cash provided by (used in) operating activities: 
+ Depreciation and amortization Operating lease right-of-use asset amortization Gain on divestiture of a business ) Loss on disposal of fixed assets Share-based compensation expense Change in fair value of derivative investment ) Goodwill impairment Deferred income taxes ) ) Other gains ) ) Changes in assets and liabilities Accounts receivable and unbilled costs ) Inventories and deferred costs ) ) Prepaid expenses and other assets ) ) Accounts payable ) ) Accrued compensation and other expenses ) ) Operating lease liabilities ) ) Income taxes payable ) Deferred revenue ) ) Net cash provided by (used in) operating activities ) Cash flows from investing activities: Purchase of marketable securities and investments ) ) Proceeds from sales and maturity of marketable securities Purchase of fixed assets ) ) Purchase of intangible assets ) Proceeds from divestiture of a business Net cash provided by (used in) investing activities ) Cash flows from financing activities: Issuance of common stock under stock plans Treasury stock repurchases ) ) Tax withholding on restricted stock units ) ) Repayment of long-term debt ) Net cash used in financing activities ) ) Effect of exchange rate changes on cash and cash equivalents ) Net decrease in cash and cash equivalents ) ) Cash and cash equivalents, beginning of period Cash and cash equivalents, end of period Supplemental disclosures: Cash paid for interest Cash paid for income taxes Non-cash transactions: Transfers of inventory to fixed assets Additions to property, plant and equipment included in accounts payable Issuance of common stock under employee stock plans Unsettled share repurchases, included in accounts payable 
+ The accompanying notes are an integral part of these consolidated financial statements. 
+ 7 
+
+Table of Contents 
+
+ NetScout Systems, Inc. 
+ Notes to Consolidated Financial Statements 
+ (Unaudited) 
+ 
+ NOTE 1 
+ Global and Macroeconomic Conditions 
+ The Company continues to closely monitor the current global and macroeconomic conditions, including the impacts of the ongoing war in Ukraine and hostilities in the Middle East, global geopolitical tension, stock market volatility, industry-specific capital spending trends, exchange rate fluctuations, inflation, interest rates, and the risk of a recession, including the manner and extent to which they have impacted and could continue to impact its business, customers, employees, supply chain, and distribution network. The full extent of the impacts of these global and macroeconomic trends remain uncertain. It is possible that the measures taken by the governments of countries affected and the resulting economic impacts may materially and adversely affect the Company's future results of operations, cash flows and financial position as well as its customers. 
+ The Company has the responsibility to evaluate whether conditions and/or events raise substantial doubt about its ability to meet its future financial obligations as they become due within one year after the date that the financial statements are issued. The macroeconomic environment remains challenging with constrained customer spending and the Company expects this to persist for the remainder of fiscal year 2025. The Company has taken and continues to take precautionary actions to manage costs and increase productivity across the organization. This includes managing discretionary spending and hiring activities, in addition to a voluntary separation program enacted and substantially completed in the first half of fiscal year 2025. Further, based on covenant levels, the Company had as of September 30, 2024 an incremental million available under the revolving credit facility. On October 4, 2024, the Company amended and extended its Amended Credit facility, which decreased the revolving credit facility from million to million and reduced the incremental amount available under its revolving credit facility to million. See Note 20 "Subsequent Events" for more details. 
+ The Company expects net cash provided by operations combined with cash, cash equivalents, marketable securities and investments and borrowing availability under the revolving credit facility to provide sufficient liquidity to fund current obligations, capital spending, debt service requirements and working capital requirements over at least the next twelve months. 
+ 8 
+
+Table of Contents 
+
+NOTE 2 
+ 9 
+
+Table of Contents 
+
+ During the six months ended September 30, 2024, the Company recognized re ven ue of million relate d t o the Company's deferred revenue balance reported at March 31, 2024. 
+ Performance Obligations 
+ Customer contracts may include promises to transfer multiple products and services to a customer. Determining whether the products and services are considered distinct performance obligations that should be accounted for separately or as one combined performance obligation may require significant judgment. The transaction price is allocated among performance obligations in bundled contracts in an amount that depicts the relative standalone selling prices of each obligation. 
+ For contracts involving distinct hardware and software licenses, the performance obligations are satisfied at a point in time when control is transferred to the customer. For standalone maintenance and post-contract support (PCS) the performance obligation is satisfied ratably over the contract term as a stand-ready obligation. For consulting and training services, the performance obligation may be satisfied over the contract term as a stand-ready obligation, satisfied over a period of time as those services are delivered, satisfied at the completion of the service when control has transferred, or the services have expired unused. 
+ Payments for hardware, software licenses, one-year maintenance, PCS and consulting services, are typically due up front with payment terms of to days. However, the Company does have contracts pursuant to which billings occur ratably over a period of years following the transfer of control for the contracted performance obligations. Payments on multi-year maintenance, PCS and consulting services are typically due in annual installments over the contract term. The Company did not have any material variable consideration su ch as obligations for returns, refunds or warranties at September 30, 2024. 
+ At September 30, 2024, the Company had total defer red revenue of million, which represents the aggregate total contract price allocated to undelivered performance obligations. The Company expects to recognize million, or , of this revenue during the next months, and expects to recognize the remaining million, or , of this revenue thereafter. 
+ Because of NetScout's revenue recognition policies, there are circumstances for which the Company does not recognize revenue relating to sales transactions that have been billed, but the related account receivable has not been collected. While the receivable represents an enforceable obligation, the Company does not believe its right to payment is unconditional, therefore for balance sheet presentation purposes, the Company has not recognized the deferred revenue or the related account receivable and no amounts appear in the consolidated balance sheets for such transactions because control of the underlying deliverable has not transferred. The aggregate amount of unrecognized accounts receivable and deferred revenue was million and million at September 30, 2024 and March 31, 2024, respectively. 
+ NetScout expects that the amount of billed and unbilled deferred revenue will change from quarter to quarter for several reasons, including the specific timing, duration and size of large customer support and service agreements, varying billing cycles of such agreements, th e specific timing of customer renewals, and foreign currency fluctuations. The Company did not have material significant financing components, or variable consideration or performance obligations satisfied in a prior period recognized during the six months ended September 30, 2024. 
+ Contract Balances 
+ The Company may receive payments from customers based on billing schedules as established by the Company's contracts. Contract assets relate to performance obligations where control has transferred to the customer in advance of scheduled billings. The Company records unbilled accounts receivable representing the right to consideration in exchange for goods or services that have been transferred to a customer conditional on the passage of time. Deferred revenue relates to scenarios where billings with an unconditional right to payment occur before all performance obligations are delivered or payments are received in advance of performance under the contract. 
+ Costs to Obtain Contracts 
+ The Company has determined that the only significant incremental costs incurred to obtain contracts with customers within the scope of Topic 606 are sales commissions paid to its employees. Sales commissions are recorded as an asset and amortized to expense ratably over the remaining performance periods of the related contracts with remaining performance obligations. The Company expenses costs as incurred for sales commissions when the amortization period would have been one year or less. 
+ At September 30, 2024, t he consolidated balance sheet included million in assets related to sales commissions to be expensed in future periods. A balance of million was included in prepaid expenses and other current assets, and a balance 
+ 10 
+
+Table of Contents 
+
+ million was included in other assets in the Company's consolidated balance sheet at September 30, 2024. At March 31, 2024, the consolidated balance sheet included million in assets related to sales commissions to be expensed in future periods. A balance of million was included in prepaid expenses and other current assets, and a balance of million was included in other assets in the Company's consolidated balance sheet at March 31, 2024. 
+ During the three and six months ended September 30, 2024 and 2023, respectively, the Company recognized million, million, million and million of amortization related to this sales commission asset, which is included in the sales and marketing expense line in the Company's consolidated statements of operations. 
+ Allowance for Credit Losses 
+ The Company continually monitors collections from its customers. The Company evaluates the collectability of its accounts receivable and determines the appropriate allowance for credit losses based on a combination of factors, including but not limited to, analysis of the aging schedules, past due balances, historical collection experience and prevailing economic conditions. 
+ Additions resulting in charges to operations Recoveries of previously reserved balances ) Deductions due to write-offs ) Balance at September 30, 2024 
+
+NOTE 3 
+
+NOTE 4 
+ s hares, establish a minimum vesting requirement for awards granted on or after September 10, 2020, and change the "fungible share counting ratio" used to calculate the increase or reduction in the number of shares available for issuance under the 2019 First Amended Plan. 
+ On August 24, 2022, the Company's stockholders approved an amendment and restatement of the 2019 Equity Incentive Plan (2019 Second Amended Plan) to increase the number of shares reserved for issuance by shares, and change the "fungible share counting ratio" used to calculate the increase or reduction in the number of shares available for issuance under the 2019 Second Amended Plan. 
+ On September 14, 2023, the Company's stockholders approved an amendment and restatement to the 2019 First Amended Plan (2019 Third Amended Plan) to further increase the number of shares reserved for issuance by shares and 
+ 11 
+
+Table of Contents 
+
+ . At September 12, 2024, the effective date of the 2019 Fourth Amended Plan, there was a total of shares reserved for issuance under the 2019 Fourth Amended Plan, which consisted of new shares plus shares that remained available for grant under the 2019 Third Amended Plan . The Company refers to the 2019 Plan, 2019 First Amended Plan, 2019 Second Amended Plan, 2019 Third Amended Plan and 2019 Fourth Amended Plan collectively as the "Amended 2019 Plan". At September 30, 2024 , an aggrega te of shar es remained available for grant under the Amended 2019 Plan. 
+ Periodically, the Company grants share-based awards to employees, officers, and directors of the Company and its subsidiaries. Additionally, the Company periodically grants performance-based restricted stock units to certain executive officers that vest based upon the Company's total shareholder return as compared to the Russell 2000 Index over a period. The performance-based restricted stock units are valued using the Monte Carlo Simulation model. The measurement and recognition of compensation expense is based on estimated fair values for all share-based payment awards made to its employees and directors. Share-based award grants are generally measured at fair value on the date of grant based on the number of shares granted and the quoted price of the Company's common stock. Such value is recognized as a cost of revenue or an operating expense over the corresponding vesting period. 
+ Cost of service revenue Research and development Sales and marketing General and administrative 
+ Employee Stock Purchase Plan The Company maintains the ESPP for all eligible employees as described in the Company's Annual Report on Form 10-K for the year ended March 31, 2024. Under the ESPP, shares of the Company's common stock may be purchased on the last day of each bi-annual offering period at of the fair value on the last day of such offering period. The offering periods run from March 1st through August 31st and from September 1st through the last day of February each year. During the six months ended September 30, 2024, employees purchased shares under the ESPP and the fair value per share was . 
+ 
+ NOTE 5 
+ 12 
+
+Table of Contents 
+
+ ) Commercial paper Certificates of deposit Total short-term marketable securities ) U.S. government and municipal obligations Total long-term marketable securities Total marketable securities 
+ The following is a summary of marketable securities held by NetScout at March 31, 2024, classified as short-term and long-term (in thousands): 
+ Amortized Cost Unrealized Losses Fair Value Type of security: U.S. government and municipal obligations ) Commercial paper Certificates of deposit Total short-term marketable securities ) U.S. government and municipal obligations ) Total long-term marketable securities ) Total marketable securities ) 
+ Due after 1 year through 5 years 
+ Investments 
+ In February 2023, the Company entered into a forward share purchase agreement with Napatech A/S (Napatech), a publicly traded Danish company registered on the Oslo stock exchange, to purchase approximately million shares of Napatech's common stock for million. In April 2023, the Company settled the forward share purchase contract with Napatech in exchange for approximately million shares of Napatech's common stock and recorded a million change in the fair value of the derivative instrument in other income (expense), net within the Company's consolidated statement of operations during the six months ended September 30, 2023. As part of the agreement, the Company received the right to designate a representative to be nominated for election to the Napatech Board of Directors, which was approved by Napatech's Nomination Committee in April 2023. The Company accounts for this investment under the equity method and has elected to apply the fair value option to the investment. The Company records the investment at fair value at the end of each period based on the closing price of Napatech's stock and any change in fair value during the period is recorded in other income (expense), net within the Company's consolidated statement of operations. At September 30, 2024 and March 31, 2024, the fair value of the investment in Napatech was million and million, respectively, and was included in marketable securities and investments in the Company's consolidated balance sheet. During the six months ended September 30, 2024 and 2023, the Company recognized a million increase and a million increase, respectively, in the fair value of the equity investment 
+ 13 
+
+Table of Contents 
+
+ million. For the six months ended September 30, 2023, the unrealized loss related to foreign currency translation on the equity investment in Napatech was . 
+ 
+ NOTE 6 
+ 
+ U.S. government and municipal obligations Commercial paper Certificates of deposit Equity investment in Napatech Derivative financial instruments LIABILITIES: Derivative financial instruments ) ) ) ) 
+ Fair Value Measurements at March 31, 2024 Level 1 Level 2 Level 3 Total ASSETS: Cash and cash equivalents U.S. government and municipal obligations Commercial paper Certificates of deposit Equity investment in Napatech Derivative financial instruments LIABILITIES: Derivative financial instruments ) ) ) ) 
+ This hierarchy requires the Company to use observable market data, when available, and to minimize the use of unobservable inputs when determining fair value. On a recurring basis, the Company measures certain financial assets and liabilities at fair value, including marketable securities and derivative financial instruments. 
+ The Company's Level 1 investments are classified as such because they are valued using quoted market prices or alternative pricing sources with reasonable levels of price transparency. 
+ The Company's Level 2 investments are classified as such because they are valued using observable inputs other than Level 1 quoted prices that are observable for the asset or liability, either directly or indirectly, including quoted prices for similar assets or liabilities in active markets, or quoted prices for identical or similar assets in markets that are not active. 
+ 
+ 14 
+
+Table of Contents 
+
+ NOTE 7 
+ Work in process Finished goods Deferred costs 
+ 
+ NOTE 8 - 
+ million, inclusive of a working capital adjustment. The Company recorded a gain of million on the divestiture during the three and six months ended September 30, 2023. 
+ The Company determined that the sale of the TO Business did not represent a strategic shift and will not have a major effect on its consolidated results of operations, financial position or cash flow. Accordingly, the Company has not presented the sale as a discontinued operation in the consolidated financial statements. 
+ 
+ NOTE 9 
+ reporting unit. Goodwill is tested for impairment at a reporting unit level at least annually, as of January 31, or on an interim basis if an event occurs or circumstances change (a "Triggering Event") that would, more likely than not, reduce the fair value of the reporting unit below its carrying value. 
+ During fiscal year 2024, the Company recorded million in goodwill impairment charges as a result of the sustained decline in the Company's stock price and overall market capitalization. During the first quarter of fiscal year 2025, due to the continued decrease in the Company's stock price and overall market capitalization, along with other qualitative considerations including the continued impact from the conditions in the macroeconomic environment, it was determined a Triggering Event occurred, indicating goodwill may be impaired. Accordingly, the Company conducted a quantitative impairment test of its goodwill at June 30, 2024. The Company estimated the implied fair value of its goodwill using a market approach. As a result of the quantitative impairment test performed during the first quarter of fiscal year 2025, the Company determined goodwill was impaired and recorded a goodwill impairment charge of million during the three months ended June 30, 2024. The additional impairment charge recorded in the first quarter of fiscal year 2025 was primarily due to the continued decrease in the Company's stock price from March 31, 2024 to June 30, 2024, an increase in the Company's weighted-average cost of capital, and the refinement to the expected cost synergies that could be realized by a hypothetical buyer as a result of the voluntary separation program (VSP) implemented by the Company in the first quarter of fiscal year 2025, which impacted the company-specific control premium used to determine the fair value of the reporting unit under the market approach. At September 30, 2024, the Company performed a Triggering Event assessment and concluded no event or circumstances occurred that indicated goodwill was further impaired. 
+ Throughout the remainder of the fiscal year 2025, the Company will continue to monitor relevant facts and circumstances, including future changes in its stock price. The Company may be required to record additional goodwill impairment charges. While management cannot predict if or when additional goodwill impairments may occur, future goodwill impairments could have material adverse effects on the Company's results of operations and financial condition. 
+ At September 30, 2024 and March 31, 2024, the carrying amounts of goodwill were billion and billion, respectively. The change in the carrying amount of goodwill for the six months ended September 30, 2024 was due to the impairment of goodwill, and the impact of foreign currency translation adjustments related to asset balances that are recorded in currencies other than the U.S. Dollar. 
+ 15 
+
+Table of Contents 
+
+ Goodwill impairment ) Foreign currency translation impact ) Balance at September 30, 2024 
+ 
+ Intangible Assets 
+ The net carrying amounts of intangible asse t s were million and million at September 30, 2024 and March 31, 2024, respectively. Intangible assets acquired in a business co mbination are recorded under the acquisition method of accounting at their estimated fair values at the date of acquisition. The Company amortizes acquired intangible assets over their estimated useful lives. 
+ The Company reviews definite-lived intangible assets for impairment when an event occurs that may indicate potential impairment. In connection with the goodwill impairment analysis performed at June 30, 2024, the Company conducted an impairment test of its definite-lived intangible assets at June 30, 2024. Based on this assessment, the Company concluded that the carrying values of the Company's definite-lived intangible assets were recoverable. At September 30, 2024, the Company performed a Triggering Event assessment and concluded no events or circumstances occurred that indicated intangible assets may be impaired. However, if future events occur or if business conditions deteriorate, the Company may be required to record an impairment loss, and or accelerate the amortization of definite-live intangible assets in the future, which could be material to its results of operations and financial condition. 
+ ) Customer relationships ) Distributor relationships and technology licenses ) Definite-lived trademark and trade name ) Core technology ) Capitalized software ) Other ) ) 
+ 
+ Intangible assets include the following amortizable intangible assets at March 31, 2024 (in thousands): 
+ Cost Accumulated Amortization Net Developed technology ) Customer relationships ) Distributor relationships and technology licenses ) Definite-lived trademark and trade name ) Core technology ) Capitalized software ) Other ) ) 
+ 
+ 16 
+
+Table of Contents 
+
+ Operating expense 
+ 2026 2027 2028 2029 Thereafter 
+
+NOTE 10 
+ , within specified guidelines through the use of forward contracts. The Company enters into foreign currency exchange contracts to hedge cash flow exposures from costs that are denominated in currencies other than the U.S. Dollar. These hedges are designated as cash flow hedges at inception. 
+ NetScout also periodically enters into forward contracts to manage exchange rate risks associated with certain third-party transactions and for which the Company does not elect hedge accounting treatment as there is no difference in the timing of gain or loss recognition on the hedging instrument and the hedged item. 
+ All of the Company's derivative instruments are utilized for risk management purposes, and the Company does not use derivatives for speculative trading purposes. These contracts will mature over the next and are expected to impact earnings on or before maturity. 
+ 17 
+
+Table of Contents 
+
+ Derivatives Not Designated as Hedging Instruments: Forward contracts 
+ (a) Notional amounts represent the gross contract/notional amount of the derivatives outstanding. 
+ ) Research and development ) Sales and marketing ) ) ) ) ) 
+ 
+ (a) The amount represents the change in fair value of derivative contracts due to changes in spot rates. 
+ (b) The amount represents reclassification from other comprehensive income to earnings that occurs when the hedged item affects earnings. 
+ 
+ The following table provides the effect that foreign exchange forward contracts designated as hedging instruments had on other comprehensive income (OCI) and results of operations for the six months ended September 30, 2024 and 2023 (in thousands): 
+ Gain (Loss) Recognized in OCI on Derivative (a) Gain (Loss) Reclassified from Accumulated OCI into Income (b) September 30, 2024 September 30, 2023 Location September 30, 2024 September 30, 2023 Forward contracts ) Research and development ) Sales and marketing ) ) ) 
+ The following table provides the effect that foreign exchange forward contracts not designated as hedging instruments had on the Company's results of operations for the six months ended September 30, 2024 and 2023 (in thousands): Gain Recognized in Income (a) Location September 30, 2024 September 30, 2023 Forward contracts General and administrative 
+ (a) The amount represents the change in fair value of derivative contracts due to changes in spot rates. 
+ 18 
+
+Table of Contents 
+
+NOTE 11 
+ , million senior secured revolving credit facility, including a letter of credit sub-facility of up to million. The Company may elect to use the credit facility for general corporate purposes (including to finance the repurchase of shares of the Company's common stock). The commitments under the Second Amended and Restated Credit Agreement will expire on July 27, 2026, and any outstanding loans will be due on that date. During the six months ended September 30, 2024, the Company repaid million of borrowings under the Second Amended and Restated Credit Agreement. At September 30, 2024, million was outstanding under the Second Amended and Restated Credit Agreement. 
+ On February 22, 2023, the Company entered into a First Amendment Agreement (First Amendment) of its Second Amended and Restated Credit Agreement with its syndicate of lenders. The Company entered into the First Amendment in order to remove and replace the LIBOR-based interest rate benchmark provisions for U.S. dollar-denominated loans with interest rate benchmark provisions for U.S. dollar-denominated loans based on a term secured overnight financing rate (SOFR). 
+ The First Amendment provides that U.S. dollar-denominated advances under the Second Amended and Restated Credit Agreement will bear interest at a term SOFR rate plus a credit spread adjustment of or an Alternate Base Rate (defined in a customary manner), at the option of the Company, plus a margin that ranges from per annum for Alternate Base Rate loans and per annum for term SOFR loans if the Company's consolidated gross leverage ratio is greater than to 1.00, down to per annum for Alternate Base Rate loans and per annum for term SOFR loans if the Company's consolidated gross leverage ratio is equal to or less than to 1.00. For the period from the delivery of the Company's financial statements for the quarter ended June 30, 2024, until the Company has delivered financial statements for the quarter ended September 30, 2024, the applicable margin will be per annum for Term Benchmark Revolving loans and per annum for Alternate Base Rate loans, and thereafter the applicable margin will vary depending on the Company's consolidated gross leverage ratio, ranging from per annum for Alternate Base Rate loans and per annum for Term Benchmark Revolving loans if the Company's consolidated gross leverage ratio is greater than to 1.00, down to per annum for Alternate Base Rate loans and per annum for Term Benchmark Revolving loans if the Company's consolidated gross leverage ratio is equal to or less than to 1.00. 
+ The Company's consolidated gross leverage ratio is the ratio of its consolidated total debt compared to its consolidated EBITDA as defined in the Second Amended and Restated Credit Agreement (adjusted consolidated EBITDA). Adjusted consolidated EBITDA includes certain adjustments, including, without limitation, adjustments relating to extraordinary, unusual or non-recurring charges, certain restructuring charges, non-cash charges, certain transaction costs and expenses and certain pro forma adjustments in connection with material acquisitions and dispositions, all as set forth in detail in the Second Amended and Restated Credit Agreement. 
+ Commitment fees will accrue on the daily unused amount of the credit facility. For the period from the delivery of the Company's financial statements for the quarter ended June 30, 2024, until the Company has delivered financial statements for the quarter ended September 30, 2024, the commitment fee will be per annum, and thereafter the commitment fee will vary depending on the Company's consolidated gross leverage ratio, ranging from per annum if the Company's consolidated gross leverage ratio is greater than to 1.00, down to per annum if the Company's consolidated gross leverage ratio is equal to or less than to 1.00. 
+ Letter of credit participation fees are payable to each lender providing the letter of credit sub-facility on the amount of such lender's letter of credit exposure, during the period from the closing date of the Second Amended and Restated Credit Agreement to, but excluding, the date which is the later of (i) the date on which such lender's commitment terminates or (ii) the date on which such lender ceases to have any letter of credit exposure, at a rate per annum equal to the applicable margin for term SOFR loans assuming such loans were outstanding during the period. Additionally, the Company will pay a fronting fee to each issuing bank in amounts to be agreed to between the Company and the applicable issuing bank. 
+ Interest on Alternate Base Rate loans is payable at the end of each calendar quarter. Interest on term SOFR loans is payable at the end of each interest rate period or at the end of each three-month interval within an interest rate period if the 
+ 19 
+
+Table of Contents 
+
+ of the voting stock), subject to certain customary exceptions and limitations. The Second Amended and Restated Credit Agreement generally prohibits any other liens on the assets of the Company and its restricted subsidiaries, subject to certain exceptions as described in the Second Amended and Restated Credit Agreement. 
+ The Second Amended and Restated Credit Agreement contains certain covenants applicable to the Company and its restricted subsidiaries, including, without limitation, limitations on additional indebtedness, liens, various fundamental changes, dividends and distributions, investments (including acquisitions), transactions with affiliates, asset sales, including sale-leaseback transactions, speculative hedge agreements, payment of junior financing, changes in business and other limitations customary in senior secured credit facilities. The Second Amended and Restated Credit Agreement requires the Company to maintain a certain consolidated net leverage ratio and removes the previous requirement under the Company's previous amended credit agreement that the Company maintain a minimum consolidated interest coverage ratio. The Company's consolidated net leverage ratio is the ratio of its Consolidated Total Debt minus the lesser of unrestricted cash and of adjusted consolidated EBITDA compared to its adjusted consolidated EBITDA. The Company's maximum consolidated net leverage ratio is to 1.00. These covenants and limitations are more fully described in the Second Amended and Restated Credit Agreement. At September 30, 2024, the Company was in compliance with all covenants, including the specified total consolidated net leverage ratio range of to 1.00. 
+ The Second Amended and Restated Credit Agreement provides that events of default will exist in certain circumstances, including failure to make payment of principal or interest on the loans when required, failure to perform certain obligations under the Second Amended and Restated Credit Agreement and related documents including a failure to meet the maximum total consolidated net leverage ratio covenant, defaults under certain other indebtedness, certain insolvency events, certain events arising under ERISA, a change of control and certain other events. Upon an event of default, the administrative agent with the consent of, or at the request of, the holders of more than in principal amount of the loans and commitments, may terminate the commitments and accelerate the maturity of the loans and enforce certain other remedies under the Second Amended and Restated Credit Agreement and the other loan documents. 
+ million at September 30, 2024, which are being amortized over the life of the revolving credit facility. The unamortized capitalized debt issuance costs balance of million was included as prepaid expenses and other current assets and a balance of million was included as other assets in the Company's consolidated balance sheet at September 30, 2024. 
+ 
+ NOTE 12 
+ million and million, respectively, related to one-time termination benefits for employees who voluntarily terminated their employment with the Company during the six months ended September 30, 2024. The Company estimates that approximately million in restructuring charges will be recorded in the third quarter of fiscal year 2025 related to one-time termination benefits for employees who are expected to voluntarily terminate their employment with the Company during the three months ending December 31, 2024. All one-time termination benefits are expected to be paid in full by the end of the fiscal year ending March 31, 2025. 
+ Restructuring charges to operations Payments ) Other adjustments Balance at September 30, 2024 
+ 
+ 20 
+
+Table of Contents 
+
+NOTE 13 
+ year to years. The Co mpany's lease terms may include options to extend or terminate the lease where it is reasonably certain that the Company will exercise those options. The Company considers several economic factors when making this determination, including but not limited to, the significance of leasehold improvements incurred in the office space, the difficulty in replacing the asset, underlying contractual obligations, or specific characteristics unique to a particular lease. The Company's lease agreements do not contain any material residual value guarantees or material restrictive covenants. 
+ The Company has asset retirement obligations (ARO) to return certain leased facilities to their original condition at the end of the respective lease term. The estimated fair value of these ARO liabilities is recognized in the period in which the liability is generated and a corresponding increase to the carrying value of the related asset is recorded and depreciated over the useful life of the asset. The Company's estimates of its ultimate AROs could change because of changes in regulations, the extent of environmental remediations required, the means of reclamation, cost estimates, exit or disposal activities or time period estimates. ARO liabilities totaled million and million at September 30, 2024 and March 31, 2024, respectively. There was a balance of million included in accrued other and a balance of million included in other long-term liabilities in the consolidated balance sheets at September 30, 2024, and a balance of million included in accrued other and a balance of million included in other long-term liabilities in the consolidated balance sheets at March 31, 2024. Accretion expense related to these liabilities was not material for any periods presented. 
+ Most of the Company's lease agreements contain variable payments, primarily for common area maintenance (CAM), which are expensed as incurred and not included in the measurement of the ROU assets and lease liabilities. 
+ Lease cost under short-term operating leases Variable lease cost under short-term and long-term operating leases Total operating lease cost 
+ 
+ The table below presents supplemental cash flow information related to leases during the six months ended September 30, 2024 and 2023 (in thousands): Six Months Ended September 30, 2024 2023 Right-of-use assets obtained in exchange for new operating lease liabilities 
+ 
+ 21 
+
+Table of Contents 
+
+ Weighted average discount rate - operating leases 
+ 2026 2027 2028 2029 Thereafter Total lease payments Less imputed interest ) Present value of lease liabilities 
+
+NOTE 14 
+ subsidiary entities in the United States District Court for the Eastern District of Texas asserting infringement of United States patents. Plaintiff's Complaint alleged that legacy Tektronix GeoProbe products, including the G10 and GeoBlade products, infringed these patents. NetScout filed an Answer denying Plaintiff's allegations and asserting that Plaintiff's patents were, among other things, invalid, not infringed, and unenforceable due to inequitable conduct. In October 2017, a jury rendered a verdict finding in favor of the Plaintiff and that Plaintiff was entitled to million for pre-suit damages and million for post-suit damages. In September 2018, the Court entered judgment and "enhanced" the jury verdict in the amount of million as a result of a jury finding. The judgment also awarded pre- and post-judgment interest, and a running royalty on the G10 and GeoBlade products until the expiration of the patents at issue, the last date being June 2022. Following the entry of final judgment, NetScout appealed, and in July 2020, the Court of Appeals for the Federal Circuit (Federal Circuit) issued a decision vacating the million pre-suit damages award, affirming the million post-suit damages award, vacating the million enhancement award, and remanding to the district court to determine what, if any, enhancement should be awarded. In March 2021, NetScout filed a petition for a writ of certiorari to the United States Supreme Court, which was denied, challenging, among other issues, the basis for enhanced damages and the patentability of the claimed technology. On September 8 and 9, 2021, in proceedings initiated by third parties that did not involve NetScout, the Patent Trial and Appeal Board (PTAB) invalidated all the patent claims that were also asserted against NetScout in this case. After the PTAB decisions were issued, NetScout moved, among other things, to dismiss the case and enter judgment in its favor on the grounds that the PTAB decisions invalidating the asserted claims precluded Plaintiff from continuing to assert its patent infringement causes of action and from seeking damages from NetScout. The District Court denied NetScout s motion with respect to its request to dismiss the case and enter judgment in its favor. The District Court entered an amended final judgment awarding Plaintiff million in post-suit damages, million in enhanced damages, pre- and post-judgment interest, and a running royalty on the G10 and GeoBlade products until the expiration of the patents at issue, the last expiration date being June 2022. On July 20, 2022, NetScout filed a notice of appeal to the Federal Circuit from, among other things, the amended final judgment. On May 2, 2024, in a separate action the Federal Circuit affirmed the PTAB decisions, which as a result found that all of the patent claims asserted by Packet Intelligence against NetScout were invalid. Also on May 2, 2024, the Federal Circuit ruled in NetScout's favor in its appeal, vacating the District Court's final judgment and remanding the case to the District Court to dismiss the case against NetScout as moot. As a result, during the year ended March 31, 2024, NetScout concluded that the risk of loss associated with damages that may result from this case was remote and recorded a million reduction in contingent liabilities and legal fees. On June 26, 2024, the District Court issued its Order dismissing the case against NetScout. 
+ 22 
+
+Table of Contents 
+
+ NOTE 15 
+ ne of the Company's employees in the U.S. participate in any noncontributory defined benefit pension plans. In general, these plans are funded based on considerations relating to legal requirements, underlying asset returns, the plan's funded status, the anticipated deductibility of the contribution, local practices, market conditions, interest rates and other factors . 
+ Interest cost Amortization of net gain ) ) ) ) Net periodic pension cost 
+ 
+ Expected Contributions 
+ During the six months ended September 30, 2024, the Company made contributions of million to its defined benefit pension plans. During the fiscal year ending March 31, 2025, the Company's cash contribution requirements for its defined benefit pension plans are expected to be less than million. As a majority of the participants within the Company's plans are all active employees, the benefit payments are not expected to be material in the foreseeable future. 
+ 
+ NOTE 16 
+ shares of its common stock (2017 Share Repurchase Program). Through March 31, 2024, the Company repurchased all of the authorized shares for million in the open market under the 2017 Share Repurchase Program. The Company repurchased shares for million during the six months ended September 30, 2023 under the 2017 Share Repurchase Program. 
+ On May 3, 2022, the Company's Board of Directors approved an additional share repurchase program that enables the Company to repurchase up to shares of its common stock (2022 Share Repurchase Program). The 2022 Share Repurchase Program became effective in the third quarter of fiscal year 2024 when the 2017 Share Repurchase Program was completed. The Company is not obligated to acquire any specific amount of common stock within any particular timeframe as a result of the 2022 Share Repurchase Program. Through September 30, 2024, the Company repurchased shares for million under the 2022 Share Repurchase Program. The Company repurchased shares for million under this share repurchase program during the six months ended September 30, 2024. At September 30, 2024, shares of common stock remained available to be purchased under the current program. 
+ In connecti on with the delivery of shares of the Company's common stock upon vesting of restricted stock units, the Company withheld shares and shares at a cost of million and million, respectively, related to minimum statutory tax withholding requirements on these restricted stock units during the six months ended September 30, 2024 and 2023, respectively. These withholding transactions do not fall under the share repurchase programs descr ibed above, and therefore do not reduce the number of shares that are available for repurchase under those programs. 
+ 23 
+
+Table of Contents 
+
+ NOTE 17 
+ ) Denominator: Denominator for basic net income (loss) per share - weighted average common shares outstanding Dilutive common equivalent shares: Weighted average restricted stock units and performance-based restricted stock units Denominator for diluted net income (loss) per share - weighted average shares outstanding Net income (loss) per share: Basic net income (loss) per share ) Diluted net income (loss) per share ) 
+ 
+ Basic net income (loss) per share is calculated by dividing net income (loss) by the weighted average number of shares outstanding during the period. Unvested restricted shares, although legally issued and outstanding, are not considered outstanding for purposes of calculating basic earnings per share. Diluted net income (loss) per share is calculated by dividing net income (loss) by the weighted average number of shares outstanding plus the dilutive effect, if any, of outstanding stock options, restricted shares and restricted stock units using the treasury stock method. The calculation of the dilutive effect of outstanding equity awards under the treasury stock method includes consideration of proceeds from the assumed exercise of stock options and unrecognized compensation expense as additional proceeds. As the Company incurred a net loss during the six months ended September 30, 2024, all outstanding restricted stock units and performance-based restricted stock units have an anti-dilutive effect and are therefore excluded from the computation of diluted weighted average shares outstanding. 
+ 
+ NOTE 18 
+ and for the three months ended September 30, 2024 and 2023, respectively. The effective tax rate for the three months ended September 30, 2024 differed from the effective tax rate for the three months ended September 30, 2023 primarily related to an increase in the forecasted benefit of the foreign derived intangible deduction, offset by an increase in foreign withholding taxes. 
+ The Company's effective tax rates were and for the six months ended September 30, 2024 and 2023, respectively. The effective tax rate for the six months ended September 30, 2024 differed from the effective tax rate for the six months ended September 30, 2023 primarily related to an increase in the forecasted benefit of the foreign derived intangible income deduction offset by an increase in foreign withholding taxes and goodwill impairment incurred during the six months ended September 30, 2024, which was not deductible for tax purposes. 
+ 24 
+
+Table of Contents 
+
+ NOTE 19 
+ reportable segment. 
+ The Company manages its business in the following geographic areas: United States, Europe, Asia and the rest of the world. The Company's policies mandate compliance with economic sanctions and the export controls. 
+ Europe Asia Rest of the world 
+
+NOTE 20 
+ million senior secured revolving credit facility, including a letter of credit sub-facility of up to million. The Company may elect to use the credit facility for working capital and other general corporate purposes, including to refinance revolving loans outstanding under the Second Amended and Restated Credit Agreement and to repurchase common stock. The commitments under the Third Amended and Restated Credit Agreement will expire on October 4, 2029, and any outstanding loans will be due on that date. In connection with the Third Amended and Restated Credit Agreement, the Company paid off all amounts outstanding under the existing credit agreement on October 4, 2024 by drawing down the same amount under the Third Amended and Restated Credit Agreement. 
+ 25 
+
+Table of Contents 
+
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ You should read the following discussion and analysis of our financial condition and results of operations in conjunction with the condensed consolidated financial statements and notes thereto included elsewhere in this Quarterly Report and in our Annual Report on Form 10-K for the fiscal year ended March 31, 2024, filed with the Securities and Exchange Commission. This discussion contains forward-looking statements that involve risks and uncertainties. When reviewing the discussion below, you should keep in mind the substantial risks and uncertainties that could impact our business. In particular, we encourage you to review the risks and uncertainties described in Part I, Item 1A "Risk Factors" in our Annual Report on Form 10-K for the fiscal year ended March 31, 2024. These risks and uncertainties could cause actual results to differ significantly from those projected in forward-looking statements contained in this report or implied by past results and trends. Forward-looking statements are statements that attempt to forecast or anticipate future developments in our business, financial condition or results of operations. See the section titled "Cautionary Statement Concerning Forward-Looking Statements" that appears at the beginning of this Quarterly Report. These statements, like all statements in this report, speak only as of the date of this Quarterly Report (unless another date is indicated), and, except as required by law, we undertake no obligation to update or revise these statements in light of future developments. 
+ 
+ Overview 
+ We are an industry leader with four decades of experience in providing service assurance and cybersecurity solutions that are based on our pioneering deep packet inspection technology at scale, which is used by many Fortune 500 companies to protect their digital business services against disruption. Service providers and enterprises, including local, state and federal government agencies, rely on our solutions to achieve the visibility and protection necessary to optimize network performance, ensure the delivery of high-quality, mission-critical applications and services, gain timely insight into the end user experience and to protect their networks from attack. With our offerings, customers can quickly, efficiently and effectively identify and resolve issues that result in downtime, interruptions to services, poor service quality or compromised data, thereby reducing meantime-to-resolution of issues and driving compelling returns on their investments in their networks and broader technology initiatives. Some of the more significant technology trends and catalysts for our business include the evolution of customers' digital transformation initiatives such as the migration to cloud environments, the rapidly evolving cybersecurity threat landscape, artificial intelligence and business analytics advancements, and the 5G technology evolution in both the service provider and enterprise customer verticals. 
+ Our operating results are influenced by a number of factors, including, but not limited to, the volume, mix, and quantity of products and services sold, pricing, costs and availability of materials used in our products, growth in employee-related costs, including commissions, and the expansion of our operations. Factors that affect our ability to maximize our operating results include, but are not limited to, our ability to introduce and enhance existing products, the marketplace acceptance of those new or enhanced products, continued expansion into international markets, expansion into new or adjacent markets, development of strategic partnerships, competition, successful acquisition and integration efforts, and our ability to control costs, and make improvements in a highly competitive industry. 
+ G lobal and Macroeconomic Condition s 
+ We continue to closely monitor current global and macroeconomic conditions, including the impacts of the ongoing war in Ukraine and the Middle East, global geopolitical tension, stock market volatility, industry-specific capital spending trends, exchange rate fluctuations, inflation, interest rates, and the risk of a recession, including the manner and extent to which they have impacted and could continue to impact our business, customers, employees, supply chain, and distribution network. The full extent of the impacts of these global and macroeconomic conditions remain uncertain. In response to the war 
+ in Ukraine, we ceased business operations in Russia, including sales, support on existing contracts and professional services. 
+ The macroeconomic environment remains challenging with constrained customer spending and we expect this to persist for the remainder of fiscal year 2025. As a result, we have continued our efforts to manage discretionary costs and align spending with the current environment while we continue to execute on our long-term strategic plans. 
+ Though we continue to monitor the impacts of evolving global and macroeconomic conditions on our business, we believe our current cash reserves and access to capital through our revolving credit facility leave us well-positioned to manage our business in today's environment. We expect net cash provided by operations combined with cash, cash equivalents, marketable securities and investments and borrowing availability under our revolving credit facility to provide sufficient liquidity to fund current obligations, capital spending, debt service requirements and working capital requirements over at least the next twelve months. We continue to take actions to manage costs and increase productivity throughout our company, including managing discretionary spending and hiring activities, but are continuing to invest in areas that advance our business for the future. In addition to our cash equivalents, based on covenant levels at September 30, 2024, we had an incremental 725 million available to us under our revolving credit facility. On October 4, 2024, we amended and extended the Second Amended and Restated Credit Agreement, which decreased the revolving credit facility from 800 million to 600 million and 
+ 26 
+
+Table of Contents 
+
+ reduced the incremental amount available to us under our revolving credit facility to 525 million. For further information, see Note 20 contained in the "Notes to Consolidated Financial Statements" included in Part 1 of this quarterly report on Form 10-Q. 
+ 
+ Results Overview 
+ Total revenue decreased 42.3 million, or 10 , for the six months ended September 30, 2024 as compared to total revenue for the six months ended September 30, 2023, which benefited from approximately 48 million of backlog-related revenue. Excluding this factor, revenue would have increased on a year over year basis. The decrease in total revenue for the six months ended September 30, 2024 as compared to total revenue for the six months ended September 30, 2023 was a result of lower revenue from both service provider and enterprise customers from service assurance offerings, including radio frequency propagation modeling projects, as a result of industry-specific capital spending constraints, as well as a decrease in revenue from service provider customers from cybersecurity offerings. 
+ Our gross profit percentage decreased by one percentage point to 76 during the six months ended September 30, 2024, as compared with the six months ended September 30, 2023 primarily due to lower sales volume of higher margin products and services. 
+ Net loss for the six months ended September 30, 2024 was 434.3 million, as compared with net income for the six months ended September 30, 2023 of 17.3 million. The increase of 451.6 million in net loss was primarily due to a 427.0 million goodwill impairment charge, a 42.3 million decrease in revenue, a 19.0 million increase from restructuring charges due to the voluntary separation program, a 2.7 million increase in expenses related to trade shows, user conferences, and other events, a 1.0 million increase from software licenses, and a 1.0 million increase in foreign exchange expense. These increases to net loss were partially offset by an 11.9 million increase in income tax benefit, a 7.6 million increase in other income from the change in fair value of a foreign equity investment, a 5.5 million decrease in employee related expenses as a result of a decrease in headcount, partially offset by an increase in variable incentive compensation, a 3.6 million decrease in commissions expense, a 3.5 million decrease in direct material costs, a 3.5 million decrease in amortization expense, a 2.3 million decrease from depreciation expense, and a 1.6 million decrease in contractor fees. 
+ At September 30, 2024, we had cash, cash equivalents, marketable securities and investments (current and non-current) of 401.9 million. This represents a decrease of 22.2 million from 424.1 million at March 31, 2024. This decrease was primarily due to 25.3 million used to repurchase shares of our common stock, 25.0 million used to repay long-term debt, 13.5 million used for tax withholdings on restricted stock units, 2.2 million used for capital expenditures, and 1.3 million used to acquire technology licenses, partially offset by 34.7 million of net cash provided by operations, and an 8.3 million increase from the change in fair value of an equity instrument during the six months ended September 30, 2024. 
+ 
+ Use of Non-GAAP Financial Measures 
+ We supplement the United States generally accepted accounting principles (GAAP) financial measures we report in quarterly and annual earnings announcements, investor presentations and other investor communications by reporting the following non-GAAP measures: non-GAAP gross profit, non-GAAP income from operations, non-GAAP net income, non-GAAP net income per share (diluted) and non-GAAP earnings before interest and other expense, income taxes, depreciation, and amortization (EBITDA) from operations. Non-GAAP gross profit removes expenses related to the amortization of acquired intangible assets, share-based compensation expense, and acquisition-related depreciation expense. Non-GAAP income from operations removes the aforementioned adjustments to non-GAAP gross profit and also removes legal expenses related to civil judgments, gain on the divestiture of a business, goodwill impairment charges, and restructuring charges. Non-GAAP net income removes the foregoing adjustments related to non-GAAP income from operations, and also removes change in the fair value of derivative instrument, net of related income tax effects. Non-GAAP EBITDA from operations removes the aforementioned items related to non-GAAP income from operations and also removes non-acquisition related depreciation expense. 
+ These non-GAAP measures are not in accordance with GAAP, should not be considered an alternative for measures prepared in accordance with GAAP (revenue, gross profit, operating margin, net income and diluted net income per share), and may have limitations because they do not reflect all our results of operations as determined in accordance with GAAP. These non-GAAP measures should only be used to evaluate our results of operations in conjunction with the corresponding GAAP measures. The presentation of non-GAAP information is not meant to be considered superior to, in isolation from, or as a substitute for results prepared in accordance with GAAP. 
+ Management believes these non-GAAP financial measures will enhance the reader's overall understanding of our current financial performance and our prospects for the future by providing a higher degree of transparency for certain financial measures and providing a level of disclosure that helps investors understand how we plan and measure our business. We believe that providing these non-GAAP measures affords investors a view of our operating results that may be more easily compared to peer companies and also enables investors to consider our operating results on both a GAAP and non-GAAP basis during and 
+ 27 
+
+Table of Contents 
+
+ following the integration period of our acquisitions. Presenting the GAAP measures on their own may not be indicative of our core operating results. Furthermore, management believes that the presentation of non-GAAP measures when shown in conjunction with the corresponding GAAP measures provides useful information to management and investors regarding present and future business trends relating to our financial condition and results of operations. 
+ 28 
+
+Table of Contents 
+
+ The following table reconciles gross profit, income (loss) from operations, net income (loss) and net income (loss) per share on a GAAP and non-GAAP basis for the three and six months ended September 30, 2024 and 2023, respectively (dollars in thousands, except for per share data): 
+ Three Months Ended Six Months Ended September 30, September 30, 2024 2023 2024 2023 Revenue (GAAP and non-GAAP) 191,108 196,802 365,673 407,940 GAAP gross profit 149,051 153,750 279,247 314,492 Share-based compensation expense 
+ 2,200 2,638 5,520 5,549 Amortization of acquired intangible assets 
+ 996 1,638 1,991 3,276 Acquisition related depreciation expense 
+ 2 4 4 9 Non-GAAP gross profit 152,249 158,030 286,762 323,326 GAAP income (loss) from operations 14,123 26,292 (449,201) 21,597 Share-based compensation expense 
+ 14,886 18,445 36,084 38,289 Amortization of acquired intangible assets 
+ 12,638 14,188 25,247 28,533 Restructuring charges 
+ 2,409 18,972 Goodwill impairment 426,967 Acquisition related depreciation expense 
+ 11 37 23 96 Gain on divestiture of a business (3,806) (3,806) Legal expenses related to civil judgments 
+ 44 85 Non-GAAP income from operations 44,067 55,200 58,092 84,794 GAAP net income (loss) 9,027 21,462 (434,349) 17,262 Share-based compensation expense 
+ 14,886 18,445 36,084 38,289 Amortization of acquired intangible assets 
+ 12,638 14,188 25,247 28,533 Restructuring charges 
+ 2,409 18,972 Goodwill impairment 426,967 Acquisition-related depreciation expense 
+ 11 37 23 96 Gain on divestiture of a business (3,806) (3,806) Legal expenses related to civil judgments 
+ 44 85 Change in fair value of derivative instrument 
+ (206) Income tax adjustments 
+ (5,409) (5,829) (18,804) (13,000) Non-GAAP net income 33,562 44,541 54,140 67,253 
+ GAAP diluted net income (loss) per share 0.13 0.29 (6.08) 0.24 Per share impact of non-GAAP adjustments identified above 0.34 0.32 6.83 0.68 Non-GAAP diluted net income per share 0.47 0.61 0.75 0.92 GAAP income (loss) from operations 14,123 26,292 (449,201) 21,597 Previous adjustments to determine non-GAAP income from operations 29,944 28,908 507,293 63,197 Non-GAAP income from operations 44,067 55,200 58,092 84,794 Depreciation excluding acquisition-related depreciation expense 3,451 4,749 7,235 9,781 Non-GAAP EBITDA from operations 47,518 59,949 65,327 94,575 
+ 
+ 29 
+
+Table of Contents 
+
+Critical Accounting Policies and Estimates 
+ Our discussion and analysis of our financial condition and results of operations are based upon our consolidated financial statements, which have been prepared in accordance with GAAP consistently applied. The preparation of these consolidated financial statements requires us to make significant estimates and judgments that affect the amounts reported in our consolidated financial statements and the accompanying notes. These items are regularly monitored and analyzed by management for changes in facts and circumstances, and material changes in these estimates could occur in the future. Changes in estimates are recorded in the period in which they become known. We base our estimates on historical experience and various other assumptions that we believe to be reasonable under the circumstances. Actual results may differ from our estimates. 
+ While all of our accounting policies impact the consolidated financial statements, certain policies are viewed to be critical. Critical accounting policies are those that are both most important to the portrayal of our financial condition and results of operations and that require management's most subjective or complex judgments and estimates. We consider the following accounting policies to be critical in fully understanding and evaluating our financial results: 
+ revenue recognition; and 
+ valuation of goodwill, intangible assets and other acquisition accounting items. 
+ Please refer to the critical accounting policies set forth in our Annual Report on Form 10-K for the fiscal year ended March 31, 2024, filed with the Securities and Exchange Commission (SEC) on May 16, 2024, for a description of all of our critical accounting policies and estimates. 
+ 
+ Three Months Ended September 30, 2024 and 2023 
+ Revenue 
+ Product revenue consists of sales of our hardware products and licensing of our software products. Service revenue consists of customer support agreements, consulting, training and stand-ready software as a servi ce offerings. During the three months ended September 30, 2024 and 2023, no direct customers or channel partners accounted for more than 10 of our total reven ue. 
+ Three Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue Revenue: Product 81,033 42 80,545 41 488 1 Service 110,075 58 116,257 59 (6,182) (5) Total revenue 191,108 100 196,802 100 (5,694) (3) 
+ Produ ct. The 1 , or 0.5 million, increase in product revenue compared with the same period last year was primarily due to an increase in revenue from enterprise customers from both service assurance and cybersecurity offerings, partially offset by decreases from service provider customers from both service assurance and cybersecurity offerings. 
+ Service. The 5 , or 6.2 million, decrease in service revenue compared with the same period last year was primarily due to a decrease in revenue from maintenance contracts. 
+ 30 
+
+Table of Contents 
+
+ Total revenue by geography was as follows: 
+ Three Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue United States 111,235 58 115,478 59 (4,243) (4) International: Europe 32,094 17 32,197 16 (103) Asia 17,036 9 14,711 7 2,325 16 Rest of the world 30,743 16 34,416 18 (3,673) (11) Subtotal international 79,873 42 81,324 41 (1,451) (2) Total revenue 191,108 100 196,802 100 (5,694) (3) 
+ United States revenue decreased 4 , or 4.2 million, primarily due to a decrease in revenue from service provider customers from service assurance offerings, including radio frequency propagation modeling projects. The 2 , or 1.5 million, decrease in international revenue compared with the same period last year was primarily driven by a decrease in revenue from service provider customers from service assurance offerings, as well as a decrease in revenue from service provider customers from cybersecurity offerings, partially offset by an increase in revenue from enterprise customers from cybersecurity offerings and service assurance offerings. 
+ Total revenue by product line was as follows: 
+ Three Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue Revenue: Service assurance 121,676 64 129,432 66 (7,756) (6) Cybersecurity 69,432 36 67,370 34 2,062 3 Total revenue 191,108 100 196,802 100 (5,694) (3) 
+ The 6 , or 7.8 million, decrease in revenue from the service assurance product line was due to a decrease in revenue from service provider customers for both product and service revenue. The 3 , or 2.1 million, increase in revenue from the cybersecurity product line was due to higher revenue from enterprise customers for both product and service revenue, partially offset by a decrease in product revenue from service provider customers. 
+ Total revenue by customer vertical was as follows: 
+ Three Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue Revenue: Service provider 67,615 35 89,959 46 (22,344) (25) Enterprise 123,493 65 106,843 54 16,650 16 Total revenue 191,108 100 196,802 100 (5,694) (3) 
+ The 25 , or 22.3 million, decrease in revenue from the service provider customer vertical was due to a decrease in product and service revenue from both the service assurance and cybersecurity product lines. The 16 , or 16.7 million, 
+ 31 
+
+Table of Contents 
+
+ increase in revenue from the enterprise customer vertical was due to an increase in product and service revenue from the cybersecurity product line and an increase in product revenue from enterprise customers, partially offset by a decrease in service revenue from the service assurance product line. 
+ Cost of Revenue and Gross Profit 
+ Cost of product revenue consists primarily of material components, manufacturing personnel expenses, packaging materials, overhead and amortization of capitalized software, acquired developed technology and core technology. Cost of service revenue consists primarily of personnel, material, overhead and support costs. 
+ Three Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue Cost of revenue Product 13,440 7 16,093 8 (2,653) (16) Service 28,617 15 26,959 14 1,658 6 Total cost of revenue 42,057 22 43,052 22 (995) (2) Gross profit: Product 67,593 35 64,452 33 3,141 5 Product gross profit 83 80 Service 81,458 43 89,298 45 (7,840) (9) Service gross profit 74 77 Total gross profit 149,051 153,750 (4,699) (3) Total gross profit 78 78 
+ Product. The 16 , or 2.7 million, decrease in cost of product revenue for the three months ended September 30, 2024 compared to the same period last year was primarily due to a 0.9 million decrease in direct material costs, and a 0.8 million decrease in the amortization of intangible assets. The product gross profit percentage increased by three percentage points to 83 during the three months ended September 30, 2024 as compared with the three months ended September 30, 2023. The 5 , or 3.1 million, increase in product gross profit is attributable to the 1 , or 0.5 million, increase in product revenue, and the 16 , or 2.7 million, decrease in cost of product revenue. 
+ Service . The 6 , or 1.7 million, increase in cost of service revenue for the three months ended September 30, 2024 compared to the same period last year was primarily due to a 1.6 million increase in employee-related costs associated with an increase in variable incentive compensation partially offset by a decrease in cost due to a reduction in headcount. The service gross profit percentage decreased by three percentage points to 74 during the three months ended September 30, 2024 as compared with the three months ended September 30, 2023. The 9 , or 7.8 million, decrease in service gross profit is attributable to the 5 , or 6.2 million decrease in service revenue, and the 6 , or 1.7 million, increase in cost of service revenue. 
+ Gross profit. Our gross profit decreased 3 , or 4.7 million, during the three months ended September 30, 2024 when compared with the three months ended September 30, 2023. This decrease is attributable to the decrease in revenue of 3 , or 5.7 million, partially offset by the 2 , or 1.0 million, decrease in cost of revenue. The gross profit percentage remained flat at 78 for the three months ended September 30, 2024 as compared with the three months ended September 30, 2023. 
+ 32 
+
+Table of Contents 
+
+ Operating Expenses 
+ Three Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue Research and development 35,909 19 35,112 18 797 2 Sales and marketing 61,226 32 60,950 31 276 General and administrative 23,742 12 22,652 12 1,090 5 Amortization of acquired intangible assets 11,642 6 12,550 6 (908) (7) Restructuring charges 2,409 1 2,409 100 Gain on divestiture of a business (3,806) (2) 3,806 100 Total operating expenses 134,928 70 127,458 65 7,470 6 
+ Research and development. Research and development expenses consist primarily of personnel expenses, fees for outside consultants, overhead and related expenses associated with the development of new products and the enhancement of existing products. 
+ The 2 , or 0.8 million, increase in research and development expenses for the three months ended September 30, 2024 compared to the same period last year was primarily due to a 1.2 million increase in employee-related costs associated with an increase in variable incentive compensation partially offset by a decrease in cost due to a reduction in headcount, and a 0.6 million increase in allocated overhead. These increases were partially offset by a 0.6 million decrease from depreciation expense. 
+ Sales and marketing. Sales and marketing expenses consist primarily of personnel expenses and commissions, overhead and other expenses associated with selling activities and marketing programs such as trade shows, seminars, advertising and new product launch activities. 
+ The 0.3 million increase in total sales and marketing expenses for the three months ended September 30, 2024 compared to the same period last year was primarily due to a 3.6 million increase related to trade shows and other events. This increase was partially offset by a 3.5 million decrease in employee-related costs associated with a decrease in variable incentive compensation as well as a decrease in cost due to a reduction in headcount, and a 0.6 million decrease in commissions expense. 
+ General and administrative. General and administrative expenses consist primarily of personnel expenses for executive, financial, legal and human resource employees, overhead and other corporate expenditures. 
+ The 5 , or 1.1 million, increase in general and administrative expenses for the three months ended September 30, 2024 compared to the same period last year was primarily due to a 1.6 million increase in employee-related costs associated with an increase in variable incentive compensation. 
+ Amortization of acquired intangible assets . Amortization of acquired intangible assets consists primarily of amortization of customer relationships, definite-lived trademarks and trade names, and developed technology related to our acquisitions of Danaher Corporation's communications business (Comms Transaction), Network General Corporation, Avvasi Inc. and Efflux Systems, Inc. 
+ The 7 , or 0.9 million, decrease in amortization of acquired inta ngible assets was largely due to a decrease in the amortization of intangible assets acquired as part of the Comms Transaction and the Network General Corporation transaction. 
+ Restructuring charges. During the first quarter of fiscal year 2025, we implemented a voluntary separation program (VSP) for employees who met certain age and service requirements to reduce overall headcount. As a result of the related workforce reduction, during the three months ended September 30, 2024, we recorded additional restructuring charges totaling 2.4 million related to one-time termination benefits for twenty-three employees who voluntarily terminated their employment with us during the three months ended September 30, 2024. 
+ Gain on Divestiture of Business. During the three months ended September 30, 2023, we recorded a 3.8 million gain on the divestiture of the Test Optimization business. 
+ 33 
+
+Table of Contents 
+
+ Interest and Other Income (Expense), Net . Interest and other income (expense), net includes interest earned on our cash, cash equivalents and marketable securities, interest expense and other non-operating gains or losses. 
+ Three Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue Interest and other income (expense), net (1,797) (1) 1,182 1 (2,979) (252) 
+ The 252 , or 3.0 million, change in interest and other income (expense), net for the three months ended September 30, 2024 compared to the same period last year was primarily due to a 2.1 million increase in foreign exchange expense, and a 0.9 million decrease from the change in fair value of the equity investment in Napatech. 
+ Income Tax Expense . The effective tax rates were 26.8 and 21.9 for the three months ended September 30, 2024 and 2023, respectively. The effective tax rate for the three months ended September 30, 2024 differed from the effective tax rate for the three months ended September 30, 2023, primarily related to an increase in the forecasted benefit of the foreign derived intangible deduction, offset by an increase in foreign withholding taxes. 
+ Three Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue Income tax expense 3,299 2 6,012 3 (2,713) (45) 
+ 
+ Six Months Ended September 30, 2024 and 2023 
+ Revenue 
+ During the six months ended September 30, 2024, and 2023, no direct customer or channel partner a ccounted for more than 10 of our total revenue. 
+ Six Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue Revenue: Product 142,202 39 175,206 43 (33,004) (19) Service 223,471 61 232,734 57 (9,263) (4) Total revenue 365,673 100 407,940 100 (42,267) (10) 
+ Product. The 19 , or 33.0 million, decrease in product revenue compared with the same period last year was due to a decrease in revenue from both service provider and enterprise customers from service assurance offerings, including radio frequency propagation modeling projects, as a result of industry-specific capital spending constraints, as well as a decrease in revenue from service provider customers from cybersecurity offerings. The results for the six months ended September 30, 2023 benefited from approximately 48 million of backlog-related revenue. Excluding backlog-related revenue, total revenue for the six months ended September 30, 2024 compared with the same period last year would have increased year over year. 
+ Service. The 4 , or 9.3 million, decrease in service revenue compared with the same period last year was primarily due to a decrease in revenue from maintenance contracts as well as professional service contracts. 
+ 34 
+
+Table of Contents 
+
+ Total revenue by geography was as follows: 
+ Six Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue United States 211,184 58 243,380 60 (32,196) (13) International: Europe 63,488 17 66,168 16 (2,680) (4) Asia 28,926 8 30,725 7 (1,799) (6) Rest of the world 62,075 17 67,667 17 (5,592) (8) Subtotal international 154,489 42 164,560 40 (10,071) (6) Total revenue 365,673 100 407,940 100 (42,267) (10) 
+ United States revenue decreased 13 , or 32.2 million, primarily due to a decrease in revenue from service assurance offerings from service provider customers, including radio frequency propagation modeling projects. The 6 , or 10.1 million, decrease in international revenue compared with the same period last year was primarily driven by lower revenue from service provider customers from both service assurance and cybersecurity offerings. 
+ Total revenue by product line was as follows: Six Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue Revenue: Service assurance 238,409 65 275,486 68 (37,077) (13) Cybersecurity 127,264 35 132,454 32 (5,190) (4) Total revenue 365,673 100 407,940 100 (42,267) (10) 
+ The 13 , or 37.1 million, decrease in revenue from the service assurance product line was due to a decrease in revenue from both enterprise and service provider customers, including radio frequency propagation modeling projects, and the 4 , or 5.2 million, decrease in revenue from the cybersecurity product line was due to a decrease in revenue from service provider customers, partially offset by an increase in revenue from enterprise customers. 
+ Total revenue by customer vertical was as follows: 
+ Six Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue Revenue: Service provider 148,091 40 190,299 47 (42,208) (22) Enterprise 217,582 60 217,641 53 (59) Total revenue 365,673 100 407,940 100 (42,267) (10) 
+ The 22 , or 42.2 million, decrease in revenue from the service provider customer vertical was due to a decrease in product and service revenue from both the service assurance and cybersecurity product lines. 
+ 35 
+
+Table of Contents 
+
+ Cost of Revenue and Gross Profit 
+ Six Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue Cost of revenue Product 25,444 7 32,755 8 (7,311) (22) Service 60,982 17 60,693 15 289 Total cost of revenue 86,426 24 93,448 23 (7,022) (8) Gross profit: Product 116,758 32 142,451 35 (25,693) (18) Product gross profit 82 81 Service 162,489 44 172,041 42 (9,552) (6) Service gross profit 73 74 Total gross profit 279,247 314,492 (35,245) (11) Total gross profit 76 77 
+ Product. The 22 , or 7.3 million, decrease in cost of pr oduct revenue for the six months ended September 30, 2024 compared to the same period last year was prim arily due to a 3.5 million decrease in direct material costs, a 1.5 million decrease in the amortization of intangible assets, a 0.9 million decrease in costs related to the delivery of radio frequency propagation modeling projects, a 0.8 million decrease in inventory related expenses, and a 0.6 million decrease in employee-related costs associated with the timing of certain projects. The product gross profit percentage increased by one percentage point to 82 during the six months ended September 30, 2024 when compared to the six months ended September 30, 2023. The 18 , or 25.7 million, decrease in product gross profit is attributable to the 19 , or 33.0 million, decrease in product revenue, partially offset by the 22 , or 7.3 million, decrease in cost of product revenue. 
+ Service. The 0.3 million increase in cost of service revenue for the six months ended September 30, 2024 compared to the same period last year was primarily due to a 0.9 million increase in employee-related expenses largely due to an increase in variable incentive compensation partially offset by a decrease in costs due to a reduction in headcount, and a 0.5 million increase in contractor fees. These increases were partially offset by a 0.6 million decrease in cost of materials used to support customers under service contracts. The service gross profit percentage decreased by one percentage point to 73 for the six months ended September 30, 2024 when compared to the six months ended September 30, 2023. The 6 , or 9.6 million, decrease in service gross profit is attributable to the 4 , or 9.3 million decrease in service revenue, and the 0.3 million increase in cost of service revenue. 
+ Gross profit. Our gross profit for the six months ended September 30, 2024 decreased 11 , or 35.2 million, compared to the same period last year. This decrease is primarily attributable to the decrease in revenue of 10 , or 42.3 million, partially offset by the 8 , or 7.0 million, decrease in cost of revenue. The gross profit percentage decreased by one percentage point to 76 for the six months ended September 30, 2024 when compared to the six months ended September 30, 2023. 
+ 36 
+
+Table of Contents 
+
+ Operating Expenses 
+ Six Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue Research and development 78,374 21 80,632 20 (2,258) (3) Sales and marketing 131,556 36 139,946 34 (8,390) (6) General and administrative 49,323 13 50,866 12 (1,543) (3) Amortization of acquired intangible assets 23,256 6 25,257 6 (2,001) (8) Restructuring charges 18,972 5 18,972 100 Goodwill impairment 426,967 117 426,967 100 Gain on divestiture of a business (3,806) (1) 3,806 100 Total operating expenses 728,448 198 292,895 71 435,553 149 
+ Research and development. The 3 , or 2.3 million, decrease in rese arch and development expenses for the six months ended September 30, 2024 compared to the same period last year was primarily due to a 1.2 million decrease in employee-related expenses largely due to a decrease in headcount partially offset by an increase in variable incentive compensation, a 1.2 million decrease from depreciation expense, and a 0.5 million decrease in contractor fees. These decreases were offset by a 0.9 million increase in allocated overhead. 
+ Sales and marketing. The 6 , or 8.4 million, decrease in sales and marketing expenses for the six months ended September 30, 2024 compared to the same period last year was primarily due to a 6.5 million decrease in employee-related expenses largely due to a decrease in headcount, a 3.6 million decrease in commissions expense, and a 0.7 million decrease in advertising expense. These decreases were partially offset by a 2.7 million increase related to trade shows and other events. 
+ General and administrative. The 3 , or 1.5 million, decrease in general and administrative expenses for the six months ended September 30, 2024 compared to the same period last year was primarily due to a 1.4 million decrease in contractor fees, a 0.7 million decrease from depreciation expense, a 0.6 million decrease in business taxes, and a 0.5 million decrease in allocated overhead. These decreases were partially offset by a 1.2 million increase in employee-related expenses largely due to an increase in variable incentive compensation, a 0.5 million increase in legal fees, and a 0.5 million increase in accounting related expenses. 
+ Amortization of acquired intangible assets . Amortization of acquired intangible assets consists primarily of amortization of customer relationships, definite-lived trademark and tradenames, and developed technology related to our acquisitions of the Comms Transact, Network General Corporation, Avvasi, Inc. and Efflux Systems, Inc. 
+ The 8 , or 2.0 million, decrea se in amortization of acquired intangible assets for the six months ended September 30, 2024 compared to the s ame period last year was largely due to a decrease in the amortization of intangible assets related to the Comms Transaction and Network General Corpora tion. 
+ Restructuring charges. During the first quarter of fiscal year 2025, we implemented a voluntary separation program (VSP) for employees who met certain age and service requirements to reduce overall headcount. As a result of the related workforce reduction, during the six months ended September 30, 2024, we recorded restructuring charges totaling 19.0 million related to one-time termination benefits for one hundred thirty-nine employees who voluntarily terminated their employment with us during that period. 
+ Goodwill impairment. During fiscal year 2024, we recorded 217.3 million in goodwill impairment charges as a result of the sustained decline in our stock price and overall market capitalization. During the first quarter of fiscal year 2025, due to the continued decrease in our stock price and overall market capitalization, along with other qualitative considerations including the continued impact from the conditions in the macroeconomic environment, it was determined a Triggering Event occurred, indicating goodwill may be impaired. Accordingly, we conducted a quantitative impairment test of our goodwill at June 30, 2024. We estimated the implied fair value of our goodwill using a market approach. As a result of the quantitative impairment test performed during the first quarter of fiscal year 2025, we determined goodwill was impaired and recorded a goodwill impairment charge of 427.0 million during the three months ended June 30, 2024. The additional impairment charge recorded in the first quarter of fiscal year 2025 was primarily due to the continued decrease in our stock price from March 31, 2024 to June 30, 2024, an increase in our weighted-average cost of capital, and the refinement to the expected cost synergies that could 
+ 37 
+
+Table of Contents 
+
+ be realized by a hypothetical buyer as a result of the VSP we implemented in the first quarter of fiscal year 2025, which impacted the company-specific control premium used to determine the fair value of the reporting unit under the market approach. We expect that these restructuring efforts will generate net annual run-rate savings of approximately 25 million to 27 million, of which we expect that approximately 18 million to 19 million will be realized in the remainder of fiscal year 2025. At September 30, 2024, the Company performed a Triggering Event assessment and concluded no event or circumstances occurred that indicated goodwill was further impaired. 
+ The key assumption in the market approach was the company-specific control premium, which was estimated using expected synergies that would be realized by a hypothetical buyer. We also compared its implied control premium to recent control premiums paid in the industry, as evidenced by guideline public company comparable transactions. This information corroborated that the company-specific control premium was within the range of premiums for other companies operating in the industry. Changes in the estimates or assumptions used in its quantitative impairment test could materially affect the determination of fair value and the associated goodwill impairment assessment. Potential events and circumstances that could have an adverse impact on our estimates and assumptions include, but are not limited to, continued increases in costs, and high interest rates and other macroeconomic factors. An increase or decrease of 1 in the company-specific control premium used in the determination of the fair value of the reporting unit under the market approach would have resulted in an increase or decrease in the goodwill impairment recorded during the six months ended September 30, 2024 of approximately 13.0 million. 
+ Gain on Divestiture of Business. During the six months ended September 30, 2023, we recorded a 3.8 million gain on the divestiture of the Test Optimization business. 
+ Interest and Other Income (Expense), Net 
+ Six Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue Interest and other income (expense), net 7,831 2 543 7,288 1,342 
+ The 1,342 , or 7.3 million, increase in interest and other income (expense), net was primarily due to a 7.6 million increase from the change in fair value of the equity investment in Napatech, a 0.8 million increase in interest income, and a 0.5 million decrease in interest expense due to debt repayments on the credit facility in May 2024, partially offset by an increase in the average interest rate on the credit facility. These increases were partially offset by a 1.0 million increase in foreign exchange expense during the six months ended September 30, 2024, when compared to the six months ended September 30, 2023, and a 0.5 million decrease in other income. 
+ Income Tax Expense (Benefit). Our effective tax rates were 1.6 and 22.0 for the six months ended September 30, 2024 and 2023, respectively. The effective tax rate for the six months ended September 30, 2024 differed from the effective rate for the six months ended September 30, 2023, primarily related to an increase in the forecasted benefit of the foreign derived intangible income deduction offset by an increase in foreign withholding taxes and goodwill impairment incurred during the six months ended September 30, 2024, which was not deductible for tax purposes. Six Months Ended Change September 30, (Dollars in Thousands) 2024 2023 of Revenue of Revenue Income tax expense (benefit) (7,021) (2) 4,878 1 (11,899) (244) 
+
+38 
+
+Table of Contents 
+
+ Liquidity and Capital Resources 
+ Cash, cash equivalents, marketable securities and investments consisted of the following (in thousands): 
+ September 30, 2024 March 31, 2024 Cash and cash equivalents 363,355 389,674 Short-term marketable securities and investments 37,512 33,459 Long-term marketable securities 1,009 994 Cash, cash equivalents, marketable securities and investments 401,876 424,127 
+ Cash, cash equivalents, marketable securities and investments 
+ At September 30, 2024, cash, cash equivalents, marketable securities and investments (current and non-current) totaled 401.9 million, a 22.2 million decrease from 424.1 million at March 31, 2024. This decrease was primarily due to 25.3 million used to repurchase shares of our common stock, 25.0 million used to repay long-term debt, 13.5 million used for tax withholdings on restricted stock units, 2.2 million used for capital expenditures, and 1.3 million used to acquire technology licenses, partially offset by 34.7 million of net cash provided by operations, and an 8.3 million increase from the change in fair value of an equity instrument during the six months ended September 30, 2024. Cash and short-term investments held outside of the United States was approximately 181.1 million. 
+ Cash and cash equivalents were impacted by the following: 
+ Six Months Ended September 30, (in thousands) 2024 2023 Net cash provided by (used in) operating activities 34,699 (48,731) Net cash provided by (used in) investing activities 851 (6,973) Net cash used in financing activities (63,754) (49,853) 
+ Net cash from operating activities 
+ Cash provided by operating activities was 34.7 million during the six months ended September 30, 2024, compared with 48.7 million of cash used in operating activities during the six months ended September 30, 2023. The 83.4 million change was due in part to a 427.0 million goodwill impairment charge recorded during the six months ended September 30, 2024, an 82.6 million increase from accounts receivable, a 43.6 million increase from accrued compensation and other expenses, a 3.8 million increase related to the gain recorded in the six months ended September 30, 2023 for the divestiture of a business, a 3.1 million increase from income taxes payable, a 3.0 million increase from prepaid expenses and other assets, and a 0.6 million increase from accounts payable. These increases were partially offset by a 451.6 million decrease from the change in net income (loss), a 7.8 million decrease from deferred revenue, a 7.6 million decrease from the change in the fair value of an equity investment, a 5.9 million decrease from depreciation and amortization expense, a 3.4 million decrease in deferred income taxes, a 2.2 million decrease from share-based compensation, and a 2.0 million decrease from inventories during the six months ended September 30, 2024 as compared with the six months ended September 30, 2023. 
+ 39 
+
+Table of Contents 
+
+ Net cash from investing activities 
+ Six Months Ended September 30, (in thousands) 2024 2023 Cash provided by (used in) investing activities included the following: Purchase of marketable securities and investments (20,999) (41,920) Proceeds from sales and maturity of marketable securities 25,290 30,162 Purchase of fixed assets (2,150) (3,498) Purchase of intangible assets (1,290) Proceeds from divestiture of a business 8,283 851 (6,973) 
+ Cash provided by investing activities was 0.9 million during the six months ended September 30, 2024, compared with 7.0 million of cash used in investing activities during the six months ended September 30, 2023. The 7.9 million change was due in part to a 16.0 million increase in cash inflow from marketable securities related to a 20.9 million decrease in the purchase of marketable securities and investments, partially offset by a decrease of 4.9 million in proceeds from the sales and maturity of marketable securities during the six months ended September 30, 2024 when compared with the six months ended September 30, 2023. In addition, cash used to purchase fixed assets decreased 1.3 million during the six months ended September 30, 2024, compared with the six months ended September 30, 2023. These increases to cash inflow were partially offset by an 8.3 million decrease in proceeds from the divestiture of the Test Optimization business during the six months ended September 30, 2023, and a 1.3 million increase in cash used to acquire technology licenses during the six months ended September 30, 2024. 
+ Our investments in property and equipment consist primarily of computer equipment, demonstration units, office equipment and facility improvements. We plan to continue to invest in capital expenditures to support our infrastructure through the remainder of fiscal year 2025. 
+ Net cash from financing activities 
+ Six Months Ended September 30, (in thousands) 2024 2023 Cash used in financing activities included the following: Issuance of common stock under stock plans 2 2 Treasury stock repurchases (25,257) (31,137) Tax withholding on restricted stock units (13,499) (18,718) Repayment of long-term debt (25,000) (63,754) (49,853) 
+ Cash used in financing activities changed by 13.9 million to 63.8 million during the six months ended September 30, 2024, compared with 49.9 million of cash used in financing activities during the six months ended September 30, 2023. 
+ During the six months ended September 30, 2024, we repurchased a total of 1,362,205 shares for 25.3 million in the open market under the 2022 Share Repurchase Program. 
+ In connection with the delivery of our common stock upon vesting of restricted stock units, we withheld 681,963 and 624,941 shares at a cost of 13.5 million and 18.7 million related to minimum statutory tax withholding requirements on these restricted stock units during the six months ended September 30, 2024 and 2023, respectively. These withholding transactions do not fall under the repurchase program described above, and therefore do not reduce the number of shares that are available for repurchase under that program. 
+ During the six months ended September 30, 2024, we repaid 25.0 million of borrowings under the Second Amended and Restated Credit Agreement. 
+ 40 
+
+Table of Contents 
+
+ Sources of Cash and Cash Requirements 
+ Credit Facility 
+ On July 27, 2021, we amended and extended our existing credit facility (as amended, the Second Amended and Restated Credit Agreement) with a syndicate of lenders by and among: the Company; JPMorgan Chase Bank, N.A. (JPMorgan), as administrative agent and collateral agent; JPMorgan, Wells Fargo Securities, LLC, BofA Securities Inc., RBC Capital Markets, PNC Capital Markets LLC and Mizuho Bank, Ltd., as joint lead arrangers and joint bookrunners; Santander Bank, N.A., U.S. Bank National Association, Fifth Third Bank National Association, Silicon Valley Bank and TD Bank, N.A., as co-documentation agents; and the lenders party thereto. 
+ The Second Amended and Restated Credit Agreement provides for a five-year, 800.0 million senior secured revolving credit facility, including a letter of credit sub-facility of up to 75.0 million. We may elect to use the credit facility for general corporate purposes (including to finance the repurchase of shares of our common stock). The commitments under the Second Amended and Restated Credit Agreement will expire on July 27, 2026, and any outstanding loans will be due on that date. During the six months ended September 30, 2024, we repaid 25.0 million of borrowings under the Second Amended and Restated Credit Agreement. At September 30, 2024, 75.0 million was outstanding under the Second Amended and Restated Credit Agreement. 
+ On February 22, 2023, we entered into a First Amendment Agreement (First Amendment) of our Second Amended and Restated Credit Agreement with a syndicate of lenders. We entered into the First Amendment in order to remove and replace the LIBOR-based interest rate benchmark provisions for U.S. dollar-denominated loans with interest rate benchmark provisions for U.S. dollar-denominated loans based on a term secured overnight financing rate (SOFR). 
+ The First Amendment provides that U.S. dollar-denominated advances under the Second Amended and Restated Credit Agreement will bear interest at a term SOFR rate plus a credit spread adjustment of 0.10 or an Alternate Base Rate (defined in a customary manner), at the option of NetScout, plus a margin that ranges from 1.00 per annum for Alternate Base Rate loans and 2.00 per annum for term SOFR loans if our consolidated gross leverage ratio is greater than 3.50 to 1.00, down to 0 per annum for Alternate Base Rate loans and 1.00 per annum for term SOFR loans if our consolidated gross leverage ratio is equal to or less than 1.50 to 1.00. For the period from the delivery of our financial statements for the quarter ended June 30, 2024, until we have delivered financial statements for the quarter ended September 30, 2024, the applicable margin will be 1.00 per annum for Term Benchmark Revolving loans and 0 per annum for Alternate Base Rate loans, and thereafter the applicable margin will vary depending on our consolidated gross leverage ratio, ranging from 1.00 per annum for Alternate Base Rate loans and 2.00 per annum for Term Benchmark Revolving loans if our consolidated gross leverage ratio is greater than 3.50 to 1.00, down to 0 per annum for Alternate Base Rate loans and 1.00 per annum for Term Benchmark Revolving loans if our consolidated gross leverage ratio is equal to or less than 1.50 to 1.00. 
+ Our consolidated gross leverage ratio is the ratio of our consolidated total debt compared to our consolidated EBITDA as defined in the Second Amended and Restated Credit Agreement (adjusted consolidated EBITDA). Adjusted consolidated EBITDA includes certain adjustments, including, without limitation, adjustments relating to extraordinary, unusual or non-recurring charges, certain restructuring charges, non-cash charges, certain transaction costs and expenses and certain pro forma adjustments in connection with material acquisitions and dispositions, all as set forth in detail in the Second Amended and Restated Credit Agreement. 
+ Commitment fees will accrue on the daily unused amount of the credit facility. For the period from the delivery of our financial statements for the quarter ended June 30, 2024, until we have delivered financial statements for the quarter ended September 30, 2024, the commitment fee will be 0.15 per annum, and thereafter the commitment fee will vary depending on our consolidated gross leverage ratio, ranging from 0.30 per annum if our consolidated gross leverage ratio is greater than 2.75 to 1.00, down to 0.15 per annum if our consolidated gross leverage ratio is equal to or less than 1.50 to 1.00. 
+ Letter of credit participation fees are payable to each lender providing the letter of credit sub-facility on the amount of such lender's letter of credit exposure, during the period from the closing date of the Second Amended and Restated Credit Agreement to, but excluding, the date which is the later of (i) the date on which such lender's commitment terminates or (ii) the date on which such lender ceases to have any letter of credit exposure, at a rate per annum equal to the applicable margin for term SOFR loans assuming such loans were outstanding during the period. Additionally, we will pay a fronting fee to each issuing bank in amounts to be agreed to between us and the applicable issuing bank. 
+ Interest on Alternate Base Rate loans is payable at the end of each calendar quarter. Interest on term SOFR loans is payable at the end of each interest rate period or at the end of each three-month interval within an interest rate period if the period is longer than three months. We may also prepay loans under the Second Amended and Restated Credit Agreement at any time, without penalty, subject to certain notice requirements. 
+ The loans and other obligations under the credit facility are (a) guaranteed by each of our wholly-owned material domestic restricted subsidiaries, subject to certain exceptions, and (b) are secured by substantially all of the assets of us and the 
+ 41 
+
+Table of Contents 
+
+ subsidiary guarantors, including a pledge of all the capital stock of material subsidiaries held directly by us and the subsidiary guarantors (which pledge, in the case of any foreign subsidiary, is limited to 65 of the voting stock), subject to certain customary exceptions and limitations. The Second Amended and Restated Credit Agreement generally prohibits any other liens on the assets of NetScout and our restricted subsidiaries, subject to certain exceptions as described in the Second Amended and Restated Credit Agreement. 
+ The Second Amended and Restated Credit Agreement contains certain covenants applicable to us and our restricted subsidiaries, including, without limitation, limitations on additional indebtedness, liens, various fundamental changes, dividends and distributions, investments (including acquisitions), transactions with affiliates, asset sales, including sale-leaseback transactions, speculative hedge agreements, payment of junior financing, changes in business and other limitations customary in senior secured credit facilities. The Second Amended and Restated Credit Agreement requires us to maintain a certain consolidated net leverage ratio and removes the previous requirement under our previous amended credit agreement that we maintain a minimum consolidated interest coverage ratio. Our consolidated net leverage ratio is the ratio of our Consolidated Total Debt minus the lesser of unrestricted cash and 125 of adjusted consolidated EBITDA compared to our adjusted consolidated EBITDA. Our maximum consolidated net leverage ratio is 4.00 to 1.00. These covenants and limitations are more fully described in the Second Amended and Restated Credit Agreement. At September 30, 2024, we were in compliance with all covenants, including the specified total consolidated net leverage ratio range of 4.00 to 1.00. 
+ The Second Amended and Restated Credit Agreement provides that events of default will exist in certain circumstances, including failure to make payment of principal or interest on the loans when required, failure to perform certain obligations under the Second Amended and Restated Credit Agreement and related documents including a failure to meet the maximum total consolidated net leverage ratio covenant, defaults under certain other indebtedness, certain insolvency events, certain events arising under ERISA, a change of control and certain other events. Upon an event of default, the administrative agent with the consent of, or at the request of, the holders of more than 50 in principal amount of the loans and commitments, may terminate the commitments and accelerate the maturity of the loans and enforce certain other remedies under the Second Amended and Restated Credit Agreement and the other loan documents. 
+ We had unamortized capitalized debt issuance costs, net of 2.0 million at September 30, 2024, which are being amortized over the life of the revolving credit facility. The unamortized capitalized debt issuance costs balance of 1.1 million was included as prepaid expenses and other current assets and a balance of 0.9 million was included as other assets in our consolidated balance sheet at September 30, 2024. On October 4, 2024, we amended and extended the Second Amended and Restated Credit Agreement (as amended and restated, the Third Amended and Restated Credit Agreement), which decreased the incremental amount available to us under our revolving credit facility to 525 million. For further information, see Note 20 contained in the "Notes to Consolidated Financial Statements" included in Part 1 of this quarterly report on Form 10-Q. 
+ Cash Requirements 
+ We are actively managing the business to generate cash flow and believe that we currently have adequate liquidity. We believe that these factors will allow us to meet our anticipated funding requirements for at least the next twelve months. 
+ We have contractual obligations for long-term debt, operating leases, unconditional purchase obligations, pension benefits plans and certain other long-term liabilities. Our obligations related to these items are described further within Management s Discussion and Analysis of Financial Condition and Results of Operations within our Annual Report filed on Form 10-K. We expect net cash provided by operating activities combined with cash, cash equivalents, marketable securities and investments and borrowing availability under our revolving credit facility will provide sufficient liquidity to fund current obligations, capital spending, debt service requirements and working capital requirements over at least the next twelve months. We believe we will meet longer-term expected future cash requirements and obligations through a combination of cash flows from operating activities, available cash balances, and our revolving credit facility. However, macroeconomic conditions, including high inflation and interest rates, and a potential recession, could increase our anticipated funding requirements or make it more difficult for us to access capital. 
+ A portion of our cash may be used to acquire or invest in complementary businesses or products, to obtain the right to use complementary technologies, to repay borrowings under our Third Amended and Restated Credit Agreement, or to repurchase shares of our common stock through our stock repurchase programs. From time to time, in the ordinary course of business, we evaluate potential acquisitions of such businesses, products or technologies. If our existing sources of liquidity are insufficient to satisfy our liquidity requirements, we may seek to sell additional equity or debt securities. Macroeconomic conditions, including high interest rates and volatility in the capital markets, may make it difficult for us to secure additional financing on favorable terms or at all. Any sale of additional equity or debt securities could result in additional dilution to our stockholders. 
+ 42 
+
+Table of Contents 
+
+ Recent Accounting Pronouncements 
+ For information with respect to recent accounting pronouncements on our consolidated financial statements, see Note 1 contained in the "Notes to Consolidated Financial Statements" included in Part I of this Quarterly Report on Form 10-Q. 
+ 43 
+
+Table of Contents 
+
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ Interest Rate Risk . We hold our cash, cash equivalents and investments for working capital purposes. Some of the securities we invest in are subject to market risk. This means that a change in prevailing interest rates may cause the principal amount of the investment to fluctuate. To minimize this risk, we maintain our portfolio of cash, cash equivalents and investments in a variety of securities, including money market funds and government debt securities. The risk associated with fluctuating interest rates is limited to our investment portfolio. Due to the short-term nature of these instruments, we believe that we do not have any material exposure to changes in the fair value of our investment portfolio as a result of changes in interest rates. Declines in interest rates, however, would reduce future interest income. The effect of a hypothetical 10 increase or decrease in overall interest rates would not have had a material impact on our operating results or the total fair value of the portfolio. 
+ We are exposed to market risks related to fluctuations in interest rates related to our credit facility. At September 30, 2024, we owed 75.0 million on this loan with an interest rate of 5.95 . A sensitivity analysis was performed on the outstanding portion of our debt obligation as of September 30, 2024. Should the current weighted-average interest rate increase or decrease by 10 , the resulting annual increase or decrease to interest expense would be approximately 446 thousand as of September 30, 2024. 
+ Foreign Currency Exchange Risk . As a result of our foreign operations, we face exposure to movements in foreign currency exchange rates, primarily the Euro, British Pound, Canadian Dollar and Indian Rupee. The current exposures arise primarily from expenses denominated in foreign currencies. We currently engage in foreign currency hedging activities in order to limit these exposures. Periodically, we also enter into forward contracts to manage exchange risk associated with third-party transactions and for which we do not elect hedge accounting treatment. We do not use derivative financial instruments for speculative trading purposes. 
+ At September 30, 2024, we had foreign currency forward contracts designated as hedging instruments with notional amounts totaling 10.2 million. The valuation of outstanding foreign currency forward contracts at September 30, 2024 resulted in a liability balance of 6 thousand, reflecting unfavorable contract rates in comparison to current market rates at this date and an asset balance of 132 thousand, reflecting favorable rates in comparison to current market rates at this date. At March 31, 2024, we had foreign currency forward contracts designated as hedging instruments with notional amounts totaling 11.7 million. The valuation of outstanding foreign currency forward contracts at March 31, 2024 resulted in a liability balance of 74 thousand, reflecting unfavorable contract rates in comparison to current market rates and an asset balance of 11 thousand, reflecting favorable rates in comparison to current market rates at this date. The effect of a hypothetical 10 change in foreign currency exchange rates applicable to our business would not have a material impact on our historical consolidated financial statements. As our international operations grow, we will continue to reassess our approach to manage our risk relating to fluctuations in currency rates. 
+ 
+ Item 4. Controls and Procedures 
+ At September 30, 2024, NetScout, under the supervision and with the participation of our management, including the Company's principal executive officer and principal financial officer, evaluated the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rule 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended (Exchange Act)). Based upon that evaluation, our principal executive officer and principal financial officer concluded that, at September 30, 2024, our disclosure controls and procedures were effective at the reasonable assurance level in ensuring that material information relating to NetScout, including its consolidated subsidiaries, required to be disclosed by NetScout in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC's rules and forms, including ensuring that such material information is accumulated and communicated to our management, including our principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure. 
+ There were no changes in our internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f) occurred during the period covered by this quarterly report that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
+ 
+ 44 
+
+Table of Contents 
+
+ PART II: OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings 
+ From time to time, we may be subject to legal proceedings and claims in the ordinary course of business. In the opinion of management, the amount of ultimate expense with resp ect to any current legal proceedings and claims, if determined adversely, will not have a material adverse effect on the Company's financial condition, results of operations or cash flows. For additional information regarding our legal proceedings, if any, see Note 14 contained in the "Notes to Consolidated Financial Statements" included in Part I of this Quarterly Report on Form 10-Q, which is incorporated herein by reference. 
+ 
+ Item 1A. Risk Factors 
+ In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part I, Item 1A. Risk Factors in our Annual Report on Form 10-K for our fiscal year ended March 31, 2024. The risks discussed in our Annual Report on Form 10-K could materially affect our business, financial condition and future results. There have been no material changes to those risk factors since we filed our Annual Report on Form 10-K. The risks described in our Annual Report on Form 10-K are not the only risks facing us. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially and adversely affect our business, financial condition or operating results. 
+ 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ Sales of Unregistered Securities 
+ None. 
+ Purchases of Equity Securities by the Issuer 
+ The following table provides information about purchases we made during the quarter ended September 30, 2024 of equity securities that are registered by us pursuant to Section 12 of the Exchange Act: Period Total Number of Shares Purchased (1) Average Price Paid per Share Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs Maximum Number of Shares That May Yet be Purchased Under the Program 7/1/2024-7/31/2024 3,938 18.66 23,037,584 8/1/2024-8/31/2024 73,321 20.45 14,305 23,023,279 9/1/2024-9/30/2024 1,183 20.59 23,023,279 Total 78,442 20.36 14,305 23,023,279 
+ (1) We purchased an aggregate of 64,137 shares during the three months ended September 30, 2024 transferred to us from employees in satisfaction of minimum tax withholding obligations associated with the vesting of restricted stock units during the period. Such purchases reflected in the table do not reduce the maximum number of shares that may be purchased under our 25 million share repurchase program authorized on May 3, 2022 (2022 Share Repurchase Program). 
+
+Item 3. Defaults Upon Senior Securities 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures 
+ Not Applicable. 
+ 
+ Item 5. Other Information 
+ Insider Adoption or Termination of Trading Arrangements: 
+ During the fiscal quarter ended September 30, 2024, none of our directors or officers (as defined in Rule 16a-1(f) under the Exchange Act) or any contracts, instructions or written plans for the purchase or sale of our securities. 
+ 45 
+
+Table of Contents 
+
+ Item 6. Exhibits 
+ (a) Exhibits 
+ 3.1 
+ Composite conformed copy of Third Amended and Restated Certificate of Incorporation of NetScout (as amended) (filed as Exhibit 3.2 to NetScout's current report on Form 8-K, SEC File No. 000-26251, filed on September 21, 2016, and incorporated herein by reference). 3.2 
+ Amended and Restated By-laws of NetScout (filed as Exhibit 3.1 to NetScout's current report on Form 8-K, SEC File No. 000-26251, filed on May 11, 2020 and incorporated herein by reference). 31.1 
+ + Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 31.2 
+ + Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 32.1 
+ ++ Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 32.2 
+ ++ Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 101.INS + XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 101.SCH + Inline XBRL Taxonomy Extension Schema Document. 101.CAL + Inline XBRL Taxonomy Extension Calculation Linkbase document. 101.DEF + Inline XBRL Taxonomy Extension Definition Linkbase document. 101.LAB + Inline XBRL Taxonomy Extension Label Linkbase document. 101.PRE + Inline XBRL Taxonomy Extension Presentation Linkbase document. 104 The cover page from the Company's Quarterly Report on Form 10-Q for the quarter ended September 30, 2024 formatted in Inline XBRL 
+ 
+ + Filed herewith. ++ Exhibit has been furnished, is not deemed filed and is not to be incorporated by reference into any of the Company's filings under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, irrespective of any general incorporation language contained in any such filing. 
+ 
+ 46 
+
+Table of Contents 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ NETSCOUT SYSTEMS, INC. Date: November 1, 2024 
+ /s/ Anil K. Singhal Anil K. Singhal President, Chief Executive Officer and Chairman (Principal Executive Officer) Date: November 1, 2024 
+ /s/ Jean Bua Jean Bua Executive Vice President and Chief Financial Officer (Principal Financial Officer) 
+ (Principal Accounting Officer) 
+ 
+ 47 
+
+<EX-31.1>
+ 2
+ ntct-ex311_20240930.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATIONS 
+ I, Anil K. Singhal, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of NetScout Systems, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 1, 2024 
+ 
+ s Anil K. Singhal Anil K. Singhal President, Chief Executive Officer and Chairman (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ntct-ex312_20240930.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATIONS 
+ I, Jean Bua, certify that 
+ 1. I have reviewed this quarterly report on Form 10-Q of NetScout Systems, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 1, 2024 
+ 
+ s Jean Bua Jean Bua Executive Vice President and Chief Financial Officer (Principal Financial Officer) (Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ntct-ex321_20240930.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of NetScout Systems, Inc. (the Company on Form 10-Q for the period ending September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Anil K. Singhal, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ s Anil K. Singhal Anil K. Singhal President, Chief Executive Officer and Chairman (Principal Executive Officer) 
+ November 1, 2024 
+ This certification accompanies the Form 10-Q to which it relates, is not deemed filed with the Securities and Exchange Commission and is not to be incorporated by reference into any filing of NetScout Systems, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before or after the date of the Form 10-Q), irrespective of any general incorporation language contained in such filing. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ntct-ex322_20240930.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of NetScout Systems, Inc. (the Company on Form 10-Q for the period ending September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Jean Bua, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ s Jean Bua Jean Bua Executive Vice President and Chief Financial Officer (Principal Financial Officer) (Principal Accounting Officer) 
+ November 1, 2024 
+ This certification accompanies the Form 10-Q to which it relates, is not deemed filed with the Securities and Exchange Commission and is not to be incorporated by reference into any filing of NetScout Systems, Inc. under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended (whether made before or after the date of the Form 10-Q), irrespective of any general incorporation language contained in such filing. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ ntct-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ ntct-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ ntct-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ ntct-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ ntct-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

@@ -1,0 +1,880 @@
+<Header>
+<FileStats>
+    <FileName>20241105_10-Q_edgar_data_1837686_0001837686-24-000110.txt</FileName>
+    <GrossFileSize>5713662</GrossFileSize>
+    <NetFileSize>90608</NetFileSize>
+    <NonText_DocumentType_Chars>1202215</NonText_DocumentType_Chars>
+    <HTML_Chars>1990991</HTML_Chars>
+    <XBRL_Chars>1262174</XBRL_Chars>
+    <XML_Chars>1064625</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001837686-24-000110.hdr.sgml : 20241105
+<ACCEPTANCE-DATETIME>20241104175203
+ACCESSION NUMBER:		0001837686-24-000110
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		67
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241105
+DATE AS OF CHANGE:		20241104
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Vimeo, Inc.
+		CENTRAL INDEX KEY:			0001837686
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				854334195
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40420
+		FILM NUMBER:		241424969
+
+	BUSINESS ADDRESS:	
+		STREET 1:		330 WEST 34TH STREET
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+		BUSINESS PHONE:		212-524-8791
+
+	MAIL ADDRESS:	
+		STREET 1:		330 WEST 34TH STREET
+		STREET 2:		5TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10001
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Vimeo Holdings, Inc.
+		DATE OF NAME CHANGE:	20201222
+
+</SEC-Header>
+</Header>
+
+ 0001837686-24-000110.txt : 20241105
+
+10-Q
+ 1
+ vmeo-20240930.htm
+ 10-Q
+
+vmeo-20240930 
+ 
+ Table of Contents 
+ As filed with the Securities and Exchange Commission on November 5, 2024 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the Quarterly Period Ended 
+ Or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from__________to__________ 
+ Commission File No. 
+
+(Exact name of registrant as specified in its charter) 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ , , 
+ (Address of registrant's principal executive offices) 
+ ) 
+ (Registrant's telephone number, including area code) 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of Each Class Trading Symbol Name of Exchange on Which Registered 
+ (Nasdaq Global Select Market) 
+ 
+ Securities registered pursuant to Section 12(g) of the Act: 
+ None 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of "large accelerated filer," "accelerated filer," "smaller reporting company," and "emerging growth company" in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ As of October 31, 2024, the follo wing shares of the registrant's common stock were outstanding: 
+ Common Stock Class B common stock Total 165,850,914 
+
+TABLE OF CONTENTS 
+ Page Number PART I 
+ Item 1. 
+ Consolidated Financial Statements 
+ 5 
+ Vimeo, Inc. and Subsidiaries 
+ Consolidated Balance Sheet 
+ 5 
+ Consolidated Statement of Operations 
+ 6 
+ Consolidated Statement of Comprehensive Operations 
+ 7 
+ Consolidated Statement of Shareholders' Equity 
+ 8 
+ Consolidated Statement of Cash Flows 
+ 9 
+ Note 1 Organization and Basis of Presentation 
+ 10 
+ Note 2 Revenue 
+ 11 
+ Note 3 Income Taxes 
+ 12 
+ Note 4 Fair Value Measurements 
+ 13 
+ Note 5 Shareholders' Equity 
+ 14 
+ Note 6 Accumulated Other Comprehensive Loss 
+ 15 
+ Note 7 Earnings Per Share 
+ 16 
+ Note 8 Financial Statement Details 
+ 17 
+ Note 9 Contingencies 
+ 18 
+ Note 10 Related Party Transactions 
+ 21 
+ Note 11 Restructuring 
+ 21 
+ Item 2. 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations for Vimeo 
+ 22 
+ Item 3. 
+ Quantitative and Qualitative Disclosures about Market Risk 
+ 34 
+ Item 4. 
+ Controls and Procedures 
+ 35 
+ PART II 
+ Item 1. 
+ Legal Proceedings 
+ 36 
+ Item 1A. 
+ Risk Factors 
+ 36 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 37 
+ Item 5. 
+ Other Information 
+ 39 
+ Item 6. 
+ Exhibits 
+ 39 
+ Signatures 
+ 40 
+
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ 
+ This Quarterly Report on Form 10-Q contains "forward-looking statements" within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as "will," "may, "could," "should," "would," "anticipates," "estimates," "expects," "plans," "projects," "forecasts," "intends," "targets," "seeks" and "believes," as well as variations of these words, among others, generally identify forward-looking statements. These forward-looking statements include, among others, statements relating to Vimeo's future results of operations and financial condition, business strategy, and plans and objectives of management for future operations. 
+ Forward-looking statements are based on our management's beliefs and assumptions and on information currently available. These forward-looking statements are subject to a number of known and unknown risks, uncertainties and assumptions. Actual results could differ materially from those contained in or implied by these forward-looking statements. Factors that could cause or contribute to such differences include, but are not limited to: 
+ we have a history of losses, 
+ our prior rapid growth may not be indicative of future performance, and our revenue has declined in recent periods, 
+ our total addressable market may prove to be smaller than we expect, 
+ our ability to read data and make forecasts may be limited, 
+ we may not have the right product/market fit and may not be able to attract free users or subscribers, 
+ we may not be able to convert our free users into subscribers, 
+ competition in our market is intense, 
+ we may not be able to scale our business effectively, 
+ we may need additional funding as we continue to grow our business, 
+ the use or capabilities of artificial intelligence in our offerings may result in reputational harm, cost and liability, 
+ we may experience service interruptions, 
+ hosting and delivery costs may increase unexpectedly, 
+ a downturn in global economic conditions may harm our industry, business and results of operations, 
+ our business involves hosting large quantities of user content, 
+ we have been sued for hosting content that allegedly infringed on a third-party copyright, 
+ we may face liability for hosting a variety of tortious or unlawful materials, 
+ we have faced negative publicity for removing, or declining to remove, certain content, regardless of whether such content violated any law, 
+ we collect, store and process large amounts of content and personal information and any loss of or unauthorized access to such data could materially impact our business, 
+ if our business becomes constrained by changing legal and regulatory requirements, including with respect to privacy, data security and data protection, consumer protection, and user-generated content, or enforcement by government regulators, including fines, orders or consent decrees in the U.S. or other jurisdictions in which we operate, our operating results will suffer, 
+ we may experience a disruption of our business activities due to senior executive transitions, 
+ we have been the target of cyberattacks by malicious actors, 
+ we have faced claims that we infringe third-party intellectual property rights, and 
+ the risks described in the section titled "Risk Factors" and elsewhere in this Quarterly Report on Form 10-Q. 
+ Moreover, we operate in a very competitive and rapidly changing environment. New risk factors emerge from time to time, and it is not possible for our management to predict all risk factors nor can we assess the impact of all factors on our business or the extent to which any factor, or combination of factors, may cause actual results to differ from those contained in, or implied by, any forward-looking statements. 
+
+You should not rely upon forward-looking statements as predictions of future events. We cannot assure you that the events and circumstances reflected in the forward-looking statements will be achieved or occur. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee future results, levels of activity, performance, or achievements. You should read this Quarterly Report on Form 10-Q and the documents that we reference in this Quarterly Report on Form 10-Q and have filed as exhibits to this report with the understanding that our actual future results, levels of activity, performance, and achievements may be materially different from what we expect. Any forward-looking statements only speak as of the date of this document, and we undertake no obligation to update any forward-looking information or statements, whether written or oral, to reflect any change, except as required by law. All forward-looking statements attributable to us or persons acting on our behalf are expressly qualified by these cautionary statements. 
+
+Table of Contents 
+
+PART I 
+ FINANCIAL INFORMATION 
+ 
+ Item 1. Consolidated Financial Statements 
+ 
+ VIMEO, INC. AND SUBSIDIARIES 
+ CONSOLIDATED BALANCE SHEET 
+ (Unaudited) 
+ September 30, 2024 December 31, 2023 (In thousands, except par value amounts) ASSETS Cash and cash equivalents Accounts receivable, net Prepaid expenses and other current assets Total current assets Leasehold improvements and equipment, net Goodwill Intangible assets with definite lives, net Other non-current assets TOTAL ASSETS LIABILITIES AND SHAREHOLDERS' EQUITY LIABILITIES: Accounts payable, trade Deferred revenue Accrued expenses and other current liabilities Total current liabilities Other long-term liabilities Commitments and contingencies par value; shares authorized; and shares issued and and shares outstanding, respectively 
+ Class B common stock, par value; shares authorized; shares issued and outstanding, respectively 
+ Preferred stock, par value; shares authorized; shares issued and outstanding 
+ Additional paid-in capital Accumulated deficit ) ) Accumulated other comprehensive loss ) ) Treasury stock, and shares, respectively 
+ ) Total shareholders' equity TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY 
+ 
+ The accompanying Notes to Consolidated Financial Statements are an integral part of these statements. 
+ 5 
+
+Table of Contents 
+
+VIMEO, INC. AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENT OF OPERATIONS 
+ (Unaudited) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (In thousands, except per share data) Revenue Cost of revenue (exclusive of depreciation shown separately below) Gross profit Operating expenses: Research and development expense Sales and marketing expense General and administrative expense Depreciation Amortization of intangibles Total operating expenses Operating income Interest expense ) Other income, net Earnings before income taxes Income tax provision ) ) ) ) Net earnings Per share information: Basic earnings per share Diluted earnings per share Stock-based compensation expense by function: Cost of revenue Research and development expense Sales and marketing expense General and administrative expense ) Total stock-based compensation expense 
+ 
+ The accompanying Notes to Consolidated Financial Statements are an integral part of these statements. 
+ 6 
+
+Table of Contents 
+
+VIMEO, INC. AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENT OF COMPREHENSIVE OPERATIONS 
+ (Unaudited) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (In thousands) Net earnings Other comprehensive income (loss): Change in foreign currency translation adjustment ) ) Total other comprehensive income (loss) ) ) Comprehensive income 
+
+The accompanying Notes to Consolidated Financial Statements are an integral part of these statements. 
+ 7 
+
+Table of Contents 
+
+VIMEO, INC. AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENT OF SHAREHOLDERS' EQUITY 
+ Three and Nine Months Ended September 30, 2024 and 2023 
+ (Unaudited) 
+ Common stock, par value 
+ Class B common stock, par value 
+ Additional Paid-in Capital Accumulated Deficit Accumulated Other Comprehensive Loss Treasury Stock Total Shareholders' Equity Shares Shares (In thousands) Balance at June 30, 2024 ) ) ) Net earnings Other comprehensive income Stock-based compensation expense Amounts related to settlement of equity awards ) ) Purchase of treasury stock ) ) Balance at September 30, 2024 ) ) ) Balance at December 31, 2023 ) ) Net earnings Other comprehensive income Stock-based compensation expense Amounts related to settlement of equity awards ) ) Purchase of treasury stock ) ) Balance at September 30, 2024 ) ) ) 
+ 
+ Common stock, par value 
+ Class B common stock, par value 
+ Additional Paid-in Capital Accumulated Deficit Accumulated Other Comprehensive Loss Total Shareholders' Equity Shares Shares (In thousands) Balance at June 30, 2023 ) ) Net earnings Other comprehensive loss ) ) Stock-based compensation expense Amounts related to settlement of equity awards ) ) Balance at September 30, 2023 ) ) Balance at December 31, 2022 ) ) Net earnings Other comprehensive loss ) ) Stock-based compensation expense Amounts related to settlement of equity awards ) ) Restricted Stock Award ) ) Balance at September 30, 2023 ) ) 
+ 
+ The accompanying Notes to Consolidated Financial Statements are an integral part of these statements. 
+ 8 
+
+Table of Contents 
+
+VIMEO, INC. AND SUBSIDIARIES 
+ CONSOLIDATED STATEMENT OF CASH FLOWS 
+ (Unaudited) 
+ Nine Months Ended September 30, 2024 2023 (In thousands) Cash flows from operating activities: Net earnings Adjustments to reconcile net earnings to net cash provided by operating activities: Stock-based compensation expense Amortization of intangibles Depreciation Provision for credit losses Loss on the sale of an asset Non-cash lease expense Other adjustments, net Changes in assets and liabilities: Accounts receivable ) Prepaid expenses and other assets ) Accounts payable and other liabilities ) ) Deferred revenue ) Net cash provided by operating activities Cash flows from investing activities: Capital expenditures ) ) Proceeds from the sale of an asset Net cash (used in) provided by investing activities ) Cash flows from financing activities: Amounts related to settlement of equity awards ) ) Proceeds from exercise of stock options Purchases of treasury stock ) Contingent consideration payment ) Other ) Net cash used in financing activities ) ) Total cash provided Effect of exchange rate changes on cash and cash equivalents and restricted cash ) ) Net increase in cash and cash equivalents and restricted cash Cash and cash equivalents and restricted cash at beginning of period Cash and cash equivalents and restricted cash at end of period 
+ 
+ The accompanying Notes to Consolidated Financial Statements are an integral part of these statements. 
+ 9 
+
+Table of Contents 
+ VIMEO, INC. AND SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+NOTE 1 
+ 
+ 10 
+
+Table of Contents 
+ VIMEO, INC. AND SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (Unaudited) 
+
+NOTE 2 
+ 
+ Vimeo Enterprise Other Total 
+ 
+ of total revenue of the Company for the three and nine months ended September 30, 2024 and 2023 . 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (In thousands) Revenue: United States All other countries Total 
+ 
+ 11 
+
+Table of Contents 
+ VIMEO, INC. AND SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (Unaudited) 
+
+Other long-term liabilities 
+ During the nine months ended September 30, 2024, Vimeo recognized million of revenue that was included in the deferred revenue balance at December 31, 2023. During the nine months ended September 30, 2023, Vimeo recognized million of revenue that was included in the deferred revenue balance at December 31, 2022. 
+ Other non-current assets 
+ 
+ NOTE 3 
+ million and million, respectively. For the nine months ended September 30, 2024 and 2023, Vimeo recorded an income tax provision of million and million, respectively. For the three and nine months ended September 30, 2024, the effective income tax rate was lower than the federal statutory rate of 21 primarily due to movement in the valuation allowance and the effects of international tax provisions as required under 2017 Tax Cuts and Jobs Act, partially offset by stock-based awards. Vimeo's largest deferred tax assets are capitalized research and development expenses and tax attribute carryforwards. Vimeo has recorded a valuation allowance for the majority of its net deferred tax assets because it has concluded that it is more likely than not that the tax benefit will not be realized. 
+ 
+ 12 
+
+Table of Contents 
+ VIMEO, INC. AND SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (Unaudited) 
+
+ million and million, respectively. The Company would recognize an income tax benefit of million i f unrecognized tax benefits at September 30, 2024 are subsequently recognized. Vimeo believes no unrecognized tax benefits would decrease by September 30, 2025. Vimeo recognizes interest and penalties related to unrecognized tax benefits, if applicable, in the income tax provision. 
+
+NOTE 4 
+ Time deposits Total 
+ 
+ December 31, 2023 Quoted Market Prices for Identical Assets in Active Markets (Level 1) Significant Other Observable Inputs (Level 2) Significant Unobservable Inputs (Level 3) Total Fair Value Measurements (In thousands) Money market funds Time deposits Total 
+ 
+ Money market funds and time deposits are included in "Cash and cash equivalents" in the accompanying consolidated balance sheet. 
+ Vimeo's non-financial assets (which consist primarily of goodwill, ROU assets, and intangible assets with definite lives) are adjusted to fair value only if an impairment is recognized. Such fair value measurements are based predominantly on Level 3 inputs. 
+ 13 
+
+Table of Contents 
+ VIMEO, INC. AND SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (Unaudited) 
+
+Total net gains: Included in operating income ) ) Settlements ) ) Balance at end of period 
+ 
+ Contingent Consideration Arrangements 
+ 
+ The aggregate purchase price of the Company's 2021 acquisitions of WIREWAX Ltd. ("WIREWAX") and Wibbitz Ltd. ("Wibbitz") consisted of cash consideration and contingent consideration, based on a combination of certain financial metrics and integration milestones. 
+ In the first quarter of 2023, the contingent consideration arrangement for WIREWAX was finalized and resulted in a payment of million to WIREWAX's former shareholders and a million loss that was recorded within "General and administrative expense" in the accompanying consolidated statement of operations. In the accompanying consolidated statement of cash flows, the final million payment is included in "Contingent consideration payment" within financing activities and "Accounts payable and other liabilities" within operating activities for million and million, respectively. 
+ million to Wibbitz's former shareholders. 
+
+NOTE 5) of the total number of Vimeo directors, rounded up to the next whole number in the event of a fraction. Each outstanding share of Vimeo common stock and Vimeo Class B common stock entitles the holder to vote per share and votes per share, respectively. 
+ The holders of shares of Vimeo common stock and the holders of shares of Vimeo Class B common stock are entitled to receive, share for share, such dividends as may be declared by Vimeo's Board of Directors (the "Board") out of funds legally available for the payment of dividends. In the event of a liquidation, dissolution, distribution of assets or winding-up of Vimeo, the holders of shares of Vimeo common stock and the holders of shares of Vimeo Class B common stock are entitled to receive, share for share, all the assets available for distribution after payment of a proper amount to the holders of any series of Vimeo preferred stock, including any series that may be issued in the future. 
+ Vimeo is authorized to issue shares of Vimeo common stock and shares of Vimeo Class B common stock. 
+ 14 
+
+Table of Contents 
+ VIMEO, INC. AND SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (Unaudited) 
+
+ shares were reflected in the accompanying consolidated balance sheet within "Common Stock" at September 30, 2024 and December 31, 2023. Vesting of the Vimeo Restricted Shares is subject to Mr. Levin's continued service as Special Advisor to the Board through November 5, 2030, as well as the achievement of certain stock price targets. Vimeo Restricted Shares have a non-forfeitable dividend right in the event the Company declares a cash dividend to common shareholders and participates in all other distributions of the Company in the same manner as all other Vimeo common shareholders. 
+ Description of Preferred Stock 
+ The Board is authorized to provide for the issuance of shares of preferred stock, and any class or series thereof, and to assign the designations, powers, preferences and rights to each such class or series and any qualifications, limitations or restrictions. There have been no preferred stock issuances to date. 
+ Stock Repurchase Program 
+ On February 25, 2022, the Board authorized a stock repurchase program of up to million of the Company s common stock through open market or private transactions (the "Stock Repurchase Program"). Under the Stock Repurchase Program, Vimeo may repurchase shares of its common stock at any time or from time to time, without prior notice, subject to market conditions and other considerations, as determined by management. Vimeo's repurchases may be made through 10b5-1 plans, open market purchases, privately negotiated transactions, block purchases or other transactions. No date has been established for the completion of the Stock Repurchase Program. Vimeo intends to fund repurchases under the Stock Repurchase Program from cash on hand. Vimeo has no obligation to repurchase any shares under the Stock Repurchase Program and may suspend or discontinue it at any time. During the nine months ended September 30, 2024, the Company repurchased million shares of its common stock, on a trade date basis, at an average cost of per share, or in aggregate million. There were shares repurchased during the nine months ended September 30, 2023. The Company accounts for treasury stock under the cost method. 
+ Subsequent to September 30, 2024 and through October 31, 2024, the Company repurchased million shares of its common stock, on a trade date basis, at an average cost of per share, or in aggregate million. At October 31, 2024, the Company has million remaining under its share repurchase authorization. 
+ 
+ NOTE 6) ) ) ) Other comprehensive income (loss) ) ) Balance at end of period ) ) ) ) 
+ At both September 30, 2024 and 2023, there was tax benefit or provision on accumulated other comprehensive loss. 
+ 15 
+
+Table of Contents 
+ VIMEO, INC. AND SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (Unaudited) 
+
+ NOTE 7 
+ Less: Net earnings attributed to participating security ) ) ) ) Net earnings attributable to common stock shareholders Denominator: (a) 
+ Weighted average basic common shares outstanding Basic earnings per share Diluted EPS: Numerator: Net earnings Less: Net earnings attributed to participating security ) ) ) ) Net earnings attributable to common stock shareholders Denominator: (a) 
+ Weighted average basic common shares outstanding Dilutive securities Weighted average diluted common shares outstanding Antidilutive securities Diluted earnings per share 
+ _____________________ 
+ 
+ 16 
+
+Table of Contents 
+ VIMEO, INC. AND SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (Unaudited) 
+
+ NOTE 8 
+ Restricted cash included in Prepaid expenses and other current assets Total cash and cash equivalents and restricted cash as shown in the accompanying consolidated statement of cash flows 
+ Restricted cash at September 30, 2024, September 30, 2023, and December 31, 2022 primarily consisted of deposits related to a lease and corporate credit cards. 
+ Restricted cash at December 31, 2023 primarily consisted of a deposit related to corporate credit cards. 
+ Credit Losses 
+ Provision for credit losses Write-offs charged against the allowance ) ) Recoveries collected Currency translation adjustment ) Balance at end of period 
+ Accumulated Amortization and Depreciation 
+ Leasehold improvements and equipment Intangible assets with definite lives 
+ 
+ 17 
+
+Table of Contents 
+ VIMEO, INC. AND SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (Unaudited) 
+
+ Foreign exchange (losses) gains, net ) Loss on the sale of an asset ) Other income, net 
+ 
+ Geographic Concentrations 
+ All other countries Total 
+ 
+ NOTE 9 
+ lawsuits against Vimeo and its former owner, Connected Ventures, in the U.S. District Court for the Southern District of New York. See Capitol Records, LLC v. Vimeo, LLC , No. 09 Civ. 10101 (S.D.N.Y.) and EMI Blackwood Music, Inc. v. Vimeo, LLC , No. 09 Civ. 10105 (S.D.N.Y.). In both cases, plaintiffs allege that Vimeo infringed their music copyrights (in the publishers' musical compositions and the record companies' sound recordings) by hosting and streaming videos uploaded by users (and in certain cases, former employees) featuring their musical works. Plaintiffs seek, among other things, injunctive relief and monetary damages. The initial complaints identified videos as infringing (which Vimeo removed post-suit). 
+ 18 
+
+Table of Contents 
+ VIMEO, INC. AND SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (Unaudited) 
+
+ of the original videos-in-suit on the ground that Vimeo complied with the threshold requirements of the DMCA and that there was no evidence that a Vimeo employee had watched the videos in question such that Vimeo had actual or "red flag" knowledge of infringement, which would disqualify the DMCA's application. The court denied summary judgment as to videos-in-suit on the ground that there was a material question of fact as to whether Vimeo had "red flag" knowledge of infringement based upon employees having watched all or part of these videos. The court further held that the DMCA did not apply to the record companies' state-law claims regarding sound recordings fixed before February 1972; a trial was necessary to determine whether Vimeo was liable for employees who uploaded approximately videos; and that plaintiffs should be permitted to amend their complaints to add over videos allegedly infringing their copyrights (which Vimeo removed after receiving plaintiffs' proposed amended complaint). 
+ Vimeo sought and obtained the right to appeal certain issues on an interlocutory basis to the U.S. Court of Appeals for the Second Circuit. On June 16, 2016, the Second Circuit held that (1) the district court had applied the incorrect summary-judgment standard for "red flag" infringement and that evidence that an employee watched all or part of a video containing plaintiffs' music did not raise a genuine issue of fact as to whether Vimeo had "red flag" knowledge in such video; (2) the DMCA applies to state-law copyright infringement claims predicated on pre-1972 sound recordings; and (3) on an issue raised by plaintiffs in their cross-appeal, the record did not show that Vimeo was willfully blind towards infringing activity taking place on its platform. As a result of these rulings, the Second Circuit partially vacated the district court's ruling and remanded the case for further proceedings consistent with its judgment. 
+ On March 31, 2018, the district court granted Vimeo s motion to dismiss plaintiffs' state-law unfair competition claims on the grounds that they were state-law copyright claims covered by the DMCA per the Second Circuit's judgment. On May 28, 2021, the district court granted Vimeo summary judgment as to videos for which the sole remaining basis of liability was the assertion that Vimeo had "red flag" knowledge of infringement. On August 26, 2021, the district court approved a stipulation whereby plaintiffs agreed to conditionally dismiss all remaining claims to allow a final judgment to issue. Under the stipulation, plaintiffs may refile their claims regarding the alleged employee-uploaded videos if the Second Circuit reverses the district court's other rulings in whole or in part. On November 1, 2021, the district court entered a final judgment adopting the terms of the parties' stipulation. On November 29, 2021, plaintiffs filed an appeal to the U.S. Court of Appeals for the Second Circuit. The appeal has been fully briefed and argued. 
+ RTI Copyright Litigation 
+ Between 2012 and 2017, Italian broadcaster Reti Televisive Italiane s.p.a. and an affiliate thereof (collectively, "RTI") filed lawsuits for copyright infringement against Vimeo in the Civil Court of Rome. See Reti Televisive Italiane s.p.a. v. Vimeo, LLC , Cause Nos. 23732/12, 62343/2015, and 59780/2017 (Rome Civil Court), and Medusa Film v. Vimeo, Inc. , Cause No. 74775/2017 (Rome Civil Court). In each case, RTI asserts that Vimeo infringed its copyrights by hosting and streaming user-uploaded videos that allegedly contain RTI's television or film programming, and seeks, among other things, injunctive relief and monetary damages. 
+ On January 15, 2019, the Civil Court of Rome concluded the first case (No. 23732/12) and entered a judgment against Vimeo, awarding RTI damages of plus interest and entering an injunction against Vimeo with respect to further acts of infringement. Vimeo filed an appeal and petitioned to stay the judgment pending appeal. On May 13, 2019, the Rome Court of Appeals stayed the judgment pending appeal. On August 10, 2022, the Rome Court of Appeals affirmed the judgment. Vimeo has appealed to the Italian Supreme Court of Cassation and the case is currently pending (No. 26719/2022). 
+ 
+ 19 
+
+Table of Contents 
+ VIMEO, INC. AND SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (Unaudited) 
+
+ plus interest and entering an injunction against Vimeo as to further acts infringement. Vimeo filed an appeal and petitioned to stay the judgment pending appeal. The Rome Court of Appeals declined to stay the judgment. On October 12, 2023, the Rome Court of Appeals published its decision affirming the lower court's judgment on liability but reducing the amount of damages to plus interests and costs. Vimeo has appealed to the Italian Supreme Court of Cassation and the case is currently pending (No. 856/2024). 
+ To pursue enforcement of the judgments in the United States, RTI initially commenced a lawsuit against Vimeo in the U.S. District Court for the Southern District of New York on October 26, 2020 to enforce the June 2019 judgment. See Reti Televisive Italiane s.p.a. v. Vimeo, LLC, No. 20 Civ. 8954 (S.D.N.Y.). On December 22, 2020, Vimeo and RTI filed, and the district court entered, a stipulation and order staying the U.S. proceedings pending the final outcome of the appeals from the Italian judgment at issue. On June 1, 2023, RTI filed an action in the Supreme Court of New York, New York County to enforce the Civil Court's judgment of (No. 652646/2023). The case was removed to federal court and is now pending in the Southern District of New York. See Reti Televisive Italiane S.p.A. v. Vimeo.com, Inc, No. 23 Civ. 05488 (S.D.N.Y.). On October 20, 2023, the U.S. District Court for the Southern District of New York entered an order lifting the stay of the U.S. enforcement proceedings in the first case (No. 20 Civ. 8954) and consolidating the two enforcement proceedings (No. 20 Civ. 8954 and No. 23 Civ. 05488). Vimeo has filed a Motion for Summary Judgement or, in the Alternative, to Stay the Case. 
+ On April 7, 2023, the Civil Court of Rome published a decision finding in favor of Vimeo and dismissing the third case (No. 59780/2017) in its entirety. On October 9, 2023, RTI served Vimeo with its appeal challenging the court 's decision in the third case. 
+ 
+ On October 18, 2022, the Civil Court of Rome issued a decision in the fourth case, Medusa Film v. Vimeo, Inc. (No. 74775/2017) finding liability but rejecting RTI's damage calculation and reserving judgment as to the amount of damages. On November 30, 2022, RTI served a notice of appeal challenging the court's decision on damages. 
+ 
+ On June 26, 2024, the parties entered into a settlement agreement to resolve the lawsuits pending in Italy and the consolidated enforcement action pending in New York. The settlement agreement included a payment to the plaintiffs, which did not have a material impact on Vimeo s financial condition, results of operations, or cash flows. Pursuant to the settlement agreement, on July 12, 2024, the parties filed a Joint Stipulation of Dismissal of the consolidated enforcement action in the Southern District of New York (No. 23 Civ. 05488), and the case is now closed. On July 18, 2024, the parties filed Joint Stipulations of Dismissal to resolve the cases pending in the Civil Court of Rome (No. 74775/2017), the Rome Court of Appeals (Nos. 6536/2022 and 5033/2023), and the Italian Supreme Court of Cassation (Nos. 26719/2022 and 856/2024). The Civil Court of Rome and the Rome Court of Appeals have dismissed the cases pending before them. The Italian Supreme Court of Cassation has not yet dismissed the cases pending before it. 
+ 
+ Sony/Universal/Warner Copyright Litigation 
+ In March 2021, Sony Music Entertainment Italy (a subsidiary of Sony Music Entertainment Group), Warner Music Italia (a subsidiary of Warner Music Group), Universal Music Italia (a subsidiary of Universal Music Group), and Warner Music International Services (a subsidiary of Warner Music Group) filed a lawsuit against Vimeo in the Court of Milan alleging violations of Italian copyright and unfair competition laws. See Sony Music Entertainment Italy s.p.a. et al. v. Vimeo, Inc. , Case No. 10977/2021 (Court of Milan, Business Division). The complaint alleges that Vimeo infringed plaintiffs' copyrights by hosting and streaming user-uploaded videos that contain plaintiffs' copyrighted works and that, upon notification of the alleged infringement, Vimeo employed a takedown process that did not comply with Italian law. The complaint seeks, among other things, injunctive relief and damages to be quantified in a separate proceeding. Additionally, the complaint seeks potential penalties of per day of delay in removing unauthorized works after receipt of a court order to do so, if applicable. On November 3, 2021, Vimeo filed its initial brief. On November 23, 2021, the parties attended the initial hearing with the Court of Milan where the court set forth a briefing schedule. The parties have exchanged briefs, and the claims hearing scheduled for October 16, 2024 has been rescheduled for October 8, 2025. 
+ 20 
+
+Table of Contents 
+ VIMEO, INC. AND SUBSIDIARIES 
+ NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+ (Unaudited) 
+
+ NOTE 10 
+ million and million included in " Accrued expenses and other current liabilities ," respectively, and a non-current lease liability of million and million included in " Other long-term liabilities ," respectively, related to the West 34th Street Sublease in the accompanying consolidated balance sheet. Rent expense for the three and nine months ended September 30, 2024 and 2023 were both million and million, respectively. 
+ 
+ NOTE 11 
+ and of its employees, respectively. One-time termination benefits provided as part of the restructuring plans include severance, continuation of health insurance coverage and other benefits for a specified period of time, which resulted in million and million of restructuring costs for the nine months ended September 30, 2024 and 2023, respectively. 
+ Research and development expense Sales and marketing expense General and administrative expense Total 
+ At September 30, 2024, all payments under the restructuring plans have been made. 
+ 21 
+
+Table of Contents 
+
+ Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations for Vimeo 
+
+GENERAL 
+ Management's Discussion and Analysis of Financial Condition and Results of Operations should be read in conjunction with the Vimeo consolidated financial statements for the three and nine months ended September 30, 2024 included in " Item 1 Consolidated Financial Statements ." 
+ Operating Metrics and Key Terms: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change 2024 2023 Change (In thousands, except ARPU) Self-Serve Add-Ons: Subscribers 1,275.4 1,397.3 (9) 1,275.4 1,397.3 (9) Average Subscribers 1,290.0 1,414.7 (9) 1,327.6 1,451.2 (9) ARPU 209 202 4 208 197 5 Bookings 62,159 67,409 (8) 196,929 213,572 (8) Vimeo Enterprise: Subscribers 3.8 3.0 26 3.8 3.0 26 Average Subscribers 3.7 2.9 29 3.6 2.6 36 ARPU 23,043 20,848 11 22,487 20,154 12 Bookings 25,092 18,050 39 68,460 49,786 38 Other: Subscribers 53.5 71.0 (25) 53.5 71.0 (25) Average Subscribers 55.2 74.3 (26) 60.2 82.2 (27) ARPU 1,082 1,019 6 1,050 937 12 Bookings 12,663 14,403 (12) 33,135 38,554 (14) 
+ When the following terms appear in this Management's Discussion and Analysis of Financial Condition and Results of Operations for Vimeo, they have the meanings indicated below: 
+ Self-Serve Add-Ons relates to our subscription plans sold directly online, and any add-on services tied to those online subscriptions such as bandwidth charges, which are sold through our sales force to subscribers of one of our plans if they exceed a certain threshold of bandwidth. 
+ Vimeo Enterprise relates to our video offering designed for teams and organizations, which includes the same capabilities of Self-Serve Add-Ons plus enterprise-grade features such as advanced security, custom user permissions, single-sign on for employees, interactive video tools, and marketing software integrations. Vimeo Enterprise is sold through our sales force and is o ften an upgrade from Vimeo's Self-Serve Add-Ons as the number of users or use cases in an organization grows. 
+ Other relates to products and services we offer outside of Self-Serve Add-Ons and Vimeo Enterprise, primarily our over-the-top ("OTT") video monetization solution that allows customers to launch and run their own video streaming channel directly to their audience through a branded web portal, mobile apps and Internet-enabled TV apps. Other also includes Magisto, Livestream, Wibbitz, and WIREWAX. 
+ Subscribers is the number of users who have an active subscription to one of Vimeo's paid plans measured at the end of the relevant period. Vimeo counts each customer with a subscription plan as a subscriber regardless of the number of users. In the case of customers who maintain subscriptions across Self-Serve Add-Ons, Vimeo Enterprise, and 
+ 22 
+
+Table of Contents 
+
+Other, Vimeo counts one subscriber for each of the components in which they maintain one or more subscriptions. Vimeo does not count users or team members who have access to a subscriber's account as additional subscribers. 
+ Average Subscribers is the sum of the number of Subscribers at the beginning and at the end of the relevant measurement period divided by two. 
+ Average Revenue per User ("ARPU") is the annualized revenue for the relevant period divided by Average Subscribers. For periods that are less than a full year, annualized revenue is calculated by dividing the revenue for that particular period by the number of calendar days in the period and multiplying this value by the number of calendar days in that year. 
+ Bookings consists of fixed fees for SaaS services, measured at the end of the relevant period, that subscribers have paid or committed to pay during their subscription period or 12 months, whichever is shorter, less refunds and chargebacks during the same period. 
+ Gross Margin is revenue less cost of revenue, divided by revenue. 
+ Cost of Revenue consists primarily of hosting fees, credit card processing fees, compensation expense and other employee-related costs, and stock-based compensation expense for personnel engaged in customer care functions, traffic acquisition costs, which includes in-app purchase fees, outsourced customer care personnel costs, rent expense and facilities costs. 
+ Research and Development Expense consists primarily of compensation expense and other employee-related costs and stock-based compensation expense that are not capitalized for personnel engaged in the design, development, testing and enhancement of product offerings and related technology, software license and maintenance costs, rent expense and facilities costs. 
+ Sales and Marketing Expense consists primarily of advertising expenditures, which include online marketing, including fees paid to search engines, social media sites, e-mail campaigns, display advertising, video advertising and affiliate marketing, and offline marketing, which includes conferences and events, compensation expense and other employee-related costs, and stock-based compensation expense for Vimeo's sales force and marketing personnel, software license and maintenance costs, rent expense and facilities costs. 
+ General and Administrative Expense consists primarily of compensation expense and other employee-related costs and stock-based compensation expense for personnel engaged in executive management, finance, legal, tax, information technology and human resources, provision for credit losses, fees for professional services, rent expense, facilities costs, software license and maintenance costs, and business insurance. 
+ Credit Facility is the 100 million revolving credit facility entered into on February 12, 2021 by Vimeo.com, Inc., which was terminated in accordance with its terms effective June 30, 2023. 
+ Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization ("Adjusted EBITDA") is a non-GAAP financial measure. See " Principles of Financial Reporting " for the definition of Adjusted EBITDA and a reconciliation of net earnings to Adjusted EBITDA, for the three and nine months ended September 30, 2024 and 2023. 
+ 
+ 23 
+
+Table of Contents 
+
+MANAGEMENT OVERVIEW 
+ Vimeo is the world's leading all-in-one video software solution, providing the full breadth of video tools through a software-as-a-service model. Vimeo's comprehensive and cloud-based tools empower its users to create, collaborate and communicate with video on a single, turnkey platform. 
+ Sources of Revenue 
+ Vimeo's revenue is derived primarily from fixed SaaS subscription fees paid by customers. Revenue is recognized on a straight-line basis over the contractual term of the arrangement beginning on the date that the service is made available to the customer. Subscription periods generally range from one month to three years with the most common being an annual subscription and are generally non-cancellable. 
+ Distribution, Marketing and Advertiser Relationships 
+ Vimeo pays to market and distribute its services on third-party search engines and social media websites, and through e-mail campaigns, display advertising, video advertising and affiliate marketing. Vimeo also pays traffic acquisition costs, which consist of fees paid to Apple and Google related to the distribution and the facilitation of in-app purchases of product features. These distribution channels might also offer other third parties services and products, which compete with those Vimeo offers. 
+ Vimeo also markets and offers its services and products through branded websites, allowing customers to transact directly with it in a convenient manner. 
+ 24 
+
+Table of Contents 
+
+Results of Operations for the three and nine months ended September 30, 2024 compared to the three and nine months ended September 30, 2023 
+ Results of operations for the periods presented as a percentage of our revenue are as follows: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (as a of revenue) Revenue 100 100 100 100 Cost of revenue (exclusive of depreciation shown separately below) 21 21 22 22 Gross profit 79 79 78 78 Operating expenses: Research and development expense 25 22 26 26 Sales and marketing expense 28 35 28 37 General and administrative expense 19 17 18 11 Depreciation Amortization of intangibles 1 Total operating expenses 72 74 73 76 Operating income 7 5 6 2 Interest expense Other income, net 3 3 4 3 Earnings before income taxes 11 9 9 5 Income tax provision (2) (1) (1) (1) Net earnings 9 8 8 4 
+ Revenue 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (In thousands) Self-Serve Add-Ons 67,864 71,935 (4,071) (6) 206,341 214,358 (8,017) (4) Vimeo Enterprise 21,675 15,220 6,455 42 60,193 39,691 20,502 52 Other 15,025 19,098 (4,073) (21) 47,316 57,621 (10,305) (18) Total revenue 104,564 106,253 (1,689) (2) 313,850 311,670 2,180 1 
+ For the three months ended September 30, 2024 compared to the three months ended September 30, 2023 
+ Revenue decreased 1.7 million or 2 , due primarily to decreases of 4.1 million or 21 in Other, and 4.1 million or 6 in Self-Serve Add-Ons, partially offset by an increase of 6.5 million or 42 in Vimeo Enterprise. 
+ The decrease in Other was due primarily to the Company actively deprecating a number of products in this category. The decrease in Self-Serve Add-Ons was due primarily to a decrease of 9 in Average Subscribers, partially offset by an increase of 4 in ARPU. The increase in Vimeo Enterprise was due primarily to increases of 29 and 11 in Average Subscribers and ARPU, respectively. 
+ For the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 
+ Revenue increased 2.2 million or 1 , due primarily to an increase of 20.5 million or 52 in Vimeo Enterprise, partially offset by decreases of 10.3 million or 18 in Other, and 8.0 million or 4 in Self-Serve Add-Ons. 
+ 25 
+
+Table of Contents 
+
+The increase in Vimeo Enterprise was due primarily to increases of 36 and 12 in Average Subscribers and ARPU, respectively. The decrease in Other was due primarily to the Company actively deprecating a number of products in this category. The decrease in Self-Serve Add-Ons was due primarily to a decrease of 9 in Average Subscribers, partially offset by an increase of 5 in ARPU. 
+ 
+ Cost of revenue (exclusive of depreciation shown separately below) and Gross profit 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (In thousands) Cost of revenue (exclusive of depreciation shown separately below) 21,708 21,802 (94) 67,829 68,319 (490) (1) Gross profit 82,856 84,451 (1,595) (2) 246,021 243,351 2,670 1 Gross margin 79 79 78 78 
+ For the three months ended September 30, 2024 compared to the three months ended September 30, 2023 
+ Cost of revenue decreased 0.1 million due primarily to a decrease in credit card processing fees of 1.1 million driven by lower bookings from Self-Serve Add-Ons, partially offset by an increase in hosting costs of 0.8 million. 
+ Gross profit decreased 1.6 million, or 2 , due primarily to the decrease in revenue. 
+ For the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 
+ Cost of revenue decreased 0.5 million, or 1 , due primarily to a decrease in credit card processing fees of 2.2 million driven by lower bookings from Self-Serve Add-Ons, partially offset by an increase in hosting costs of 1.4 million. 
+ Gross profit increased 2.7 million, or 1 , due primarily to the increase in revenue. 
+ Operating Expenses 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (In thousands) Research and development expense 26,588 23,153 3,435 15 81,695 81,089 606 1 Sales and marketing expense 28,799 36,704 (7,905) (22) 88,780 116,455 (27,675) (24) General and administrative expense 19,655 18,396 1,259 7 56,776 34,645 22,131 64 Depreciation 102 168 (66) (39) 313 1,198 (885) (74) Amortization of intangibles 347 347 1,042 2,491 (1,449) (58) Total operating expenses 75,491 78,768 (3,277) (4) 228,606 235,878 (7,272) (3) 
+ For the three months ended September 30, 2024 compared to the three months ended September 30, 2023 
+ Research and development expense increased 3.4 million, or 15 , due primarily to increased investment in products of 2.8 million driven by compensation expense and other employee-related costs, and an increase of 0.6 million in stock-based compensation expense driven by executive turnover. 
+ Sales and marketing expense decreased 7.9 million, or 22 , due primarily to a decrease of 7.3 million in advertising costs as we reduced underperforming spend and shifted to a more organic customer acquisition approach. 
+ General and administrative expense increased 1.3 million, or 7 , due primarily to an increase of 0.8 million in stock-based compensation expense driven by executive turnover. 
+ 26 
+
+Table of Contents 
+
+For the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 
+ Research and development expense increased 0.6 million, or 1 , due primarily to increased investment in products of 4.4 million driven by compensation expense and other employee-related costs, partially offset by decreases of 2.7 million in restructuring costs driven by a reduction-in-force that was completed in the first quarter of 2023, and 1.1 million in stock-based compensation expense driven by executive turnover. 
+ Sales and marketing expense decreased 27.7 million, or 24 , due primarily to decreases of 22.3 million in advertising costs as we reduced underperforming spend and shifted to a more organic customer acquisition approach, 3.2 million in stock-based compensation expense driven by executive turnover in 2024, and 3.0 million in compensation expense and other employee-related costs driven by lower headcount, partially offset by an increase of 1.3 million in travel and entertainment costs. 
+ General and administrative expense increased 22.1 million, or 64 , due primarily to an increase of 22.7 million in stock-based compensation expense driven by Board and executive turnover in 2023. 
+ Depreciation decreased 0.9 million, or 74 , due primarily to costs associated with an asset retirement obligation incurred in the first quarter of 2023 related to the Company's international operations. 
+ Amortization of intangibles decreased 1.4 million, or 58 , due primarily to certain intangible assets reaching the end of their estimated useful lives in the second quarter of 2023. 
+ Operating income 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (In thousands) Operating income 7,365 5,683 1,682 30 17,415 7,473 9,942 133 
+ For the three months ended September 30, 2024 compared to the three months ended September 30, 2023 
+ Operating income increased 1.7 million due to a decrease in gross profit of 1.6 million, more than offset by a decrease in operating expenses of 3.3 million. The decrease in gross profit was driven by a decrease in revenue, as gross margins were flat (79 in both periods). The decrease in operating expenses was due primarily to a decrease in advertising costs of 7.3 million, partially offset by increases in compensation expense and other employee-related costs of 2.3 million and stock-based compensation expense of 1.2 million. The Company is currently forecasting operating expenses to increase in 2025 as we expect to continue to invest in our products. 
+ 
+ For the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 
+ Operating income increased 9.9 million due to an increase in gross profit of 2.7 million and a decrease in operating expenses of 7.3 million. The increase in gross profit was driven by an increase in revenue, as gross margins were flat (78 in both periods). The decrease in operating expenses was due primarily to decreases in advertising costs of 22.3 million, restructuring costs of 2.5 million, and amortization of intangibles of 1.4 million, partially offset by an increase in stock-based compensation expense of 18.4 million. The Company is currently forecasting operating expenses to increase in 2025 as we expect to continue to invest in our products. 
+ 
+ 27 
+
+Table of Contents 
+
+Non-Operating Expenses 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (In thousands) Interest expense NM (998) 998 (100) Interest income 3,827 3,349 478 14 11,258 9,027 2,231 25 Foreign exchange (losses) gains, net (212) 308 (520) NM 54 245 (191) (78) Loss on the sale of an asset NM (37) 37 (100) Other income, net 3,615 3,657 (42) (1) 11,312 9,235 2,077 22 
+ Interest expense decreased 1.0 million for the nine months ended September 30, 2024 due to the termination of the Credit Facility in the second quarter of 2023, and as a result there was no Interest expense for the three months ended September 30, 2024 and 2023. 
+ Other income, net increased 2.1 million for the nine months ended September 30, 2024 due primarily to an increase in Interest income driven by larger Cash and cash equivalents balances. 
+ Income tax provision 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (In thousands) Income tax provision (1,698) (876) (822) 94 (3,251) (2,073) (1,178) 57 
+ For further details of income tax matters, see " Note 3 Income Taxes " to the financial statements included in " Item 1. Consolidated Financial Statements ." 
+ For the three months ended September 30, 2024 compared to the three months ended September 30, 2023 
+ Income tax provision increased primarily as a result of the change in the third quarter of 2023 of the tax treatment of entities with valuation allowance. 
+ For the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 
+ Income tax provision increased primarily as a result of higher pre-tax income. 
+ 
+ Adjusted EBITDA 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change Change 2024 2023 Change Change (In thousands) Adjusted EBITDA 16,082 12,820 3,262 25 44,595 21,083 23,512 112 As a percentage of revenue 15 12 14 7 
+ For a reconciliation of net earnings to Adjusted EBITDA, see " Principles of Financial Reporting ." 
+ For the three months ended September 30, 2024 compared to the three months ended September 30, 2023 
+ Adjusted EBITDA increased 3.3 million to 16.1 million, due primarily to a decrease in gross profit driven by lower revenue, more than offset by a decrease in operating expenses, driven by a decrease in advertising costs, partially offset by an increase in compensation expense and other employee-related costs. 
+ 28 
+
+Table of Contents 
+
+For the nine months ended September 30, 2024 compared to the nine months ended September 30, 2023 
+ Adjusted EBITDA increased 23.5 million to 44.6 million, due primarily to an increase in gross profit driven by higher revenue and a decrease in operating expenses, driven by a decrease in advertising costs. 
+ 29 
+
+Table of Contents 
+
+PRINCIPLES OF FINANCIAL REPORTING 
+ We have provided Adjusted EBITDA in this report to supplement our financial information presented in accordance with U.S. generally accepted accounting principles ("GAAP"). We use this non-GAAP financial measure internally in analyzing our financial results and believe that this non-GAAP financial measure is useful to investors as an additional tool to evaluate ongoing operating results and trends and in comparing our financial results with other companies in our industry, many of which present a similar non-GAAP financial measure. However, our presentation of this non-GAAP financial measure may differ from the presentation of similarly titled measures by other companies. Adjusted EBITDA is one of the metrics on which our internal budgets are based and also one of the metrics by which management is compensated. We believe that investors should have access to, and we are obligated to provide, the same set of tools that we use in analyzing our results. This non-GAAP financial measure should be considered in addition to results prepared in accordance with GAAP, but should not be considered a substitute for or superior to GAAP results. We endeavor to compensate for the limitations of the non-GAAP measure presented by providing the comparable GAAP measure with equal or greater prominence and descriptions of the reconciling items, including quantifying such items, to derive the non-GAAP measure. We encourage investors to examine the reconciling adjustments between the GAAP and corresponding non-GAAP measure, which we discuss below. 
+ 
+ Definition of Non-GAAP Measure 
+ Adjusted Earnings Before Interest, Taxes, Depreciation and Amortization ("Adjusted EBITDA") is defined as operating income excluding: (1) stock-based compensation expense; (2) depreciation; (3) acquisition-related items consisting of (i) amortization of intangible assets, (ii) impairments of goodwill and intangible assets, if applicable, and (iii) gains and losses recognized on changes in the fair value of contingent consideration arrangements; and (4) restructuring costs associated with exit or disposal activities such as a reduction-in-force. We believe this measure is useful for analysts and investors as this measure allows a more meaningful comparison between our performance and that of our competitors. The above items are excluded from our Adjusted EBITDA measure because these items are either non-cash or non-recurring in nature. Adjusted EBITDA has certain limitations because it excludes the impact of these expenses. 
+ The reconciliation of net earnings to Adjusted EBITDA is as follows: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (In thousands) Net earnings 9,282 8,464 25,476 13,637 Add back: Income tax provision 1,698 876 3,251 2,073 Other income, net (3,615) (3,657) (11,312) (9,235) Interest expense 998 Operating income 7,365 5,683 17,415 7,473 Add back: Stock-based compensation expense 8,268 7,122 23,620 5,429 Depreciation 102 168 313 1,198 Amortization of intangibles 347 347 1,042 2,491 Contingent consideration fair value adjustments (500) (396) Restructuring costs 2,205 4,888 Adjusted EBITDA 16,082 12,820 44,595 21,083 
+ 30 
+
+Table of Contents 
+
+Items That Are Excluded From Non-GAAP Measure 
+ Stock-based compensation expense consists of expense associated with the grants of Vimeo stock-based awards. These expenses are not paid in cash and we view the economic costs of stock-based awards to be the dilution to our share base. We also consider the dilutive impact of stock-based awards in GAAP diluted earnings per share, to the extent such impact is dilutive. 
+ Depreciation is a non-cash expense relating to our leasehold improvements and equipment and is computed using the straight-line method to allocate the cost of depreciable assets to operations over their estimated useful lives, or, in the case of leasehold improvements, the lease term, if shorter. 
+ Amortization of intangible assets and impairments of goodwill and intangible assets are non-cash expenses related to acquisitions. At the time of an acquisition, the identifiable definite-lived intangible assets of the acquired company, such as customer relationships, technology and trade names, are valued and amortized over their estimated lives. An impairment is recorded when the carrying value of an intangible asset or goodwill exceeds its fair value. We believe that intangible assets represent costs incurred by the acquired company to build value prior to acquisition and the related amortization and impairments of intangible assets or goodwill, if applicable, are not ongoing costs of doing business. 
+ Gains and losses recognized on changes in the fair value of contingent consideration arrangements are accounting adjustments to report contingent consideration liabilities at fair value. These adjustments can be highly variable and are excluded from our assessment of performance because they are considered non-operational in nature and, therefore, are not indicative of current or future performance or the ongoing cost of doing business. 
+ Restructuring costs consist of costs associated with exit or disposal activities such as severance and other post-employment benefits paid in connection with a reduction-in-force. We consider these costs to be non-recurring in nature and therefore, are not indicative of current or future performance or the ongoing cost of doing business. 
+ 31 
+
+Table of Contents 
+
+VIMEO'S FINANCIAL POSITION, LIQUIDITY AND CAPITAL RESOURCES 
+ Financial Position 
+ September 30, 2024 December 31, 2023 (In thousands) Cash and cash equivalents: United States 304,636 283,971 All other countries 20,145 17,401 Total cash and cash equivalents 324,781 301,372 
+ Vimeo's international cash can be repatriated without significant tax consequences. 
+ Cash Flow Information 
+ Nine Months Ended September 30, 2024 2023 (In thousands) Net cash provided by (used in) Operating activities 46,057 27,803 Investing activities (173) 531 Financing activities (21,993) (11,603) 
+ Net cash provided by operating activities consists of net earnings adjusted for non-cash items and the effect of changes in working capital. 
+ 2024 
+ Adjustments to net earnings consisted primarily of 23.6 million of stock-based compensation expense and non-cash lease expense of 3.3 million. The decrease from changes in working capital primarily consisted of a decrease in accounts payable and other liabilities of 7.4 million and a decrease in deferred revenue of 4.2 million, partially offset by a decrease of 4.2 million in prepaid expenses and other assets. The decrease in accounts payable and other liabilities was driven by the payment of 2023 annual cash bonuses in 2024, lease payments, and estimated tax payments, partially offset by accruals for 2024 annual and supplemental cash bonuses. The decrease in deferred revenue was due primarily to lower Self-Serve Add-ons and Other bookings, partially offset by growth in Vimeo Enterprise bookings. The decrease in prepaid expenses and other assets was due to the timing of invoice payments. 
+ Net cash used in investing activities included 0.2 million of capital expenditures. 
+ Net cash used in financing activities included 16.8 million of common stock repurchases and 5.2 million of withholding taxes paid related to the settlement of equity awards. 
+ 2023 
+ Adjustments to net earnings consisted primarily of 5.4 million of stock-based compensation expense, non-cash lease expense of 3.4 million, and amortization of intangibles of 2.5 million. The increase from changes in working capital consisted of an increase of 5.0 million in deferred revenue and a decrease in accounts receivable of 3.5 million, partially offset by a decrease of 6.2 million in accounts payable and other liabilities. The increase in deferred revenue was due primarily to growth in Vimeo Enterprise bookings. Th e decrease in accounts receivable was due primarily to a decrease in aged accounts receivable balances driven by improved cash collections. The decrease in accounts payable and other liabilities was due primarily to the payment of 2022 annual cash bonuses in 2023, lease payments, payment of a contingent consideration arrangement (the portion that was in excess of the amount recorded in purchase accounting and as described in " Note 4 Fair Value Measurements "), and the timing of invoice and accrual payments, partially offset by accruals for 2023 cash bonuses subsequently paid in 2024. 
+ Net cash provided by investing activities included proceeds of 0.6 million previously held in escrow related to the sale of Vimeo's retained interest in its former hardware business. 
+ 32 
+
+Table of Contents 
+
+Net cash used in financing activities included 5.8 million related to contingent consideration arrangements (the portion up to the amount recorded in purchase accounting as described in " Note 4 Fair Value Measurements ") and 5.7 million of withholding taxes paid related to the exercise of equity awards. 
+ Liquidity and Capital Resources 
+ Share Repurchase Authorizations and Activity 
+ During the nine months ended September 30, 2024, the Company repurchased 4.4 million shares of its common stock, on a trade date basis, at an average cost of 3.86 per share, or in aggregate 16.8 million. 
+ Subsequent to September 30, 2024 and through October 31, 2024, the Company repurchased 0.4 million shares of its common stock, on a trade date basis, at an average cost of 4.87 per share, or in aggregate 2.0 million. At October 31, 2024, the Company has 31.3 million remaining under its share repurchase authorization. 
+ Outstanding Stock-Based Awards 
+ Stock-based awards are settled in shares of Vimeo common stock and may be settled on a gross or net basis based upon factors deemed relevant at the time. Currently, stock-based awards are generally settled on a net basis, such that individual award holders will receive shares of Vimeo common stock, net of a number of shares of Vimeo common stock equal to the required cash tax withholding payment, which will be paid by Vimeo on the employee's behalf. 
+ Liquidity Assessment 
+ At September 30, 2024, Vimeo had 324.8 million in cash and cash equivalents and no debt. Vimeo believes its existing cash and cash equivalents and expected positive cash flows generated from operations will be sufficient to fund its normal operating requirements, capital expenditures, withholding taxes related to net settled stock-based awards, and repurchases under the Stock Repurchase Program for at least the next twelve months. Vimeo does not currently expect to incur significant capital expenditures. 
+ Vimeo's liquidity could be negatively affected by a decrease in demand for our products and services, or the occurrence of unexpected expenses. Vimeo may need to raise additional capital through future debt or equity financings to make additional acquisitions and investments or to provide for greater financial flexibility. Additional financing may not be available on terms favorable to Vimeo or at all. 
+ 33 
+
+Table of Contents 
+
+ Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+ There have been no material changes in our market risk as compared to the disclosures in Part II, Item 7A in our Annual Report on Form 10-K for the year ended December 31, 2023, filed with the SEC on February 22, 2024. 
+ 34 
+
+Table of Contents 
+
+ Item 4. Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ Vimeo monitors and evaluates on an ongoing basis its disclosure controls and procedures and internal control over financial reporting in order to improve their overall effectiveness. In the course of these evaluations, Vimeo modifies and refines its internal processes as conditions warrant. 
+ As required by Rule 13a-15(b) under the Securities Exchange Act of 1934, as amended (the "Exchange Act"), Vimeo's management, including its principal executive and principal financial officers, or persons performing similar functions, evaluated the effectiveness of Vimeo's disclosure controls and procedures as defined by Rule 13a-15(e) under the Exchange Act. Based on this evaluation, management has concluded that Vimeo's disclosure controls and procedures were effective as of the end of the period covered by this report. 
+ Changes in Internal Control Over Financial Reporting 
+ There were no changes to Vimeo's internal control over financial reporting identified in connection with the evaluation required by Rule 13a-15(d) and 15d-15(d) of the Exchange Act that occurred during the quarter ended September 30, 2024 that have materially affected, or are reasonably likely to materially affect, Vimeo's internal control over financial reporting. 
+ 
+ Limitations on the Effectiveness of Disclosure Controls and Procedures 
+ In designing and evaluating the disclosure controls and procedures, Vimeo's management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. 
+ 35 
+
+Table of Contents 
+
+ PART II 
+ OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings 
+ The information set forth under " Note 9 Contingencies " in the accompanying notes to our consolidated financial statements in Part I, Item 1 of this Quarterly Report on Form 10-Q is incorporated herein by reference. 
+
+Item 1A. Risk Factors 
+ In addition to the risk factors below and information set forth in this Form 10-Q, you should carefully consider the risks described under the heading "Risk Factors" in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023, filed with the SEC on February 22, 2024. These risks are not exclusive and additional risks and uncertainties that we are unaware of, or that we currently believe are not material, also may become important factors that affect us. 
+ 
+ Risks Related to User Content and Personal Information 
+ 
+ As a highly visible brand, we continue to be the target of cyberattacks and other undesirable acts by malicious actors, and our actual or perceived failure to adequately protect personal information and confidential information that we (or our service providers or business partners) collect, store or process could trigger contractual and legal obligations, harm our reputation, subject us to liability and otherwise adversely affect our business including our financial results. 
+ 
+ We have been targeted with cyberattacks in the past and may be targeted again. Potential attackers span a spectrum from unsophisticated amateurs to highly advanced organizations supported by state actors and use a variety of vectors, including malware, ransomware attacks, denial-of-service attacks, and social engineering. Malicious actors may seek to impede our services (e.g., a denial-of-service attack) or infiltrate our systems for the purpose of introducing malware (e.g., ransomware), deleting or corrupting data, or exfiltrating data. Other undesirable acts may include the unauthorized use of user data or our systems in a manner inconsistent with our terms of service, contracts, or policies, such as the existence of false or undesirable user accounts, activities that threaten people s safety online or offline, or instances of spamming, scraping, or data harvesting. For example, third parties often attempt to access and collect our site data through scraping and other unauthorized mechanisms for unauthorized purposes, which could include distributing such data to other parties for commercial purposes or training AI models for commercial purposes. Our users and subscribers could also be targeted by malicious actors. In the past, we have had instances in which user passwords were guessed by malicious actors or were exposed in breaches of other companies and then used by malicious actors to access the user's account in our system. Additionally, we have experienced cases where user error has caused private data to be exposed. Incidents affecting user data, regardless of the cause, take time for us to investigate and can be frustrating for our users. 
+ 
+ Any of these types of activities may cause significant and lasting negative consequences. Appropriately responding to and remediating such activities may incur significant expense, and could result in severely diminished operational capacity and the loss of data necessary to operate. If a security incident results in a data breach, we may be subject to legal liability. Even if financial, legal, or operational harm is avoided, an incident could cause persistent reputational harm to our company. Moreover, it is possible that we may not be able to anticipate, detect, appropriately react and respond to, or implement effective preventative measures against, such incidents, including being unsuccessful in our efforts to enforce our policies. Like other global companies, we face an increasingly difficult challenge to attract and retain highly qualified security personnel to assist us in combating these security threats. 
+ 
+ We may face liability for hosting a variety of tortious or unlawful materials. 
+ 
+ In the United States, Section 230 of the Communications Decency Act ("Section 230") generally limits our liability for hosting tortious and otherwise illegal content. The immunities conferred by Section 230 could be narrowed or eliminated through amendment, regulatory action, or judicial interpretation. In 2018, Congress amended Section 230 to remove immunities for content that promotes or facilitates sex trafficking and prostitution. In more recent sessions of Congress, multiple bills have been introduced to further limit Section 230. Some bills would repeal or substantially curtail Section 230, while some exempt specific claims or categories of content from Section 230 s reach. In May 2024, the Energy and Commerce Committee of the U.S. House of Representatives held a Communications and Technology Subcommittee hearing on a proposal to sunset Section 230. While no draft legislation has formally been introduced yet, this is one of various congressional efforts to eliminate or modify Section 230, so the possibility of congressional action remains. If Congress revises or repeals Section 230, we may no longer be afforded the same level of protection offered by Section 230. 
+ 36 
+
+Table of Contents 
+
+Laws like Section 230 generally do not exist outside of the United States, and some countries have enacted laws that require online content providers to remove certain pieces of content within short time frames. If we fail to comply with such laws, we could be subject to prosecution or regulatory proceedings. In addition, some countries may decide to ban our service based upon a single piece of content. We have been subject to temporary bans in certain countries, including India, Russia and Turkey, for hosting content that those governments determined to be illegal. 
+ 
+ We may also face liability when we remove content and accounts that we believe are violating our acceptable use policy, and we have been sued in the past for certain content-removal decisions. While we believe that Section 230 allows us to restrict or remove certain categories of content, its protections may not always end a lawsuit at an early stage, potentially resulting in costly and time-consuming litigation. 
+ 
+ We depend on key third-party vendors to provide core services. 
+ 
+ We depend on third-party vendors to, among other things, provide customer support, develop software, host videos uploaded by our users, transcode videos (compressing a video file and converting it into a standard format optimized for streaming), stream videos to viewers and process payments. Specifically, Google Cloud Platform ("GCP") provides us with hosting and computing services, Amazon Web Services ("AWS") provides us with hosting services and we use multiple CDNs to deliver traffic worldwide. Certain of these third-party vendors have experienced outages in the past that have caused key Vimeo video services to be unavailable for several hours. We do not have automated cross-vendor redundancy for GCP or AWS. Consequently, outages in those services materially affect our video services. Outages may expose us to having to offer credits to subscribers, loss of subscribers and reputational damage. We may not be able to fully offset these losses with any credits we might receive from our vendors. Further, if any of these third-party vendors shut down services, we may be required to transition to different vendors. Because of the costs and time lags that can be associated with transitioning from one vendor to another, our business could be substantially disrupted if we were required to replace one or more major vendors with another source, especially if the replacement became necessary on a short timeframe. Additionally, our forecast indicates that we may not meet the minimum commitment of a non-cancellable cloud computing arrangement which expires in the fourth quarter of 2024, and as a result, we could incur additional costs. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ Unregistered Sales of Equity Securities 
+ Vimeo has not issued or sold any shares of its common stock or any other equity securities pursuant to unregistered transactions during the quarter ended September 30, 2024. 
+ 37 
+
+Table of Contents 
+
+ Issuer Purchases of Equity Securities 
+ The following table sets forth purchases by the Company of shares of Vimeo common stock during the quarter ended September 30, 2024: 
+ Period Total Number of Shares Purchased (in thousands) Average Price Paid Per Share (1) 
+ Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs 
+ (in thousands) (2) 
+ Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs (3) 
+ (in thousands) 
+ July 1 to July 31, 2024 1,223 3.74 1,223 33,747 August 1 to August 31, 2024 22 5.02 22 33,639 September 1 to September 30, 2024 70 5.02 70 33,291 Total 1,315 3.83 1,315 33,291 
+ _____________________ 
+ (1) Average price paid per share includes direct costs associated with the repurchases. 
+ (2) Reflects repurchases of Vimeo common stock made pursuant to the Company's Stock Repurchase Program. See " Note 5 Shareholders' Equity " in the accompanying notes to our consolidated financial statements in Part I, Item 1 of this Quarterly Report on Form 10-Q for additional information related to share repurchases. Subsequent to September 30, 2024 and through October 31, 2024, the Company repurchased 0.4 million shares of its common stock, on a trade date basis, at an average cost of 4.87 per share, or in aggregate 2.0 million. At October 31, 2024, the Company has 31.3 million remaining under its share repurchase authorization. 
+ (3) Direct costs associated with the repurchases do not reduce the amount available under the Stock Repurchase Program. 
+ 
+ 38 
+
+Table of Contents 
+
+ Item 5. Other Information 
+ During our fiscal quarter ended September 30, 2024, of Vimeo's directors or officers (as defined in Rule 16a-1(f) under the Exchange Act) entered into, modified (as to amount, price or timing of trades) or terminated (i) contracts, instructions or written plans for the purchase or sale of our securities that are intended to satisfy the conditions specified in Rule 10b5-1(c) under the Exchange Act for an affirmative defense against liability for trading in securities on the basis of material nonpublic information or (ii) non-Rule 10b5-1 trading arrangements (as defined in Item 408(c) of Regulation S-K). 
+
+Item 6. Exhibits 
+ The documents set forth below, numbered in accordance with Item 601 of Regulation S-K, are filed herewith, incorporated by reference to the location indicated or furnished herewith. 
+ Exhibit Number Description Location 31.1 Certification of the Chief Executive Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) of the Securities Exchange Act of 1934 as adopted pursuant to Section 302 of the Sarbanes-Oxley Act 
+ Filed herewith. 31.2 Certification of the Chief Financial Officer pursuant to Rule 13a-14(a) or Rule 15d-14(a) of the Securities Exchange Act of 1934 as adopted pursuant to Section 302 of the Sarbanes-Oxley Act 
+ Filed herewith. 32.1 Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act 
+ Furnished herewith. 32.2 Certification of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350 as adopted pursuant to Section 906 of the Sarbanes-Oxley Act 
+ Furnished herewith. 101.INS Inline XBRL Instance Filed herewith. The instance document does not appear in the interactive data file because its XBRL tags are embedded within the Inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Filed herewith. 101.CAL Inline XBRL Taxonomy Extension Calculation Filed herewith. 101.DEF Inline XBRL Taxonomy Extension Definition Filed herewith. 101.LAB Inline XBRL Taxonomy Extension Labels Filed herewith. 101.PRE Inline XBRL Taxonomy Extension Presentation Filed herewith. 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) Filed herewith. 
+ The certifications furnished in Exhibits 32.1 and 32.2 hereto are deemed to accompany this Quarterly Report on Form 10-Q and will not be deemed "filed" for purposes of Section 18 of the Exchange Act, except to the extent that the registrant specifically incorporates them by reference. 
+ 39 
+
+Table of Contents 
+
+ SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ Dated: November 5, 2024 Vimeo, Inc. By: /s/ Gillian Munson Gillian Munson Chief Financial Officer 
+ (Principal Financial Officer) 
+
+40 
+
+<EX-31.1>
+ 2
+ ex-311x20240930.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ Management Certification Pursuant to 
+ Section 302 of the Sarbanes-Oxley Act of 2002 
+ I, Philip Moyer, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q for the fiscal period ended September 30, 2024 of Vimeo, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ a. designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ b. designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ c. evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ d. disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ 
+ a. all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ 
+ b. any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ Dated November 5, 2024 s Philip Moyer 
+ Philip Moyer 
+ Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex-312x20240930.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ Management Certification Pursuant to 
+ Section 302 of the Sarbanes-Oxley Act of 2002 
+ I, Gillian Munson, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q for the fiscal period ended September 30, 2024 of Vimeo, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant's other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ a. designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ b. designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ c. evaluated the effectiveness of the registrant's disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ d. disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting and 
+ 
+ 5. The registrant's other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant's auditors and the audit committee of the registrant's board of directors (or persons performing the equivalent functions) 
+ 
+ a. all significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant's ability to record, process, summarize and report financial information and 
+ 
+ b. any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant's internal control over financial reporting. 
+ 
+ Dated November 5, 2024 s Gillian Munson Gillian Munson 
+ Chief Financial Officer 
+ (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex-321x20240930.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report on Form 10-Q of Vimeo, Inc. (the Company for the period ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), Philip Moyer, as Chief Executive Officer of the Company, hereby certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that, to the best of his knowledge 
+ 
+ 1. the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 
+ 2. the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+
+Dated November 5, 2024 s Philip Moyer Philip Moyer 
+ Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex-322x20240930.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report on Form 10-Q of Vimeo, Inc. (the Company for the period ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), Gillian Munson, as Chief Financial Officer of the Company, hereby certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that, to the best of her knowledge 
+ 1. the Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 
+ 2. the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Dated November 5, 2024 s Gillian Munson Gillian Munson 
+ Chief Financial Officer 
+ (Principal Financial Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ vmeo-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ vmeo-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ vmeo-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ vmeo-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ vmeo-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

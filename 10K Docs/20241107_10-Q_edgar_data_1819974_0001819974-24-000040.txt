@@ -1,0 +1,929 @@
+<Header>
+<FileStats>
+    <FileName>20241107_10-Q_edgar_data_1819974_0001819974-24-000040.txt</FileName>
+    <GrossFileSize>7487275</GrossFileSize>
+    <NetFileSize>110955</NetFileSize>
+    <NonText_DocumentType_Chars>1340698</NonText_DocumentType_Chars>
+    <HTML_Chars>2614965</HTML_Chars>
+    <XBRL_Chars>1720238</XBRL_Chars>
+    <XML_Chars>1552239</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001819974-24-000040.hdr.sgml : 20241107
+<ACCEPTANCE-DATETIME>20241107170759
+ACCESSION NUMBER:		0001819974-24-000040
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		80
+CONFORMED PERIOD OF REPORT:	20240929
+FILED AS OF DATE:		20241107
+DATE AS OF CHANGE:		20241107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SkyWater Technology, Inc
+		CENTRAL INDEX KEY:			0001819974
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				371839853
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1229
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-40345
+		FILM NUMBER:		241436987
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2401 EAST 86TH STREET
+		CITY:			BLOOMINGTON
+		STATE:			MN
+		ZIP:			55425
+		BUSINESS PHONE:		952-851-5200
+
+	MAIL ADDRESS:	
+		STREET 1:		2401 EAST 86TH STREET
+		CITY:			BLOOMINGTON
+		STATE:			MN
+		ZIP:			55425
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CMI Acquisition, LLC
+		DATE OF NAME CHANGE:	20200803
+
+</SEC-Header>
+</Header>
+
+ 0001819974-24-000040.txt : 20241107
+
+10-Q
+ 1
+ skyt-20240929.htm
+ 10-Q
+
+skyt-20240929 
+ 
+ Table of Contents 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ ______________________ 
+ FORM 
+ ______________________ 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended: 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from ________ to ________ 
+ Commission file number: 
+ ______________________ 
+
+(Exact name of registrant as specified in its charter) 
+ ______________________ 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ , , 
+ (Address of registrant s principal executive offices and zip code) 
+ Registrant s telephone number, including area code: ) 
+ ______________________ 
+ Securities registered under Section 12(b) of the Exchange Act: Title of Each Class Trading Symbol Name of Each Exchange on Which Registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act.: 
+ Large accelerated filer 
+ x Non-accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 17(a)(2)(B) of the Securities Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ On November 4, 2024, the number of shares of common stock, 0.01 par value, outstanding was \. 
+
+Table of Contents 
+
+ SkyWater Technology, Inc. 
+ TABLE OF CONTENTS 
+ Page No. Forward-Looking Statements 
+ 3 
+ PART I. FINANCIAL INFORMATION 
+ 4 
+ Item 1. 
+ Financial Statements 
+ 4 
+ Condensed Consolidated Balance Sheets 
+ 4 
+ Condensed Consolidated Statements of Operations 
+ 5 
+ Condensed Consolidated Statements of Shareholders Equity 
+ 6 
+ Condensed Consolidated Statements of Cash Flows 
+ 8 
+ Notes to Condensed Consolidated Financial Statements 
+ 10 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 28 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 40 
+ Item 4. 
+ Controls and Procedures 
+ 41 
+ PART II. OTHER INFORMATION 
+ 42 
+ Item 1. 
+ Legal Proceedings 
+ 42 
+ Item 1A. 
+ Risk Factors 
+ 42 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 42 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 42 
+ Item 4. 
+ Mine Safety Disclosures 
+ 42 
+ Item 5. 
+ Other Information 
+ 42 
+ Item 6. 
+ Exhibits 
+ 43 
+
+2 
+
+Table of Contents 
+
+ SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ This Quarterly Report on Form 10-Q contains statements that SkyWater Technology, Inc. SkyWater, the Company, we, us, or our believes to be forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact included in this Quarterly Report on Form 10-Q, including, without limitation, our expectations regarding our business, results of operations, financial condition and prospects, are forward-looking statements. When used in this Quarterly Report on Form 10-Q, words such as may, expect, anticipate, estimate, intend, plan, target, seek, potential, believe, will, could, should, would, and project or the negative thereof or variations thereon or similar words or expressions that convey the uncertainty of future events or outcomes are generally intended to identify forward-looking statements. 
+ Our forward-looking statements are subject to a number of risks, uncertainties, and assumptions. Key factors that may affect our results include, among others, the following: 
+ our goals and strategies; 
+ our future business development, financial condition, and results of operations; 
+ our ability to continue operating our fabrication facilities at full capacity; 
+ our ability to appropriately respond to changing technologies on a timely and cost-effective basis; 
+ our customer relationships and our ability to retain and expand our customer relationships; 
+ our ability to accurately predict our future revenues for the purpose of appropriately budgeting and adjusting our expenses; 
+ our expectations regarding dependence on our largest customers; 
+ our ability to diversify our customer base and develop relationships in new markets; 
+ the performance and reliability of our third-party suppliers and manufacturers; 
+ our ability to procure tools, materials, and chemicals; 
+ our ability to control costs, including our operating and capital expenses; 
+ the size and growth potential of the markets for our solutions, and our ability to serve and expand our presence in those markets; 
+ the level of demand in our customers end markets; 
+ our ability to attract, train, and retain key qualified personnel in a competitive labor market; 
+ adverse litigation judgments, settlements, or other litigation-related costs; 
+ changes in trade policies, including the imposition of tariffs; 
+ our ability to raise additional capital or financing; 
+ our ability to accurately forecast demand; 
+ changes in local, regional, national, and international economic or political conditions, including those resulting from rising inflation and interest rates, a recession, or intensified international hostilities; 
+ the level and timing of U.S. government program funding; 
+ our ability to maintain compliance with certain U.S. government contracting requirements; 
+ regulatory developments in the United States and foreign countries; 
+ our ability to protect our intellectual property rights; and 
+ other factors disclosed in the section entitled Risk Factors and elsewhere in the Company s Annual Report on Form 10-K for the fiscal year ended December 31, 2023 and this Quarterly Report on Form 10-Q. 
+ Moreover, our business, results of operations, financial condition, and prospects may be affected by new risks that could emerge from time to time. In light of these risks, uncertainties and assumptions, the forward-looking events and outcomes discussed in this Quarterly Report on Form 10-Q may not occur and our actual results could differ materially and adversely from those expressed or implied in the forward-looking statements. No forward-looking statement is a guarantee of future performance. You should not rely on forward-looking statements as predictions of future events or outcomes. Although we believe that the expectations reflected in the forward-looking statements are reasonable, the results, levels of activity, performance, or events and circumstances reflected in the forward-looking statements may not be achieved or occur. 
+ The forward-looking statements in this Quarterly Report on Form 10-Q represent our views only as of the date hereof. We anticipate that subsequent events and developments will cause our views to change. However, we undertake no obligation to update publicly any forward-looking statements to conform such statements to changes in expectations or to actual results, or for any other reason, except as required by law. You should therefore not rely on these forward-looking statements as representing our views as of any date subsequent to the date hereof. 
+ 3 
+
+Table of Contents 
+
+ PART I. FINANCIAL INFORMATION 
+ 
+ Item 1. Financial Statements 
+ 
+ SKYWATER TECHNOLOGY, INC. 
+ Condensed Consolidated Balance Sheets 
+ (Unaudited) 
+ September 29, 2024 December 31, 2023 (in thousands, except per share data) 
+ Assets Current assets Cash and cash equivalents Accounts receivable (net of allowance for credit losses of and , respectively) 
+ Contract assets (net of allowance for credit losses of and , respectively) 
+ Inventory Prepaid expenses and other current assets Income tax receivable Total current assets Property and equipment, net Intangible assets, net Other assets Total assets Liabilities and shareholders equity Current liabilities Current portion of long-term debt Accounts payable Accrued expenses Income taxes payable Short-term financing, net of unamortized debt issuance costs Contract liabilities Total current liabilities Long-term liabilities Long-term debt, less current portion and net of unamortized debt issuance costs Long-term contract liabilities Deferred income tax liability, net Other long-term liabilities Total long-term liabilities Total liabilities Commitments and contingencies (Note 10) par value per share shares authorized; shares issued and outstanding as of September 29, 2024 and December 31, 2023) 
+ Common stock, par value per share shares authorized; and shares issued and outstanding as of September 29, 2024 and December 31, 2023, respectively) 
+ Additional paid-in capital Accumulated deficit ) ) Total shareholders equity, SkyWater Technology, Inc. Noncontrolling interests Total shareholders equity Total liabilities and shareholders equity 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 4 
+
+Table of Contents 
+
+ SKYWATER TECHNOLOGY, INC. 
+ Condensed Consolidated Statements of Operations 
+ (Unaudited) 
+ Three-Month Period Ended Nine-Month Period Ended September 29, 2024 October 1, 2023 September 29, 2024 October 1, 2023 (in thousands, except per share data) 
+ Revenue Cost of revenue Gross profit Research and development expense Selling, general, and administrative expense Operating income (loss) ) ) Interest expense Income (loss) before income taxes ) ) ) Income tax expense (benefit) ) ) Net income (loss) ) ) ) Less: net income attributable to noncontrolling interests Net income (loss) attributable to SkyWater Technology, Inc. ) ) ) Net income (loss) per share attributable to common shareholders, basic 
+ ) ) ) Weighted average shares outstanding, basic 
+ Net income (loss) per share attributable to common shareholders, diluted 
+ ) ) ) Weighted average shares outstanding, diluted 
+ 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 5 
+
+Table of Contents 
+
+ SKYWATER TECHNOLOGY, INC. 
+ Condensed Consolidated Statements of Shareholders Equity 
+ For the Three-Month Periods Ended September 29, 2024 and October 1, 2023 
+ (in thousands) 
+ (Unaudited) 
+ Preferred Stock Common Stock Additional Paid-in Capital Accumulated Deficit Total Shareholders Equity, SkyWater Technology, Inc. Noncontrolling Interests Total Shareholders Equity Shares Amount Shares Amount Balance at July 2, 2023 
+ ) Issuance of common stock under the ATM Issuance of common stock pursuant to equity compensation plans Equity-based compensation Contribution from noncontrolling interest Net income (loss) 
+ ) ) ) Balance at October 1, 2023 ) Balance at June 30, 2024 ) Issuance of common stock pursuant to equity compensation plans Equity-based compensation Contribution from noncontrolling interest Distribution to noncontrolling interest ) ) Net income Balance at September 29, 2024 ) 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 6 
+
+Table of Contents 
+
+ SKYWATER TECHNOLOGY, INC. 
+ Condensed Consolidated Statements of Shareholders Equity 
+ For the Nine-Month Periods Ended September 29, 2024 and October 1, 2023 
+ (in thousands) 
+ (Unaudited) Preferred Stock Common Stock Additional Paid-in Capital Accumulated Deficit Total Shareholders Equity, SkyWater Technology, Inc. Noncontrolling Interests Total Shareholders Equity Shares Amount Shares Amount Balance at January 1, 2023 ) Adoption of new accounting principle ) ) ) Issuance of common stock under the ATM Issuance of common stock pursuant to equity compensation plans Equity-based compensation Contribution from noncontrolling interest Net income (loss) 
+ ) ) ) Balance at October 1, 2023 ) Balance at December 31, 2023 ) Issuance of common stock pursuant to equity compensation plans Equity-based compensation Contribution from noncontrolling interest Distribution to noncontrolling interest ) ) Net (loss) income ) ) ) Balance at September 29, 2024 ) 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 7 
+
+Table of Contents 
+
+ SKYWATER TECHNOLOGY, INC. 
+ Condensed Consolidated Statements of Cash Flows 
+ (Unaudited) 
+ Nine-Month Period Ended September 29, 2024 October 1, 2023 (in thousands) Cash flows from operating activities Net loss ) ) Adjustments to reconcile net loss to net cash flows from operating activities 
+ Depreciation and amortization Gain on sale of property and equipment ) Amortization of debt issuance costs included in interest expense Equity-based compensation expense Deferred income taxes ) ) Provision for credit losses Changes in operating assets and liabilities Accounts receivable and contract assets, net ) Inventories ) Prepaid expenses and other assets Accounts payable and accrued expenses ) Contract liabilities, current and long-term ) ) Income tax receivable and payable Net cash provided by (used in) operating activities ) Cash flows from investing activities Purchase of software and technology licenses ) ) Proceeds from sale of property and equipment Purchases of property and equipment ) ) Net cash used in investing activities ) ) Cash flows from financing activities Proceeds from draws on the revolving line of credit Repayment of draws on the revolving line of credit ) ) Proceeds from tool financings Repayment of tool financing advanced payments ) Principal payments on long-term debt ) ) Cash paid for principal on finance leases ) ) Proceeds from the issuance of common stock pursuant to equity compensation plans Proceeds from the issuance of common stock under the ATM Cash paid on licensed technology obligations ) ) Contributions from noncontrolling interest 
+ Distributions to noncontrolling interest 
+ ) Net cash provided by (used in) financing activities 
+ ) Net increase (decrease) in cash and cash equivalents ) Cash and cash equivalents, beginning of period Cash and cash equivalents, end of period 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 8 
+
+Table of Contents 
+
+ SKYWATER TECHNOLOGY, INC. 
+ Condensed Consolidated Statements of Cash Flows 
+ (Unaudited) 
+ 
+ Nine-Month Period Ended September 29, 2024 October 1, 2023 (in thousands) Supplemental disclosure of cash flow information: Cash paid during the period for 
+ Interest Income taxes Noncash investing and financing activity 
+ Capital expenditures incurred, not yet paid Equipment acquired through finance lease obligations Intangible assets acquired, not yet paid 
+ The accompanying notes are an integral part of these condensed consolidated financial statements. 
+ 9 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except per share data) 
+
+Note 1 
+ 
+ Note 2 
+ and a net loss attributable to SkyWater Technology, Inc. of , respectively. For the three- and nine-month periods ended October 1, 2023, the Company incurred net losses attributable to SkyWater Technology, Inc. of and , respectively. As of September 29, 2024 and December 31, 2023, the Company had cash and cash equivalents of and , respectively. 
+ 10 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except per share data) 
+
+ , if necessary, to enable the Company to meet its obligations as they become due. The support letter expires March 18, 2026. Based upon SkyWater s operating forecasts, its cash and cash equivalents on hand, available borrowings on the Revolver, and potential cost reduction measures it could undertake, management believes SkyWater will have sufficient liquidity to fund its operations for the next twelve months from the date these interim condensed consolidated financial statements are issued. 
+ Additionally, the Company could seek additional equity or debt financing, including a refinancing and/or expansion of the Revolver, however it cannot provide any assurance that additional funds will be available when needed or, if available, will be available on terms that are acceptable to the Company. The Company s ability to access additional funds depends on prevailing economic conditions and other factors, many of which are beyond SkyWater s control. 
+ SkyWater has based this estimate on assumptions that may prove to be wrong, and its operating plan may change as a result of many factors currently unknown to it. 
+ and , respectively, excluded from the computation of diluted weighted-average shares outstanding because their inclusion would have been anti-dilutive. For each of the three- and nine-month periods ended October 1, 2023, there were restricted stock units and stock options totaling excluded from the computation of diluted weighted-average shares outstanding because their inclusion would have been anti-dilutive. 
+ 
+ 11 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except per share data) 
+
+ ) ) ) Denominator: weighted-average common shares outstanding, basic 
+ Net income (loss) per common share, basic 
+ ) ) ) Denominator: weighted-average common shares outstanding, diluted 
+ Net income (loss) per common share, diluted 
+ ) ) ) 
+ reportable segment. 
+ 
+ Note 3 
+ for the effects of increasing its allowance for credit losses as of January 2, 2023. All other impacts to SkyWater s consolidated financial position, results of operations, and cash flows were immaterial. 
+ Recently Issued Accounting Standards Not Yet Adopted 
+ In November 2023, the FASB issued ASU No. 2023-07, Segment Reporting. The amendments in this update improve reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses and are effective for fiscal years beginning after December 15, 2023 and interim periods within fiscal years beginning after December 15, 2024. SkyWater will reflect the amended disclosure requirements of this update in its annual consolidated financial statements for its fiscal year ending December 29, 2024 and for the interim periods in its fiscal year ending December 28, 2025. Given that the Company reports as a single reportable segment, the impacts of adopting the provisions of this update will not be significant. 
+ 
+ Significant Accounting Policies 
+ The annual consolidated financial statements included in the Company s Annual Report on Form 10-K for the fiscal year ended December 31, 2023 include discussion of the significant accounting policies and estimates used in the preparation of 
+ 12 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except per share data) 
+
+ 13 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except share and per share data) 
+
+ Note 4 
+ 
+ Fixed price contracts Other Total ATS development Wafer Services Combined ATS development and Wafer Services 
+ Tools Total 
+ Three-Month Period Ended October 1, 2023 Topic 606 Revenue Point-in-Time Over Time Lease Revenue Per Topic 842 
+ Total Revenue ATS development Time and materials contracts Fixed price contracts Other Total ATS development Wafer Services Combined ATS development and Wafer Services Tools Total 
+ 14 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except share and per share data) 
+
+ Fixed price contracts Other Total ATS development Wafer Services Combined ATS development and Wafer Services Tools Total 
+ Nine-Month Period Ended October 1, 2023 Topic 606 Revenue Point-in-Time Over Time Lease Revenue Per Topic 842 
+ Total Revenue ATS development Time and materials contracts Fixed price contracts Other Total ATS development Wafer Services Combined ATS development and Wafer Services Tools Total revenue 
+ 
+ Canada Hong Kong United Kingdom All others Total revenue 
+ 
+ Two customers each accounted for 10 or more of revenue, and in aggregate accounted for and of revenue for the three- and nine-month periods ended September 29, 2024, respectively, and in aggregate accounted for and of revenue for the three- and nine-month periods ended October 1, 2023, respectively. The loss of a major customer could adversely affect the Company s operating results and financial condition. 
+ Deferred Contract Costs 
+ 15 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except share and per share data) 
+
+ for the three-month period ended September 29, 2024 and recognized accretion of deferred contract costs of for the three-month period ended October 1, 2023. The Company recognized amortization of deferred contract costs totaling and for the nine-month periods ended September 29, 2024 and October 1, 2023, respectively. 
+ Contract Assets 
+ Contract assets represent SkyWater s rights to payments for services it has transferred to its customers, but has not yet billed to its customers. Contract assets were and at September 29, 2024 and December 31, 2023, respectively, and are presented net of allowances for expected credit losses of and , respectively, and net of accrued contract liabilities arising from certain contracts expected to generate losses over the remaining period of performance. As of September 29, 2024 and December 31, 2023, the Company maintained liabilities of and , respectively, arising from long-term production-type contracts with the U.S. Federal government expected to generate losses over the period of performance. 
+ 16 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except share and per share data) 
+
+Long-term contract liabilities 
+ Total contract liabilities 
+ __________________ 
+ (1) Contract deferred revenue includes and at September 29, 2024 and December 31, 2023, respectively, related to material rights provided to a significant customer in exchange for funding additional manufacturing capacity. Of these amounts, and were classified as current in the interim condensed consolidated balance sheets as of September 29, 2024 and December 31, 2023, respectively. 
+ The change in contract liabilities during the three- and nine-month periods ended September 29, 2024 and October 1, 2023 are as follows: 
+ Three-Month Period Ended Nine-Month Period Ended 
+ September 29, 2024 October 1, 2023 September 29, 2024 October 1, 2023 Balance at beginning of period 
+ Revenue recognized included in the balance at the beginning of the period ) ) ) ) Increase due to payments received, excluding amounts recognized as revenue ) Balance at end of period 
+ 
+ Remaining Performance Obligations 
+ At September 29, 2024, the Company had of remaining performance obligations that had not been fully satisfied on contracts with original expected durations of one year or more, which were primarily related to ATS development and tools revenue contracts. The Company expects to recognize those revenues as it satisfies its performance obligations within the next years. 
+ The Company does not disclose the value of remaining performance obligations for contracts with an original expected duration of one year or less. Further, the Company does not adjust the promised amount of consideration for the effects of a significant financing component if it expects, at contract inception, that the period between when it transfers a promised good or service to a customer and when the customer pays for that good or service will be one year or less. 
+ 17 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except share and per share data) 
+
+ Note 5 
+ Add Adoption of Credit Loss Standard (Topic 326) Provision for credit losses Deduct Accounts written-off Less recoveries of accounts charged-off Net account charge-offs (recoveries) Balance at end of period 
+ Add Adoption of Credit Loss Standard (Topic 326) Provision for credit losses ) ) Deduct Accounts written-off Less recoveries of accounts charged-off Net account charge-offs (recoveries) Balance at end of period 
+ Work-in-process Supplies and spare parts Total inventory, current 
+ Inventory, non-current (1) 
+ Total inventory __________________ 
+ (1) Inventory, non-current consists of spare parts that will not be used within twelve months following the date of the interim condensed consolidated balance sheets. 
+ 18 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except share and per share data) 
+
+ Tools purchased for customers (1) 
+ Deferred contract costs Total prepaid assets and other current assets 
+ __________________ 
+ (1) The Company acquires tools for its customers that, while owned by our customers, are installed and qualified in a SkyWater facility. Prior to the customer obtaining ownership and control of a tool, the Company records costs incurred prior to completing the qualification of the tool, including tool acquisition costs, tool installation costs, and tool qualification costs, within prepaid expenses and other current assets. These deferred costs are recognized as cost of tools revenue when control of the tool is transferred to the customer and associated tools revenue is recognized. 
+ Buildings and improvements Machinery and equipment Property and equipment placed in service, at cost (1) Less: accumulated depreciation (1) 
+ ) ) Property and equipment placed in service, net (1) Property and equipment not yet in service 
+ Total property and equipment, net 
+ __________________ 
+ and of cost and and of accumulated depreciation associated with capital assets subject to financing leases at September 29, 2024 and December 31, 2023, respectively. 
+ For the three-month periods ended September 29, 2024 and October 1, 2023, depreciation expense was and , respectively, and and for the nine-month periods ended September 29, 2024 and October 1, 2023, respectively, substantially all of which was classified as cost of revenue. 
+ Less: accumulated amortization 
+ ) ) Intangible assets placed in service, net Intangible assets not yet in service 
+ Total intangible assets, net 
+ Intangible assets consist of (1) purchased software and license costs from the Company s acquisition of the business in 2017; and (2) payments made under software and technology licensing agreements with third parties. During the three- and nine-month periods ended September 29, 2024, the Company acquired third-party software and licensed technology placed in service of and , respectively, which will be amortized over a weighted average estimated life of years and years, respectively. 
+ For the three-month periods ended September 29, 2024 and October 1, 2023, amortization of software and licenses was and , respectively, and and for the nine-month periods ended September 29, 2024 and October 1, 2023, respectively. 
+ 19 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except share and per share data) 
+
+ 2025 2026 2027 2028 Thereafter Total future intangible asset amortization expense 
+ 
+ Operating lease right-of-use assets Other assets Total other assets 
+ __________________ 
+ (1) Inventory, non-current consists of spare parts that will not be used within twelve months following the date of the interim condensed consolidated balance sheets. 
+ Accrued commissions Accrued royalties Current portion of operating lease liabilities Current portion of finance lease liabilities Accrued inventory Accrued consulting fees Accrued restructuring costs (1) 
+ Accrued warranty (2) 
+ Accrued vendor purchase commitments (3) 
+ Other accrued expenses Total accrued expenses 
+ __________________ 
+ (1) The Company incurred restructuring costs of during the fiscal year ended December 31, 2023. The Company paid during the fiscal year ended December 31, 2023, and the remainder was paid in the three-month period ended March 31, 2024. 
+ (2) The Company accrued provisions for warranties of and during the three-month periods ended September 29, 2024 and October 1, 2023, respectively, and and for the nine-month periods ended September 29, 2024 and October 1, 2023, respectively. 
+ 
+ 20 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except share and per share data) 
+
+ Operating lease liabilities 
+ Total other long-term liabilities 
+ 
+ Note 6 
+ Tool financing advance payments (1) 
+ Unamortized debt issuance costs 
+ ) ) Total short-term financing, net of unamortized debt issuance costs 
+ Long-term debt 
+ VIE Financing Tool financing loans (1) 
+ Unamortized debt issuance costs 
+ ) ) Total long-term debt, including current maturities Less: Current portion of long-term debt ) ) Total long-term debt, excluding current portion 
+ __________________ 
+ (1) Tool financing advance payments represent proceeds received from equipment lenders prior to the Company placing underlying manufacturing tools and other equipment into service. When the underlying tools are placed into service, financing agreements are executed to repay the equipment lender the outstanding financial obligation over a period of time, and the advance payments are converted to tool financing loans and classified as long-term debt in the Company s condensed consolidated balance sheets. Tool financings are often accounted for as failed sale and leasebacks. 
+ Revolver 
+ On December 28, 2022, we entered into a Loan and Security Agreement (the Loan Agreement with Siena Lending Group LLC Siena ). The Loan Agreement provides for a revolving line of credit with a borrowing limit of up to million with a scheduled maturity date of December 28, 2025 (the Revolver ). The outstanding balance of the Revolver was as of September 29, 2024 at an interest rate of . Borrowing under the Revolver is limited by a borrowing base of specified advance rates applicable to billed accounts receivable, contract assets, inventory and equipment, subject to various conditions and limits as provided in the Loan Agreement. As the borrowing base of was below the borrowing limit, the remaining availability under the Revolver was as of September 29, 2024. As of September 29, 2024, the Company was in compliance with all applicable financial covenants of the Revolver. 
+ 
+ 21 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except share and per share data) 
+
+ (the VIE Financing to finance the acquisition of the land and building of the SkyWater Minnesota facility. The VIE Financing is repayable in equal monthly installments of over years, with the remaining balance payable at the maturity date of October 6, 2030. The interest rate under the VIE Financing is fixed at . The VIE Financing is guaranteed by Oxbow Industries, who is also the sole equity holder of Oxbow Realty. The VIE financing is not subject to financial debt default covenants. 
+ The terms of the VIE Financing include provisions that grant the lender several protective rights when certain triggering events defined in the loan agreement occur, including events tied to the Company s occupancy of the SkyWater Minnesota facility and SkyWater s financial performance. The triggering events are not financial covenants and the occurrence of a triggering event does not represent a default event, nor does it result in the VIE Financing becoming callable, rather the protective rights become enforceable by the lender. As defined in the loan agreement, a triggering event occurred beginning in the three-month period ended January 1, 2023 based on the level of earnings before interest, taxes, depreciation, amortization and rent, as defined in the loan agreement, reported by SkyWater historically. Pursuant to its protective rights, the lender retained in a restricted account amounts paid by SkyWater to Oxbow Realty that were in excess of the scheduled debt payments paid by Oxbow Realty to the lender. The triggering event was cured during the three-month period ended June 30, 2024 and the funds held in the restricted account were remitted back to Oxbow Realty. No triggering events as defined in the loan agreement existed as of September 29, 2024. 
+ Tool Financing Loans 
+ The Company, from time to time, enters into financing arrangements with equipment lenders to finance the purchase of manufacturing tools and other equipment. These agreements are often structured as sale and leasebacks, to which the leases includes bargain purchase options at the end of the lease terms that the Company intends to exercise. The Company accounts for these transactions as failed sale and leasebacks with the associated tools recorded in property and equipment, net and the proceeds received from equipment lenders recorded as financing obligations on the Company s interim condensed consolidated balance sheets. Prior to placing a tool into service, advanced payments received from equipment lenders are recorded as short-term financings on the Company s interim condensed consolidated balance sheets. When the financed tools are placed into service, financing agreements are executed to repay the equipment lenders the outstanding financial obligations over a period of time. Upon execution of the financing arrangements, the financing obligation is classified as long-term debt. Advance payments of tools that have been financed by equipment lenders prior to placing the underlying tool into service totaled and as of September 29, 2024 and December 31, 2023, respectively. 
+ Maturities 
+ 2025 2026 2027 2028 Thereafter Total future principal payments of long-term debt, excluding unamortized debt issuance costs 
+ 22 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except share and per share data) 
+
+ Note 7 
+ U.S. statutory corporate tax rate due to the impact of state income taxes, permanent tax differences, the tax impact of the vesting of employee equity awards, and changes in the Company s deferred tax asset valuation allowance. The effective tax rate in any quarter can be affected, positively or negatively, by adjustments that are required to be reported in the specific quarter of resolution. The effective income tax rates were and for the three-month periods ended September 29, 2024 and October 1, 2023, respectively, and ) and for the nine-month periods ended September 29, 2024 and October 1, 2023, respectively. 
+ Management regularly evaluates the future realization of deferred tax assets and provides a valuation allowance, if considered necessary. As part of the evaluation, management assesses taxable income in carryback years, future reversals of taxable temporary differences, feasible tax planning strategies the execution of which are in the Company s control, and future expectations of income. Based upon this analysis, a valuation allowance of and was recorded at September 29, 2024 and December 31, 2023, respectively, to reduce the net deferred tax assets to the amount that is more likely than not to be realized. 
+ liability has been recorded for uncertain tax positions. If applicable, the Company would accrue income tax related interest and penalties in income tax expense in its interim condensed consolidated statements of operations. There were interest or penalties incurred during the three- and nine-month periods ended September 29, 2024 and October 1, 2023. 
+ In August 2022, the U.S. enacted the Creating Helpful Incentives to Produce Semiconductors and Science Act of 2022 (the CHIPS Act ). The CHIPS Act provides incentives to semiconductor chip manufacturers in the U.S., including providing a 25 manufacturing investment credit for investments in semiconductor manufacturing property placed in service after December 31, 2022, for which construction begins before January 1, 2027. Property investments qualify for the 25 credit if, among other requirements, the property is integral to the operation of an advanced manufacturing facility, defined as having a primary purpose of manufacturing semiconductors or semiconductor manufacturing equipment. 
+ 
+ Note 8 
+ in shares of the Company s common stock. During the three- and nine-month periods ended September 29, 2024, the Company did sell shares under the ATM Program. During the three and nine-month periods ended October 1, 2023, the Company sold and shares under the ATM Program, respectively. From the date of the ATM program through September 29, 2024, the Company has cumulatively sold shares at an average sale price of per share, resulting in gross proceeds of approximately before deducting sales commissions and fees of approximately . The Company used the net proceeds to pay down the Revolver and fund its operations. 
+ As of September 29, 2024, the Company had availability under the agreement to sell an additional in shares under the ATM Program. 
+ 
+ Note 9 
+ Research and development expense 
+ Selling, general and administrative expense Total equity-based compensation expense 
+ 
+ 23 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except share and per share data) 
+
+ Note 10 
+ and of contractual commitments outstanding as of September 29, 2024 and December 31, 2023, respectively, that it expects to pay in the next twelve months using cash on hand and operating cash flows. 
+ Center for NeoVation 
+ On January 25, 2021, the Company entered into a technology and economic development agreement (the TED Agreement ), and a lease agreement (the CfN Lease with the government of Osceola County, Florida Osceola and ICAMR, Inc., a Florida non-profit corporation (also known as BRIDG ), to lease and operate the Center for NeoVation (the CfN ), a semiconductor research and development and manufacturing facility in Florida. Under the CfN Lease, the Company agrees to bring the plant to full production capacity within , and then to operate the plant at full capacity for an additional years. At the end of the lease, SkyWater will take ownership of the facility. The Company is responsible for taxes, utilities, insurance, maintenance, operation of the assets, and making capital investments in the facility to bring the facility to its full production capacity. Investments and costs required to bring the facility to its full capacity will be substantial. The Company may terminate the TED Agreement and CfN Lease with months notice. In the event the Company terminates the agreements, the Company must continue to operate the CfN until either a replacement operator for the CfN is identified, or the -month termination notice period expires. The Company may be required to make a payment of up to to Osceola upon termination. 
+ 
+ As part of entering into the TED Agreement, the Company agreed to operate the advanced wastewater treatment facility AWT Facility ), a separate building located on the same leased premise as the CfN and subject to the CfN Lease. The AWT Facility was financed in substantial part by funds provided by the Tohopekaliga Water Authority TWA to house the acid waste neutralization and pH adjustment treatment system and the reverse osmosis water treatment system. In connection with entering into the CfN Lease, the Company agreed that development of the CfN requires the payment of water, wastewater and reuse water capacity charges imposed by TWA monthly over the remaining period of six years. The Company also agreed that TWA shall be entitled to recover the capital contribution of TWA for construction of the AWT Facility through a capital reimbursement surcharge monthly over the remaining period of six years. As of September 29, 2024, the Company expects future payments on these commitments of approximately . 
+ Build Back Better Grant 
+ In third quarter 2022, the U.S. Department of Commerce Economic Development Administration granted funds to Osceola and BRIDG for continued development of Central Florida s Semiconductor Cluster for Broad-Based Prosperity through the Build Back Better Regional Challenge, a portion of which is committed to the expansion of the CfN and purchase, installation, and qualification of tools in the CfN. In February 2023, SkyWater committed to a matching share contribution of the project costs to Osceola totaling . SkyWater s commitment to fund this matching contribution is limited to in any single calendar quarter. As of September 29, 2024, SkyWater has not been obligated to pay any portion of the matching contribution to which it has committed. 
+ 
+ 24 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except share and per share data) 
+
+ Note 11 
+ , if necessary, to enable the Company to meet its obligations as they become due. In March 2024, the agreement was amended to extend the term through March 18, 2026. amounts have been provided to the Company under this agreement. 
+ Sale-Leaseback Transaction 
+ On September 29, 2020, SkyWater entered into an agreement to sell the land and building of its Minnesota facility to Oxbow Realty. In the fourth quarter of 2020, SkyWater entered into an agreement to lease the land and building back from Oxbow Realty for initial lease payments of per month over years. The monthly payments are subject to a increase each year during the term of the lease. In the most recent month, the rental payment to Oxbow Realty was . The Company is also required to make certain customary payments constituting additional rent, including certain monthly reserve, insurance, and tax payments, in accordance with the terms of the lease agreement. 
+ 2025 2026 2027 2028 Thereafter Total future minimum lease payments Less: imputed interest ) Total future minimum lease payments 
+ 25 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except share and per share data) 
+
+ Note 12 
+ Accounts receivable Finance receivable Property and equipment, net 
+ Other assets Total assets Accounts payable Accrued expenses Contract liabilities 
+ Debt Total liabilities 
+ General and administrative expenses Interest expense Total expenses Net income 
+ 
+ Note 13 
+ , and is being recognized over the estimated lease term of 
+ 26 
+
+Table of Contents 
+ SKYWATER TECHNOLOGY, INC. 
+ Notes to Condensed Consolidated Financial Statements 
+ (unaudited in thousands, except share and per share data) 
+
+ years . The total amount was prepaid by the customer and recorded as deferred revenue. See Note 4 Revenue 
+ 27 
+
+Table of Content s 
+
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ The following discussion and analysis of the Company s financial condition and results of operations should be read in conjunction with the interim condensed consolidated financial statements and the related notes included elsewhere in this Quarterly Report on Form 10-Q and the Company s audited annual consolidated financial statements and related notes, included in its Annual Report on Form 10-K for the fiscal year ended December 31, 2023. In addition to historical financial information, the following discussion contains forward-looking statements that reflect the Company s current expectations, estimates and assumptions concerning events and financial trends that may affect the Company s future operating results or financial position. Actual results and the timing of events may differ materially from those discussed or implied in the Company s forward-looking statements due to a number of factors, including those described in the sections entitled Risk Factors and Forward-Looking Statements herein and elsewhere in its Annual Report on Form 10-K. 
+ SkyWater refers to the three-month periods ended September 29, 2024 and October 1, 2023 as the third quarter of 2024 and third quarter of 2023, respectively. Each of these three-month periods includes 13 weeks. The nine-month periods ended September 29, 2024 and October 1, 2023 are referred to as the first nine months of 2024 and the first nine months of 2023, respectively. Each of these nine-month periods includes 39 weeks. All percentage amounts and ratios presented in this management s discussion and analysis were calculated using the underlying data in thousands. Unless otherwise indicated, all changes identified for the current period results represent comparisons to results for the prior corresponding period. 
+ For purposes of this section, the terms we, us, our, and SkyWater refer to SkyWater Technology, Inc. and its subsidiaries collectively. 
+ 
+ Overview 
+ We are a U.S.-based, independent, pure-play technology foundry that offers advanced semiconductor development and manufacturing services from our fabrication facility, or fab, in Minnesota and advanced packaging services from our Florida facility. Our Technology-as-a-Service model leverages a foundation of proprietary technology, engineering know-how capabilities, and microelectronics manufacturing capacity to co-develop process technology intellectual property IP with our customers that enables disruptive concepts through our Advanced Technology Services ATS for diverse microelectronics (integrated circuits ICs )) and related micro- and nanotechnology applications. In addition to differentiated technology development services, we support customers with volume production of ICs for high-growth markets through our Wafer Services. 
+ The combination of semiconductor development and manufacturing services we provide our customers is not available to them from a conventional fab. In addition, we believe our status as a publicly-traded, U.S.-based, U.S. headquartered pure-play technology foundry with Defense Microelectronics Activity Category 1A Trusted Accreditation from the U.S. Department of Defense positions us well to provide distinct, competitive advantages to our customers. These advantages include the benefits of enhanced IP security and secure access to a U.S. domestic supply chain. 
+ We primarily focus on serving diversified, high-growth end users in numerous vertical markets, including (1) advanced compute, (2) aerospace and defense, (3) automotive, (4) bio-health, and (5) industrial. By housing both development and manufacturing in a single operation, we rapidly and efficiently transition newly-developed processes to high-yielding volume production, eliminating the time it would otherwise take to transfer production to a third-party fab. Through our ATS model, we specialize in co-creating advanced solutions with our customers that directly serve our end markets, such as infrared imaging, superconducting ICs for quantum computing and sensing, Rad-hard complementary metal oxide semiconductor CMOS ), integrated photonics, microelectromechanical systems MEMS ), technologies for biomedical and imaging applications, and advanced packaging. Our Wafer Services include the manufacture of silicon-based analog and mixed-signal ICs for our end markets. Our focus on the differentiated analog and CMOS markets supports long product life-cycles and requirements that value performance over cost-efficiencies, and leverages our portfolio IP. 
+ Before we began independent operations, our Minnesota fab was owned and operated by Cypress Semiconductor Corporation Cypress as a captive manufacturing facility for 26 years. We have leveraged Cypress systems, manufacturing technology, and process development capabilities to advance our product offerings. We became an independent company in 2017 when we were acquired by an affiliate of Oxbow Industries, LLC Oxbow Industries as part of a divestiture from Cypress. Our multi-year foundry services agreement with Cypress, which ended in 2020, created a runway for us to operate the foundry at a high utilization rate while continuing to expand and diversify the customer base transferred by Cypress. Cypress was acquired in 2020 by Infineon Technologies AG. 
+ 28 
+
+Table of Content s 
+
+ Factors and Trends Affecting our Business and Results of Operations 
+ The following trends and uncertainties either affected our financial performance during the first nine months of 2024 and 2023 or are reasonably likely to impact our results in the future. 
+ Macroeconomic and competitive conditions, including cyclicality and consolidation, as well as government funding in semiconductor technology and manufacturing, create unique challenges and opportunities for the semiconductor industry and SkyWater. 
+ In August 2022, the U.S. enacted the Creating Helpful Incentives to Produce Semiconductors and Science Act of 2022 (the CHIPS Act pursuant to which the United States has committed to a renewed focus on providing incentives and funding for onshore companies to develop and advance the latest semiconductor technologies, supporting onshore manufacturing capabilities, and on strengthening key onshore supply chains. The CHIPS Act authorizes the U.S. Department of Commerce to enable execution of awards under the CHIPS Act and provides 52.7 billion for American semiconductor research, development, manufacturing, and workforce development, including 39 billion in financial assistance to build, expand, or modernize domestic facilities and equipment for semiconductor fabrication, assembly, testing, advanced packaging, or research and development. In December 2023, we submitted an application to the CHIPS Program Office of the U.S. Department of Commerce for funding through the CHIPS and Science Act for modernization and equipment upgrades to enhance production at our Minnesota facility. 
+ Additionally, the CHIPS Act provides incentives to semiconductor chip manufacturers in the U.S., including providing a 25 manufacturing investment credit for investments in semiconductor manufacturing property placed in service after December 31, 2022, for which construction begins before January 1, 2027. Property investments qualify for the 25 credit if, among other requirements, the property is integral to the operation of an advanced manufacturing facility, defined as having a primary purpose of manufacturing semiconductors or semiconductor manufacturing equipment. In October 2024, we received a registration number from the Internal Revenue Service that enabled us to claim 1,624 of refundable manufacturing investment credits on our federal tax return for the 2023 tax year. 
+ We project customer-funded capital investment to be a significant driver of the success of our business model, as we expect customers to invest in our capabilities and enable us to develop technology platforms that will drive our future growth. 
+ Our overall level of indebtedness from our revolving credit agreement, which we refer to as the Revolver (as defined below and in Note 6 Debt of the interim condensed consolidated financial statements included in this filing), financing arising from the sale and leaseback of the land and building of our Minnesota facility, which we refer to as the VIE Financing, financing arrangements with equipment lenders to finance the purchase of manufacturing tools and other equipment, which we refer to as the tool financing loans, and the corresponding interest rates charged to us by our lenders, are key components of maintaining capital funding that allow us to continue to grow our business. 
+ 
+ Financial Performance Metrics 
+ Our senior management team regularly reviews certain key financial performance metrics within our business, including: 
+ Revenue, gross profit, and gross margin; and 
+ Earnings before interest, taxes, depreciation and amortization EBITDA ), adjusted EBITDA and adjusted EBITDA as a percentage of total revenue, which are financial measures not prepared in accordance with accounting principles generally accepted in the United States GAAP ). Adjusted EBITDA and adjusted EBITDA as a percentage of total revenue exclude certain items that may not be indicative of our core operating results, as well as items that can vary widely across different industries or among companies within the same industry. For information regarding our non-GAAP financial measure, see the section entitled Non-GAAP Financial Measure below. 
+ 29 
+
+Table of Content s 
+
+ Results of Operations 
+ Third Quarter of 2024 Compared to the Third Quarter of 2023 
+ The following table summarizes certain financial information relating to our operating results for the third quarter of 2024 and 2023. 
+ Third Quarter Ended Percentage 
+ Change 
+ September 29, 2024 October 1, 2023 (in thousands) Consolidated statements of operations data: 
+ Revenue 93,817 71,624 31 Cost of revenue 73,582 57,477 (28) Gross profit 20,235 14,147 43 Research and development expense 3,431 2,233 (54) Selling, general, and administrative expense 12,095 16,105 25 Operating income (loss) 4,709 (4,191) NM Interest expense 1,988 2,507 21 Income (loss) before income taxes 2,721 (6,698) NM Income tax expense (benefit) 
+ 93 (96) (197) Net income (loss) 2,628 (6,602) NM Less: net income attributable to noncontrolling interests 1,116 966 16 Net income (loss) attributable to SkyWater Technology, Inc. 1,512 (7,568) NM 
+ __________________ 
+ NM - Not meaningful 
+ First Nine Months of 2024 Compared to the First Nine Months of 2023 
+ The following table summarizes certain financial information relating to the Company s operating results for the first nine months of 2024 and 2023 . 
+ First Nine Months Ended Percentage 
+ Change 
+ September 29, 2024 October 1, 2023 (in thousands) Consolidated statements of operations data: 
+ Revenue 266,782 207,529 29 Cost of revenue 216,453 160,247 (35) Gross profit 50,329 47,282 6 Research and development expense 10,825 7,296 (48) Selling, general, and administrative expense 35,598 48,821 27 Operating income (loss) 3,906 (8,835) NM Interest expense 6,859 7,928 13 Loss before income taxes (2,953) (16,763) 82 Income tax expense (benefit) 
+ 7 (71) (110) Net loss (2,960) (16,692) 82 Less: net income attributable to noncontrolling interests 3,154 3,739 (16) Net loss attributable to SkyWater Technology, Inc. (6,114) (20,431) 70 
+ __________________ 
+ NM - Not meaningful 
+ 30 
+
+Table of Content s 
+
+ Revenue 
+ Revenue was 93.8 million for the third quarter of 2024 compared to 71.6 million for the third quarter of 2023, an increase of 22.2 million, or 31 . Revenue was 266.8 million for the first nine months of 2024 compared to 207.5 million for the first nine months of 2023, an increase of 59.3 million, or 29 . The increases in revenue were driven by increases in ATS development revenue and tools revenue, partially offset by a decrease in wafer services revenue. 
+ The following table shows revenue by service type for the third quarter and the first nine months of 2024 and 2023: 
+ Third Quarter Ended First Nine Months Ended September 29, 2024 October 1, 2023 September 29, 2024 October 1, 2023 (in thousands) ATS development 56,390 53,891 179,244 153,735 Wafer Services 6,718 14,490 22,490 49,079 Combined ATS development and Wafer Services 
+ 63,108 53,891 201,734 202,814 Tools 30,709 3,243 65,048 4,715 Total 93,817 71,624 266,782 207,529 
+ ATS development revenue increased 2.5 million, or 5 , from the third quarter of 2023 to the third quarter of 2024. Continued momentum in U.S. government programs to bolster the domestic semiconductor supply chain and strengthen the defense industrial base drove an increase in revenue of 6.1 million. This increase was partially offset by decreases of 1.5 million, 1.2 million and 0.7 million in the consumer, cloud computing, and bio-health end-markets, respectively due to cyclicality of the stages of our customers development programs. 
+ ATS development revenue increased 25.5 million, or 17 , from the first nine months of 2023 to the first nine months of 2024. Continued momentum in U.S. government programs to bolster the domestic semiconductor supply chain and strengthen the defense industrial base drove an increase in revenue of 37.0 million. This increase was partially offset by decreases of 5.5 million, 4.8 million, and 1.6 million in the consumer, cloud computing, and bio-health end-markets, respectively, due to cyclicality of the stages of our customers development programs. 
+ Tools revenue increased 27.5 million from the third quarter of 2023 to the third quarter of 2024, and increased 60.3 million from the first nine months of 2023 to the first nine months of 2024, driven by increased investment by our customers to acquire tools that advance our capabilities for their ATS development programs. 
+ The decreases in Wafer Services revenue of 7.8 million, or 54 , from the third quarter of 2023 to the third quarter of 2024 and 26.6 million, or 54 , from the first nine months of 2023 to the first nine months of 2024 were primarily driven by decreased activity within the automotive end-markets as a result of higher inventory levels and softening demand in our automotive customers end markets. 
+ 
+ Cost of revenue 
+ Cost of revenue increased 16.1 million to 73.6 million for the third quarter of 2024 from 57.5 million for the third quarter of 2023. The increase was primarily driven by a 27.6 million increase in the cost of tools revenue arising from increased tools revenue as we procure tools on behalf of our customers to advance our capabilities for their ATS development programs and a 3.7 million increase in costs related to facility expansion and other services provided to our customers as their programs grow. Partially offsetting these increases are; the benefit from the reversal of a 5.6 million program loss accrual initially recognized in the first quarter of 2024 arising from a contract modification with our customer that reduced the estimated costs of completing their program and reestablished the program to profitability; a 0.8 million decrease in labor costs primarily due to lower variable compensation expense; a 2.9 million decrease in depreciation expense as depreciation of stepped up fair values on the assets acquired from Cypress in 2017 were fully depreciated in the first quarter of 2024; a 2.5 million decrease in our fab operating costs; a 0.7 million decrease in royalty expense due to more favorable royalty rates following a contract re-negotiation; and a 0.5 million decrease in bad debt expense due to improved collections. 
+ 
+ For the first nine months of 2024, cost of revenue increased 56.2 million to 216.5 million from 160.2 million for the first nine months of 2023. The increase was primarily driven by a 60.0 million increase in the cost of tools revenue arising from increased tools revenue as we procure tools on behalf of our customers to advance our capabilities for their ATS development programs and an additional cost of 15.6 million related to facility expansion and other services provided to our customers as their programs grow. Partially offsetting these increases were: a 2.7 million decrease in labor costs primarily due to lower variable compensation expense; an 8.3 million decrease in depreciation expense as depreciation of stepped up fair values on the assets acquired from Cypress in 2017 were fully depreciated in the first quarter of 2024; a 2.5 million decrease in 
+ 31 
+
+Table of Content s 
+
+ our fab operating costs; a 1.7 million decrease in royalty expense due to more favorable royalty rates following a contract re-negotiation; and a 3.9 million decrease in bad debt expense due to improved collections. 
+ 
+ Research and development expense 
+ Research and development expense increased 1.2 million to 3.4 million for the third quarter of 2024 from 2.2 million for the third quarter of 2023. For the first nine months of 2024, research and development expense increased 3.5 million to 10.8 million from 7.3 million for the first nine months of 2023. The increases were primarily attributable to increased RH90 and S90 platform development efforts. 
+ 
+ Selling, general and administrative expense 
+ Selling, general and administrative expense decreased 4.0 million to 12.1 million for the third quarter of 2024, from 16.1 million for the third quarter of 2023 primarily due to a 4.1 million decrease in external management and operations consulting services as a result of completing the service engagements in the fourth quarter of 2023 and a 1.2 million reduction in bad debt expense due to improved collections on aged invoices. 
+ For the first nine months of 2024, selling, general and administrative expense decreased 13.2 million to 35.6 million from 48.8 million for the first nine months of 2023 primarily due to a 4.2 million decrease in external management and operations consulting services as a result of completing the service engagements in the fourth quarter of 2023 and a 3.2 million reduction in bad debt expense due to improved collections on aged invoices. 
+ 
+ Interest expense 
+ Interest expense decreased 0.5 million to 2.0 million for the third quarter of 2024 from 2.5 million for the third quarter of 2023 primarily due to decreased amounts outstanding under the Revolver in the third quarter of 2024 as compared to the third quarter of 2023. 
+ For the first nine months of 2024, interest expense decreased 1 million to 6.9 million from 7.9 million for the first nine months of 2023 primarily due to decreased amounts outstanding under the Revolver in the first nine months of 2024 as compared to the first nine months of 2023. 
+ 
+ Income tax (benefit) expense 
+ Income tax expense was 0.1 million for the third quarter of 2024 compared to 0.1 million benefit for the third quarter of 2023. The effective income tax rate for the third quarter of 2024 was 3.4 , compared to an effective income tax rate of 1.4 for the third quarter of 2023. Income tax benefit was 0.0 million for the first nine months of 2024 which remained flat with the first nine months of 2023. The effective income tax rate for the first nine months of 2024 was (0.2) , compared to an effective income tax rate of 0.4 for the first nine months of 2023. Our effective tax rates for the third quarter of 2024 and 2023 and for the first nine months of 2024 and 2023 differ from the U.S. statutory tax rate of 21 primarily due to application of a valuation allowance against our net deferred tax assets based on our assessment of our ability to utilize those deferred tax assets in future periods. 
+ 
+ Net income attributable to noncontrolling interests 
+ Net income attributable to noncontrolling interests increased to 1.1 million for the third quarter of 2024 from 1.0 million for the third quarter of 2023, and decreased to 3.2 million for the first nine months of 2024 from 3.7 million for the first nine months of 2023. Net income attributable to noncontrolling interests reflects the net income of Oxbow Realty, LLC Oxbow Realty ), the variable interest entity VIE ), that we consolidate and represents the economic interest in the profits and losses of the VIE that our common stock shareholders do not legally have rights or obligations to. The respective increase and decreases in the net income attributable to noncontrolling interests during the third quarter of 2024 and the first nine months of 2024 primarily relates to timing differences in the recognition of interest income from the intercompany lease arrangement with Oxbow Realty and when rent increases were effective as described in Note 11 - Related Party Transactions of the interim condensed consolidated financial statements included in this filing. 
+ 32 
+
+Table of Content s 
+
+ Liquidity and Capital Resources 
+ General 
+ Our ability to execute our operating strategy is dependent on our ability to maintain liquidity and continue to access capital through our Revolver (as defined in Note 6 Debt of the interim condensed consolidated financial statements included in this filing) and other sources of financing. We have identified specific actions that we could take to reduce operating costs and improve cash flows, including reductions in spending and delays in hiring personnel. If such actions are taken, it may require us to decrease our level of planned investment in new products and technologies, or discontinue further expansion of our business. We have also obtained a support letter from Oxbow Industries, an affiliate of our principal stockholder, to provide funding in an amount up to 12.5 million, if necessary, to enable us to meet our obligations as they become due. The support letter expires March 18, 2026. Based upon our operational forecasts, our cash and cash equivalents on hand, our available borrowings on the Revolver, and potential cost reduction measures we could take, we believe we will have sufficient liquidity to fund our operations for the next twelve months from the date the interim condensed consolidated financial statements are issued. 
+ Additionally, we could seek additional equity or debt financing, including a refinancing and/or expansion of the Revolver. However, we cannot provide any assurance that additional funds will be available when needed, or, if available, will be available on terms that are acceptable to us. Our ability to access additional funds depend on prevailing economic conditions and other factors, many of which are beyond our control. 
+ We have based this estimate on assumptions that may prove to be wrong, and our operating plan may change as a result of many factors currently unknown to us. 
+ We had 20.1 million in cash and cash equivalents, not including cash held by a VIE that we consolidate, and availability under our Revolver of 75.6 million at September 29, 2024. We are subject to certain liquidity and EBITDA covenants under our Loan Agreement, as outlined in the section below entitled Indebtedness. 
+ ATM Program 
+ For the first nine months of 2024, SkyWater did not sell shares under the ATM Program (as defined in Note 8 Shareholders Equity of the interim condensed consolidated financial statements included in this filing). From the date of the ATM Program through the third quarter of 2024, the Company has cumulatively sold 2.5 million shares under the ATM Program at an average sale price of 9.96 per share, resulting in gross proceeds of approximately 25.1 million before deducting sales commissions and fees of approximately 1.2 million. SkyWater used the net proceeds to pay down the Revolver and fund its operations. 
+ Capital Expenditures 
+ For the first nine months of 2024 and 2023, we spent approximately 15.8 million and 4.5 million, respectively, on capital expenditures, including purchases of property, equipment and software. The majority of these capital expenditures relate to improvements at our Minnesota facility and the development of our advanced packaging capabilities at our Center for NeoVation in Florida, as well as 6.7 million of capital expenditures undertaken by Oxbow Realty, our consolidated VIE. We anticipate our cash on hand and the availability under the Revolver will provide the funds needed to meet our customer demand and anticipated capital expenditures for the remainder of fiscal year 2024. 
+ We have approximately 7.5 million of contractual commitments relating to various anticipated capital expenditures outstanding at September 29, 2024 that we expect to pay during the remainder of 2024 through cash on hand and operating cash flows. 
+ 33 
+
+Table of Content s 
+
+ Working Capital 
+ Historically, we have depended on cash on hand, funds available under our Revolver and proceeds of equity security offerings to fund our operations. In the future, we may need to depend on additional debt and equity financings to fund our growth strategy, working capital needs, and capital expenditures. We believe that these sources of funds will be adequate to provide cash, as required, to support our strategy, ongoing operations, capital expenditures, lease obligations, and working capital for at least the next twelve months. However, we cannot be certain that we will be able to obtain future debt or equity financings on commercially reasonable terms sufficient to meet our cash requirements. 
+ At September 29, 2024, the outstanding balance of our Revolver was 21.3 million, and our remaining availability under the Revolver was 75.6 million. As of September 29, 2024, we were in compliance with applicable financial covenants of the Revolver and expect to be in compliance with applicable financial covenants over the next twelve months. 
+ The following table sets forth general information derived from our interim condensed consolidated statements of cash flows for the first nine months of 2024 and 2023: 
+ First Nine Months Ended September 29, 2024 October 1, 2023 (in thousands) Net cash provided by (used in) operating activities 
+ 19,739 (21,662) Net cash used in investing activities (15,792) (4,476) Net cash provided by (used in) financing activities 
+ (1,645) 13,459 
+ Cash and Cash Equivalents 
+ At September 29, 2024 and December 31, 2023, we had 20.7 million and 18.4 million of cash and cash equivalents, respectively. A discussion of the change in cash and cash equivalents can be found below. 
+ Operating Activities 
+ Cash flow from operations is driven by changes in the working capital needs associated with the various goods and services we provide, and expenses related to the infrastructure in place to support revenue generation. Working capital is primarily affected by changes in accounts receivable, contract assets, accounts payable, accrued expenses, and contract liabilities, all of which are partially correlated to, and impacted by, changes in the timing and volume of activities performed in our facilities. Net cash provided by operating activities was 19.7 million during the first nine months of 2024, an increase of 41.4 million from the 21.7 million of cash used in operating activities during the first nine months of 2023. The increase in cash provided by operating activities during the first nine months of 2024 was driven by: a 28.7 million increase in the change in accounts receivable and contract assets during the period due to improved cash collection efforts as a result of a higher quality customer mix and timing on invoicing for unbilled work; a 15.0 million increase in the change in contract liabilities during the period due to the timing of receipt of customer payments and completion of performance obligations, notably with respect to tools; a 13.7 million improvement in operating results during the first nine months of 2024 as compared to the first nine months of 2023; and a 4.2 million increase in the change in inventories during the period as our spare parts inventory was greater utilized and consumed. This increase was partially offset by: a 10.6 million decrease in the change in accrued expenses and accounts payable during the period due to the timing of the payment of amounts owed to our vendors and large accruals for consulting services and accrued compensation in the prior year; a 8.4 million decrease in depreciation expense during the first nine months of 2024 as compared to the first nine months of 2023 as depreciation of stepped up fair values on the assets acquired from Cypress in 2017 were fully depreciated in the first quarter of 2024; and a 3.9 million decrease in bad debt expense during the first nine months of 2024 as compared to the first nine months of 2023 as collections improved. 
+ Investing Activities 
+ Our investments in capital expenditures are intended to enable revenue growth in new and expanding markets, help us meet product demand, and increase our manufacturing efficiencies and capacity. Net cash used in investing activities was 15.8 million during the first nine months of 2024 compared to 4.5 million during the first nine months of 2023 as we continue to invest in our development and manufacturing capabilities. Net cash used in investing activities increased 11.3 million for the first nine months of 2024 as compared to the first nine months of 2023 primarily due to increases of 10.0 million and 1.3 million in purchase of property and equipment and purchases of software and technology licenses, respectively. Increases in purchases of property and equipment were driven by investments made by Oxbow Realty, our consolidated VIE, of 6.7 million during the first nine months of 2024 compared to no such investments during the first nine months of 2023. Customers continue to invest heavily in our development and production capabilities, which reduces the amount of future capital investment required to achieve our growth plans. 
+ 34 
+
+Table of Content s 
+
+ Financing Activities 
+ Cash flows from financing activities decreased 15.1 million during the first nine months of 2024 to 1.6 million of net cash used in financing activities from 13.5 million of net cash provided by financing activities during the first nine months of 2023. The decrease in cash flows from financing activities during the first nine months of 2024 compared to the first nine months of 2023 was primarily driven by: a 20.4 million decrease in proceeds from our ATM program as we have not issued common stock under the ATM program in 2024; 6.1 million fewer tool financing proceeds received in the first nine months of 2024 due to fewer tools being financed; and a 1.4 million increase in principal payments on long-term debt. These decreases are offset by: a 11.2 million decrease in net repayments on our Revolver; and 1.4 million increase in net contributions from noncontrolling interest to fund capital expenditures made by Oxbow Realty. 
+ 35 
+
+Table of Content s 
+
+ Indebtedness 
+ Sale Leaseback Transaction 
+ In 2020, we entered into an agreement to sell the land and building of our Minnesota facility to Oxbow Realty, an affiliate of our principal stockholder, for 39.0 million, less applicable transaction costs of 1.5 million and transaction services fees paid to Oxbow Realty of 2.0 million, and paid a guarantee fee to our principal stockholder of 2.0 million. We subsequently entered into an agreement to leaseback the land and building from Oxbow Realty for initial payments of 0.4 million per month over 20 years. The monthly payments are subject to a 2 increase each year during the term of the lease. We are also required to make certain customary payments constituting additional rent, including certain monthly reserve, insurance, and tax payments, in accordance with the terms of the lease. Due to our continuing involvement in the property, we are accounting for the transactions as a failed sale and leaseback. Under failed sale and leaseback accounting, we are deemed the owner of the land and building with the proceeds received recorded as a financial obligation. As Oxbow Realty is a VIE of which we are the primary beneficiary (as described in Note 12 - Variable Interest Entity of the interim condensed consolidated financial statements included in this filing), we consolidate the balances and results of Oxbow Realty in our interim condensed consolidated financial statements; accordingly, the impacts of this transaction are eliminated in consolidation. 
+ Revolving Credit Agreement 
+ On December 28, 2022, we entered into a Loan and Security Agreement (the Loan Agreement with Siena Lending Group LLC Siena ). The Loan Agreement provides for a revolving line of credit of up to 100.0 million with a scheduled maturity date of December 28, 2025 (the Revolver ). The Company incurred 4.3 million of debt issuance costs, which will be amortized as additional interest expense over the term of the Revolver. Borrowing under the Loan Agreement is limited by a borrowing base of specified advance rates applicable to billed accounts receivable, contract assets, inventory and equipment, subject to various conditions and limits as provided in the Loan Agreement. The Loan Agreement also provides for borrowing base sublimits applicable to each of contract assets and equipment. Under certain circumstances, Siena may from time to time establish and revise reserves against the borrowing base and/or the maximum revolving facility amount. As of September 29, 2024, the borrowing base of 96.9 million was below the 100.0 million borrowing limit and, our outstanding borrowings of 21.3 million resulted in remaining availability under the Revolver of 75.6 million 
+ Borrowings under the Loan Agreement bear interest at a rate that depends upon the type of borrowing, whether a term secured overnight financing rate SOFR loan or base rate loan, plus the applicable margin. The term SOFR loan rate is a forward-looking term rate based on SOFR for a tenor of one month on the applicable day, subject to a minimum of 2.5 per annum. The base rate is the greatest of the prime rate, the Federal funds rate plus 0.5 and 7.0 per annum. The applicable margin is an applicable percentage based on the fix charged coverage ratio that ranges from 5.25 to 6.25 per annum for term SOFR loans and ranges from 4.25 to 5.25 per annum for base rate loans. 
+ The Loan Agreement contains customary representations and warranties and financial and other covenants and conditions. Subject to certain cure rights, the Loan Agreement requires 10.0 million in minimum EBITDA (as defined in the Loan Agreement) calculated as of the last day of each calendar month commencing April 30, 2023 for the preceding twelve calendar months, prohibits unfunded capital expenditures in excess of 15.0 million calculated as of the last day of each calendar month commencing April 30, 2023 for the preceding twelve calendar months, and requires a minimum fixed charge coverage ratio, measured on a trailing twelve month basis, of not less than 1.00 to 1.00 if our liquidity is less than 15.0 million. In addition, the Loan Agreement places certain restrictions on our ability to incur additional indebtedness (other than permitted indebtedness), to create liens or other encumbrances (other than liens relating to permitted indebtedness), to sell or otherwise dispose of assets, to merge or consolidate with other entities, and to make certain restricted payments, including payments of dividends to our stockholders. As of September 29, 2024, we were in compliance with all applicable covenants of the Loan Agreement and expect to continue to be in compliance with applicable financial covenants over the next twelve months. 
+ Due to a lockbox clause in the Loan Agreement, the outstanding loan balance is required to be serviced with working capital, and the debt is classified as short-term on the interim condensed consolidated balance sheets in accordance with U.S. GAAP. 
+ 36 
+
+Table of Content s 
+
+ Tool Financing Loans 
+ We, from time to time, enter into financing arrangements with equipment lenders to purchase manufacturing tools and other equipment. These agreements are often structured as sale and leasebacks, to which the leases includes bargain purchase options at the end of the lease terms that we intend to exercise. We account for these transactions as failed sale and leasebacks with the associated tools recorded in property and equipment, net and the proceeds received from equipment lenders recorded as financing obligations on our interim condensed consolidated balance sheets. Prior to placing a tool into service, advanced payments received from equipment lenders are recorded as short-term financings on our interim condensed consolidated balance sheets. When the financed tools are placed into service, financing agreements are executed to repay the equipment lenders the outstanding financial obligations over a period of time. Upon execution of the financing arrangements, the financing obligation is classified as long-term debt. Advance payments received from equipment lenders were zero and 3.8 million as of September 29, 2024 and December 31, 2023, respectively. 
+ Contractual Obligations 
+ There have been no significant changes outside the ordinary course of business in our contractual obligations from those disclosed in Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations - Material Cash Requirements of our Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+ 
+ Emerging Growth Company and Smaller Reporting Company Status 
+ We qualify as an emerging growth company pursuant to the provisions of the Jumpstart Our Business Startups Act of 2012 JOBS Act ). For as long as we are an emerging growth company, we may take advantage of certain exemptions from various reporting requirements that are applicable to other public companies that are not emerging growth companies, including, but not limited to, not being required to comply with the auditor attestation requirements of Section 404(b) of the Sarbanes-Oxley Act of 2002, reduced disclosure obligations regarding executive compensation in our periodic reports and proxy statements, exemptions from the requirements of holding advisory say-on-pay votes on executive compensation, and shareholder advisory votes on golden parachute compensation. 
+ The JOBS Act also permits an emerging growth company like us to take advantage of an extended transition period to comply with new or revised accounting standards applicable to public companies. We have elected to use the extended transition period for complying with new or revised accounting standards and therefore, we will not be subject to the same new or revised accounting standards as other public companies that comply with such new or revised accounting standards on a non-delayed basis. 
+ We are also a smaller reporting company. If we are a smaller reporting company at the time we cease to be an emerging growth company, we may continue to rely on exemptions from certain disclosure requirements that are available to smaller reporting companies. Specifically, as a smaller reporting company we may choose to present only the two most recent fiscal years of audited financial statements in our Annual Report on Form 10-K and, similar to emerging growth companies, smaller reporting companies have reduced disclosure obligations regarding executive compensation. 
+ 
+ Critical Accounting Policies and Estimates 
+ In connection with preparing our interim condensed consolidated financial statements in accordance with U.S. GAAP, we are required to make assumptions and estimates about future events and apply judgments that affect the reported amounts of assets, liabilities, revenue and expense, and the related disclosures. We base our assumptions, estimates and judgments on historical experience, current trends, and other factors that management believes are relevant at the time we prepared our interim condensed consolidated financial statements. On a regular basis, management reviews the accounting policies, assumptions, estimates and judgments to ensure that our interim condensed consolidated financial statements are presented fairly and in accordance with U.S. GAAP. However, because future events and their effects cannot be determined with certainty, actual results could differ materially from our assumptions and estimates. 
+ On an ongoing basis, management evaluates its estimates, including those related to revenue recognition, valuation of long-lived assets, valuation of inventory, equity-based compensation, and income taxes. We base our estimates and judgments on historical experience and on various other factors that we believe to be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets and liabilities that are not readily apparent from other sources. Actual results may materially differ from these estimates under different assumptions or conditions. 
+ There have been no changes to our critical accounting policies and estimates disclosed in our Annual Report on Form 10-K for the year ended December 31, 2023. 
+ Recent Accounting Pronouncements 
+ For a description of our recently adopted accounting pronouncements, see Note 3 Summary of Significant Accounting Policies of the interim condensed consolidated financial statements included in this filing. 
+ 37 
+
+Table of Content s 
+
+ Non-GAAP Financial Measure 
+ Our interim condensed consolidated financial statements are prepared in accordance with U.S. GAAP. To supplement our interim condensed consolidated financial statements presented in accordance with U.S. GAAP, additional non-GAAP financial measures are provided and reconciled in the table below. 
+ We provide supplemental non-GAAP financial information that our management regularly evaluates to provide additional insight to investors as supplemental information to our U.S. GAAP results. Our management uses earnings before interest, taxes, depreciation and amortization EBITDA and adjusted EBITDA to make informed operating decisions, complete strategic planning, prepare annual budgets, and evaluate Company and management performance. We believe that EBITDA and adjusted EBITDA is a useful performance measure to our investors because it provides a baseline for analyzing trends in our business and excludes certain items that may not be indicative of our core operating results. The use of non-GAAP financial measures should not be considered as an alternative to, or more meaningful than, the comparable U.S. GAAP measure. In addition, because these non-GAAP financial measures are not determined in accordance with U.S. GAAP, other companies, including our peers, may calculate their non-GAAP financial measures differently than we do. As a result, the non-GAAP financial measure presented in this Quarterly Report on Form 10-Q may not be directly comparable to similarly titled measures presented by other companies. 
+ Adjusted EBITDA 
+ Adjusted EBITDA is not a financial measure determined in accordance with U.S. GAAP. We define adjusted EBITDA as net income (loss) before interest expense, income tax (benefit) expense, depreciation and amortization, equity-based compensation, and certain other items that we do not view as indicative of our ongoing performance, including net income attributable to noncontrolling interests, business transformation costs, management transition expense, the cost of severance, separation and other termination benefits, and the cost of CHIPS Act specialist fees. 
+ We believe adjusted EBITDA is a useful performance measure to our investors because it allows for an effective evaluation of our operating performance when compared to other companies, including our peers, without regard to financing methods or capital structures. We exclude the items listed above from net income or loss in arriving at adjusted EBITDA because these amounts can vary substantially within our industry depending on the accounting methods and policies used, book values of assets, capital structures, and the methods by which assets were acquired. Adjusted EBITDA should not be considered as an alternative to, or more meaningful than, net (loss) income determined in accordance with U.S. GAAP. Certain items excluded from adjusted EBITDA are significant components in understanding and assessing a company s financial performance, such as a company s cost of capital and tax structure, as well as the historic costs of depreciable assets, none of which are reflected in adjusted EBITDA. Our presentation of adjusted EBITDA should not be construed as an indication that our results will be unaffected by the items excluded from adjusted EBITDA. In future fiscal periods, we may exclude such items and may incur income and expenses similar to these excluded items. Accordingly, the exclusion of these items and other similar items in our non-GAAP presentation should not be interpreted as implying that these items are non-recurring, infrequent or unusual, unless otherwise expressly indicated. 
+ 38 
+
+Table of Content s 
+
+ The following table presents a reconciliation of net income (loss) to adjusted EBITDA, our most directly comparable financial measure calculated and presented in accordance with U.S. GAAP. 
+ Third Quarter Ended First Nine Months Ended September 29, 2024 October 1, 2023 September 29, 2024 October 1, 2023 (in thousands) Net income (loss) attributable to SkyWater Technology, Inc. 1,512 (7,568) (6,114) (20,431) Interest expense 1,988 2,507 6,859 7,928 Income tax (benefit) expense 
+ 93 (96) 7 (71) Depreciation and amortization expense 
+ 4,166 7,092 13,295 21,651 EBITDA 7,759 1,935 14,047 9,077 Equity-based compensation expense (1) 
+ 2,018 1,853 6,105 5,673 Management transition expense (2) 
+ 97 761 835 Business transformation costs (3) 
+ 3,522 6,022 CHIPS Act specialist fees (4) 
+ 1,320 Net income attributable to noncontrolling interests (5) 1,116 966 3,154 3,739 Adjusted EBITDA 10,990 8,276 24,067 26,666 
+ __________________ 
+ (1) Represents non-cash equity-based compensation expense. 
+ (2) Represents the cost of severance, separation, and other termination benefits related to the reorganization of the manufacturing, sales, marketing, and operations leadership team. 
+ (3) Represents expenses related to long-term transformation activities focused on improvement in automation and operational efficiency and includes project-based management consulting fees. 
+ (4) Represents the cost of project-based specialist fees related to our CHIPS Act application process. 
+ (5) Represents net income attributable to noncontrolling interests arising from our VIE, which was formed for the purpose of purchasing the land and building of our operating facility in Bloomington, Minnesota. Since interest expense is added back to net income (loss) to shareholders in our adjusted EBITDA financial measure, we also add back the net income attributable to noncontrolling interests as its net income is derived from interest the VIE charges SkyWater. 
+ 39 
+
+Table of Content s 
+
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ Market risk is the risk of loss arising from adverse changes in market rates and prices. Currently, our market risks relate to potential changes in the fair value of our debt due to fluctuations in applicable market interest rates. In the future, our market risk exposure generally will be limited to those risks that arise in the normal course of business, as we do not engage in speculative, non-operating transactions, nor do we utilize financial instruments or derivative instruments for trading purposes. 
+ Credit Risk 
+ Financial instruments that potentially subject us to credit risk are cash and cash equivalents, accounts receivable, and contract assets. Cash balances are maintained at financial institutions, which at times exceed federally insured limits. We monitor the financial condition of the financial institutions in which our accounts are maintained and have not experienced any losses in such accounts. We perform ongoing credit evaluations as to the financial condition of our customers with respect to trade receivables and contract assets. Generally, no collateral is required as a condition of sale. Our consideration of the need for an allowance for credit losses is based upon current market conditions and other factors. 
+ Interest Rate Risk 
+ At September 29, 2024, the outstanding balance of our Revolver, which bears interest at a variable rate, was 21.3 million. At September 29, 2024, the rate in effect was 10.6 . Based on the outstanding balance of our Revolver at September 29, 2024, a 100 basis point increase in the interest rate would increase interest expense by 0.2 million annually. 
+ 40 
+
+Table of Content s 
+
+ Item 4. Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ We maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in our reports that we file or submit under the Securities Exchange Act of 1934 (the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in Securities and Exchange Commission rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer (our principal executive officer) and Chief Financial Officer (our principal financial and accounting officer) as appropriate, to allow for timely decisions regarding required disclosure. 
+ Our management, with the participation of our Chief Executive Officer and our Chief Financial Officer, our principal executive officer and principal financial and accounting officer, respectively, have evaluated the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act as of September 29, 2024. Based on the evaluation of our disclosure controls and procedures, our Chief Executive Officer and our Chief Financial Officer concluded that our disclosure controls and procedures were not effective as of September 29, 2024 due to the material weaknesses in our internal control over financial reporting described below. 
+ In light of this fact, our management has performed additional analyses, reconciliations, and other post-closing procedures and, notwithstanding the material weaknesses in internal control over financial reporting, has concluded that our interim condensed consolidated balance sheets as of September 29, 2024 and December 31, 2023, the related interim condensed consolidated statements of operations, stockholders equity, and cash flows for the three- and nine-month periods ended September 29, 2024 and October 1, 2023, present fairly, in all material respects, our financial position, results of our operations and our cash flows for the periods presented in this Quarterly Report on Form 10-Q, in conformity with GAAP. 
+ Previously Reported Material Weaknesses 
+ As disclosed in Item 9A. Controls and Procedures in our Annual Report on Form 10-K for the year ended December 31, 2023, we identified material weaknesses in our internal control over financial reporting related to the Controls Activity component of the COSO Framework and our revenue accounting process, which were not remediated as of September 29, 2024. A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting, such that there is a reasonable possibility that a material misstatement of the annual or interim financial statements will not be prevented or detected on a timely basis. 
+ Remediation Plans 
+ As disclosed in Item 9A. Controls and Procedures in our Annual Report on Form 10-K for the year ended December 31, 2023, actions were undertaken in fiscal year 2023 to implement new controls and enhance existing controls to remediate the material weaknesses in the Control Activities component of the COSO Framework and our revenue accounting process. These actions were completed on a timeframe that did not demonstrate sustained execution of those controls throughout fiscal year 2023. Remediation of the Control Activities component of the COSO Framework and our revenue accounting process material weaknesses will require further validation and testing of the design and operating effectiveness of internal controls over a sustained period of time in fiscal year 2024. To remediate these material weaknesses, management plans to sustain the execution of the process-level and information technology controls implemented or enhanced in fiscal year 2023 throughout fiscal year 2024. We will not be able to conclude whether the actions we are taking will remediate these material weaknesses until we have completed our remediation plans and perform testing to validate the effectiveness of these controls. 
+ As we continue to evaluate and work to remediate the control deficiencies that gave rise to the material weaknesses in the Control Activities components of the COSO Framework and our revenue accounting process, we may determine that additional measures or time are required to address the control deficiencies or that we need to modify or otherwise adjust the remediation actions described above. The material weaknesses in the Control Activities component of the COSO Framework and our revenue accounting process cannot be considered remediated until the controls we implemented or enhanced in fiscal year 2023 have operated for a sufficient period of time and management has concluded, through testing, that these controls are operating effectively. 
+ Changes in Internal Control Over Financial Reporting 
+ There were no changes in our internal control over financial reporting that occurred during the three- and nine-month periods ended September 29, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 41 
+
+Table of Content s 
+
+ PART II. OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings 
+ 
+ We are not presently a party to any litigation the outcome of which, we believe, if determined adversely to us, would individually or taken together have a material adverse effect on our business, operating results, cash flows or financial condition. 
+ 
+ Item 1A. Risk Factors 
+ This Quarterly Report on Form 10-Q should be read in conjunction with the risk factors included in Item 1A. Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2023. There have been no material changes to the risk factors disclosed under the heading Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2023. 
+ 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ None. 
+ 
+ Item 3. Defaults Upon Senior Securities 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures 
+ Not applicable. 
+ 
+ Item 5. Other Information 
+ (c) During the three-month period ended September 29, 2024, no director or Section 16 officer of the Company or a Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement, as each term is defined in Item 408(a) of Regulation S-K. 
+ 42 
+
+Table of Content s 
+
+ Item 6. Exhibits 
+ The following is a list of all exhibits filed or furnished as part of this report: 
+ Exhibit Number Description 3.1 Certificate of Incorporation of SkyWater Technology, Inc. (incorporated by reference to the Company s Registration Statement on Form S-1 filed with the SEC on April 12, 2021) 
+ 3.2 Bylaws of SkyWater Technology, Inc. (incorporated by reference to the Company s Registration Statement on Form S-1 filed with the SEC on April 12, 2021) 
+ 31.1 Certification of the Chief Executive Officer pursuant to Exchange Act Rules Rule 13a-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 31.2 Certification of the Chief Financial Officer pursuant to Exchange Act Rules Rule 13a-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 32.1 Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350 
+ 32.2 Certification of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350 
+ 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) 
+ __________________ 
+ The certifications furnished in Exhibit 32.1 and Exhibit 32.2 hereto are deemed to accompany this Quarterly Report on Form 10-Q and will not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, except to the extent that the registrant specifically incorporates it by reference. 
+ 43 
+
+Table of Content s 
+
+ SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ SkyWater Technology, Inc. Date: November 7, 2024 By: /s/ Thomas Sonderman Thomas Sonderman 
+ Chief Executive Officer 
+ (Principal Executive Officer) 
+ By: /s/ Steve Manko 
+ Steve Manko Chief Financial Officer (Principal Financial Officer and Principal Accounting Officer) 
+ 
+ 44 
+
+<EX-31.1>
+ 2
+ skyt-20240929xex311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ Certification Pursuant to Section 302 of Sarbanes-Oxley Act of 2002 
+ I, Thomas Sonderman, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of SkyWater Technology, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 7, 2024 s Thomas Sonderman Thomas Sonderman Chief Executive Officer 
+ (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ skyt-20240929xex312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ Certification Pursuant to Section 302 of Sarbanes-Oxley Act of 2002 
+ I, Steve Manko, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of SkyWater Technology, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date November 7, 2024 s Steve Manko Steve Manko Chief Financial Officer (Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ skyt-20240929xex321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ Certification of the Chief Executive Officer 
+ Pursuant to Rule 18 U.S.C. Section 1350 
+ In connection with the Quarterly Report on Form 10-Q of SkyWater Technology, Inc. (the Company for the period ended September 29, 2024, as filed with the U.S. Securities and Exchange Commission (the Report ), I, Thomas Sonderman, Chief Executive Officer of the Company, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date November 7, 2024 s Thomas Sonderman Thomas Sonderman Chief Executive Officer (Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ skyt-20240929xex322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ Certification of the Chief Financial Officer 
+ Pursuant to Rule 18 U.S.C. Section 1350 
+ In connection with the Quarterly Report on Form 10-Q of SkyWater Technology, Inc. (the Company for the period ended September 29, 2024, as filed with the U.S. Securities and Exchange Commission (the Report ), I, Steve Manko, Chief Financial Officer of the Company, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my knowledge 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date November 7, 2024 s Steve Manko Steve Manko Chief Financial Officer (Principal Financial Officer and Principal Accounting Officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ skyt-20240929.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ skyt-20240929_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ skyt-20240929_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ skyt-20240929_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ skyt-20240929_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

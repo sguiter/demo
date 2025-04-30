@@ -1,0 +1,1200 @@
+<Header>
+<FileStats>
+    <FileName>20241108_10-Q_edgar_data_1102993_0001102993-24-000173.txt</FileName>
+    <GrossFileSize>10030328</GrossFileSize>
+    <NetFileSize>137301</NetFileSize>
+    <NonText_DocumentType_Chars>1697699</NonText_DocumentType_Chars>
+    <HTML_Chars>3576537</HTML_Chars>
+    <XBRL_Chars>2391952</XBRL_Chars>
+    <XML_Chars>2018335</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001102993-24-000173.hdr.sgml : 20241108
+<ACCEPTANCE-DATETIME>20241108161209
+ACCESSION NUMBER:		0001102993-24-000173
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		105
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241108
+DATE AS OF CHANGE:		20241108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LIVEPERSON INC
+		CENTRAL INDEX KEY:			0001102993
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				133861628
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-41926
+		FILM NUMBER:		241440691
+
+	BUSINESS ADDRESS:	
+		STREET 1:		530 7TH AVENUE
+		STREET 2:		FLOOR M1
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10018
+		BUSINESS PHONE:		2126094200
+
+	MAIL ADDRESS:	
+		STREET 1:		530 7TH AVENUE
+		STREET 2:		FLOOR M1
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10018
+
+</SEC-Header>
+</Header>
+
+ 0001102993-24-000173.txt : 20241108
+
+10-Q
+ 1
+ lpsn-20240930.htm
+ LIVEPERSON Q3 2024 10-Q
+
+lpsn-20240930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ WASHINGTON, D.C. 20549 
+ FORM 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from __________ to __________. 
+ Commission File Number: 
+
+(Exact name of registrant as specified in its charter) 
+ 
+ (State or other jurisdiction of incorporation or organization) (IRS Employer Identification No.) , 
+ (Address of principal executive offices) (Zip Code) 
+ 
+ (Registrant s telephone number, including area code) 
+ Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered The Stock Market LLC 
+ None The Stock Market LLC 
+ 
+ Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Large Accelerated Filer Non-accelerated Filer Smaller Reporting Company Emerging Growth Company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ On November 1, 2024 , shares of the registrant s common stock were outstanding. 
+ 1 
+
+LIVEPERSON, INC. 
+ FORM 10-Q 
+ FOR THE QUARTERLY PERIOD ENDED SEPTEMBER 30, 2024 
+
+INDEX 
+ Page PART I. FINANCIAL INFORMATION 
+ Item 1. Financial Statements (Unaudited): 
+ 4 
+ Condensed Consolidated Balance Sheets as of September 30, 2024 and December 31, 2023 
+ 4 
+ Condensed Consolidated Statements of Operations for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 5 
+ Condensed Consolidated Statements of Comprehensive Loss for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 6 
+ Condensed Consolidated Statements of Stockholders Equity for the Three and Nine Months Ended September 30, 2024 and 2023 
+ 7 
+ Condensed Consolidated Statements of Cash Flows for the Nine Months Ended September 30, 2024 and 2023 
+ 9 
+ Notes to Condensed Consolidated Financial Statements 
+ 11 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 37 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 44 
+ Item 4. Controls and Procedures 
+ 44 
+ PART II. OTHER INFORMATION 
+ Item 1. Legal Proceedings 
+ 46 
+ Item 1A. Risk Factors 
+ 46 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 49 
+ Item 3. Defaults Upon Senior Securities 
+ 49 
+ Item 4. Mine Safety Disclosures 
+ 49 
+ Item 5. Other Information 
+ 49 
+ Item 6. Exhibits 
+ 50 
+ 
+ Signatures 
+ 51 
+
+2 
+
+FORWARD-LOOKING STATEMENTS 
+ 
+ Statements in this Quarterly Report on Form 10-Q about LivePerson, Inc. LivePerson , the Company, we, our or us that are not historical facts are forward-looking statements. These forward-looking statements are based on our current expectations, assumptions, estimates and projections about LivePerson and our industry. Our expectations, assumptions, estimates and projections are expressed in good faith, and we believe there is a reasonable basis for them, but we cannot assure you that our expectations, assumptions, estimates and projections will be realized. Examples of forward-looking statements include, but are not limited to, statements regarding future business, future results of operations or financial condition (including statements regarding expectations for retention rates, customer attrition and revenue and other statements based on examinations of historical operating trends) and management strategies. Many of these statements are found in the Business and Management s Discussion and Analysis of Financial Condition and Results of Operations sections of this Quarterly Report on Form 10-Q. When used in this Quarterly Report on Form 10-Q, the words anticipates, believes, estimates, expects, intends, plans, projects and variations of such words or similar expressions are intended to identify forward-looking statements. However, not all forward-looking statements contain these words. Forward-looking statements are subject to risks and uncertainties that could cause actual future events or results to differ materially from those exp ressed or implied in the forward-looking statements. Important factors that could cause our actual results to differ materially from the forward-looking statements we make in this Quarterly Report on Form 10-Q include those set forth in our Annual Report on Form 10-K filed with the Securities and Exchange Commission (the SEC on March 4, 2024 (as amended on April 29, 2024) in the sec tion entitled Part I, Item 1A., Risk Factors and in this Quarterly Report on Form 10-Q in the section entitled Part II, Item 1A., Risk Factors. It is routine for our internal projections and expectations to change as the year or each quarter in the year progresses, and therefore it should be clearly understood that the internal projections and beliefs upon which we base our expectations may change prior to the end of each quarter or the year. Although these expectations may change, we are under no obligation to inform you if they do. Our policy is generally to provide our expectations only once per quarter, and not to update that information until the next quarter. We do not undertake any obligation to revise forward-looking statements to reflect future events or circumstances. All forward-looking statements are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. 
+
+3 
+
+Part I FINANCIAL INFORMATION 
+ 
+ Item 1. Financial Statements 
+ 
+ LIVEPERSON, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (UNAUDITED) 
+ September 30, 2024 December 31, 2023 (In thousands) ASSETS Current assets: Cash and cash equivalents Restricted cash Accounts receivable, net of allowance for credit losses of and as of September 30, 2024 and December 31, 2023, respectively 
+ Prepaid expenses and other current assets (Note 1) 
+ Total current assets Operating lease right-of-use assets (Note 9) 
+ Property and equipment, net (Note 6) 
+ Contract acquisition costs, net (Note 2) 
+ Intangible assets, net (Note 5) 
+ Goodwill (Note 5) 
+ Deferred tax assets Other assets Total assets LIABILITIES AND STOCKHOLDERS EQUITY Current liabilities: Accounts payable Accrued expenses and other current liabilities (Note 7) 
+ Deferred revenue (Note 2) 
+ Convertible senior notes (Note 8) Operating lease liabilities (Note 9) 
+ Total current liabilities Convertible senior notes, net of current portion (Note 8) 
+ Operating lease liabilities, net of current portion (Note 9) 
+ Deferred tax liabilities Other liabilities Total liabilities Commitments and contingencies (Note 11) 
+ par value - shares authorized, issued 
+ Common stock, par value - shares authorized, and shares issued, and shares outstanding as of September 30, 2024 and December 31, 2023, respectively. 
+ Treasury stock - shares as of September 30, 2024 and December 31, 2023 
+ ) ) Additional paid-in capital Accumulated deficit ) ) Accumulated other comprehensive loss ) ) Total stockholders equity Total liabilities and stockholders equity 
+ 
+ See accompanying notes to condensed consolidated financial statements. 
+ 4 
+
+LIVEPERSON, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+ (UNAUDITED) 
+ 
+ Three Months Ended Nine Months Ended September 30, September 30, 2024 2023 2024 2023 (In thousands, except share and per share amounts) Revenue Costs, expenses and other: 
+ Cost of revenue 
+ Sales and marketing General and administrative Product development Impairment of goodwill 
+ Impairment of intangibles and other assets 
+ Restructuring costs Loss (gain) on divestiture 
+ ) Amortization of purchased intangible assets 
+ Total costs, expenses and other 
+ Loss from operations ) ) ) ) Other (expense) income, net: Interest (expense) income, net 
+ ) ) Gain on debt extinguishment 
+ Other (expense) income, net ) ) ) Total other (expense) income, net ) ) Loss before provision for income taxes ) ) ) ) Provision for income taxes Net loss ) ) ) ) Net loss per share of common stock: Basic ) ) ) ) Diluted ) ) ) ) Weighted-average shares used to compute net loss per share: Basic Diluted 
+ 
+ See accompanying notes to condensed consolidated financial statements. 
+ 5 
+
+LIVEPERSON, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS 
+ (UNAUDITED) 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (In thousands) Net loss ) ) ) ) Foreign currency translation adjustment ) ) Comprehensive loss ) ) ) ) 
+
+See accompanying notes to condensed consolidated financial statements. 
+ 
+ 6 
+
+LIVEPERSON, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY 
+ (UNAUDITED) 
+ 
+ Common Stock Treasury Stock Additional Paid-in Capital Accumulated Deficit Accumulated Other Comprehensive Loss Total Stockholders Equity Shares Amount Shares Amount (In thousands, except share data) Balance as of December 31, 2023 ) ) ) ) Common stock issued upon vesting of restricted stock units 
+ Stock-based compensation Common stock issued under Employee Stock Purchase Plan (ESPP) Net loss ) ) Other comprehensive loss ) ) Balance as of March 31, 2024 ) ) ) ) Common stock issued upon vesting of restricted stock units Stock-based compensation Common stock issued under ESPP Activity related to divestiture (Note 19) ) ) Net income Other comprehensive loss ) ) Balance as of June 30, 2024 ) ) ) ) Common stock issued upon exercise of stock options Common stock issued upon vesting of restricted stock units ) Stock-based compensation Common stock issued under ESPP Net loss ) ) Other comprehensive income Balance as of September 30, 2024 ) ) ) ) 
+ 
+ See accompanying notes to condensed consolidated financial statements. 
+ 7 
+
+LIVEPERSON, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY - CONTINUED 
+ (UNAUDITED) 
+
+Common Stock Treasury Stock Additional Paid-in Capital Accumulated Deficit Accumulated Other Comprehensive Loss Total Stockholders Equity Shares Amount Shares Amount (In thousands, except share data) Balance as of December 31, 2022 ) ) ) ) Common stock issued upon exercise of stock options Common stock issued upon vesting of restricted stock units 
+ Stock-based compensation Common stock issued under ESPP Issuance of common stock in connection with acquisitions Activity related to divestiture (Note 19) ) Net loss ) ) Other comprehensive income Balance as of March 31, 2023 ) ) ) ) Common stock issued upon exercise of stock options Common stock issued upon vesting of restricted stock units Stock-based compensation Common stock issued under ESPP Issuance of common stock in connection with acquisitions Net income Other comprehensive income Balance as of June 30, 2023 ) ) ) ) Common stock issued upon exercise of stock options Common stock issued upon vesting of restricted stock units Issuance of common stock in connection with acquisitions (Note 9) 
+ Stock-based compensation Common stock issued under ESPP Net loss ) ) Other comprehensive loss ) ) Balance as of September 30, 2023 ) ) ) ) 
+ 
+ See accompanying notes to condensed consolidated financial statements. 
+ 8 
+
+LIVEP ERSON, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (UNAUDITED) 
+
+Nine Months Ended September 30, 2024 2023 (In thousands) OPERATING ACTIVITIES: Net loss ) ) Adjustments to reconcile net loss to net cash used in operating activities: Stock-based compensation expense Depreciation Reduction of operating lease right-of-use assets Amortization of purchased intangible assets and finance leases Amortization of debt issuance costs and accretion of debt discount 
+ Impairment of goodwill 
+ Impairment of intangibles and other assets 
+ Change in fair value of warrants Change in fair value of contingent consideration Gain on debt extinguishment 
+ ) ) Allowance for credit losses Loss (Gain) on divestiture 
+ ) Deferred income taxes Equity loss in joint venture Changes in operating assets and liabilities, net of acquisitions: Accounts receivable ) Prepaid expenses and other current assets ) Contract acquisition costs 
+ Other assets Accounts payable ) Accrued expenses and other current liabilities ) Deferred revenue ) Operating lease liabilities 
+ ) ) Other liabilities ) Net cash used in operating activities 
+ ) ) INVESTING ACTIVITIES: Purchases of property and equipment, including capitalized software ) ) Purchases of intangible assets ) ) Proceeds from divestiture Net cash used in investing activities 
+ ) ) FINANCING ACTIVITIES: Principal payments for financing leases ) ) Proceeds from issuance of common stock in connection with the exercise of options and ESPP Proceeds from issuance of senior notes 
+ Payment of debt issuance costs 
+ ) Payments on repurchase of 2024 convertible senior notes 
+ ) ) Payments on repurchase of 2026 convertible senior notes 
+ ) Net cash used in financing activities ) ) 
+ 9 
+
+LIVEP ERSON, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (UNAUDITED) 
+
+ Nine Months Ended September 30, 2024 2023 (In thousands) Effect of foreign exchange rate changes on cash and cash equivalents ) ) Net decrease in cash, cash equivalents, and restricted cash ) ) Cash, cash equivalents, and restricted cash - beginning of year Plus: cash classified within current assets held for sale - beginning of year Cash, cash equivalents, and restricted cash - end of period Reconciliation of cash, cash equivalents, and restricted cash to condensed consolidated balance sheets Cash and cash equivalents Restricted cash Total cash, cash equivalents, and restricted cash - end of period Supplemental disclosure of other cash flow information: Cash paid for income taxes, net Cash paid for interest Supplemental disclosure of non-cash investing and financing activities: Purchase of property and equipment and intangible assets recorded in accounts payable Right-of-use assets obtained in exchange for operating lease liabilities 
+
+See accompanying notes to condensed consolidated financial statements. 
+ 10 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+Note 1. 
+ 
+ conversational interactions each month. These digital and artificial intelligence AI )-powered conversations decrease costs and increase revenue for our brands, resulting in more convenient, personalized and content-rich journeys across the entire consumer lifecycle, and across consumer channels. Our customers existing investments in Generative AI and Large Language Models LLMs can be used by LivePerson to leverage prior conversations in a safe and secure environment. 
+ 
+ The Conversational Cloud, LivePerson s enterprise-class digital customer conversation platform, is trusted by the world s top brands to accelerate their contact center transformation, orchestrate conversations across all channels, departments and systems, increase agent productivity, and deliver more personalized, AI-empowered customer experiences. The Conversational Cloud powers conversations across each of a brand s primary digital channels, including mobile apps, mobile and desktop web browsers, short messaging service SMS ), social media and third-party consumer messaging platforms. Brands can also use the Conversational Cloud to connect conversations across voice and digital channels to give customers additional options and ensure their interactions with brands are seamlessly integrated no matter where they choose to reach out. Most recently, the Conversational Cloud has been enhanced to provide a secure platform with appropriate guardrails where Generative AI and LLMs can be deployed and continually optimized in ways that help consumers and drive results for brands without sacrificing trust. 
+ 
+ LivePerson s digital customer conversation platform enables what the Company calls the tango of humans, LivePerson bots, third-party bots and LLMs, in which humans oversee and are assisted by AI and can seamlessly step into conversations as needed. Agents become highly efficient, leveraging the AI engine (including generative AI capabilities) to surface relevant content, define next-best actions and take over repetitive transactional work so that the agent can focus on relationship building. By seamlessly integrating customer engagement channels, LivePerson s proprietary AI, and third-party bots and AI, the Conversational Cloud offers brands a comprehensive approach to scaling automations across all customer conversations. 
+
+11 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+Significant Accounting Policies 
+ 
+ The Company s significant accounting policies are described in the Company s Annual Report on Form 10-K for the year ended December 31, 2023. There have been no significant changes to these policies that have had a material impact on the Company s condensed consolidated financial statements and related notes for the three and nine months ended September 30, 2024. 
+ 
+ Prepaid expenses and other current assets 
+ 
+ VAT receivable Prepaid server maintenance 
+ Prepaid - other 
+ Other assets 
+ Total prepaid expenses and other current assets 
+ 
+ 12 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+operating and reportable segment and does not expect this standard to have a material impact on its condensed consolidated financial statements and related disclosures. 
+ 
+ In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures , which modifies the rules on income tax disclosures to require entities to disclose (1) specific categories in the rate reconciliation, (2) the income or loss from continuing operations before income tax expense or benefit (separated between domestic and foreign) and (3) income tax expense or benefit from continuing operations (separated by federal, state and foreign). ASU 2023-09 also requires entities to disclose their income tax payments to international, federal, state and local jurisdictions, among other changes. The guidance is effective for annual periods beginning after December 15, 2024. Early adoption is permitted for annual financial statements that have not yet been issued or made available for issuance. ASU 2023-09 should be applied on a prospective basis, but retrospective application is permitted. The Company does not expect this standard to have a material impact on its condensed consolidated financial statements and related disclosures. 
+
+Note 2. 
+
+13 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+Professional services Total revenue 
+ (1) On March 20, 2023, the Company completed the sale of Kasamba and therefore ceased recognizing revenue related to Kasamba effective on the transaction close date. Further, this sale eliminated the entire Consumer segment, as a result of which revenue is presented within a single condensed consolidated segment. Hosted services includes million of revenue related to Kasamba for the nine months ended September 30, 2023. 
+ 
+ Remaining Performance Obligation 
+ 
+ As of September 30, 2024, the aggregate amount of the total transaction price allocated in contracts with original duration of one year or greater to the remaining performance obligations was million. Approximately of the Company s remaining performance obligations is expected to be recognized during the next months, with the balance recognized thereafter. The aggregate balance of unsatisfied performance obligations represents contracted revenue that has not yet been recognized, and does not include contract amounts that are cancellable by the customer, amounts associated with optional renewal periods, and any amounts related to performance obligations, which are billed and recognized as they are delivered. The Company has elected the optional exemption, which allows for the exclusion of the amounts for remaining performance obligations that are part of contracts with an original expected duration of less than one year. Such remaining performance obligations represent unsatisfied or partially unsatisfied performance obligations pursuant to ASC 606, Revenue from Contracts with Customers. 
+ 
+ Revenue by Geographic Location 
+ 
+ The Company is domiciled in the United States and has international operations around the globe. 
+ 
+ EMEA (2) 
+ APAC (3) 
+ Total revenue 
+ 
+ (1) United States, Canada, Latin America and South America Americas 
+ (2) Europe, the Middle East and Africa EMEA 
+ (3) Asia-Pacific APAC 
+ 
+ Information about Contract Balances 
+ 
+ The deferred revenue balance consists of services, which have been invoiced upfront, and are recognized as revenue only when the revenue recognition criteria are met. 
+ 
+ In some arrangements, the Company allows customers to pay for access to the Conversational Cloud over the term of the software license. The Company refers to these as subscription transactions. Amounts recognized as revenue in excess of amounts billed are recorded as unbilled receivables. Unbilled receivables, anticipated to be invoiced in the next twelve months, are included in Accounts receivable, net of allowance for credit losses on the condensed consolidated balance sheets. 
+ 14 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+million and million for the three and nine months ended September 30, 2024, respectively, which was included in the corresponding deferred revenue balance at the beginning of the year. The Company recognized revenue of million and million for the three and nine months ended September 30, 2023, respectively, which was included in the corresponding deferred revenue balance at the beginning of the year. 
+ 
+ The Company s long-term deferred revenues are included in Other liabilities on the condensed consolidated balance sheets. 
+ Increase (decrease), net ) ) ) Balance as of December 31, 2023 
+ (Decrease) increase, net ) ) ) ) Balance as of September 30, 2024 
+ 
+ Amortization expense in connection with contract acquisition cost was million and million for the three and nine months ended September 30, 2024, respectively. Amortization expense in connection with contract acquisition cost was million and million for the three and nine months ended September 30, 2023, respectively. 
+ 
+ Accounts Receivable, Net 
+ 
+ Accounts receivable are recorded at the invoiced amount and do not bear interest. The allowance for credit losses is the Company s estimate of the amount of expected credit losses in the Company s existing accounts receivable, based on both specific and general reserves. The Company maintains general reserves on a collective basis by considering factors such as historical experience, creditworthiness, the age of the trade receivable balances, and current econom ic conditions. Account balances are charged off against the allowance after all means of collection have been exhausted and the potential for recovery is considered remote. The Company does not have any off-balance sheet credit exposure related to its customers. 
+ 
+ Additions charged to costs and expenses Deductions/write-offs ) ) Balance, end of period 
+
+15 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+Note 3. 
+ 
+ Convertible Senior Notes due 2024 2024 Notes ), and Convertible Senior Notes due 2026 (the 2026 Notes are considered to be common stock equivalents but are excluded from the calculation of diluted net loss per share when including them has an anti-dilutive effect. See Note 8 Convertible Senior Notes, Net of Current Portion, Capped Call Transactions, and Warrants for additional information about the 2024 Notes, 2026 Notes and First Lien Convertible Senior Notes due 2029 (the 2029 Notes and together with the 2024 Notes and the 2026 Notes, the Notes ). ) ) ) Weighted-average number of shares outstanding, basic and diluted Net loss per share, basic and diluted 
+ 
+ The securities listed below were excluded from the computation of diluted net loss per share for all periods presented, as their effect would have been anti-dilutive. 
+ Restricted stock units Earn-outs Conversion option of the 2024 Notes Conversion option of the 2026 Notes Warrants 
+ Total 
+ 
+ Note 4. 
+ 
+ operating and reportable segment. 
+ 
+ The Company was previously organized into operating segments for purposes of making operating decisions and assessing performance: the Business segment and the Consumer segment. During the first quarter of 2023, the Consumer segment (consisting solely of the Kasamba business) was divested. As a result, the divestiture of Kasamba eliminated the Company s Consumer segment. See Note 19 Divestitures for additional information. 
+ 16 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+Germany Australia Netherlands Other (1) 
+ Total long-lived assets 
+ 
+ (1) Israel, United Kingdom, Japan, France, Italy, Spain, Canada, and Singapore 
+
+Note 5. 
+ 
+ Adjustments to goodwill: Goodwill impairment (1) 
+ ) Foreign exchange adjustment Balance as of December 31, 2023 Adjustments to goodwill: Goodwill impairment (1) 
+ ) Foreign exchange adjustment Balance as of September 30, 2024 
+ 
+ (1) The sum of these amounts represents the accumulated goodwill impairment balance in our operating segment as of September 30, 2024. 
+ 
+ 17 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+million in the condensed consolidated statements of operations, to recognize a full impairment of goodwill associated with its WildHealth reporting unit. WildHealth was divested in June 2024. Refer to Note 19 - Divestitures for additional information. 
+ 
+ There were impairments of goodwill in the Company s Business reporting unit during the three and nine months ended September 30, 2024. 
+ 
+ As of September 30, 2023, the Company s reporting units consisted of Business and WildHealth. Based on the Company s 2023 annual goodwill impairment test, the Company recorded a non-cash impairment charge of million in the condensed consolidated statements of operations during the three months ended September 30, 2023, representing a portion of goodwill related to the WildHealth reporting unit. There were impairments of the Company s Business reporting unit during the three and nine months ended September 30, 2023. 
+ 
+ Intangible Assets, Net 
+ 
+ ) Customer relationships ) Patents ) Trademarks ) Trade names ) Other ) Total ) 
+
+) Customer relationships ) Patents ) Trademarks 
+ ) Trade names ) Other ) Total ) 
+ 18 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+million and million for the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. Of these amounts, amortization expense included in Cost of revenue in the condensed consolidated statements of operations was million and million for the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+ 
+ The Company s intangible assets are tested for impairment whenever events or changes in circumstances indicate that the carrying amount of the asset or asset group may not be recoverable and the carrying amount of the asset exceeds the estimated expected undiscounted future cash flows that are expected to result from the use of the asset. There were impairments of intangible assets during the three months ended September 30, 2024. During the first quarter of 2024, the Company recognized a non-cash impairment charge related to WildHealth of million included in Impairment of intangibles and other assets in the condensed consolidated statements of operations. D uring the three months ended September 30, 2023, the Company recognized a non-cash impairment charge related to WildHealth of million included in Impairment of intangibles and other assets in the condensed consolidated statements of operations. WildHealth was divested in June 2024. Refer to Note 19 - Divestitures for additional information. 
+ 
+ 2025 2026 2027 2028 Thereafter Total 
+
+Note 6. 
+
+Computer equipment and software to 
+ Furniture, equipment and building improvements The lesser of or estimated useful life 
+ Finance lease right-of-use assets Property and equipment, at cost Less: accumulated depreciation ) ) Property and equipment, net 
+ 19 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+million and million during the three months ended September 30, 2024 and 2023, respectively, and million and million during the nine months ended September 30, 2024 and 2023, respectively. 
+ 
+ Expenditures for routine maintenance and repairs are charged to operating expense as incurred. Major renewals and improvements are capitalized and depreciated over their estimated useful lives. 
+ 
+ During the second quarter of 2024, the Company recorded non-cash impairment charges of million related to capitalized software development costs. The impairment charges were included in Impairment of intangibles and other assets in the condensed consolidated statements of operations for the nine months ended September 30, 2024. These impairment charges pertained to internal projects that were discontinued and had no future economic benefit. There were impairments of property and equipment during the three and nine months ended September 30, 2023. 
+ 
+ Sales and marketing General and administrative Product development Total 
+
+Note 7. 
+ 
+ Payroll and other employee-related costs Warrants liability Finance lease liability Restructuring Sales commissions Non-income tax Other Total 
+
+Note 8. 
+ 
+ million aggregate principal amount of its Convertible Senior Notes due 2024 in a private placement. Interest on the 2024 Notes was payable semi-annually in arrears on March 1 and 
+ 20 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+million in aggregate principal amount of the 2024 Notes. 
+ 
+ On March 21, 2023, the Company entered into individual privately negotiated transactions (the Note Repurchase Agreements with certain holders of its 2024 Notes, pursuant to which the Company agreed to pay an aggregate of million in cash for the repurchase of million in aggregate principal amount of the 2024 Notes (the Note Repurchases ). D uring the first quarter of 2023, the Company recognized a million gain, net of transaction costs of million on debt extinguishment, which represented the difference between the carrying value and the fair value of the 2024 Notes just prior to the Note Repurchases, which was recorded in Other (expense) income, net in the condensed consolidated statements of operations. The gain on debt extinguishment was subsequently adjusted by an immaterial amount of million with a total gain of million reported as of December 31, 2023. 
+ 
+ Upon completion of the Note Repurchases, the aggregate principal amount of the 2024 Notes was reduced by million to million and the carrying amount of the 2024 Notes reduced by million to million. A corresponding portion of the 2024 capped calls were terminated in connection following the Note Repurchases as required by their terms for minimal consideration. 
+ 
+ As of September 30, 2024 , there was no outstanding principal amount of the 2024 Notes. 
+ 
+ Convertible Senior Notes due 2026 and Capped Calls 
+ 
+ In December 2020, the Company issued million aggregate principal amount of its 2026 Notes in a private placement, of which million aggregate principal amount was outstanding as of September 30, 2024 . The 2026 Notes are senior unsecured obligations of the Company. 
+ 
+ The 2026 Notes will mature on December 15, 2026, unless earlier repurchased or redeemed by the Company or converted pursuant to their terms. The total net proceeds from the offering of the 2026 Notes, after deducting debt issuance costs, was million. 
+ 
+ Each 1,000 in principal amount of the 2026 Notes is initially convertible into 13.2933 shares of the Company s common stock par value , which is equivalent to an initial conversion price of approximately per share. The conversion rate is subject to adjustment upon the occurrence of certain specified events but will not be adjusted for any accrued and unpaid special interest. In addition, following certain corporate events that occur prior to the maturity date, the Company will increase the conversion rate for a holder who elects to convert its 2026 Notes in connection with such a corporate event. The 2026 Notes are not redeemable prior to the maturity date of the 2026 Notes and no sinking fund is provided for the 2026 Notes. The indenture governing the 2026 Notes contains events of default customary for convertible notes issued in connection with similar transactions. If the Company undergoes a fundamental change (as defined in the indenture governing the 2026 Notes), which includes a change of control or the failure of the Company s common stock to be listed or quoted on any of the Nasdaq Global Select Market, The Nasdaq Global Market or the New York Stock Exchange, holders may require the Company to repurchase for cash all or any portion of their 2026 Notes in principal amounts of 1,000 or a multiple thereof at a fundamental change repurchase price equal to of the principal amount of the 2026 Notes to be repurchased, plus accrued and unpaid special interest to, but excluding, the fundamental change repurchase date. 
+ 
+ Holders of the 2026 Notes may convert their 2026 Notes at their option at any time prior to the close of business on the business day immediately preceding August 15, 2026, in multiples of 1,000 principal amount, only under the following circumstances: (1) during any calendar quarter commencing after the calendar quarter ending on March 31, 2021 (and only during such calendar quarter), if the last reported sale price of the Company s common stock for at least trading days (whether or not consecutive) during a period of consecutive trading days ending on, and including, the last trading day of the immediately preceding calendar quarter is greater than or equal to of the conversion price for the 2026 Notes on each applicable trading day as determined by the Company; (2) during the business day period after any consecutive trading day period (the measurement period in which the trading price (as defined in the indenture governing the 2026 Notes) per 1,000 principal amount of 2026 Notes for each trading day of the measurement period was less than of the product of the last reported sale price of the Company s common stock and the conversion rate for the 2026 Notes on each such trading day; (3) with respect to any 2026 Notes that the Company calls for redemption, at any time prior to the close of business on the scheduled trading day immediately preceding the redemption date; or (4) upon the occurrence of specified corporate events. On or after August 15, 2026, holders may convert all or any portion of their 2026 Notes at any time prior to the close of business on the second scheduled trading day immediately preceding the maturity date, regardless of the foregoing circumstances. Upon 
+ 21 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+per share, subject to certain adjustments, which corresponds to the initial conversion price of the 2026 Notes. The 2026 capped calls have initial cap prices of per share, subject to certain adjustment events. The 2026 capped calls cover, subject to anti-dilution adjustments, approximately million shares of common stock. The 2026 capped calls are generally intended to reduce or offset the potential dilution to the common stock upon any conversion of the 2026 Notes with such reduction or offset, as the case may be, subject to a cap based on the cap price. The 2026 capped calls expire on December 15, 2026, subject to earlier exercise. The 2026 capped calls are subject to either adjustment or termination upon the occurrence of specified extraordinary events affecting the Company, including a merger event, a tender offer, and a nationalization, insolvency or delisting involving the Company. In addition, the 2026 capped calls are subject to certain specified additional disruption events that may give rise to a termination of the 2026 capped calls, including changes in law, failure to deliver, and hedging disruptions. The 2026 capped calls are recorded in stockholders equity and are not accounted for as derivatives. The net cost of million incurred to purchase the 2026 capped calls was recorded as a reduction to additional paid-in capital in the condensed consolidated balance sheets. 
+ 
+ Pursuant to a privately negotiated exchange and purchase agreement (the Exchange and Purchase Agreement ), on June 3, 2024, the Company exchanged million principal amount of the 2026 Notes then held by an investor for million principal amount of new 2029 Notes, and the same investor purchased an additional million principal amount of the 2029 Notes for cash. In connection with the exchange and purchase, the Company also issued the Warrants (as defined below) to the investor, and the investor agreed to purchase up to million of additional 2029 Notes upon the Company s request at any time prior to December 3, 2024 (the Delayed Draw Notes ). As a result of the exchange and purchase transactions, during the second quarter of 2024, the Company recognized a million gain on debt extinguishment which represented the difference between the carrying value of the 2026 Notes so exchanged and the collective fair value of the 2029 Notes and the Warrants, net of the cash payment received from the investor. The extinguishment gain was recorded in Gain on debt extinguishment in the condensed consolidated statements of operations. 
+ 
+ On June 13, 2024, the Company repurchased million principal amount of the 2026 Notes for million in cash. As a result of the transaction, during the second quarter of 2024, the Company recognized a million gain on debt extinguishment, which was recorded in Gain on debt extinguishment in the condensed consolidated statements of operations. 
+ 
+ As a result of the adoption of ASU 2020-06 Debt - Debt with Conversion and Other Options (Subtopic 815-40) and Derivatives and Hedging - Contracts in Entity s Own Equity (Subtopic 815-40): Accounting for Convertible Instruments and Contracts in an Entity s Own Equity ASU 2020-06 ), the 2026 Notes are accounted for as a single liability. The 2026 Notes were classified as long-term liabilities in the condensed consolidated balance sheets as of September 30, 2024. After the completion of the exchange and repurchase, the aggregate principal amount of the 2026 Notes was reduced by million to million and the carrying amount of the 2026 Notes reduced by million to million. A corresponding portion of the 2026 capped calls were terminated in connection following the transactions as required by their terms for no consideration. The remaining term over which the 2026 Notes debt issuance costs will be amortized is years at an effective interest rate of for the three months ended September 30, 2024 . 
+ 
+ First Lien Convertible Senior Notes due 2029 
+ 
+ In June 2024, the Company issued million aggregate principal amount of its 2029 Notes pursuant to the Exchange and Purchase Agreement including million aggregate principal amount issued in exchange for million aggregate principal amount of 2026 Notes and million aggregate principal amount issued for cash. The Company paid third parties million in connection with the transaction, which was capitalized as debt issuance costs. At the time of the exchange, the fair value of the 2029 Notes approximated million, and the Company recognized a debt discount of million. 
+ 
+ Unless earlier repurchased or redeemed by the Company or converted pursuant to their terms, the 2029 Notes will mature on the earlier of (a) June 15, 2029 and (b) days before the maturity of the 2026 Notes, if greater than million principal amount of 2026 Notes remains outstanding on such date. The amount payable by the Company if the 2029 Notes 
+ 22 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+of the aggregate principal amount of the 2029 Notes, plus accrued and unpaid interest, plus the remaining future interest payments that would have been payable through June 15, 2029, discounted at a rate equal to the comparable treasury rate plus basis points (the Make-Whole Amount ). 
+ 
+ From June 3, 2024, until the earlier of the date of issuance of the Delayed Draw Notes and December 15, 2026, interest on the 2029 Notes will accrue at a rate of (consisting of cash and paid in kind PIK )) per annum. From the date of issuance of the Delayed Draw Notes and prior to December 15, 2026, interest on the 2029 Notes will increase and accrue at a rate of (consisting of cash and PIK) per annum. On and after December 15, 2026, interest on the 2029 Notes will further increase and accrue at a rate of (consisting of cash and PIK) per annum. 
+ 
+ The Company may, at its option, redeem the 2029 Notes, in whole or in part, prior to June 15, 2025 at a price equal to the Make-Whole Amount. On or after June 15, 2025, and prior to June 15, 2026, the Company may, at its option, redeem the 2029 Notes, in whole or in part for an amount of cash equal to the sum of (i) of the aggregate principal amount of the 2029 Notes (including all increases to the principal amount as the result of previous payments of PIK interest) plus (ii) of all accrued and unpaid PIK interest plus (iii) all accrued and unpaid cash interest. On or after June 15, 2026, and prior to December 15, 2026, the Company may, at its option, redeem the 2029 Notes, in whole or in part for an amount of cash equal to the sum of (i) of the aggregate principal amount of the 2029 Notes (including all increases to the principal amount as the result of previous payments of PIK interest) plus (ii) of all accrued and unpaid PIK interest plus (iii) all accrued and unpaid cash interest. From December 15, 2026 until maturity, the Company may, at its option, redeem the 2029 Notes, in whole or in part for an amount of cash equal to the sum of (i) of the aggregate principal amount of the 2029 Notes (including all increases to the principal amount as the result of previous payments of PIK interest) plus (ii) of all accrued and unpaid PIK interest plus (iii) all accrued and unpaid cash interest. In addition, the Make-Whole Amount will be payable in the event of an acceleration of the 2029 Notes or repurchase triggered by certain asset sales. No sinking fund is provided for the 2029 Notes. 
+ 
+ The 2029 Notes are guaranteed on a senior basis by certain of the Company s direct and indirect domestic and foreign subsidiaries and secured by first priority security interests in substantially all of the assets of the Company and such subsidiary guarantors, subject to customary exceptions. The indenture governing the 2029 Notes contains affirmative and negative covenants and events of default customary for senior secured notes issued in connection with similar transactions. The negative covenants include limitations on asset sales, the incurrence of debt, preferred stock and liens, fundamental changes, investments, dividends and other payment restrictions affecting subsidiaries, restricted payments and transactions with affiliates. Among other things, these covenants generally prohibit the payment of cash dividends on the Company s common stock. The indenture governing the 2029 Notes permits the Company and its subsidiaries to incur, subject to certain requirements, up to million of debt that is junior in lien priority and subordinated in right of payment to the 2029 Notes. The indenture governing the 2029 Notes also includes a financial covenant that requires the Company at all times to maintain a minimum cash balance of million (excluding proceeds of the 2029 Notes). Upon request of the investor, the indenture governing the 2029 Notes requires the Company to enter into a registration rights agreement with respect to the 2029 Notes containing customary terms including demand, shelf and piggyback registration rights. The Company was in compliance with its financial covenants as of September 30, 2024. 
+ 
+ If the Company undergoes a fundamental change (as defined in the indenture governing the 2029 Notes), which includes a change of control or the failure of the Company s common stock to be listed or quoted on any of the Nasdaq Global Select Market, The Nasdaq Global Market or the New York Stock Exchange, holders may require the Company to repurchase all or any portion of their 2029 Notes at a repurchase price equal to of the aggregate principal amount of the 2029 Notes to be repurchased, plus accrued and unpaid interest, plus an amount equal to of the remaining future interest payments (including PIK interest) that would have been payable through June 15, 2029, discounted at a rate equal to the comparable treasury rate plus basis points. 
+ 
+ Holders of the 2029 Notes may convert their 2029 Notes at their option at any time prior to the close of business on the business day immediately preceding February 15, 2029 only under the following circumstances: (1) during any calendar quarter commencing after the calendar quarter ending on September 30, 2024 (and only during such calendar quarter), if the last reported sale price of the Company s common stock for at least trading days (whether or not consecutive) during a period of consecutive trading days ending on, and including, the last trading day of the immediately preceding calendar quarter is greater than or equal to of the conversion price for the 2029 Notes on each applicable trading day as determined by the Company; (2) during the business day period after any consecutive trading day period (the measurement period in which the trading price (as defined in the indenture governing the 2029 Notes) per 1,000 principal amount of 2029 Notes for each trading day of the measurement period was less than of the product of the last reported sale price of the Company s 
+ 23 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+million on August 16, 2026. On or after February 15, 2029, holders may convert all or any portion of their 2029 Notes at any time prior to the close of business on June 13, 2029, regardless of the foregoing circumstances. The 2029 Notes include certain embedded features requiring bifurcation, which did not have material values as of September 30, 2024 due to management s estimates of the likelihood of triggering events, but that may have value in the future should those estimates change, with any change in fair value recorded in the Company s condensed consolidated statements of operations. 
+ 
+ The 2029 Notes (including all accrued and unpaid interest) are convertible at the option of the holders at certain times into cash based on a daily conversion value calculated on a proportionate basis for each trading day in a trading day observation period, initially corresponding to 13.2933 shares of the Company s common stock per 1,000 principal amount of 2029 Notes. The Company is not required to deliver its common stock upon conversion under any circumstances. The conversion rate for the 2029 Notes is subject to adjustment if certain events occur and contains customary anti-dilution protections. During the three months ended September 30, 2024 , the conditions allowing holders of the 2029 Notes to convert were not met. 
+ 
+ As a result of the adoption of ASU 2020-06, the 2029 Notes are accounted for as a single liability, and the carrying amount of the 2029 N otes is million as of September 30, 2024, consisting of principal of million, net of unamortized issuance costs of million and debt discount of million . The 2029 Notes were classified as long-term liabilities in the condensed consolidated balance sheets as of September 30, 2024. The remaining term over which the 2029 Notes debt issuance costs will be amortized is years at an effective interest rate of as of September 30, 2024. 
+ 
+ Unamortized debt issuance costs incurred in connection with securing the Company s financing arrangements are presented in the condensed consolidated balance sheets as a direct deduction from the carrying amount of the outstanding borrowings, consistent with debt discounts. All deferred financing costs are amortized to interest expense. 
+ 
+ Unamortized debt discount 
+ ) ) Unamortized issuance costs 
+ ) ) ) ) ) ) Total net carrying value Less: short-term debt, net Long-term debt, net 
+ 
+ Accretion of debt discount Amortization of debt issuance costs Total interest expense 
+ 
+ 24 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+million and million is reflected as a component of interest (expense) income, net in the condensed consolidated statements of operations for the three and nine months ended September 30, 2024, respectively. Interest expense was million and million for the three and nine months ended September 30, 2023, respectively. 
+ 
+ Warrants 
+ 
+ On June 3, 2024, pursuant to the Exchange and Purchase Agreement, the Company issued to the investor warrants with a strike price of per share, exercisable for shares of the Company s common stock (the Share-Settled Warrants and warrants with a strike price of per share, exercisable with respect to a notional amount of shares of the Company s common stock for cash payments equal to the excess of fair market value (as defined therein) per share over the strike price, fully diluted subject to certain adjustments (the Cash-Settled Warrants, and collectively with the Share-Settled Warrants, the Warrants. ). 
+ 
+ The Cash-Settled Warrants will permit the Company, subject to certain conditions (including to the extent that the Company, following payment, would have available cash (as defined therein) of less than million ), to defer payment of the settlement amount at an annualized interest rate of , compounded monthly. Warrants outstanding at the expiration will be exercised automatically (and in the case of the Share-Settled Warrants, will be exercised on a cashless basis) if, immediately prior to the expiration, the Fair Market Value per share is greater than the strike price. 
+ 
+ The Warrants contain customary anti-dilution protections and a beneficial ownership limitation on the investor s ownership of the Company s common stock, on a post-exercise basis (aggregating all securities convertible into or exercisable for the Company s common stock), of , subject to increase upon days notice by the investor, but not to exceed . 
+ 
+ The Warrants were classified as current liabilities in the Company s condensed consolidated balance sheet and recorded at fair value of million at the issuance date with any subsequent changes in fair value to be recorded in the Company s condensed consolidated statements of operations. As of September 30, 2024 , the Warrants had a fair value of million . A loss of million for the change in fair value was recorded in Other (expense) income, net, in the Company s condensed consolidated statements of operations for the three months ended September 30, 2024. 
+
+Note 9. 
+ 
+ year or less, some of which include options to extend. The Company uses the non-cancelable lease term when recognizing the right-of-use ROU assets and lease liabilities, unless it is reasonably certain that a renewal or termination option will be exercised. 
+ 
+ The Company continues to actively assess its global lease portfolio. However, any additional de-recognition of ROU assets and incurrence of various one-time expenses in connection with early termination of additional leases are not expected to be material to its financial condition or results of operations. 
+ 
+ Operating cash flows for finance leases Financing cash flows for finance leases 
+
+25 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+Interest Operating lease cost Total lease cost 
+ 
+ September 30, 2024 September 30, 2023 Weighted Average Remaining Lease Term: Operating leases years years Finance leases year years Weighted Average Discount Rate: Operating leases Finance leases 
+ Finance right-of-use assets 
+ Property and equipment, net Liabilities Current liabilities: Operating lease liabilities Operating lease liabilities Finance lease liabilities Accrued expenses and other current liabilities Non-current liabilities: Operating lease liabilities Operating lease liabilities, net of current portion 
+ Finance lease liabilities Other liabilities 
+
+Note 10. 
+ 
+ 26 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+Total assets Liabilities 
+ Warrants liability Total liabilities 
+
+December 31, 2023 Level 1 Level 2 Level 3 Total 
+ (In thousands) Assets Cash equivalents - money market funds Total assets 
+ 
+ In determining fair value, the Company utilizes valuation techniques that maximize the use of observable inputs and minimize the use of unobservable inputs to the extent possible as well as considers counterparty credit risk in its assessment of fair value. Observable or market inputs reflect market data obtained from independent sources, while unobservable inputs reflect the Company s assumptions based on the best information available. 
+ 
+ The Company s money market funds are measure d at fair value on a recurring basis based on quoted market prices in active markets and are classified as Level 1 within the fair value hierarchy. The Company s Warrants and contingent earn-out liability were measured at fair value on a recurring basis and was classified as Level 3 within the fair value hierarchy. For 2023, the fair value was based on the negotiated contracts with the selling shareholders. Significant changes in unobservable inputs could result in significantly lower or higher fair value measurements. 
+ 
+ On a nonrecurring basis, the Company uses fair value measures when analyzing asset impairment. Long-lived assets are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable. If it is determined such indicators are present and the review indicates that the assets will not be fully recoverable, based on undiscounted estimated cash flows over the remaining amortization periods, their carrying values are reduced to estimated fair value. The Company uses an income approach and inputs that constitute Level 3. 
+
+27 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+) 2029 Notes 
+ 3 ) ) December 31, 2023 2024 Notes 
+ 2 ) 2026 Notes 
+ 2 ) 
+ 
+ Management determined the fair value of 2026 Notes and 2024 Notes by using Level 2 inputs base d on observable market prices and antithetic variable technique don e by an independent valuation specia list. Management determined the fair value of the 2029 Notes by using Level 3 inputs, including the yield of and the credit spread of . 
+ Warrants 
+ 
+ The Company recorded the fair value of the Warrants upon issuance using the Black-Scholes valuation model and is required to revalue these Warrants at each reporting date with any changes in fair value recorded on the Company s condensed statement of operations. The valuation of the Warrants was classified as Level 3 within the fair value hierarchy and is influenced by the fair value of the underlying, or notional amount of, common stock of the Company. 
+ 
+ Risk free rate Expected life (in years) Expected volatility 
+ 
+ Any significant changes in the inputs may result in significantly higher or lower fair value measurements. Refer to Note 8 Convertible Senior Notes, Net of Current Portion, Capped Call Transactions, and Warrants for additional information. 
+ 
+ Change in fair value of contingent consideration Change in fair value of liability awards ) Payments ) Issuance of warrants 
+ Change in fair value of warrants Balance, end of period 
+ 
+ Certain former stakeholders of the Company s acquisitions were eligible to receive additional cash or share considerations based on the attainment of certain operating metrics in the periods subsequent to the acquisitions. These earn-out arrangements were accounted for as either contingent considerations arrangements or compensation arrangements. Contingent considerations were fair valued using significant inputs that are not observable in the market. 
+ 28 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+million, million, million, and million, respectively. 
+ 
+ Changes to the fair value of the earnouts were recognized as a component of stock-based compensation expense and Other (expense) income, net in the condensed consolidated statements of operations. Payments in cash were recognized as a component of compensation expense and payments in stock were recognized as a component of equity in the condensed consolidated statements of operations. There were no outstanding earnout liabilities as of September 30, 2024 based on settlements that were completed as of December 31, 2023. 
+ 
+ Note 11. 
+ 
+ of the first of eligible compensation and of the next of eligible compensation. Furthermore, the match is immediately vested. Salaries and related expenses include million and million of employer matching contributions for the three months ended September 30, 2024 and 2023, respectively, and million and million for the nine months ended September 30, 2024 and 2023, respectively. 
+ 
+ Letters of Credit 
+ 
+ As of September 30, 2024, the Company had letters of credit totaling million outstanding as a security deposit for the due performance by the Company of the terms and conditions of a supply contract. 
+ 
+ Contractual obligations 
+ 
+ The Company s purchase obligations consist of agreements to purchase goods and services entered into in the ordinary course of business. These purchase obligation agreements are primarily related to contracts with vendors in connection with Information Technology IT infrastructure and cloud computing-related services with remaining terms of or less. The Company s contractual obligations as of September 30, 2024, did not materially change from the amounts disclosed in the Company s 2023 Annual Report on Form 10-K. 
+ 
+ Indemnifications 
+ 
+ The Company enters into service and license agreements in its ordinary course of business. Pursuant to some of these agreements, the Company agrees to indemnify certain customers from and against certain types of claims and losses suffered or incurred by them as a result of using the Company s products. 
+ 
+ The Company also has agreements whereby its executive officers and directors are indemnified for certain events or occurrences while the officer or director is, or was, serving at the Company s request in such capacity. The maximum potential amount of future payments the Company could be required to make under these indemnification agreements is unlimited; however, the Company has a directors and officers insurance policy that reduces its exposure and enables the Company to recover a portion of any future amounts paid subject to customary deductibles. As a result of its insurance policy coverage, the Company believes the estimated fair value of these indemnification agreements is minimal. The Company has no liabilities recorded for these agreements as of the three and nine months ended September 30, 2024 and 2023. 
+ 29 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+Note 12. 
+ 
+ shares in the aggregate. Stock options granted under the 2019 Stock Incentive Plan have terms. As of September 30, 2024, shares of common stock remained available for issuance (taking into account all stock option exercises and other equity award settlements through September 30, 2024). 
+ 
+ Employee Stock Purchase Plan 
+ 
+ As of September 30, 2024, there were shares authorized and reserved for issuance under the Company s ESPP, and as of September 30, 2024, shares of common stock remained available for issuance under the ESPP (taking into account all share purchases through September 30, 2024). 
+ 
+ Inducement Plan 
+ 
+ There are shares of common stock authorized and reserved for issuance under the Company s 2018 Inducement Plan, inclusive of shares, in the aggregate, authorized for issuance during the first and second quarters of 2024. As of September 30, 2024, shares of common stock remained available for issuance under the Inducement Plan (taking into account all option exercises and other equity award settlements through September 30, 2024). 
+ 
+ CEO Inducement Award 
+ 
+ As part of an equity compensation package negotiated to induce John Sabino, the Company s Chief Executive Officer, to accept employment with the Company, pursuant to the terms of the employment agreement entered into between Mr. Sabino and the Company, the Company granted Mr. Sabino an option to purchase shares of common stock (the CEO Inducement Award that will vest upon the satisfaction of certain performance-based and time-based vesting conditions. On May 17, 2024, the Company s board of directors authorized shares for issuance under the CEO Inducement Award in compliance with and in reliance on Nasdaq Listing Rule 5635(c)(4). The CEO Inducement Award was a standalone award granted outside of the 2019 Stock Incentive Plan and 2018 Inducement Plan. As of September 30, 2024, shares of common stock remained available for issuance under the CEO Inducement Award. 
+ 
+ 30 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+Granted (1) 
+ Cancelled or expired ) Balance outstanding as of September 30, 2024 Options vested and expected to vest Options exercisable as of September 30, 2024 
+ 
+ (1) Represents the CEO Inducement Award, which does not count against the number of shares reserved for issuance under the Company s 2019 Stock Incentive Plan or the Company s 2018 Inducement Plan. 
+ 
+ As of September 30, 2024, there was approximately million of total unrecognized compensation cost related to non-vested share-based compensation arrangements. That cost is expected to be recognized over a weighted average period of approximately years. 
+ 
+ Restricted Stock Unit and Performance-Vesting Restricted Stock Unit Activity 
+ 
+ Awarded Vested ) Forfeited ) Non-vested and outstanding as of September 30, 2024 Expected to vest 
+ RSUs granted to employees generally vest over a three to period or upon achievement of certain performance conditions. As of September 30, 2024, total unrecognized compensation cost, adjusted for estimated forfeitures, related to non-vested RSUs and PRSUs was approximately million and the weighted-average remaining vesting period was years. 
+ 
+ PRSUs granted are generally subject to both a service-based vesting condition and a performance-based vesting condition. PRSUs will vest upon the achievement of specifi ed performance targets and subject to continued service through the applicable vesting dates. The associated compensation cost is recognized over the requisite service period when it is probable that the performance condition will be satisfied. There were no PRSUs granted during the three and nine months ended September 30, 2024 . PRSUs granted during the three and nine months ended September 30, 2023, were immaterial. 
+
+31 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+Sales and marketing General and administrative ) Product development Total 
+
+Note 13. 
+ 
+ million and million during the three months ended September 30, 2024 and 2023, respectively, and million and million during the nine months ended September 30, 2024 and 2023, respectively, which is included in Restructuring costs in the condensed consolidated statements of operations. Such costs primarily include severance and other compensation costs as well as IT infrastructure contract termination costs. 
+ 
+ IT contract termination (reversals) costs 
+ ) Severance and other compensation associated costs Cash payments ) ) Balance, end of period 
+ 
+ The Company anticipates that payments associated with the employee severance and other compensation associated costs reflected in the table above will be substantially completed by December 31, 2024. 
+ 
+ ) Severance and other associated costs Total restructuring costs 
+
+32 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+Note 14. 
+ 
+ in fees and expenses, which the Company has opposed. On September 5, 2024, the Court awarded the plaintiff , which has been paid and is recorded in General and administrative expenses in the condensed consolidated statement of operations for the three and nine months ended September 30, 2024. 
+ 
+ In February 2024, Starboard Value LP and several of its related entities and investment funds filed a lawsuit against the Company, its former Chief Executive Officer, and its Chief Financial Officer entitled Starboard Value LP v. LivePerson, Inc., No. 2024-0103, in the Court of Chancery of the State of Delaware. The complaint alleges common law fraud, fraudulent inducement, and negligent misrepresentation in connection with an alleged scheme to induce Starboard to settle its 2022 proxy contest against the Company and, as stated in the complaint, involves previous Starboard allegations of misrepresentations in the Company s public disclosures that the Company previously informed Starboard were found to be unsubstantiated following an independent investigation. The complaint seeks unspecified damages. The defendants have filed an answer denying the substantive allegations of the complaint. 
+ 
+ COVID-Related Matters 
+ 
+ As has been widely reported, there is heightened scrutiny by the federal government across many programs related to global novel coronavirus disease COVID-19 that were introduced during the COVID-19 pandemic. The Company previously provided products and services related to COVID-19 testing and accompanying software. Those products and services have been the subject of inquiry and review by Medicare, the Department of Justice and the U.S. Food and Drug Administration. 
+ 
+ 33 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+Note 15. 
+ 
+ million. In 2024, the Company expects an estimated increase in the valuation allowance of million, al l of which would be recorded as an expense. During the year ended December 31, 2023, there was an increase in the valuation allowance recorded of million. 
+ 
+ The Company recorded a tax provision expense o f million and million for the three and nine months ended September 30, 2024 , respectively, which consists of a tax provision on operating earnings of non-U.S. subsidiaries, interest accrual on unrecognized tax benefits in Israel, and tax provision for U.S. state jurisdictions. 
+ 
+ 34 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+million and million for the three and nine months ended September 30, 2023 , respectively, which was made up of tax provision on operating earnings, a stock compensation tax deficiency related to the stock compensation arrangements of LivePerson, Inc., LivePerson (UK) Ltd., and LivePerson Ltd. (Israel), and an increase in valuation allowance activity on deferred tax assets resulting from a release of deferred tax liabilities as a result of the Kasamba sale during the first quarter of 2023. 
+ 
+ The decrease in the tax provision for the three months ended September 30, 2024 as compared to the three months ended September 30, 2023 is due to return-to-provision adjustments from foreign return filings. The increase in the tax provision for the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023 is due to changes in the forecasted earnings by jurisdiction year over year, the effects of U.S. state taxes as a result of net operating loss utilization limitations, and offsetting activities related to the prior period tax benefit including the change in Israeli tax rate, the return-to-provision adjustments from foreign tax return filings, and the changes in valuation allowance connected to the sale of Kasamba during the prior period and the debt restructuring in 2024. 
+
+Note 16. 
+ 
+ million over a period in exchange for a ownership interest in Claire. Pasaca agreed to contribute million to Claire over a period in exchange for an ownership interest in Claire. The Company accounts for its interest in Claire using the equity method of accounting. The Company recorded its ownership percentage of losses of Claire in other (expense) income, net in the amount of million and million for the three and nine months ended September 30, 2023, respectively. The Company s equity method investment in joint venture was reduced to during the prior year, based on the prior year losses, and remained at on the condensed consolidated balance sheet as of September 30, 2024. Refer to Note 18 Related Parties for additional information. 
+
+Note 17. 
+ 
+ Professional Corporations PCs ). The PCs are owned by a medical practitioner in accordance with certain state laws which restrict the corporate practice of medicine and require medical practitioners to own such entities. WildHealth provides management and other services to the PCs in exchange for a management fee and provides financial support to the PCs through a revolving credit arrangement. WildHealth also has separate agreements with the equity holder of the PCs where it may acquire and assign such equity interests for certain PCs. The agreement entitles WildHealth to control rights sufficient to require the Company to consolidate the balance sheet and results of operations of the PCs as VIEs. The Company determined that the PCs were VIEs as WildHealth was the primary beneficiary of the PCs. 
+ 
+ The assets, liabilities, revenues, and operating results of the VIEs after elimination of intercompany transactions were not material during 2024. 
+ 
+ In the second quarter of 2024, the Company entered into an agreement for and completed the sale of equity in WildHealth. As a result, as of September 30, 2024, the PCs related to WildHealth are no longer considered VIEs of the Company. Refer to Note 19 - Divestitures for additional information. 
+ 
+ 35 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (UNAUDITED) 
+
+Note 18. 
+ 
+ revenues were recognized for the services provided to Claire included in the Company s condensed consolidated statements of operations for the three and nine months ended September 30, 2024, compared to revenues of and million for the three and nine months ended September 30, 2023, respectively. 
+
+Note 19. 
+ 
+ equity in WildHealth with a third party. Pursuant to ASC Subtopic 205-20, Presentation of Financial Statements - Discontinued Operations , the divestiture did not meet the criteria for presentation as a discontinued operation. WildHealth was part of the Business segment and was a separate reporting unit. The transaction resulted in a loss of million which was recognized and presented separately in Loss (gain) on divestiture on the Company s condensed consolidated statements of operations for the nine months ended September 30, 2024. Subsequent to the closing, the Company does not have ongoing involvement or arrangements with WildHealth. 
+ 
+ Fiscal 2023 Divestitures 
+ 
+ In the fourth quarter of 2022, the Company entered into a non-binding Letter of Intent to divest Kasamba, Inc. and Kasamba LTD (together Kasamba ), which represented the Company s Consumer segment. Pursuant to ASC Subtopic 360-10, Impairment or Disposal of Long-Lived Assets , t he Company applied held for sale accounting treatment to the assets and liabilities of Kasamba. Accordingly, the related net assets were separately presented in current assets and current liabilities as held for sale on the consolidated balance sheets as of December 31, 2022, up until the close of the transaction . The held for sale classification also resulted in ceasing depreciation and amortization on the designated assets. 
+ 
+ The Share Purchase Agreement between Ingenio, LLC Ingenio and the Company closed on March 20, 2023. In accordance with the Share Purchase Agreement, the Company sold all of the issued and outstanding shares of Kasamba for million which was received in cash upon closing; and million deferred payment to be received within a year of the close transaction date, which was included in Prepaid expenses and other current assets on the Company s condensed consolidated balance sheets as of March 31, 2023. million was required to be held in various escrow accounts for up to months, and was included in Restricted cash on the Company s consolidated balance sheets; however, million of this escrow amount was released as of December 31, 2023 . In June 2024, restricted cash of million was released and is classified as Cash and cash equivalents on the condensed consolidated balance sheet as of September 30, 2024. The transaction resulted in a gain of million, which was recognized and presented separately in Loss (gain) on divestiture on the Company s consolidated statements of operations during the year ended December 31, 2023. During the nine months ended September 30, 2024 , the Company recognize d million of post-closing adjustments pertaining to the final agreement amount which is recorded in General and administrative expenses in the condensed consolidated statement of operations. 
+ 
+ 36 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 
+ You should read the following discussion of our financial condition and results of operations in conjunction with the condensed consolidated financial statements and the notes thereto included elsewhere in this report. The following discussion contains forward-looking statements that reflect our plans, estimates and beliefs. Our actual results could differ materially from those discussed in the forward-looking statements. Factors that could cause or contribute to these differences include those discussed below and elsewhere in this report, particularly in Risk Factors. 
+
+Key Metrics and Current Trends 
+ 
+ Average Annual Revenue Per Enterprise and Mid-market Customer ARPC and revenue retention are currently the key performance metrics our management uses to assess the health and trajectory of the Company. These metrics should be viewed independently of revenue, deferred revenue and remaining performance obligations. ARPC increased to approximately 630,000 for the trailing twelve months ended September 30, 2024, as compared to approximately 595,000 for the trailing twelve months ended September 30, 2023. Revenue retention for our enterprise and mid-market customers on the Conversational Cloud, which represents the trailing twelve month change in total revenue from existing customers after upsells, downsells and attrition, was approximately 79 in the third quarter of 2024, below our target range of 105 to 115 and below the level achieved in the second quarter of 2024 (83 and the third quarter of 2023 (98 ). 
+ While our expectations for retention rates continue to improve as we look forward to next year s renewal cycle, we see heightened risk for the remainder of the current renewal cycle with customers who were likely making their renewal decisions before we installed our new customer success motion. The last set of customers we have identified in this risk category have renewal dates in the fourth quarter this year and first quarter next year. As a result, we currently expect short-term attrition to continue into the first half of 2025 and revenue to decline sequentially as a consequence, with a transition toward positive net new annual recurring revenue expected in the second half of 2025. 
+
+Critical Accounting Policies and Estimates 
+ 
+ Our condensed consolidated financial statements are prepared in conformity with accounting principles generally accepted in the United States GAAP ). As such, we are required to make certain estimates, judgments and assumptions that management believes are reasonable based upon the information available. We base these estimates on our historical experience, future expectations and various other assumptions that we believe to be reasonable under the circumstances, the results of which form the basis for our judgments that may not be readily apparent from other sources. 
+ 
+ There have been no significant changes in our critical accounting policies and estimates during the three and nine months ended September 30, 2024, as compared to the critical accounting policies and estimates disclosed in Management s Discussion and Analysis of Financial Condition and Results of Operations included in our Annual Report on Form 10-K for the year ended December 31, 2023, filed with the SEC on March 4, 2024 (as amended on April 29, 2024) . 
+ 
+ Recently Issued Accounting Standards 
+ 
+ See Note 1 Description of Business and Basis of Presentation under Item 1 of this Quarterly Report on Form 10-Q for additional information about recent accounting guidance not yet adopted and recently adopted accounting pronouncements. 
+ 37 
+
+Results of Operations 
+ 
+ We enable brands to leverage the Conversational Cloud s sophisticated intelligence engine to connect with consumers through an integrated suite of mobile and online business messaging technologies. The Conversational Cloud enables businesses to have conversations with millions of consumers as personally as they would with one consumer. 
+ 
+ Comparison of the Three and Nine Months Ended September 30, 2024 and September 30, 2023 
+ 
+ The following tables set forth our results of operations for the periods presented and as a percentage of our revenues for those periods. The period-to-period comparison of financial results is not necessarily indicative of future results. 
+ 
+ Revenue 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change 2024 2023 Change (Dollars in thousands) 
+ (Dollars in thousands) 
+ Revenue 
+ 74,244 101,332 (27) 239,268 306,515 (22) 
+ 
+ Revenue decrease d by 27 to 74.2 million for the three months ended September 30, 2024, from 101.3 million for the comparable period in 2023. Hosted services decreased by 23.1 million, driven primarily by customer cancellations and downsells. Included in hosted services is a decrease of 1.5 million in revenue that is variable based on interactions and usage. In addition, professional services decreased by 4.0 million for the three months ended September 30, 2024. The three months ended September 30, 2023 also included 8.7 million of revenue from our WildHealth business, which was sold in June 2024. 
+ 
+ Revenue decreased by 22 to 239.3 million for the nine months ended September 30, 2024, from 306.5 million for the comparable period in 2023 . Hosted services decreased by 52.9 million , driven primarily by customer cancellations and downsells. Included in hosted services is a decrease of 9.7 million in revenue that is variable based on interactions and usage. In addition, professional services decreased by 14.3 million for the nine months ended September 30, 2024. The nine months ended September 30, 2023 also included 12.3 million of revenue from our WildHealth business, which was sold in June 2024, and 7.2 million from our Kasamba business, which was sold in March 2023. 
+ 
+ Cost of Revenue 
+ 
+ Cost of revenue consists of compensation costs relating to employees who provide customer service to our customers, compensation costs relating to our network support staff, outside labor provider costs, the cost of supporting our server and network infrastructure, and allocated occupancy costs and related overhead. 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change 2024 2023 Change (Dollars in thousands) 
+ (Dollars in thousands) 
+ Cost of revenue 24,547 29,021 (15) 75,222 103,005 (27) Percentage of total revenue 33 29 31 34 Headcount (at period end) 184 192 (4) 184 192 (4) 
+ 
+ Cost of revenue decreased by 15 to 24.5 million for the three months ended September 30, 2024, from 29.0 million for the comparable period in 2023. This decrease in expense is primarily attributable to a decrease in outsourced labor and related costs of 3.3 million, and a decrease in amortization expenses of 1.7 million related to purchased intangible assets and finance leases, partially offset by an increase in software and hosting expenses of 0.7 million. 
+ 
+ Cost of revenue decreased by 27 to 75.2 million for the nine months ended September 30, 2024, from 103.0 million for the comparable period in 2023. This decrease in expense is primarily attributable to a decrease in outsourced labor and related costs of 15.5 million, a decrease in salary and employee-related expenses due to attrition from the prior period of 
+ 38 
+
+6.3 million, a decrease in software and hosting expenses of 1.2 million, and a decrease in amortization expenses of 4.5 million related to purchased intangible assets and finance leases. 
+ 
+ Sales and Marketing 
+ 
+ Sales and marketing expenses consist of compensation and related expenses for sales and marketing personnel, as well as advertising, marketing events, public relations, trade show exhibit expenses and allocated occupancy costs and related overhead. 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change 2024 2023 Change (Dollars in thousands) 
+ (Dollars in thousands) Sales and marketing 22,845 32,118 (29) 79,448 93,312 (15) Percentage of total revenue 31 32 33 30 Headcount (at period end) 249 338 (26) 249 338 (26) 
+ 
+ Sales and marketing expenses decreased by 29 to 22.8 million for the three months ended September 30, 2024 from 32.1 million for the comparable period in 2023. This decrease was primarily attribu table to a decrease in salary and employee-related expenses of 5.0 million, a decrease in business services and outsourced subcontracted labor of 1.7 million, a decrease in software, hosting and other expenses of 1.6 million, and a decrease in marketing expense of 0.9 million. 
+ 
+ Sales and marketing expenses decreased by 15 to 79.4 million for the nine months ended September 30, 2024 from 93.3 million for the comparable period in 2023. This decrease was primarily attribu table to a decrease in salary and employee-related expenses of 7.5 million, a decrease in marketing expense of 4.4 million, and a decrease in software, hosting and other expenses of 2.8 million, partially offset by an increase in business services and outsourced subcontracted labor of 0.8 million. 
+ 
+ General and Administrative 
+ 
+ Our general and administrative expenses consist of compensation and related expenses for executive, accounting, legal, human resources and administrative personnel, professional fees and other general corporate expenses. 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change 2024 2023 Change (Dollars in thousands) 
+ (Dollars in thousands) General and administrative 17,697 30,448 (42) 63,897 70,065 (9) Percentage of total revenue 24 30 27 23 Headcount (at period end) 138 154 (10) 138 154 (10) 
+ 
+ General and administrative expenses decreased by 42 to 17.7 million for the three months ended September 30, 2024 from 30.4 million for the comparable p eriod in 2023. This decrease was primarily attributable to a decrease in one-time costs of 6.2 million related to leadership transition and associated legal expenses, a decrease in stock compensation expense of 3.5 million , and a decrease in business services and outsourced subcontracted labor of 2.4 million. 
+ 
+ General and administrative expenses decreased by 9 to 63.9 million for the nine months ended September 30, 2024 from 70.1 million for the comparable p eriod in 2023. This decrease was primarily attributable to a decrease in one-time costs of 15.1 million largely related to leadership transition and associated legal expenses and a decrease in business services and outsourced subcontracted labor of 7.3 million. This was partially offset by an increase of 11.9 million in compensation expense due to the favorable settlements of acquisition-related earnouts in the nine months ended September 30, 2023, which did not reoccur in the nine months ended September 30, 2024 and 3.0 million due to lower allocations of IT and facility costs out of general and administrative expenses. 
+ 39 
+
+Product Development 
+ 
+ Our product development expenses consist of compensation and related expenses for product development personnel as well as allocated occupancy costs and related overhead and outsourced labor and expenses for testing new versions of our software. 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change 2024 2023 Change (Dollars in thousands) 
+ (Dollars in thousands) Product development 22,922 35,575 (36) 77,885 94,933 (18) Percentage of total revenue 31 35 33 31 Headcount (at period end) 430 435 (1) 430 435 (1) 
+ 
+ Product development costs decreased by 36 to 22.9 million for the three months ended September 30, 2024 from 35.6 million for the comparable period in 2023 . This decrease is primarily due to a decrease in business services and outsourcing subcontracted labor of 5.8 million, a decrease in salaries and employee-related expenses of 3.4 million, a decrease in stock compensation expenses of 2.1 million, and a decrease in software and hosting expenses of 1.0 million. 
+ 
+ Product development costs decreased by 18 to 77.9 million for the nine months ended September 30, 2024 from 94.9 million for the comparable period in 2023 . This decrease is primarily related to a decrease in business services and outsourcing subcontracted labor of 10.4 million, a decrease in salaries and employee-related expenses of 9.1 million, and a decrease in software and hosting expense of 2.1 million. These decreases were partially offset by an increase of 3.4 million in compensation expense primarily due to the favorable settlements of acquisition-related earnouts in the nine months ended September 30, 2023, which did not reoccur in the nine months ended September 30, 2024, and an increase in other expenses of 1.6 million. 
+ 
+ We continue to invest in new product development efforts to expand the capability of the Conversational Cloud. Upon completion, the project costs will be depreciated over five years. For the three and nine months ended September 30, 2024, 4.7 million and 15.2 million was capitalized for software development costs, respectively, compared to 4.6 million and 19.2 million, respectively, for the comparable periods in 2023. 
+ 
+ Restructuring Costs 
+ 
+ Restructuring costs consist of reprioritizing and reallocating resources to focus on areas believed to show high growth potential. 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change 2024 2023 Change (Dollars in thousands) 
+ (Dollars in thousands) Restructuring costs 1,448 2,097 (31) 7,876 15,999 (51) Percentage of total revenue 2 2 3 5 
+ 
+ We began a restructuring initiative to realign our cost structure to better reflect significant product and business model innovation and have had changes since then due to acquisitions and various other factors outside our control. We have moved to a product-led growth structure where we flattened the organization to align to more efficient sales and service support ratios. 
+ Restructuring costs decreased by 31 to 1.4 million during the three months ended September 30, 2024 from 2.1 million for the comparable period in 2023, driven by a decrease in severance and other related compensation costs. 
+ 
+ Restructuring costs decreased by 51 to 7.9 million during the nine months ended September 30, 2024 from 16.0 million for the comparable period in 2023. This was driven by a decrease in severance and other related compensation costs of 7.5 million, and a reversal of IT infrastructure contract termination costs of 0.6 million during the nine months ended September 30, 2024. 
+ 40 
+
+Impairment of Goodwill 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change 2024 2023 Change (Dollars in thousands) 
+ (Dollars in thousands) 
+ Impairment of goodwill 
+ 11,895 (100) 3,627 11,895 (70) Percentage of total revenue 12 2 4 
+ 
+ Goodwill impairment was 3.6 million during the nine months ended September 30, 2024. This non-cash charge was a result of our impairment test in the first quarter of 2024, attributable to the goodwill associated with our WildHealth reporting unit. There were no impairment charges during the three months ended September 30, 2024. The non-cash charge of 11.9 million during the three and nine months ended September 30, 2023 was a result of our annual goodwill impairment test and was attributable to the WildHealth reporting unit. 
+ 
+ Impairment of Intangibles and Other Assets 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change 2024 2023 Change (Dollars in thousands) 
+ (Dollars in thousands) Impairment of intangibles and other assets 
+ 2,959 (100) 10,568 2,959 257 Percentage of total revenue 3 4 1 
+ 
+ Impairment of intangibles and other assets was 10.6 million during the nine months ended September 30, 2024, and represents a non-cash charge of 8.3 million related to the impairment of internal use software projects, and a non-cash charge of 2.2 million attributable to the intangible assets associated with our WildHealth reporting unit. There were no impairments of intangible assets during the three months ended September 30, 2024. Impairment of intangibles and other assets was 3.0 million during the three and nine months ended September 30, 2023 and was related to our WildHealth reporting unit. 
+ 
+ Total Other (Expense) Income, Net 
+ 
+ Total other (expense) income, net consists primarily of gain on debt extinguishment, fair value adjustments for our Warrants and contingent earn-outs, foreign currency gains and losses and income (loss) from our equity method investment. Interest (expense) income, net includes interest expense from our convertible senior notes, partially offset by interest income from cash deposits, and amortization of debt issuance costs and debt discount. 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change 2024 2023 Change (Dollars in thousands) 
+ (Dollars in thousands) Interest (expense) income, net (4,147) 1,068 (488) (3,652) 3,005 (222) Gain on debt extinguishment 73,083 7,200 915 Other (expense) income, net (7,615) (10,164) 25 (7,246) 2,191 (431) Total other (expense) income, net (11,762) (9,096) (29) 62,185 12,396 402 
+ 
+ Total other (expense) income, net increased by 29 to 11.8 million for the three months ended September 30, 2024 from 9.1 million for the comparable period in 2023. Total other (expense) income, net for the three months ended September 30, 2024 primarily included 5.3 million interest expense on our convertible debt and a 7.8 million adjustment to the fair value of our Warrants. These losses were partially offset by interest income. Total other (expense) income, net for the three months ended September 30, 2023 included 7.2 million change in fair value of the earn-out settlements related to prior acquisitions. The three months ended September 30, 2024 and 2023 also include the impact of currency rate fluctuations. 
+ 41 
+
+Total other (expense) income, net increased by 402 to 62.2 million for the nine months ended September 30, 2024 from 12.4 million for the comparable period in 2023. The increase is primarily attributable to a gain of 73.1 million on the extinguishment of the 2026 Notes, partially offset by a 7.8 million adjustment to the fair value of our Warrants and 7.0 million interest expense on our convertible debt. During the nine months ended September 30, 2023, Other (expense) income, net, included a gain of 10.0 million related to a legal settlement, a gain of 7.2 million resulting from the repurchase of 2024 Notes, offset by 5.4 million change in fair value of the earn-out settlements related to prior acquisitions. The nine months ended September 30, 2024 and 2023 also include the impact of currency rate fluctuations. 
+ 
+ Provision for Income Taxes 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 Change 2024 2023 Change (Dollars in thousands) 
+ (Dollars in thousands) Provision for income taxes 509 541 (6) 2,129 1,600 33 
+ 
+ Provision for income taxes w as an expense of 0.5 million and expense of 2.1 million for the three and nine months ended September 30, 2024, respectively. Our consolidated effective tax rate during the three months ended September 30, 2024 was impacted by the statutory income tax rates applicable to each of the jurisdictions in which we operate, valuation allowance recorded against losses generated in the U.S., e-bot7 Germany, and Bulgaria, and changes to unrecognized tax benefits in Israel. 
+ 
+ The increase in the tax provision in the current period as compared to the prior period is due to changes in the forecasted earnings by jurisdiction year over year, the effects of U.S. state taxes as a result of net operation loss utilization limitations, and offsetting activities related to the prior period tax benefit including the change in Israeli tax rate, the return-to-provision adjustments from foreign tax return filings, and the changes in valuation allowance connected to the sale of Kasamba during the prior period and the debt restructuring in 2024. 
+
+Liquidity and Capital Resources 
+ 
+ Nine Months Ended September 30, 2024 2023 (In thousands) Condensed Consolidated Statements of Cash Flows Data: 
+ Net cash used in operating activities 
+ (12,015) (24,302) Net cash used in investing activities 
+ (23,505) (11,863) Net cash used in financing activities (34,862) (150,548) 
+ 
+ As of September 30, 2024, we had approximatel y 142.1 million in cash and cash equivalents, a decrease of approximately 70.8 million from the cash and cash equivalents and restricted cash balance as of December 31, 2023. The decrease is primarily attributable to the Company s repayment in full at maturity of the outstanding 72.5 million in aggregate principal amount of the 2024 Notes, repurchase of 2026 Notes for 4.9 million, partially offset by proceeds of 50.0 million from issuance of our 2029 Notes, coupled with various other uses of cash for operating and investing purposes. 
+ 
+ Net cash used in operating activities was 12.0 million for the nine months ended September 30, 2024. Our net loss of 22.1 million includes the effect of non-cash expenses related to depreciation of 23.2 million, stock-based compensation of 18.8 million, amortization of purchased intangible assets and finance leases of 11.6 million, allowance for credit losses of 9.6 million, change in fair value of Warrants of 7.8 million, a goodwill impairment of 3.6 million, and intangible and other assets impairment of 10.6 million, offset by gain on debt extinguishment of 73.1 million, in connection with the exchange of our 2026 Notes. This was further driven by a decrease in accrued expenses and other current liabilities of 34.4 million, and a decrease in deferred revenue of 6.1 million, partially offset by decreases in accounts receivable of 22.2 million and prepaid expenses and other current assets of 5.9 million. 
+ 
+ Net cash used in operating activities was 24.3 million for the nine months ended September 30, 2023. Our net loss of 59.9 million includes the effect of non-cash expenses related to depreciation of 24.9 million, amortization of purchased 
+ 42 
+
+intangibles and finance leases of 16.4 million, a goodwill impairment of 11.9 million and intangible assets impairment of 3.0 million related to our WildHealth reporting unit, and 5.4 million change in fair value of contingent consideration, partially offset by a gain on divestiture of 17.6 million, a gain on repurchase of convertible notes of 7.2 million and a net expense in stock-based compensation of 4.5 million, largely attributable to the settlement of earn-outs related to prior acquisitions. This was further driven by an increase in prepaid expenses and other current assets of 18.0 million, an increase in accounts receivable of 16.4 million, a decrease in accounts payable of 13.4 million, a decrease in other liabilities of 7.8 million, and an increase in accrued expenses and other current liabilities of 21.2 million, partially offset by an increase in deferred revenue of 12.7 million and an increase in contract acquisition costs of 6.2 million. 
+ 
+ Net cash used in investing activities was 23.5 million for the nine months ended September 30, 2024 , and was primarily driven by purchases of property and equipment and capitalization of internally developed software. Net cash used in investing activities was 11.9 million for the nine months ended September 30, 2023 was primarily driven by purchases of fixed assets and capitalization of internally developed software, partially offset by the proceeds from the sale of Kasamba. 
+ 
+ Net cash used in financing activities was 34.9 million for the nine months ended September 30, 2024, which was driven primarily by the full repayment of our 2024 Notes of 72.5 million , repurchase of 2026 Notes for 4.9 million and payments of debt issuance costs of 7.4 million in connection with the debt exchange transaction, partially offset by proceeds of 50.0 million from the issuance of 2029 Notes. Net cash used in financing activities was 150.5 million for the nine months ended September 30, 2023 , which was driven primarily by the repurchase of our 2024 Notes. 
+ 
+ We have incurred significant expenses to develop our technology and services, to hire employees in our customer service and sales and marketing departments, and for the amortization of purchased intangible assets, as well as non-cash compensation costs. Historically, we have incurred net losses and negative cash flows for various quarterly and annual periods since our inception, including during numerous quarters and annual periods in the past several years. As of September 30, 2024 , we had an accumulated deficit of approximately 879.1 million. 
+ 
+ Our principal sources of liquidity are the net proceeds from the issuance of our convertible senior notes, after deducting purchaser discounts as applicable and debt issuance costs paid by us, and payments received from customers using our products. We anticipate that our current cash and cash equivalents will be sufficient to satisfy our working capital and capital requirements for at least the next 12 months. However, we cannot assure you that we will not require additional funds prior to such time, and we would then seek to sell additional equity or debt securities through public financings, or seek alternative sources of financi ng. Further, we continue to plan to refinance the remaining balance of our 2026 Notes on or prior to their maturity. W e cannot assure you that additional funding will be available on favorable terms, when needed, if at all. If we are unable to obtain any necessary financing, we may be required to further reduce the scope of our planned sales and marketing and product development efforts, which could materially adversely affect our financial condition and operating results. In addition, we may require additional funds in order to fund more rapid expansion, to develop new or enhanced services or products or to invest in or acquire complementary businesses, technologies, services or products. 
+ 
+ The indenture governing the 2029 Notes includes a financial covenant that requires the Company to maintain a minimum cash balance of 60 million at all times. Proceeds of the 2029 Notes may be used only to (i) pay interest, or cash settle, the 2029 Notes, (ii) cash settle the Warrants, (iii) exchange, repurchase, redeem, replace or otherwise refinance 2026 Notes (or refund or replenish cash of the Company or any of its subsidiaries used to do so after May 13, 2024) or (iv) pay or reimburse certain fees, costs and expenses related to the foregoing and the other transactions contemplated by the Exchange and Purchase Agreement as amended or otherwise modified from time to time. 
+ 
+ Upon conversion or exercise, the 2029 Notes and Cash-Settled Warrants would be settled for cash. In addition, the 2026 Notes and the 2029 Notes are subject to repurchase at the option of holders if the Company undergoes a fundamental change , and the 2026 Notes and the 2029 Notes are subject to events of default customary for notes issued in connection with similar transactions, which could result in the acceleration of amounts owed. See Note 8 Convertible Senior Notes, Net of Current Portion, Capped Call Transactions, and Warrants for additional information. 
+ 
+ The Company may from time to time, subject to board authorization and any applicable restrictions under contracts to which it may be or become a party, depending upon market conditions and the Company s financing needs, use available funds to refinance or repurchase its outstanding debt or equity securities in privately negotiated or open market transactions, by tender offer or otherwise, in compliance with applicable laws, rules and regulations, at prices and on terms the Company deems appropriate (which, in the case of debt securities, may be below par) and subject to the Company s cash requirements for other purposes and other factors management deems relevant. 
+ 43 
+
+We do not engage in off-balance sheet financing arrangements. 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 
+ Foreign Currency Exchange Risks 
+ 
+ We actively monitor the movement of the U.S. dollar against the Israeli new shekel, Pound Sterling, Euro, Australian dollar, and Japanese Yen and have considered the use of financial instruments, including but not limited to derivative financial instruments, which could mitigate such risk. If we determine that our risk of exposure materially exceeds the potential cost of derivative financial instruments, we may in the future enter into these types of arrangements. 
+ 
+ Collection Risks 
+ 
+ Our accounts receivable are subject, in the normal course of business, to collection risks. We regularly assess these risks and have established policies and business practices to protect against the adverse effects of collection risk s. During the nine months ended September 30, 2024, our allowance for credit losses increased by 0.2 million to 9.5 million. During the nine months ended September 30, 2023, we decreased our allowance for credit losses by 0.2 million to 9.0 million. A large proportion of our receivables are due from larger corporate customers that typically have longer payment cycles. We base our allowance for credit losses on specifically identified credit risks of customers, historical trends and other information that we believe to be reasonable. Receivables are written-off and charged against the applicable recorded allowance when we have exhausted collection efforts without success. We adjust our allowance for credit losses when accounts previously reserved have been collected. 
+ 
+ An allowance for credit losses is established for losses expected to be incurred on accounts receivable balances. Judgment is required in the estimation of the allowance and we evaluate the collectability of our accounts receivable and contract assets based on a combination of factors. If we become aware of a customer s inability to meet its financial obligations, a specific allowance is recorded to reduce the net receivable to the amount reasonably believed to be collectible from the customer. For all other customers, we use an aging schedule and recognize allowances for credit losses based on the creditworthiness of the debtor, the age and status of outstanding receivables, the current business environment and our historical collection experience adjusted for current expectations for the customer or industry. Accounts receivable are written off against the allowance for uncollectible accounts when we determine amounts are no longer collectible. 
+ 
+ Interest Rate Risk 
+ 
+ Our investments consist of cash and cash equivalents. Therefore, changes in market interest rates do not affect in any material respect the value of the investments as recorded by us. 
+ 
+ Inflation Risk 
+ 
+ We do not believe that inflation has had a material effect on our business, financial conditions or results of operations. If our costs were to become subject to significant inflationary pressures, we may not be able to fully offset such higher costs through price increases. Our inability or failure to do so could harm our business, financial condition and results of operations. 
+
+Item 4. Controls and Procedures 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ 
+ Our management, including the Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures, as that term is defined in Rule 13a-15(e) promulgated under the Securities Exchange Act of 1934, as amended (the Exchange Act ), as of September 30, 2024. Disclosure controls and procedures ensure that the information we are required to disclose in the reports that we file or submit under the Exchange Act is recorded, processed and summarized within the time periods specified in the Securities and Exchange Commission s rules and forms, and ensure that such information is accumulated and communicated to our management, including the Chief Executive Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were effective as of September 30, 2024. 
+ 44 
+
+Changes in Internal Control Over Financial Reporting 
+ 
+ There were no changes in the Company s internal control over financial reporting during the quarter ended September 30, 2024 identified in connection with the evaluation thereof by our management, including the Chief Executive Officer and Chief Financial Officer, that have materially affected, or are reasonably likely to materially affect, the Company s internal control over financial reporting. 
+ 
+ Limitations of the Effectiveness of Internal Control 
+ 
+ A control system, no matter how well conceived and operated, can only provide reasonable, not absolute, assurance that the objectives of the internal control system are met. Because of the inherent limitations of any internal control system, no evaluation of controls can provide absolute assurance that all control issues, if any, have been detected. 
+
+45 
+
+Part II. Other Information 
+
+Item 1. Legal Proceedings 
+ 
+ The information called for by this Item is incorporated herein by reference to Note 14 Legal Matters , in the Notes to the Unaudited Condensed Consolidated Financial Statements. 
+
+Item 1A. Risk Factors 
+ 
+ Our operations and financial results are subject to various risks and uncertainties, including those described in Part I, Item 1A., Risk Factors in our Annual Report on Form 10-K for the year ended December 31, 2023, filed on March 4, 2024 (as amended on April 29, 2024) , which could adversely affect our business, financial condition, results of operations, cash flows, and the trading price of our common stock. Other than as set forth below, there have been no material changes to the risk factors described in our most recent Annual Report on Form 10-K. 
+ 
+ Risks Related to our Outstanding Convertible Notes and Warrants 
+ 
+ Servicing our debt may require a significant amount of cash, and we may not have sufficient cash flow from our business to pay our indebtedness. 
+ 
+ In December 2020, we issued 517.5 million in aggregate principal amount of 0 Convertible Senior Notes due 2026 2026 Notes ), which do not bear any regular interest, in a private placement. In June 2024, we privately exchanged 100.0 million in principal amount of newly issued Convertible Senior Notes due 2029 2029 Notes ), which, depending on time- and event-based conditions, bear cash interest at a rate ranging from 4.17 to 5 and paid-in-kind interest at a rate ranging from 6.66 to 8 , for 145,957,000 aggregate principal amount of outstanding 2026 Notes, and issued 50.0 million in aggregate principal amount of 2029 Notes in a private placement. The remaining 2026 Notes will need to be refinanced on or prior to their December 15, 2026 maturity. Further, if greater than 60.0 million principal amount of 2026 Notes remains outstanding 91 days prior to such maturity date, then the 2029 Notes will immediately become due and payable. 
+ 
+ Our ability to make scheduled payments of the principal of, to pay interest on or to refinance our outstanding Notes or any additional future indebtedness depends on our future performance, which is subject to economic, financial, competitive and other factors beyond our control. Our business may not generate cash flow from operations in the future sufficient to service our debt and make necessary capital expenditures. If we are unable to generate such cash flow, we may be required to adopt one or more alternatives, such as selling assets, restructuring debt or obtaining additional debt financing or equity capital on terms that may be onerous or highly dilutive. Our ability to refinance our current or any future indebtedness will depend on the capital markets and our financial condition at such time. We may not be able to engage in any of these activities or engage in these activities on desirable terms, which could result in a default on our debt obligations. In addition, any of our future debt agreements may contain restrictive covenants that may prohibit us from adopting any of these alternatives. Our failure to comply with these covenants could result in an event of default which, if not cured or waived, could result in the acceleration of our debt. 
+ 
+ The terms of our Convertible Senior Notes due 2029 require us to meet certain operating and financial covenants and place restrictions on our operating and financial flexibility. If we raise additional capital through debt financing, the terms of any new debt could further restrict our ability to operate our business. 
+ 
+ The 2029 Notes are guaranteed on a senior basis by certain of our direct and indirect domestic and foreign subsidiaries and secured by first priority security interests in substantially all of the assets of the Company and the subsidiary guarantors, subject to customary exceptions. 
+ 
+ The indenture governing the 2029 Notes restricts our ability to, among other things, pursue certain dispositions, mergers or acquisitions, encumber our intellectual property, incur debt, preferred stock or liens, pay dividends or make other payments in respect of our capital stock, or make investments and engage in certain business transactions. The indenture governing the 2029 Notes also includes a financial covenant that requires us at all times to maintain a minimum cash balance of 60.0 million (excluding proceeds of the 2029 Notes). Our failure to comply with these covenants could result in an event of default which, if not cured or waived, could result in the acceleration of our debt. 
+ 
+ 46 
+
+If we raise any additional debt financing, the terms of such additional debt could further restrict our operating and financial flexibility. 
+ 
+ We may not have the ability to raise the funds necessary to settle conversions of our outstanding convertible debt securities and cash-settled warrants in cash or to repurchase our outstanding convertible debt securities upon a fundamental change, and any future debt may contain limitations on our ability to pay cash upon conversion or repurchase of our outstanding convertible debt securities and cash-settled warrants. 
+ 
+ Holders of our outstanding Notes have the right to require us to repurchase all or a portion of their Notes upon the occurrence of a fundamental change before the maturity date at a fundamental change repurchase price equal to 100 of the principal amount of the Notes to be repurchased, plus accrued and unpaid interest (including cash and PIK components thereof in the case of the 2029 Notes), if any, plus, in the case of the 2029 Notes, an amount equal to 66 of the remaining future interest payments (including cash and PIK components thereof) that would have been payable through June 15, 2029, discounted at a rate equal to the comparable treasury rate plus 50 basis points. In addition, upon conversion of the Notes, we are required to make cash payments in respect of the Notes being converted (except, in the case of the 2026 Notes, if we elect to deliver solely shares of our common stock to settle such conversion (other than paying cash in lieu of delivering any fractional share)). Further, upon the exercise of the Cash-Settled Warrants, we are required to make cash payments in respect of the Cash-Settled Warrants being exercised (except to the extent that, following payment, we would have available cash (as defined therein) of less than 100.0 million, in which case we may defer payment of the settlement amount at an annualized interest rate of 6.0 , compounded monthly). 
+ 
+ However, we may not have enough available cash or be able to obtain financing at the time we are required to make repurchases of the Notes surrendered therefor, to pay cash with respect to the Notes being converted or to pay cash with respect to the Cash-Settled Warrants being exercised. In addition, our ability to repurchase Notes, to pay cash upon conversions of Notes or to pay cash upon exercises of Cash-Settled Warrants may be limited by law, regulatory authority, or agreements governing our indebtedness. Our failure to repurchase Notes at a time when the repurchase is required by the governing indenture or to pay any cash upon conversions of Notes as required by the governing indenture would constitute a default under the governing indenture. A default under the governing indenture or the fundamental change itself could also lead to a default under the indenture governing the other series of Notes or agreements governing any future indebtedness. If the payment of either or both Series of Notes were to be accelerated after any applicable notice or grace periods, we may not have sufficient funds to repay the Notes, to repurchase the Notes or to pay cash upon conversions of the Notes. 
+ 
+ Provisions in the indentures for our outstanding convertible debt securities may deter or prevent a business combination that may be favorable to securityholders. 
+ 
+ If a fundamental change occurs prior to the maturity date of the outstanding Notes, the holders of such Notes will have the right, at their option, to require us to repurchase all or a portion of their Notes. In addition, if a make-whole fundamental change occurs prior to the maturity date of a series of Notes, we will in some cases be required to increase the conversion rate for a holder that elects to convert its Notes of such series in connection with such make-whole fundamental change. Furthermore, the indentures governing the outstanding Notes prohibit us from engaging in certain mergers or acquisitions unless, among other things, the surviving entity assumes our obligations under the relevant series of Notes. These and other provisions in the indentures governing the Notes could deter or prevent a third party from acquiring us even when the acquisition may be favorable to securityholders. 
+ 
+ The conditional conversion feature of our outstanding convertible debt securities, if triggered, may adversely affect our financial condition and operating results. 
+ 
+ In the event the conditional conversion feature of an outstanding series of Notes is triggered, holders of the relevant series of Notes will be entitled to convert their Notes of such series at any time during specified periods at their option. If one or more holders elect to convert their Notes (unless, in the case of the 2026 Notes, we elect to satisfy our conversion obligation by delivering solely shares of our common stock (other than paying cash in lieu of delivering any fractional share)), we would be required to settle a portion or all of our conversion obligation through the payment of cash, which could adversely affect our liquidity. In addition, even if holders of the relevant series of Notes do not elect to convert their Notes of such series, we could be required under applicable accounting rules to reclassify all or a portion of the outstanding principal of the Notes of such series as a current rather than long-term liability, which would result in a material reduction of our net working capital. 
+ 
+ The capped call transactions may affect the value of our outstanding convertible debt securities and our common stock. 
+ 
+ 47 
+
+In connection with the transaction in which we issued the 2026 Notes, we entered into capped call transactions with certain option counterparties. The capped call transactions are expected generally to reduce the potential dilution to our common stock upon any conversion of the 2026 Notes and/or offset any cash payments we are required to make in excess of the principal amount of the converted 2026 Notes, as the case may be, upon any conversion of the 2026 Notes, with such reduction and/or offset subject to a cap. 
+ 
+ The option counterparties or their respective affiliates are expected to modify their hedge positions by entering into or unwinding various derivatives with respect to our common stock and/or purchasing or selling our common stock, the 2026 Notes or other of our securities or instruments (if any), in secondary market transactions prior to the maturity of the 2026 Notes (and are likely to do so during any observation period related to a conversion of the 2026 Notes or following any earlier conversion or any repurchase of the 2026 Notes by us on any fundamental change repurchase date or otherwise). This activity could also cause or avoid an increase or a decrease in the market price of our common stock or the 2026 Notes, which could affect a holder s ability to convert the 2026 Notes and, to the extent the activity occurs during any observation period related to a conversion of the 2026 Notes, it could affect the amount and value of the consideration that a holder will receive upon conversion of such 2026 Notes. 
+ 
+ The potential effect, if any, of these transactions and activities on the market price of our common stock or the 2026 Notes will depend in part on market conditions and cannot be ascertained at this time. Any of these activities could adversely affect the value of our common stock and the value of the 2026 Notes (and as a result, the amount and value of the consideration that a holder would receive upon the conversion of any 2026 Notes) and, under certain circumstances, a holder s ability to convert 2026 Notes. 
+ 
+ We do not make any representation or prediction as to the direction or magnitude of any potential effect that the transactions described above may have on the price of our common stock or the 2026 Notes. In addition, we do not make any representation that the option counterparties or their respective affiliates will engage in these transactions or that these transactions, once commenced, will not be discontinued without notice. 
+ 
+ Risks Related to our Common Stock 
+ 
+ If the trading price of our common does not satisfy The NASDAQ Stock Market LLC Nasdaq minimum closing bid price requirement, our common stock may be subject to delisting. 
+ 
+ Our common stock currently is listed on the Nasdaq Global Select Market. We are required to meet specified financial requirements in order to maintain such listing, including a closing bid price of at least 1.00. While we believe we currently comply with applicable listing standards of the Nasdaq Global Select Market, during 2024, our common stock closing bid price has been below 1.00 on multiple occasions, including on March 14, 2024, from March 28, 2024 through July 17, 2024 and on July 19, 2024. 
+ 
+ We can provide no assurance that we will be able to prevent our common stock from again dropping below the minimum bid price requirement, or prevent future non-compliance with the listing requirements. In addition, to maintain a listing with Nasdaq, we must satisfy minimum financial and other continued listing requirements and standards, including those regarding minimum stockholders equity, and certain corporate governance requirements. If we are unable to satisfy these requirements or standards, we could be subject to delisting, which would have a negative effect on the price of our common stock and would impair your ability to sell or purchase our common stock when you wish to do so. Further, the failure of our common stock to be listed or quoted on any of The Nasdaq Global Select Market, The Nasdaq Global Market or The New York Stock Exchange would constitute a fundamental change under the indentures governing the 2026 Notes and the 2029 Notes. 
+ 
+ If our common stock is delisted from Nasdaq, it is unlikely that our common stock would qualify for listing on another national securities exchange in the United States, and trading of our common stock would most likely take place on an over-the-counter market established for unlisted securities, such as the OTCQX, the OTCQB or the Pink Market maintained by OTC Markets Group Inc. We cannot assure you that our common stock, if delisted from Nasdaq, will ever be listed on another securities exchange or quoted on an over-the-counter quotation system. An investor would likely find it less convenient to sell, or to obtain accurate quotations in seeking to buy, our common stock on an over-the-counter market, and many investors would likely not buy or sell our common stock due to difficulty in accessing over-the-counter markets, policies preventing them from trading in securities not listed on a national exchange or other reasons. Accordingly, delisting from Nasdaq could make trading our common stock more difficult for investors, likely leading to declines in our share price, trading volume and liquidity. Delisting from Nasdaq could also result in negative publicity and make it more difficult for us to raise additional capital. The 
+ 48 
+
+absence of such a listing may adversely affect the acceptance of our common stock as transaction consideration or the value accorded our common stock by other parties. Further, if we are delisted, we would also incur additional costs under state blue sky laws in connection with any sales of our securities. These requirements could severely limit the market liquidity of our common stock and the ability of our stockholders to sell our common stock in the secondary market. 
+ 
+ If our common stock is delisted, it may come within the definition of penny stock as defined in the Exchange Act and would be covered by Rule 15g-9 of the Exchange Act. This rule imposes additional sales practice requirements on broker-dealers who sell securities to persons other than established customers and accredited investors which may further limit the market liquidity of our common stock and the ability of our stockholders to sell our common stock in the secondary market. The regulations relating to penny stocks, coupled with the typically higher cost per trade to the investor of penny stocks due to factors such as broker commissions generally representing a higher percentage of the price of a penny stock than of a higher-priced stock, would further limit the ability of investors to trade in our common stock. 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ Unregistered Sales of Equity Securities 
+ 
+ Except as previously disclosed on Form 8-K, there were no unregistered sales of equity securities by the issuer during the three months ended September 30, 2024 . 
+ 
+ Purchase of Equity Securities by the Issuer 
+ 
+ There were no repurchases of equity securities by the issuer during the three months ended September 30, 2024. 
+
+Item 3. Defaults Upon Senior Securities 
+ 
+ None. 
+
+Item 4. Mine Safety Disclosures 
+ 
+ Not applicable. 
+
+Item 5. Other Information 
+ 
+ (a) None. 
+ 
+ (b) None. 
+ 
+ (c) During the three months ended September 30, 2024, no or non-Rule 10b5-1 trading arrangement, as each term is defined in Item 408(a) of Regulations S-K. 
+
+49 
+
+ITEM 6. EXHIBITS 
+ 
+ 31.1 
+ Certification by principal executive officer pursuant to Exchange Act Rule 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 31.2 
+ Certification by principal financial officer pursuant to Exchange Act Rule 13a-14(a) and 15d-14(a), as adopted pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 
+ 32.1 
+ Certification by Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 32.2 
+ Certification by Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 101.INS Inline XBRL Instance Document -- The instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (formatted as Inline XBRL) 
+ Filed herewith 
+ Furnished herewith 
+
+50 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ 
+ LIVEPERSON, INC. (Registrant) Date: November 8, 2024 By: /s/ JOHN SABINO Name: John Sabino Title: Chief Executive Officer Principal Executive Officer 
+ Date: November 8, 2024 By: /s/ JOHN COLLINS 
+ Name: John Collins 
+ Title: Chief Financial Officer and Chief Operating Officer 
+ Principal Financial Officer 
+
+51 
+
+<EX-31.1>
+ 2
+ q32024ex311-ceocertificati.htm
+ EX-31.1 CEO CERTIFICATION
+
+Document 
+ Exhibit 31.1 
+
+ CERTIFICATIONS 
+ 
+ I, John Sabino, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of LivePerson, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date November 8, 2024 By s John Sabino Name John Sabino Title Chief Executive Officer (Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ q32024ex312-cfocertificati.htm
+ EX-31.2 CFO CERTIFICATION
+
+Document 
+ Exhibit 31.2 
+
+ CERTIFICATIONS 
+ 
+ I, John Collins, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of LivePerson, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date November 8, 2024 By s John Collins Name John Collins Title Chief Financial Officer and Chief Operating Officer (Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ q32024ex321-ceocertificati.htm
+ EX-32.1 CEO CERTIFICATION
+
+Document 
+ Exhibit 32.1 
+
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, John Sabino, Chief Executive Officer of LivePerson, Inc. (the Company ), certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) the Quarterly Report of the Company on Form 10-Q for the period ended September 30, 2024, as filed with the Securities and Exchange Commission (the Report ), fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date November 8, 2024 By s John Sabino Name John Sabino Title Chief Executive Officer (Principal Executive Officer) 
+ 
+ This certification shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, or otherwise subject to the liability of that section, nor shall it be deemed to be incorporated by reference into any filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except to the extent the Company specifically incorporates it by reference. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ q32024ex322-cfocertificati.htm
+ EX-32.2 CFO CERTIFICATION
+
+Document 
+ Exhibit 32.2 
+
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, John Collins, Chief Financial Officer and Chief Operating Officer of LivePerson, Inc. (the Company ), certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) the Quarterly Report of the Company on Form 10-Q for the period ended September 30, 2024, as filed with the Securities and Exchange Commission (the Report ), fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ Date November 8, 2024 By s John Collins Name John Collins Title Chief Financial Officer and Chief Operating Officer (Principal Financial Officer) 
+ This certification shall not be deemed filed for purposes of Section 18 of the Securities Exchange Act of 1934, or otherwise subject to the liability of that section, nor shall it be deemed to be incorporated by reference into any filing under the Securities Act of 1933 or the Securities Exchange Act of 1934, except to the extent the Company specifically incorporates it by reference. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ lpsn-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ lpsn-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ lpsn-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ lpsn-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ lpsn-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

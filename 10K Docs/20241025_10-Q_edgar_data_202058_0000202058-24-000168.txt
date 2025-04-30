@@ -1,0 +1,992 @@
+<Header>
+<FileStats>
+    <FileName>20241025_10-Q_edgar_data_202058_0000202058-24-000168.txt</FileName>
+    <GrossFileSize>10169548</GrossFileSize>
+    <NetFileSize>122314</NetFileSize>
+    <NonText_DocumentType_Chars>1966467</NonText_DocumentType_Chars>
+    <HTML_Chars>3767306</HTML_Chars>
+    <XBRL_Chars>2212736</XBRL_Chars>
+    <XML_Chars>1894001</XML_Chars>
+    <N_Exhibits>12</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000202058-24-000168.hdr.sgml : 20241025
+<ACCEPTANCE-DATETIME>20241025092011
+ACCESSION NUMBER:		0000202058-24-000168
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		93
+CONFORMED PERIOD OF REPORT:	20240927
+FILED AS OF DATE:		20241025
+DATE AS OF CHANGE:		20241025
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			L3HARRIS TECHNOLOGIES, INC. /DE/
+		CENTRAL INDEX KEY:			0000202058
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL SYS [3812]
+		ORGANIZATION NAME:           	04 Manufacturing
+		IRS NUMBER:				340276860
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0103
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-03863
+		FILM NUMBER:		241394771
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1025 W NASA BLVD
+		CITY:			MELBOURNE
+		STATE:			FL
+		ZIP:			32919
+		BUSINESS PHONE:		3217279100
+
+	MAIL ADDRESS:	
+		STREET 1:		1025 W NASA BLVD
+		CITY:			MELBOURNE
+		STATE:			FL
+		ZIP:			32919
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HARRIS CORP /DE/
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HARRIS SEYBOLD CO
+		DATE OF NAME CHANGE:	19600201
+
+</SEC-Header>
+</Header>
+
+ 0000202058-24-000168.txt : 20241025
+
+10-Q
+ 1
+ hrs-20240927.htm
+ 10-Q
+
+hrs-20240927 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ FORM 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the quarterly period ended 
+ or 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 For the transition period from _______________ to ______________ 
+ Commission File Number 
+ 
+ (Exact name of registrant as specified in its charter) 
+ (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 
+ (Address of principal executive offices) (Zip Code) 
+ Registrant s telephone number, including area code: ) 
+ Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. o No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). o No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Accelerated filer Non-accelerated filer 
+ Smaller reporting company Emerging growth company 
+ 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ The number of shares outstanding of the registrant s common stock as of October 18, 2024 was . 
+
+L3HARRIS TECHNOLOGIES, INC. 
+ FORM 10-Q 
+ For the Quarter Ended September 27, 2024 
+ TABLE OF CONTENTS 
+ Page No. Part I. Financial Information: ITEM 1. Financial Statements Unaudited): 
+ Condensed Consolidated Statement of Operations for the Quarter and Three Quarters Ended September 27, 2024 and September 29, 2023 
+ 3 
+ Condensed Consolidated Statement of Comprehensive Income for the Quarter and Three Quarters Ended September 27, 2024 and September 29, 2023 
+ 4 
+ Condensed Consolidated Balance Sheet at September 27, 2024 and December 29, 2023 
+ 5 
+ Condensed Consolidated Statement of Cash Flows for the Three Quarters Ended September 27, 2024 and September 29, 2023 
+ 6 
+ Condensed Consolidated Statement of Equity f or the Quarter and Three Quarters Ended September 27, 2024 and September 29, 2023 
+ 7 
+ Notes to Condensed Consolidated Financial Statements 
+ 8 
+ Report of Independent Registered Public Accounting Firm (PCAOB ID: 42 
+ 23 
+ ITEM 2. M anagement s Discussion and Analysis of Financial Condition and Results of Operations 
+ 24 
+ ITEM 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 35 
+ ITEM 4. Controls and Procedures 
+ 35 
+ Part II. Other Information: ITEM 1. Legal Proceedings 
+ 36 
+ ITEM 1A. Risk Factors 
+ 36 
+ ITEM 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 36 
+ ITEM 3. Defaults Upon Senior Securities 
+ 37 
+ ITEM 4. Mine Safety Disclosures 
+ 37 
+ ITEM 5. Other Information 
+ 37 
+ ITEM 6. Exhibits 
+ 37 
+ Signatures 
+ 38 
+ 
+ This Quarterly Report on Form 10-Q (this Report contains trademarks, service marks and registered marks of L3Harris Technologies, Inc. and its subsidiaries. All other trademarks are the property of their respective owners. 
+ 
+ _____________________________________________________________________ 
+ 1 
+
+Cautionary Statement Regarding Forward-Looking Statements 
+ This Report contains forward-looking statements within the meaning of federal securities laws that involve risks, uncertainties and assumptions that could cause our results to differ materially from such forward-looking statements. Examples include, but are not limited to, statements concerning: our plans, strategies and objectives for future operations; new products, systems, technologies, services or developments; future economic conditions, performance or outlook; future political or budget conditions; the outcome of contingencies or litigation; the potential level of share repurchases, dividends or pension contributions; potential divestitures and the timing thereof; capital expenditures and capital structure; other financial items; and assumptions underlying any of the foregoing. Terminology, such as believes, expects, may, could, should, would, will, intends, plans, estimates, anticipates, projects and similar words or expressions may also identify forward-looking statements. You should not place undue reliance on forward-looking statements, which reflect our management s current expectations, estimates, projections and assumptions and information currently available to our management as of the date of filing of this Report and are not guarantees of future performance or actual results. Important risks that could cause our results to differ materially from those expressed in or implied by these forward-looking statements or from our historical results include, but are not limited to, risks arising from: our dependence on competitive markets from U.S. Government customers; changes in contract mix; inflation; unilateral contract action by the U.S. Government; uncertain economic conditions; future geo-political events; supply chain disruptions; impact of LHX NeXt costs and savings; indebtedness; defined benefit plan liability and returns; interest rates; pending and contemplated divestitures; and other market factors. These important risks and other disclosures are described more fully in Part I. Item 1A. Risk Factors in our Fiscal 2023 Form 10-K and in Part II. Item 1A. Risk Factors of this Report. Forward-looking statements are made in reliance on the safe harbor provisions of the Private Securities Litigation Reform Act of 1955. All subsequent written and oral forward-looking statements attributable to us or any person acting on our behalf are qualified by the cautionary statements in this section, and we have no duty and disclaim any intention or obligation, other than imposed by law, to update or revise any forward-looking statements, whether as a result of new information, future events or developments or otherwise, after the date of filing of this Report or, in the case of any document incorporated by reference, the date of that document. 
+ 
+ _____________________________________________________________________ 
+ 2 
+
+PART I. FINANCIAL INFORMATION 
+ 
+ ITEM 1. FINANCIAL STATEMENTS. 
+ 
+ L3HARRIS TECHNOLOGIES, INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENT OF OPERATIONS 
+ (Unaudited) 
+ Quarter Ended Three Quarters Ended (In millions, except per share amounts) September 27, 2024 September 29, 2023 September 27, 2024 September 29, 2023 Revenue Cost of revenue ) ) ) ) General and administrative expenses ) ) ) ) Operating income Non-service FAS pension income and other, net 1) 
+ Interest expense, net ) ) ) ) Income before income taxes Income taxes ) ) ) ) Net income Noncontrolling interests, net of income taxes ) ) ) Net income attributable to L3Harris Technologies, Inc. Net income per common share attributable to L3Harris Technologies, Inc. common shareholders Basic Diluted Basic weighted-average common shares outstanding Diluted weighted-average common shares outstanding _______________ 
+ (1) 
+ 
+ See accompanying Notes to Condensed Consolidated Financial Statements (Unaudited). 
+ 
+ _____________________________________________________________________ 
+ 3 
+
+L3HARRIS TECHNOLOGIES, INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENT OF COMPREHENSIVE INCOME 
+ (Unaudited) 
+ Quarter Ended Three Quarters Ended (In millions) September 27, 2024 September 29, 2023 September 27, 2024 September 29, 2023 Net income Other comprehensive income (loss): Foreign currency translation income (loss), net of income taxes ) ) Net unrealized income (loss) on hedging derivatives, net of income taxes ) Net unrecognized gains on postretirement obligations, net of income taxes Other comprehensive income (loss) recognized during the period ) ) Reclassification adjustments for gains included in net income ) ) ) ) Other comprehensive income (loss), net of income taxes ) ) Total comprehensive income Comprehensive (income) loss attributable to noncontrolling interest ) ) ) Total comprehensive income attributable to L3Harris Technologies, Inc. 
+ See accompanying Notes to Condensed Consolidated Financial Statements (Unaudited). 
+ _____________________________________________________________________ 
+ 4 
+
+L3HARRIS TECHNOLOGIES, INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED BALANCE SHEET 
+ (Unaudited) 
+ (In millions, except shares) September 27, 2024 December 29, 2023 Assets Current assets Cash and cash equivalents Receivables, net of allowances for collection losses of and , respectively 
+ Contract assets Inventories, net Income taxes receivable Other current assets Assets of business held for sale Total current assets Non-current assets Property, plant and equipment, net Goodwill Intangible assets, net Deferred income taxes Other non-current assets Total assets Liabilities and equity Current liabilities Short-term debt Current portion of long-term debt, net Accounts payable Contract liabilities Compensation and benefits Income taxes payable Other current liabilities Liabilities of business held for sale Total current liabilities Non-current liabilities Long-term debt, net Deferred income taxes Other long-term liabilities Total liabilities Equity Shareholders Equity: Common stock, par value; shares authorized; issued and outstanding and shares at September 27, 2024 and December 29, 2023, respectively 
+ Paid-in capital Retained earnings Accumulated other comprehensive loss ) ) Total shareholders equity Noncontrolling interests Total equity Total liabilities and equity 
+ See accompanying Notes to Condensed Consolidated Financial Statements (Unaudited). 
+ _____________________________________________________________________ 
+ 5 
+
+L3HARRIS TECHNOLOGIES, INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS 
+ (Unaudited) 
+ Three Quarters Ended (In millions) September 27, 2024 September 29, 2023 Operating Activities Net income Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization Share-based compensation Pension and other postretirement benefit plan income ) ) Share-based matching contributions under defined contribution plans Deferred income taxes ) (Increase) decrease in: Receivables, net Contract assets ) ) Inventories, net ) Other current assets ) ) Increase (decrease) in: Accounts payable ) ) Contract liabilities ) Compensation and benefits ) ) Other current liabilities ) Income taxes ) Other operating activities ) ) Net cash provided by operating activities Investing Activities Net cash paid for acquired businesses ) Additions to property, plant and equipment ) ) Proceeds from sales of businesses, net Other investing activities ) ) Net cash used in investing activities ) ) Financing Activities Proceeds from borrowings, net of issuance cost Repayments of borrowings ) ) Change in commercial paper, maturities under 90 days, net Proceeds from commercial paper, maturities over 90 days Repayments of commercial paper, maturities over 90 days ) Proceeds from exercises of employee stock options Repurchases of common stock ) ) Dividends paid ) ) Other financing activities ) ) Net cash (used in) provided by financing activities ) Effect of exchange rate changes on cash and cash equivalents ) Net decrease in cash and cash equivalents ) ) Cash and cash equivalents, beginning of period Cash and cash equivalents, end of period See accompanying Notes to Condensed Consolidated Financial Statements (Unaudited). 
+ _____________________________________________________________________ 
+ 6 
+
+L3HARRIS TECHNOLOGIES, INC. AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENT OF EQUITY 
+ (Unaudited) 
+ Quarter Ended Three Quarters Ended (In millions, except per share amounts) September 27, 2024 September 29, 2023 September 27, 2024 September 29, 2023 Common Stock Beginning balance Shares issued under stock incentive plans Shares issued under defined contribution plans Repurchases and retirement of common stock ) ) Ending balance Paid-in Capital Beginning balance Shares issued under stock incentive plans Shares issued under defined contribution plans Share-based compensation expense Tax withholding payments on share-based awards ) ) ) Repurchases and retirement of common stock ) ) ) Other ) ) Ending balance Retained Earnings Beginning balance Net income attributable to L3Harris Technologies, Inc. Repurchases and retirement of common stock ) ) ) Cash dividends ) ) ) ) Other Ending balance Accumulated Other Comprehensive Loss Beginning balance ) ) ) ) Other comprehensive income (loss), net of income taxes ) ) Ending balance ) ) ) ) Noncontrolling Interests Beginning balance Net income (loss) attributable to noncontrolling interests ) Other ) ) ) ) Ending balance Total Equity Cash dividends per share 
+
+See accompanying Notes to Condensed Consolidated Financial Statements (Unaudited). 
+ 
+ _____________________________________________________________________ 
+ 7 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ The accompanying Condensed Consolidated Financial Statements should be read in conjunction with our Annual Report on Form 10-K for the fiscal year ended December 29, 2023 (our Fiscal 2023 Form 10-K ). 
+
+Impact of dilutive share-based awards Diluted weighted-average common shares outstanding 
+ Diluted EPS excludes the antidilutive impact of million and million weighted-average share-based awards outstanding for the quarter and three quarters ended September 27, 2024, respectively, and million weighted-average share-based awards outstanding for the three quarters ended September 29, 2023. 
+ _____________________________________________________________________ 
+ 8 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Contract liabilities, current ) ) Contract liabilities, non-current (1) 
+ ) ) Net contract assets 
+ _______________ 
+ (1) The non-current portion of contract liabilities is included as a component of the Other long-term liabilities line item in our Condensed Consolidated Balance Sheet. 
+ There were no significant credit or impairment losses related to our contract assets during the quarter and three quarters ended September 27, 2024 or the quarter and three quarters ended September 29, 2023. Revenue recognized related to contract liabilities that were outstanding at the end of the respective prior fiscal year were million and million for the quarter and three quarters ended September 27, 2024, respectively, and million and million for the quarter and three quarters ended September 29, 2023, respectively. 
+ 
+ Work in process Materials and supplies Inventories, net 
+
+Goodwill from AJRD acquisition (1) 
+ Impairment of goodwill (2) 
+ ) ) Goodwill decrease from divestitures (2) 
+ ) ) Currency translation adjustments ) ) Balance at September 27, 2024 
+ _______________ 
+ (1) Represents the effect of measurement period adjustments associated with the acquisition of Aerojet Rocketdyne Holdings, Inc. AJRD during the three quarters ended September 27, 2024. See Note O: Acquisitions and Divestitures in these Notes for further information. 
+ (2) Goodwill allocation and impairment recognized in connection with the Antenna Disposal Group divestiture. See Note O: Acquisitions and Divestitures in these Notes and our Form 10-Q for the quarter ended June 28, 2024 for further information related to the Antenna Disposal Group divestiture and associated goodwill allocation and impairment testing, respectively. 
+ _____________________________________________________________________ 
+ 9 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ million, million and million at our Space Airborne Systems SAS ), Integrated Mission Systems IMS and Communication System CS segments, respectively. There are accumulated impairments for our Aerojet Rocketdyne AR segment. 
+ Intangible Assets 
+ ) ) Developed technologies 
+ ) ) Trade names 
+ ) ) Other, including contract backlog 
+ ) ) Total finite-lived intangible assets ) ) Trade name indefinite-lived Total intangible assets, net ) ) 
+ 
+ For further description of our accounting policies related to intangible assets acquired in the AJRD acquisition, see Note O: Acquisitions and Divestitures in these Notes, and for our accounting policies related to all other intangible assets, see Note 6: Goodwill and Intangible Assets in our Fiscal 2023 Form 10-K. 
+ Amortization expense for intangible assets was million and million for the quarter and three quarters ended September 27, 2024, respectively, and million and million for the quarter and three quarters ended September 29, 2023, respectively. 
+ Months 13-24 Months 25-36 Months 37-48 Months 49-60 Thereafter Total 
+ 
+ and for the quarter and three quarters ended September 27, 2024, respectively, and and for the quarter and three quarters ended September 29, 2023, respectively. The ETR for all periods benefited from research and development R D credits and tax deductions for foreign derived intangible income FDII ), with additional benefits from favorable adjustments recognized upon finalization of our 2023 tax returns in the quarter and three quarters ended September 27, 2024 and favorable resolution of specific audit uncertainties in the three quarters ended September 27, 2024 and the quarter and three quarters ended September 29, 2023. 
+ During the quarter ended September 27, 2024, we completed our 2023 Federal tax return and recorded the associated return-to-provision adjustments. On the 2023 Federal tax return, we requested an automatic tax accounting method change, pursuant to the interim guidance in Section 8 of IRS Notice 2023-63, adjusting our percentage of completion method for tax purposes to include the amortization of research and experimental expenditures, rather than the capitalized amount of such expenditures. This automatic tax accounting method change resulted in an increase to income taxes receivable and an offsetting increase in our deferred income taxes. 
+ _____________________________________________________________________ 
+ 10 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Fixed-rate debt: notes, due May 28, 2024 3.95 2024 Notes 
+ notes, due April 27, 2025 3.832 2025 Notes 
+ debentures, due January 15, 2026 
+ notes, due December 15, 2026 
+ notes, due January 15, 2027 (1) 
+ debentures, due February 1, 2028 
+ notes, due June 15, 2028 
+ notes, due June 1, 2029 5.05 2029 Notes 
+ notes, due December 15, 2029 
+ notes, due January 15, 2031 
+ notes, due June 1, 2031 5.25 2031 Notes 
+ notes, due July 31, 2033 (1) 
+ notes, due June 1, 2034 5.35 2034 Notes 
+ notes, due April 27, 2035 
+ notes, due December 15, 2040 
+ notes, due April 27, 2045 
+ notes, due July 31, 2053 (1) 
+ notes, due August 15, 2054 5.50 2054 Notes 
+ Total variable and fixed-rate debt Financing lease obligations and other debt Long-term debt, including the current portion of long-term debt Plus: unamortized bond premium Less: unamortized discounts and issuance costs ) ) Long-term debt, including the current portion of long-term debt, net Less: current portion of long-term debt, net ) ) Total long-term debt, net _______________ 
+ (1) Collectively, the AJRD Notes. 
+ Long-Term Debt Issued 
+ On March 13, 2024, we closed the issuance and sale of billion aggregate principal amount of new long-term fixed-rate debt consisting of the 5.05 2029 Notes, the 5.25 2031 Notes, and the 5.35 2034 Notes. (collectively, the March Issued 2024 Notes ). The March Issued 2024 Notes were used to repay Term Loan 2025, including related fees and expenses, which had an outstanding balance of billion at December 29, 2023. 
+ Interest on the March Issued 2024 Notes is payable semi-annually in arrears on June 1 and December 1 of each year, commencing on December 1, 2024. 
+ On August 2, 2024, we closed the issuance and sale of million aggregate principal amount of the 5.50 2054 Notes and used the net proceeds to repay borrowings under our commercial paper program CP Program ). 
+ Interest on the 5.50 2054 Notes is payable semi-annually in arrears on February 15 and August 15 of each year, commencing on February 15, 2025. 
+ _____________________________________________________________________ 
+ 11 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ million and million for the March Issued 2024 Notes and the 5.50 2054 Notes, respectively, which are being amortized over the life of each respective note. Such amortization is included as a component of the Interest expense, net line item in our Condensed Consolidated Statement of Operations. 
+ Long-Term Debt Repayments 
+ On March 14, 2024, we repaid the entire outstanding billion drawn on Term Loan 2025, which at time of repayment had a variable interest rate of , with proceeds from the issuance of the March Issued 2024 Notes, which bear fixed interest rates between and . Additionally, during the quarter ended June 28, 2024, we repaid the million aggregate principal amount of our 3.95 2024 Notes. 
+ Credit Agreements 
+ On January 26, 2024, we established a new billion, -day senior unsecured revolving credit facility 2024 Credit Facility by entering into a -day credit agreement maturing no later than January 24, 2025 2024 Credit Agreement with a syndicate of lenders. We may extend the maturity of any loans outstanding under the 2024 Credit Agreement by , subject to the satisfaction of certain conditions. The 2024 Credit Agreement replaces the prior billion -Day Credit Agreement 2023 Credit Agreement ). 
+ At our election, borrowings under the 2024 Credit Agreement, which are designated in U.S. Dollars, bear interest at the sum of the term secured overnight financing rate or the Base Rate (as defined in the 2024 Credit Agreement), plus an applicable margin that varies based on the ratings of our senior unsecured long-term debt securities Senior Debt Ratings ). In addition to interest payable on the principal amount of indebtedness outstanding, we are required to pay a quarterly unused commitment fee that varies based on our Senior Debt Ratings. 
+ The 2024 Credit Agreement also contains representations, warranties, covenants and events of default that are substantially similar to the existing Revolving Credit Agreement, dated as of July 29, 2022 2022 Credit Agreement which established a billion, senior unsecured revolving credit facility. For a description of the 2022 Credit Agreement and related covenants, see Note 8: Debt and Credit Arrangements in our Fiscal 2023 Form 10-K. 
+ At September 27, 2024, we had outstanding borrowings under either our 2024 Credit Agreement or our 2022 Credit Agreement, had available borrowing capacity of billion, net of outstanding CP Program borrowings and we re in compliance wit h all covenants under both aforementioned credit agreements. 
+ See Note 8: Debt and Credit Arrangements in our Fiscal 2023 Form 10-K for additional information regarding our 2022 Credit Agreement and our 2023 Credit Agreement. 
+ Commercial Paper Program 
+ On January 26, 2024, we lowered the maximum amount available under our CP Program to billion from billion in accordance with the terms of the CP Program. The CP Program is supported by amounts available under the 2022 Credit Agreement and the 2024 Credit Agreement. 
+ The commercial paper notes are sold at par less a discount representing an interest factor or, if interest bearing, at par, and the maturities vary but may not exceed days from the date of issue. The commercial paper notes will rank at least pari passu with all other unsecured and unsubordinated indebtedness. 
+ At September 27, 2024 and December 29, 2023, we had billion and billion in outstanding notes under our CP Program, respectively, which is included as a component of the Short-term debt line item in our Condensed Consolidated Balance Sheet. The outstanding notes under our CP Program had a weighted-average interest rate of and at September 27, 2024 and December 29, 2023, respectively. 
+ _____________________________________________________________________ 
+ 12 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Non-operating Interest cost Expected return on plan assets ) ) ) ) Amortization of net actuarial gain ) ) ) ) Amortization of prior service credit ) ) Non-service cost periodic benefit income 
+ ) ) ) ) Net periodic benefit income ) ) ) ) Three Quarters Ended September 27, 2024 September 29, 2023 (In millions) Pension Other Benefits Pension Other Benefits Net periodic benefit income 
+ Operating Service cost Non-operating Interest cost Expected return on plan assets ) ) ) ) Amortization of net actuarial gain ) ) ) ) Amortization of prior service (credit) cost ) ) Non-service cost periodic benefit income 
+ ) ) ) ) Net periodic benefit income ) ) ) ) 
+ The service cost component of net periodic benefit income is included in the Cost of revenue and General and administrative expenses line items in our Condensed Consolidated Statement of Operations. The non-service cost components of net periodic benefit income are included in the Non-service FAS pension income and other, net line item in our Condensed Consolidated Statement of Operations. 
+ 
+ shareholder-approved employee stock incentive plans, including our 2024 Equity Incentive Plan, which was approved by our shareholders on April 19, 2024, as well as under other existing employee equity incentive plans assumed by L3Harris (collectively, the L3Harris SIPs ). Total share-based compensation expense was million and million for the quarter and three quarters ended September 27, 2024, respectively, and million and million for the quarter and three quarters ended September 29, 2023, respectively. 
+ _____________________________________________________________________ 
+ 13 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Restricted stock units granted (2) 
+ Performance share units granted (3) 
+ 
+ _______________ 
+ (1) Other than certain stock options granted in connection with new hires, our stock options generally ratably vest in equal amounts over a period. 
+ (2) Other than certain restricted stock units granted in connection with new hires, our restricted stock units generally cliff vest after . 
+ (3) Our performance share units are subject to performance criteria and generally vest after the performance period. 
+ The aggregate number of shares of our common stock issued under L3Harris SIPs, net of shares withheld for tax purposes, was million and million for the quarter and three quarters ended September 27, 2024, respectively, and was million and million for the quarter and three quarters ended September 29, 2023, respectively. 
+ See Note 10: Stock Options and Other Share-Based Compensation in our Fiscal 2023 Form 10-K for additional information regarding the L3Harris SIPs. 
+ 
+ million and million, respectively. Changes in AOCL, net of tax, consisted of million of other comprehensive income before reclassifications, primarily from currency translation gains, and million of net gains reclassified to earnings, primarily associated with amortization of unrecognized postretirement benefit plan obligations. 
+ At September 29, 2023 and December 30, 2022, AOCL was million and million, respectively. Changes in AOCL, net of tax, consisted of million of other comprehensive loss before reclassifications, primarily from currency translation losses, partially offset by net unrealized gains on hedging derivatives, and million of net gains reclassified to earnings, primarily associated with amortization of unrecognized postretirement benefit plan obligations. 
+
+_____________________________________________________________________ 
+ 14 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Investments measured at NAV: Corporate-owned life insurance Total fair value of deferred compensation plan assets Liabilities Deferred compensation plan liabilities: (2) 
+ Equity securities and mutual funds Investments measured at NAV: Common/collective trusts and guaranteed investment contracts Total fair value of deferred compensation plan liabilities 
+ _______________ 
+ (1) Represents diversified assets held in rabbi trusts primarily associated with our non-qualified deferred compensation plans, which we include in the Other current assets and Other non-current assets line items in our Condensed Consolidated Balance Sheet. 
+ (2) Primarily represents obligations to pay benefits under certain non-qualified deferred compensation plans, which we include in the Compensation and benefits and Other long-term liabilities line items in our Condensed Consolidated Balance Sheet. Under these plans, participants designate investment options (including stock and fixed-income funds), which serve as the basis for measurement of the notional value of their accounts. 
+ All other long-term debt, net (including current portion) (2) 
+ Long-term debt, including the current portion of long-term debt, net 
+ _______________ 
+ (1) The carrying value of Term Loan 2025 approximates fair value due to its variable interest rate. 
+ (2) The fair value was estimated using a market approach based on quoted market prices for our debt traded in the secondary market. If measured at fair value, it would be categorized in Level 2 of the fair value hierarchy. 
+ The fair value of our short-term debt approximates the carrying value due to its short-term nature. If measured at fair value, the commercial paper would be classified as level 2 and other short-term debt would be classified as level 3 within the fair value hierarchy. See Note G: Debt and Credit Arrangements in these Notes and Note 8: Debt and Credit Arrangements in our Fiscal 2023 Form 10-K for further information regarding our long-term debt and CP Program. 
+ See Note E: Goodwill and Intangible Assets and Note O: Acquisitions and Divestitures in these Notes and Note 13: Acquisitions, Divestitures and Asset Sales in our Fiscal 2023 Form 10-K for additional information regarding fair value measurements associated with acquisitions, divestitures and goodwill. 
+ _____________________________________________________________________ 
+ 15 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ ) ) Net EAC adjustments, net of income taxes ) ) Net EAC adjustments, net of income taxes, per diluted share ) ) 
+ 
+ Revenue recognized from performance obligations satisfied in prior periods was million and million for the quarter and three quarters ended September 27, 2024, respectively, and million and million for the quarter and three quarters ended September 29, 2023, respectively. 
+ 
+ billion. We expect to recognize approximately of the revenue associated with this backlog over the next and an additional over the following , with the remainder to be recognized thereafter. 
+ 
+ _____________________________________________________________________ 
+ 16 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ Additional provisions (2) 
+ Payments ) Total changes Balance at September 27, 2024 (1) 
+ 
+ _______________ 
+ (1) Our liabilities, which we expect will be paid in the next twelve months, are included in the Compensation and benefits line item in our Condensed Consolidated Balance Sheet. 
+
+of AJRD for a total net purchase price of million. The acquisition was financed through the issuance and sale of the AJRD Notes and a draw down under the 2023 Credit Agreement. See Note 8: Debt and Credit Arrangements in our Fiscal 2023 Form 10-K for further information regarding the financing of the AJRD acquisition. 
+ Net assets and results of operations of AJRD are reflected in our financial results commencing on July 28, 2023, the acquisition date, and are reported in our AR segment, which is also the AR reporting unit, except for certain assets and liabilities recorded at corporate headquarters. 
+ We accounted for the acquisition of AJRD using the acquisition method of accounting, which required us to measure identifiable assets acquired and liabilities assumed in the acquiree at their fair values as of the acquisition date, with the excess of the consideration transferred over those fair values recorded as goodwill. 
+ 
+ AJRD debt settled by L3Harris Cash consideration paid Less cash acquired ) Fair value of consideration transferred 
+ _____________________________________________________________________ 
+ 17 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+Contract assets ) Inventories, net Income taxes receivable Other current assets Property, plant and equipment Goodwill Intangible assets Other non-current assets Total assets acquired Current portion of long-term debt, net Accounts payable Contract liabilities Compensation and benefits Income taxes payable ) Other current liabilities Long-term debt, net Deferred income taxes ) Other long-term liabilities Total liabilities assumed Fair value of consideration transferred 
+ _______________ 
+ (1) Fair value adjustments during the measurement period primarily related to EAC updates for circumstances existing at the acquisition date, including updates to the forward loss provision and off-market customer contract reserve described below, refinements to the fair value of fixed assets, as well as corresponding adjustments to the deferred tax liability account which was partially offset by the release of a portion of the uncertain tax position previously recorded by AJRD. 
+ 
+ Intangible Assets. All finite-lived intangible assets identified in the AJRD acquisition are subject to amortization. 
+ 
+ Government programs - 
+ Total customer relationships Trade names 
+ Total identifiable intangible assets acquired 
+ The fair value of intangible assets is estimated using the relief from royalty method for the acquired trade names and the multi-period excess earnings method for the acquired customer relationships. Both of these level 3 
+ _____________________________________________________________________ 
+ 18 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ million which was included in the Other current liabilities line item in our Condensed Consolidated Balance Sheet. Since the completion of the acquisition of AJRD, we have undertaken significant operational efforts to further understand the root cause of identified preexisting manufacturing and supply chain challenges resulting in delivery delays, primarily related to certain Missile Solutions programs. We have identified operational activities necessary to remedy these challenges and inefficiencies and the incremental costs required as compared to its initial estimates and actual costs incurred. The incremental forward loss provisions relate to the increased cost estimates of labor and material to remedy the underlying preexisting technical and supply chain challenges. These cost increases impacted both cost-plus and fixed-price contracts in proportions that are consistent with the ratio of the overall AJRD revenue by contract type. The forward loss provisions will be recognized as a reduction to cost of sales as we incur actual costs associated with these estimates in satisfying the associated performance obligations. There will be no net impact on our Condensed Consolidated Statement of Operations. We recognized million and million of amortization related to the forward loss provision in the quarter and three quarters ended September 27, 2024, respectively. 
+ Off-market Customer Contracts. We have identified certain customer contractual obligations as of the acquisition date with economic returns that are higher or lower than could be realized in market transactions and have recorded assets or liabilities for the acquisition date fair value of the off-market components. The acquisition date fair value of the off-market components is a net liability of million, consisting of million and million included in the Other current liabilities and Other long-term liabilities line items in our Condensed Consolidated Balance Sheet, respectively, and excludes any amounts already recognized in forward loss provisions (see discussion in the preceding paragraph). Additional provisions to off-market customer contracts relate to labor and material cost increases primarily associated with supply chain and manufacturing challenges and inefficiencies. These cost increases impacted both cost-plus and fixed-price contracts in proportions that are consistent with the ratio of the overall AJRD revenue by contract type. We measured the fair value of these components as the amount by which the terms of the contract with the customer deviates from the terms that a market participant could have achieved at the acquisition date. The off-market components of these contracts will be recognized as an increase to revenue as we incur costs to satisfy the associated performance obligations. We recognized million and million of amortization related to off-market contract liabilities in the quarter and three quarters ended September 27, 2024, respectively. 
+ Goodwill. The million of goodwill recognized is attributable to AJRD s market presence as one of the two primary providers of advanced propulsion and power systems for nearly every major U.S. government space and missile program, the assembled workforce and established operating infrastructure. The acquired goodwill is not tax deductible. See Note E: Goodwill and Intangible Assets in these Notes for further information. 
+ Financial Results. See Note P: Business Segment Information in these Notes for the AR segment financial results for the quarter and three quarters ended September 27, 2024. 
+ million and million for the quarter and three quarters ended September 27, 2024, respectively, and million and million for the quarter and three quarters ended September 29, 2023, respectively . 
+ 
+ million, with additional contingent consideration of up to million, subject to customary purchase price adjustments and closing conditions as set forth in the agreement. As of September 27, 2024, the fair value less remaining estimated costs to sell of the CAS Disposal Group was million, inclusive of consideration related to noncontrolling interest and accumulated other comprehensive income. Income before income taxes attributable to L3Harris Technologies, Inc. for the quarter and three quarters ended September 27, 2024 was million and million, respectively, and for the quarter and three quarters ended September 29, 2023 was million and million, respectively. The CAS Disposal Group, which is part of our IMS segment, provides integrated aircraft avionics, pilot training and data analytics services for the commercial aviation industry. The transaction is expected to close in fiscal 2024. 
+ In connection with the preparation of our financial statements for fiscal 2023, we concluded that goodwill related to the CAS Disposal Group was impaired and we recorded a non-cash impairment charge of million, 
+ _____________________________________________________________________ 
+ 19 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ million included in the Asset group and business divestiture-related (losses) gains, net line item in our Consolidated Statement of Operations in our Fiscal 2023 Form 10-K. 
+ D uring the quarter and three quarters ended September 27, 2024, we recorded an additional valuation allowance due to an increase in the carrying value of the disposal group, and additional remaining estimated costs to sell which resulted in additional pre-tax losses of million and of million, respectively, inclusive of amounts attributable to noncontrolling interest. The pre-tax losses and the amount attributable to noncontrolling interest, after tax, are included in the General and administrative expenses and Noncontrolling interests, net of income taxes line items, respectively, in our Condensed Consolidated Statement of Operations for the quarter and three quarters ended September 27, 2024. 
+ Contract assets Inventories, net Other current assets Property, plant and equipment, net Goodwill Intangible assets, net Other non-current assets Valuation allowance ) ) Total assets held for sale Current portion of long-term debt Accounts payable Contract liabilities Compensation and benefits Other current liabilities Long-term debt, net Other long-term liabilities Total liabilities held for sale 
+ 
+ million (after selling costs and purchase price adjustments) and a million note receivable, included in the Other non-current assets line item in our Condensed Consolidated Balance Sheet at September 27, 2024. 
+ The carrying amounts of assets and liabilities included in the Antenna Disposal Group sale on May 31, 2024 were million and million, respectively. During the quarter ended June 28, 2024, million of goodwill was assigned to the Antenna Disposal Group on a relative fair value basis. In connection with the preparation of our financial statements for the quarter ended June 28, 2024, we tested goodwill assigned to the Antenna Disposal Group and goodwill assigned to the retained businesses of the SAS reporting unit for impairment and concluded that goodwill related to the Antenna Disposal Group was impaired. As a result, we recorded a non-cash charge for impairment of million included in the General and administrative expenses line item in our Condensed Consolidated Statement of Operations for the three quarters ended September 27, 2024. 
+ In connection with the sale, we recognized a pre-tax loss of million included in the General and administrative expenses line item in our Condensed Consolidated Statement of Operations for the three quarters ended September 27, 2024. The operating results of the Antenna Disposal Group were reported in our SAS segment through the date of divestiture. 
+ _____________________________________________________________________ 
+ 20 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ million and recognized a pre-tax gain of million included in the General and administrative expenses line item in our Consolidated Statement of Operations for the fiscal year ended December 29, 2023 in our Fiscal 2023 Form 10-K. After selling costs and purchase price adjustments, the net cash proceeds for the sale of VIS were million. The operating results of VIS were reported in the SAS segment through the date of divestiture. 
+ Fair Value of Businesses 
+ For purposes of allocating goodwill to the disposal groups that represent a portion of a reporting unit, we determine the fair value of each disposal group based on the respective negotiated selling price, and the fair value of the retained businesses of the respective reporting unit based on a combination of market-based and income-based valuation techniques, utilizing quoted market prices, comparable publicly reported transactions and projected discounted cash flows. These fair value determinations are categorized as level 3 in the fair value hierarchy due to their use of internal projections and unobservable measurement inputs. See Note K: Fair Value Measurements in these Notes for additional information. 
+ 
+ reportable segments: 
+ SAS: including satellite space payloads, sensors and full-mission solutions; classified intelligence and cyber; avionics; electronic warfare systems; and mission networks for FAA mission-critical safety of flight; 
+ IMS: including multi-mission intelligence, surveillance and reconnaissance ISR systems; passive sensing and targeting; electronic attack platforms; autonomy; power and communications; networks; sensors; and the CAS Disposal Group, which includes aviation products and pilot training operations, see Note O: Acquisitions and Divestitures ; 
+ CS: including tactical communications with global communications solutions; broadband communications; integrated vision solutions; and public safety radios, system applications and equipment; and 
+ AR: including missile solutions with propulsion technologies for strategic defense, missile defense, and hypersonic and tactical systems; and space propulsion and power systems for national security space and exploration missions. 
+ Business Segment Financial Information 
+ IMS CS AR Corporate eliminations ) ) ) ) Total revenue Income before Income Taxes Operating income: SAS 
+ IMS 
+ CS AR Total segment Total unallocated corporate expenses ) ) ) ) Total operating income Non-service FAS pension income and other, net Interest expense, net ) ) ) ) Income before income taxes 
+ Unallocated Corporate Expenses. Total unallocated corporate expenses include corporate items such as a portion of management and administration, legal, environmental, compensation, retiree benefits, other corporate expenses and eliminations and the FAS/Cost Accounting Standards CAS operating adjustment. Total unallocated corporate expenses also include the portion of corporate costs not included in management s evaluation of segment operating performance, such as amortization of acquisition-related intangibles; additional cost of revenue related to the fair value step-up in inventory sold; merger, acquisition, and divestiture-related expenses; asset group and business divestiture-related (losses) gains, net and any related impairment of goodwill; impairment of other assets; LHX NeXt implementation costs; and other items. 
+ FAS/CAS Operating Adjustment. In accordance with CAS, we allocate a portion of pension and OPEB plan costs to our U.S. Government contracts. However, our Condensed Consolidated Financial Statements require pension and OPEB plan income or expense to be calculated in accordance with FAS requirements under GAAP. The FAS/CAS operating adjustment line item in the table below represents the difference between the service cost component of net periodic benefit income under our pension and OPEB plans and total CAS pension and OPEB cost.) ) ) ) Less: CAS pension cost ) ) ) ) FAS/CAS operating adjustment 
+ business segments by customer relationship, contract type and geographical region. We believe these categories best depict how the nature, amount, timing and uncertainty of revenue and cash flows are affected by economic factors. Quarter Ended September 27, 2024 September 29, 2023 (In millions) SAS IMS CS AR SAS IMS CS AR Revenue By Customer Relationship Prime contractor Subcontractor (1) 
+ Intersegment Total segment Revenue By Contract Type Fixed-price (2) 
+ Cost-reimbursable Intersegment Total segment Revenue By Geographical Region United States International Intersegment Total segment Three Quarters Ended September 27, 2024 September 29, 2023 (In millions) SAS IMS CS AR SAS IMS CS AR Revenue By Customer Relationship Prime contractor Subcontractor (1) 
+ Intersegment Total segment Revenue By Contract Type Fixed-price (2) 
+ Cost-reimbursable Intersegment Total segment Revenue By Geographical Region United States International Intersegment Total segment _______________ 
+ (1) Our subcontractor revenues includes products and services to contractors whose customers are the end user. 
+ (2) Includes revenue derived from time-and-materials contracts. 
+ Assets by Business Segment 
+ IMS CS AR Corporate (1) 
+ Total Assets 
+ _______________ 
+ (1) Identifiable intangible assets acquired in connection with business combinations were recorded as corporate assets because they benefited the entire Company. Identifiable intangible asset balances recorded as corporate assets were billion and billion at September 27, 2024 and December 29, 2023, respectively. Corporate assets also consisted of cash, income taxes receivable, deferred income taxes, deferred compensation plan investments, buildings and equipment, real estate held for development and leasing, as well as any assets of businesses held for sale. 
+ 
+ million as of September 27, 2024. The current portion of our estimated environmental liability is included in the Other current liabilities line item and the non-current portion is included in the Other long-term liabilities line item in our Condensed Consolidated Balance Sheet. Some of these environmental costs are eligible for future recovery in the pricing of our products and services to the U.S. 
+ _____________________________________________________________________ 
+ 21 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+
+ million. The current and non-current portion of the recoverable costs are included as a component of the Other current assets and Other non-current assets line items, respectively, in our Condensed Consolidated Balance Sheet. 
+ 
+ _____________________________________________________________________ 
+ 22 
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+ To the Shareholders and Board of Directors of L3Harris Technologies, Inc. 
+ Results of Review of Interim Financial Statements 
+ We have reviewed the accompanying condensed consolidated balance sheet of L3Harris Technologies, Inc. and subsidiaries (the Company) as of September 27, 2024, the related condensed consolidated statements of operations, comprehensive income, and equity for the quarter and three quarters ended September 27, 2024 and September 29, 2023, the condensed consolidated statements of cash flows for the three quarters ended September 27, 2024 and September 29, 2023, and the related notes (collectively referred to as the condensed consolidated interim financial statements ). Based on our reviews, we are not aware of any material modifications that should be made to the condensed consolidated interim financial statements for them to be in conformity with U.S. generally accepted accounting principles. 
+ We have previously audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) PCAOB ), the consolidated balance sheet of the Company as of December 29, 2023, the related consolidated statements of operations, comprehensive income, cash flows and equity for the year then ended, and the related notes (not presented herein); and in our report dated February 16, 2024, we expressed an unqualified audit opinion on those consolidated financial statements. In our opinion, the information set forth in the accompanying condensed consolidated balance sheet as of December 29, 2023, is fairly stated, in all material respects, in relation to the consolidated balance sheet from which it has been derived. 
+ Basis for Review Results 
+ These financial statements are the responsibility of the Company's management. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the SEC and the PCAOB. We conducted our review in accordance with the standards of the PCAOB. A review of interim financial statements consists principally of applying analytical procedures and making inquiries of persons responsible for financial and accounting matters. It is substantially less in scope than an audit conducted in accordance with the standards of the PCAOB, the objective of which is the expression of an opinion regarding the financial statements taken as a whole. Accordingly, we do not express such an opinion. 
+ 
+ /s/ Ernst Young LLP 
+ 
+ Orlando, Florida 
+ October 25, 2024 
+ _____________________________________________________________________ 
+ 23 
+
+ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS. 
+ 
+ The following Management s Discussion and Analysis MD A is intended to assist in an understanding of our financial condition and results of operations. This MD A is provided as a supplement to, should be read in conjunction with, and is qualified in its entirety by reference to, our Condensed Consolidated Financial Statements and accompanying Notes. In addition, reference should be made to our audited Consolidated Financial Statements and accompanying Notes to our Consolidated Financial Statements and Part II. Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations in our Fiscal 2023 Form 10-K. Except for the historical information contained herein, the discussions in this MD A contain forward-looking statements. 
+ OVERVIEW 
+ We are the Trusted Disruptor in the defense industry. With customers mission-critical needs always in mind, we deliver end-to-end technology solutions connecting the space, air, land, sea and cyber domains in the interest of national security. We support government customers in more than 100 countries, with our largest customers being various departments and agencies of the U.S. Government, their prime contractors and international allies. Our products and services have defense and civil government applications, as well as commercial applications. 
+ U.S. and International Budget Environment 
+ The percentage of our revenue that was derived from sales to U.S. Government customers, including foreign military sales funded through the U.S. Government, whether directly or through prime contractors, was 77 for the three quarters ended September 27, 2024. 
+ On March 9, 2024, the President signed the first tranche of U.S. Government fiscal year GFY 2024 appropriations funding bills into law, which funded six government agencies, including funding for the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, and the Federal Aviation Administration, through the remainder of GFY 2024 which ended on September 30, 2024. A second funding bill, signed into law on March 23, 2024, funded all remaining agencies, including the U.S. Department of Defense DoD ), through the remainder of GFY 2024. The bill provides approximately 844 billion in funding for DoD. This was in line with our expectations for 3 growth for defense over GFY 2023 levels and in line with the first year of the Fiscal Responsibility Act of 2023 FRA caps. 
+ On March 11, 2024, the President s Budget Request PBR for GFY 2025 was released. The DoD requested 850 billion, a 1 topline increase consistent with the FRA caps. 
+ On April 24, 2024, the President signed into law a supplemental GFY 2024 appropriations package that includes 67 billion in funding for key DoD programs, bringing the DoD funding for GFY 2024 to 911 billion. 
+ Congress has not yet reached a final agreement on GFY2025 funding. A short-term Continuing Resolution CR was enacted on September 26, 2024 that will fund the U.S. Government until December 20, 2024. 
+ While operating under a CR, government agencies are allocated a portion of GFY 2024 enacted funds, and DoD is prohibited from starting new programs. The 2024 election cycle complicates the budget outlook. The outcome of the election in November will determine which political party has the majority in the House and Senate, which has implications, including potential delays in Congress ability to complete GFY 2025 appropriations bills during the lame duck session, making another CR highly likely. If Congress does not enact all 12 GFY 2025 appropriations bills by April 30, 2025, a 1 automatic sequestration cut will go into effect as mandated by the FRA. 
+ Further complicating the budget outlook is the need to raise the debt ceiling in 2025. Congressional inaction may lead to a default and potentially create economic instability. 
+ The overall defense spending environment, both in the U.S. and internationally, reflects the continued impacts of global conflicts and geopolitical tensions, and changes to U.S. Government or international spending priorities have and could in the future impact our business. 
+ See our U.S. Government funding risks and the discussion of our international business risks within Part I. Item 1A. Risk Factors in our Fiscal 2023 Form 10-K. 
+ _____________________________________________________________________ 
+ 24 
+
+Economic Environment 
+ The macroeconomic environment continues to evolve, which has impacted our business and may continue to impact our future results. The ongoing uncertainty related to the impacts of inflation, as well as the interest rate environment and ongoing federal deficits, which raises the cost of borrowing for the federal government, could in the future impact U.S. Government spending priorities for our products. For a discussion of inflation-related risks, see Part I. Item 1A. Risk Factors in our Fiscal 2023 Form 10-K. 
+ 
+ RESULTS OF OPERATIONS 
+ Consolidated Results of Operations 
+ Quarter Ended Three Quarters Ended (Dollars in millions, except per share amounts) September 27, 2024 September 29, 2023 September 27, 2024 September 29, 2023 Revenue 5,292 4,915 15,802 14,079 Cost of revenue (3,873) (3,608) (11,675) (10,419) of total revenue 73 73 74 74 Gross margin 1,419 1,307 4,127 3,660 of total revenue 26.8 26.6 26.1 26.0 General and administrative expenses (924) (828) (2,778) (2,388) of total revenue 17 17 18 17 Operating Income 495 479 1,349 1,272 Non-service FAS pension income and other, net 101 80 275 245 Interest expense, net (166) (159) (514) (372) Income before income taxes 430 400 1,110 1,145 Income taxes (26) (18) (54) (73) Effective Tax Rate 6.0 4.5 4.9 6.4 Net income 404 382 1,056 1,072 Noncontrolling interests, net of income taxes (4) 1 (7) (3) Net income attributable to L3Harris Technologies, Inc. 400 383 1,049 1,069 Diluted EPS 2.10 2.02 5.50 5.61 
+ Revenue and Gross Margin 
+ Quarter Ended Comparison. Revenue increased 8 for the quarter ended September 27, 2024 compared with the quarter ended September 29, 2023 primarily due to higher revenue of 141 million in our AR segment from a full quarter of revenue, rather than a partial quarter of revenue for the quarter ended September 29, 2023 following the July 28, 2023 acquisition of AJRD the AR Partial Quarter and higher revenues of 127 million and 103 million in our CS and IMS segments, respectively. 
+ Gross margin increased, largely due to the increase in revenue, while gross margin as a percentage of revenue remained flat for the quarter ended September 27, 2024 compared with the quarter ended September 29, 2023. 
+ Three Quarters Ended Comparison. Revenue increased 12 for the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 primarily due to higher revenue of 1,264 million in our AR segment from the acquisition of AJRD, in addition to higher revenues of 315 million, 85 million and 66 million in our CS, SAS and IMS segments, respectively. 
+ Gross margin increased, largely due to the increase in revenue, while gross margin as a percentage of revenue remained relatively flat for the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023. 
+ See the Segment Product and Service Analysis and Discussion of Business Segment Results of Operations discussion below in this MD A for further information. 
+ _____________________________________________________________________ 
+ 25 
+
+Segment Product and Service Analysis 
+ The following tables present revenue and cost of revenue from products and services by segment for the quarters ended September 27, 2024 and September 29, 2023: Quarter Ended September 27, 2024 (In millions) SAS IMS CS AR Eliminations Total Revenue Products 1,173 1,026 1,096 400 3,695 Services 498 634 269 196 1,597 Intersegment 12 11 17 (40) Total 1,683 1,671 1,382 596 (40) 5,292 Cost of revenue Products 928 793 697 310 11 2,739 Services 385 457 144 157 (9) 1,134 Intersegment 12 11 17 (40) Total 1,325 1,261 858 467 (38) 3,873 Quarter Ended September 29, 2023 (In millions) SAS IMS CS AR Eliminations Total Revenue Products 1,183 907 985 322 3,397 Services 490 640 255 133 1,518 Intersegment 13 21 15 (49) Total 1,686 1,568 1,255 455 (49) 4,915 Cost of revenue Products 894 676 595 249 7 2,421 Services 394 489 202 116 (14) 1,187 Intersegment 13 21 15 (49) Total 1,301 1,186 812 365 (56) 3,608 
+ Quarter Ended Comparison. Products revenue increased 298 million for the quarter ended September 27, 2024 compared with the quarter ended September 29, 2023 primarily due to higher products revenues of 119 million and 111 million in our IMS and CS segments, respectively, and 78 million in our AR segment from the AR Partial Quarter. 
+ Cost of products revenue increased 318 million for the quarter ended September 27, 2024 compared with the quarter ended September 29, 2023 primarily due to higher cost of products revenues of 117 million and 102 million in our IMS and CS segments, respectively, and 61 million in our AR segment from the AR Partial Quarter . 
+ Services revenue increased 79 million for the quarter ended September 27, 2024 compared with the quarter ended September 29, 2023 primarily due to higher services revenue of 63 million in our AR segment from the AR Partial Quarter. 
+ Cost of services revenue decreased 53 million for the quarter ended September 27, 2024 compared with the quarter ended September 29, 2023 primarily due to lower cost of services revenues of 58 million and 32 million in our CS and IMS segments, respectively, partially offset by higher cost of services revenue of 41 million in our AR segment from the AR Partial Quarter. 
+ See the Discussion of Business Segment Results of Operations discussion below in this MD A for further information. 
+ _____________________________________________________________________ 
+ 26 
+
+The following tables present revenue and cost of revenue from products and services by segment for the three quarters ended September 27, 2024 and September 29, 2023: Three Quarters Ended September 27, 2024 (In millions) SAS IMS CS AR Eliminations Total Revenue Products 3,572 3,102 3,165 1,139 10,978 Services 1,529 1,911 804 580 4,824 Intersegment 40 56 53 (149) Total 5,141 5,069 4,022 1,719 (149) 15,802 Cost of revenue Products 2,765 2,410 1,911 867 40 7,993 Services 1,215 1,417 607 454 (11) 3,682 Intersegment 40 56 53 (149) Total 4,020 3,883 2,571 1,321 (120) 11,675 Three Quarters Ended September 29, 2023 (In millions) SAS IMS CS AR Eliminations Total Revenue Products 3,597 3,039 2,951 322 9,909 Services 1,423 1,898 716 133 4,170 Intersegment 36 66 40 (142) Total 5,056 5,003 3,707 455 (142) 14,079 Cost of revenue Products 2,777 2,305 1,759 249 72 7,162 Services 1,150 1,464 558 116 (31) 3,257 Intersegment 36 66 40 (142) Total 3,963 3,835 2,357 365 (101) 10,419 
+ Three Quarters Ended Comparison . Products revenue increased 1,069 million for the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 primarily due to higher products revenues of 817 million in our AR segment from the acquisition of AJRD, in addition to 214 million and 63 million in our CS and IMS segments, respectively. 
+ Cost of products revenue increased 831 million for the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 primarily due to higher cost of products revenues of 618 million in our AR segment from the acquisition of AJRD, in addition to 152 million and 105 million in our CS and IMS segments, respectively. 
+ Services revenue increased 654 million for the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 primarily due to higher services revenues of 447 million in our AR segment from the acquisition of AJRD, in addition to 106 million and 88 million in our SAS and CS segments, respectively. 
+ Cost of services revenue increased 425 million for the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 primarily due to higher cost of services revenues of 338 million in our AR segment from the acquisition of AJRD, in addition to 65 million and 49 million in our SAS and CS segments, respectively. 
+ See the Discussion of Business Segment Results of Operations discussion below in this MD A for further information. 
+ _____________________________________________________________________ 
+ 27 
+
+General and Administrative G A Expenses 
+ G A expenses were as follows: 
+ Quarter Ended Three Quarters Ended (In millions) September 27, 2024 September 29, 2023 September 27, 2024 September 29, 2023 Amortization of acquisition-related intangibles (194) (185) (585) (477) LHX NeXt implementation costs (1) 
+ (41) (33) (216) (68) Merger, acquisition, and divestiture-related expenses (25) (56) (86) (144) Business divestiture-related (losses) gains, net (2) 
+ (29) (53) 26 Impairment of goodwill and other assets (14) (30) Company-funded R D costs (135) (125) (373) (356) Selling and marketing (112) (121) (337) (341) Other G A expenses (3) 
+ (388) (308) (1,114) (998) Total G A expenses (924) (828) (2,778) (2,388) 
+ _______________ 
+ (1) Costs associated with transforming multiple functions, systems and processes to increase agility and competitiveness, including third-party consulting, workforce optimization and incremental information technology IT expenses for implementation of new systems. For more detail on our LHX NeXt initiative and implementation costs, see Note N: Restructuring and Other Exit Costs in the Notes and the Operating Environment, Strategic Priorities and Key Performance Measures section in the MD A in our Fiscal 2023 Form 10-K. 
+ (2) See Note O: Acquisitions and Divestitures in the Notes. 
+ (3) Includes other segment G A expenses such as payroll and benefits, outside services, facilities, insurance and other expenses and unallocated corporate expenses including a portion of management and administration, legal, environmental, compensation, retiree benefits and includes other corporate G A expenses and eliminations. 
+ Quarter Ended Comparison. G A expenses increased 96 million for the quarter ended September 27, 2024 compared with the quarter ended September 29, 2023 primarily due an 80 million increase in other G A expenses, driven by a 26 million change in the fair value of our deferred compensation plan liabilities and 14 million of other G A expenses in our AR segment due to the AR Partial Quarter in 2023. Additionally, G A expenses increased from business divestiture-related losses in the quarter ended September 27, 2024. Such increases were partially offset by a decrease in merger, acquisition, and divestiture-related expenses. 
+ Three Quarters Ended Comparison. G A expenses increased 390 million for the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 primarily due to increases in LHX NeXt implementation costs, including 56 million related to employee severance charges and 92 million for third-party consulting expenses, incremental IT expenses for implementation of new systems and other costs. G A expenses also increased from higher amortization of acquisition-related intangibles and a change in business divestiture-related losses, partially offset by a decrease in merger, acquisition, and divestiture-related expenses. Additionally, other G A expenses increased 116 million from the inclusion of 100 million of other G A expenses in our AR segment and 84 million in corporate other G A expenses, primarily from a 23 million change in the fair value of our deferred compensation plan liabilities and a 15 million increase in a legal reserve, partially offset by decreases in other G A expenses of 29 million, 20 million and 19 million in our SAS, CS and IMS segments, respectively, primarily from LHX NeXt driven cost savings. 
+
+_____________________________________________________________________ 
+ 28 
+
+Non-service FAS Pension Income and Other, net 
+ Non-service FAS pension income and other, net was as follows: 
+ Quarter Ended Three Quarters Ended (In millions) September 27, 2024 September 29, 2023 September 27, 2024 September 29, 2023 Non-service FAS pension income (1) 
+ 80 78 241 232 Other, net (2) 
+ 21 2 34 13 Non-service FAS pension income and other, net 101 80 275 245 
+ _______________ 
+ (1) Includes interest cost, expected return on plan assets, amortization of net actuarial gain, and amortization of prior service (credit) cost components of net periodic benefit income under our pension and OPEB plans. See Note H: Retirement Benefits in the Notes for more information on the composition of non-service FAS pension income. 
+ (2) Other, net primarily includes changes in the market value of our rabbi trust assets, gains and losses on our equity investments in nonconsolidated affiliates and royalty income. For the quarter and three quarters ended September 27, 2024, includes 14 million of income net of related expenses from a domain name sale. 
+ Interest Expense, net 
+ Interest expense, net, increased for the quarter and three quarters ended September 27, 2024 compared with the quarter and three quarters ended September 29, 2023 primarily due to the issuance and sale of the March Issued 2024 Notes, AJRD Notes in July 2023 and higher average outstanding notes under our CP Program during the three quarters ended September 27, 2024, partially offset by repayment of Term Loan 2025 in March 2024. See Note G: Debt and Credit Arrangements in the Notes for further information. 
+ Income Taxes 
+ During interim periods, we estimate our worldwide forecasted full-year effective tax rate and apply that rate to year-to-date ordinary income in order to compute the year-to-date income tax provision. Although most items will be considered part of the forecasted full-year effective tax rate, there are a number of items that are instead required to be recorded in the interim period in which they occur; such as certain changes in uncertain tax positions, the accrual of interest and penalties, changes in tax laws or rates, and other items as prescribed by GAAP. As a result, there may be quarterly fluctuations in our effective tax rate and the results for the interim periods are not necessarily indicative of the results to be expected for the full year or future periods. 
+ Our effective tax rate ETR was 6.0 and 4.9 for the quarter and three quarters ended September 27, 2024, respectively, and 4.5 and 6.4 for the quarter and three quarters ended September 29, 2023, respectively. The ETR for all periods benefited from R D credits and tax deductions for FDII, with additional benefits from favorable adjustments recognized upon finalization of our 2023 tax returns in the quarter and three quarters ended September 27, 2024 and favorable resolution of specific audit uncertainties in the three quarters ended September 27, 2024 and the quarter and three quarters ended September 29, 2023. 
+ Diluted EPS 
+ Quarter Ended Comparison. Diluted EPS increased 4 for the quarter ended September 27, 2024 compared with the quarter ended September 29, 2023 primarily due to higher net income from the combined effects of reasons noted in the sections above, notably an increase in gross margin, partially offset by an increase in G A expenses. 
+ Three Quarters Ended Comparison. Diluted EPS decreased 2 for the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 primarily due to lower net income, from the combined effects of reasons noted in the sections above, notably increases in G A expenses and interest expense, net, partially offset by an increase in gross margin. 
+ _____________________________________________________________________ 
+ 29 
+
+Discussion of Business Segment Results of Operations 
+ SAS Segment 
+ Quarter Ended Three Quarters Ended September 27, 2024 September 29, 2023 Inc/(Dec) September 27, 2024 September 29, 2023 Inc/(Dec) Revenue 1,683 1,686 5,141 5,056 2 Operating income 195 210 (7) 626 565 11 Operating income as a percentage of revenue operating margin 
+ 11.6 12.5 12.2 11.2 
+ Quarter Ended Comparison. SAS segment revenue remained flat for the quarter ended September 27, 2024 primarily due to higher revenues of 49 million in Intel and Cyber from classified program growth and 18 million in Mission Networks, which is our FAA mission-critical safety of flight business, from higher volumes, offset by lower revenues in Advanced Combat Systems of 42 million from the divestiture of the Antenna Disposal Group and 15 million from lower F-35 related volumes as TR-3 development ramps down as well as 25 million in Space Systems primarily due to a non-recurring license sale during the quarter ended September 29, 2023 and challenges on classified development programs leading to slowed growth during the quarter ended September 27, 2024. 
+ SAS segment operating income decreased for the quarter ended September 27, 2024 compared with the quarter ended September 29, 2023 primarily due to a non-recurring license sale during the quarter ended September 29, 2023 and challenges on classified development programs in Space Systems, partially offset by growth in both Intel and Cyber and Mission Networks and LHX NeXt driven cost savings realized during the quarter ended September 27, 2024. 
+ Three Quarters Ended Comparison. SAS segment revenue increased for the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 primarily due to higher revenues of 114 million and 55 million in Intel and Cyber and Space Systems, respectively, from program growth and 40 million in Mission Networks from higher volumes, partially offset by lower revenues in Advanced Combat Systems of 71 million from lower volumes and 60 million from the divestiture of the Antenna Disposal Group. 
+ SAS segment operating income increased for the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 primarily due to a 27 million non-cash charge for impairment of other assets, partially offset by a non-recurring license sale both of which occurred during the three quarters ended September 29, 2023, in addition to growth in Space Systems and LHX NeXt driven cost savings realized during the three quarters ended September 27, 2024. 
+ IMS Segment 
+ Quarter Ended Three Quarters Ended (Dollars in millions) September 27, 2024 September 29, 2023 Inc/(Dec) September 27, 2024 September 29, 2023 Inc/(Dec) Revenue 1,671 1,568 7 5,069 5,003 1 Operating income 204 187 9 600 534 12 Operating margin 
+ 12.2 11.9 11.8 10.7 
+ Quarter Ended Comparison. IMS segment revenue increased for the quarter ended September 27, 2024 compared with the quarter ended September 29, 2023 primarily due to higher revenues of 47 million in Commercial Aviation from higher volume, 32 million in Defense Electronics from higher demand for advanced electronics for space and munitions programs and 31 million in ISR from higher aircraft missionization volume. 
+ IMS segment operating income increased for the quarter ended September 27, 2024 compared with the quarter ended September 29, 2023 primarily due to higher volume and favorable mix in CAS, improved program performance across the segment and LHX NeXt driven cost savings realized during the quarter ended September 27, 2024, partially offset by unfavorable mix impact within ISR. 
+ _____________________________________________________________________ 
+ 30 
+
+Three Quarters Ended Comparison. IMS segment revenue increased for the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 primarily due to higher revenues of 40 million in Defense Electronics from higher demand for advanced electronics for space and munitions programs, 32 million in Maritime from material volume on classified programs and 31 million in Global Optical Systems from higher commercial revenue on airborne sensors, partially offset by lower revenue of 32 million in ISR from lower aircraft procurement. 
+ IMS segment operating income increased for the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 primarily due to a 45 million increase from improved program performance during the three quarters ended September 27, 2024, a 12 million non-cash charge for impairment of other assets related to facility closures and restructuring of a customer contract during the three quarters ended September 29, 2023 and LHX NeXt driven cost savings realized during the three quarters ended September 27, 2024. 
+ CS Segment 
+ Quarter Ended Three Quarters Ended (Dollars in millions) September 27, 2024 September 29, 2023 Inc/(Dec) September 27, 2024 September 29, 2023 Inc/(Dec) Revenue 1,382 1,255 10 4,022 3,707 8 Operating income 359 282 27 998 873 14 Operating margin 
+ 26.0 22.5 24.8 23.6 
+ Quarter Ended Comparison. CS segment revenue increased 10 for the quarter ended September 27, 2024 compared with the quarter ended September 29, 2023 primarily due to higher revenues of 71 million in Tactical Communications and 31 million in Integrated Vision Solutions associated with increased demand for our resilient communication equipment, related waveforms, and night vision devices and 27 million in Broadband Communications from higher volumes. 
+ CS segment operating income increased for the quarter ended September 27, 2024 compared with the quarter ended September 29, 2023 primarily due to higher volumes, favorable high margin international mix, proprietary waveform license sales and LHX NeXt driven cost savings realized during the quarter ended September 27, 2024. 
+ Three Quarters Ended Comparison. CS segment revenue increased for the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 primarily due to higher revenues of 146 million in Tactical Communications and 83 million in Integrated Vision Solutions associated with increased domestic and international demand for our resilient communication equipment, related waveforms, and night vision devices and 88 million in Broadband Communications from higher volumes. 
+ CS segment operating income increased for the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 primarily due to higher volumes and LHX NeXt driven cost savings realized during the three quarters ended September 27, 2024, partially offset by a decrease from unfavorable mix of higher DoD sales in Tactical Communication during the three quarters ended September 27, 2024. 
+ AR Segment 
+ Quarter Ended Three Quarters Ended (Dollars in millions) September 27, 2024 September 29, 2023 Inc/(Dec) September 27, 2024 September 29, 2023 Inc/(Dec) Revenue 596 455 31 1,719 455 Operating income 75 56 34 222 56 Operating margin 
+ 12.6 12.3 12.9 12.3 _______________ 
+ Not meaningful 
+ AR segment revenue increased for the quarter and three quarters ended September 27, 2024 compared with the quarter and three quarters ended September 29, 2023 primarily due to the AR Partial Quarter in 2023. 
+ AR segment operating income increased for the quarter and three quarters ended September 27, 2024 compared with the quarter and three quarters ended September 29, 2023 primarily due to the AR Partial Quarter in 2023. 
+ _____________________________________________________________________ 
+ 31 
+
+Unallocated Corporate Expenses Quarter Ended Three Quarters Ended (In millions) September 27, 2024 September 29, 2023 September 27, 2024 September 29, 2023 Unallocated corporate department (expense) income, net (1) 
+ (40) 14 (106) (27) Amortization of acquisition-related intangibles (2) 
+ (210) (208) (642) (546) Additional cost of revenue related to the fair value step-up in inventory sold (30) Merger, acquisition, and divestiture-related expenses (25) (56) (86) (144) Asset group and business divestiture-related losses, net (3) 
+ (29) (53) 26 Impairment of goodwill and other assets (4) 
+ (14) (39) LHX NeXt implementation costs (5) 
+ (41) (33) (216) (68) FAS/CAS operating adjustment (6) 
+ 7 27 20 72 Total unallocated corporate expenses (338) (256) (1,097) (756) _______________ 
+ (1) Includes corporate items such as a portion of management and administration, legal, environmental, compensation, retiree benefits, other corporate expenses and eliminations. For the quarter and three quarters ended September 27, 2024, includes expense of 19 million and 42 million, respectively, from changes in the fair value of our deferred compensation plan liabilities. Additionally, for the three quarters ended September 27, 2024, includes expense of 15 million associated with an increase in legal reserve. For the quarter and three quarters ended September 29, 2023, includes income of 7 million and expense of 19 million, respectively, from changes in the fair value of our deferred compensation plan liabilities. 
+ (2) Includes amortization of identifiable intangible assets acquired in connection with business combinations. Because our acquisitions benefited the entire Company, the amortization of identifiable intangible assets acquired was not allocated to any segment. 
+ (3) See Note O: Acquisitions and Divestitures in the Notes for further information. 
+ (4) For the three quarters ended September 27, 2024, includes a non-cash charge for impairment of goodwill related to our Antenna Disposal Group divestiture. See Note O: Acquisitions and Divestitures and Note E: Goodwill and Intangible Assets in the Notes for further information related to the Antenna Disposal Group. For the three quarters ended September 29, 2023, includes a 21 million non-cash charge for impairment of in-process R D associated with a facility closure and an 18 million non-cash charge for impairment of a customer contract. 
+ (5) Includes costs associated with transforming multiple functions, systems and processes to increase agility and competitiveness, including third-party consulting, workforce optimization and incremental IT expenses for implementation of new systems. For further information on our LHX NeXt initiative and implementation costs see Note N: Restructuring and Other Exit Costs in the Notes and the General and Administrative Expenses discussion above in this MD A. 
+ (6) Represents the difference between the service cost component of net periodic benefit income under our pension and OPEB plans and total CAS pension and OPEB cost. See Note P: Business Segment Information in the Notes for additional information regarding the FAS/CAS operating adjustment. 
+ 
+ LIQUIDITY, CAPITAL RESOURCES AND FINANCIAL STRATEGIES 
+ Cash Flows Three Quarters Ended (In millions) September 27, 2024 September 29, 2023 Cash and cash equivalents, beginning of period 560 880 Operating Activities: Net income 1,056 1,072 Non-cash adjustments 1,243 569 Changes in working capital (358) (94) Other, net (511) (240) Net cash provided by operating activities 1,430 1,307 Net cash used in investing activities (151) (6,938) Net cash (used in) provided by financing activities (1,309) 5,254 Effect of exchange rate changes on cash and cash equivalents 9 (4) Net decrease in cash and cash equivalents (21) (381) Cash and cash equivalents, end of period 539 499 
+ _____________________________________________________________________ 
+ 32 
+
+Net cash provided by operating activities: The 123 million increase in net cash provided by operating activities in the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 was primarily due to decreases in transaction costs related to the AJRD acquisition, partially offset by 264 million more cash used to fund net working capital (i.e., receivables, contract assets, inventories, accounts payable and contract liabilities), primarily due to timing. 
+ Net cash used in investing activities : The 6,787 million decrease in net cash used in investing activities in the three quarters ended September 27, 2024 compared with the three quarters ended September 29, 2023 was primarily due to the 6,688 million cash used for the acquisitions of Viasat, Inc. s Tactical Data Links and AJRD, in addition to an 87 million increase in net cash proceeds from sale of businesses during the three quarters ended September 27, 2024. 
+ Net cash (used in) provided by financing activities : The 6,563 million change in net cash used in financing activities in the three quarters ended September 27, 2024 compared with net cash provided by financing activities in the three quarters ended September 29, 2023 was primarily due to decreases in net proceeds from borrowings and net proceeds from issuance of commercial paper of 4,742 million and 2,455 million, respectively, partially offset by the decrease in repayments of borrowings of 550 million and the increase in proceeds from exercises of employee stock options of 93 million. See Note G: Debt and Credit Arrangements in the Notes for further information. 
+ Cash and Cash Equivalents 
+ At September 27, 2024, we had cash and cash equivalents of 539 million, of which 263 million was held by our foreign subsidiaries, a significant portion of which we believe can be repatriated to the U.S. with minimal tax cost. 
+ Capital Structure and Resources 
+ Described below are significant changes to our credit arrangements and debt during the three quarters ended September 27, 2024. 
+ Credit Agreements 
+ On January 26, 2024, we replaced the 2023 Credit Agreement with the 2024 Credit Agreement. At September 27, 2024, we had no outstanding borrowings under either our 2024 Credit Agreement or our 2022 Credit Agreement, and had available borrowing capacity of 2.3 billion, net of outstanding CP Program borrowings, and we re in compliance wit h all covenants under both aforementioned credit agreements. 
+ CP Program 
+ Under the CP Program, we may issue unsecured commercial paper notes up to a maximum aggregate amount of 3.0 billion. Subject to notice and certain other requirements of the CP Program, we may increase the aggregate amount available for issuance up to 3.5 billion. From time to time, we use borrowings under the CP Program for general corporate purposes, including the funding of acquisitions, debt repayment, dividend payments and repurchases of our common stock. 
+ During the three quarters ended September 27, 2024, we had a maximum outstanding balance of 2.8 billion and a daily average outstanding balance of 2.3 billion under our CP Program. We expect balances under the CP Program to remain elevated as compared to historical norms through fiscal 2025. For further information about our Credit Agreements and CP Program, see Note G: Debt and Credit Arrangements in the Notes. 
+ Debt 
+ At September 27, 2024, we had 11.7 billion of outstanding long-term debt, net, including the current portion of long-term debt, net and financing lease obligations, the majority of which we incurred in connection with merger and acquisition activity. 
+ During the three quarters ended September 27, 2024, we closed the issuance and sale of 2.25 billion aggregate principal amount of the March Issued 2024 Notes and used the proceeds to repay the entire outstanding 2.25 billion drawn on Term Loan 2025. Additionally, we repaid the 350 million aggregate principal amount of our 3.95 2024 Notes and closed the issuance and sale of 600 million aggregate principal amount of the 5.50 2054 Notes. We used net proceeds from the 5.50 2054 Notes to repay borrowings under our CP Program and intend to use such proceeds to repay the 3.832 2025 Notes upon maturity. For further information about our long-term debt, see Note G: Debt and Credit Arrangements in the Notes and Note 8: Debt and Credit Arrangements in our Fiscal 2023 Form 10-K. 
+ _____________________________________________________________________ 
+ 33 
+
+Liquidity Assessment 
+ Given our current cash position, outlook for funds generated from operations, credit ratings, available credit facilities, cash needs and debt structure, we have not experienced to date, and do not expect to experience, any material issues with liquidity for the next twelve months and in the longer term, although, we can give no assurances concerning our future liquidity, particularly in light of our overall level of debt. See Part I. Item 1A. Risk Factors in our Fiscal 2023 Form 10-K. 
+ Based on our current business plan and revenue prospects, we believe that our existing cash, funds generated from operations, availability under our senior unsecured credit facilities and our CP Program and access to the public and private debt and equity markets will be sufficient to provide for our anticipated working capital requirements, capital expenditures and repayments of our debt securities at maturity for the next twelve months and the reasonably foreseeable future thereafter. 
+ Our total additions of property, plant and equipment net of proceeds from the sale of property, plant and equipment for fiscal 2024 are expected to be approximately 2 of revenue. Other than operating expenses, cash uses for fiscal 2024 are expected to consist primarily of additions of property, plant and equipment, dividend payments, debt repayments, LHX NeXt implementation costs and repurchases under our share repurchase program. See Capital Structure and Resources and Material Cash Requirements and Commercial Commitments in Part II. Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations in our Fiscal 2023 Form 10-K for further information regarding our cash requirements. 
+ Funding of Pension Plans 
+ With respect to our U.S. qualified defined benefit pension plans, we intend to contribute annually no less than the required minimum funding thresholds. We do not expect to make material contributions to these plans in fiscal 2024. 
+ Future required contributions primarily will depend on the actual annual return on assets and the discount rate used to measure the benefit obligation at the end of each year. Depending on these factors, and the resulting funded status of our pension plans, the level of future statutory required minimum contributions could be material. We had net defined benefit plan assets of 291 million as of September 27, 2024. See Note 9: Retirement Benefits in our Fiscal 2023 Form 10-K and Note H: Retirement Benefits in the Notes for further information regarding our pension plans. 
+ Common Stock Repurchases 
+ During the three quarters ended September 27, 2024, we used 512 million to repurchase 2.3 million shares of our common stock under our share repurchase program at an average price per share of 220.18, including commissions of 0.02 per share. During the three quarters ended September 27, 2024, 28 million in shares of our common stock were delivered to us or withheld by us to satisfy withholding taxes on employee share-based awards. Shares repurchased by us are cancelled and retired. 
+ At September 27, 2024 , we had a remaining unused authorization under our repurchase program of 3.4 billion . See Liquidity, Capital Resources and Financial Strategies in our Part II. Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations in our Fiscal 2023 Form 10-K and Part II. Item 2. Unregistered Sales of Equity Securities and Use of Proceeds of this Report for further information regarding common stock repurchases . 
+ Dividends 
+ On February 23, 2024, we announced that our Board of Directors Board increased the quarterly per share cash dividend rate on our common stock from 1.14 to 1.16, commencing with the dividend declared by our Board for the first quarter of fiscal 2024, for an annualized per share cash dividend rate of 4.64. See Part II. Item 5. Market for Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities in our Fiscal 2023 Form 10-K for further information regarding our dividends. 
+ Material Cash Requirements and Commercial Commitments 
+ The amounts disclosed in our Fiscal 2023 Form 10-K include our material cash requirements and commercial commitments. Except for the level of indebtedness under our CP Program, the issuance of the 5.50 2054 Notes and the establishment of our new 2024 Credit Facility, there were no material changes to our material cash requirements from contractual cash obligations to repay debt, to purchase goods and services or to make payments under operating leases or our commercial commitments; or in our contingent liabilities on outstanding surety bonds, standby letters of credit agreements or other arrangements with financial institutions and customers primarily relating to the guarantee of future performance on certain contracts to provide products and services to customers 
+ _____________________________________________________________________ 
+ 34 
+
+or to obtain insurance policies with our insurance carriers as disclosed in our Fiscal 2023 Form 10-K. Further information about our Credit Agreements and CP Program can be found in Capital Structure and Resources in this MD A and Note G: Debt and Credit Arrangements in the Notes. 
+ There can be no assurance that our business will continue to generate cash flows at current levels or that the cost or availability of future borrowings, if any, under our CP Program, credit facilities, or in the debt markets will not be impacted by any potential future credit or capital markets disruptions. If we are unable to maintain cash balances, generate cash flow from operations, borrow under our CP Program or increase the aggregate amount available under our CP Program or our credit facilities sufficient to service our obligations, we may be required to reduce capital expenditures, reduce or terminate our share repurchases, obtain additional financing or sell assets. Our ability to make principal payments or pay interest on or refinance our indebtedness depends on our future performance and financial results, which, to a certain extent, are subject to general conditions affecting the defense, government and other markets we serve and to general economic, political, financial, competitive, legislative and regulatory factors beyond our control. 
+ 
+ CRITICAL ACCOUNTING ESTIMATES 
+ There have been no material changes to the critical accounting estimates disclosed in Critical Accounting Estimates in Part II. Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations in our Fiscal 2023 Form 10-K, except, as set forth below. 
+ Goodwill 
+ We test our goodwill for impairment annually as of the first day of our fourth fiscal quarter, or under certain circumstances, more frequently, such as when events or circumstances indicate there may be impairment or when we reorganize our reporting structure such that the composition of one or more of our reporting units is affected. 
+ Fiscal 2024 Impairment Tests. Information on interim impairment tests can be found in our Form 10-Q for the quarter ended March 29, 2024 . These assessments indicated no impairment existed. 
+ Impact of Recently Issued Accounting Pronouncements 
+ There have been no new accounting pronouncements which became effective during the three quarters ended September 27, 2024 that have had a material impact on our Condensed Consolidated Financial Statements. 
+ 
+ ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+ In the normal course of business, we are exposed to the risks associated with foreign currency exchange rates and changes in interest rates and market return fluctuations on our defined benefit plans. Other than the debt refinanced and the issuance of the new debt as discussed in the Liquidity and Capital Resources section of Part I. Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations above, there were no material changes during the three quarters ended September 27, 2024, with respect to the information appearing in Part II. Item 7A. Quantitative and Qualitative Disclosures About Market Risk in our Fiscal 2023 Form 10-K. 
+ 
+ ITEM 4. CONTROLS AND PROCEDURES. 
+ Evaluation of Disclosure Controls and Procedures 
+ As required by Rule 13a-15 under the Exchange Act, as of September 27, 2024, we carried out an evaluation of the effectiveness of the design and operation of our disclosure controls and procedures. This evaluation was carried out under the supervision and with the participation of our management, including our Chief Executive Officer CEO and our Chief Financial Officer CFO ). Based on this work and other evaluation procedures, our management, including our CEO and CFO, has concluded that as of September 27, 2024, our disclosure controls and procedures were effective at the reasonable assurance level. 
+ Changes in Internal Control 
+ As part of our acquisition of AJRD, we are in the process of incorporating our controls and procedures with respect to AJRD s operations, and we will include internal controls with respect to AJRD s operations in our assessment of the effectiveness of our internal control over financial reporting ICFR as of the end of fiscal 2024. Other than changes related to incorporating our controls and procedures with respect to AJRD operations, there have been no changes in our ICFR that occurred during the quarter ended September 27, 2024 that have materially affected, or are reasonably likely to materially affect, our ICFR. 
+ _____________________________________________________________________ 
+ 35 
+
+PART II. OTHER INFORMATION 
+ 
+ ITEM 1. LEGAL PROCEEDINGS. 
+ See Note Q: Legal Proceedings and Contingencies in the Notes for discussion regarding material legal proceedings and contingencies. Except as set forth in such discussion, there have been no material developments in legal proceedings as reported in Part I. Item 3. Legal Proceedings in our Fiscal 2023 Form 10-K. 
+ 
+ ITEM 1A. RISK FACTORS. 
+ Investors should carefully review and consider the information regarding certain factors that could materially affect our business, results of operations, financial condition, cash flows and equity as set forth in Part I. Item 1A. Risk Factors in our Fiscal 2023 Form 10-K. There have been no material changes to the risk factors disclosed in our Fiscal 2023 Form 10-K. We may disclose changes to our risk factors or disclose additional risk factors from time to time in our future filings with the SEC. Additional risks and uncertainties not presently known to us or that we currently believe not to be material also may adversely impact our business, financial condition, results of operations, cash flows and equity. 
+ 
+ ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS. 
+ Issuer Purchases of Equity Securities 
+ The following table sets forth information with respect to repurchases by us of our common stock during the quarter ended September 27, 2024: 
+ Period Total number of shares purchased Average price paid per share Total number of 
+ shares purchased 
+ as part of publicly 
+ announced plans or programs (1) 
+ Maximum approximate dollar value of shares that may 
+ yet be purchased under the plans or programs (1) 
+ in millions) 
+ Month No. 1 (June 29, 2024 - July 26, 2024) Repurchase program (1) 
+ 359,300 231.20 359,300 3,529 Employee transactions (2) 
+ 273 230.72 Month No. 2 (July 27, 2024 - August 23, 2024) Repurchase program (1) 
+ 424,935 227.72 424,935 3,432 Employee transactions (2) 
+ 3,910 229.73 Month No. 3 (August 24, 2024 - September 27, 2024) Repurchase program (1) 
+ 45,000 225.10 45,000 3,422 Employee transactions (2) 
+ 2,965 232.25 Total 836,383 829,235 3,422 
+ _______________ 
+ Periods represent our fiscal months. 
+ (1) On October 21, 2022, we announced that our Board approved a 3.0 billion share repurchase authorization under our share repurchase program that was in addition to the remaining unused authorization of 1.5 billion at that time. 
+ (2) Represents shares of our common stock delivered to us in satisfaction of the tax withholding obligation of holders of performance share units or restricted stock units that vested during the quarter. Our stock incentive plans provide that the value of shares delivered to us to pay the exercise price of options or to cover tax withholding obligations shall be the closing price of our common stock on the date the relevant transaction occurs. 
+ Sales of Unregistered Equity Securities 
+ During the quarter ended September 27, 2024, we did not issue or sell any unregistered equity securities. 
+ _____________________________________________________________________ 
+ 36 
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES. 
+ None. 
+ 
+ ITEM 4. MINE SAFETY DISCLOSURES. 
+ Not applicable. 
+ 
+ ITEM 5. OTHER INFORMATION. 
+ Securities Trading Plans of Directors and Executive Officers 
+ We require all executive officers and directors to effect purchase and sale transactions in L3Harris securities pursuant to a trading plan (each, a 10b5-1 Plan intended to satisfy the requirements of Rule 10b5-1 under the Exchange Act Rule 10b5-1 ). We limit executive officers to a single 10b5-1 Plan in effect at any time, subject to limited exceptions in accordance with Rule 10b5-1. 
+ or by our executive officers and directors during the quarter ended September 27, 2024: 
+ Name and title Date of adoption of 10b5-1 Plan (1) 
+ Scheduled expiration date of 10b5-1 Plan (2) 
+ Aggregate number of shares of common stock to be purchased or sold (3) 
+ 
+ Up to shares underlying options expiring in 2027 
+ 
+ Up to shares, including 3,250 shares underlying options expiring in 2027 
+ _______________ 
+ (1) Transactions under each Rule 10b5-1 Plan commence no earlier than 90 days after adoption, or such later date as required by Rule 10b5-1. 
+ (2) Each Rule 10b5-1 Plan may expire on such earlier date as all transactions are completed. 
+ (3) Each Rule 10b5-1 Plan provides for shares to be sold on multiple predetermined dates. 
+ 
+ ITEM 6. EXHIBITS. 
+ The following exhibits are filed herewith or are incorporated herein by reference to exhibits previously filed with the SEC 
+ 4 . 1 Form of 5.500 Global Note due 2054, incorporated herein by reference to Exhibit 4.1 to L3Harris Technol ogies , Inc . s Current Report on Form 8-K filed with the SEC on August 2, 2024 . 
+ (10. 1 Amendment Number 3 to the L3Harris Technologies, Inc. Re tirement Savings Plan (Amended and Restated Effective January 1, 2024), dated July 24 , 2024. 
+ (10. 2 Amendment Number 4 to the L3Harris Technologies, Inc. Retirement Savings Plan (Amended and Restated Effective January 1, 2024), dated September 4, 2024. 
+ (15) Letter Regarding Unaudited Interim Financial Information. 
+ (31.1) Rule 13a-14(a)/15d-14(a) Certification of Chief Executive Officer. 
+ (31.2) Rule 13a-14(a)/15d-14(a) Certification of Chief Financial Officer. 
+ (32.1) Section 1350 Certification of Chief Executive Officer. 
+ (32.2) Section 1350 Certification of Chief Financial Officer. 
+ (101) The financial information from L3Harris Technologies, Inc. s Quarterly Report on Form 10-Q for the fiscal quarter ended September 27, 2024 formatted in Inline XBRL (Extensible Business Reporting Language) includes: (i) the Condensed Consolidated Statement of Operations, (ii) the Condensed Consolidated Statement of Comprehensive Income , (iii) the Condensed Consolidated Balance Sheet, (iv) the Condensed Consolidated Statement of Cash Flows, (v) the Condensed Consolidated Statement of Equity, and (vi) the Notes to Condensed Consolidated Financial Statements. 
+ (104) Cover Page Interactive Data File formatted in Inline XBRL and contained in Exhibit 101. 
+ _____________________________________________________________________ 
+ 37 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this Report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ L3HARRIS TECHNOLOGIES, INC. (Registrant) Date: October 25, 2024 By: /s/ KENNETH L. BEDINGFIELD Kenneth L. Bedingfield Senior Vice President and Chief Financial Officer (Principal Financial Officer and Duly Authorized Officer) 
+ _____________________________________________________________________ 
+ 38 
+
+<EX-10.1>
+ 2
+ exhibit101-rspamendmentthr.htm
+ EX-10.1
+
+Document 
+
+Exhibit 10.1 
+
+ AMENDMENT NUMBER THREE 
+ TO THE 
+ L3HARRIS RETIREMENT SAVINGS PLAN 
+ 
+ WHEREAS, L3Harris Technologies, Inc., a Delaware corporation L3Harris ), heretofore has adopted and maintains the L3Harris Retirement Savings Plan, as amended and restated effective January 1, 2024 (the Plan 
+ 
+ WHEREAS, pursuant to Section 17.1 of the Plan, the Employee Benefits Committee of L3Harris (the Committee has the authority to amend the Plan 
+ 
+ WHEREAS, pursuant to Section 13.3 of the Plan, the Committee has delegated certain of such amendment authority to the head of global benefits of L3Harris (currently, the Senior Director, Global Benefits, Global Total Rewards) (the Head of Global Benefits and 
+ 
+ WHEREAS, the Head of Global Benefits desires to amend the Plan to provide for the automatic enrollment of part-time, temporary, intern and co-op employees if such employees do not make affirmative deferral elections at the time of hire. 
+ 
+ NOW, THEREFORE, BE IT RESOLVED, that the Plan hereby is amended, effective as of August 5, 2024 , as follows 
+ 
+ 1. The definition of Full-Time Employee set forth in Article 2 hereby is deleted. 
+ 
+ 2. Section 3.2(b) hereby is amended in its entirety to read as follows 
+ 
+ (b) Deemed Election . Except as otherwise provided in a Schedule or an Appendix for a specified group of Employees, a Participant who does not at the time and in the manner prescribed by the Administrative Committee elect otherwise (including for this purpose a reemployed Eligible Employee who does not elect otherwise following the Eligible Employee s reemployment date) shall be deemed to have elected to make pre-tax contributions to the Plan each payroll period at the rate of 6 of the Participant s Compensation for such payroll period and to have authorized the Participant s Employer to reduce his or her Compensation by the amount thereof. Any deemed election described in this Section 3.2(b) shall be effective only with respect to Compensation not currently available to the Participant as of the effective date of the deemed election and shall be effective thirty-five (35) days following the date that the Participant first performs an Hour of Service, or as soon as administratively practicable thereafter. 
+ 
+ This Section 3.2(b) shall not apply to a n Employee hired prior to August 5, 2024 who at the time of hire (i) was scheduled by an Employer to regularly work fewer than 30 hours per week or (ii) was designated on Employer payroll records as a temporary employee, intern, or co-op employee. 
+
+Exhibit 10.1 
+
+ 3. The phrase deemed elections to participate in the Plan by Full-Time Employees hereby is replaced with deemed elections to participate in the Plan each time it appears in the Plan. 
+ 
+ APPROVED by the HEAD OF GLOBAL BENEFITS on this 24 th day of July, 2024. 
+ 
+ s Allison Once 
+ Allison Oncel 
+
+SIGNATURE PAGE TO AMENDMENT NUMBER THREE 
+ TO L3HARRIS RETIREMENT SAVINGS PLAN 
+
+</EX-10.1>
+
+<EX-10.2>
+ 3
+ exhibit102-rspamendmentfou.htm
+ EX-10.2
+
+Document 
+
+Exhibit 10.2 
+
+ AMENDMENT NUMBER 4 
+ TO THE 
+ L3HARRIS RETIREMENT SAVINGS PLAN 
+ 
+ WHEREAS, L3Harris Technologies, Inc., a Delaware corporation L3Harris ), heretofore has adopted and maintains the L3Harris Retirement Savings Plan, as amended and restated effective January 1, 2024 (the Plan 
+ 
+ WHEREAS, pursuant to Section 17.1 of the Plan, the Employee Benefits Committee of L3Harris (the Committee has the authority to amend the Plan 
+ 
+ WHEREAS, pursuant to Section 13.3 of the Plan, the Committee has delegated certain of such amendment authority to the head of global benefits of L3Harris (currently, the Senior Director, Global Benefits, Global Total Rewards) (the Head of Global Benefits 
+ 
+ WHEREAS, L3Harris has entered into a Share and Asset Purchase Agreement with Horizon CTS Buyer, LLC Purchaser dated as of November 21, 2023 pursuant to which L3Harris and its subsidiaries are selling to Purchaser L3Harris avionics, data analytics and commercial training solutions businesses (excluding the Mission Networks, Mission Avionics and Advanced Combat Systems sectors) (such agreement, as it may be amended from time to time, the CAS Purchase Agreement 
+ 
+ WHEREAS, as a result of such sale all Continuing U.S. Employees (for all purposes of this Amendment, as such term is defined in the CAS Purchase Agreement) currently eligible to participate in the Plan will cease to participate in the Plan 
+ 
+ WHEREAS, the CAS Purchase Agreement provides that effective as of the Closing Date (for all purposes of this Amendment, as such term is defined in the CAS Purchase Agreement), each Continuing U.S. Employee shall become fully vested in his or her account balance in the Plan and 
+ 
+ WHEREAS, the Head of Global Benefits desires to amend the Plan to reflect the above-described term of the CAS Purchase Agreement. 
+ 
+ NOW, THEREFORE, BE IT RESOLVED, that Schedule B of the Plan, Special Rules Applying to Divestiture Accounts and Divestiture Participants, is hereby amended, contingent upon the occurrence of the Closing (as such term is defined in the CAS Purchase Agreement) and effective as of the Closing Date, to add a new paragraph at the end thereof as follows 
+ 
+ 16. Divestiture of Commercial Aviation Solutions (CAS) Business 
+ 
+ (a) In General . The Company has entered into a Share and Asset Purchase Agreement with Horizon CTS Buyer, LLC dated as of November 21, 2023 pursuant to which the Company and its subsidiaries are selling the Company s avionics, data 
+
+Exhibit 10.2 
+
+ analytics and commercial training solutions businesses (excluding the Mission Networks, Mission Avionics and Advanced Combat Systems sectors) (such agreement, as it may be amended from time to time, the CAS Purchase Agreement ). 
+ (b) Vesting . Notwithstanding any other provision in the Plan, effective as of the Closing Date (as such term is defined in the CAS Purchase Agreement), the Continuing U.S. Employees (as such term is defined in the CAS Purchase Agreement) shall be 100 vested in their Accounts under the Plan. 
+ APPROVED by the HEAD OF GLOBAL BENEFITS on this 4th day of September, 2024. 
+ 
+ s Allison Oncel 
+ Allison Oncel 
+ VP, Global Benefits, Global Total Rewards 
+
+SIGNATURE PAGE TO AMENDMENT NUMBER 4 
+
+Exhibit 10.2 
+
+ TO L3HARRIS RETIREMENT SAVINGS PLAN 
+
+</EX-10.2>
+
+<EX-15>
+ 4
+ exhibit15cy24-q310xq.htm
+ EX-15
+
+Document 
+ Exhibit 15 
+
+ Acknowledgment of Independent Registered Public Accounting Firm 
+ To the Shareholders and Board of Directors of L3Harris Technologies, Inc. 
+ We are aware of the incorporation by reference of our report dated October 25, 2024, relating to the unaudited condensed consolidated interim financial statements of L3Harris Technologies, Inc. that is included in its Form 10-Q for the quarter ended September 27, 2024, in the following Registration Statements of L3Harris Technologies, Inc. 
+ Form S-8 No. 333-279040 L3Harris Technologies, Inc. 2024 Equity Incentive Plan Form S-3 No. 333-270103 L3Harris Technologies, Inc. Debt Securities, Preferred Stock, Common Stock, Depositary Shares and Warrants Form S-8 No. 333-268794 L3Harris Technologies, Inc. Retirement Savings Plan Form S-8 No. 333-232482 L3 Technologies, Inc. Amended and Restated 2008 Long Term Performance Plan L3 Technologies, Inc. Master Savings Plan Aviation Communications & Surveillance Systems 401(k) Plan Form S-8 No. 333-222821 Harris Corporation Retirement Plan Form S-8 No. 333-192735 Harris Corporation Retirement Plan Form S-8 No. 333-163647 Harris Corporation Retirement Plan Form S-8 No. 333-75114 Harris Corporation Retirement Plan Form S-8 No. 333-130124 Harris Corporation 2005 Equity Incentive Plan Form S-8 No. 333-207774 L3Harris Technologies, Inc. 2015 Equity Incentive Plan 
+ 
+ s Ernst & Young LLP 
+ Orlando, Florida 
+ October 25, 2024 
+
+</EX-15>
+
+<EX-31.1>
+ 5
+ exhibit311cy24-q310xq.htm
+ EX-31.1
+
+Document 
+ Exhibit 31.1 
+
+ CERTIFICATION 
+ I, Christopher E. Kubasik, Chair and Chief Executive Officer of L3Harris Technologies, Inc., certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of L3Harris Technologies, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date October 25, 2024 s Christopher E. Kubasik Name Christopher E. Kubasik Title Chair and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 6
+ exhibit312cy24-q310xq.htm
+ EX-31.2
+
+Document 
+ Exhibit 31.2 
+
+ CERTIFICATION 
+ I, Kenneth L. Bedingfield, Senior Vice President and Chief Financial Officer of L3Harris Technologies, Inc., certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of L3Harris Technologies, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ Date October 25, 2024 s Kenneth L. Bedingfield Name Kenneth L. Bedingfield Title Senior Vice President and Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 7
+ exhibit321cy24-q310xq.htm
+ EX-32.1
+
+Document 
+ Exhibit 32.1 
+
+ Certification 
+ Pursuant to Section 1350 of Chapter 63 of Title 18 of the 
+ United States Code as Adopted Pursuant to Section 906 
+ of the Sarbanes-Oxley Act of 2002 
+ In connection with the filing of the Quarterly Report on Form 10-Q of L3Harris Technologies, Inc. L3Harris ), as filed with the Securities and Exchange Commission on the date hereof (the Report ), the undersigned, Christopher E. Kubasik, Chair and Chief Executive Officer of L3Harris, hereby certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934, as amended and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of L3Harris as of the dates and for the periods expressed in the Report. 
+ Date October 25, 2024 s Christopher E. Kubasik Name Christopher E. Kubasik Title Chair and Chief Executive Officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 8
+ exhibit322cy24-q310xq.htm
+ EX-32.2
+
+Document 
+ Exhibit 32.2 
+
+ Certification 
+ Pursuant to Section 1350 of Chapter 63 of Title 18 of the 
+ United States Code as Adopted Pursuant to Section 906 
+ of the Sarbanes-Oxley Act of 2002 
+ In connection with the filing of the Quarterly Report on Form 10-Q of L3Harris Technologies, Inc. L3Harris ), as filed with the Securities and Exchange Commission on the date hereof (the Report ), the undersigned, Kenneth L. Bedingfield, Senior Vice President and Chief Financial Officer of L3Harris, hereby certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ (1) The Report fully complies with the requirements of Section 13(a) or 15(d), as applicable, of the Securities Exchange Act of 1934, as amended and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of L3Harris as of the dates and for the periods expressed in the Report. 
+ Date October 25, 2024 s Kenneth L. Bedingfield Name Kenneth L. Bedingfield Title Senior Vice President and Chief Financial Officer 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 9
+ hrs-20240927.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 10
+ hrs-20240927_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 11
+ hrs-20240927_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 12
+ hrs-20240927_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 13
+ hrs-20240927_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

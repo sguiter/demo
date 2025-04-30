@@ -1,0 +1,996 @@
+<Header>
+<FileStats>
+    <FileName>20241108_10-Q_edgar_data_1816581_0001628280-24-046736.txt</FileName>
+    <GrossFileSize>9097594</GrossFileSize>
+    <NetFileSize>140650</NetFileSize>
+    <NonText_DocumentType_Chars>1603134</NonText_DocumentType_Chars>
+    <HTML_Chars>3013198</HTML_Chars>
+    <XBRL_Chars>2336512</XBRL_Chars>
+    <XML_Chars>1837909</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001628280-24-046736.hdr.sgml : 20241108
+<ACCEPTANCE-DATETIME>20241108171632
+ACCESSION NUMBER:		0001628280-24-046736
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		87
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241108
+DATE AS OF CHANGE:		20241108
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ouster, Inc.
+		CENTRAL INDEX KEY:			0001816581
+		STANDARD INDUSTRIAL CLASSIFICATION:	GENERAL INDUSTRIAL MACHINERY & EQUIPMENT, NEC [3569]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-39463
+		FILM NUMBER:		241441836
+
+	BUSINESS ADDRESS:	
+		STREET 1:		350 TREAT AVENUE
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94110
+		BUSINESS PHONE:		(415) 987-6972
+
+	MAIL ADDRESS:	
+		STREET 1:		350 TREAT AVENUE
+		CITY:			SAN FRANCISCO
+		STATE:			CA
+		ZIP:			94110
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Colonnade Acquisition Corp.
+		DATE OF NAME CHANGE:	20200701
+
+</SEC-Header>
+</Header>
+
+ 0001628280-24-046736.txt : 20241108
+
+10-Q
+ 1
+ oust-20240930.htm
+ 10-Q
+
+oust-20240930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ _______________________ 
+ FORM 
+ _______________________ 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR 
+ 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ 
+ For the transition period from to 
+ Commission File Number: 
+ _______________________ 
+ 
+ (Exact name of registrant as specified in its charter) 
+ _______________________ 
+
+(State or other jurisdiction 
+ of incorporation) 
+ (I.R.S. Employer 
+ Identification No.) 
+
+, 
+ (Address of principal executive offices) (Zip Code) 
+ ) 
+ (Registrant s telephone number, including area code) 
+ N/A 
+ (Former name, former address, and former fiscal year, if changed since last report) 
+ _______________________ 
+ Title of each class Trading 
+ Symbol(s) 
+ Name of each exchange 
+ on which registered 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer Accelerated filer Smaller reporting company Emerging growth company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ 
+ As of November 4, 2024, the registrant had shares of common stock, 0.0001 par value per share, outstanding. 
+ 
+ 1 
+
+Table of Contents 
+
+ TABLE OF CONTENTS 
+ Page Part I - Financial Information 
+ Item 1. 
+ Financial Statements 
+ 4 
+ Condensed Consolidated Balance Sheets (Unaudited) 
+ 4 
+ Condensed Consolidated Statements of Operations and Comprehensive Loss (Unaudited) 
+ 5 
+ Condensed Consolidated Statements of Stockholders Equity (Unaudited) 
+ 6 
+ Condensed Consolidated Statements of Cash Flows (Unaudited) 
+ 8 
+ Notes to Condensed Consolidated Financial Statement s (Unaudited) 
+ 10 
+ Item 2. 
+ Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 31 
+ Item 3. 
+ Quantitative and Qualitative Disclosures About Market Risk 
+ 44 
+ Item 4. 
+ Controls and Procedures 
+ 45 
+ Part II - Other Information 
+ Item 1. 
+ Legal Proceedings 
+ 47 
+ Item 1A. 
+ Risk Factors 
+ 47 
+ Item 2. 
+ Unregistered Sales of Equity Securities and Use of Proceeds 
+ 47 
+ Item 3. 
+ Defaults Upon Senior Securities 
+ 47 
+ Item 4. 
+ Mine Safety Disclosures 
+ 47 
+ Item 5. 
+ Other Information 
+ 47 
+ Item 6. 
+ Exhibits 
+ 48 
+ Signature 
+ 49 
+ 
+ 2 
+
+Table of Contents 
+
+ SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS 
+ 
+ This Quarterly Report on Form 10-Q Quarterly Report contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Ouster, Inc. (the Company , Ouster, or we intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act of 1933, as amended (the Securities Act ), and Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ). All statements contained in this Quarterly Report other than statements of historical fact, including, without limitation, statements regarding: expected contractual obligations and capital expenditures; the capabilities of and demand for Ouster s products; Ouster s anticipated new product launches and developments, including software-related solutions systems, and the timing for those launches and developments; Ouster s ability to grow its sales and marketing organization; Ouster s future results of operations, cash reserve and financial position; projected industry and business trends; the remediation of material weaknesses; potential risks of inventory obsolescence; Ouster s future business strategy, plans, distribution partnerships, market growth and its objectives for future operations; Ouster s competitive market position within its industry and the impact of market conditions and other macroeconomic factors on Ouster s business, financial condition and results of operation, are forward-looking statements. The words believe, may, will, estimate, continue, anticipate, intend, expect, could, would, project, plan, potentially, preliminary, likely, aim, forecast, should, can have, likely, and similar expressions are intended to identify forward-looking statements. The Company has based these forward-looking statements largely on its current expectations and projections about future events and trends that it believes may affect its financial condition, results of operations, business strategy, short-term and long-term business operations and objectives, and financial needs. These forward-looking statements speak only as of the date of this Quarterly Report and are subject to a number of risks, uncertainties, and assumptions that may cause actual results to differ materially from those that Ouster expected, including, but not limited to , Ouster s limited operating history and history of losses; its ability to successfully integrate its business with Velodyne and achieve the anticipated benefits and synergies of the Velodyne Merger; substantial research and development costs needed to develop and commercialize new products; fluctuations in its operating results; Ouster s ability to maintain competitive average selling prices or high sales volumes or reduce product costs; conditions in its customers industries; the competitive environment in which Ouster operates; the negotiating power and product standards of its customers; the creditworthiness of Ouster s customers; the ability of its lidar technology roadmap and new software solutions to catalyze growth; the selection of Ouster s products for inclusion in target markets; risks of product delivery problems or defects; costs associated with product warranties; Ouster s future capital needs and ability to secure additional capital on favorable terms or at all; inaccurate forecasts of market growth; Ouster s ability to manage growth; Ouster s ability to grow its sales and marketing organization; risks related to acquisitions; risks related to international operations and compliance; cancellation or postponement of contracts or unsuccessful implementations; Ouster s ability to maintain inventory and the risk of inventory write-downs; its ability to use tax attributes; Ouster s dependence on key third-party suppliers, in particular Benchmark Electronics, Inc. Benchmark and Fabrinet; and its supply chain constraints and challenges; risks related to Ouster s indebtedness; Ouster s ability to recruit and retain key personnel; Ouster s ability to effectively respond to evolving regulations and standards; Ouster s ability to adequately protect and enforce its intellectual property rights, including as it relates to Hesai; risks related to operating as a public company; and other important factors discussed in the Company s Annual Report on Form 10-K for the fiscal year ended December 31, 2023, that are further updated from time to time in the Company s other filings with the Securities and Exchange Commission (the SEC that may cause its actual results, performance or achievements to differ materially and adversely from those expressed or implied by the forward-looking statements. 
+ Any forward-looking statements made herein speak only as of the date of this Quarterly Report, and you should not rely on forward-looking statements as predictions of future events. Although we believe that the expectations reflected in the forward-looking statements are reasonable, we cannot guarantee that the future results, performance, or achievements reflected in the forward-looking statements will be achieved or occur. Except as required by applicable law, we undertake no obligation to update any of these forward-looking statements for any reason after the date of this Quarterly Report or to conform these statements to actual results or revised expectations. 
+ 
+ GENERAL 
+ Unless the context otherwise indicates, references in this Quarterly Report to the terms Ouster, the Company, we, our and us refer to Ouster, Inc. 
+ We may announce material business and financial information to our investors using our investor relations website at https://investors.ouster.com/overview. We therefore encourage investors and others interested in Ouster to review the information that we make available on our website, in addition to following our SEC filings, webcasts, press releases and conference calls. Information contained on our website is not part of this Quarterly Report. 
+ 3 
+
+Table of Contents 
+
+PART I. FINANCIAL INFORMATION 
+ Item 1. Financial Statements 
+ 
+ OUSTER, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (unaudited) 
+ (in thousands, except share and per share data) 
+ September 30, 2024 December 31, 2023 Assets Current assets: Cash and cash equivalents Restricted cash, current Short-term investments Accounts receivable, net Inventory Prepaid expenses and other current assets Total current assets Property and equipment, net Operating lease, right-of-use assets Unbilled receivable, non-current portion Intangible assets, net Restricted cash, non-current Other non-current assets Total assets Liabilities and stockholders equity Current liabilities: Accounts payable Accrued and other current liabilities Contract liabilities, current Operating lease liability, current portion Total current liabilities Operating lease liability, non-current portion Debt Contract liabilities, non-current portion Other non-current liabilities Total liabilities Commitments and contingencies (Note 8) 
+ par value; shares authorized at September 30, 2024 and December 31, 2023; and issued and outstanding at September 30, 2024 and December 31, 2023, respectively. 
+ Additional paid-in capital Accumulated deficit ) ) Accumulated other comprehensive (loss) income ) Total stockholders equity Total liabilities and stockholders equity 
+ 
+ The accompanying notes are an integral part of these condensed consolidated financial statements 
+ 4 
+
+Table of Contents 
+
+ OUSTER, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS 
+ (unaudited) 
+ (in thousands, except share and per share data) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Revenue Cost of revenue Gross profit Operating expenses: Research and development Sales and marketing General and administrative Goodwill impairment charges Total operating expenses Loss from operations ) ) ) ) Other income (expense): Interest income Interest expense ) ) ) ) Other income (expense), net 
+ ) ) Total other income, net Loss before income taxes ) ) ) ) Provision for income tax expense (benefit) ) Net loss ) ) ) ) Other comprehensive income (loss) Changes in unrealized gain (loss) on available for sale securities ) Foreign currency translation adjustments ) ) ) Total comprehensive loss ) ) ) ) Net loss per common share, basic and diluted Weighted-average shares used to compute basic and diluted net loss per share 
+ The accompanying notes are an integral part of these condensed consolidated financial statements 
+ 5 
+
+Table of Contents 
+
+ OUSTER, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY 
+ (unaudited) 
+ (in thousands, except share data) 
+ 
+ Common Stock Additional Paid-in- Capital Accumulated Deficit Accumulated other comprehensive income (loss) Total Stockholders Equity Shares Amount Balance December 31, 2023 ) Issuance of common stock upon exercise of stock options Issuance of restricted stock awards Proceeds from at-the-market offering, net of commissions and fees of 
+ Issuance of common stock in connection with Velodyne Merger Issuance of common stock upon vesting of restricted stock Common stock warrants issuable to customer Stock-based compensation expense Net loss ) ) Other Comprehensive loss ) ) Balance March 31, 2024 ) ) Issuance of common stock upon exercise of stock options Proceeds from at-the-market offering, net of commissions and fees of 
+ Issuance of common stock in connection with Velodyne Merger Issuance of common stock upon vesting of restricted stock Issuance of common stock to employees under employee stock purchase plan Common stock warrants issuable to customer Stock-based compensation expense Net loss ) ) Other Comprehensive loss ) ) Balance June 30, 2024 ) ) Issuance of common stock upon exercise of stock options Proceeds from at-the-market offering, net of commissions and fees of 
+ Issuance of common stock upon vesting of restricted stock Common stock warrants issuable to customer Stock-based compensation expense Net loss ) ) Other Comprehensive loss Balance September 30, 2024 ) ) 
+ 
+ 6 
+
+Table of Contents 
+
+ Common Stock Additional Paid-in- Capital Accumulated Deficit Accumulated other comprehensive income (loss) Total Stockholders Equity Shares 
+ Amount Balance December 31, 2022 ) ) Issuance of common stock upon Velodyne Merger Issuance of common stock upon exercise of stock options Issuance of common stock upon vesting of restricted stock Repurchase of common stock ) Stock-based compensation expense Vesting of early exercised stock options Net loss ) ) Other Comprehensive loss ) ) Balance March 31, 2023 ) ) Common Stock adjustment reflected as a result of the one-for-10 reverse stock split effectuated on April 6, 2023 Issuance of common stock upon exercise of stock options Issuance of common stock upon vesting of restricted stock Issuance of common stock to employees under employee stock purchase plan Common stock warrants issuable to customer Vesting of early exercised stock options Stock-based compensation expense Net loss ) ) Other Comprehensive loss ) ) Balance June 30, 2023 ) ) Proceeds from at-the-market offering, net of commissions and fees of and issuance costs of 
+ Issuance of common stock upon exercise of stock options Issuance of common stock upon exercise of restricted stock Common stock warrants issuable to customer Stock-based compensation expense Net loss ) ) Other Comprehensive loss ) ) Balance September 30, 2023 ) ) 
+ 
+ The accompanying notes are an integral part of these condensed consolidated financial statements 
+ 7 
+
+Table of Contents 
+
+ OUSTER, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (unaudited) 
+ (in thousands) 
+ Nine Months Ended September 30, 2024 2023 CASH FLOWS FROM OPERATING ACTIVITIES Net loss ) ) Adjustments to reconcile net loss to net cash used in operating activities: Goodwill impairment charges Depreciation and amortization Loss on write-off and disposal of property and equipment and right-of-use asset impairment Gain on lease termination ) Stock-based compensation Reduction of revenue related to stock warrant issued to customer Amortization of right-of-use asset Interest expense Amortization of debt issuance costs and debt discount Accretion or amortization on short-term investments ) ) Change in fair value of warrant liabilities ) ) Inventory write down Provision (recovery of) for doubtful accounts ) Realized gain on available for sale securities ) Changes in operating assets and liabilities: Accounts receivable Inventory ) Prepaid expenses and other assets Accounts payable ) Accrued and other liabilities ) ) Contract liabilities Operating lease liability ) ) Net cash used in operating activities ) ) CASH FLOWS FROM INVESTING ACTIVITIES Proceeds from sale of property and equipment Purchases of property and equipment ) ) Purchase of short-term investments ) ) Proceeds from sales of short-term investments Cash and cash equivalents acquired in the Velodyne Merger Net cash provided by investing activities CASH FLOWS FROM FINANCING ACTIVITIES Proceeds from ESPP purchase Proceeds from exercise of stock options Repayment of borrowings ) Proceeds from the issuance of common stock under at-the-market offering, net of commissions and fees At-the-market offering costs for the issuance of common stock ) ) Net cash (used) provided by financing activities ) Effect of exchange rates on cash and cash equivalents ) ) Net decrease in cash, cash equivalents and restricted cash ) ) Cash, cash equivalents and restricted cash at beginning of period Cash, cash equivalents and restricted cash at end of period 
+
+8 
+
+Table of Contents 
+
+OUSTER, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (continued) 
+ (unaudited) 
+ (in thousands) 
+
+Nine Months Ended September 30, 2024 2023 SUPPLEMENTAL DISCLOSURES OF OPERATING ACTIVITIES: Cash paid for interest SUPPLEMENTAL DISCLOSURES OF NON-CASH INVESTING AND FINANCING INFORMATION: Property and equipment purchases included in accounts payable and accrued liabilities ) Common stock shares issued in the Velodyne Merger Common stock warrants issued in the Velodyne Merger 
+
+The accompanying notes are an integral part of these condensed consolidated financial statements 
+ 9 
+
+Table of Contents 
+
+ OUSTER, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (unaudited) 
+ 
+ Note 1 
+ redeemable warrants of CLA (the CLA warrants converted automatically into a redeemable warrant to purchase share of Ouster common stock (the Public warrants pursuant to the Warrant Agreement, dated August 20, 2020 (the Warrant Agreement ), between CLA and Continental Stock Transfer Trust Company Continental ), as warrant agent and (2) each of the then issued and outstanding private placement warrants of CLA (the Private Placement warrants converted automatically into a Public warrant pursuant to the Warrant Agreement. fractional Public warrants were issued upon separation of the CLA units. 
+ On February 10, 2023, the Company completed the merger with Velodyne Lidar, Inc., a Delaware corporation Velodyne pursuant to the terms of the Agreement and Plan of Merger (the Velodyne Merger Agreement with Velodyne, Oban Merger Sub, Inc. Merger Sub I and Oban Merger Sub II LLC Merger Sub II (the Velodyne Merger dated as of November 4, 2022, accounted for as a business combination with the Company being an accounting acquirer (Note 3). 
+ 10 
+
+Table of Contents 
+
+ million. The Company has incurred losses and negative cash flows from operations for several years. If the Company continues to incur losses in the future, it may need to improve liquidity and raise additional capital through the issuance of equity and/or debt. There can be no assurance that the Company would be able to raise such capital. However, management believes that the Company s existing sources of liquidity are adequate to fund its operations for at least twelve months from the date the unaudited condensed consolidated financial statements were available for issuance. 
+ 
+ Note 2 
+ million and million, respectively. As of September 30, 2024 and December 31, 2023, the Company also had cash with financial institutions in countries other than the U.S. of approximately million and million, respectively. 
+ The Company generally does not require collateral or other security deposits for accounts receivable. 
+ days and other higher risk amounts are reviewed individually for collectability. Based on management s assessment, the Company provides for estimated uncollectible amounts through a charge to earnings and a credit to valuation allowance. Balances that remain outstanding after the Company has used reasonable collection efforts are written off through a charge to the valuation allowance and a credit to accounts receivable. 
+ 11 
+
+Table of Contents 
+
+ Customer B Customer D Customer E 
+ Revenue from the Company s major customers representing 10 or more of total revenue was as follows: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Customer E Customer F Customer D Customer G 
+ Customer accounted for less than of total revenue in the period. 
+ Concentrations of Supplier Risk 
+ Supplier B 
+ Accounts payable to the Company s major suppliers and professional services vendors representing 10 or more of total accounts payable were as follows: 
+ September 30, 2024 December 31, 2023 Supplier A Supplier B 
+ Accounted for less than of total accounts payable. 
+ 
+ Note 3. 
+ shares of the Company s common stock. Velodyne is treated as the acquired company for financial reporting purposes. This determination is primarily based on the Company s senior management prior to the Velodyne Merger comprising a majority of the senior management of the Company following the Velodyne Merger, the Company being the initiator of acquiring Velodyne and the Company being the party issuing shares in the Velodyne Merger. The acquisition price for the Velodyne Merger was million, primarily consisting of fair value of the Company s common stock issued in exchange for Velodyne shares and fair value of the Amazon Warrant (Note 7) of million. 
+ 12 
+
+Table of Contents 
+
+Amounts of identifiable assets and liabilities assumed 
+ Cash and cash equivalents Short-term investments Accounts receivable, net Inventory Prepaid expenses and other current assets Unbilled receivable, non-current portion Property and equipment, net Operating lease, right-of-use assets Intangible assets, net Other non-current assets Accounts payable ) Accrued and other current liabilities ) Contract liabilities, current ) Operating lease liability, current portion ) Operating lease liability, non-current portion ) Contract liabilities, non-current portion ) Other non-current liabilities ) Total identifiable net assets Goodwill 
+ Developed technology Software Customer relationships Intangible assets, net 
+ Developed technology relates to Velodyne s lidar sensors and BlueCity software used to monitor traffic networks and public spaces. The Company applied significant judgment in estimating the fair value of the developed technology, which involved significant assumptions related to the relief-from-royalty rate, the migration curve, the discount rate, and the economic life. The Company valued the hardware developed technology using the relief-from-royalty method under the income approach. Software developed technology was valued using the excess earnings method. The economic useful life was determined based on the technology cycle related to each developed technology, as well as the cash flows over the forecasted period. 
+ The estimated fair value of the customer relationships was determined using the distributor method, which involved significant assumptions related to the distributions margin. The Company estimated customer relationships useful life of years that approximates the pattern in which the economic benefits are expected to be realized. 
+ The estimated fair value of the inventory was determined using the comparative sales method, which estimated the expected sales price of the product, reduced by all costs expected to be incurred to complete or dispose of the inventory, as well as a profit on the sale. 
+ 13 
+
+Table of Contents 
+
+ Net loss ) ) 
+ The unaudited supplemental pro forma information above includes the following adjustments to net loss in the appropriate pro forma periods (in thousands): 
+ 
+ Three Months Ended September 30, Nine Months Ended September 30, 2023 2023 An increase in amortization expense related to the fair value of acquired identifiable intangible assets, net of the amortization expense already reflected in actual historical results ) A decrease in expenses related to the transaction expenses 
+ A net increase in revenue related to the impact of the acceleration of the Amazon Warrant vesting recognized by Velodyne at the close of the Velodyne Merger transaction A decrease in expenses related to the impact of the acceleration of the Amazon Warrant vesting recognized by Velodyne at the close of the Velodyne Merger transaction Represents decrease in additional stock-based compensation expense related to Ouster employee terminations due to change in control Represents a decrease in severance expense in connection with the Velodyne Merger transaction 
+ 
+ The unaudited supplemental pro forma information has been presented for illustrative purposes only and is not necessarily indicative of results of operations that would have been achieved had the Velodyne Merger taken place on the date indicated, or of the Company s future consolidated results of operations. The supplemental pro forma information presented above has been derived from the Company s historical consolidated financial statements and from historical consolidated financial statements and the historical accounting records of Velodyne. 
+ 14 
+
+Table of Contents 
+
+ Note 4. 
+ Short-term investments: Commercial paper Corporate debt and U.S. government agency securities Total short-term investments Total financial assets Liabilities Warrant liabilities Total financial liabilities 
+ December 31, 2023 Level 1 Level 2 Level 3 Total Assets Cash and cash equivalents: Money market funds Commercial paper Short-term investments: Commercial paper ` Corporate debt and U.S. government agency securities Total short-term investments Total financial assets Liabilities Warrant liabilities Total financial liabilities 
+ Money market funds are included within Level 1 of the fair value hierarchy because they are valued using quoted market prices in active markets. Market valuations of our investments which are classified as Level 2 are provided by an independent third party. In accordance with the fair value hierarchy, the market valuation sources include observable market inputs and are therefore considered Level 2 inputs for purposes of determining the fair values. 
+ The fair value of the Private Placement warrant liabilities is based on significant unobservable inputs, which represent Level 3 measurements within the fair value hierarchy. In determining the fair value of the warrant liabilities, the Company used the Black-Scholes option pricing model to estimate the fair value using unobservable inputs including the expected term, expected volatility, risk-free interest rate and dividend yield (see Note 7). 
+ 15 
+
+Table of Contents 
+
+ Change in the fair value included in other income, net ) Fair value as of September 30, 2024 Fair value as of December 31, 2022 Change in the fair value included in other income, net ) Fair value as of September 30, 2023 
+ Non-Recurring Fair Value Measurements 
+ The Company has certain assets, including intangible assets, which are measured at fair value on a non-recurring basis and are adjusted to fair value only if an impairment charge is recognized. The categorization of the framework used to measure fair value of the assets is considered to be within the Level 3 valuation hierarchy due to the subjective nature of the unobservable inputs used. 
+ Disclosure of Fair Values 
+ The Company s financial instruments that are not re-measured at fair value include accounts receivable, accounts payable, accrued and other current liabilities. The carrying values of these financial instruments approximate their fair values. The Company acquired short-term investments consisting of commercial paper, corporate debt and U.S. government agency securities as a result of the merger with Velodyne that closed on February 10, 2023 (see Note 3). Unrealized gains and losses on the Company s short-term investments were not significant as of September 30, 2024 and December 31, 2023, and therefore, the amortized cost of the Company s short-term investments approximated its fair value. 
+ 
+ Note 5. 
+ Cash equivalents: Money market funds (1) 
+ Commercial paper Total cash and cash equivalents 
+ 
+ Restricted Cash 
+ Restricted cash consists of collateral to merchant credit card, performance guarantee issued in favor of a customer, and certificates of deposit held by a bank as security for outstanding letters of credit. The Company had a restricted cash balance of million and million as of September 30, 2024 and December 31, 2023, respectively, which has been excluded from the Company s cash and cash equivalents balances. The Company presented million and million of the total amount of restricted cash within current assets on the unaudited condensed consolidated balance sheets as of September 30, 2024 and December 31, 2023, respectively. The remaining restricted cash balance of million and million is included in non-current assets on the condensed consolidated balance sheets as of September 30, 2024 and December 31, 2023, respectively. 
+ 16 
+
+Table of Contents 
+
+ Restricted cash, current Restricted cash, non-current Total cash, cash equivalents and restricted cash 
+ Inventory 
+ Work in process Finished goods Total inventory 
+ Prepaid Expenses and Other Current Assets 
+ Prepaid insurance Receivable from contract manufacturer Insurance receivable Other current assets Total prepaid expenses and other current assets 
+ The insurance receivable was settled in the three months ended September 30, 2024 (see Note 8). 
+ Property and Equipment, Net 
+ Computer equipment Automotive and vehicle hardware Software Furniture and fixtures Construction in progress Leasehold improvements Shorter of useful life or lease term Less: Accumulated depreciation ) ) Property and equipment, net 
+ Depreciation expense associated with property and equipment was million and million during the nine months ended September 30, 2024 and 2023, respectively. 
+ 17 
+
+Table of Contents 
+
+ ) Vendor relationship 
+ ) Customer relationships 3-8 ) Intangible assets, net ) 
+ December 31, 2023 Estimated Useful Life (in years) Gross Carrying amount Accumulated Amortization Net Book Value Developed technology 3-8 ) Vendor relationship ) Customer relationships 3-8 ) Intangible assets, net ) 
+ Amortization expense was million and million during the nine months ended September 30, 2024 and 2023, respectively. 
+ 2025 2026 2027 2028 Thereafter Total 
+ Accrued and Other Current Liabilities 
+ Uninvoiced receipts Accrued compensation Sales and use tax Other Total accrued and other current liabilities 
+ The accrued legal contingency was settled in the three months ended September 30, 2024 (see Note 8). 
+ 
+ Note 6. 
+ million, subject to certain terms and conditions. The Company borrowed the initial tranche of million on April 29, 2022. On October 17, 2022, the Company borrowed an additional million. 
+ 18 
+
+Table of Contents 
+
+ million of cash in deposit accounts that are subject to an account control agreement in favor of Hercules. 
+ On February 10, 2023, the Company entered into the Third Amendment, which amended the Loan Agreement to (i) increase the existing debt baskets for (a) purchase money debt and capital leases, and (b) letter of credit obligations, (ii) provide for increased flexibility to maintain cash in non-US accounts, and (iii) provide for increased flexibility to relocate certain equipment. 
+ Advances under the Loan Agreement bore interest at the rate of interest equal to greater of either (i) (x) the prime rate as reported in The Wall Street Journal plus (y) , and (ii) , subject to compliance with financial covenants and other conditions. The Loan Agreement included covenants, limitations, and events of default customary for similar facilities. 
+ In connection with the Loan Agreement, the Company paid the lender a cash facility and legal fees of million and incurred debt issuance costs to third parties that were directly related to issuing debt in the amount of million. The effective interest rate on this debt was after giving effect to the debt discount, debt issuance costs and the end of term charge. Amortization expense included in the interest expense related to debt discount and debt issuance costs of the Loan Agreement was not material for the year ended December 31, 2023. 
+ On October 25, 2023, the Loan Agreement was repaid with proceeds of the loans drawn under the Credit Agreement (as defined below) with UBS Bank USA and UBS Financial Services Inc. resulting in a loss on extinguishment of debt of million and recorded it as interest expense in its consolidated statements of operations and comprehensive loss for the twelve months ended December 31, 2023. 
+ Revolving Credit 
+ On October 25, 2023, the Company entered into the Credit Line Account Application and Agreement for Organizations and Businesses (the Credit Agreement and the Addendum to Credit Line Account Application and Agreement (the Addendum and the Credit Agreement as amended, modified, and/or supplemented by the Addendum, the UBS Agreement by and among the Company, UBS Bank USA (the Bank ), and UBS Financial Services Inc. The facility under the UBS Agreement would have matured and terminated on August 2, 2025 (the Maturity Date ). 
+ The UBS Agreement provided the Company with a revolving credit line of up to million, subject to certain terms and conditions. The Company borrowed million on October 25, 2023, and all of the proceeds were used to prepay and terminate the Company s Loan Agreement on October 25, 2023. 
+ Pursuant to the terms of the UBS Agreement, the Company agreed to maintain minimum liquidity, that could be comprised of unencumbered cash and cash equivalents, U.S. treasuries and other assets acceptable to the Bank, of million in an account maintained with the Bank or its affiliates at all times. 
+ Loans under the UBS Agreement bore interest at a rate equal to (x) for variable rate loans, the sum of (i) the applicable SOFR average plus , plus (ii) , and (y) for fixed rate loans, the sum of either (1) CME Term Rate or (2) the U.S. Treasury Rate, as applicable and as defined in the UBS Agreement, as determined based on the duration of the advance, plus the applicable liquidity premium with a range of to , as set forth in the UBS Agreement. Interest payments were due (x) for variable rate loans, on the last day of each calendar month, and on each date that any portion of the principal amount is due, including on the Maturity Date, and (y) for fixed rate loans, on the last day of the applicable interest period, and on each date that any portion of the principal amount is due, including on the Maturity Date. The Company was able to repay any variable rate loans at any time in whole or in part, without penalty. The Company was able to repay any fixed rate loans in whole, but not in part, subject to certain breakage costs. 
+ The Company had agreed to pay an unused line fee in an amount equal to (i) the commitment amount of million less the average daily balance of the sum of the principal amount of the obligations outstanding during the preceding calendar quarter, multiplied by (ii) per annum, and such unused line fee is payable quarterly in arrears on the last day of each calendar quarter. 
+ The UBS Agreement also contained affirmative and negative covenants customary for a credit line of this type, including requirements for maintenance of the collateral accounts and certain limitations on withdrawal of cash from such collateral accounts. The UBS Agreement also provided for customary events of default, including, among others, non-payment, failure to maintain an amount equal to the greater of (x) the outstanding loans and (y) the collateral value as determined by the Bank, in the securities accounts maintained with the Bank, bankruptcy, or breach of a covenant, representation and warranty. 
+ 19 
+
+Table of Contents 
+
+ million, plus accrued and unpaid interest. 
+ 
+ Note 7. 
+ Private Placement warrants at a price of per warrant, for an aggregate purchase price of . The Private Placement warrants became exercisable months following the closing of the Company s IPO, and expire years from the completion of the Colonnade Merger, or earlier upon redemption or liquidation. On March 11, 2021, as adjusted to reflect the Reverse Stock Split, each outstanding Private Placement warrant automatically converted into a warrant to purchase one-tenth of a share of Ouster common stock pursuant to the Warrant Agreement. Each 10 Private Placement warrants is exercisable for one share of Ouster common stock at an exercise price of per share, with no fractional shares being issuable upon exercise of a warrant. 
+ The private placement warrant liability was initially recognized as a liability at a fair value of million and the private placement warrant liability was remeasured to fair value as of September 30, 2024 and 2023, resulting in an immaterial charge for the three and nine months ended September 30, 2024 and 2023, respectively, classified within other income, net in the unaudited condensed consolidated statements of operations and comprehensive loss. 
+ Exercise price of warrant Expected term (years) Expected volatility Risk-free interest rate 
+ Public Warrants 
+ CLA, in its IPO in August 2020, issued units that each consisted of Class A ordinary share and one-half warrant to purchase a Class A ordinary share (the Public warrants ). The warrants became exercisable months following the closing of the Company s IPO, and expire from the completion of the Merger, or earlier upon redemption or liquidation. On March 11, 2021, upon the closing of the Colonnade Merger, each of the outstanding warrants, as adjusted for any fractional warrants that were not issued upon separation was converted automatically into a redeemable Public warrant to purchase share of the Company s common stock. As adjusted for the Reverse Stock Split, each 10 Public warrants is exercisable for one share of Ouster common stock at an exercise price of per share, with no fractional shares issuable upon exercise of a warrant. The Public warrants were recognized as equity upon the Merger in the amount of million. 
+ Prior to their expiration, the Company may redeem the Public warrants at a price of per warrant, provided that the closing price of the Company s common stock equals or exceeds per share for any trading days within a trading-day period ending on the third trading day prior to the date on which the Company gives proper notice of such redemption to the warrants holders. 
+ The Company also assumed outstanding public warrants upon closing the Velodyne Merger to purchase shares of the Company s common stock (the Velodyne Public warrants ). Each warrant entitles the holder to purchase shares of the Company s common stock. Each 10 Velodyne Public warrants is exercisable for 0.6153 shares of the Company s common stock at an exercise price of per 0.6153 share of common stock, with no fractional shares being issuable upon exercise of a warrant. The warrants are exercisable at any time and expire in September 2025. The Company may redeem the outstanding warrants in whole and not in part at a price of per warrant at any time after they become exercisable, provided that the last sale price of the Company s common stock equals or exceeds per share, subject to adjustments, for any -trading days within a -trading day period ending business days prior to the date on which the Company sends the notice of redemption to the warrant holders. The Velodyne Public warrants were recognized as equity upon the Velodyne Merger. 
+ 20 
+
+Table of Contents 
+
+ shares of the Company s common stock at an exercise price of per share (the Amazon Warrant ). The exercise price and the warrant shares issuable upon exercise of the Amazon Warrant are subject to further antidilution adjustments, including in the event the Company makes certain sales of common stock (or securities exercisable or convertible into or exchangeable for shares of the Company s common stock) at a price less than the exercise price of the Amazon Warrant. As a result of the issuance and sale by the Company of an additional shares of common stock in the three months ended September 30, 2024 pursuant to the At-Market-Issuance Sales Agreement at prices below the exercise price of the Amazon Warrant, an antidilution adjustment was made in accordance to the terms of the Amazon Warrant agreement (see Note 9), resulting in the increase in the number of shares issuable under the Amazon Warrant by shares of common stock and no change to the strike price of the Amazon Warrant. As of September 30, 2024, there were shares of common stock issuable under the Amazon Warrant. 
+ The Amazon Warrant is subject to vesting. As a result of the Velodyne Merger, of the unvested Amazon Warrant as of the date of the Velodyne Merger have vested and the remainder will vest over time based on payments by Amazon or its affiliates to us in connection with Amazon s purchase of goods and services from the Company. The vested portion of the Amazon Warrant, representing shares of Ouster common stock with a fair value of million, was included in the Velodyne Merger purchase price consideration on February 10, 2023. 
+ The Amazon Warrant shares vest in multiple tranches over time based on payments of up to million by Amazon or its affiliates (directly or indirectly through third parties) to the Company in connection with Amazon s purchase of goods and services. The fair value of the unvested Amazon Warrant, representing unvested Ouster common stock shares will be recognized as a non-cash stock-based reduction to revenue when Amazon makes payments and vesting conditions become probable of being achieved. 
+ The fair value of the Amazon Warrant shares was estimated on February 10, 2023, the date of completion of the Velodyne Merger, using the Black-Scholes option pricing model on the remaining contractual term of years, an expected volatility of , a risk-free interest rate and a expected dividend yield. The Company estimated expected volatility by using historical volatility of the Company s publicly traded stock and historical volatility of a group of publicly traded peer companies for the period commencing February 16, 2016 and ending on the date of the Merger. 
+ The right to exercise the Amazon Warrant and receive the warrant shares that have vested expires February 4, 2030. 
+ In the three months ended September 30, 2024, Amazon Warrant shares vested. As of September 30, 2024, there were Amazon Warrant shares vested. 
+ 
+ Note 8. 
+ million and million as of September 30, 2024 and December 31, 2023, respectively. 
+ Contingencies 
+ From time to time, the Company may be involved in legal and administrative proceedings arising in the ordinary course of business. The Company records a liability in its consolidated financial statements for these matters when a loss is known or considered probable and the amount can be reasonably estimated. Management reviews these estimates in each accounting period as additional information becomes known and adjusts the loss provision when appropriate. If the loss is not probable or cannot be reasonably estimated, a liability is not recorded in the consolidated financial statements. If a loss is probable but the amount of loss cannot be reasonably estimated, the Company discloses the loss contingency and an estimate of possible loss or range of loss (unless such an estimate cannot be made). Legal costs incurred in connection with loss contingencies are expensed as incurred. 
+ 21 
+
+Table of Contents 
+
+ current or former directors, and other entities. The complaint was based on allegations similar to those in the earlier class actions and sought, among other things, an award of compensatory damages on behalf of a putative class of persons who purchased or otherwise acquired Velodyne s securities between July 2, 2020 and March 17, 2021. The class actions have been consolidated, lead plaintiffs have been appointed and an amended consolidated complaint was filed on September 1, 2021, based on allegations similar to those in the earlier class actions. After multiple motions to dismiss, on July 1, 2022, the court denied the motion to dismiss as it relates to the claims related to David Hall s role with Velodyne, but granted the motion to dismiss as to all other claims. On July 14, 2023, the Court granted Diane Smith s motion for class certification. 
+ On March 13, 2024, the parties to the consolidated securities class action lawsuit filed a stipulation of settlement to settle this lawsuit, without any admission or concession of wrongdoing or liability by Velodyne or the individual defendants. On April 19, 2024, the court preliminarily approved the settlement that provides for a payment of million, of which million was funded by insurance proceeds. On August 19, 2024, the court issued final judgment approving the settlement and ordered dismissal. The Company had accrued for and recorded the entire amount of this million settlement liability and had recorded the expense within general and administrative expenses in 2023 after concluding that such settlement amount is probable and reasonably estimable. As of December 31, 2023, the Company recorded an insurance receivable of million in prepaid expenses and other current assets to be funded by insurance proceeds based on the terms of the settlement. The million insurance receivable allows the Company to recover the majority of the settlement expense, resulting in a net charge of million in its consolidated statement of operations. The settlement charge of million was paid in June 2024. As a result of the court approving the settlement on August 19, 2024, the Company derecognized the related liability and receivable in the amount of million. 
+ On January 18, 2022, David and Marta Hall filed a lawsuit in the Superior Court of California, County of Alameda, against current and former officers and directors of Velodyne, as well as Jeff Vetter, Velodyne s outside counsel. The Halls sought to recover damages for financial and other injuries they allegedly sustained as a result of the merger between Graf and Velodyne. On May 3, 2022, certain defendants filed motions to compel arbitration and other defendants filed motions to quash service of process for lack of personal jurisdiction. The court conducted a hearing on the motions on July 20, 2022. On August 30, 2022, the court granted the motion to quash service with respect to the out of state defendants. On October 3, 2022, the court granted the motion to compel Mr. Hall to arbitrate his claims, and stayed proceedings on Ms. Hall s claims pending arbitration of Mr. Hall s claims. On October 20, 2022, the Halls voluntarily dismissed the action without prejudice. On January 3, 2023, the Halls filed an arbitration demand with substantially the same allegations as the prior lawsuit. On or about August 22, 2023, the Halls filed an application in Texas District Court, Dallas County to compel arbitration of Messrs. Graf and Dee who had been dismissed from the prior court action for lack of personal jurisdiction. Messrs. Graf and Dee agreed to participate in the arbitration and thus the Texas action has been stayed. The arbitrator has set the arbitration hearing for February 3, 2025. The Company does not believe the claims are meritorious and intends to defend the action vigorously. 
+ 22 
+
+Table of Contents 
+
+ former officers and directors of Graf Industrial Corp. GIC ), the predecessor entity of Velodyne, as well as other entities (one of which has since been dismissed without prejudice), entitled Berger v. Graf Acquisition, LLC, et al., No. C.A. 2023 0873 LWW. The Company, GIC and Velodyne are not named as defendants. The plaintiff, who was allegedly a GIC shareholder, asserts claims for breach of fiduciary duty and unjust enrichment in connection with the merger of GIC and Velodyne on September 29, 2020, and seeks damages, disgorgement and other recovery on behalf of the putative class of GIC shareholders in an unspecified amount. The Company is obligated to indemnify such former officers and directors under certain circumstances. The court has set trial for July 14, 2025. The Company does not believe the claims are meritorious and intends to defend the action vigorously. 
+ Ouster Litigation 
+ On June 10, 2021, the Company received a letter from the SEC notifying the Company of an investigation and document subpoena. The subpoena seeks documents regarding projected financial information in CLA s Form S-4 registration statement filed on December 22, 2020. On August 15, 2023, the SEC informed the Company that they have concluded the investigation and that they do not intend to recommend any enforcement action. 
+ On April 11, 2023, the Company filed a complaint with the United States International Trade Commission (the Commission pursuant to 19 U.S.C. 1337 Section 337 ). The complaint requests that the Commission institute an investigation relating to the unlawful importation, sale for importation, and/or sale after importation into the United States by Hesai Group, Hesai Technology Co., Ltd., and Hesai Inc. (collectively Hesai of certain LiDAR (Light Detection and Ranging) systems and/or components thereof (see In the Matter of Certain LiDAR (Light Detection and Ranging) Systems and Components Thereof, 337-TA-1363). The complaint alleges that Hesai s LiDAR products infringe certain claims of the Company s U.S. Patent Nos. 11,175,405, 11,178,381, 11,190,750, 11,287,515 and/or 11,422,236. The complaint seeks the issuance of a permanent exclusion order and cease and desist order. On May 11, 2023, the Commission decided to institute an investigation based on the Company s complaint as In the Matter of Certain LiDAR (Light Detection and Ranging) Systems and Components Thereof, 337-TA-1363. On May 25, 2023, the Administrative Law Judge ALJ issued a procedural schedule whereby the evidentiary hearing was to begin on January 4, 2024, with a target date for completion of the Investigation by the Commission on October 17, 2024. On June 7, 2023, Hesai responded to the complaint and denied all allegations. On June 22, 2023, Hesai filed a motion to terminate or alternatively stay the investigation in light of an alleged agreement to arbitrate based on the Settlement Agreement signed in 2020 between Hesai and Velodyne (the Settlement Agreement ). Hesai alleged that the Company is bound to the 2020 Settlement Agreement as a result of the Company s merger with Velodyne in 2023. The Company opposed the motion, including any allegation that the Company has any obligation to arbitrate or that its patents are subject to any terms of the 2020 Settlement Agreement, which the Company never signed. On August 24, 2023, the ALJ issued an initial determination granting the motion to terminate, holding that a valid arbitration agreement exists as part of the Settlement Agreement, and thus the arbitrators should decide whether the Company has obligation to arbitrate. On August 31, 2023, the Company filed a petition for review of the initial determination with the Commission. On September 14, 2023, Hesai responded. On October 11, 2023, the Commission issued a notice of its determination to review and, on review, to affirm with modification the ALJ s initial determination granting the motion to terminate the investigation in its entirety based upon the arbitration agreement. As a result, the investigation was terminated. 
+ On April 11, 2023, the Company also filed a complaint in the District of Delaware alleging patent infringement of the same patents as in the aforementioned Section 337 proceeding against Hesai Group and Hesai Technology Co., Ltd. The complaint seeks monetary damages as well as the issuance of a permanent injunction. On May 30, 2023, the Court granted a stay of the case pending the resolution, including all appeals, of In the Matter of Certain LiDAR (Light Detection and Ranging) Systems and Components Thereof, 337-TA-1363. 
+ 23 
+
+Table of Contents 
+
+ of the patents and declined to institute review of the fifth patent. The case numbers and patents for the matters in which review has been instituted, and the corresponding hearing dates, are: IPR2023-01421 (Patent No. 11,175,405), hearing date of December 17, 2024; IPR2023-01422 (Patent No. 11,287,515), hearing date of December 17, 2024; IPR2023-01456 (Patent No. 11,178,381), hearing date of January 13, 2025; and IPR2023-01457 (Patent No. 11,190,750), hearing date of January 13, 2025. The matter that was not instituted was IPR2023-01458, involving Patent No. 11,422,236, but on July 25, 2024, the Director of the United States Patent and Trademark Office remanded to the PTAB for further review of its decision not to institute. 
+ Other than as set forth above, as of September 30, 2024 the Company is unable to estimate a possible loss or range of losses in respect to those disclosed matters. 
+ Indemnification 
+ From time to time, the Company enters into agreements in the ordinary course of business that include indemnification provisions. Generally, in these provisions the Company agrees to defend, indemnify, and hold harmless the indemnified parties for claims and losses suffered or incurred by such indemnified parties for which the Company is responsible under the applicable indemnification provisions. The terms of the indemnification provisions vary depending upon negotiations between the Company and its counterpart; however, typically, these indemnification obligations survive the term of the contract and the maximum potential amount of future payments the Company could be required to make pursuant to these provisions are uncapped. 
+ The Company has also entered into indemnity agreements pursuant to which it has indemnified its directors and officers, to the extent legally permissible, against all liabilities reasonably incurred in connection with any action in which such individual may be involved by reason of such individual being or having been a director or executive officer, other than liabilities arising from willful misconduct of the individual. To date, the Company is indemnifying and has incurred costs to defend lawsuits or settle claims described above under the heading Litigation pursuant to the indemnity agreements of former directors and officers. 
+ 
+ Note 9. 
+ per share: (i) shares of common stock; (ii) shares of preferred stock. The holder of each share of common stock is entitled to vote. 
+ On April 29, 2022, the Company entered into an At-Market-Issuance Sales Agreement (the ATM Agreement pursuant to which the Company may, subject to the terms and conditions set forth in the agreement offer and sell, from time to time, through or to the agents, acting as agent or principal, shares of the Company s common stock, par value per share, having an aggregate offering price of up to million. 
+ During the three months ended September 30, 2024, the Company sold shares of common stock under the ATM Agreement at a weighted-average price of per share, for net proceeds of million which is net of sales commissions and other fees of approximately million. During the nine months ended September 30, 2024, the Company sold shares of common stock under the ATM agreement at a weighted-average price of per share, for net proceeds of million which is net of sales commissions and other fees or approximately million. 
+ From the date of the ATM Agreement through September 30, 2024, the Company has sold shares at a weighted-average sales price of per share, resulting in cumulative gross proceeds to the Company totaling approximately million before deducting offering costs, sales commissions and fees. Cumulative net proceeds to the Company totaled approximately million after deducting offering costs, sales commissions and fees. The Company plans to use the net proceeds from this offering for working capital and general corporate purposes. 
+ The remaining availability under the ATM Agreement as of September 30, 2024 is approximately million. 
+ 24 
+
+Table of Contents 
+
+ Note 10. 
+ equity incentive plans: its Amended and Restated 2015 Stock Plan (the 2015 Plan ), the Sense Photonics, Inc. 2017 Equity Incentive Plan (the Sense Plan ), the Velodyne Lidar, Inc. 2020 Equity Incentive Plan (the Velodyne Plan ), the 2021 Incentive Award Plan (the 2021 Plan and the Amended and Restated 2022 Employee Stock Purchase Plan (the 2022 ESPP and, collectively with the 2015 Plan, the Sense Plan, the Velodyne Plan and the 2021 Plan, the Plans ). 
+ The Plans, other than the 2022 ESPP, provide for the grant of stock options, stock appreciation rights, restricted stock awards RSAs ), restricted stock units RSUs ), performance stock unit awards and other forms of equity compensation (collectively, equity awards ). In addition, the 2021 Plan provides for the grant of performance bonus awards. New equity awards may only be granted under the 2021 Plan and Velodyne Plan. Awards under the 2021 Plan and Velodyne Plan can be granted to employees, including officers, directors and consultants of the Company and its subsidiaries, in each case, within the limits provided in the 2021 Plan and Velodyne Plan, respectively. 
+ The Company s 2022 ESPP has been offered to all eligible employees since August 2022 and generally permits certain employees to purchase shares of the Company s common stock through payroll deductions of up to of their compensation of each offering period, subject to certain limitations. 
+ The 2022 ESPP provides offering periods that have a duration of months in length and are comprised of purchase periods of in length. The offering periods are scheduled to start on the first trading day on or after May 16 and November 16 of each year. Under the 2022 ESPP, the purchase price of a share under the ESPP equals of the lesser of the fair market value of a share of common stock on either the first or last day of the applicable offering period or the last day of the applicable purchase period. 
+ In May 2023, the Company increased the share purchase limit under the 2022 ESPP to shares of Company common stock per offering period and added Velodyne Lidar, Inc. as a participating employer in the 2022 ESPP. 
+ During the nine months ended September 30, 2024, shares of common stock were issued under the 2022 ESPP at a price of per share, which represented of the market price of the common stock on November 16, 2023, the first day of the offering period, which was lower than the closing trading price of the common stock on the exercise date. As of September 30, 2024, million shares of the Company s common stock were pending issuance under the 2022 ESPP. The stock-based compensation expense is calculated as of the beginning of the offering period as the fair value of the 2022 ESPP shares utilizing the Black-Scholes option valuation model and is recognized over the offering period. 
+ Options exercised ) Options cancelled ) Outstanding September 30, 2024 Vested and expected to vest September 30, 2024 Exercisable September 30, 2024 
+ 25 
+
+Table of Contents 
+
+As of September 30, 2024, the remaining unamortized stock-based compensation expense related to unvested stock options that is expected to be recognized was not material. 
+ Restricted Stock Units 
+ Granted Canceled ) Vested ) Unvested September 30, 2024 
+ Stock compensation expense is recognized on a straight-line basis over the vesting period of each award of RSUs. As of September 30, 2024, total compensation expense related to unvested RSUs granted to employees, but not yet recognized, was million, with a weighted-average remaining vesting period of years. RSUs settle into shares of common stock upon vesting. 
+ Restricted Stock Awards 
+ Granted Canceled Vested ) Unvested September 30, 2024 
+ Stock compensation expense is recognized on a straight-line basis over the vesting period of each award of RSAs. As of September 30, 2024, total compensation expense related to unvested RSAs granted to employees, but not yet recognized, was million, with a weighted-average remaining vesting period of years. The common stock comprising RSAs is issued at grant but, generally, is subject to a risk of forfeiture if the holder terminates service with the Company and its subsidiaries prior to vesting. 
+ 26 
+
+Table of Contents 
+
+ Research and development Sales and marketing General and administrative Total stock-based compensation 
+ The following table summarizes stock-based compensation expense by award type (in thousands): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 RSUs Stock Options Employee stock purchase plan RSAs Total stock-based compensation 
+ Share based compensation recognized upon completion of the Velodyne Merger 
+ The Company recognized million of stock-based compensation expense in the nine months ended September 30, 2023 related to accelerated vesting of certain RSUs upon completion of the Velodyne Merger and termination of employment of some of its executives and members of the board, who had accelerated vesting provisions in the event of a change in control. Additionally, in the nine months ended September 30, 2023, the Company recognized million of stock-based compensation expense related to accelerated vesting of certain Velodyne restricted stock units, restricted stock awards and performance-based awards upon completion of the Velodyne Merger and termination of employment of some of Velodyne executives and members of the board. 
+ 
+ Note 11.) ) ) ) Denominator: Weighted average shares used to compute basic and diluted net loss per share Net loss per common share basic and diluted 
+ The weighted average number of shares used to compute basic and diluted net loss per share excludes unvested early exercised common stock options subject to repurchase. 
+ 27 
+
+Table of Contents 
+
+ Public and private common stock warrants Restricted Stock Units Unvested early exercised common stock options ESPP shares pending issuance Restricted Stock Awards Total 
+ 
+ Note 12. 
+
+Note 13. 
+ Asia and Pacific Europe, Middle East and Africa Total 
+ Country that accounted for more than 10 of revenue was as follows: 
+ Three Months Ended September 30, Nine months ended September 30, 2024 2023 2024 2023 United States Sweden 
+ Revenue contract balances 
+ Timing of revenue recognition may differ from the timing of invoicing to customers. An unbilled receivable is recorded in instances when revenue is recognized prior to invoicing, and amounts collected in advance of services being provided are recorded as deferred revenue. Contract assets are generated when contractual billing schedules differ from revenue recognition timing. 
+ 28 
+
+Table of Contents 
+
+ million, primarily consisting of unbilled receivables from multi-year license contracts, is included in Accounts receivable, net on the unaudited condensed consolidated balance sheet. 
+ Contract Assets 
+ Contract assets primarily relate to the Company s rights to consideration under license arrangements when the licenses have been transferred to the customers, but payment is contingent upon a future event, other than the passage of time (i.e., type of unbilled receivable) and for which the Company does not have an unconditional right at the reporting date. 
+ Contract asset also arises when the timing of billing differs from the timing of revenue recognized, such as when revenue is recognized on guaranteed minimum payments at the inception of the contract when there is not yet a right to invoice in accordance with contract terms and payment is contingent upon future event. 
+ Contract Liabilities 
+ Contract liabilities consist of deferred revenue, advanced payments and deposits from customers for goods or services that are yet to be provided. Deferred revenue includes billings in excess of revenue recognized related to product sales, licenses, extended warranty and other services revenue, and is recognized as revenue when the Company performs under the contract. The long-term portion of deferred revenue, mostly related to obligations under license arrangements and extended warranty, is classified as non-current contract liabilities. Customer advanced payments represent required customer payments in advance of product shipments according to customer s payment term. Customer advance payments are recognized as revenue when control of the performance obligation is transferred to the customer. Customer deposits represent consideration received from a customer which can be applied to future product or service purchases, or refunded. 
+ Contract assets and liabilities are presented net at the individual contract level in the unaudited condensed consolidated balance sheet and are classified as current or non-current based on the nature of the underlying contractual rights and obligations. 
+ Other contract liabilities Contract liabilities, non-current portion Deferred revenues from licensing arrangements Other contract liabilities Total contract liabilities 
+ Deferred revenues from multi-year licensing contracts mainly represent minimum royalty payments received from licensees relating to long-term IP license contracts for which the Company has future obligations under the license agreements. Royalties from the IP licenses are recognized at the later of the period the sales occur or the satisfaction of the performance obligation to which some or all of the royalties have been allocated. The Company evaluated its performance obligations under multi-year licensing contracts and did not recognize any revenue under such licensing contracts in 2023 and 2024 because the Company concluded there is significant uncertainty associated with resolving the Company s performance. 
+ 29 
+
+Table of Contents 
+
+ multi-year contract entered in 2023 with a customer to sell its products. In July 2024, the Company signed a new contract with this customer that added new service performance obligations and modified certain payment, pricing and delivery terms. As a result, the Company received an additional million payment from this customer, which was recorded in other contract liabilities. During the three months ended September 30, 2024, the Company recognized no revenue from this customer. As of September 30, 2024, million remained deferred under the contract until a future product and service delivery date. This amount includes a deferred revenue balance of million prior to the amendment, along with million in cash received during the three months ended September 30, 2024. 
+ Contract liabilities acquired in the Velodyne Merger Net revenue deferred in the period Revenue recognized that was included in the contract liability balance at the beginning of the period ) ) Ending balance 
+ 30 
+
+Table of Contents 
+
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ The following discussion and analysis of the results of operations and financial condition of Ouster, Inc. we, us, our, the Company, Ouster should be read in conjunction with the information set forth in our unaudited condensed consolidated financial statements and the notes thereto included elsewhere in this Quarterly Report, as well as our audited consolidated financial statements and the Management s Discussion and Analysis of Financial Condition and Results of Operations included in Ouster s Annual Report on Form 10-K (the 2023 Annual Report filed with the Securities and Exchange Commission SEC on March 28, 2024. This discussion contains forward-looking statements based upon current plans, expectations and beliefs that involve risks and uncertainties. Ouster s actual results may differ materially from those anticipated in these forward-looking statements as a result of various factors, including those set forth in the section titled Risk Factors in Ouster s 2023 Annual Report as may be further updated from time to time in the Company s other filings with the SEC. 
+ 
+ Overview 
+ We founded Ouster in 2015 with the invention of our high-performance digital lidar. To continue to grow our business in the coming years, we expanded and plan to continue to maintain and opportunistically expand our sales and marketing efforts and our software development capabilities, and to accelerate sensor development efforts. We are headquartered in San Francisco, California. 
+ We are a leading global provider of autonomy solutions. We provide high-resolution digital lidar sensors that offer advanced 3D vision to machinery, vehicles, robots, and fixed infrastructure assets, which allows each to understand and visualize the surrounding world and enable safe operation and autonomy. We design and manufacture digital lidar sensors that we believe are one of the highest-performing, lowest-cost lidar solutions available today across each of our four target markets: automotive, industrial, robotics, and smart infrastructure. 
+ We also provide perception software platforms for smart infrastructure deployments. Our software enables real-time people and object detection, classification, and tracking for actionable, intuitive, and customizable insights while preserving personally identifiable information. Our digital lidar sensors leverage a simplified architecture based on two semiconductor chips and are backed by a suite of patent-protected technology. 
+ Our hardware product offering currently includes four models of sensors in our OS product line: the hemispheric field of view OSDome, the ultra-wide field of view OS0, the mid-range OS1, and the long-range OS2. Within our OS sensor models, we offer numerous customization options, all enabled by embedded software. For each of our models in the OS product line, we offer resolution options of 128 lines vertically channels ), 64 channels, or 32 channels, as well as many beam spacing options. On October 19, 2022, we announced the launch of our newest OS series scanning sensors, REV7, powered by our next-generation L3 chip. REV7 features the all-new OSDome sensor, as well as upgraded OS0, OS1, and OS2 sensors that deliver double the range, enhanced object detection, increased precision and accuracy, and greater reliability. The REV7 sensors offer performance upgrades that we believe will enhance Ouster s market opportunity, driven by new opportunities for longer-range and mapping applications. We are currently developing our solid-state digital flash DF product line, which is a suite of short, mid, and long-range solid-state digital lidar sensors that provide uniform precision imaging without motion blur across an entire field of view. 
+ We also provide perception software platforms for smart infrastructure deployments. Our software enables real-time people and object detection, classification, and tracking for actionable, intuitive, and customizable insights while preserving personally identifiable information. For example, our Gemini perception software optimizes the high resolution and improved range of the Company s OS sensors to enhance detection, classification and tracking accuracy. Users can mesh multiple lidar sensors together within the Gemini software interface allowing a seamless 3D view of object movement throughout the space, with each sensor providing up to ten times more coverage than a camera-based system. 
+ We have invested heavily in patents since our inception, pursuing comprehensive coverage of invention families and use cases, with broad international coverage. We believe that our extensive patent coverage creates material barriers to entry for anyone aiming to compete in the digital lidar space. 
+ We believe the simplicity of our digital lidar design gives us a meaningful advantage in costs related to manufacturing, supply chain and production yields. Within our OS sensor models, we offer numerous customization options, all enabled by embedded software which minimizes changes to manufacturing or inventory. Our main manufacturing partners are Benchmark and Fabrinet, which manufacture the majority of our products at their facilities in Thailand. We expect this will allow us to continue to reduce our product costs and rapidly scale production to meet our anticipated product demand. Based on cost quotes for our products in mass production, we anticipate our manufacturing costs per unit will decrease further as production volumes increase. Fabrinet serves as the primary manufacturing partner for these products. 
+ 31 
+
+Table of Contents 
+
+ Merger with Velodyne Lidar, Inc. 
+ On November 4, 2022, we entered into an Agreement and Plan of Merger (the Velodyne Merger Agreement with Velodyne Lidar, Inc., a Delaware corporation Velodyne ), Oban Merger Sub, Inc., a Delaware corporation and one of our direct, wholly owned subsidiaries Velodyne Merger Sub I and Oban Merger Sub II LLC, a Delaware limited liability company and one of our direct, wholly owned subsidiaries Velodyne Merger Sub II ). 
+ On February 10, 2023, we completed our merger of equals with Velodyne pursuant to the terms of the Agreement and Plan of Merger with Velodyne, Merger Sub I and Merger Sub II (the Velodyne Merger ). In connection with the closing of the Velodyne Merger, we and Velodyne now operate as a single combined company. 
+ Our product offerings acquired through the Velodyne Merger include three models of sensors. The Alpha Prime (VLS-128) is a lidar sensor designed for autonomous driving and advanced vehicle safety, offering a 300-meter range with 128 lasers and real-time 3D data at 0.1-degree vertical and horizontal resolution. Recognized at the Pace Automotive Award in 2019, it provides a superior combination of range, resolution, and precision for Level 4 and Level 5 autonomous vehicles in both highway and low-speed urban environments. The Puck (VLP-16) is designed for mass production and affordability, featuring 16 lasers, a 100-meter range, and a multi-laser design with lower power consumption, lighter weight, and a compact footprint, making it suitable for low-speed autonomy and driver assistance. The Puck Hi-Res (VLP-16 Hi-Res) is an enhanced version of the original Puck, designed for applications requiring high image resolution, maintaining a 100-meter range and introducing a tighter laser distribution for more details in the 3D image at longer ranges, enabling better object identification. 
+ 
+ Factors Affecting Our Performance 
+ Commercialization of Lidar Applications. We believe that lidar and system solutions, including our subscription-based software, are approaching an inflection point of adoption across our target end market applications, and that we are well-positioned to capitalize on this market adoption. However, as our customers continue research and development projects that rely on lidar technology, it is difficult to estimate the timing of ultimate end market and customer adoption. As a result, we expect that our results of operations, including revenue and gross margins, will continue to fluctuate on a quarterly and annual basis for the foreseeable future. As the market for lidar solutions matures and more customers reach a commercialization phase with solutions that rely on our technology, fluctuations in our operating results may become less pronounced. In 2024, our strategic business objectives include expanding software solutions, advancing the development of hardware, and progressing on the long-term financial framework. Accordingly, we expect to make progress towards growing our revenue and expanding gross margins. Nonetheless, our revenue and gross margins may not increase as we expect unless and until more customers commercialize their products and lidar technology becomes more prevalent across our target end markets. 
+ Number of Customers in Production. For certain strategic customers and markets, our products must be integrated into a broader platform, which then must be tested, validated, and achieve system-level performance and reliability thresholds that enable commercial production and sales. The time necessary to reach commercial production varies from six months to seven years based on the market and application. For example, the production cycle in the automotive market tends to be substantially longer than in our other target markets, including industrial, robotics, and smart infrastructure. It is critical to our future success in each of our target end markets that our customers reach commercial production and sales and select our products in their commercial production applications and that we avoid unexpected cancellations of major purchases of our products. Because the timelines to reach production vary significantly and the revenue generated by each customer in connection with commercial production and sales is unpredictable, it is difficult for us to reliably predict our financial performance. 
+ Customers Sales Volumes. Our customer base is diversified and we aim to continue to penetrate into diverse end markets to increase our sales volumes. Ultimately widespread adoption of our customers products that incorporate our lidar solutions will depend on many factors, including the size of our customers end markets, end market penetration of our customer s products that incorporate our digital lidar solutions, our end customers ability to sell their products, and the financial stability and reputation of the customers. In 2024, our strategic business objectives continue to include growing our installed base of customers. We believe our sales volume by customer depends on the end market demand for our customers products that incorporate our digital lidar solutions as well as our ability to increase our sales force productivity. 
+ Average Selling Prices ASPs ), Product Costs and Margins. Our product costs and gross margins depend largely on the volumes of sensors shipped, the mix of existing and new products sold and the number and variety of solutions we provide to our customers. We expect that our selling prices will vary by target end market and application due to market-specific supply and demand dynamics. We expect to continue to experience some downward pressure on prices from signing anticipated large multi-year agreements in the near term with multi-year negotiated pricing. We expect that these customer-specific selling price fluctuations combined with our volume-driven product costs may drive fluctuations in revenue and gross margins on a quarterly basis. However, notwithstanding any short-term price surcharges on our products, we expect that over time our volume-driven product costs will decrease. 
+ 32 
+
+Table of Contents 
+
+ Competition. Lidar is an emerging market, and there are many competitors for the growing market. This has created downward pressure on our ASPs. We expect this pressure to continue to push our ASPs lower in the coming years. However, we believe that because of our complementary metal-oxide-semiconductor digital lidar technology, we are well-positioned to scale more rapidly than our competitors and leverage our scale to deliver positive gross margins. 
+ Continued Investment and Innovation. We believe that we are a leading lidar provider. Our financial performance is significantly dependent on our ability to maintain this leading position, which is further dependent on the investments we make in research and development. We believe it is essential that we continue to identify and respond to rapidly evolving customer requirements, including successfully progressing our digital lidar roadmap and developing technologies that will enhance the operating performance of our products. For example, our next generation custom silicon chip for OS, L4 , is taped out and we believe it will bring significant improvements in range and field of view, along with safety certifications to the OS sensor family. We currently plan to integrate our next-generation custom silicon chip for DF, Chronos , into our solid-state digital flash sensors in the next year. If we fail to continue our innovation, our market position and revenue may be adversely affected, and our investments in that area will not be recovered. 
+ Supply Chain Continuity. Some of the key components in the products we have designed or are currently designing come from limited or single source suppliers. If these third parties experience financial, operational, manufacturing capacity or other difficulties, or experience shortages in required components, or if they are otherwise unable or unwilling to continue to manufacture these components in required volumes or at all, our supply may be disrupted or be on less favorable terms. For example, we may be required to seek alternate manufacturers or suppliers for our products. It would be time-consuming, and could be costly and impracticable, to begin to use and qualify new manufacturers, components or designs, and such changes could cause significant interruptions in supply and could have an adverse effect on our ability to meet our scheduled product deliveries and may subsequently lead to the loss of sales. 
+ Market Trends and Uncertainties. We anticipate increasing demand for our digital lidar solution. We estimate a multibillion-dollar total addressable market TAM for our solutions in the future. We define our TAM as automation applications in the automotive, industrial, robotics, and smart infrastructure end markets where we actively engage and maintain customer relationships. Each of our target markets is potentially a significant global opportunity, and these markets have historically been underserved by limited or inferior technology or not served at all. We believe we are well-positioned in our market as a leading provider of high-resolution lidar sensors. 
+ Although increasing adoption of lidar technology may generate higher demand, we may not be able to take advantage of demand if we are unable to anticipate regulatory changes and adapt quickly enough to meet such new regulatory standards or requirements applicable to us or to our customers products in which our lidar sensors are used. Market acceptance of lidar technology and active safety technology depend upon many factors, including cost, performance, safety performance, regulatory requirements and international taxes or tariffs related to such technologies. These factors may impact the ultimate market acceptance of our lidar technology. 
+ International Expansion. We view international expansion as an important element of our strategy to increase revenue and achieve profitability. We continue to position ourselves in geographic markets that we expect to serve as important sources of future growth. We have an existing presence in three regions: Americas; Asia Pacific; and Europe, Middle East and Africa. We intend to expand our presence in these regions over time including through distribution partnerships. Expanded global reach will require continued investment and may expose us to additional foreign currency risk, international taxes and tariffs, legal obligations and additional operational costs, risks and challenges that may impact our ability to meet our projected sales volumes, revenue and gross margins. 
+ 
+ Components of Results of Operations 
+ Revenue 
+ The majority of our revenue comes from the sale of our lidar sensors and accessories both directly to end users and through distributors both domestically and internationally. We recognize revenue from product sales when the performance obligation of transferring control of the product to the customer has been met, generally when the product is shipped. We also recognize revenue by performing services related to product development, validation, licenses, maintenance under our extended warranty contracts and shipping; however, we do not expect product development and validation and license and services to be material components of revenue, cost of revenue or gross margin in the foreseeable future. Performance obligations related to services are generally recognized over time, based on cost-to-cost input basis or straight-line over time. Amounts billed to customers related to shipping and handling are classified as revenue, and we have elected to recognize the cost of shipping activities that occur after control has transferred to the customer as a fulfillment cost rather than a separate performance obligation. All related costs are accrued and recognized within cost of revenue when the related revenue is recognized. 
+ 33 
+
+Table of Contents 
+
+ Most of our customers are innovators and early technology adopters incorporating our products into their solutions. Currently, our product revenue consists of both customers ordering small volumes of our products that are in an evaluation phase and customers that order larger volumes of our products and have more predictable long-term production schedules. However, we believe we are still at the very beginning of the lidar adoption curve, and some customers are still learning their growth and demand rates which can impact the timing of purchase orders quarter to quarter. As we grow our business, we expect to continue to improve our own understanding of our customers needs and timelines, and expect the timing of orders will have a less notable impact on our quarterly results. 
+ Cost of Revenue 
+ Cost of revenue consists of the manufacturing cost of our lidar sensors, which primarily consists of sensor components, personnel-related expenses, including salaries, benefits, and stock-based compensation directly associated with our manufacturing organization, and amounts paid to our third-party contract manufacturer and vendors. Our cost of revenue also includes depreciation of manufacturing equipment, amortization of intangible assets, an allocated portion of overhead, facility and IT costs, warranty expenses, excess and obsolete inventory and shipping costs. 
+ Gross Profit and Gross Margin 
+ Our gross profit equals total revenues less our total cost of revenues, and our gross margin is our gross profit expressed as a percentage of total revenue. Our gross margin is subject to quarterly fluctuations in product mix, price and volume. 
+ Operating Expenses 
+ Research and Development Expenses 
+ Research and development R D activities are primarily conducted at our San Francisco based headquarters and our additional R D facilities in Scotland and Canada and consist of the following activities: 
+ Design, prototyping, and testing of proprietary electrical, optical, and mechanical subsystems for our digital lidar products; 
+ Robust testing for industrial and autonomous vehicle safety certifications; 
+ Development of new products and enhancements to existing products in response to customer requirements including firmware development and software development of lidar integration products; 
+ Custom system-on-a-chip SoC design for Ouster s digital lidar products; and 
+ Development of custom manufacturing equipment. 
+ R D expenses consist of personnel-related expenses, including salaries, benefits, and stock-based compensation, for all personnel directly involved in R D activities, third-party engineering and contractor costs, prototype expenses, amortization of intangible assets, and an allocated portion of overhead, facility and IT costs that support R D activities. 
+ R D costs are expensed as they are incurred. Our investment in R D will continue to grow as we invest in new lidar technology and related software. Our absolute amount of R D expenses is expected to grow over time; however, we expect R D as a percentage of revenue to decrease as our business grows. 
+ Sales and Marketing Expenses 
+ Our business development, customer support and marketing teams are located in offices worldwide. Selling and marketing expenses consist of personnel-related expenses, including salaries, benefits, and stock-based compensation, for all personnel directly involved in business development, customer support, and marketing activities, and marketing expenses including trade shows, advertising, and demonstration equipment. Sales and marketing expenses also include amortization expense of intangible assets related to customer relationships associated with the acquisitions and an allocated portion of facility and IT costs that support sales and marketing activities. We expect sales and marketing expenses as a percentage of revenue to decrease as our business grows. 
+ 34 
+
+Table of Contents 
+
+ General and Administrative Expenses 
+ General and administrative expenses consist of personnel-related expenses, including salaries, benefits, and stock-based compensation, of our executives and members of the board of directors, finance, human resources, a portion of facility and IT costs that support general and administrative activities, as well as amortization of intangible assets, fees related to legal fees, patent prosecution, accounting, finance and professional services, as well as insurance and bank fees. We have experienced and may in the near-term experience additional increases in general and administrative expenses related to legal, accounting, finance and professional services costs associated with the Velodyne Merger, litigation activities, hiring more personnel and consultants to support our growing international expansion and compliance with the applicable provisions of the Sarbanes-Oxley Act SOX and other SEC rules and regulations as a result of being a public company. Our absolute amount of general and administrative expenses will grow over time; however, we expect general and administrative expenses as a percentage of revenue to decrease as our business grows. 
+ Goodwill Impairment Charges 
+ During the nine months ended September 30, 2023, we recorded goodwill impairment charges of approximately 166.7 million. These charges were primarily driven by the decrease in our market capitalization during the period. Our goodwill impairment analysis includes a comparison of the aggregate estimated fair value of our reporting unit to our total market capitalization. There was no addition to goodwill as of September 30, 2024, and as such our remaining goodwill balance was nil. 
+ Interest Income, Interest Expense, and Other Income (Expense), Net 
+ Interest income consists primarily of income earned on our cash and cash equivalents and short-term investments. These amounts will vary based on our respective balances and market rates. Interest expense consists primarily of interest on our debt, amortization of debt issuance costs and discounts. Other income (expense), net consists primarily of realized and unrealized gains and losses on foreign currency transactions and balances, realized gains and losses related to sales of our available-for-sale investments, the change in fair value of the private placement warrant liability. 
+ Income Taxes 
+ Our income tax provision consists of federal, state and foreign current and deferred income taxes. Our income tax provision for interim periods is determined using an estimate of our annual effective tax rate, adjusted for discrete items arising in the quarter. Our effective tax rate differs from the U.S. statutory tax rate primarily due to valuation allowances on deferred tax assets as it is more likely than not that some, or all, of our deferred tax assets will not be realized. We continue to maintain a full valuation allowance against our U.S. Federal and state deferred tax assets, excluding specific balances due to the Velodyne Merger. Income tax provision for the three and nine months ended September 30, 2024 and 2023, was not material to the Company s unaudited condensed consolidated financial statements. 
+ 35 
+
+Table of Contents 
+
+ Results of Operations: 
+ The results of operations presented below should be reviewed in conjunction with the unaudited condensed consolidated financial statements and notes included elsewhere in this Quarterly Report. The following table sets forth our unaudited condensed consolidated results of operations data for the periods presented: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (dollars in thousands) (dollars in thousands) Revenue 28,075 22,209 81,009 58,835 Cost of revenue (1) 
+ 17,321 19,116 53,732 55,932 Gross profit 10,754 3,093 27,277 2,903 Operating expenses (1) : 
+ Research and development 15,127 16,678 43,365 75,584 Sales and marketing 7,197 7,887 20,807 33,086 General and administrative 15,938 14,270 41,684 63,437 Goodwill impairment charges 166,675 Total operating expenses 38,262 38,835 105,856 338,782 Loss from operations (27,508) (35,742) (78,579) (335,879) Other income (expense): Interest income 2,149 2,495 7,051 6,459 Interest expense (342) (1,825) (1,823) (5,222) Other income (expense), net 
+ 74 (13) 260 (124) Total other income, net 1,881 657 5,488 1,113 Loss before income taxes (25,627) (35,085) (73,091) (334,766) Provision for income tax expense (benefit) (37) 17 217 349 Net loss (25,590) (35,102) (73,308) (335,115) 
+ 36 
+
+Table of Contents 
+
+ The following table sets forth the components of our unaudited condensed consolidated statements of operations and comprehensive loss data as a percentage of revenue for the periods presented: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 of total revenue) of total revenue) Revenue 100 100 100 100 Cost of revenue (1) 
+ 62 86 66 95 Gross profit 38 14 34 5 Operating expenses (1) : 
+ Research and development 54 75 54 128 Sales and marketing 26 36 26 56 General and administrative 57 64 51 108 Goodwill impairment charges 283 Total operating expenses 136 175 131 576 Loss from operations (98) (161) (97) (571) Other income (expense): Interest income 8 11 9 11 Interest expense (1) (8) (2) (9) Other income (expense), net Total other income, net 7 3 7 2 Loss before income taxes (91) (158) (90) (569) Provision for income tax expense (benefit) Net loss (91) (158) (90) (569) 
+ (1) Includes stock-based compensation expense as follows: 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 (dollars in thousands) (dollars in thousands) Cost of revenue 1,345 570 3,468 1,998 Research and development 5,241 4,056 14,079 19,765 Sales and marketing 1,308 1,345 4,200 7,726 General and administrative 3,625 2,401 9,871 17,129 Total stock-based compensation 11,519 8,372 31,618 46,618 
+ 37 
+
+Table of Contents 
+
+ Comparison of the three months ended September 30, 2024 and 2023 
+ Revenue 
+ Three Months Ended September 30, Change Change 2024 2023 (dollars in thousands) Revenue by geographic location: Americas 17,267 13,317 3,950 30 Asia and Pacific 4,271 2,325 1,946 84 Europe, Middle East and Africa 6,537 6,567 (30) Total 28,075 22,209 5,866 26 
+ Not meaningful. 
+ Revenue 
+ Revenue increased by 5.9 million, or 26 , to 28.1 million for the three months ended September 30, 2024 from 22.2 million for the comparable period in the prior year. The increase in revenue was primarily driven by increased sales of the REV7 sensors as customers increased their purchase levels compared to the prior year period. 
+ Geographic Locations 
+ Revenue increased across the geographic regions of Americas and Asia and Pacific as compared to the comparable period in the prior year. The revenue increases in those geographic regions were primarily attributable to the higher sales levels from the launch of the REV7 sensor and our continued focus and investment in our global sales team. 
+ Cost of Revenue 
+ Three Months Ended September 30, Change Change 2024 2023 (dollars in thousands) Cost of revenue 17,321 19,116 (1,795) (9) 
+ Cost of revenue decreased by 1.8 million, or 9 , to 17.3 million for the three months ended September 30, 2024 from 19.1 million for the comparable period in the prior year. The decrease in cost of revenue was primarily attributable to lower excess and obsolete inventory charges and compensation-related expenses, partially offset by increased shipments over the period. 
+ Operating Expenses 
+ Three Months Ended September 30, Change Change 2024 2023 (dollars in thousands) Operating expenses: Research and development 15,127 16,678 (1,551) (9) Sales and marketing 7,197 7,887 (690) (9) General and administrative 15,938 14,270 1,668 12 Total operating expenses 38,262 38,835 (573) (1) 
+ Research and Development 
+ Research and development expenses decreased by 1.6 million, or 9 , to 15.1 million for the three months ended September 30, 2024 from 16.7 million for the comparable period in the prior year. The decrease was primarily attributable to the reduction in compensation expenses and other costs from the restructuring and cost reduction initiatives implemented in 2023 after the closing of the Velodyne Merger. 
+ 38 
+
+Table of Contents 
+
+ Sales and Marketing 
+ Sales and marketing expenses decreased by 0.7 million, or 9 , to 7.2 million for the three months ended September 30, 2024 from 7.9 million for the comparable period in the prior year. The decrease was primarily attributable to the reduction in compensation expenses and other costs from the restructuring and cost reduction initiatives implemented in 2023 after the closing of the Velodyne Merger. 
+ General and Administrative 
+ General and administrative expenses increased by 1.7 million, or 12 , to 15.9 million for the three months ended September 30, 2024 from 14.3 million for the comparable period in the prior year. The increase was primarily attributable to higher legal expenses primarily related to litigation activities. 
+ Interest Income, Interest Expense and Other Expense, Net 
+ Three Months Ended September 30, Change Change 2024 2023 (dollars in thousands) Interest income 2,149 2,495 (346) (14) Interest expense (342) (1,825) 1,483 (81) Other income (expense), net 
+ 74 (13) 87 (669) 
+ The year-over-year decrease in interest income was due to lower balances in cash and cash equivalents and short-term investments in the three months ended September 30, 2024. 
+ The year-over-year decrease in interest expense was due to entering into the new UBS Agreement in October 2023, which had a lower interest rate than the prior Loan Agreement with Hercules, and the repayment of the UBS Loan in August 2024. 
+ Other income (expense), net was not material for the three months ended September 30, 2024 and 2023. 
+ Income Taxes 
+ We were subject to income taxes in the United States and miscellaneous foreign jurisdictions for the three months ended September 30, 2024 and 2023. Our income tax expense for the three months ended September 30, 2024 and 2023 was not material to our unaudited condensed consolidated financial statements. 
+ Comparison of the nine months ended September 30, 2024 and 2023 
+ Revenue 
+ Nine Months Ended September 30, Change Change 2024 2023 (dollars in thousands) Revenue by geographic location: Americas 41,461 35,204 6,257 18 Asia and Pacific 14,986 5,994 8,992 150 Europe, Middle East and Africa 24,562 17,637 6,925 39 Total 81,009 58,835 22,174 38 
+ Revenue 
+ Revenue increased by 22.2 million, or 38 , to 81.0 million for the nine months ended September 30, 2024 from 58.8 million for the comparable period in the prior year. The increase in revenue was primarily driven by increased sales of the REV7 sensors as customers increased their purchase levels and the full period impact from the Velodyne Merger, which occurred on February 10, 2023. 
+ 39 
+
+Table of Contents 
+
+ Geographic Locations 
+ Revenue increased across the geographic regions of Americas; Asia and Pacific; and Europe, Middle East and Africa as compared to the comparable period in the prior year. The increase in revenue in those geographic regions were primarily driven by increased sales of the REV7 sensors as customers increased their purchase levels and the full period impact from the Velodyne Merger, which occurred on February 10, 2023. 
+ Cost of Revenue 
+ Nine Months Ended September 30, Change Change 2024 2023 (dollars in thousands) Cost of revenue 53,732 55,932 (2,200) (4) 
+ Cost of revenue decreased by 2.2 million, or 4 , to 53.7 million for the nine months ended September 30, 2024 from 55.9 million for the comparable period in the prior year. The decrease in cost of revenue was primarily attributable to lower excess and obsolete inventory charges and compensation expenses, partially offset by increased shipments. 
+ Operating Expenses 
+ Nine Months Ended September 30, Change Change 2024 2023 (dollars in thousands) Operating expenses: Research and development 43,365 75,584 (32,219) (43) Sales and marketing 20,807 33,086 (12,279) (37) General and administrative 41,684 63,437 (21,753) (34) Goodwill impairment charges 166,675 (166,675) Total operating expenses 105,856 338,782 (232,926) (69) 
+ Not meaningful. 
+ Research and Development 
+ Research and development expenses decreased by 32.2 million, or 43 , to 43.4 million for the nine months ended September 30, 2024 from 75.6 million for the comparable period in the prior year. The decrease was primarily attributable to the reduction in compensation expenses and other costs from the restructuring and cost reduction initiatives implemented in 2023 after the closing of the Velodyne Merger. 
+ Sales and Marketing 
+ Sales and marketing expenses decreased by 12.3 million, or 37 , to 20.8 million for the nine months ended September 30, 2024 from 33.1 million for the comparable period in the prior year. The decrease was primarily attributable to the reduction in compensation expenses and other costs from the restructuring and cost reduction initiatives implemented in 2023 after the closing of the Velodyne Merger. 
+ General and Administrative 
+ General and administrative expenses decreased by 21.8 million, or 34 , to 41.7 million for the nine months ended September 30, 2024 from 63.4 million for the comparable period in the prior year. The decrease was primarily attributable to the reduction in compensation expenses and other costs from the restructuring and cost reduction initiatives implemented in 2023 after the closing of the Velodyne Merger. 
+ Goodwill Impairment Charges 
+ There was no addition to goodwill in the nine months ended September 30, 2024, and as such our remaining goodwill balance was nil. Goodwill impairment charges were 166.7 million for the nine months ended September 30, 2023 primarily driven by the decrease in our market capitalization during the period. 
+ 40 
+
+Table of Contents 
+
+ Interest Income, Interest Expense and Other Income (Expense), Net 
+ Nine Months Ended September 30, Change Change 2024 2023 (dollars in thousands) Interest income 7,051 6,459 592 9 Interest expense (1,823) (5,222) 3,399 (65) Other income (expense), net 
+ 260 (124) 384 (310) 
+ The year-over-year increase in interest income was primarily attributable to higher average cash and cash equivalent balances driven by additions through the Velodyne Merger transaction and higher interest rates earned on held balances. 
+ The year-over-year decrease in interest expense was due to entering into the new UBS Agreement in October 2023, which had a lower interest rate. 
+ Other expense, net was not material for the nine months ended September 30, 2024 and 2023. 
+ Income Taxes 
+ We were subject to income taxes in the United States and miscellaneous foreign jurisdictions for the nine months ended September 30, 2024 and 2023. Our income tax expense for the nine months ended September 30, 2024 and 2023 was not material to the Company s unaudited condensed consolidated financial statements. 
+ 
+ Liquidity and Capital Resources 
+ Our principal sources of liquidity are our cash and cash equivalents and short-term investments, cash generated from sales of our products, sales of common stock under our at-the market equity offering program and proceeds from debt financing. 
+ Our primary requirements for liquidity and capital are working capital, inventory management, capital expenditures, public company costs and general corporate needs. We expect these needs to continue as we develop and grow our business. 
+ As of September 30, 2024 we had an accumulated deficit of 889.3 million and cash, cash equivalents, restricted cash and short-term investments of 153.8 million. Management believes that our existing sources of liquidity will be adequate to fund our operations for at least twelve months from the date of this Quarterly Report. However, we may need to raise additional capital in the future to support our operations. 
+ We manage our cash and cash equivalents with financial institutions that we believe have high credit quality and, at times, such amounts exceed federally insured limits. The failure of any bank with which we maintain a commercial relationship could cause us to lose our deposits in excess of the federally insured or protected amounts. We have experienced recurring losses from operations, and negative cash flows from operations, and we expect to continue operating at a loss and to have negative cash flows from operations for the foreseeable future. Because we are in the growth stage of our business and operate in an emerging field of technology, we expect to continue to invest in research and development and expand our sales and marketing teams worldwide. We may require additional capital to respond to technological advancements, competitive dynamics or technologies, customer demands, business opportunities, challenges, acquisitions or unforeseen circumstances and in either the short-term or long-term may determine to engage in equity or debt financings or enter into credit facilities for other reasons. If we are unable to obtain adequate financing or financing on terms satisfactory to us, when we require it, our ability to continue to grow or support our business and to respond to business challenges could be significantly limited. In particular, current macroeconomic conditions, including elevated inflation rates and high interest rates, have resulted in, and may continue to result in, significant disruption of global financial markets, reducing our ability to access capital. If we are unable to raise additional funds when or on the terms desired, our business, financial condition and results of operations could be adversely affected. 
+ 41 
+
+Table of Contents 
+
+ ATM Agreement 
+ On April 29, 2022, we entered into an open market sale agreement with B. Riley Securities, Inc., Cantor Fitzgerald Co. and Oppenheimer Co. Inc. (the ATM Agreement ), pursuant to which we may offer and sell shares of our common stock with an aggregate offering price of up to 150.0 million under an at-the-market offering program. Subject to the terms and conditions of the agreement, we may sell the shares in amounts and at times to be determined by us but we are under no obligation to sell any of the shares. Actual sales, if any, will depend on a variety of factors to be determined by us from time to time, including, among other things, market conditions, the trading price of our common stock, capital needs and determinations by us of the appropriate sources of funding. 
+ During the three and nine months ended September 30, 2024, we sold 1,649,310 and 3,482,181 shares of common stock, respectively, generating net proceeds of 14.3 million and 32.5 million, respectively, under the ATM Agreement. During the three and nine months ended September 30, 2023, we sold 802,832 shares, under the ATM Agreement, generating net proceeds of 3.6 million. 
+ The remaining availability under the ATM Agreement as of September 30, 2024 is approximately 83.3 million. We currently intend to use the net proceeds from the sale of shares pursuant to the ATM Agreement for working capital and general corporate purposes. 
+ Debt Arrangements 
+ On April 29, 2022, we entered into the Loan Agreement with Hercules Capital, which provided us with a term loan facility of up to 50.0 million, subject to terms and conditions (the Term Loan Facility ). As of December 31, 2022, 40.0 million had been drawn under the Term Loan Facility, and could be used for general working capital purposes subject to certain terms and conditions. 
+ On October 25, 2023, we entered into the Credit Line Account Application and Agreement for Organizations and Businesses (the Credit Agreement and the Addendum to Credit Line Account Application and Agreement (the Addendum and the Credit Agreement as amended, modified, and/or supplemented by the Addendum, the UBS Agreement by and among the Company, UBS Bank USA (the Bank ), and UBS Financial Services Inc. The UBS Agreement provided us with a revolving credit line of up to 45.0 million, subject to certain terms and conditions. We initially borrowed 44.0 million, and all of the proceeds were used to prepay and terminate our Term Loan Facility with Hercules on October 25, 2023. 
+ On August 12, 2024, we repaid the 44.0 million principal amount outstanding under the UBS Agreement, along with accrued interest, and terminated all commitments and obligations thereunder. We funded the repayment of the outstanding revolving loans under the UBS Agreement with cash on hand. 
+ For additional information, see Note 6, Debt to our unaudited condensed consolidated financial statements included in this Quarterly Report. 
+ Material Cash Requirements 
+ We are a party to many contractual obligations involving commitments to make payments to third parties. These obligations impact our short-term and long-term liquidity and capital resource needs. Certain contractual obligations are reflected on the unaudited condensed consolidated balance sheet as of September 30, 2024, while others are considered future commitments. Our contractual obligations primarily consist of non-cancelable purchase commitments with various parties to purchase goods or services, primarily inventory, entered into in the normal course of business and operating leases. For information regarding our other contractual obligations, refer to Note 8, Commitments and Contingencies and Part II, Item 7 of our 2023 Annual Report. 
+ Cash Flow Summary 
+ The following table summarizes our cash flows from continuing operations for the periods presented: 
+ Nine Months Ended September 30, 2024 2023 (dollars in thousands) Net cash (used in) provided by: Operating activities (31,133) (113,703) Investing activities 34,858 63,524 Financing activities (9,434) 3,385 
+ 42 
+
+Table of Contents 
+
+ Operating Activities 
+ During the nine months ended September 30, 2024, operating activities used 31.1 million in cash. The primary factors affecting our operating cash flows during this period were our net loss of 73.3 million, offset by our non-cash charges of 39.6 million, primarily consisting of depreciation and amortization of 7.8 million, stock-based compensation of 31.6 million, amortization of right-of-use asset of 3.6 million and inventory write down of 0.8 million. The changes in our operating assets and liabilities of 2.6 million were primarily due to a decrease in accounts receivable of 0.4 million, decrease in inventory of 3.9 million, an increase in prepaid expenses and other assets of 22.5 million, an increase in accounts payable of 2.3 million and a decrease in accrued and other liabilities of 29.5 million. 
+ During the nine months ended September 30, 2023, operating activities used 113.7 million in cash. The primary factors affecting our operating cash flows during this period were our net loss of 335.1 million, impacted by our non-cash charges of 238.7 million, primarily consisting of goodwill impairment charges of 166.7 million, depreciation and amortization of 14.3 million, loss on write-off and disposal of property and equipment and right-of-use asset impairment of 1.2 million, gain on lease termination of 0.8 million, stock-based compensation of 46.6 million, amortization of right-of-use asset of 3.3 million and inventory write down of 8.2 million. The changes in our operating assets and liabilities of 17.3 million were primarily due to an increase in accounts receivable of 4.5 million, increase in inventory of 4.5 million, a decrease in accounts payable of 4.1 million and an increase in accrued and other liabilities of 10.2 million. 
+ Investing Activities 
+ During the nine months ended September 30, 2024, cash provided by investing activities was 34.9 million, consisting primarily of 122.1 million proceeds from short-term investments and purchases of short-term investments of 85.6 million. 
+ During the nine months ended September 30, 2023, cash provided by investing activities was 63.5 million, which was attributed primarily to the Velodyne Merger and proceeds from sales of short-term investments. 
+ Financing Activities 
+ During the nine months ended September 30, 2024, cash used by financing activities was 9.4 million, consisting primarily of 33.8 million of proceeds from the issuance of common stock under the ATM Agreement and repayment of UBS Agreement 44.0 million. 
+ During the nine months ended September 30, 2023, cash provided by financing activities was 3.4 million, consisting primarily of 2.9 million of proceeds from the issuance of common stock under the ATM Agreement, net of commissions and fees. 
+ 
+ Critical Accounting Estimates 
+ Our critical accounting estimates are described in Management s Discussion and Analysis of Financial Condition and Results of Operations in our 2023 Annual Report. There have been no significant changes to our critical accounting policies and estimates since the filing of our 2023 Annual Report except for the revision in our revenue policies and addition of investments as a significant accounting policy, both in connection with Velodyne Merger, which is described in Note 2 - Summary of Significant Accounting Policies to our unaudited condensed consolidated financial statements included in this Quarterly Report. 
+ The preparation of financial statements in conformity with U.S. GAAP requires us to make estimates and assumptions. Certain of these policies require the application of subjective or complex judgments, often as a result of the need to make estimates about the effect of matters that are inherently uncertain. These estimates and assumptions are based on historical experience, changes in the business environment and other factors that we believe to be reasonable under the circumstances. Different estimates that could have been applied in the current period or changes in the accounting estimates that are reasonably likely can result in a material impact on our financial condition and operating results in the current and future periods. 
+ 43 
+
+Table of Contents 
+
+ Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+ We are exposed to market risks in the ordinary course of our business. Market risk represents the risk of loss that may impact our financial position due to adverse changes in financial market prices and rates. Our market risk exposure is primarily the result of fluctuations in interest rates, foreign currency exchange rates and to a lesser extent, inflation risk. The following analysis provides quantitative and qualitative information regarding these risks. 
+ Inflation Risk 
+ General inflation in the U.S., Europe and other geographies has risen to levels not experienced in recent decades. General inflation, including rising prices for inputs and rising wages, as well as rising interest rates negatively impact our business by increasing our operating costs. General inflation also negatively impacts our business by decreasing the capital for our customers to deploy to purchase our products. Inflation may cause our customers to reduce or delay orders for our products thereby causing a decrease in sales. Increased instability relating to this higher inflation as well as rising interest rates may enhance volatility in currency exchange rates, limit our suppliers and customers access to credit and limit our ability to access debt and equity financing. These uncertainties may make it difficult for us and our suppliers and customers to accurately plan future business activities and materially adversely impact our operating results and financial condition. While we adjust our prices to try to offset rising operating costs, we may not be able to fully offset such higher costs or demand may decline. Our inability to offset costs or consequential decline in demand could harm our business, results of operations or financial condition. We do not believe that inflation has had a material effect on our business, financial condition, or results of operations, other than its impact on the general economy. We cannot assure you, however, that our results of operations and financial condition will not be materially impacted by inflation in the future. 
+ Interest Rate Risk 
+ As of September 30, 2024, we had cash and cash equivalents, restricted cash and short-term investments of 153.8 million , out of which 17.0 million consisted of institutional money market funds, 53.8 million commercial paper, and 53.2 million consisted of corporate debt and U.S. government agency securities, all of which carries a degree of interest rate risk. The primar y goals of our investment policy are liquidity and capital preservation. We do not enter into investments for trading or speculative purposes. 
+ These investments are subject to interest rate risk, as sharp increases in market interest rates could have an adverse impact on their fair value. Although the fair values of these instruments can fluctuate, we believe that the short-term, highly liquid nature of these investments, and our ability to hold these instruments to maturity, reduces our risk for potential material losses. A hypothetical 100 basis point change in interest rates would not have a material impact on our financial condition or results of operations due to the short-term nature of our investment portfolio. 
+ On August 12, 2024, we repaid in full, with cash on hand, all outstanding indebtedness and terminated all commitments and obligations under the UBS Agreement. As of September 30, 2024, we had no debt outstanding and therefore are not exposed to interest rate risk with respect to debt. 
+ Foreign Currency Exchange Risk 
+ Our results of operations and cash flows are subject to fluctuations due to changes in foreign currency exchange rates. Substantially all of our revenue is generated in U.S. dollars. Our expenses are generally denominated in the currencies of the jurisdictions in which we conduct our operations, which are primarily in the U.S. and to a lesser extent in Asia and Europe. Our results of operations and cash flows are, therefore, subject to fluctuations due to changes in foreign currency exchange rates and may be adversely affected in the future due to changes in foreign exchange rates. The effect of a hypothetical 10 change in foreign currency exchange rates applicable to our business would not have a material impact on our historical consolidated financial statements. To date, we have not engaged in any hedging strategies. As our international operations grow, we will continue to reassess our approach to manage our risk relating to fluctuations in currency rates. No strategy can completely insulate us from risks associated with such fluctuations and our currency exchange rate risk management activities could expose us to substantial losses if such rates move materially differently from our expectations. 
+ 44 
+
+Table of Contents 
+
+ Item 4. Controls and Procedures 
+ Limitations on Effectiveness of Controls and Procedures 
+ We maintain disclosure controls and procedures (as that term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) that are designed to ensure that information required to be disclosed in the reports filed or submitted under the Securities Exchange Act of 1934, as amended, Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosures. In designing and evaluating our disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs. 
+ Evaluation of Disclosure Controls and Procedures 
+ Our management, with the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures (as that term is defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of September 30, 2024. Based on that evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures were not effective as of September 30, 2024 due to the material weaknesses in our internal control over financial reporting described below. 
+ Material weaknesses and remediation measures 
+ Our management is responsible for establishing and maintaining adequate internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act). 
+ A material weakness is a deficiency, or a combination of deficiencies, in internal control over financial reporting such that there is a reasonable possibility that a material misstatement of our annual or interim financial statements will not be prevented or detected on a timely basis. 
+ We did not design and maintain an effective control environment commensurate with our financial reporting requirements. Specifically, we did not maintain a sufficient complement of personnel with an appropriate degree of internal controls and accounting knowledge, experience, and training commensurate with our accounting and reporting requirements. 
+ This material weakness also contributed to the following additional material weaknesses. 
+ We did not design and maintain effective controls over the period-end financial reporting process to achieve complete, accurate and timely financial accounting, reporting and disclosures, including segregation of duties and adequate controls related to journal entries and certain other business processes, and verifying transactions are properly classified in the financial statements. 
+ These material weaknesses resulted in adjustments to several account balances and disclosures in the consolidated financial statements for the years ended December 31, 2019 and 2018, and adjustments to the equity and warrant liabilities accounts and related disclosures in the unaudited condensed consolidated financial statements for the three months ended March 31, 2021. The material weakness related to the control environment also resulted in an immaterial adjustment, which was recorded prior to the issuance of the unaudited condensed consolidated financial statements as of June 30, 2024. 
+ Additionally, each of these material weaknesses could result in a misstatement of account balances or disclosures that would result in a material misstatement to the annual or interim consolidated financial statements that would not be prevented or detected. 
+ 45 
+
+Table of Contents 
+
+ Remediation Measures Taken 
+ We are continuing to execute a remediation plan to address the control deficiencies underlying these material weaknesses. These remediation measures are ongoing and include the following: 
+ Continuing to recruit personnel with appropriate internal controls, accounting knowledge and experience commensurate with our accounting and reporting requirements, in addition to engaging and utilizing third party consultants and specialists. Our management also reallocated roles and responsibilities within the accounting team based on skills and experience of various personnel. 
+ Continuing to operate entity level controls (ELCs) including Board and Audit Committee oversight, senior management review of financial and business performance and internal controls, and expansion of the internal audit team. We have designed and implemented these controls in the previous financial years. 
+ Continuing to provide internal control training for personnel responsible for implementing internal controls for the Company. 
+ Continuing to operate internal controls for financial close and reporting including review of accounting policies, journal entry review controls, period end close procedures, financial statement preparation, review, and reporting, and controls within various business processes as they relate to financial reporting, including controls to ensure segregation of duties. This included controls around classification of balances in our financial statements and strengthening processes for management oversight over financial reporting and disclosure controls. We have designed and implemented these controls in the previous financial years. 
+ These investments in resources have improved the stability of our accounting organization. While significant progress has been made in response to the material weaknesses, time is needed to demonstrate sustainability as it relates to our internal control over financial reporting and improvements made to our complement of resources, including demonstrating sustained operating effectiveness of our internal controls. We are committed to continuous improvement and will continue to diligently review our internal control over financial reporting. 
+ Changes in Internal Control over Financial Reporting 
+ Other than the remediation measures described above, there were no changes in our internal control over financial reporting (as such term is defined in Rules 13a-15(f) and 15d-15(f) under the Exchange Act) during the quarter ended September 30, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 46 
+
+Table of Contents 
+
+ PART II. OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings 
+ We are, from time to time, party to various claims and legal proceedings arising in the ordinary course of our business. See Part I, Item 1 Financial Statements (Unaudited) - Note 8, Commitments and Contingencies, incorporated herein by reference, for a discussion of material legal proceedings. 
+ 
+ Item 1A. Risk Factors 
+ Investing in our securities involves a high degree of risk. You should carefully consider the risks described under the heading Risk Factors in Part I, Item 1A. of our 2023 Annual Report, the other information in this Quarterly Report, including our unaudited condensed consolidated financial statements and the related notes, as well as our other public filings with the SEC, before deciding to invest in our securities. There have been no material changes to the Company s risk factors previously disclosed in our 2023 Annual Report. The occurrence of any of the events described therein could harm our business, financial condition, results of operations, liquidity or prospects. In such an event, the market price of our common stock could decline, and you may lose all or part of your investment. 
+ 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ None. 
+ 
+ Item 3. Defaults Upon Senior Securities 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures 
+ Not applicable. 
+ 
+ Item 5. Other Information 
+ (a) Disclosure in lieu of reporting on a Current Report on Form 8-K. 
+ None. 
+ (b) Material changes to the procedures by which security holders may recommend nominees to the board of directors. 
+ None. 
+ (c) Insider trading arrangements and policies. 
+ During the three months ended September 30, 2024, no director or officer of the Company, as defined in Rule 16a-1(f) of the Exchange Act, or a Rule 10b5-1 trading arrangement intended to satisfy the affirmative defense of Rule 10b5-1(c) or a non-Rule 10b5-1 trading arrangement, as each term is defined in Item 408(a) of Regulation S-K. 
+ 47 
+
+Table of Contents 
+
+ Item 6. Exhibits. 
+ Exhibit Number Description Incorporated by Reference Form File No. Exhibit Filing Date Filed/ Furnished herewith 2.1 
+ Agreement and Plan of Merger, dated as of December 21, 2020, by and among the Company, Beam Merger Sub, Inc. and Ouster, Inc. 
+ S-4/A 333-251611 2.1 2/10/2021 2.2 
+ Agreement and Plan of Merger, dated November 4, 2022, by and among Velodyne Lidar, Inc., Ouster, Inc., Oban Merger Sub, Inc. and Oban Merger Sub II LLC. 
+ 8-K 001-39463 2.1 11/7/2022 3.1 
+ Certificate of Incorporation of Ouster, Inc. 
+ S-4 POS 333-251611 3.1 3/10/2021 3.2 
+ Certificate of Amendment to Certificate of Incorporation of Ouster, Inc. 
+ 8-K 001-39463 3.1 4/20/2023 3.3 
+ Second Amended and Restated Bylaws of Ouster, Inc. (effective as of April 18, 2024) 
+ 8-K 
+ 001-39463 3.1 
+ 4/22/2024 
+ 4.1 
+ Warrant Agreement, dated October 14, 2018, by and between Continental Stock Transfer Trust Company and Velodyne Lidar, Inc. 
+ 8-K 001-38703 4.1 10/18/2018 4.2 
+ Warrant to Purchase Common Stock of Velodyne Lidar, Inc., by and between Velodyne Lidar, Inc. and Amazon.com NV Investment Holdings LLC, dated as of February 4, 2022 
+ 8-K 001-38703 4.1 2/7/2022 31.1 
+ Certification of Chief Executive Officer pursuant to Rules 13a-14(a)/15d-14(a) under the Securities Exchange Act of 1934, as amended 
+ 31.2 
+ Certification of Chief Financial Officer pursuant to Rules 13a-14(a)/15d-14(a) under the Securities Exchange Act of 1934, as amended 
+ 32.1 
+ Certification of Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 32.2 
+ Certification of Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 
+ 101.INS Inline XBRL Instance Document - the instance document does not appear in the Interactive Data file because its XBRL tags are embedded within the Inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document 101.DEF Inline XBRL Taxonomy Extension Definition Linkbase Document 101.LAB Inline XBRL Taxonomy Label Linkbase Document 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document 104 Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101) 
+ 
+ ____________ 
+ The annexes, schedules, and certain exhibits to this Exhibit have been omitted pursuant to Item 601(b)(2) of Regulation S-K. 
+ Filed herewith. Furnished herewith. 
+ 48 
+
+Table of Contents 
+
+ SIGNATURE 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ Ouster, Inc. Date: November 8, 2024 
+ By: /s/ Mark Weinswig Name: Mark Weinswig Title: Chief Financial Officer principal financial officer and principal accounting officer 
+ 
+ 49 
+
+<EX-31.1>
+ 2
+ oust-30sept24xex311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION 
+ I, Angus Pacala, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Ouster, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date November 8, 2024 
+ By s Angus Pacala Angus Pacala Co-Founder and Chief Executive Officer 
+ (principal executive officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ oust-30sept24xex312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION 
+ I, Mark Weinswig, certify that 
+ 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Ouster, Inc. 
+ 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ 
+ Date November 8, 2024 
+ By s Mark Weinswig Mark Weinswig Chief Financial Officer 
+ principal financial officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ oust-30sept24xex321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report on Form 10-Q of Ouster, Inc. (the Company for the period ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date November 8, 2024 
+ By s Angus Pacala 
+ Angus Pacala Co-Founder and Chief Executive Officer 
+ principal executive officer 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ oust-30sept24xex322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report on Form 10-Q of Ouster, Inc. (the Company for the period ended September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I certify, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ (1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ (2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date November 8, 2024 
+ By s Mark Weinswig Mark Weinswig Chief Financial Officer 
+ principal financial officer) 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ oust-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ oust-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ oust-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ oust-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ oust-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

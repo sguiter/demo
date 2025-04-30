@@ -1,0 +1,8680 @@
+<Header>
+<FileStats>
+    <FileName>20241107_10-Q_edgar_data_880631_0001214659-24-018545.txt</FileName>
+    <GrossFileSize>11859940</GrossFileSize>
+    <NetFileSize>165444</NetFileSize>
+    <NonText_DocumentType_Chars>2778781</NonText_DocumentType_Chars>
+    <HTML_Chars>2008443</HTML_Chars>
+    <XBRL_Chars>2271419</XBRL_Chars>
+    <XML_Chars>2400397</XML_Chars>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001214659-24-018545.hdr.sgml : 20241107
+<ACCEPTANCE-DATETIME>20241107143030
+ACCESSION NUMBER:		0001214659-24-018545
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		131
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241107
+DATE AS OF CHANGE:		20241107
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WisdomTree, Inc.
+		CENTRAL INDEX KEY:			0000880631
+		STANDARD INDUSTRIAL CLASSIFICATION:	SECURITY BROKERS, DEALERS & FLOTATION COMPANIES [6211]
+		ORGANIZATION NAME:           	02 Finance
+		IRS NUMBER:				133487784
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-10932
+		FILM NUMBER:		241434721
+
+	BUSINESS ADDRESS:	
+		STREET 1:		250 WEST 34TH STREET
+		STREET 2:		3RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10119
+		BUSINESS PHONE:		212-801-2080
+
+	MAIL ADDRESS:	
+		STREET 1:		250 WEST 34TH STREET
+		STREET 2:		3RD FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10119
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WisdomTree Investments, Inc.
+		DATE OF NAME CHANGE:	20090401
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INDEX DEVELOPMENT PARTNERS INC
+		DATE OF NAME CHANGE:	20020812
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FINANCIAL DATA SYSTEMS
+		DATE OF NAME CHANGE:	19951120
+
+</SEC-Header>
+</Header>
+
+ 0001214659-24-018545.txt : 20241107
+
+10-Q
+ 1
+ wt-20240930.htm
+
+UNITED STATES 
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+________________________ 
+
+Form 
+
+________________________ 
+
+(Mark One) 
+
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the quarterly period ended 
+
+or 
+
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the transition period from____to____. 
+
+Commission File Number 
+
+________________________ 
+
+(Exact name of registrant as specified in its charter)
+
+________________________ 
+
+(State or other jurisdiction of incorporation or organization) (IRS Employer Identification No.) , (Address of principal executive offices) (Zip Code) 
+
+ - 
+
+(Registrant s telephone number, including area
+code) 
+
+________________________ 
+
+Securities registered pursuant to Section 12(b)
+of the Exchange Act: 
+
+Title of each class Trading Symbol(s) Name of each exchange on which registered 
+
+ Indicate by check mark whether the registrant
+(1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934, as amended (the
+ Exchange Act during the preceding 12 months (or for such shorter period that the registrant was required to file such reports),
+and (2) has been subject to such filing requirements for the past 90 days. 
+No 
+
+Indicate by check mark whether the registrant
+has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405
+of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). 
+ No 
+
+Indicate by check mark whether the registrant
+is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or emerging growth company.
+See definitions of large accelerated filer, accelerated filer, smaller reporting company and
+ emerging growth company in Rule 12b-2 of the Exchange Act. 
+
+Accelerated filer Non-accelerated filer Smaller reporting company Emerging growth company 
+
+ If an emerging growth company, indicate by check
+mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting
+standards provided pursuant to Section 13(a) of the Exchange Act 
+
+Indicate by check mark whether the registrant
+is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+
+As of November 4, 2024, there were 
+shares of the registrant s Common Stock, 0.01 par value per share, outstanding. 
+
+WISDOMTREE, INC. 
+
+Form 10-Q 
+
+For the Quarterly Period Ended September 30, 2024
+
+TABLE OF CONTENTS 
+
+PART I: FINANCIAL INFORMATION 4 ITEM 1. FINANCIAL STATEMENTS 4 ITEM 2. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 35 ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 54 ITEM 4. CONTROLS AND PROCEDURES 55 PART II: OTHER INFORMATION 56 ITEM 1. LEGAL PROCEEDINGS 56 ITEM 1A. RISK FACTORS 56 ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 57 ITEM 3. DEFAULTS UPON SENIOR SECURITIES 57 ITEM 4. MINE SAFETY DISCLOSURES 57 ITEM 5. 57 ITEM 6. EXHIBITS 58 
+
+Unless otherwise indicated, references to the Company, 
+ we, us, our and WisdomTree mean WisdomTree, Inc. and its subsidiaries. 
+
+WisdomTree , WisdomTree Prime , WisdomTree
+Connect and Modern Alpha are trademarks of WisdomTree, Inc. in the United States and in other countries. All other
+trademarks are the property of their respective owners. 
+
+2 
+
+Table of Contents 
+
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING
+STATEMENTS 
+
+This Quarterly Report on Form 10-Q, or Report,
+contains forward-looking statements that are based on our management s beliefs and assumptions and on information currently available
+to our management. Although we believe that the expectations reflected in these forward-looking statements are reasonable, these statements
+relate to future events or our future financial performance, and involve known and unknown risks, uncertainties and other factors that
+may cause our actual results, levels of activity, performance or achievements to be materially different from any future results, levels
+of activity, performance or achievements expressed or implied by these forward-looking statements. 
+
+In some cases, you can identify forward-looking
+statements by terminology such as may, will, should, expects, intends, 
+ plans, anticipates, believes, estimates, predicts, potential, 
+ continue or the negative of these terms or other comparable terminology. These statements are only predictions. You should
+not place undue reliance on forward-looking statements because they involve known and unknown risks, uncertainties and other factors,
+which are, in some cases, beyond our control and which could materially affect our results. Factors that may cause actual results to differ
+materially from current expectations include, among other things, those listed in the section entitled Risk Factors included
+in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 and in subsequent reports filed with or furnished to the
+Securities and Exchange Commission, or the SEC. If one or more of these or other risks or uncertainties occur, or if our underlying assumptions
+prove to be incorrect, actual events or results may vary significantly from those implied or projected by the forward-looking statements.
+No forward-looking statement is a guarantee of future performance. You should read this Report and the documents that we reference in
+this Report and have filed with the SEC as exhibits to this Report, completely and with the understanding that our actual future results
+may be materially different from any future results expressed or implied by these forward-looking statements. 
+
+In particular, forward-looking statements in
+this Report may include statements about: 
+
+anticipated trends, conditions and investor sentiment in the global markets and exchange-traded products, or ETPs; 
+
+anticipated levels of inflows into and outflows out of our ETPs; 
+
+our ability to deliver favorable rates of return to investors; 
+
+competition in our business; 
+
+whether we will experience future growth; 
+
+our ability to develop new products and services and their potential for success; 
+
+our ability to maintain current vendors or find new vendors to provide services to us at favorable costs; 
+
+our ability to successfully implement our strategy relating to digital assets and blockchain-enabled financial services, including
+WisdomTree Prime and WisdomTree Connect, and achieve its objectives; 
+
+our ability to successfully operate and expand our business in non-U.S. markets; 
+
+the effect of laws and regulations that apply to our business; and 
+
+actions of activist stockholders. 
+
+The forward-looking statements in this Report
+represent our views as of the date of this Report. We anticipate that subsequent events and developments may cause our views to change.
+However, while we may elect to update these forward-looking statements at some point in the future, we have no current intention of doing
+so except to the extent required by applicable law. Therefore, these forward-looking statements do not represent our views as of any date
+other than the date of this Report. 
+
+3 
+
+Table of Contents 
+
+PART I: FINANCIAL
+INFORMATION 
+
+ITEM 1. FINANCIAL STATEMENTS 
+
+WisdomTree, Inc. and Subsidiaries 
+
+Consolidated Balance Sheets 
+
+(In Thousands, Except Per Share Amounts) 
+
+September 30, 2024 
+ December 31, 2023 
+ 
+ Assets 
+ (unaudited) 
+
+Current assets: 
+
+Cash, cash equivalents and restricted cash (including and invested in the WisdomTree Government Money Market Digital Fund at September 30, 2024 and December 31, 2023, respectively) 
+
+Financial instruments owned, at fair value (including and invested in WisdomTree products at September 30, 2024 and December 31, 2023, respectively) (Note 5) 
+
+Accounts receivable (including 33,764 and 28,511 due from related parties at September 30, 2024 and December 31, 2023, respectively) 
+
+Prepaid expenses 
+
+Other current assets 
+
+Total current assets 
+
+Fixed assets, net 
+
+Securities held-to-maturity 
+
+Deferred tax assets, net (Note 21) 
+
+Investments (Note 7) 
+
+Right of use assets operating leases (Note 13) 
+
+Goodwill (Note 23) 
+
+Intangible assets, net (Note 23) 
+
+Other noncurrent assets 
+
+Total assets 
+
+Liabilities and stockholders equity 
+
+Liabilities 
+
+Current liabilities: 
+
+Fund management and administration payable 
+
+Compensation and benefits payable 
+
+Payable to Gold Bullion Holdings (Jersey) Limited GBH (Note 12) 
+
+Income taxes payable 
+
+Operating lease liabilities (Note 13) 
+
+Accounts payable and other liabilities 
+
+Total current liabilities 
+
+Convertible notes (Note 10) 
+
+Payable to GBH (Note 12) 
+
+Operating lease liabilities long term 
+
+Total liabilities 
+
+Preferred stock Series A Non-Voting Convertible, par value ; and shares authorized, issued and outstanding at September 30, 2024 and December 31, 2023, respectively; redemption value of 0 and at September 30, 2024 and December 31, 2023, respectively) (Note 11)
+
+Contingencies (Note 14) 
+
+Stockholders equity 
+
+Preferred stock, par value ; shares authorized 
+
+Common stock, par value ; shares authorized; issued and outstanding: and at September 30, 2024 and December 31, 2023, respectively 
+
+Additional paid-in capital 
+
+Accumulated other comprehensive income/(loss) 
+
+Retained earnings 
+
+Total stockholders equity 
+
+Total liabilities and stockholders equity 
+
+The accompanying notes are an integral part
+of these consolidated financial statements. 
+
+4 
+
+Table of Contents 
+
+WisdomTree, Inc. and Subsidiaries 
+
+Consolidated Statements of Operations 
+
+(In Thousands, Except Per Share Amounts) 
+
+(Unaudited) 
+
+Three Months Ended September 30, 
+ Nine Months Ended September 30, 
+
+2024 
+ 2023 
+ 2024 
+ 2023 
+ 
+ Operating Revenues: 
+
+Advisory fees 
+
+Other revenues 
+
+Total revenues 
+
+Operating Expenses: 
+
+Compensation and benefits 
+
+Fund management and administration 
+
+Marketing and advertising 
+
+Sales and business development 
+
+Contractual gold payments (Note 9) 
+
+Professional fees 
+
+Occupancy, communications and equipment 
+
+Depreciation and amortization 
+
+Third-party distribution fees 
+
+Other 
+
+Total operating expenses 
+
+Operating income 
+
+Other Income/(Expenses): 
+
+Interest expense 
+
+Gain on revaluation/termination of deferred consideration gold payments (Note 9) 
+
+Interest income 
+
+Impairments (Note 25) 
+
+Loss on extinguishment of convertible notes (Note 10) 
+
+Other losses, net 
+
+Income before income taxes 
+
+Income tax expense 
+
+Net (loss)/income 
+
+(Loss)/earnings per share basic 
+
+(Loss)/earnings per share diluted 
+
+Weighted-average common shares basic 
+
+Weighted-average common shares diluted 
+
+Cash dividends declared per common share 
+
+The accompanying notes are an integral part
+of these consolidated financial statements. 
+
+5 
+
+Table of Contents 
+
+WisdomTree, Inc. and Subsidiaries 
+
+Consolidated Statements of Comprehensive (Loss)/Income 
+
+(In Thousands) 
+
+(Unaudited) 
+
+Three Months Ended September 30, 
+ Nine Months Ended September 30, 
+
+2024 
+ 2023 
+ 2024 
+ 2023 
+ 
+ Net (loss)/income 
+
+Other comprehensive income/(loss) 
+
+Foreign currency translation adjustment, net of income taxes 
+
+Other comprehensive income/(loss) 
+
+Comprehensive (loss)/income 
+
+The accompanying notes are an integral part
+of these consolidated financial statements. 
+
+6 
+
+Table of Contents 
+
+WisdomTree, Inc. and Subsidiaries 
+
+Consolidated Statements of Changes in Stockholders 
+Equity 
+
+(In Thousands) 
+
+(Unaudited) 
+
+Three Months Ended September 30, 2024 
+
+Series
+C 
+Preferred Stock 
+ Common
+ Stock 
+ Additional 
+ Accumulated Other 
+
+Shares Issued 
+ Par Value 
+ Shares Issued 
+ Par Value 
+ Paid-In 
+Capital 
+ Comprehensive 
+(Loss)/Income 
+ Retained Earnings 
+ Total 
+ 
+ Balance July 1, 2024 
+
+Shares repurchased 
+
+Restricted stock issued and vesting of restricted stock units, net 
+
+Stock-based compensation 
+
+Repurchase of Series A Preferred Stock (Note 11) 
+
+Excise taxes stock repurchases 
+
+Other comprehensive income 
+
+Dividends 
+
+Net loss 
+
+Balance September 30, 2024 
+
+Three Months Ended September 30, 2023 
+
+Series C 
+
+ Preferred Stock 
+
+Common Stock 
+
+Additional 
+
+Accumulated 
+Other 
+
+Shares 
+ Issued 
+
+Par 
+ Value 
+
+Shares 
+ Issued 
+
+Par 
+ Value 
+
+Paid-In 
+ Capital 
+ Comprehensive 
+ Loss 
+ Retained 
+ Earnings 
+ Total 
+ 
+ Balance July 1, 2023 
+
+Shares repurchased 
+
+Restricted stock issued and vesting of restricted stock units, net 
+
+Stock-based compensation 
+
+Other comprehensive loss 
+
+Dividends 
+
+Net income 
+
+Balance September 30, 2023 
+
+The accompanying notes are an integral part
+of these consolidated financial statements. 
+
+7 
+
+Table of Contents 
+
+WisdomTree, Inc. and Subsidiaries 
+
+Consolidated Statements of Changes in Stockholders 
+Equity 
+
+(In Thousands) 
+
+(Unaudited) 
+
+Nine Months Ended September 30, 2024 
+
+Series C Preferred Stock 
+ Common Stock 
+ Additional 
+ Accumulated Other 
+
+Shares Issued 
+ Par Value 
+ Shares Issued 
+ Par Value 
+ Paid-In 
+Capital 
+ Comprehensive (Loss)/Income 
+ Retained Earnings 
+ Total 
+ 
+ Balance January 1, 2024 
+
+Restricted stock issued and vesting of restricted stock units, net 
+
+Shares repurchased 
+
+Stock-based compensation 
+
+Repurchase of Series A Preferred Stock (Note 11) 
+
+Excise taxes Stock repurchases 
+
+Other comprehensive income 
+
+Dividends 
+
+Net income 
+
+Balance September 30, 2024 
+
+Nine Months Ended September 30, 2023 
+
+Series C Preferred Stock 
+ Common Stock 
+ Additional 
+ Accumulated Other 
+
+Shares Issued 
+ Par Value 
+ Shares Issued 
+ Par Value 
+ Paid-In Capital 
+ Comprehensive Loss 
+ Retained Earnings 
+ Total 
+ 
+ Balance January 1, 2023 
+
+Shares issued in connection with termination of the deferred consideration gold payments obligation, net of issuance costs (Note 9) 
+
+Restricted stock issued and vesting of restricted stock units, net 
+
+Shares issued in connection with convertible notes that matured on June 15, 2023 (Note 10) 
+
+Shares repurchased 
+
+Stock-based compensation 
+
+Other comprehensive loss 
+
+Dividends 
+
+Net income 
+
+Balance September 30, 2023 
+
+The accompanying notes are an integral part
+of these consolidated financial statements. 
+
+8 
+
+Table of Contents 
+
+WisdomTree, Inc. and Subsidiaries 
+
+Consolidated Statements of Cash Flows 
+
+(In Thousands) 
+
+(Unaudited) 
+
+Nine Months Ended September 30, 
+
+2024 
+ 2023 
+ 
+ Cash flows from operating activities: 
+
+Net income 
+
+Adjustments to reconcile net income to net cash provided by operating activities: 
+
+Advisory and license fees paid in gold, other precious metals and cryptocurrency 
+
+Loss on extinguishment of convertible notes 
+
+Stock-based compensation 
+
+(Gains)/losses on financial instruments owned, at fair value 
+
+Deferred income taxes 
+
+Imputed interest on payable to GBH 
+
+Amortization of issuance costs convertible notes 
+
+Depreciation and amortization 
+
+Amortization of right of use asset 
+
+Losses on investments 
+
+Gain on revaluation/termination of deferred consideration gold payments 
+
+Impairments 
+
+Contractual gold payments 
+
+Other 
+
+Changes in operating assets and liabilities: 
+
+Accounts receivable 
+
+Prepaid expenses 
+
+Gold and other precious metals 
+
+Other assets 
+
+Fund management and administration payable 
+
+Compensation and benefits payable 
+
+Income taxes payable 
+
+Operating lease liabilities 
+
+Accounts payable and other liabilities 
+
+Net cash provided by operating activities 
+
+Cash flows from investing activities: 
+
+Purchase of financial instruments owned, at fair value 
+
+Purchase of investments 
+
+Cash paid software development 
+
+Purchase of fixed assets 
+
+Proceeds from the sale of financial instruments owned, at fair value 
+
+Proceeds from the exit from investment in Securrency, Inc. 
+
+Proceeds from held-to-maturity securities maturing or called prior to maturity 
+
+Receipt of contingent consideration Sale of Canadian ETF business 
+
+Acquisition of Securrency Transfers, Inc. (net of cash acquired) 
+
+Net cash (used in)/provided by investing activities 
+
+Cash flows from financing activities: 
+
+Repurchase of Series A Preferred Stock 
+
+Repurchase and maturity of convertible notes (Note 10) 
+
+Shares repurchased 
+
+Dividends paid 
+
+Issuance costs convertible notes 
+
+Repurchase costs Series A Preferred Stock 
+
+Proceeds from the issuance of convertible notes (Note 10) 
+
+Termination of deferred consideration gold payments 
+
+Issuance costs Series C Preferred Stock 
+
+Net cash used in financing activities 
+
+Increase/(decrease) in cash flow due to changes in foreign exchange rate 
+
+Net increase/(decrease) in cash, cash equivalents and restricted cash 
+
+Cash, cash equivalents and restricted cash beginning of year 
+
+Cash, cash equivalents and restricted cash end of period 
+
+Supplemental disclosure of cash flow information: 
+
+Cash paid for income taxes 
+
+Cash paid for interest 
+
+9 
+
+Table of Contents 
+
+WisdomTree, Inc. and Subsidiaries 
+
+Consolidated Statements of Cash Flows (Continued) 
+
+(In Thousands) 
+
+(Unaudited) 
+
+NON-CASH INVESTING AND FINANCING ACTIVITIES 
+
+On May 10, 2023, the Company issued 13.087
+shares of Series C Non-Voting Convertible Preferred Stock (valued at 86,898) in connection with the termination of its deferred consideration gold
+payments obligation. See Note 9 for additional information. 
+
+On June 15, 2023, the Company issued 1,037
+shares of common stock (as the conversion option was in the money) in connection with the maturity of 60,000 aggregate principal amount
+of 4.25 Convertible Senior Notes. 
+
+The accompanying notes
+are an integral part of these consolidated financial statements. 
+
+10 
+
+Table of Contents 
+
+WisdomTree, Inc. and Subsidiaries 
+
+Notes to Consolidated Financial Statements 
+
+(In Thousands, Except Share and Per Share Amounts)
+
+11 
+
+Table of Contents 
+
+12 
+
+Table of Contents 
+
+to years 
+ 
+ Internally-developed software 
+ years 
+
+13 
+
+Table of Contents 
+
+14 
+
+Table of Contents 
+
+likely of being realized upon ultimate settlement. The Company records
+interest expense and penalties related to tax expenses as income tax expense. 
+
+15 
+
+Table of Contents 
+
+and at September 30, 2024 and December 31, 2023, respectively, and were held at three financial
+institutions. At September 30, 2024 and December 31, 2023, cash equivalents were approximately and , respectively. 
+
+ Certain of the Company s subsidiaries
+are required to maintain a minimum level of regulatory capital, generally satisfied by cash on hand, which was and at
+September 30, 2024 and December 31, 2023, respectively. Of these amounts, and , at September 30, 2024 and December 31, 2023,
+respectively, was restricted cash, which is required to be maintained in a separate account with withdrawal and usage restrictions in
+compliance with regulatory obligations. 
+
+16 
+
+Table of Contents 
+
+Financial instruments owned, at fair value: 
+
+ETFs 
+
+Pass-through GSEs 
+
+Other assets seed capital (WisdomTree Digital Funds): 
+
+U.S. treasuries 
+
+Equities 
+
+Fixed income 
+
+Total 
+
+Non-recurring fair value measurements: 
+
+Fnality International Limited Series B-1 Preference Shares (1) 
+
+_____________________________ 
+
+Financial instruments owned, at fair value: 
+
+ETFs 
+
+Pass-through GSEs 
+
+Other assets seed capital (WisdomTree Digital Funds): 
+
+U.S. treasuries 
+
+Equities 
+
+Fixed income 
+
+Total 
+
+Non-recurring fair value measurements: 
+
+Fnality International Limited Series B-1 Preference Shares (1) 
+
+Other investments (2) 
+
+Total 
+
+_____________________________ 
+ 
+ (2) 
+
+17 
+
+Table of Contents 
+
+days. These investments
+are valued at par, which approximates fair value, and are classified as Level 1 in the fair value hierarchy. 
+
+ Financial instruments owned (Note 5) 
+ Financial instruments owned are investments in ETFs, pass-through GSEs, U.S. treasuries, equities and fixed income. ETFs and equities
+are generally traded in active, quoted and highly liquid markets and are therefore classified as Level 1 in the fair value hierarchy.
+Pricing of U.S. treasuries, pass-through GSEs and fixed income includes consideration given to date of issuance, collateral characteristics
+and market assumptions related to yields, credit risk and timing of prepayments and may be classified as either Level 1 or Level 2. 
+
+Other assets seed capital (WisdomTree Digital Funds) 
+
+Total 
+
+The Company recognized net trading gains on
+financial instruments owned that were still held at the reporting dates of and during the three months ended September 30,
+2024 and 2023, respectively, and and during the nine months ended September 30, 2024 and 2023, respectively, which were recorded
+in other losses, net, in the Consolidated Statements of Operations. 
+
+During the nine months ended September 30, 2024
+and 2023, the Company received proceeds of and , respectively, from held-to-maturity securities maturing or being called prior
+to maturity. 
+
+Gross unrealized losses 
+
+Fair value 
+
+An allowance for credit losses was not provided
+on the Company s held-to-maturity securities as all securities are investments in pass-through GSEs which are determined to have
+an estimated loss rate of zero due to an implicit U.S. government guarantee. 
+
+Due over ten years 
+
+Total 
+
+18 
+
+Table of Contents 
+
+Total 
+
+Fnality International Limited 
+
+ The Company owns approximately (or 
+on a fully-diluted basis) of capital stock of Fnality International Limited Fnality ), a company incorporated in England
+and Wales and focused on creating a peer-to-peer digital wholesale settlement ecosystem comprised of a consortium of financial institutions,
+offering real time cross-border payments from a single pool of liquidity. The Company s ownership interest is represented by 
+Series B-1 Preference Shares, resulting from the conversion of its investment of in convertible notes upon
+Fnality s qualified equity financing which occurred in October 2023. The Series B-1 Preference Shares carry a 1.0x liquidation preference,
+are convertible into ordinary shares at the option of the Company and contain various rights and protections. 
+
+ This investment is accounted for under the measurement
+alternative prescribed in ASC 321, as it does not have a readily determinable fair value and is otherwise not subject to the equity method
+of accounting. The investment is assessed for impairment and similar observable transactions on a quarterly basis. This investment was
+re-measured to fair value upon the conversion of Fnality s Series B-2 Preference Shares held by other investors into Series B-1
+Preference Shares, which occurred in June 2024. Fair value was determined using the backsolve method, a valuation approach that determines
+the value of shares for companies with complex capital structures based upon the price paid for shares recently issued. Fair value was
+allocated across the capital structure using the Black-Scholes option pricing model. 
+
+ Time to exit (in years) Probability that Series B-2 Preference Shares convert into Series B-1 Preference Shares N/A
+
+Net unrealized gains/(losses) recognized on
+this investment were and during the three and nine months ended September 30, 2024, respectively, inclusive of changes in
+the British pound to U.S. dollar exchange rate. These results are recorded in other losses, net on the Consolidated Statements of Operations. 
+
+ There was no impairment recognized on this investment
+during the three and nine months ended September 30, 2024 based upon a qualitative assessment. 
+
+Less: accumulated depreciation 
+
+Total 
+
+ounces of gold per year through March 31, 2058 and then subsequently reduced
+to ounces of gold per year continuing into perpetuity contractual gold payments ). ETFS Capital continued to pass
+through the payments to other parties to meet its payment obligations under prior royalty agreements, including to Gold Bullion Holdings
+(Jersey) Limited GBH ), a subsidiary of the World Gold Council WGC ), Graham Tuckwell GT ),
+and Rodber Investments Limited RIL ), an entity controlled by GT, who is also the Chairman of ETFS Capital. 
+
+19 
+
+Table of Contents 
+
+pursuant to a Sale, Purchase and Assignment Deed (the
+ SPA Agreement with WisdomTree International Holdings Ltd, Electra Target HoldCo Limited, ETFS Capital, WGC, GBH, GT and
+RIL. Under the terms of the transaction, GBH received approximately in cash and shares of Series C Non-Voting Convertible
+Preferred Stock of the Company, par value per share, convertible into shares of the Company s common stock (see
+Note 12 for additional information), and RIL received approximately in cash. 
+
+Contractual gold payments gold ounces paid 
+
+Gain on revaluation/termination of deferred consideration gold payments 
+
+in aggregate principal amount of Convertible Senior Notes due 2026 (the 2026 Notes 
+
+in aggregate principal amount of Convertible Senior Notes due 2028 (the 2028 Notes and 
+
+in aggregate principal amount of Convertible Senior Notes due 2029 (the 2029 Notes ). 
+
+ Each class of notes were issued pursuant to
+indentures dated as of the issuance dates between the Company and either U.S. Bank National Association or U.S Bank Trust Company, National
+Association, as trustee (or its successor in interest, the Trustee ), in private offerings to qualified institutional buyers
+pursuant to Rule 144A under the Securities Act of 1933, as amended. 
+
+ In connection with the issuance of the 2029
+Notes, the Company repurchased in aggregate principal amount of the 2028 Notes. As a result of this repurchase, the Company recognized
+a loss on extinguishment of during the three and nine months ended September 30, 2024. 
+
+ As of September 30, 2024, the Company had an
+aggregate principal amount of outstanding of the 2026 Notes, the 2028 Notes and the 2029 Notes (collectively, the Convertible
+Notes ). 
+
+Issuance date 	 Maturity date (unless earlier converted, repurchased or redeemed) 	 Interest rate 	 	 	 Initial conversion price 	 	 	 Initial conversion rate 	 	 	 Redemption price 	 	 	 
+ 
+ Interest rate: Payable semiannually in arrears on February 15 and August 15 of each year for the 2029 Notes and the 2028 Notes
+and on June 15 and December 15 of each year for the 2026 Notes. 
+
+Conversion price: Convertible at an initial conversion rate into shares of the Company s common stock, per principal
+amount of notes (equivalent to an initial conversion price set forth in the table above), subject to adjustment. 
+
+Conversion: Holders may convert at their option at any time prior to the close of business on the business day immediately
+preceding May 15, 2029 and May 15, 2028 for the 2029 Notes and the 2028 Notes, respectively, and March 15, 2026 for the 2026 Notes, only
+under the following circumstances: (i) if the last reported sale price of the Company s common stock for at least trading days
+during a period of consecutive trading days ending on the last trading day of the immediately preceding calendar quarter is greater
+than or equal to of the conversion price for the respective Convertible Notes on each applicable trading day; (ii) during the 
+business period after any consecutive trading period (the measurement period in which the trading price per
+ principal amount of the Convertible Notes for each trading day of the measurement period was less than of the product of the
+last reported sales price of the Company s common stock and the conversion rate on each such trading day; (iii) upon a notice of
+redemption delivered by the Company in accordance with the terms of the indentures but only with respect to the Convertible Notes called
+(or deemed called) for redemption; or (iv) upon the occurrence of specified corporate events. On or after May 15, 2029 and May 15, 2028
+in respect of the 2029 Notes and the 2028 Notes, respectively, and March 15, 2026 in respect of the 2026 Notes, until the close of business
+on the second scheduled trading day immediately preceding the maturity date, holders may convert their Convertible Notes at any time,
+regardless of the foregoing circumstances. 
+
+20 
+
+Table of Contents 
+
+of the conversion price for the respective Convertible Notes then in effect
+for at least trading days, including the trading day immediately preceding the date on which the Company provides notice of redemption,
+during any consecutive trading day period ending on, and including, the trading day immediately preceding the date on which the Company
+provides notice of redemption, at a redemption price equal to of the principal amount of the notes to be redeemed, plus accrued and
+unpaid interest to, but excluding the redemption date. No sinking fund is provided for the Convertible Notes. 
+
+Limited investor put rights: Holders of the Convertible Notes have the right to require the Company to repurchase for cash
+all or a portion of their notes at of their principal amount, plus any accrued and unpaid interest, upon the occurrence of certain
+change of control transactions or liquidation, dissolution or common stock delisting events. 
+
+Conversion rate increase in certain customary circumstances: In certain circumstances, conversions in connection with a make-whole
+fundamental change (as defined in the indentures) or conversions of Convertible Notes called (or deemed called) for redemption
+may result in an increase to the conversion rate, provided that the conversion rate will not exceed shares, shares and
+ shares of the Company s common stock per principal amount of the 2029 Notes, the 2028 Notes and the 2026 Notes,
+respectively (the equivalent of shares of the Company s common stock), subject to adjustment. 
+
+Seniority and Security: The Convertible Notes rank equal in right of payment and are the Company s senior unsecured obligations. 
+
+ The indentures contain customary terms and covenants,
+including that upon certain events of default occurring and continuing, either the Trustee or the respective holders of not less than
+ in aggregate principal amount of the respective series of Convertible Notes outstanding may declare the entire principal amount of
+all such respective Convertible Notes to be repurchased, plus any accrued special interest, if any, to be immediately due and payable. 
+
+Less: Unamortized issuance costs	 
+
+Carrying amount 
+
+Effective interest rate (1) 
+
+_____________________________ 
+
+Interest expense on the Convertible Notes was
+ and respectively, during the three and nine months ended September 30, 2024 and and , respectively, during
+the comparable periods in 2023. Interest payable of and at September 30, 2024 and December 31, 2023, respectively, is included
+in accounts payable and other liabilities on the Consolidated Balance Sheets. 
+
+ The fair value of the Convertible Notes (classified
+as Level 2 in the fair value hierarchy) was and at September 30, 2024 and December 31, 2023, respectively. The if-converted
+value of the 2028 Notes was at September 30, 2024. The if-converted value of the 2026 Notes and the 2029 Notes did not exceed
+the principal amount at September 30, 2024. The if-converted value of the Convertible Notes did not exceed the principal amount at December
+31, 2023. 
+
+21 
+
+Table of Contents 
+
+shares of the Company s common stock from ETFS Capital for aggregate cash consideration of (or per
+share). These shares were previously issued in April 2018, in connection with the completion of the acquisition by the Company of the
+European exchange-traded commodity, currency and leveraged-and-inverse business of ETFS Capital (the ETFS Acquisition and
+were carried at , which was based on the closing price of the Company s common stock on April 10, 2018 of per share,
+the trading day prior to the closing of the transaction. 
+
+ Under U.S. GAAP, the premium paid on repurchase
+represents a return similar to a dividend to the preferred stockholder and is required to be recorded to retained earnings along with
+the related transaction costs. During the three and nine months ended September 30, 2024, the Company recorded a reduction to
+retained earnings in connection with this repurchase. 
+
+Less: Issuance costs 
+
+Series A Preferred Stock carrying value 
+
+Cash dividends declared per share (quarterly) 
+
+The Company previously classified the Series
+A Preferred Stock as temporary equity which is required for redeemable instruments for which redemption triggers are outside of the issuer s
+control. ETFS Capital had the right to redeem all the Series A Preferred Stock specified to be converted during the period of time specified
+in the Series A Certificate of Designations in the event that: (a) the number of shares of the Company s common stock authorized
+by its certificate of incorporation was insufficient to permit the Company to convert all of the Series A Preferred Stock requested by
+ETFS Capital to be converted; or (b) ETFS Capital did not, upon completion of a change of control of the Company, receive the same
+amount per share of Series A Preferred Stock as it would have received had each outstanding share of Series A Preferred Stock been converted
+into common stock immediately prior to the change of control. However, the Company would not have been obligated to make any such redemption
+payments to the extent such payments would have been a breach of any covenant or obligation the Company owed to any of its secured creditors
+or is otherwise prohibited by applicable law. 
+
+ Any such redemption would have been at a price
+per share of Series A Preferred Stock equal to the dollar volume-weighted average price for a share of common stock for the 30-trading
+day period ending on the date of such attempted conversion or change of control, as applicable, multiplied by 1,000. Such redemption payment
+would have been made in one payment no later than 10 business days following the last day of the Company s first fiscal quarter
+that began on a date following the date ETFS Capital exercised such redemption right. The redemption value of the Series A Preferred Stock
+was at December 31, 2023. 
+
+per share (the Series C Preferred Stock which was
+convertible into shares of the Company s common stock, from GBH, a subsidiary of WGC, for aggregate cash consideration
+of approximately . Under the terms of the transaction, the Company paid GBH on the closing date, with the remainder of
+the purchase price payable in equal, interest-free installments on the first, second and third anniversaries of the closing date. The
+implied price per share was when considering the interest-free financing element of the transaction. The investor rights agreement
+that the Company and GBH entered into in May 2023 in connection with the issuance of the Series C Preferred Stock, which provided GBH
+with certain rights and obligations with respect to the shares, including registration rights, was terminated in this transaction. 
+
+ Under U.S. GAAP, the obligation was recorded
+at its present value utilizing a market rate of interest on the closing date of and the corresponding discount is being amortized
+as interest expense pursuant to the effective interest method of accounting over the life of the obligation. on the closing date and the carrying value of this obligation is as follows: 
+
+Long-term 
+
+Total 
+
+22 
+
+Table of Contents 
+
+and ,
+respectively, during the three and nine months ended September 30, 2024 and during the comparable periods in 2023 and is included as
+a component of total interest expense recognized on the Consolidated Statements of Operations. 
+
+Short-term lease cost Total lease cost Other information: Cash paid for amounts included in the measurement of operating liabilities (operating leases) Right-of-use assets obtained in exchange for new operating lease liabilities 	n/a 	n/a 	n/a n/a Weighted-average remaining lease term (in years) operating leases Weighted-average discount rate operating leases 
+
+ None of the Company s leases include variable
+payments, residual value guarantees or any restrictions or covenants relating to the Company s ability to pay dividends or incur
+additional financing obligations. 
+
+2025 
+
+2026 
+
+Total future minimum lease payments (undiscounted) 
+
+Lease liability long term 
+
+Subtotal 
+
+Difference between undiscounted and discounted cash flows 
+
+Total future minimum lease payments (undiscounted) 
+
+million throughout their lifetime as ESG-named funds. 
+
+ Without admitting or denying the SEC s
+allegations, WTAM agreed to resolve the matter by consenting to the entry of an Order by the SEC, which was announced publicly on October
+21, 2024, in which WTAM agreed to cease and desist from committing or causing any violations and any future violations of Sections 206(2)
+and 206(4) of the Investment Advisers Act of 1940, as amended, Rules 206(4)-7 and 206(4)-8 thereunder, and Section 34(b) of the Investment
+Company Act of 1940, as amended, and to pay a civil money penalty of (the SEC ESG Settlement ). This amount has been
+reported in other losses, net on the Consolidated Statements of Operations during the three and nine months ended September 30, 2024. 
+
+23 
+
+Table of Contents 
+
+deductible.
+These expected covered expenses totaled and , respectively, during the three and nine months ended September 30, 2024 and
+have been reported in other revenue on the Consolidated Statements of Operations. 
+
+ Closure of the WisdomTree WTI Crude Oil 3x Daily Leveraged
+ETP 
+
+ Between December 2020 and March 2022,
+WMAI, WTMAML, WTUK and/or WisdomTree Ireland Limited WT Ireland were served with seven separate writs of summons
+to appear before the Courts of Milan, Udine or Turin, Italy by investors seeking damages resulting from the closure of the
+WisdomTree WTI Crude Oil 3x Daily Leveraged ETP 3OIL in March 2020. The product was dependent on the receipt of
+payments from a swap provider to satisfy payment obligations to the investors. Due to an extreme adverse move in oil futures
+relative to the oil futures closing price, the swap contract underlying 3OIL was terminated by the swap provider, which
+resulted in the compulsory redemption of 3OIL, all in accordance with the prospectus. 
+
+ Since February 2022, five of the seven
+actions have been resolved in the Company s favor, of which two are subject to appeal. Total damages sought by all investors
+related to the two remaining open and two appealed claims, including an appealed claim for total damages of ),
+were approximately at September 30, 2024. 
+
+ Additionally, in July 2023, WT Ireland received
+a letter from counsel on behalf of additional investors seeking damages of up to approximately resulting from the
+closure of 3OIL. The claim is in its preliminary stages and a writ of summons has not been served. 
+
+ The Company continues to assess the open claims
+with its external counsel. The Company expects that losses, if any, arising from these claims will be covered under its insurance policies,
+less a deductible. An accrual has not been made with respect to these matters at September 30, 2024 and December 31, 2023. 
+
+Maximum exposure to loss 
+
+24 
+
+Table of Contents 
+
+Other revenues 
+
+Total operating revenues 
+
+The Company recognizes revenues from contracts
+with customers when the performance obligation is satisfied, which is when the promised services are transferred to the customer. A service
+is considered to be transferred when the customer obtains control, which is represented by the transfer of rights with regard to the service.
+Transfer of control happens either over time or at a point in time. When a performance obligation is satisfied over time, an entity is
+required to select a single method of measuring progress for each performance obligation that depicts the entity s performance in
+transferring control of services to the customer. 
+
+ A significant portion of the Company s
+revenues from contracts with customers are derived primarily from investment advisory agreements with related parties (Note 17). These
+advisory fees are recognized over time, are earned from the Company s ETPs and are calculated based on a percentage of the ETPs 
+average daily net assets. There is no significant judgment in calculating amounts due which are invoiced monthly in arrears and are not
+subject to any potential reversal. Progress is measured using the practical expedient under the output method resulting in the recognition
+of revenue in the amount for which the Company has a right to invoice. 
+
+ There are no contract assets or liabilities
+that arise in connection with the recognition of advisory fee revenue. In addition, there are no costs incurred to obtain or fulfill the
+contracts with customers, all of which are investment advisory agreements with related parties. 
+
+ Other revenues includes revenues the Company
+earns from swap providers associated with certain of the Company s European listed ETPs, the nature of which are based on a percentage
+of the ETPs average daily net assets. The Company also earns transaction-based income on flows associated with certain European
+listed ETPs. There is no significant judgment in calculating amounts due, which are invoiced monthly or quarterly in arrears and are not
+subject to any potential reversal. Progress is measured using the practical expedient under the output method resulting in the recognition
+of revenue in the amount for which the Company has a right to invoice. 
+
+ Geographic Distribution of Revenues 
+
+Jersey 
+
+Ireland 
+
+Total operating revenues 
+
+25 
+
+Table of Contents 
+
+Receivable from ManJer Issuers 
+
+Receivable from WMAI and WTICAV 
+
+Total 
+
+The allowance for credit losses on accounts
+receivable from related parties is insignificant when applying historical loss rates, adjusted for current conditions and supportable
+forecasts, to the amounts outstanding in the table above. Amounts outstanding are all invoiced in arrears, are less than 30 days aged
+and are collected shortly after the applicable reporting period. 
+
+Advisory services provided to ManJer Issuers 
+
+Advisory services provided to WMAI and WTICAV 
+
+Total 
+
+Investments in WisdomTree Products 
+
+ The Company also has investments in certain
+WisdomTree products of approximately and at September 30, 2024 and December 31, 2023, respectively. This includes 
+and , respectively, of seed investments in certain affiliated Digital Funds advised by WT Digital Management, referred to herein
+as other assets seed capital. The Company also has invested an additional in the WisdomTree Government Money
+Market Digital Fund at September 30, 2024. 
+
+ Net unrealized and realized gains related to
+trading WisdomTree products were and , respectively, during the three and nine months ended September 30, 2024 and and
+ , respectively, during the comparable periods in 2023. Such gains are recorded in other losses, net on the Consolidated Statements
+of Operations. 
+
+shares of common stock (less one share for every share
+granted under the 2016 Equity Plan since March 31, 2022 and inclusive of shares available under the 2016 Equity Plan as of March 31, 2022)
+in the form of stock options and other stock-based awards. 
+
+ The Company grants equity awards to employees
+and directors, which include restricted stock awards RSAs ), restricted stock units RSUs ), including deferred
+RSUs to non-employee directors, performance-based restricted stock units PRSUs and stock options. Certain awards described
+below are subject to acceleration under certain conditions. 
+
+Stock options: Generally issued for
+terms of ten years and may vest after at least of service and have an exercise price equal to the Company s stock price
+on the grant date. The Company estimates the fair value of stock options (when granted) using the Black-Scholes option pricing model. 
+ 
+ RSAs/RSUs: Awards are valued based on the Company s stock price on grant date and generally vest ratably, on an annual basis, over three
+years. For non-employee directors, such awards generally vest on the one-year anniversary of the grant date. 
+ 
+ Deferred RSUs: Awards are valued based
+on the Company s stock price on grant date and generally vest on the one-year anniversary of the grant date. The awards are issued
+pursuant to the Company s Non-Employee Director Deferred Compensation Program, and are settled based on timing elected by the recipient
+in advance. 
+ 
+ PRSUs: These awards cliff vest three years from the grant date and contain a market condition whereby the number of PRSUs ultimately vesting
+is tied to how the Company s total shareholder return TSR compares to a peer group of other publicly traded asset
+managers over the three-year period. A Monte Carlo simulation is used to value these awards. 
+
+26 
+
+Table of Contents 
+
+Stock-based compensation expense was 
+and , respectively, during the three and nine months ended September 30, 2024 and and , respectively, during the
+comparable periods in 2023. 
+
+Granted 
+
+Vested 
+
+Forfeited 
+
+Balance at September 30, 2024 
+ 
+ (1) 
+
+_____________________________ 
+
+ deferred RSUs that have vested. 
+
+to per Unit (as defined below) to account for the difference in share price between when the Stockholder Rights Agreement was originally
+adopted and when it was extended. 
+
+ Pursuant to the terms of the Stockholder Rights
+Agreement, the Board of Directors declared a dividend distribution of (i) Right (as defined below) for each outstanding share of common
+stock, par value per share, of the Company s common stock and (ii) Rights for each outstanding share of the Company s
+Series A Preferred Stock, to stockholders of record as of the close of business on March 28, 2023 (the Record Date ). In
+addition, one Right will automatically attach to each share of common stock and Rights will automatically attach to each share of
+Series A Preferred Stock, in each case, issued between the Record Date and the earlier of the Distribution Date (as defined below) and
+the expiration date of the Rights. Each Right entitles the registered holder thereof to purchase from the Company a unit
+consisting of one ten-thousandth of a share (a Unit of Series B Junior Participating Cumulative Preferred Stock, par value
+ per share, of the Company (the Series B Preferred Stock at a cash exercise price of per Unit (the Exercise
+Price ), subject to adjustment, under certain conditions specified in the Stockholder Rights Agreement and summarized below. 
+
+27 
+
+Table of Contents 
+
+(or in the case of passive stockholders
+or 13G Investors, as defined in the Stockholder Rights Agreement) or more of the outstanding shares of common stock, other
+than as a result of repurchases of stock by the Company or certain inadvertent actions by a stockholder (the date of such announcement
+being referred to as the Stock Acquisition Date ), or (ii) the close of business on the tenth business day (or such later
+day as the Board of Directors may determine) following the commencement of a tender offer or exchange offer that could result upon its
+consummation in a person or group becoming an Acquiring Person (the earlier of such dates being herein referred to as the Distribution
+Date ). A person or group who beneficially owned 10 or more (or 20 or more in the case of 13G Investors) of the Company s
+outstanding common stock prior to the first public announcement by the Company of the adoption of the Stockholder Rights Agreement will
+not trigger the Stockholder Rights Agreement so long as they do not acquire beneficial ownership of any additional shares of common stock
+at a time when they still beneficially own 10 or more (or 20 or more in the case of 13G Investors) of such common stock, subject to
+certain exceptions as set forth in the Stockholder Rights Agreement. 
+
+ For purposes of the Stockholder Rights Agreement,
+beneficial ownership is defined to include ownership of securities that are subject to a derivative transaction and acquired derivative
+securities. Swaps dealers unassociated with any control intent or intent to evade the purposes of the Stockholder Rights Agreement are
+excepted from such imputed beneficial ownership. Pursuant to Amendment No. 1, beneficial ownership did not include the right to vote pursuant
+to any agreement, arrangement or understanding with respect to voting on the proposal to approve and ratify the Stockholder Rights Agreement
+presented to the Company s stockholders at the Company s 2023 annual meeting of stockholders. Pursuant to Amendment No. 2,
+the parties to the SPA Agreement are not deemed to be Acquiring Persons solely by virtue of, or as a result of, the parties 
+entry into the SPA Agreement, the issuance of the Series C Preferred Stock to GBH, and the performance or consummation of any of the other
+transactions contemplated by the SPA Agreement, among other conditions, under the terms and conditions set forth in Amendment No. 2. Pursuant
+to Amendment No. 4, beneficial ownership excludes the right to vote pursuant to any agreement, arrangement or understanding with respect
+to voting (i) arising solely from a revocable proxy or consent given in response to a public proxy or consent solicitation, or exempt
+solicitation, made pursuant to a written proxy or consent solicitation statement filed with the SEC and that is not also then reportable
+on Schedule 13D under the Exchange Act, or (ii) on a proposal to approve and ratify the Stockholder Rights Agreement (as amended from
+time to time), including any amendment thereto or extension thereof, presented to the Company s stockholders at any annual or special
+meeting of the Company s stockholders (including any adjournments or postponements thereof). Pursuant to Amendment No. 5, the Stockholder
+Rights Agreement was amended to (a) remove language stating that (i) the Company has the exclusive power and authority to
+administer the Stockholder Rights Agreement and (ii) all actions, calculations, interpretations and determinations necessary or advisable
+for the administration of the Stockholder Rights Agreement done or made by the Board of Directors of the Company in good faith are final,
+conclusive and binding on all parties, and (b) provide that nothing in the Stockholder Rights Agreement shall be deemed to limit or eliminate
+the fiduciary duties of the Board of Directors under applicable law. 
+
+ In the event that a Stock Acquisition Date occurs,
+proper provision will be made so that each holder of a Right (other than an Acquiring Person or its associates or affiliates, whose Rights
+shall become null and void) will thereafter have the right to receive upon exercise, in lieu of a number of shares of Series B Preferred
+Stock, that number of shares of common stock of the Company (or, in certain circumstances, including if there are insufficient shares
+of common stock to permit the exercise in full of the Rights, Units of Series B Preferred Stock, other securities, cash or property, or
+any combination of the foregoing) having a market value of two times the Exercise Price of the Right (such right being referred to as
+the Subscription Right ). In the event that, at any time following the Stock Acquisition Date, (i) the Company consolidates
+with, or merges with and into, any other person, and the Company is not the continuing or surviving corporation, (ii) any person consolidates
+with the Company, or merges with and into the Company and the Company is the continuing or surviving corporation of such merger and, in
+connection with such merger, all or part of the shares of common stock are changed into or exchanged for stock or other securities of
+any other person or cash or any other property, or (iii) or more of the Company s assets or earning power is sold, mortgaged
+or otherwise transferred, each holder of a Right (other than an Acquiring Person or its associates or affiliates, whose Rights shall become
+null and void) will thereafter have the right to receive, upon exercise, common stock of the acquiring company having a market value equal
+to two times the Exercise Price of the Right (such right being referred to as the Merger Right ). The holder of a Right will
+continue to have the Merger Right whether or not such holder has exercised the Subscription Right. Rights that are or were beneficially
+owned by an Acquiring Person may (under certain circumstances specified in the Stockholder Rights Agreement) become null and void. 
+
+ The Rights may be redeemed in whole, but not
+in part, at a price of per Right (payable in cash, common stock or other consideration deemed appropriate by the Board of Directors)
+by the Board of Directors only until the earlier of (i) the time at which any person becomes an Acquiring Person or (ii) the expiration
+date of the Stockholder Rights Agreement. Immediately upon the action of the Board of Directors ordering redemption of the Rights, the
+Rights will terminate and thereafter the only right of the holders of Rights will be to receive the redemption price. 
+
+ The Stockholder Rights Agreement may be amended
+by the Board of Directors in its sole discretion at any time prior to the time at which any person becomes an Acquiring Person. After
+such time the Board of Directors may, subject to certain limitations set forth in the Stockholder Rights Agreement, amend the Stockholder
+Rights Agreement only to cure any ambiguity, defect or inconsistency, to shorten or lengthen any time period, or to make changes that
+do not adversely affect the interests of Rights holders (excluding the interests of an Acquiring Person or its associates or affiliates). 
+
+28 
+
+Table of Contents 
+
+of the common stock may request that the Board call a Special Meeting to vote on a resolution
+authorizing the exemption of the Qualifying Offer from the terms of the Stockholder Rights Agreement. If such a Special Meeting is not
+held by the 90th business day following the receipt of such a request from stockholders to call a Special Meeting, the Qualifying Offer
+will be deemed exempt from the terms of the Stockholder Rights Agreement on the 10th business day thereafter. 
+
+Less: Loss on repurchase of Series A Preferred Stock 
+
+Less: Income distributed to participating securities 
+
+Less: Undistributed income allocable to participating securities 
+
+Net (loss)/income available to common stockholders Basic EPS 
+
+Weighted average common shares (in thousands) 
+
+Basic (loss)/earnings per share 
+
+29 
+
+Table of Contents 
+
+Add back: Undistributed income allocable to participating securities 
+
+Less: Reallocation of undistributed income allocable to participating securities considered potentially dilutive 
+
+Net (loss)/income available to common stockholders Diluted EPS 
+
+Weighted Average Diluted Shares (in thousands): 
+
+Weighted average common shares 
+
+Dilutive effect of common stock equivalents, excluding participating securities 
+
+Weighted average diluted shares, excluding participating securities (in thousands) 
+
+Diluted (loss)/earnings per share 
+
+Diluted (loss)/earnings per share presented
+above is calculated using the two-class method as this method results in the lowest diluted earnings per share amount for common stock.
+There were no antidilutive non-participating common stock equivalents for the three months ended September 30, 2024 and 2023 and the nine
+months ended September 30, 2024. Total antidilutive non-participating common stock equivalents were for the nine months ended September
+30, 2023 (shares herein are reported in thousands). 
+
+ There were no potential common shares associated
+with the conversion options embedded in the Convertible Notes included in weighted average diluted shares for the three months ended September
+30, 2024 as the Company reported a net loss. There were also no potential common shares during the nine months ended September 30, 2024
+and the three and nine months ended September, 30, 2023 as the Company s average stock price was lower than the conversion price. 
+
+(1) 
+
+Less: Participating securities 
+
+Weighted average shares of common stock issuable upon conversion of the Series A Preferred Stock (Note 11) 
+
+Weighted average shares of common stock issuable upon conversion of the Series C Preferred Stock (Note 9) 
+
+Potentially dilutive restricted stock awards 
+
+Weighted average diluted shares used to calculate diluted earnings per share as disclosed in the table above 
+
+_______________________________________ 
+
+ participating securities and potentially dilutive non-participating common stock equivalents for the three months
+ended September 30, 2024, as the Company reported a net loss for the period (shares herein are reported in thousands). 
+
+, resulting in income tax expense of . The effective income tax rate
+differs from the federal statutory tax rate of primarily due to non-deductible loss on extinguishment of convertible notes, a non-deductible
+civil money penalty of relating to the SEC ESG Settlement and non-deductible executive compensation. These items were partly offset
+by a lower tax rate on foreign earnings. 
+
+ The Company s effective income tax rate
+during the nine months ended September 30, 2024 was resulting in income tax expense of . The effective income tax rate differs
+from the federal statutory tax rate of primarily due to non-deductible loss on extinguishment of convertible notes, a non-deductible
+civil money penalty of relating to the SEC ESG Settlement and non-deductible executive compensation. These items were partly offset
+by a lower tax rate on foreign earnings. 
+
+30 
+
+Table of Contents 
+
+, resulting in income tax expense of . The effective income tax rate differs
+from the federal statutory tax rate of primarily due to an increase in the deferred tax asset valuation allowance on losses recognized
+on the Company s investments and non-deductible executive compensation. 
+
+ The Company s effective income tax rate
+during the nine months ended September 30, 2023 was , resulting in income tax expense of . The effective income tax rate differs
+from the federal statutory tax rate of primarily due to a non-taxable gain on revaluation/termination of deferred consideration gold
+payments, a reduction in unrecognized tax benefits (including interest and penalties) and a lower tax rate on foreign earnings.
+These items were partly offset by a non-deductible loss on extinguishment of our convertible notes, an increase in the deferred tax asset
+valuation allowance on losses recognized on our investments and non-deductible executive compensation. 
+
+ Deferred Tax Assets 
+
+Accrued expenses 
+
+Stock-based compensation 
+
+NOLs Foreign 
+
+Goodwill and intangible assets 
+
+Software capitalization 
+
+Operating lease liabilities 
+
+Unrealized losses 
+
+Foreign currency translation adjustment 
+
+NOLs U.S. 
+
+Other 
+
+Total deferred tax assets 
+
+Deferred tax liabilities: 
+
+Unrealized gains 
+
+Fixed assets and prepaid assets 
+
+Foreign currency translation adjustment 
+
+Right of use assets operating leases 
+
+Unremitted earnings European subsidiaries 
+
+Total deferred tax liabilities: 
+
+Total deferred tax assets less deferred tax liabilities 
+
+Less: Valuation allowance 
+
+Deferred tax assets, net 
+
+Capital Losses U.S. 
+
+ The Company s tax effected capital losses
+at September 30, 2024 were . These capital losses expire between the years 2024 and 2029. 
+
+ Net Operating Losses Europe 
+
+ One of the Company s European subsidiaries
+generated net operating losses NOLs outside the U.S. These tax effected NOLs, all of which are carried forward indefinitely,
+were at September 30, 2024. 
+
+ Valuation Allowance 
+
+ The Company s valuation allowance has
+been established on its net capital losses, as it is more-likely-than-not that these deferred tax assets will not be realized. 
+
+31 
+
+Table of Contents 
+
+and at September 30, 2024 and December 31,
+2023, respectively. 
+
+to the Company s share repurchase program to and extended the term for through . Included under the Company s share repurchase program are purchases to offset future equity grants
+made under the Company s equity plans and purchases made in open market or privately negotiated transactions. This authority may
+be exercised from time to time, subject to regulatory considerations. The timing and actual number of shares repurchased will depend on
+a variety of factors including price, corporate and regulatory requirements, market conditions and other corporate liquidity requirements
+and priorities. The repurchase program may be suspended or terminated at any time without prior notice. Shares repurchased under this
+program are returned to the status of authorized and unissued on the Company s books and records. 
+
+ The Company repurchased and 
+shares, respectively, of its common stock under this program during the three and nine months ended September 30, 2024 and and 
+shares, respectively, during the comparable periods in 2023. The aggregate cost of the shares repurchased during the three and nine months
+ended September 30, 2024 was and , respectively, and the aggregate cost of the shares repurchased during the comparable
+periods in 2023 was and , respectively. Shares repurchased under this program were returned to the status of authorized and
+unissued on the Company s books and records. 
+
+ As of September 30, 2024, remained under
+this program for future purchases. 
+
+Changes 
+
+Balance at September 30, 2024 
+
+Of the total goodwill of at September
+30, 2024, is not deductible for tax purposes as the acquisitions that gave rise to the goodwill were structured as stock acquisitions.
+The remainder of the goodwill is deductible for U.S. tax purposes. 
+
+ Intangible Assets 
+
+Software development	 
+
+Balance at September 30, 2024 
+
+Software development	 
+
+Balance at December 31, 2023 
+
+32 
+
+Table of Contents 
+
+, the Company identified intangible assets valued at related to the right to manage AUM through
+customary advisory agreements. These intangible assets were determined to have indefinite useful lives and are not deductible for tax
+purposes. 
+
+ Software Development (Finite-Lived) 
+
+ Internally-developed software is amortized over
+a useful life of . The Company recognized amortization expense on internally-developed software of and , respectively,
+during the three and nine months ended September 30, 2024 and and , respectively, during the comparable periods in 2023. 
+
+2025 
+
+2026 
+
+2027 
+
+2028 and thereafter 
+
+Total expected amortization expense 
+
+The weighted-average remaining useful life of
+the finite-lived intangible assets is years. 
+
+and , respectively, from remeasuring a contingent payment to its realizable value.
+This gain was recorded in other losses, net. 
+
+and , respectively, on its investment in Securrency, Inc. to reduce the
+carrying value of its investment to fair value. 
+
+ During the three and nine months ended September
+30, 2023, the Company recognized an impairment of on its other investments. 
+
+33 
+
+Table of Contents 
+
+Adjusted Operating Income Margin 
+
+Operating revenues 
+
+Less: Legal expenses expected to be covered by insurance 
+
+Operating revenues, as adjusted 
+
+Operating income 
+
+Add back: Expenses incurred in response to an activist campaign 
+
+Adjusted operating income 
+
+Operating income margin 
+
+Adjusted operating income margin 
+
+Expenses incurred in response to an activist
+campaign for the nine months ended September 30, 2024 and 2023 include and , respectively, of professional fees, and 
+and , respectively, of other expenses. 
+
+ All expense categories on the Consolidated Statements
+of Operations are significant and there are no other significant segment expenses that would require disclosure. Assets provided to the
+CODM are consistent with those reported on the Consolidated Balance Sheets with particular emphasis on the Company s available liquidity,
+including its cash, cash equivalents and restricted cash, financial instruments owned, accounts receivable and securities held-to-maturity,
+reduced by current liabilities, seed capital and regulatory capital requirements. 
+
+ There are no intra-entity sales or transfers
+and no significant expense categories regularly provided to the CODM beyond those disclosed in the Consolidated Statements of Operations.
+The CODM manages the business using consolidated expense information, adjusted for items that are non-recurring or not core to the Company s
+operating business as disclosed in the table above, as well as regularly provided budgeted or forecasted expense information for the single
+operating segment. 
+
+ Information related to the Company s products
+and services and geographical distribution of revenues is disclosed in Note 16. 
+
+34 
+
+Table of Contents 
+
+ITEM 2. 
+
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+ 
+ The following discussion and analysis of
+our financial condition and results of operations should be read together with our consolidated financial statements and the related notes
+and the other financial information included elsewhere in this Report. In addition to historical consolidated financial information, the
+following discussion contains forward-looking statements that reflect our plans, estimates and beliefs. Our actual results could differ
+materially from those discussed in the forward-looking statements. Factors that could cause or contribute to these differences include
+those discussed below. For a more complete description of the risks noted above and other risks that could cause our actual results to
+materially differ from our current expectations, please see Item 1A Risk Factors in our Annual Report on Form 10-K for the
+fiscal year ended December 31, 2023 and in subsequent reports filed with or furnished to the SEC. We assume no obligation to update or
+revise publicly any forward-looking statements, whether as a result of new information, future events or otherwise, unless required by
+law. 
+ Executive Summary 
+ We are a global financial innovator, offering
+a well-diversified suite of ETPs, models, solutions and products leveraging blockchain technology. We empower investors and consumers
+to shape their future and support financial professionals to better serve their clients and grow their businesses. We are leveraging the
+latest financial infrastructure to create products that provide access, transparency and an enhanced user experience. Building on our
+heritage of innovation, we are also developing and have launched next-generation digital products, services and structures, including
+Digital Funds and tokenized assets, as well as our blockchain-native digital wallet, WisdomTree Prime and institutional platform, WisdomTree
+Connect. WisdomTree Prime is available in the U.S. in 45 states and to approximately 80 of the U.S. population. 
+ We had approximately 112.6 billion in AUM as
+of September 30, 2024. Our family of ETPs includes products that provide exposure to equities, commodities, fixed income, leveraged-and-inverse,
+cryptocurrency, currency and alternatives strategies. We have launched many first-to-market products and pioneered alternative weighting
+we call Modern Alpha, which combines the outperformance potential of active management with the benefits of passive management
+to offer investors cost-effective funds that are built to perform. Most of our equity-based funds employ a fundamentally weighted investment
+methodology, which weights securities based on factors such as dividends, earnings or investment factors, whereas most other industry
+indexes use a capitalization weighted methodology. These products are distributed through all major channels in the asset management industry,
+including banks, brokerage firms, registered investment advisers, institutional investors, private wealth managers and online brokers
+primarily through our sales force. We believe technology is altering the way financial advisors conduct business and through our Advisor
+and Portfolio Solutions programs we offer technology-enabled and research-driven solutions including portfolio construction, asset allocation,
+practice management services and digital tools to help financial advisors address technology challenges and grow and scale their businesses. 
+ We are at the forefront of innovation and believe
+that tokenization and leveraging the utility of blockchain technology is the next evolution in financial services. We are building the
+foundation that we believe will allow us to lead in this coming evolution. WisdomTree Prime, our blockchain-native digital wallet, positions
+us to expand our blockchain-enabled financial product and services offerings with a new direct-to-consumer channel where spending, saving
+and investing are united. As we continue to pursue our digital assets strategy, we are embracing what we refer to as responsible
+DeFi, which we believe upholds the foundational principles of regulation in this innovative and quickly evolving space. We believe
+that our expansion into digital assets and blockchain-enabled finance complements our existing core competencies in a holistic manner
+and will diversify our revenue streams and contribute to our growth. 
+ We were incorporated under the laws of the state
+of Delaware on September 19, 1985 as Financial Data Systems, Inc. and were ultimately renamed WisdomTree, Inc. on November 7, 2022. 
+
+35 
+
+ Table of Contents 
+
+Assets
+ Under
+ Management 
+ WisdomTree
+ ETPs 
+ We
+ offer
+ ETPs
+ covering
+ equities,
+ commodities
+ and
+ currency,
+ fixed
+ income,
+ leveraged-and-inverse,
+ cryptocurrency
+ and
+ alternatives.
+ The
+ chart
+ below
+ sets
+ forth
+ the
+ asset
+ mix
+ of
+ our
+ ETPs
+ at
+ September
+ 30,
+ 2024,
+ June
+ 30,
+ 2024
+ and
+ September
+ 30,
+ 2023: 
+ 
+ Market
+ Environment
+ 
+ U.S.
+ equity
+ markets
+ recovered
+ from
+ a
+ correction
+ experienced
+ in
+ early
+ August
+ and
+ there
+ was
+ a
+ rotation
+ into
+ small
+ cap
+ and
+ value
+ stocks.
+ Interest
+ rates
+ fell
+ in
+ anticipation
+ of
+ the
+ Federal
+ Reserve
+ easing
+ cycle
+ leading
+ to
+ strong
+ total
+ returns
+ for
+ fixed
+ income. 
+ The
+ S P
+ 500,
+ MSCI
+ EAFE
+ Index
+ (local
+ currency),
+ MSCI
+ EMU
+ Index
+ (local
+ currency),
+ MSCI
+ Japan
+ Index
+ (local
+ currency),
+ MSCI
+ Emerging
+ Markets
+ Index
+ (U.S.
+ dollar)
+ and
+ gold
+ prices
+ increased
+ by
+ 9.1 ,
+ 7.9 ,
+ 8.2 ,
+ 11.4 ,
+ 3.4 
+ and
+ 12.8 ,
+ respectively,
+ during
+ the
+ quarter.
+ The
+ U.S.
+ dollar
+ weakened
+ 4.2 ,
+ 5.7 
+ and
+ 13.1 
+ versus
+ the
+ euro,
+ British
+ pound
+ and
+ the
+ Japanese
+ yen,
+ respectively,
+ during
+ the
+ quarter. 
+
+36 
+
+ Table of Contents 
+
+U.S.
+ Listed
+ ETF
+ Industry
+ Flows 
+ U.S.
+ listed
+ ETF
+ industry
+ net
+ flows
+ were
+ 283.2
+ billion
+ for
+ the
+ three
+ months
+ ended
+ September
+ 30,
+ 2024.
+ U.S.
+ equity
+ and
+ fixed
+ income
+ gathered
+ the
+ majority
+ of
+ those
+ flows. 
+
+Source:
+ Morningstar 
+
+37 
+
+ Table of Contents 
+
+European
+ Listed
+ ETP
+ Industry
+ Flows 
+ European
+ listed
+ ETP
+ industry
+ net
+ flows
+ were
+ 67.1
+ billion
+ for
+ the
+ three
+ months
+ ended
+ September
+ 30,
+ 2024.
+ Equity
+ and
+ fixed
+ income
+ gathered
+ the
+ majority
+ of
+ those
+ flows. 
+
+Source:
+ Morningstar 
+
+38 
+
+ Table of Contents 
+
+Our
+ Operating
+ and
+ Financial
+ Results 
+ We
+ operate
+ as
+ an
+ ETP
+ sponsor
+ and
+ asset
+ manager,
+ providing
+ investment
+ advisory
+ services
+ globally
+ through
+ our
+ subsidiaries
+ in
+ the
+ U.S.
+ and
+ Europe. 
+ U.S.
+ Listed
+ ETFs 
+ The
+ AUM
+ of
+ our
+ U.S.
+ listed
+ exchange
+ traded
+ funds,
+ or
+ U.S.
+ listed
+ ETFs,
+ increased
+ from
+ 79.7
+ billion
+ at
+ June
+ 30,
+ 2024
+ to
+ 81.3
+ billion
+ at
+ September
+ 30,
+ 2024
+ due
+ to
+ market
+ appreciation,
+ partly
+ offset
+ by
+ net
+ outflows. 
+ 
+ European
+ Listed
+ ETPs 
+ The
+ AUM
+ of
+ our
+ European
+ listed
+ (including
+ internationally
+ cross-listed)
+ ETPs,
+ or
+ European
+ listed
+ ETPs,
+ increased
+ from
+ 30.0
+ billion
+ at
+ June
+ 30,
+ 2024
+ to
+ 31.3
+ billion
+ at
+ September
+ 30,
+ 2024
+ due
+ to
+ market
+ appreciation,
+ partly
+ offset
+ by
+ net
+ outflows. 
+
+39 
+
+ Table of Contents 
+
+Consolidated
+ Operating
+ Results
+ 
+ The
+ following
+ table
+ sets
+ forth
+ our
+ revenues
+ and
+ net
+ income/(loss)
+ for
+ the
+ most
+ recent
+ five
+ quarters. 
+
+Revenues Total revenues increased 25.2 from the three months ended September 30, 2023 to 113.2 million in the
+comparable period in 2024 primarily due to higher average AUM, higher other revenues attributable to our European-listed ETPs and the
+recognition of 3.7 million of other revenue related to legal and other related expenses, expected to be covered by insurance, incurred
+in connection with the SEC ESG Settlement. 
+
+Expenses Total operating expenses increased 13.6 from the three months ended September 30, 2023 to 72.4 million
+in the comparable period in 2024 primarily due to higher professional fees, which is inclusive of the legal and other related expenses
+expected to be covered by insurance described above, as well as higher fund management and administration costs, incentive compensation
+and marketing expenses. 
+
+Other Income/(Expenses) Other income/(expenses) includes interest income and interest expense, losses on extinguishment
+of convertible notes, gains on revaluation/termination of deferred consideration gold payments, impairments and other losses, net.
+Further information is provided herein. 
+
+Net (loss)/income We reported net (loss)/income of 4.5) million and 13.0 million during the three months ended
+September 30, 2024 and 2023, respectively. 
+ 
+ Guidance Update for the Year Ending December 31, 2024 
+ Compensation Expense 
+ Our compensation to revenue ratio for the year
+ending December 31, 2024 is currently estimated to range from 28 to 29 (unchanged from the prior quarter). Our estimated compensation
+to revenue ratio takes into consideration planned hires for 2024 and variability in incentive compensation, with drivers including the
+magnitude of flows, revenues and operating income growth, margin expansion and share price performance in relation to our peers. 
+ Discretionary Spending 
+ Discretionary spending includes marketing, sales,
+professional fees, occupancy and equipment, depreciation and amortization and other expenses. During the nine months ended September 30,
+2024, discretionary spending was 45.3 million. We currently estimate discretionary spending for the year ending December 31, 2024 to
+range from 62.0 million to 65.0 million (previously 64.0 million to 68.0 million). 
+ Not included in the guidance above are non-recurring
+expenses in response to an activist campaign, including 5.0 million incurred during the nine months ended September 30, 2024, and 4.1
+million of legal and other related expenses expected to be covered by insurance. 
+ Gross Margin 
+ We define gross margin as total operating revenues
+less fund management and administration expenses. Gross margin percentage is calculated as gross margin divided by total operating revenues.
+Our gross margin was 80.5 during the nine months ended September 30, 2024. We currently estimate our gross margin guidance for the year
+ending December 31, 2024 to be between 80 and 81 (unchanged from the prior quarter) considering current AUM levels and higher forecasted
+other revenues going forward. If AUM increases, we would anticipate further gross margin expansion. 
+
+40 
+
+ Table of Contents 
+
+Third-Party
+ Distribution
+ Fees 
+ We
+ currently
+ estimate
+ third-party
+ distribution
+ fees
+ to
+ range
+ from
+ 10.0
+ million
+ to
+ 11.0
+ million
+ (unchanged
+ from
+ the
+ prior
+ quarter),
+ which
+ is
+ dependent
+ upon
+ the
+ AUM
+ growth
+ on
+ our
+ respective
+ platforms. 
+ Interest
+ Expense 
+ We
+ currently
+ estimate
+ our
+ interest
+ expense
+ for
+ the
+ year
+ ending
+ December
+ 31,
+ 2024
+ to
+ be
+ 18.9
+ million
+ (previously
+ 16.5
+ million),
+ which
+ is
+ inclusive
+ of
+ approximately
+ 2.6
+ million
+ of
+ interest
+ cost
+ we
+ are
+ required
+ to
+ impute
+ under
+ U.S.
+ GAAP
+ related
+ to
+ our
+ interest-free
+ financing
+ of
+ the
+ shares
+ of
+ Series
+ C
+ Non-Voting
+ Convertible
+ Preferred
+ Stock
+ (the
+ Series
+ C
+ Preferred
+ Stock we
+ repurchased
+ from
+ GBH
+ in
+ November
+ 2023. 
+ The
+ change
+ in
+ guidance
+ from
+ the
+ prior
+ quarter
+ is
+ due
+ to
+ an
+ increase
+ in
+ debt
+ effectuated
+ to
+ facilitate
+ the
+ repurchase
+ of
+ Series
+ A
+ Non-Voting
+ Convertible
+ Preferred
+ Stock
+ (the
+ Series
+ A
+ Preferred
+ Stock from
+ ETFS
+ Capital,
+ as
+ well
+ as
+ the
+ repurchase
+ of
+ shares
+ of
+ common
+ stock. 
+ Interest
+ Income 
+ We
+ currently
+ estimate
+ our
+ interest
+ income
+ for
+ the
+ year
+ ending
+ December
+ 31,
+ 2024
+ to
+ be
+ 6.0
+ million
+ (previously
+ 5.0
+ million),
+ based
+ upon
+ the
+ magnitude
+ of
+ our
+ forecasted
+ interest
+ earning
+ assets. 
+ Income
+ Tax
+ Expense 
+ We
+ currently
+ estimate
+ that
+ our
+ consolidated
+ normalized
+ effective
+ tax
+ rate
+ will
+ be
+ 24.0 
+ to
+ 25.0 
+ (unchanged
+ from
+ our
+ guidance
+ range
+ provided
+ last
+ quarter)
+ taking
+ into
+ consideration
+ the
+ current
+ distribution
+ of
+ profits
+ among
+ our
+ U.S.
+ and
+ European
+ businesses. 
+ This
+ estimated
+ rate
+ may
+ change
+ and
+ is
+ dependent
+ upon
+ our
+ actual
+ taxable
+ income
+ earned
+ in
+ relation
+ to
+ our
+ forecasts
+ as
+ well
+ as
+ any
+ other
+ items
+ which
+ may
+ arise
+ that
+ are
+ not
+ currently
+ forecasted.
+ Such
+ items
+ may
+ include,
+ but
+ are
+ not
+ limited
+ to,
+ the
+ non-deductible
+ loss
+ on
+ extinguishment
+ on
+ convertible
+ notes,
+ a
+ non-deductible
+ civil
+ money
+ penalty
+ of
+ 4.0
+ million
+ relating
+ to
+ the
+ SEC
+ ESG
+ Settlement,
+ increases
+ or
+ decreases
+ in
+ valuation
+ allowances
+ and
+ any
+ stock-based
+ compensation
+ windfalls
+ or
+ shortfalls.
+ Additional
+ corporate
+ tax
+ legislation
+ could
+ also
+ impact
+ our
+ normalized
+ effective
+ tax
+ rate. 
+ Weighted
+ Average
+ Diluted
+ Shares 
+ Our
+ weighted
+ average
+ diluted
+ shares
+ were
+ 156.7
+ million
+ during
+ the
+ three
+ months
+ ended
+ September
+ 30,
+ 2024.
+ We
+ currently
+ estimate
+ our
+ weighted
+ average
+ diluted
+ shares
+ to
+ be
+ between
+ 147.0
+ million
+ and
+ 148.0
+ million
+ during
+ the
+ three
+ months
+ ended
+ December
+ 31,
+ 2024
+ taking
+ into
+ consideration
+ the
+ full
+ quarter
+ impact
+ of
+ the
+ repurchase
+ of
+ the
+ Series
+ A
+ Preferred
+ Stock
+ and
+ additional
+ shares
+ of
+ common
+ stock
+ which
+ occurred
+ in
+ mid-August
+ of
+ 2024.
+ Our
+ weighted
+ average
+ diluted
+ share
+ guidance
+ was
+ previously
+ 166.0
+ million
+ and
+ 168.0
+ million
+ during
+ the
+ year
+ ending
+ December
+ 31,
+ 2024. 
+ This
+ guidance
+ does
+ not
+ take
+ into
+ consideration
+ any
+ variability
+ in
+ shares
+ associated
+ with
+ our
+ convertible
+ notes.
+ While
+ our
+ convertible
+ notes
+ require
+ principal
+ to
+ be
+ paid
+ in
+ cash,
+ our
+ diluted
+ shares
+ would
+ need
+ to
+ be
+ increased
+ for
+ any
+ incremental
+ shares
+ associated
+ with
+ an
+ exercise
+ of
+ the
+ conversion
+ option
+ if
+ our
+ stock
+ price
+ exceeds
+ the
+ applicable
+ conversion
+ price
+ of
+ our
+ convertible
+ notes
+ of
+ 9.54
+ per
+ share
+ for
+ the
+ 5.75 
+ Convertible
+ Senior
+ Notes
+ due
+ 2028,
+ 11.04
+ per
+ share
+ for
+ the
+ 3.25 
+ Convertible
+ Senior
+ Notes
+ due
+ 2026
+ and
+ 11.82
+ per
+ share
+ for
+ the
+ 3.25 
+ Convertible
+ Senior
+ Notes
+ due
+ 2029. 
+
+41 
+
+ Table of Contents 
+
+Key
+ Operating
+ Statistics 
+ The
+ following
+ table
+ presents
+ key
+ operating
+ statistics
+ that
+ serve
+ as
+ indicators
+ for
+ the
+ performance
+ of
+ our
+ business: 
+
+Three
+Months Ended 
+
+Nine
+Months Ended 
+
+Sept. 30, 
+
+June 30, 
+
+Sept. 30, 
+
+Sept. 30, 
+
+Sept. 30, 
+
+2024 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+GLOBAL ETPs
+(in millions 
+
+Beginning of period assets 
+
+109,686 
+
+107,230 
+
+93,666 
+
+100,124 
+
+81,993 
+
+(Outflows)/inflows 
+
+(2,395 
+
+340 
+
+1,983 
+
+(65 
+
+10,651 
+
+Market appreciation/(depreciation) 
+
+5,286 
+
+2,116 
+
+(1,914 
+
+12,518 
+
+1,091 
+
+End of period assets 
+
+112,577 
+
+109,686 
+
+93,735 
+
+112,577 
+
+93,735 
+
+Average assets during the period 
+
+110,369 
+
+108,392 
+
+95,743 
+
+107,041 
+
+91,609 
+
+Average advisory fee during the period 
+
+0.37 
+
+0.37 
+
+0.36 
+
+0.37 
+
+0.36 
+
+Number of ETPs end of period 
+
+352 
+
+350 
+
+344 
+
+352 
+
+344 
+
+U.S.
+LISTED ETFs (in millions 
+
+Beginning of period assets 
+
+79,722 
+
+78,087 
+
+65,903 
+
+72,486 
+
+55,973 
+
+(Outflows)/inflows 
+
+(1,650 
+
+1,106 
+
+3,601 
+
+1,439 
+
+10,862 
+
+Market appreciation/(depreciation) 
+
+3,195 
+
+529 
+
+(1,486 
+
+7,342 
+
+1,183 
+
+End of period assets 
+
+81,267 
+
+79,722 
+
+68,018 
+
+81,267 
+
+68,018 
+
+Average assets during the period 
+
+80,335 
+
+78,436 
+
+68,008 
+
+77,834 
+
+63,383 
+
+Number of ETFs end of the period 
+
+78 
+
+78 
+
+80 
+
+78 
+
+80 
+
+EUROPEAN
+LISTED ETPs (in millions 
+
+Beginning of period assets 
+
+29,964 
+
+29,143 
+
+27,763 
+
+27,638 
+
+26,020 
+
+Outflows 
+
+(745 
+
+(766 
+
+(1,618 
+
+(1,504 
+
+(211 
+
+Market appreciation/(depreciation) 
+
+2,091 
+
+1,587 
+
+(428 
+
+5,176 
+
+(92 
+
+End of period assets 
+
+31,310 
+
+29,964 
+
+25,717 
+
+31,310 
+
+25,717 
+
+Average assets during the period 
+
+30,034 
+
+29,956 
+
+27,735 
+
+29,207 
+
+28,226 
+
+Number of ETPs end of period 
+
+274 
+
+272 
+
+264 
+
+274 
+
+264 
+
+PRODUCT
+CATEGORIES (in millions 
+
+U.S. Equity 
+
+Beginning of period assets 
+
+31,834 
+
+31,670 
+
+26,001 
+
+29,156 
+
+24,112 
+
+Inflows 
+
+328 
+
+221 
+
+864 
+
+1,085 
+
+1,129 
+
+Market appreciation/(depreciation) 
+
+2,481 
+
+(57 
+
+(1,222 
+
+4,402 
+
+402 
+
+End of period assets 
+
+34,643 
+
+31,834 
+
+25,643 
+
+34,643 
+
+25,643 
+
+Average assets during the period 
+
+33,175 
+
+31,252 
+
+26,501 
+
+31,494 
+
+25,319 
+
+Commodity Currency 
+
+Beginning of period assets 
+
+21,987 
+
+21,944 
+
+22,384 
+
+21,336 
+
+22,097 
+
+Outflows 
+
+(741 
+
+(1,499 
+
+(1,814 
+
+(2,700 
+
+(1,324 
+
+Market appreciation/(depreciation) 
+
+1,788 
+
+1,542 
+
+(104 
+
+4,398 
+
+(307 
+
+End of period assets 
+
+23,034 
+
+21,987 
+
+20,466 
+
+23,034 
+
+20,466 
+
+Average assets during the period 
+
+22,016 
+
+22,437 
+
+22,278 
+
+21,764 
+
+23,373 
+
+Fixed Income 
+
+Beginning of period assets 
+
+21,430 
+
+21,218 
+
+20,215 
+
+21,197 
+
+15,273 
+
+(Outflows)/inflows 
+
+(897 
+
+236 
+
+1,670 
+
+(675 
+
+6,654 
+
+Market appreciation/(depreciation) 
+
+234 
+
+(24 
+
+(88 
+
+245 
+
+(130 
+
+End of period assets 
+
+20,767 
+
+21,430 
+
+21,797 
+
+20,767 
+
+21,797 
+
+Average assets during the period 
+
+21,135 
+
+21,277 
+
+20,965 
+
+21,165 
+
+19,109 
+
+International Developed Market Equity 
+
+Beginning of period assets 
+
+19,385 
+
+18,103 
+
+13,423 
+
+15,103 
+
+10,195 
+
+(Outflows)/inflows 
+
+(1,391 
+
+1,253 
+
+798 
+
+1,461 
+
+2,841 
+
+Market appreciation/(depreciation) 
+
+81 
+
+29 
+
+(319 
+
+1,511 
+
+866 
+
+End of period assets 
+
+18,075 
+
+19,385 
+
+13,902 
+
+18,075 
+
+13,902 
+
+Average assets during the period 
+
+18,636 
+
+18,809 
+
+13,873 
+
+18,044 
+
+12,343 
+
+42 
+
+ Table of Contents 
+
+Three
+Months Ended 
+
+Nine
+Months Ended 
+
+Sept. 30, 
+
+June 30, 
+
+Sept. 30, 
+
+Sept. 30, 
+
+Sept. 30, 
+
+2024 
+
+2024 
+
+2023 
+
+2024 
+
+2023 
+
+Emerging Market Equity 
+
+Beginning of period assets 
+
+11,875 
+
+11,189 
+
+9,191 
+
+10,726 
+
+8,116 
+
+(Outflows)/inflows 
+
+(20 
+
+57 
+
+451 
+
+254 
+
+1,266 
+
+Market appreciation/(depreciation) 
+
+597 
+
+629 
+
+(73 
+
+1,472 
+
+187 
+
+End of period assets 
+
+12,452 
+
+11,875 
+
+9,569 
+
+12,452 
+
+9,569 
+
+Average assets during the period 
+
+12,083 
+
+11,448 
+
+9,652 
+
+11,477 
+
+9,105 
+
+Leveraged Inverse 
+
+Beginning of period assets 
+
+1,922 
+
+1,828 
+
+1,864 
+
+1,815 
+
+1,754 
+
+(Outflows)/inflows 
+
+71 
+
+(18 
+
+(1 
+
+3 
+
+54 
+
+Market appreciation/(depreciation) 
+
+89 
+
+112 
+
+(82 
+
+264 
+
+(27 
+
+End of period assets 
+
+2,082 
+
+1,922 
+
+1,781 
+
+2,082 
+
+1,781 
+
+Average assets during the period 
+
+1,962 
+
+1,905 
+
+1,894 
+
+1,886 
+
+1,816 
+
+Cryptocurrency 
+
+Beginning of period assets 
+
+838 
+
+874 
+
+248 
+
+414 
+
+136 
+
+Inflows 
+
+201 
+
+75 
+
+10 
+
+434 
+
+22 
+
+Market appreciation/(depreciation) 
+
+15 
+
+(111 
+
+(15 
+
+206 
+
+85 
+
+End of period assets 
+
+1,054 
+
+838 
+
+243 
+
+1,054 
+
+243 
+
+Average assets during the period 
+
+917 
+
+856 
+
+238 
+
+796 
+
+221 
+
+Alternatives 
+
+Beginning of period assets 
+
+415 
+
+404 
+
+340 
+
+377 
+
+310 
+
+Inflows 
+
+54 
+
+15 
+
+5 
+
+73 
+
+9 
+
+Market appreciation/(depreciation) 
+
+1 
+
+(4 
+
+(11 
+
+20 
+
+15 
+
+End of period assets 
+
+470 
+
+415 
+
+334 
+
+470 
+
+334 
+
+Average assets during the period 
+
+445 
+
+408 
+
+342 
+
+415 
+
+323 
+
+Headcount: 
+
+314 
+
+304 
+
+299 
+
+304 
+
+299 
+
+Note: Previously issued statistics may be restated
+due to fund closures and trade adjustments. 
+ Source: WisdomTree 
+ Three Months Ended September 30, 2024 Compared to Three Months
+Ended September 30, 2023 
+ Selected Operating and Financial Information 
+
+Three
+Months Ended September 30, 
+
+Percent 
+
+2024 
+
+2023 
+
+Change 
+
+Change 
+
+AUM (in millions) 
+
+Average AUM 
+
+110,369 
+
+95,743 
+
+14,626 
+
+15.3 
+
+Operating Revenues (in thousands) 
+
+Advisory fees 
+
+101,659 
+
+86,598 
+
+15,061 
+
+17.4 
+
+Other revenues 
+
+11,509 
+
+3,825 
+
+7,684 
+
+200.9 
+
+Total operating revenues 
+
+113,168 
+
+90,423 
+
+22,745 
+
+25.2 
+
+Operating Revenues 
+ Advisory fees 
+ Advisory fee revenues increased 17.4 from 86.6
+million during the three months ended September 30, 2023 to 101.7 million in the comparable period in 2024 primarily due to higher average
+AUM. Our average advisory fee was 0.37 and 0.36 during the three months ended September 30, 2023 and 2024, respectively. 
+ Other revenues 
+ Other revenues increased 200.9 from 3.8 million
+during the three months ended September 30, 2023 to 11.5 million in the comparable period in 2024 due to higher other revenues attributable
+to our European listed products and 3.7 million of legal and other related expenses, expected to be covered by insurance, incurred in
+connection with the SEC ESG Settlement described in Note 14 to our Consolidated Financial Statements. 
+
+43 
+
+ Table of Contents 
+
+Operating
+ Expenses 
+
+Three
+Months Ended September 30, 
+
+Percent 
+
+(in
+thousands) 
+
+2024 
+
+2023 
+
+Change 
+
+Change 
+
+Compensation and benefits 
+
+29,405 
+
+27,955 
+
+1,450 
+
+5.2 
+
+Fund management and administration 
+
+21,004 
+
+18,023 
+
+2,981 
+
+16.5 
+
+Marketing and advertising 
+
+4,897 
+
+3,833 
+
+1,064 
+
+27.8 
+
+Sales and business development 
+
+3,465 
+
+3,383 
+
+82 
+
+2.4 
+
+Professional fees 
+
+6,315 
+
+3,719 
+
+2,596 
+
+69.8 
+
+Occupancy, communications and equipment 
+
+1,397 
+
+1,203 
+
+194 
+
+16.1 
+
+Depreciation and amortization 
+
+447 
+
+307 
+
+140 
+
+45.6 
+
+Third-party distribution fees 
+
+2,983 
+
+2,694 
+
+289 
+
+10.7 
+
+Other 
+
+2,463 
+
+2,601 
+
+(138 
+
+(5.3 
+
+Total operating expenses 
+
+72,376 
+
+63,718 
+
+8,658 
+
+13.6 
+
+Three
+Months Ended September 30, 
+
+As a Percent of Revenues: 
+
+2024 
+
+2023 
+
+Compensation and benefits 
+
+26.0 
+
+31.0 
+
+Fund management and administration 
+
+18.6 
+
+20.0 
+
+Marketing and advertising 
+
+4.3 
+
+4.2 
+
+Sales and business development 
+
+3.1 
+
+3.7 
+
+Professional fees 
+
+5.6 
+
+4.1 
+
+Occupancy, communications and equipment 
+
+1.2 
+
+1.3 
+
+Depreciation and amortization 
+
+0.4 
+
+0.3 
+
+Third-party distribution fees 
+
+2.6 
+
+3.0 
+
+Other 
+
+2.2 
+
+2.9 
+
+Total operating expenses 
+
+64.0 
+
+70.5 
+
+Compensation and benefits 
+ Compensation and benefits expense increased
+5.2 from 28.0 million during the three months ended September 30, 2023 to 29.4 million in the comparable period in 2024 due to higher
+stock-based compensation expense and headcount. Headcount was 299 and 314 at September 30, 2023 and 2024, respectively. 
+ Fund management and administration 
+ Fund management and administration expense increased
+16.5 from 18.0 million during the three months ended September 30, 2023 to 21.0 million in the comparable period in 2024 primarily
+due to higher average AUM. We had 80 U.S. listed ETFs and 273 European listed ETPs at September 30, 2023 compared to 78 U.S. listed ETFs
+and 274 European listed ETPs at September 30, 2024. 
+ Marketing and advertising 
+ Marketing and advertising expense increased
+27.8 from 3.8 million during the three months ended September 30, 2023 to 4.9 million in the comparable period in 2024 primarily due
+to higher spending related to digital assets and our U.S. listed products. 
+ Sales and business development 
+ Sales and business development expense was essentially
+unchanged from the three months ended September 30, 2023. 
+ Professional fees 
+ Professional fees expense increased 69.8 from
+ 3.7 million during the three months ended September 30, 2023 to 6.3 million in the comparable period in 2024 primarily due to 3.7 million
+of legal and other related expenses incurred in connection with the SEC ESG Settlement. An equal and offsetting amount is recorded in
+other revenues as these expenses are expected to be covered by insurance. 
+ Occupancy, communications and equipment 
+ Occupancy, communications and equipment expense
+was essentially unchanged from the three months ended September 30, 2023. 
+
+44 
+
+ Table of Contents 
+
+Depreciation
+ and
+ amortization
+ 
+ Depreciation
+ and
+ amortization
+ expense
+ increased
+ 45.6 
+ from
+ 0.3
+ million
+ during
+ the
+ three
+ months
+ ended
+ September
+ 30,
+ 2023
+ to
+ 0.4
+ million
+ in
+ the
+ comparable
+ period
+ in
+ 2024
+ due
+ to
+ amortization
+ of
+ software
+ development
+ costs. 
+ Third-party
+ distribution
+ fees
+ 
+ Third-party
+ distribution
+ fees
+ expense
+ increased
+ 10.7 
+ from
+ 2.7
+ million
+ during
+ the
+ three
+ months
+ ended
+ September
+ 30,
+ 2023
+ to
+ 3.0
+ million
+ in
+ the
+ comparable
+ period
+ in
+ 2024
+ due
+ to
+ AUM
+ growth
+ we
+ are
+ experiencing
+ on
+ our
+ various
+ platforms
+ and
+ new
+ platform
+ relationships. 
+ Other
+ 
+ Other
+ expenses
+ were
+ essentially
+ unchanged
+ from
+ the
+ three
+ months
+ ended
+ September
+ 30,
+ 2023. 
+ Other
+ Income/(Expenses) 
+
+Three
+Months Ended September 30, 
+
+Percent 
+
+(in thousands) 
+
+2024 
+
+2023 
+
+Change 
+
+Change 
+
+Interest expense 
+
+(5,027 
+
+(3,461 
+
+(1,566 
+
+45.2 
+
+Interest income 
+
+1,795 
+
+791 
+
+1,004 
+
+126.9 
+
+Impairments 
+
+(2,703 
+
+2,703 
+
+n/a 
+
+Loss on extinguishment of convertible notes 
+
+(30,632 
+
+(30,632 
+
+n/a 
+
+Other losses, net 
+
+(3,062 
+
+(2,512 
+
+(550 
+
+21.9 
+
+Total other expenses, net 
+
+(36,926 
+
+(7,885 
+
+(29,041 
+
+368.3 
+
+Three
+Months Ended September 30, 
+
+As a Percent of Revenues: 
+
+2024 
+
+2023 
+
+Interest expense 
+
+(4.4 
+
+(3.8 
+
+Interest income 
+
+1.6 
+
+0.9 
+
+Impairments 
+
+(3.0 
+
+Loss on extinguishment of convertible notes 
+
+(27.1 
+
+Other losses, net 
+
+(2.7 
+
+(2.8 
+
+Total other expenses,
+net 
+
+(32.6 
+
+(8.7 
+
+Interest expense 
+ Interest expense increased 45.2 from 3.5 million
+during the three months ended September 30, 2023 to 5.0 million in the comparable period in 2024 due to a higher level of debt outstanding,
+partly offset by a lower average interest rate. The increase is also due to the recognition of imputed interest related to the interest-free
+financing of our repurchase of the shares of Series C Preferred Stock from GBH in November 2023. 
+ Our effective interest rate during the three
+months ended September 30, 2023 and 2024 was 5.0 and 4.4 , respectively. 
+ Interest income 
+ Interest income increased 126.9 from 0.8 million
+during the three months ended September 30, 2023 to 1.8 million in the comparable period in 2024 due to a higher level of interest-earning
+assets. 
+ Impairments 
+ During the three months ended September 30,
+2023, we recognized a non-cash impairment charge of 2.7 million, primarily related to our investment in Securrency, Inc., as we marked
+our investment to its estimated realizable value in connection with Securrency entering into an agreement to be acquired by an unrelated
+third party. 
+ Loss on Extinguishment of Convertible Notes 
+ During the three months ended September 30,
+2023, we recognized a loss on extinguishment of convertible notes of 30.6 million arising from the repurchase of 104.2 million in aggregate
+principal amount of our 2028 Notes. 
+ Other losses, net 
+ Other losses, net were 1.3 million and 3.1 million
+during the three months ended September 30, 2023 and 2024, respectively. The three months ended September 30, 2024, includes a 4.0 million
+civil money penalty in connection with the SEC ESG Settlement. Also included are net gains of 0.8 million and 0.6 million on our financial
+instruments owned and investments, respectively. Gains and losses also generally arise from the sale of gold earned from management fees
+paid by our physically-backed gold ETPs, foreign exchange fluctuations and other miscellaneous items. 
+
+45 
+
+ Table of Contents 
+
+Income
+ Taxes 
+ Our
+ effective
+ income
+ tax
+ rate
+ during
+ the
+ three
+ months
+ ended
+ September
+ 30,
+ 2024
+ was
+ 216.0 ,
+ resulting
+ in
+ income
+ tax
+ expense
+ of
+ 8.4
+ million.
+ The
+ effective
+ tax
+ rate
+ differs
+ from
+ the
+ federal
+ statutory
+ rate
+ of
+ 21.0 
+ primarily
+ due
+ to
+ a
+ non-deductible
+ loss
+ on
+ extinguishment
+ of
+ convertible
+ notes,
+ a
+ non-deductible
+ civil
+ money
+ penalty
+ of
+ 4.0
+ million
+ and
+ non-deductible
+ executive
+ compensation.
+ These
+ items
+ were
+ partly
+ offset
+ by
+ a
+ lower
+ tax
+ rate
+ on
+ foreign
+ earnings. 
+ Our
+ effective
+ income
+ tax
+ rate
+ during
+ the
+ three
+ months
+ ended
+ September
+ 30,
+ 2023
+ was
+ 31.0 ,
+ resulting
+ in
+ income
+ tax
+ expense
+ of
+ 5.8
+ million.
+ The
+ effective
+ tax
+ rate
+ differs
+ from
+ the
+ federal
+ statutory
+ rate
+ of
+ 21.0 
+ primarily
+ due
+ to
+ an
+ increase
+ in
+ the
+ deferred
+ tax
+ asset
+ valuation
+ allowance
+ on
+ losses
+ recognized
+ on
+ the
+ Company s
+ investments
+ and
+ non-deductible
+ executive
+ compensation. 
+ Nine
+ Months
+ Ended
+ September
+ 30,
+ 2024
+ Compared
+ to
+ Nine
+ Months
+ Ended
+ September
+ 30,
+ 2023 
+ Selected
+ Operating
+ and
+ Financial
+ Information 
+
+Nine
+Months Ended September 30, 
+
+Percent 
+
+2024 
+
+2023 
+
+Change 
+
+Change 
+
+AUM (in millions) 
+
+Average AUM 
+
+107,040 
+
+91,609 
+
+15,431 
+
+16.8 
+
+Operating Revenues (in thousands) 
+
+Advisory fees 
+
+293,098 
+
+246,239 
+
+46,859 
+
+19.0 
+
+Other revenues 
+
+23,942 
+
+11,952 
+
+11,990 
+
+100.3 
+
+Total revenues 
+
+317,040 
+
+258,191 
+
+58,849 
+
+22.8 
+
+Operating Revenues 
+ Advisory fees 
+ Advisory fee revenues increased 19.0 from 246.2
+million during the nine months ended September 30, 2023 to 293.1 million in the comparable period in 2024 primarily due to higher average
+AUM. Our average advisory fee was 0.36 during the nine months ended September 30, 2023 and 0.37 during the comparable period in 2024. 
+ Other revenues 
+ Other revenues increased 100.3 from 12.0 million
+during the nine months ended September 30, 2023 to 23.9 million in the comparable period in 2024 due to higher other revenues attributable
+to our European listed products and 4.1 million of legal and other related expenses expected to be covered by insurance, incurred in
+connection with the SEC ESG Settlement. 
+ Operating Expenses 
+
+Nine
+Months Ended September 30, 
+
+Percent 
+
+(in thousands) 
+
+2024 
+
+2023 
+
+Change 
+
+Change 
+
+Compensation and benefits 
+
+91,249 
+
+81,672 
+
+9,577 
+
+11.7 
+
+Fund management and administration 
+
+61,105 
+
+52,903 
+
+8,202 
+
+15.5 
+
+Marketing and advertising 
+
+14,415 
+
+12,305 
+
+2,110 
+
+17.1 
+
+Sales and business development 
+
+10,716 
+
+9,703 
+
+1,013 
+
+10.4 
+
+Contractual gold payments 
+
+6,069 
+
+(6,069 
+
+n/a 
+
+Professional fees 
+
+16,539 
+
+15,768 
+
+771 
+
+4.9 
+
+Occupancy, communications and equipment 
+
+3,921 
+
+3,476 
+
+445 
+
+12.8 
+
+Depreciation and amortization 
+
+1,248 
+
+537 
+
+711 
+
+132.4 
+
+Third-party distribution fees 
+
+7,977 
+
+6,828 
+
+1,149 
+
+16.8 
+
+Other 
+
+7,617 
+
+7,473 
+
+144 
+
+1.9 
+
+Total operating expenses 
+
+214,787 
+
+196,734 
+
+18,053 
+
+9.2 
+
+46 
+
+ Table of Contents 
+
+Nine
+Months Ended September 30, 
+
+As a Percent of Revenues 
+
+2024 
+
+2023 
+
+Compensation and benefits 
+
+28.8 
+
+31.6 
+
+Fund management and administration 
+
+19.3 
+
+20.5 
+
+Marketing and advertising 
+
+4.5 
+
+4.8 
+
+Sales and business development 
+
+3.4 
+
+3.8 
+
+Contractual gold payments 
+
+n/a 
+
+2.4 
+
+Professional fees 
+
+5.2 
+
+6.1 
+
+Occupancy, communications and equipment 
+
+1.2 
+
+1.3 
+
+Depreciation and amortization 
+
+0.4 
+
+0.2 
+
+Third-party distribution fees 
+
+2.5 
+
+2.6 
+
+Other 
+
+2.4 
+
+2.9 
+
+Total operating
+expenses 
+
+67.7 
+
+76.2 
+
+Compensation and benefits 
+ Compensation and benefits expense increased
+11.7 from 81.7 million during the nine months ended September 30, 2023 to 91.2 million in the comparable period in 2024 due to higher
+incentive and stock-based compensation expense and increased headcount. 
+ Fund management and administration 
+ Fund management and administration expense increased
+15.5 from 52.9 million during the nine months ended September 30, 2023 to 61.1 million in the comparable period in 2024 primarily due
+to higher average AUM and product launches. 
+ Marketing and advertising 
+ Marketing and advertising expense increased
+17.1 from 12.3 million during the nine months ended September 30, 2023 to 14.4 million in the comparable period in 2024 primarily due
+to higher spending related to digital assets and our U.S. listed products. 
+ Sales and business development 
+ Sales and business development expense increased
+10.4 from 9.7 million during the nine months ended September 30, 2023 to 10.7 million in the comparable period in 2024 primarily due
+to increases in travel and events spending, as well as higher market data spending. 
+ Contractual gold payments 
+ Contractual gold payments expense decreased
+from 6.1 million during the nine months ended September 30, 2023 to zero in the comparable period in 2024 due to the termination of our
+deferred consideration gold payments obligation on May 10, 2023. See Note 9 to our Consolidated Financial Statements for additional
+information. 
+ Professional fees 
+ Professional fees increased 4.9 from 15.8 million
+during the nine months ended September 30, 2023 to 16.5 million in the comparable period in 2024 primarily due to 4.1 million of legal
+and other related expenses incurred in connection with the SEC ESG Settlement. An equal and offsetting amount is recorded in other revenues
+as these expenses are expected to be covered by insurance. This increase was partly offset by lower activist campaign expenses and non-recurring
+expenses incurred in the prior year to settle our deferred consideration gold payments obligation and our acquisition of WisdomTree
+Transfers, Inc. 
+ Occupancy, communications and equipment 
+ Occupancy, communications and equipment expense
+increased 12.8 from 3.5 million during the nine months ended September 30, 2023 to 3.9 million in the comparable period in 2024 primarily
+due to higher spending on office equipment. 
+ Depreciation and amortization 
+ Depreciation and amortization expense increased
+132.4 from 0.5 million during the nine months ended September 30, 2023 to 1.2 million in the comparable period in 2024 due to amortization
+of software development costs. 
+
+47 
+
+ Table of Contents 
+
+Third-party
+ distribution
+ fees
+ 
+ Third-party
+ distribution
+ fees
+ increased
+ 16.8 
+ from
+ 6.8
+ million
+ during
+ the
+ nine
+ months
+ ended
+ September
+ 30,
+ 2023
+ to
+ 8.0
+ million
+ in
+ the
+ comparable
+ period
+ in
+ 2024
+ due
+ to
+ AUM
+ growth
+ we
+ are
+ experiencing
+ on
+ our
+ various
+ platforms
+ and
+ new
+ platform
+ relationships. 
+ Other
+ 
+ Other
+ expenses
+ were
+ essentially
+ unchanged
+ from
+ the
+ nine
+ months
+ ended
+ September
+ 30,
+ 2023. 
+ Other
+ Income/(Expenses) 
+
+Nine
+Months Ended September 30, 
+
+Percent 
+
+(in
+thousands) 
+
+2024 
+
+2023 
+
+Change 
+
+Change 
+
+Interest expense 
+
+(13,295 
+
+(11,484 
+
+(1,811 
+
+15.8 
+
+Gain on revaluation/termination
+of deferred consideration gold payments 
+
+61,953 
+
+(61,953 
+
+n/a 
+
+Interest income 
+
+4,631 
+
+2,874 
+
+1,757 
+
+61.1 
+
+Impairments 
+
+(7,603 
+
+7,603 
+
+n/a 
+
+Loss on extinguishment of convertible
+notes 
+
+(30,632 
+
+(9,721 
+
+(20,911 
+
+215.1 
+
+Other losses,
+net 
+
+(1,753 
+
+(3,233 
+
+1,480 
+
+(45.8 
+
+Total other
+income/(expenses), net 
+
+(41,049 
+
+32,786 
+
+(73,835 
+
+(225.2 
+
+Nine Months Ended 
+
+ September 30, 
+
+As a Percent of Revenues: 
+
+2024 
+
+2023 
+
+Interest expense 
+
+(4.2 
+
+(4.4 
+
+Gain on revaluation/termination
+of deferred consideration gold payments 
+
+24.0 
+
+Interest income 
+
+1.5 
+
+1.1 
+
+Impairments 
+
+(2.9 
+
+Loss on extinguishment of convertible
+notes 
+
+(9.7 
+
+(3.8 
+
+Other losses,
+net 
+
+(0.6 
+
+(1.3 
+
+Total other
+income/(expenses), net 
+
+(13.0 
+
+(12.7 
+ 
+ Interest expense 
+ Interest expense increased 15.8 from 11.5
+million during the nine months ended September 30, 2023 to 13.3 million in the comparable period in 2024 due to a higher level of debt
+outstanding, partly offset by a lower average interest rate. The increase is also due to the recognition of imputed interest related to
+the interest-free financing of our repurchase of the shares of Series C Preferred Stock from GBH in November 2023. 
+ Our effective interest rate during the nine
+months ended September 30, 2023 and 2024 was 4.9 and 4.8 , respectively. 
+ Gain on revaluation/termination of deferred consideration gold
+payments 
+ We recognized a gain on revaluation/termination
+of deferred consideration gold payments of 62.0 million during the nine months ended September 30, 2023. This obligation was settled
+on May 10, 2023 for approximately 137.0 million. See Note 9 to our Consolidated Financial Statements for additional information. 
+ Interest income 
+ Interest income increased 61.1 from 2.9 million
+during the nine months ended September 30, 2023 to 4.6 million in the comparable period in 2024 due to a higher level of interest-earning
+assets. 
+ Impairments 
+ During the nine months ended September 30, 2023,
+we recognized a non-cash impairment charge of 7.6 million primarily related to our investment in Securrency, Inc. upon the sale of Securrency
+to an unrelated third party. 
+ Loss on Extinguishment of Convertible Notes 
+ During the nine months ended September 30, 2024,
+we recognized a loss on extinguishment of convertible notes of 30.6 million, arising from the repurchase of 104.2 million in aggregate
+principal amount of our 2028 Notes. During the nine months ended September 30, 2023, we recognized a loss on extinguishment of convertible
+notes of 9.7 million, arising from the repurchase of 115.0 million in aggregate principal amount of our 4.25 Convertible Senior Notes
+due 2023. 
+
+48 
+
+ Table of Contents 
+
+Other
+ losses,
+ net 
+ Other
+ losses,
+ net
+ were
+ 3.2
+ million
+ and
+ 1.8
+ million
+ during
+ the
+ nine
+ months
+ ended
+ September
+ 30,
+ 2023
+ and
+ 2024,
+ respectively.
+ The
+ nine
+ months
+ ended
+ September
+ 30,
+ 2024,
+ includes
+ a
+ civil
+ money
+ penalty
+ of
+ 4.0
+ million
+ in
+ connection
+ with
+ the
+ SEC
+ ESG
+ Settlement.
+ Also
+ included
+ are
+ gains
+ on
+ our
+ financial
+ instruments
+ owned
+ of
+ 2.6
+ million
+ and
+ losses
+ on
+ our
+ investments
+ of
+ 0.6
+ million.
+ Gains
+ and
+ losses
+ also
+ generally
+ arise
+ from
+ the
+ sale
+ of
+ gold
+ earned
+ on
+ management
+ fees
+ paid
+ by
+ our
+ physically-backed
+ gold
+ ETPs,
+ foreign
+ exchange
+ fluctuations
+ and
+ other
+ miscellaneous
+ items. 
+ Income
+ Taxes 
+ Our
+ effective
+ income
+ tax
+ rate
+ for
+ the
+ nine
+ months
+ ended
+ September
+ 30,
+ 2024
+ was
+ 35.6 ,
+ resulting
+ in
+ an
+ income
+ tax
+ expense
+ of
+ 21.8
+ million.
+ Our
+ tax
+ rate
+ differs
+ from
+ the
+ federal
+ statutory
+ rate
+ of
+ 21.0 
+ primarily
+ due
+ to
+ a
+ non-deductible
+ loss
+ on
+ extinguishment
+ of
+ convertible
+ notes,
+ a
+ non-deductible
+ civil
+ money
+ penalty
+ of
+ 4.0
+ million
+ and
+ non-deductible
+ executive
+ compensation.
+ These
+ items
+ were
+ partly
+ offset
+ by
+ a
+ lower
+ tax
+ rate
+ on
+ foreign
+ earnings. 
+ Our
+ effective
+ income
+ tax
+ rate
+ during
+ the
+ nine
+ months
+ ended
+ September
+ 30,
+ 2023
+ was
+ 11.4 ,
+ resulting
+ in
+ an
+ income
+ tax
+ expense
+ of
+ 10.8
+ million.
+ Our
+ effective
+ tax
+ rate
+ differs
+ from
+ the
+ federal
+ statutory
+ rate
+ of
+ 21.0 
+ primarily
+ due
+ to
+ a
+ non-taxable
+ gain
+ on
+ revaluation/termination
+ of
+ deferred
+ consideration,
+ a
+ reduction
+ in
+ unrecognized
+ tax
+ benefits
+ associated
+ with
+ the
+ release
+ of
+ the
+ tax-related
+ indemnification
+ asset
+ described
+ above
+ and
+ a
+ lower
+ tax
+ rate
+ on
+ foreign
+ earnings.
+ These
+ items
+ were
+ partly
+ offset
+ by
+ a
+ non-deductible
+ loss
+ on
+ extinguishment
+ of
+ our
+ convertible
+ notes
+ during
+ the
+ first
+ quarter
+ of
+ 2023,
+ an
+ increase
+ in
+ the
+ deferred
+ tax
+ asset
+ valuation
+ allowance
+ on
+ losses
+ recognized
+ on
+ our
+ investments
+ and
+ non-deductible
+ executive
+ compensation. 
+ Non-GAAP
+ Financial
+ Measurements 
+ In
+ an
+ effort
+ to
+ provide
+ additional
+ information
+ regarding
+ our
+ results
+ as
+ determined
+ by
+ GAAP,
+ we
+ also
+ disclose
+ certain
+ non-GAAP
+ information
+ which
+ we
+ believe
+ provides
+ useful
+ and
+ meaningful
+ information.
+ Our
+ management
+ reviews
+ these
+ non-GAAP
+ financial
+ measurements
+ when
+ evaluating
+ our
+ financial
+ performance
+ and
+ results
+ of
+ operations;
+ therefore,
+ we
+ believe
+ it
+ is
+ useful
+ to
+ provide
+ information
+ with
+ respect
+ to
+ these
+ non-GAAP
+ measurements
+ so
+ as
+ to
+ share
+ this
+ perspective
+ of
+ management.
+ Non-GAAP
+ measurements
+ do
+ not
+ have
+ any
+ standardized
+ meaning,
+ do
+ not
+ replace
+ nor
+ are
+ superior
+ to
+ GAAP
+ financial
+ measurements
+ and
+ are
+ unlikely
+ to
+ be
+ comparable
+ to
+ similar
+ measures
+ presented
+ by
+ other
+ companies.
+ These
+ non-GAAP
+ financial
+ measurements
+ should
+ be
+ considered
+ in
+ the
+ context
+ with
+ our
+ GAAP
+ results.
+ The
+ non-GAAP
+ financial
+ measurements
+ contained
+ in
+ this
+ Report
+ include: 
+ Adjusted
+ Net
+ Income
+ and
+ Diluted
+ Earnings
+ per
+ Share 
+ We
+ disclose
+ adjusted
+ net
+ income
+ and
+ diluted
+ earnings
+ per
+ share
+ as
+ non-GAAP
+ financial
+ measurements
+ in
+ order
+ to
+ report
+ our
+ results
+ exclusive
+ of
+ items
+ that
+ are
+ non-recurring
+ or
+ not
+ core
+ to
+ our
+ operating
+ business.
+ We
+ believe
+ presenting
+ these
+ non-GAAP
+ financial
+ measurements
+ provides
+ investors
+ with
+ a
+ consistent
+ way
+ to
+ analyze
+ our
+ performance.
+ These
+ non-GAAP
+ financial
+ measurements
+ exclude
+ the
+ following: 
+
+Unrealized gains or losses on revaluation/termination of deferred consideration gold payments: Deferred consideration gold
+payments was an obligation we assumed in connection with the ETFS Acquisition that was carried at fair value. This item represented the
+present value of an obligation to pay fixed ounces of gold into perpetuity and is measured using forward-looking gold prices. Changes
+in the forward-looking price of gold and changes in the discount rate used to compute the present value of the annual payment obligations
+have had a material impact on the carrying value of the deferred consideration and our reported financial results. We exclude this item
+when calculating our non-GAAP financial measurements as it was not core to our operating business. The item was not adjusted for income
+taxes as the obligation was assumed by a wholly-owned subsidiary of ours that is based in Jersey, a jurisdiction where we are subject
+to a zero percent tax rate. During the second quarter of 2023, we terminated this obligation for aggregate consideration totaling approximately
+ 137.0 million. 
+
+Gains or losses on financial instruments owned: We account for our financial instruments owned as trading securities, which
+requires these instruments to be measured at fair value with gains and losses reported in net income. We exclude these items when calculating
+our non-GAAP financial measurements as the gains and losses introduce volatility in earnings and are not core to our operating business. 
+
+Tax windfalls and shortfalls upon vesting of stock-based compensation awards: GAAP requires the recognition of tax windfalls
+and shortfalls within income tax expense. These items arise upon the vesting of stock-based compensation awards and the magnitude is directly
+correlated to the number of awards vesting as well as the difference between the price of our stock on the date the award was granted
+and the date the award vested. We exclude these items when calculating our non-GAAP financial measurements as they introduce volatility
+in earnings and are not core to our operating business. 
+
+49 
+
+ Table of Contents 
+
+Imputed interest on our payable to GBH: During the fourth quarter of 2023, we repurchased our Series C Preferred Stock,
+which was convertible into approximately 13.1 million shares of our common stock, from GBH for aggregate cash consideration of approximately
+ 84.4 million. Under the terms of the transaction, we paid GBH 40.0 million on the closing date, with the remainder of the purchase price
+payable in equal, interest-free installments on the first, second and third anniversaries of the closing date. Under U.S. GAAP, the obligation
+is recorded at its present value utilizing a market rate of interest on the closing date of 7.0 and the corresponding discount is amortized
+as interest expense pursuant to the effective interest method of accounting over the life of the obligation. We exclude this item when
+calculating our non-GAAP financial measurements as recognition of interest expense is non-cash and contrary to the stated terms of our
+obligation. 
+
+Other items: Losses on extinguishment of convertible notes, a civil money penalty in connection with the SEC ESG Settlement,
+gains and losses recognized on our investments, changes in deferred tax asset valuation allowance, expenses incurred in response to an
+activist campaign, impairments, remeasurement of contingent consideration payable to us from the sale of our former Canadian ETF business
+and litigation expenses associated with certain provisions of our Stockholder Rights Agreement, dated as of March 17, 2023, as amended,
+are excluded when calculating our non-GAAP financial measurements. 
+
+Three
+Months Ended 
+
+Nine
+Months Ended 
+
+Adjusted Net Income and
+Diluted Earnings per Share: 
+
+Sept.
+30, 2024 
+
+Sept.
+30, 2023 
+
+Sept.
+30, 2024 
+
+Sept.
+30, 2023 
+
+Net (loss)/income,
+as reported 
+
+(4,485 
+
+12,984 
+
+39,385 
+
+83,469 
+
+Add back: Loss on
+extinguishment of convertible notes, net of income taxes 
+
+30,128 
+
+30,128 
+
+9,623 
+
+Add back: Civil money
+penalty in connection with the SEC ESG Settlement 
+
+4,000 
+
+4,000 
+
+(Deduct)/add back:
+(Gains)/losses on financial instruments owned, net of income taxes 
+
+(607 
+
+1,479 
+
+(1,949 
+
+762 
+
+Add back: Imputed
+interest on payable to GBH, net of income taxes 
+
+528 
+
+1,545 
+
+(Deduct)/add back:
+(Gains)/losses recognized on our investments, net of income taxes 
+
+(436 
+
+323 
+
+469 
+
+943 
+
+(Deduct)/add back:
+(Decrease)/increase in deferred tax asset valuation allowance on financial instruments owned and investments 
+
+(335 
+
+1,234 
+
+(475 
+
+2,393 
+
+Deduct: Tax windfalls
+upon vesting and exercise of stock-based compensation awards 
+
+(25 
+
+(18 
+
+(764 
+
+(170 
+
+Add back: Expenses
+incurred in response to an activist campaign, net of income taxes 
+
+3,760 
+
+4,452 
+
+Deduct: Gain on revaluation/termination
+of deferred consideration gold payments 
+
+(61,953 
+
+Add back: Litigation
+expenses associated with certain provisions of the Stockholder Rights Agreement, net of income taxes 
+
+367 
+
+Add back: Impairments,
+net of income taxes (where applicable) 
+
+2,046 
+
+5,756 
+
+Deduct:
+Remeasurement of contingent consideration sale of Canadian ETF business 
+
+(1,477 
+
+Adjusted net income 
+
+28,768 
+
+18,048 
+
+76,099 
+
+44,165 
+
+Deduct: Income distributed
+to participating securities 
+
+(463 
+
+(889 
+
+(1,387 
+
+(1,884 
+
+Deduct:
+Undistributed income allocable to participating securities 
+
+(1,147 
+
+(2,128 
+
+(4,840 
+
+(4,033 
+
+Adjusted net income
+available to common stockholders 
+
+27,158 
+
+15,031 
+
+69,872 
+
+38,248 
+
+Weighted
+average diluted shares, excluding participating securities (in thousands) (See Note 20 to our Consolidated Financial Statements) 
+
+149,353 
+
+148,432 
+
+150,080 
+
+147,572 
+
+Adjusted earnings
+per share diluted 
+
+0.18 
+
+0.10 
+
+0.47 
+
+0.26 
+
+Adjusted net income, as reported on a non-GAAP
+basis during the three and nine months ended September 30, 2024, also excludes a loss of 11.4 million recognized upon the repurchase
+of our Series A Preferred Stock, which was convertible into 14.75 million shares of common stock from ETFS Capital and 1.9 million of
+stock repurchase excise taxes. Under U.S. GAAP, these amounts are excluded from net income but are required to be added to net income
+to arrive at income available to common stockholders in the calculation of earnings per share. 
+
+50 
+
+ Table of Contents 
+
+Liquidity
+ and
+ Capital
+ Resources
+ 
+ The
+ following
+ table
+ summarizes
+ key
+ data
+ regarding
+ our
+ liquidity,
+ capital
+ resources
+ and
+ use
+ of
+ capital
+ to
+ fund
+ our
+ operations: 
+
+September 30, 
+
+ 2024 
+
+December 31, 
+
+ 2023 
+
+Balance Sheet
+Data (in thousands): 
+
+Cash, cash equivalents and restricted cash 
+
+176,483 
+
+129,305 
+
+Financial instruments owned, at fair value 
+
+77,341 
+
+58,722 
+
+Accounts receivable 
+
+45,200 
+
+35,473 
+
+Securities held-to-maturity 
+
+212 
+
+230 
+
+Total: Liquid assets 
+
+299,236 
+
+223,730 
+
+Less: Total current liabilities 
+
+(106,473 
+
+(103,216 
+
+Less: Other assets seed capital (WisdomTree Digital Funds) 
+
+(20,524 
+
+(18,308 
+
+Less: Regulatory capital requirements 
+
+(35,120 
+
+(29,156 
+
+Total: Available liquidity 
+
+137,119 
+
+73,050 
+
+Nine
+Months Ended September 30, 
+
+2024 
+
+2023 
+
+Cash
+Flow Data (in thousands): 
+
+Operating cash flows 
+
+78,886 
+
+48,350 
+
+Investing cash flows 
+
+(16,902 
+
+35,860 
+
+Financing cash flows 
+
+(16,939 
+
+(126,389 
+
+Foreign exchange
+rate effect 
+
+2,133 
+
+(441 
+
+Increase/(decrease)
+in cash, cash equivalents and restricted cash 
+
+47,178 
+
+(42,620 
+ 
+ Liquidity 
+ We consider our available liquidity to be our
+liquid assets, less our current liabilities, seed capital in WisdomTree Digital Funds and regulatory capital requirements of certain of
+our subsidiaries. Liquid assets consist of cash, cash equivalents and restricted cash, financial instruments owned, at fair value, accounts
+receivable and securities held-to-maturity. Our financial instruments owned, at fair value are highly liquid investments. Accounts receivable
+are current assets and primarily represent receivables from advisory fees we earn from our ETPs. Our current liabilities consist primarily
+of payments owed to vendors and third parties in the normal course of business, accrued incentive compensation for employees and the current
+portion of our payable to GBH. 
+ Cash, cash equivalents and restricted cash increased
+by 47.2 million during the nine months ended September 30, 2024 due to 345.0 million of proceeds from the issuance of convertible notes,
+ 78.9 million of cash provided by operating activities, 42.3 million of proceeds from the sale of financial instruments owned, at fair
+value and 2.1 million provided by other activities. These increases were partly offset by 143.8 million used to repurchase Series A
+Preferred Stock, 132.7 million to repurchase a portion of our 2028 Notes, 62.9 million used to repurchase common stock, 57.9 million
+used to purchase financial instruments owned, at fair value, 14.8 million used to pay dividends, 7.7 million used to pay convertible
+notes issuance costs and 1.8 million used to pay for software development. 
+ Cash and cash equivalents decreased by 42.6
+million during the nine months ended September 30, 2023 due to 184.3 million used to repurchase and settle at maturity our convertible
+notes, 56.8 million used to purchase financial instruments owned, at fair value, 50.0 million used to settle our deferred consideration gold
+payments obligation, 14.9 million used to pay dividends, 10.0 million used to purchase investments, 3.6 million used to repurchase
+our common stock, 3.5 million used for convertible notes issuance costs, 1.0 million used to acquire Securrency Transfers, Inc. (renamed
+WisdomTree Transfers, Inc.) and 0.7 million used for other activities. These decreases were partly offset by 130.0 million of proceeds
+from the issuance of convertible notes, 102.3 million of proceeds from the sale of financial instruments owned, at fair value, 48.4
+million provided by operating activities and 1.5 million from receipt of contingent consideration. 
+ Convertible Notes 
+ We have the following convertible notes outstanding
+as of September 30, 2024: 
+
+150.0 million in aggregate principal amount of 3.25 Convertible Senior Notes due 2026 (the 2026 Notes 
+
+25.8 million in aggregate principal amount of 5.75 Convertible Senior Notes due 2028 (the 2028 Notes and 
+
+345.0 million in aggregate principal amount of 3.25 Convertible Senior Notes due 2029 (the 2029 Notes ). 
+
+51 
+
+ Table of Contents 
+
+Each
+ class
+ of
+ notes
+ were
+ issued
+ pursuant
+ to
+ indentures
+ dated
+ as
+ of
+ the
+ issuance
+ dates
+ between
+ us
+ and
+ either
+ U.S.
+ Bank
+ National
+ Association
+ or
+ U.S.
+ Bank
+ Trust
+ Company,
+ National
+ Association,
+ as
+ trustee
+ (or
+ its
+ successor
+ in
+ interest,
+ the
+ Trustee ),
+ in
+ private
+ offerings
+ to
+ qualified
+ institutional
+ buyers
+ pursuant
+ to
+ Rule
+ 144A
+ under
+ the
+ Securities
+ Act
+ of
+ 1933,
+ as
+ amended. 
+ In
+ connection
+ with
+ the
+ issuance
+ of
+ the
+ 2029
+ Notes,
+ we
+ repurchased
+ 104.2
+ million
+ in
+ aggregate
+ principal
+ amount
+ of
+ 2028
+ Notes.
+ As
+ a
+ result
+ of
+ this
+ repurchase,
+ we
+ recognized
+ a
+ loss
+ on
+ extinguishment
+ of
+ approximately
+ 30.6
+ million
+ during
+ the
+ three
+ and
+ nine
+ months
+ ended
+ September
+ 30,
+ 2024. 
+ As
+ of
+ September
+ 30,
+ 2024,
+ we
+ had
+ an
+ aggregate
+ principal
+ amount
+ of
+ 520,845
+ outstanding
+ of
+ the
+ 2026
+ Notes,
+ the
+ 2028
+ Notes
+ and
+ the
+ 2029
+ Notes
+ (collectively,
+ the
+ Convertible
+ Notes ). 
+ Key
+ terms
+ of
+ the
+ Convertible
+ Notes
+ are
+ as
+ follows: 
+
+2026 Notes 
+
+2028 Notes 
+
+2029 Notes 
+
+Principal outstanding 
+
+150.0 
+
+25.8 
+
+345.0 
+
+Issuance date 
+
+June 14, 2021 
+
+February 14, 2023 
+
+August 13, 2024 
+
+Maturity date (unless earlier converted, repurchased or redeemed) 
+
+June 15, 2026 
+
+August 15, 2028 
+
+August 15, 2029 
+
+Interest rate 
+
+3.25 
+
+5.75 
+
+3.25 
+
+Initial conversion price 
+
+11.04 
+
+9.54 
+
+11.82 
+
+Initial conversion rate 
+
+90.5797 
+
+104.8658 
+
+84.5934 
+
+Redemption price 
+
+14.35 
+
+12.40 
+
+15.37 
+
+Interest rate: Payable semiannually in arrears on February 15 and August 15 of each year for the 2029 Notes and the 2028
+Notes and on June 15 and December 15 of each year for the 2026 Notes. 
+
+Conversion price: Convertible at an initial conversion rate into shares of our common stock, per 1,000 principal amount
+of notes (equivalent to an initial conversion price set forth in the table above), subject to adjustment. 
+
+Conversion: Holders may convert at their option at any time prior to the close of business on the business day immediately
+preceding May 15, 2029 and May 15, 2028 for the 2029 Notes and the 2028 Notes, respectively, and March 15, 2026 for the 2026 Notes, only
+under the following circumstances: (i) if the last reported sale price of our common stock for at least 20 trading days during a period
+of 30 consecutive trading days ending on the last trading day of the immediately preceding calendar quarter is greater than or equal to
+130 of the conversion price for the respective Convertible Notes on each applicable trading day; (ii) during the five business day period
+after any ten consecutive trading day period (the measurement period in which the trading price per 1,000 principal amount
+of the Convertible Notes for each trading day of the measurement period was less than 98 of the product of the last reported sales price
+of our common stock and the conversion rate on each such trading day; (iii) upon a notice of redemption delivered by us in accordance
+with the terms of the indentures but only with respect to the Convertible Notes called (or deemed called) for redemption; or (iv) upon
+the occurrence of specified corporate events. On or after May 15, 2029 and May 15, 2028 in respect of the 2029 Notes and the 2028 Notes,
+respectively, and March 15, 2026 in respect of the 2026 Notes, until the close of business on the second scheduled trading day immediately
+preceding the maturity date, holders may convert their Convertible Notes at any time, regardless of the foregoing circumstances. 
+
+Cash settlement of principal amount: Upon conversion, we will pay cash up to the aggregate principal amount of the Convertible
+Notes to be converted. At our election, we will also settle its conversion obligation in excess of the aggregate principal amount of the
+Convertible Notes being converted in either cash, shares of its common stock or a combination of cash and shares of its common stock. 
+
+Redemption price: We may redeem for cash all or any portion of the Convertible Notes, at our option, on or after August
+20, 2026 and August 20, 2025 in respect of the 2029 Notes and the 2028 Notes, respectively, and June 20, 2023 in respect of the 2026 Notes
+and on or prior to the 55 th scheduled trading day immediately preceding the maturity date, if the last reported sale price
+of our common stock has been at least 130 of the conversion price for the respective Convertible Notes then in effect for at least 20
+trading days, including the trading day immediately preceding the date on which we provide notice of redemption, during any 30 consecutive
+trading day period ending on, and including, the trading day immediately preceding the date on which we provide notice of redemption,
+at a redemption price equal to 100 of the principal amount of the notes to be redeemed, plus accrued and unpaid interest to, but excluding
+the redemption date. No sinking fund is provided for the Convertible Notes. 
+
+Limited investor put rights: Holders of the Convertible Notes have the right to require us to repurchase for cash all or
+a portion of their notes at 100 of their principal amount, plus any accrued and unpaid interest, upon the occurrence of certain change
+of control transactions or liquidation, dissolution or common stock delisting events. 
+
+Conversion rate increase in certain customary circumstances: In certain circumstances, conversions in connection with a
+ make-whole fundamental change (as defined in the indentures) or conversions of Convertible Notes called (or deemed called)
+for redemption may result in an increase to the conversion rate, provided that the conversion rate will not exceed 103.6269 shares, 167.7853
+shares and 144.9275 shares of our common stock per 1,000 principal amount of the 2029 Notes, the 2028 Notes and the 2026 Notes, respectively
+(the equivalent of 69,880,434 shares of our common stock), subject to adjustment. 
+
+Seniority and Security: The Convertible Notes rank equal in right of payment and are our senior unsecured obligations. 
+
+52 
+
+ Table of Contents 
+
+The
+ indentures
+ contain
+ customary
+ terms
+ and
+ covenants,
+ including
+ that
+ upon
+ certain
+ events
+ of
+ default
+ occurring
+ and
+ continuing,
+ either
+ the
+ Trustee
+ or
+ the
+ respective
+ holders
+ of
+ not
+ less
+ than
+ 25 
+ in
+ aggregate
+ principal
+ amount
+ of
+ the
+ respective
+ series
+ of
+ Convertible
+ Notes
+ outstanding
+ may
+ declare
+ the
+ entire
+ principal
+ amount
+ of
+ all
+ such
+ respective
+ Convertible
+ Notes
+ to
+ be
+ repurchased,
+ plus
+ any
+ accrued
+ special
+ interest,
+ if
+ any,
+ to
+ be
+ immediately
+ due
+ and
+ payable. 
+ Capital
+ Resources
+ 
+ Our
+ principal
+ source
+ of
+ financing
+ is
+ our
+ operating
+ cash
+ flow.
+ We
+ believe
+ that
+ current
+ cash
+ flows
+ generated
+ by
+ our
+ operating
+ activities
+ and
+ existing
+ cash
+ balances
+ should
+ be
+ sufficient
+ for
+ us
+ to
+ fund
+ our
+ operations
+ for
+ the
+ foreseeable
+ future. 
+ Our
+ ability
+ to
+ satisfy
+ our
+ contractual
+ obligations
+ as
+ they
+ arise
+ are
+ discussed
+ in
+ the
+ section
+ titled
+ Contractual
+ Obligations 
+ below. 
+ Use
+ of
+ Capital
+ 
+ Our
+ business
+ does
+ not
+ require
+ us
+ to
+ maintain
+ a
+ significant
+ cash
+ position.
+ However,
+ certain
+ of
+ our
+ subsidiaries
+ are
+ required
+ to
+ maintain
+ a
+ minimum
+ level
+ of
+ regulatory
+ capital,
+ which
+ at
+ September
+ 30,
+ 2024
+ was
+ approximately
+ 35.1
+ million
+ in
+ the
+ aggregate.
+ Notwithstanding
+ these
+ regulatory
+ capital
+ requirements,
+ we
+ expect
+ that
+ our
+ main
+ uses
+ of
+ cash
+ will
+ be
+ to
+ fund
+ the
+ ongoing
+ operations
+ of
+ our
+ business.
+ We
+ also
+ maintain
+ a
+ capital
+ return
+ program
+ which
+ includes
+ a
+ 0.03
+ per
+ share
+ quarterly
+ cash
+ dividend
+ and
+ authority
+ to
+ purchase
+ our
+ common
+ stock
+ through
+ April
+ 27,
+ 2025,
+ including
+ purchases
+ to
+ offset
+ future
+ equity
+ grants
+ made
+ under
+ our
+ equity
+ plans
+ and
+ purchases
+ made
+ in
+ open
+ market
+ or
+ privately
+ negotiated
+ transactions. 
+ During
+ the
+ nine
+ months
+ ended
+ September
+ 30,
+ 2024,
+ we
+ repurchased
+ 6,800,301
+ shares
+ of
+ our
+ common
+ stock
+ under
+ the
+ repurchase
+ program
+ for
+ an
+ aggregate
+ cost
+ of
+ 62.9
+ million.
+ Currently,
+ approximately
+ 35.5
+ million
+ remains
+ under
+ this
+ program
+ for
+ future
+ purchases. 
+ In
+ addition,
+ on
+ August
+ 13,
+ 2024,
+ we
+ repurchased
+ all
+ of
+ our
+ then-outstanding
+ Series
+ A
+ Non-Voting
+ Convertible
+ Preferred
+ Stock,
+ which
+ was
+ convertible
+ into
+ 14,750,000
+ shares
+ of
+ our
+ common
+ stock,
+ from
+ ETFS
+ Capital
+ for
+ aggregate
+ cash
+ consideration
+ of
+ approximately
+ 143.8
+ million.
+ See
+ Note
+ 11
+ to
+ our
+ Consolidated
+ Financial
+ Statements
+ for
+ additional
+ information. 
+ Contractual
+ Obligations
+ 
+ Convertible
+ Notes 
+ We
+ currently
+ have
+ 520.8
+ million
+ in
+ aggregate
+ principal
+ amount
+ of
+ Convertible
+ Notes
+ outstanding,
+ of
+ which
+ 150.0
+ million,
+ 25.8
+ million
+ and
+ 345.0
+ million
+ are
+ scheduled
+ to
+ mature
+ on
+ June
+ 15,
+ 2026,
+ August
+ 15,
+ 2028
+ and
+ August
+ 15,
+ 2029,
+ in
+ respect
+ of
+ the
+ 2026
+ Notes,
+ the
+ 2028
+ Notes
+ and
+ the
+ 2029
+ Notes,
+ respectively,
+ unless
+ earlier
+ converted,
+ repurchased
+ or
+ redeemed.
+ Conditional
+ conversions
+ or
+ a
+ requirement
+ to
+ repurchase
+ the
+ Convertible
+ Notes
+ upon
+ the
+ occurrence
+ of
+ a
+ fundamental
+ change
+ may
+ accelerate
+ payment. 
+ The
+ Convertible
+ Notes
+ require
+ cash
+ settlement
+ of
+ up
+ to
+ the
+ principal
+ amount,
+ while
+ settlement
+ of
+ the
+ conversion
+ obligation
+ in
+ excess
+ of
+ the
+ aggregate
+ principal
+ amount
+ may
+ be
+ satisfied
+ in
+ either
+ cash,
+ shares
+ of
+ our
+ common
+ stock
+ or
+ a
+ combination
+ of
+ cash
+ and
+ shares
+ of
+ our
+ common
+ stock.
+ We
+ may
+ settle
+ and/or
+ refinance
+ these
+ obligations
+ when
+ due. 
+ See
+ the
+ section
+ titled
+ Issuance
+ of
+ Convertible
+ Notes 
+ above
+ for
+ additional
+ information. 
+ Payable
+ to
+ GBH 
+ On
+ November
+ 20,
+ 2023,
+ we
+ repurchased
+ our
+ Series
+ C
+ Preferred
+ Stock
+ from
+ GBH
+ for
+ aggregate
+ cash
+ consideration
+ of
+ approximately
+ 84.4
+ million.
+ The
+ Series
+ C
+ Preferred
+ Stock
+ was
+ originally
+ issued
+ to
+ GBH
+ on
+ May
+ 10,
+ 2023
+ in
+ connection
+ with
+ the
+ termination
+ of
+ our
+ obligations
+ relating
+ to
+ the
+ contractual
+ gold
+ payments.
+ Under
+ the
+ terms
+ of
+ the
+ transaction,
+ we
+ paid
+ GBH
+ 40.0
+ million
+ on
+ the
+ closing
+ date,
+ with
+ the
+ remainder
+ of
+ the
+ purchase
+ price
+ payable
+ in
+ equal,
+ interest-free
+ installments
+ on
+ the
+ first,
+ second
+ and
+ third
+ anniversaries
+ of
+ the
+ closing
+ date. 
+ Operating
+ Leases 
+ Total
+ future
+ minimum
+ lease
+ payments
+ with
+ respect
+ to
+ our
+ operating
+ lease
+ liabilities
+ were
+ 1.6
+ million
+ at
+ September
+ 30,
+ 2024.
+ Cash
+ flows
+ generated
+ by
+ our
+ operating
+ activities
+ and
+ existing
+ cash
+ balances
+ should
+ be
+ sufficient
+ to
+ satisfy
+ the
+ future
+ minimum
+ lease
+ payments.
+ See
+ Note
+ 13
+ to
+ our
+ Consolidated
+ Financial
+ Statements
+ for
+ additional
+ information. 
+ Off-Balance
+ Sheet
+ Arrangements
+ 
+ We
+ do
+ not
+ have
+ any
+ off-balance
+ sheet
+ financing
+ or
+ other
+ arrangements
+ and
+ have
+ neither
+ created
+ nor
+ are
+ party
+ to
+ any
+ special-purpose
+ or
+ off-balance
+ sheet
+ entities
+ for
+ the
+ purpose
+ of
+ raising
+ capital,
+ incurring
+ debt
+ or
+ operating
+ our
+ business. 
+
+53 
+
+ Table of Contents 
+
+Critical
+ Accounting
+ Policies
+ and
+ Estimates 
+ Goodwill
+ and
+ Intangible
+ Assets
+ 
+ Goodwill
+ is
+ the
+ excess
+ of
+ the
+ purchase
+ price
+ over
+ the
+ fair
+ values
+ of
+ the
+ identifiable
+ net
+ assets
+ at
+ the
+ acquisition
+ date.
+ We
+ test
+ goodwill
+ for
+ impairment
+ at
+ least
+ annually
+ and
+ at
+ the
+ time
+ of
+ a
+ triggering
+ event
+ requiring
+ re-evaluation,
+ if
+ one
+ were
+ to
+ occur.
+ Goodwill
+ is
+ considered
+ impaired
+ when
+ the
+ estimated
+ fair
+ value
+ of
+ the
+ reporting
+ unit
+ that
+ was
+ allocated
+ the
+ goodwill
+ is
+ less
+ than
+ its
+ carrying
+ value.
+ If
+ the
+ estimated
+ fair
+ value
+ of
+ such
+ reporting
+ unit
+ is
+ less
+ than
+ its
+ carrying
+ value,
+ goodwill
+ impairment
+ is
+ recognized
+ based
+ on
+ that
+ difference,
+ not
+ to
+ exceed
+ the
+ carrying
+ amount
+ of
+ goodwill.
+ A
+ reporting
+ unit
+ is
+ an
+ operating
+ segment
+ or
+ a
+ component
+ of
+ an
+ operating
+ segment
+ provided
+ that
+ the
+ component
+ constitutes
+ a
+ business
+ for
+ which
+ discrete
+ financial
+ information
+ is
+ available
+ and
+ management
+ regularly
+ reviews
+ the
+ operating
+ results
+ of
+ that
+ component. 
+ Goodwill
+ is
+ allocated
+ to
+ our
+ U.S.
+ business
+ and
+ European
+ business
+ components.
+ For
+ impairment
+ testing
+ purposes,
+ these
+ components
+ are
+ aggregated
+ as
+ a
+ single
+ reporting
+ unit
+ as
+ they
+ fall
+ under
+ the
+ same
+ operating
+ segment
+ and
+ have
+ similar
+ economic
+ characteristics. 
+ Goodwill
+ is
+ assessed
+ for
+ impairment
+ annually
+ on
+ November
+ 30 th .
+ When
+ performing
+ our
+ goodwill
+ impairment
+ test,
+ we
+ consider
+ a
+ qualitative
+ assessment,
+ when
+ appropriate,
+ and
+ the
+ market
+ approach
+ and
+ its
+ market
+ capitalization
+ when
+ determining
+ the
+ fair
+ value
+ of
+ the
+ reporting
+ unit.
+ The
+ results
+ of
+ our
+ most
+ recent
+ analysis
+ indicated
+ no
+ impairment
+ based
+ upon
+ a
+ quantitative
+ assessment. 
+ Indefinite-lived
+ intangible
+ assets
+ are
+ tested
+ for
+ impairment
+ at
+ least
+ annually
+ and
+ are
+ reviewed
+ for
+ impairment
+ whenever
+ events
+ or
+ changes
+ in
+ circumstances
+ indicate
+ that
+ the
+ carrying
+ amount
+ of
+ an
+ asset
+ may
+ not
+ be
+ recoverable.
+ Indefinite-lived
+ intangible
+ assets
+ are
+ impaired
+ if
+ their
+ estimated
+ fair
+ value
+ is
+ less
+ than
+ their
+ carrying
+ value.
+ We
+ may
+ rely
+ on
+ a
+ qualitative
+ assessment
+ when
+ performing
+ our
+ intangible
+ asset
+ impairment
+ test.
+ Otherwise,
+ the
+ impairment
+ evaluation
+ is
+ performed
+ at
+ the
+ lowest
+ level
+ of
+ reasonably
+ identifiable
+ cash
+ flows
+ independent
+ of
+ other
+ assets.
+ The
+ annual
+ impairment
+ testing
+ date
+ for
+ our
+ intangible
+ assets
+ is
+ November
+ 30 th .
+ The
+ results
+ of
+ our
+ most
+ recent
+ analysis
+ identified
+ no
+ indicators
+ of
+ impairment
+ to
+ be
+ recognized
+ based
+ upon
+ a
+ quantitative
+ assessment
+ (discounted
+ cash
+ flow
+ analysis)
+ which
+ relied
+ upon
+ significant
+ unobservable
+ inputs
+ including
+ projected
+ revenue
+ growth
+ rates
+ of
+ 3.0 
+ and
+ a
+ weighted
+ average
+ cost
+ of
+ capital
+ of
+ 10.5 . 
+ Investments
+ 
+ We
+ account
+ for
+ equity
+ investments
+ that
+ do
+ not
+ have
+ a
+ readily
+ determinable
+ fair
+ value
+ under
+ the
+ measurement
+ alternative
+ prescribed
+ within
+ ASU
+ 2016-01,
+ Financial
+ Instruments
+ 
+ Recognition
+ and
+ Measurement
+ of
+ Financial
+ Assets
+ and
+ Financial
+ Liabilities ,
+ to
+ the
+ extent
+ such
+ investments
+ are
+ not
+ subject
+ to
+ consolidation
+ or
+ the
+ equity
+ method.
+ Under
+ the
+ measurement
+ alternative,
+ these
+ financial
+ instruments
+ are
+ carried
+ at
+ cost,
+ less
+ any
+ impairment
+ (assessed
+ quarterly),
+ plus
+ or
+ minus
+ changes
+ resulting
+ from
+ observable
+ price
+ changes
+ in
+ orderly
+ transactions
+ for
+ an
+ identical
+ or
+ similar
+ investment
+ of
+ the
+ same
+ issuer.
+ In
+ addition,
+ income
+ is
+ recognized
+ when
+ dividends
+ are
+ received
+ only
+ to
+ the
+ extent
+ they
+ are
+ distributed
+ from
+ net
+ accumulated
+ earnings
+ of
+ the
+ investee.
+ Otherwise,
+ such
+ distributions
+ are
+ considered
+ returns
+ of
+ investment
+ and
+ are
+ recorded
+ as
+ a
+ reduction
+ of
+ the
+ cost
+ of
+ the
+ investment. 
+ See
+ Note
+ 7
+ to
+ our
+ Consolidated
+ Financial
+ Statements
+ for
+ additional
+ information. 
+ Revenue
+ Recognition
+ 
+ We
+ earn
+ substantially
+ all
+ of
+ our
+ revenue
+ in
+ the
+ form
+ of
+ advisory
+ fees
+ from
+ our
+ ETPs
+ and
+ recognize
+ this
+ revenue
+ over
+ time,
+ as
+ the
+ performance
+ obligation
+ is
+ satisfied.
+ Advisory
+ fees
+ are
+ based
+ on
+ a
+ percentage
+ of
+ the
+ ETPs 
+ average
+ daily
+ net
+ assets.
+ Progress
+ is
+ measured
+ using
+ the
+ practical
+ expedient
+ under
+ the
+ output
+ method
+ resulting
+ in
+ the
+ recognition
+ of
+ revenue
+ in
+ the
+ amount
+ for
+ which
+ we
+ have
+ a
+ right
+ to
+ invoice. 
+ Other
+ revenues
+ are
+ earned
+ from
+ swap
+ providers
+ associated
+ with
+ certain
+ of
+ our
+ European
+ listed
+ ETPs,
+ the
+ nature
+ of
+ which
+ are
+ based
+ on
+ a
+ percentage
+ of
+ the
+ ETPs 
+ average
+ daily
+ net
+ assets.
+ We
+ also
+ earn
+ transaction-based
+ income
+ on
+ flows
+ associated
+ with
+ certain
+ European
+ listed
+ ETPs.
+ There
+ is
+ no
+ significant
+ judgment
+ in
+ calculating
+ amounts
+ due,
+ which
+ are
+ invoiced
+ monthly
+ or
+ quarterly
+ in
+ arrears
+ and
+ are
+ not
+ subject
+ to
+ any
+ potential
+ reversal.
+ Progress
+ is
+ measured
+ using
+ the
+ practical
+ expedient
+ under
+ the
+ output
+ method
+ resulting
+ in
+ the
+ recognition
+ of
+ revenue
+ in
+ the
+ amount
+ for
+ which
+ we
+ have
+ a
+ right
+ to
+ invoice. 
+
+ITEM 3. 
+
+ QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+ 
+ The following information, together with information
+included in other parts of this Management s Discussion and Analysis of Financial Condition and Results of Operations, describes
+key aspects of our market risk. 
+ Market Risk 
+ Market risk to us generally represents the risk
+of changes in the value of our ETPs and Digital Funds that results from fluctuations in securities or commodity prices, foreign currency
+exchange rates against the U.S. dollar, and interest rates. Nearly all our revenues are derived from advisory agreements for the WisdomTree
+ETPs. Under these agreements, the advisory fee we receive is based on the average market value of the assets in the WisdomTree ETP portfolios
+we manage. 
+
+54 
+
+ Table of Contents 
+
+Fluctuations
+ in
+ the
+ value
+ of
+ the
+ ETPs
+ are
+ common
+ and
+ are
+ generated
+ by
+ numerous
+ factors
+ such
+ as
+ market
+ volatility,
+ the
+ global
+ economy,
+ inflation,
+ changes
+ in
+ investor
+ strategies
+ and
+ sentiment,
+ availability
+ of
+ alternative
+ investment
+ vehicles,
+ domestic
+ and
+ foreign
+ government
+ regulations,
+ emerging
+ markets
+ developments
+ and
+ others.
+ Accordingly,
+ changes
+ in
+ any
+ one
+ or
+ a
+ combination
+ of
+ these
+ factors
+ may
+ reduce
+ the
+ value
+ of
+ investment
+ securities
+ and,
+ in
+ turn,
+ the
+ underlying
+ AUM
+ on
+ which
+ our
+ revenues
+ are
+ earned.
+ These
+ declines
+ may
+ cause
+ investors
+ to
+ withdraw
+ funds
+ from
+ our
+ ETPs
+ in
+ favor
+ of
+ investments
+ that
+ they
+ perceive
+ as
+ offering
+ greater
+ opportunity
+ or
+ lower
+ risk,
+ thereby
+ compounding
+ the
+ impact
+ on
+ our
+ revenues.
+ We
+ believe
+ challenging
+ and
+ volatile
+ market
+ conditions
+ will
+ continue
+ to
+ be
+ present
+ in
+ the
+ foreseeable
+ future. 
+ Interest
+ Rate
+ Risk
+ 
+ We
+ invest
+ our
+ corporate
+ cash
+ in
+ short-term
+ interest
+ earning
+ assets,
+ primarily
+ in
+ federal
+ agency
+ debt
+ instruments,
+ WisdomTree
+ fixed
+ income
+ ETFs,
+ U.S.
+ treasuries,
+ corporate
+ bonds,
+ money
+ market
+ instruments
+ at
+ a
+ commercial
+ bank
+ and
+ other
+ securities
+ which
+ totaled
+ 109.2
+ million
+ and
+ 135.9
+ million
+ as
+ of
+ December
+ 31,
+ 2023
+ and
+ September
+ 30,
+ 2024,
+ respectively.
+ During
+ the
+ nine
+ months
+ ended
+ September
+ 30,
+ 2024,
+ we
+ recognized
+ gains
+ on
+ these
+ financial
+ instruments
+ of
+ 2.6
+ million
+ and
+ any
+ gains/losses
+ recognized
+ in
+ the
+ future
+ may
+ be
+ material
+ to
+ our
+ operating
+ results.
+ We
+ do
+ not
+ anticipate
+ that
+ changes
+ in
+ interest
+ rates
+ will
+ have
+ a
+ material
+ impact
+ on
+ our
+ financial
+ condition
+ or
+ cash
+ flows. 
+ In
+ addition,
+ our
+ Convertible
+ Notes
+ bear
+ interest
+ at
+ fixed
+ rates
+ of
+ 5.75 
+ for
+ the
+ 2028
+ Notes
+ and
+ 3.25 
+ for
+ the
+ 2026
+ Notes
+ and
+ the
+ 2029
+ Notes.
+ Therefore,
+ we
+ have
+ no
+ direct
+ financial
+ statement
+ risk
+ associated
+ with
+ changes
+ in
+ interest
+ rates.
+ However,
+ the
+ fair
+ value
+ of
+ the
+ Convertible
+ Notes
+ changes
+ primarily
+ when
+ the
+ market
+ price
+ of
+ our
+ common
+ stock
+ fluctuates
+ or
+ interest
+ rates
+ change. 
+ Exchange
+ Rate
+ Risk
+ 
+ We
+ are
+ subject
+ to
+ currency
+ translation
+ exposure
+ on
+ the
+ results
+ of
+ our
+ non-U.S.
+ operations,
+ primarily
+ in
+ the
+ United
+ Kingdom
+ and
+ Europe.
+ Foreign
+ currency
+ translation
+ risk
+ is
+ the
+ risk
+ that
+ exchange
+ rate
+ gains
+ or
+ losses
+ arise
+ from
+ translating
+ foreign
+ entities 
+ statements
+ of
+ earnings
+ and
+ balance
+ sheets
+ from
+ functional
+ currency
+ to
+ our
+ reporting
+ currency
+ (the
+ U.S.
+ dollar)
+ for
+ consolidation
+ purposes.
+ The
+ advisory
+ fees
+ earned
+ on
+ our
+ European
+ listed
+ ETPs
+ are
+ predominantly
+ in
+ U.S.
+ dollars
+ (and
+ also
+ paid
+ in
+ gold,
+ other
+ precious
+ metals
+ and
+ cryptocurrency,
+ as
+ described
+ below);
+ however,
+ expenses
+ for
+ corporate
+ overhead
+ are
+ generally
+ incurred
+ in
+ British
+ pounds.
+ Currently,
+ we
+ do
+ not
+ enter
+ into
+ derivative
+ financial
+ instruments
+ aimed
+ at
+ offsetting
+ certain
+ exposures
+ in
+ the
+ statement
+ of
+ operations
+ or
+ the
+ balance
+ sheet
+ but
+ may
+ seek
+ to
+ do
+ so
+ in
+ the
+ future. 
+ Exchange
+ rate
+ risk
+ associated
+ with
+ the
+ euro
+ is
+ not
+ considered
+ to
+ be
+ significant. 
+ Commodity
+ and
+ Cryptocurrency
+ Price
+ Risk
+ 
+ Fluctuations
+ in
+ the
+ prices
+ of
+ commodities
+ and
+ cryptocurrencies
+ that
+ are
+ linked
+ to
+ certain
+ of
+ our
+ ETPs
+ could
+ have
+ a
+ material
+ adverse
+ effect
+ on
+ our
+ AUM
+ and
+ revenues.
+ In
+ addition,
+ a
+ portion
+ of
+ the
+ advisory
+ fee
+ revenues
+ we
+ receive
+ on
+ our
+ ETPs
+ backed
+ by
+ gold,
+ other
+ precious
+ metals
+ and
+ cryptocurrencies
+ are
+ paid
+ in
+ the
+ underlying
+ metal
+ or
+ cryptocurrency.
+ While
+ we
+ readily
+ sell
+ the
+ gold,
+ precious
+ metals
+ and
+ cryptocurrencies
+ that
+ we
+ earn
+ under
+ these
+ advisory
+ contracts,
+ we
+ still
+ may
+ maintain
+ a
+ position.
+ We
+ currently
+ do
+ not
+ enter
+ into
+ arrangements
+ to
+ hedge
+ against
+ fluctuations
+ in
+ the
+ price
+ of
+ these
+ commodities
+ and
+ cryptocurrencies
+ and
+ any
+ hedging
+ we
+ may
+ undertake
+ in
+ the
+ future
+ may
+ not
+ be
+ cost-effective
+ or
+ sufficient
+ to
+ hedge
+ against
+ this
+ exposure. 
+
+ITEM 4. 
+
+ CONTROLS AND PROCEDURES 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ As of September 30, 2024, our management, with
+the participation of our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and
+procedures pursuant to Rule 13a-15(b) promulgated under the Exchange Act. Based upon that evaluation, our Chief Executive Officer and
+Chief Financial Officer concluded that, as of September 30, 2024, our disclosure controls and procedures were effective at a reasonable
+assurance level in ensuring that material information required to be disclosed by us in the reports that we file or submit under the Exchange
+Act is recorded, processed, summarized and reported within the time periods specified in the rules, regulations and forms of the SEC,
+including ensuring that such material information is accumulated by and communicated to our management, including our Chief Executive
+Officer and Chief Financial Officer, as appropriate to allow timely decisions regarding required disclosure. 
+ Changes in Internal Control over Financial Reporting 
+ During the quarter ended September 30, 2024, there
+were no changes in our internal control over financial reporting that have materially affected, or are reasonably likely to materially
+affect, our internal control over financial reporting. 
+
+55 
+
+ Table of Contents 
+
+PART
+ II:
+ OTHER
+ INFORMATION 
+
+ITEM 1. 
+
+ LEGAL PROCEEDINGS 
+ 
+ We may be subject to reviews, inspections and
+investigations by federal regulators including, but not limited to, the SEC, Commodity Futures Trading Commission (CFTC), National Futures
+Association (NFA), Financial Industry Regulatory Authority (FINRA), state and foreign regulators, as well as legal proceedings arising
+in the ordinary course of business. See Note 14 to our Consolidated Financial Statements for additional information regarding (1) a 4.0
+million civil money penalty in connection with the SEC ESG Settlement and (2) actual and potential claims brought by investors in our
+WisdomTree WTI Crude Oil 3x Daily Leveraged ETP totaling approximately 27.5 million 30.7 million), including an appealed claim
+for total damages of 7.8 million 8.7 million). 
+
+ITEM 1A. 
+
+ RISK FACTORS 
+ 
+ In addition to the updated risk factor and other
+information set forth below and elsewhere in this Report, you should carefully consider the information set forth in Part 1, Item 1A.
+ Risk Factors in our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 and in subsequent reports filed
+with or furnished to the SEC. 
+ Legal and Regulatory Risks 
+ Compliance with extensive, complex and changing regulation
+imposes significant financial and strategic costs on our business, and non-compliance could result in fines and penalties. 
+ We are subject to extensive regulation of our
+business and operations. One of our U.S. subsidiaries, WTAM, is a registered investment adviser and is subject to oversight by the SEC
+pursuant to its regulatory authority under the Investment Advisers Act of 1940, as amended. We also must comply with certain requirements
+under the Investment Company Act of 1940, as amended, with respect to the WisdomTree U.S. listed ETFs for which WTAM acts as investment
+adviser. WTAM is also a member of the NFA and registered as a commodity pool operator for certain of our ETFs. As a commodity pool operator,
+we are subject to oversight by the NFA and the CFTC pursuant to regulatory authority under the Commodity Exchange Act. In addition,
+the content and use of our marketing and sales materials and the conduct of our sales force in the U.S. regarding our U.S. listed ETFs
+are subject to the regulatory authority of FINRA. The SEC also has recently adopted rule amendments that are designed to modernize sales
+and marketing materials and, as a result, could impact our marketing materials. We are also subject to foreign laws and regulatory authorities
+with respect to operational aspects of our products that invest in securities of issuers in foreign countries, in the marketing, offer
+and/or sales of our products in foreign jurisdictions and in our offering of investment products domiciled outside of the U.S., such as
+our ETPs issued by the ManJer Issuers, UCITS ETFs and ETPs issued by WMAI. Each of the regulatory bodies with jurisdiction over us has
+regulatory powers dealing with many aspects of our business, including the authority to grant, and, in specific circumstances to cancel,
+permissions to carry on particular businesses. Our ETPs failure to comply with applicable laws or regulations has in the past,
+and could in the future, result in fines, censure, suspensions of personnel or other sanctions, including revocation of our registration
+as an investment adviser. For example, on August 5, 2024, WTAM received a Wells Notice from the staff (the Staff of the
+SEC advising WTAM that the Staff had made a preliminary determination to recommend that the SEC file an enforcement action against WTAM
+alleging violations of certain provisions of the U.S. federal securities laws relating to three exchange-traded series of WisdomTree Trust
+managed by WTAM that pursued ESG-focused strategies (collectively, the Funds ). Without admitting or denying the SEC s
+allegations, WTAM agreed to resolve the matter by consenting to the entry of an Order by the SEC, which was announced publicly on October
+21, 2024, in which WTAM agreed to cease and desist from committing or causing any violations and any future violations of Sections 206(2)
+and 206(4) of the Investment Advisers Act of 1940, as amended, Rules 206(4)-7 and 206(4)-8 thereunder, and Section 34(b) of the Investment
+Company Act of 1940, as amended, and to pay a civil money penalty of 4.0 million. 
+ Even if a sanction imposed against us, our personnel
+or our ETPs is small in monetary amount, the adverse publicity arising from the imposition of sanctions against us, our personnel or our
+ETPs by regulators could harm our reputation and thus result in redemptions from our products and impede our ability to retain and attract
+investors in WisdomTree ETPs, all of which may reduce our revenues. 
+ We face the risk of significant intervention
+by regulatory authorities, including extended investigation activity, adoption of costly or restrictive new regulations and judicial or
+administrative proceedings that may result in substantial penalties. Among other things, we have been and could be fined or be prohibited
+from engaging in some of our business activities. The requirements imposed by our regulators are designed to ensure the integrity of the
+financial markets and to protect investors in WisdomTree ETPs and our advisory clients and are not designed to protect our stockholders.
+Consequently, these regulations often serve to limit our activities, including through WisdomTree ETP investor protection and market conduct
+requirements. 
+ The regulatory environment in which we operate
+also is subject to modifications and further regulation. Concerns have been raised at various times about ETFs possible contribution
+to market volatility as well as the disclosure requirements applicable to certain types of more complex ETFs. In addition, the SEC recently
+approved a broad set of rules regarding data reporting and fund liquidity, fund valuation and funds use of derivatives, which are
+imposing additional expense and require additional administrative services and requirements, among other matters, in seeking to comply
+with these rules. New laws or regulations, or changes in the enforcement of existing laws or regulations, applicable to us or investors
+in our products also may adversely affect our business, and our ability to function in this environment will depend on our ability to
+constantly monitor and react to these changes. Compliance with new laws and regulations may result in increased compliance costs and expenses. 
+
+56 
+
+ Table of Contents 
+
+Specific
+ regulatory
+ changes
+ also
+ may
+ have
+ a
+ direct
+ impact
+ on
+ our
+ revenues.
+ In
+ addition
+ to
+ regulatory
+ scrutiny
+ and
+ potential
+ fines
+ and
+ sanctions,
+ regulators
+ continue
+ to
+ examine
+ different
+ aspects
+ of
+ the
+ asset
+ management
+ industry.
+ New
+ regulations,
+ revised
+ regulatory
+ or
+ judicial
+ interpretations,
+ revised
+ viewpoints,
+ outcomes
+ of
+ lawsuits
+ against
+ other
+ fund
+ complexes
+ or
+ growth
+ in
+ our
+ ETP
+ assets
+ and/or
+ profitability
+ related
+ to
+ the
+ annual
+ approval
+ process
+ for
+ investment
+ advisory
+ agreements
+ may
+ result
+ in
+ the
+ reduction
+ of
+ fees
+ under
+ these
+ agreements,
+ which
+ would
+ mean
+ a
+ reduction
+ in
+ our
+ revenues
+ or
+ otherwise
+ may
+ lead
+ to
+ an
+ increase
+ in
+ costs
+ or
+ expenses. 
+ Our
+ operations
+ outside
+ the
+ U.S.
+ are
+ subject
+ to
+ the
+ laws
+ and
+ regulations
+ of
+ various
+ non-U.S.
+ jurisdictions
+ and
+ non-U.S.
+ regulatory
+ agencies
+ and
+ bodies.
+ As
+ we
+ have
+ expanded
+ our
+ international
+ presence,
+ a
+ number
+ of
+ our
+ subsidiaries
+ and
+ international
+ operations
+ have
+ become
+ subject
+ to
+ regulatory
+ systems
+ in
+ various
+ jurisdictions,
+ comparable
+ to
+ those
+ covering
+ our
+ operations
+ in
+ the
+ U.S.
+ Regulators
+ in
+ these
+ non-U.S.
+ jurisdictions
+ may
+ have
+ broad
+ authority
+ with
+ respect
+ to
+ the
+ regulation
+ of
+ financial
+ services
+ including,
+ among
+ other
+ things,
+ the
+ authority
+ to
+ grant
+ or
+ cancel
+ required
+ licenses
+ or
+ registrations. 
+
+ITEM 2. 
+
+ UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS 
+ 
+ Recent Sales of Unregistered Securities 
+ None. 
+ Use of Proceeds 
+ Not applicable. 
+ Purchases of Equity Securities by the Issuer and Affiliated Purchasers
+ 
+ The following table provides information with
+respect to purchases made by or on behalf of the Company or any affiliated purchaser of shares of our common stock. 
+
+Total Number 
+of Shares Purchased 
+
+Average Price 
+Paid Per Share 
+
+Total
+Number of Shares Purchased as Part of Publicly Announced Plans or Programs 
+
+Approximate 
+Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs 
+
+Period 
+
+(in thousands) 
+
+July 1, 2024 to July 30,
+2024 
+
+August 1, 2024 to August
+31, 2024 
+
+September 1, 2024 to September
+30, 2024 
+
+5,704,023 
+
+9.65 
+
+5,704,023 
+
+Total 
+
+5,704,023 
+
+9.65 
+
+5,704,023 
+
+33,535 
+
+On February 22, 2022, our Board of Directors
+approved an increase of 85.7 million to our share repurchase program and extended the term for three years through April 27, 2025. During
+the nine months ended September 30, 2024, we repurchased 6,800,301 shares of our common stock under this program for an aggregate cost
+of approximately 62.9 million. As of September 30, 2024, 33.5 million remained under this program for future repurchases. 
+ In addition, on August 13, 2024, we repurchased
+all of our then-outstanding Series A Non-Voting Convertible Preferred Stock, which was convertible into 14,750,000 shares of our common
+stock, from ETFS Capital for aggregate cash consideration of approximately 143.8 million. See Note 11 to our Consolidated Financial Statements
+for additional information. 
+
+ITEM 3. 
+
+ DEFAULTS UPON SENIOR SECURITIES 
+ 
+ None. 
+
+ITEM 4. 
+
+ MINE SAFETY DISCLOSURES 
+ 
+ Not applicable. 
+
+ITEM 5. 
+
+ OTHER INFORMATION 
+ 
+ None. 
+ 10b5-1 Trading Arrangements 
+ During the three months ended September 30, 2024,
+none of our directors or officers (as defined in Rule 16a-1(f) of the Exchange Act) adopted, terminated or modified
+a Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement (as such terms are defined in Item 408 of Regulation
+S-K). 
+
+57 
+
+ Table of Contents 
+
+ITEM 6. 
+
+ EXHIBITS 
+
+EXHIBIT INDEX 
+
+Exhibit 
+Number 
+
+Description 
+
+3.1 
+
+Amended and Restated Certificate of Incorporation
+(incorporated by reference to Exhibit 3.1 of the Registrant s Registration Statement on Form 10, filed with the SEC on March 31,
+2011) 
+
+3.2 
+
+Certificate of Amendment to the Amended
+and Restated Certificate of Incorporation (Name Change) (incorporated by reference to Exhibit 3.1 of the Registrant s Current Report
+on Form 8-K, filed with the SEC on November 7, 2022) 
+
+3.3 
+
+Certificate of Amendment to the Amended
+and Restated Certificate of Incorporation (Declassification of Board of Directors) (incorporated by reference to Exhibit 3.1 of the Registrant s
+Current Report on Form 8-K, filed with the SEC on July 20, 2022) 
+
+3.4 
+
+Certificate of Amendment to the Amended
+and Restated Certificate of Incorporation (Increase in Authorized Shares) (incorporated by reference to Exhibit 3.2 of the Registrant s
+Current Report on Form 8-K, filed with the SEC on July 20, 2022) 
+
+3.5 
+
+Certificate of Designations of Series
+A Non-Voting Convertible Preferred Stock of the Registrant (incorporated by reference to Exhibit 3.1 of the Registrant s Current
+Report on Form 8-K filed with the SEC on April 13, 2018) 
+
+3.6 
+
+Certificate of Elimination of Series A
+Non-Voting Convertible Preferred Stock of the Registrant (incorporated by reference to Exhibit 3.1 of the Registrant s Current Report
+on Form 8-K, filed with the SEC on August 13, 2024) 
+
+3.7 
+
+Certificate of Designations of Series
+B Junior Participating Cumulative Preferred Stock of the Registrant (incorporated by reference to Exhibit 3.1 of the Registrant s
+Registration Statement on Form 8-A filed with the SEC on March 20, 2023) 
+
+3.8 
+
+Fifth Amended and Restated By-Laws (incorporated
+by reference to Exhibit 3.7 of the Registrant s Quarterly Report on Form 10-Q, filed with the SEC on August 2, 2024) 
+
+4.1 
+
+Specimen Common Stock Certificate (incorporated
+by reference to Exhibit 4.1 of the Registrant s Registration Statement on Form 10, filed with the SEC on March 31, 2011) 
+
+4.2 
+
+Amended and Restated Stockholders Agreement
+among the Registrant and certain investors dated December 21, 2006 (incorporated by reference to Exhibit 4.2 of the Registrant s
+Registration Statement on Form 10, filed with the SEC on March 31, 2011) 
+
+4.3 
+
+Securities Purchase Agreement among the
+Registrant and certain investors dated December 21, 2006 (incorporated by reference to Exhibit 4.3 of the Registrant s Registration
+Statement on Form 10, filed with the SEC on March 31, 2011) 
+
+4.4 
+
+Securities Purchase Agreement among the
+Registrant and certain investors dated October 15, 2009 (incorporated by reference to Exhibit 4.4 of the Registrant s Registration
+Statement on Form 10, filed with the SEC on March 31, 2011) 
+
+4.5 
+
+Third Amended and Restated Registration
+Rights Agreement dated October 15, 2009 (incorporated by reference to Exhibit 4.5 of the Registrant s Registration Statement on
+Form 10, filed with the SEC on March 31, 2011) 
+
+4.6 
+
+Indenture, dated as of June 14,
+2021, by and between the Registrant and U.S. Bank National Association, as Trustee (incorporated by reference to Exhibit 4.1 of the Registrant s
+Current Report on Form 8-K, filed with the SEC on June 14, 2021) 
+
+4.7 
+
+Form of Global Note, representing
+the Registrant s 3.25 Convertible Senior Notes due 2026 (incorporated by reference to Exhibit 4.2 of the Registrant s Current
+Report on Form 8-K, filed with the SEC on June 14, 2021) 
+
+4.8 
+
+Indenture, dated as of February 14,
+2023, by and between the Registrant and U.S. Bank National Association, as Trustee (incorporated by reference to Exhibit 4.1 of the Registrant s
+Current Report on Form 8-K, filed with the SEC on February 14, 2023) 
+
+4.9 
+
+Form of Global Note, representing
+the Registrant s 5.75 Convertible Senior Notes due 2028 (incorporated by reference to Exhibit 4.2 of the Registrant s Current
+Report on Form 8-K, filed with the SEC on February 14, 2023) 
+
+4.10 
+
+Indenture, dated as of August 13, 2024,
+by and between the Registrant and U.S. Bank Trust Company, National Association, as Trustee (incorporated by reference to Exhibit 4.1
+of the Registrant s Current Report on Form 8-K, filed with the SEC on August 13, 2024) 
+
+4.11 
+
+Form of Global Note, representing the Registrant s
+3.25 Convertible Senior Notes due 2029 (incorporated by reference to Exhibit 4.2 of the Registrant s Current Report on Form 8-K,
+filed with the SEC on August 13, 2024) 
+
+4.12 
+
+Stockholder Rights Agreement, dated
+as of March 17, 2023, between the Registrant and Continental Stock Transfer Trust Company, as Rights Agent (incorporated by reference
+to Exhibit 4.1 of the Registrant s Registration Statement on Form 8-A filed with the SEC on March 20, 2023) 
+
+58 
+
+ Table of Contents 
+
+Exhibit 
+Number 
+
+Description 
+
+4.13 
+
+Amendment No. 1, dated as of May
+4, 2023, to Stockholder Rights Agreement, dated as of March 17, 2023, between the Registrant and Continental Stock Transfer Trust
+Company, as Rights Agent (incorporated by reference to Exhibit 4.1 of the Registrant s Current Report on Form 8-K filed with the
+SEC on May 5, 2023) 
+
+4.14 
+
+Amendment No. 2, dated as of May
+10, 2023, to Stockholder Rights Agreement, dated as of March 17, 2023, between the Registrant and Continental Stock Transfer Trust
+Company, as Rights Agent (incorporated by reference to Exhibit 4.2 of the Registrant s Current Report on Form 8-K, filed with the
+SEC on May 10, 2023) 
+
+4.15 
+
+Amendment No. 3, dated as of
+March 18, 2024, to Stockholder Rights Agreement, dated as of March 17, 2023, as amended, between WisdomTree, Inc. and Continental Stock
+Transfer Trust Company, as Rights Agent (incorporated by reference to Exhibit 4.1 of the Registrant s Current Report on Form
+8-K, filed with the SEC on March 18, 2024) 
+
+4.16 
+
+Amendment
+No. 4, dated as of March 25, 2024, to Stockholder Rights Agreement, dated as of March 17, 2023, as amended, between WisdomTree, Inc. and
+Continental Stock Transfer Trust Company, as Rights Agent (incorporated by reference to Exhibit 4.1 of the Registrant s Current
+Report on Form 8-K, filed with the SEC on March 29, 2024) 
+
+4.17 
+
+Amendment
+No. 5, dated as of April 30, 2024, to Stockholder Rights Agreement, dated as of March 17, 2023, as amended, between WisdomTree, Inc. and
+Continental Stock Transfer Trust Company, as Rights Agent (incorporated by reference to Exhibit 4.1 to the Registrant s Current
+Report on Form 8-K, filed with the SEC on April 30, 2024) 
+
+4.18 
+
+Termination
+Agreement, dated as of August 5, 2024, by and between ETFS Capital Limited and WisdomTree, Inc. (incorporated by reference to Exhibit
+4.1 of the Registrant s Current Report on Form 8-K, filed with the SEC on August 8, 2024) 
+
+10.1 
+
+Stock Repurchase
+Agreement, dated as of August 5, 2024, by and between WisdomTree, Inc. and ETFS Capital Limited (incorporated by reference to Exhibit
+10.1 of the Registrant s Current Report on Form 8-K, filed with the SEC on August 8, 2024) 
+
+31.1 (1) 
+
+Rule 13a-14(a) / 15d-14(a) Certification 
+
+31.2 (1) 
+
+Rule 13a-14(a) / 15d-14(a) Certification 
+
+32.1 (2) 
+
+Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002 
+
+101 (1) 
+
+Financial Statements from the Quarterly Report on Form 10-Q of the Company for the three months ended
+September 30, 2024, formatted in XBRL: (i) Consolidated Balance Sheets at September 30, 2024 (Unaudited) and December 31, 2023; (ii) Consolidated
+Statements of Operations and Comprehensive Income for the three and nine months ended September 30, 2024 and September 30, 2023 (Unaudited);
+(iii) Consolidated Statements of Changes in Stockholders Equity for the three and nine months ended September 30, 2024 and September
+30, 2023 (Unaudited); (iv) Consolidated Statements of Cash Flows for the nine months ended September 30, 2024 and September 30, 2023 (Unaudited);
+and (v) Notes to Consolidated Financial Statements, as blocks of text and in detail. 
+
+101.SCH (1) 
+
+Inline XBRL Taxonomy Extension Schema Document 
+
+101.CAL (1) 
+
+Inline XBRL Taxonomy Extension Calculation Linkbase Document 
+
+101.DEF (1) 
+
+Inline XBRL Taxonomy Extension Definition Linkbase Document 
+
+101.LAB (1) 
+
+Inline XBRL Taxonomy Extension Labels Linkbase Document 
+
+101.PRE (1) 
+
+Inline XBRL Taxonomy Extension Presentation Linkbase Document 
+
+104 (1) 
+
+Cover Page Interactive Data File (formatted as inline XBRL with applicable taxonomy extension information contained in Exhibits
+101. 
+ 
+ __________________________________________________________ 
+
+(1) 
+
+ Filed herewith. 
+
+(2) 
+
+ Furnished herewith. 
+
+59 
+
+ Table of Contents 
+
+SIGNATURE
+ 
+ Pursuant
+ to
+ the
+ requirements
+ of
+ the
+ Exchange
+ Act,
+ the
+ registrant
+ has
+ duly
+ caused
+ this
+ report
+ to
+ be
+ signed
+ on
+ its
+ behalf
+ by
+ the
+ undersigned
+ hereunto
+ duly
+ authorized
+ on
+ this
+ 7 th 
+ day
+ of
+ November
+ 2024. 
+
+WISDOMTREE, INC. 
+
+By: 
+
+ /s/ Jonathan Steinberg 
+
+Jonathan Steinberg 
+
+Chief Executive Officer 
+
+ (Principal Executive Officer) 
+
+WISDOMTREE, INC. 
+
+By: 
+
+ /s/ Bryan Edmiston 
+
+Bryan Edmiston 
+
+Chief Financial Officer 
+
+ (Principal Financial Officer and Principal
+ Accounting Officer) 
+ 
+ 60 
+
+<EX-31.1>
+ 2
+ ex31_1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1 
+
+ Certification 
+
+ I, Jonathan Steinberg, certify that: 
+
+1. I have reviewed this quarterly report on Form 10-Q of WisdomTree, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4. The registrant s other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal controls over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared; 
+
+b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles; 
+
+c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons
+performing the equivalent functions): 
+
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+By: 
+ /s/ Jonathan
+ Steinberg 
+
+Jonathan Steinberg 
+
+Chief
+ Executive Officer 
+ (Principal
+ Executive Officer) 
+ 
+ Date: November 7, 2024 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex31_2.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2 
+
+ Certification 
+
+ I, Bryan Edmiston, certify that: 
+
+1. I have reviewed this quarterly report on Form 10-Q of WisdomTree, Inc.; 
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period
+covered by this report; 
+
+3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this
+report; 
+
+4. The registrant s other certifying officers and I are responsible for establishing and maintaining disclosure controls and procedures
+(as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal controls over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+
+a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision,
+to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared; 
+
+b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under
+our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles; 
+
+c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions
+about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation;
+and 
+
+d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s
+most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected,
+or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+
+5. The registrant s other certifying officers and I have disclosed, based on our most recent evaluation of internal control over
+financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons
+performing the equivalent functions): 
+
+a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information;
+and 
+
+b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting. 
+
+By: 
+ 
+ /s/ Bryan Edmiston 
+
+Bryan Edmiston 
+
+Chief Financial Officer 
+ (Principal Financial Officer and Principal 
+Accounting Officer) 
+ 
+ Date: November 7, 2024 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex32_1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1 
+
+ CERTIFICATION PURSUANT TO 
+
+ 18 U.S.C. SECTION 1350, 
+
+ AS ADOPTED PURSUANT TO 
+
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+ In connection with the Quarterly Report
+of WisdomTree, Inc. (the Company on Form 10-Q for the period ended September 30, 2024 as filed with the Securities and Exchange
+Commission (the SEC on the date hereof (the Report ), we, Jonathan Steinberg, Chief Executive Officer of
+the Company, and Bryan Edmiston, Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to our knowledge, that: 
+
+(1) The Report fully complies with the requirements of section 13(a) or 15(d) of the Exchange Act, as amended; and 
+
+(2) The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations
+of the Company. 
+
+ This certification is being furnished and not
+filed, and shall not be incorporated into any documents for any purpose, under the Exchange Act, as amended. A signed original of this
+written statement required by Section 906 has been provided to the Company and will be retained by the Company and furnished to the
+SEC or its staff upon request. 
+
+By: 
+ /s/ Jonathan Steinberg 
+
+Jonathan Steinberg 
+
+Chief Executive Officer 
+ (Principal Executive Officer) 
+
+By: 
+ /s/ Bryan Edmiston 
+
+Bryan Edmiston 
+
+Chief Financial Officer 
+ (Principal Financial Officer and
+ Principal 
+Accounting Officer) 
+
+November 7, 2024 
+
+</EX-32.1>
+
+<EX-101.SCH>
+ 5
+ wt-20240930.xsd
+ XBRL SCHEMA FILE
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 6
+ wt-20240930_cal.xml
+ XBRL CALCULATION FILE
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 7
+ wt-20240930_def.xml
+ XBRL DEFINITION FILE
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 8
+ wt-20240930_lab.xml
+ XBRL LABEL FILE
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 9
+ wt-20240930_pre.xml
+ XBRL PRESENTATION FILE
+
+</EX-101.PRE>
+

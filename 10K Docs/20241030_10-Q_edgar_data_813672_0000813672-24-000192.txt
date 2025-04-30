@@ -1,0 +1,879 @@
+<Header>
+<FileStats>
+    <FileName>20241030_10-Q_edgar_data_813672_0000813672-24-000192.txt</FileName>
+    <GrossFileSize>8154934</GrossFileSize>
+    <NetFileSize>125925</NetFileSize>
+    <NonText_DocumentType_Chars>1456680</NonText_DocumentType_Chars>
+    <HTML_Chars>2978786</HTML_Chars>
+    <XBRL_Chars>1848653</XBRL_Chars>
+    <XML_Chars>1578016</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000813672-24-000192.hdr.sgml : 20241030
+<ACCEPTANCE-DATETIME>20241029174020
+ACCESSION NUMBER:		0000813672-24-000192
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		92
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241030
+DATE AS OF CHANGE:		20241029
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CADENCE DESIGN SYSTEMS INC
+		CENTRAL INDEX KEY:			0000813672
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		ORGANIZATION NAME:           	06 Technology
+		IRS NUMBER:				770148231
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-15867
+		FILM NUMBER:		241406876
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2655 SEELY AVENUE BLDG 5
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+		BUSINESS PHONE:		4089431234
+
+	MAIL ADDRESS:	
+		STREET 1:		2655 SEELY AVENUE
+		CITY:			SAN JOSE
+		STATE:			CA
+		ZIP:			95134
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ECAD INC /DE/
+		DATE OF NAME CHANGE:	19880609
+
+</SEC-Header>
+</Header>
+
+ 0000813672-24-000192.txt : 20241030
+
+10-Q
+ 1
+ cdns-20240930.htm
+ 10-Q
+
+cdns-20240930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ _____________________________________ 
+ FORM 
+ _____________________________________ 
+ (Mark One) QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended 
+ OR TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from to 
+ Commission file number 
+ _____________________________________ 
+
+(Exact Name of Registrant as Specified in Its Charter) 
+ _____________________________________ (State or Other Jurisdiction of Incorporation or Organization) (I.R.S. Employer Identification No.) (Address of Principal Executive Offices) (Zip Code) 
+ 
+ Registrant s Telephone Number, including Area Code 
+ _____________________________________ 
+ Securities registered pursuant to Section 12(b) of the Act: Title of each class Trading Symbol(s) Name of each exchange on which registered 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. No 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). No 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of large accelerated filer, accelerated filer, smaller reporting company, and emerging growth company in Rule 12b-2 of the Exchange Act. Accelerated Filer Smaller Reporting Company Non-accelerated Filer Emerging Growth Company 
+ If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes No 
+ On September 30, 2024, approximately shares of the registrant s common stock, 0.01 par value, were outstanding. 
+
+CADENCE DESIGN SYSTEMS, INC. 
+ INDEX 
+ Page PART I. FINANCIAL INFORMATION Item 1. Financial Statements: 
+ Condensed Consolidated Balance Sheets as of September 30, 2024 and December 31, 2023 
+ 1 
+ Condensed Consolidated Income Statements for the three and nine months ended September 30, 2024 and September 30, 2023 
+ 2 
+ Condensed Consolidated Statements of Comprehensive Income for the three and nine months ended September 30, 2024 and September 30, 2023 
+ 3 
+ Condensed Consolidated Statements of Stockholders Equity for the three and nine months ended September 30, 2024 and September 30, 2023 
+ 4 
+ Condensed Consolidated Statements of Cash Flows for the nine months ended September 30, 2024 and September 30, 2023 
+ 6 
+ Notes to Condensed Consolidated Financial Statements 
+ 6 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 23 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 35 
+ Item 4. Controls and Procedures 
+ 37 
+ PART II. OTHER INFORMATION Item 1. Legal Proceedings 
+ 38 
+ Item 1A. Risk Factors 
+ 38 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 39 
+ Item 3. Defaults Upon Senior Securities 
+ 40 
+ Item 4. Mine Safety Disclosures 
+ 40 
+ Item 5. Other Information 
+ 40 
+ Item 6. Exhibits 
+ 41 
+ Signatures 
+ 43 
+
+PART I. FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+ 
+ CADENCE DESIGN SYSTEMS, INC. 
+ CONDENSED CONSOLIDATED BALANCE SHEETS 
+ (In thousands) 
+ (Unaudited) 
+ As of September 30, 2024 December 31, 2023 ASSETS Current assets: Cash and cash equivalents Receivables, net Inventories Prepaid expenses and other Total current assets Property, plant and equipment, net Goodwill Acquired intangibles, net Deferred taxes Other assets Total assets LIABILITIES AND STOCKHOLDERS EQUITY Current liabilities: Current portion of long-term debt 
+ Accounts payable and accrued liabilities Current portion of deferred revenue Total current liabilities Long-term liabilities: Long-term portion of deferred revenue Long-term debt Other long-term liabilities Total long-term liabilities Commitments and contingencies (Note 15) 
+ Treasury stock, at cost ) ) Retained earnings Accumulated other comprehensive loss ) ) Total stockholders equity Total liabilities and stockholders equity 
+
+See notes to condensed consolidated financial statements. 
+
+CADENCE DESIGN SYSTEMS, INC. 
+ CONDENSED CONSOLIDATED INCOME STATEMENTS 
+ (In thousands, except per share amounts) 
+ (Unaudited) 
+ Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 Revenue: Product and maintenance Services Total revenue Costs and expenses: Cost of product and maintenance Cost of services Marketing and sales Research and development General and administrative Amortization of acquired intangibles Restructuring Total costs and expenses Income from operations Interest expense ) ) ) ) Other income, net 
+ Income before provision for income taxes Provision for income taxes Net income Net income per share basic Net income per share diluted Weighted average common shares outstanding basic Weighted average common shares outstanding diluted 
+
+See notes to condensed consolidated financial statements. 
+
+CADENCE DESIGN SYSTEMS, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME 
+ (In thousands) 
+ (Unaudited) 
+ Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 Net income Other comprehensive income (loss), net of tax effects: 
+ Foreign currency translation adjustments ) ) Changes in defined benefit plan liabilities ) Unrealized losses on derivatives designated as hedging instruments 
+ ) ) Unrealized gains (losses) on available-for-sale debt securities 
+ ) ) Total other comprehensive income (loss), net of tax effects 
+ ) ) Comprehensive income 
+
+See notes to condensed consolidated financial statements. 
+
+CADENCE DESIGN SYSTEMS, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF STOCKHOLDERS EQUITY 
+ (In thousands) 
+ (Unaudited) Three Months Ended September 30, 2024 Common Stock Par Value Accumulated and Capital Other in Excess Treasury Retained Comprehensive Shares of Par Stock Earnings Loss 
+ Total Balance, June 30, 2024 ) ) Net income Other comprehensive income, net of taxes 
+ Purchase of treasury stock ) ) ) Issuance of common stock and reissuance of treasury stock under equity incentive plans, net of forfeitures Stock received for payment of employee taxes on vesting of restricted stock ) ) ) ) Stock-based compensation expense Balance, September 30, 2024 ) ) Three Months Ended September 30, 2023 Common Stock Par Value Accumulated and Capital Other in Excess Treasury Retained Comprehensive Shares of Par Stock Earnings Loss 
+ Total Balance, June 30, 2023 ) ) Net income Other comprehensive loss, net of taxes ) ) Purchase of treasury stock ) ) ) Equity forward contract ) Issuance of common stock and reissuance of treasury stock under equity incentive plans, net of forfeitures Stock received for payment of employee taxes on vesting of restricted stock ) ) ) ) Stock-based compensation expense Balance, September 30, 2023 ) ) 
+
+Nine Months Ended September 30, 2024 Common Stock Par Value Accumulated and Capital Other in Excess Treasury Retained Comprehensive Shares of Par Stock Earnings Loss Total Balance, December 31, 2023 ) ) Net income Other comprehensive income, net of taxes 
+ Purchase of treasury stock ) ) ) Issuance of common stock and reissuance of treasury stock under equity incentive plans, net of forfeitures Issuance of common stock in a business combination Stock received for payment of employee taxes on vesting of restricted stock ) ) ) ) Stock-based compensation expense Balance, September 30, 2024 ) ) Nine Months Ended September 30, 2023 Common Stock Par Value Accumulated and Capital Other in Excess Treasury Retained Comprehensive Shares of Par Stock Earnings Loss Total Balance, December 31, 2022 ) ) Net income Other comprehensive loss, net of taxes 
+ ) ) Purchase of treasury stock ) ) ) Equity forward contract ) ) Issuance of common stock and reissuance of treasury stock under equity incentive plans, net of forfeitures Stock received for payment of employee taxes on vesting of restricted stock ) ) ) ) Stock-based compensation expense Balance, September 30, 2023 ) ) 
+
+See notes to condensed consolidated financial statements. 
+
+CADENCE DESIGN SYSTEMS, INC. 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+ (In thousands) 
+ (Unaudited) Nine Months Ended September 30, 2024 September 30, 2023 Cash and cash equivalents at beginning of period Cash flows from operating activities: Net income Adjustments to reconcile net income to net cash provided by operating activities: Depreciation and amortization Amortization of debt discount and fees Stock-based compensation Gain on investments, net 
+ ) ) Deferred income taxes ) ) Provisions for losses on receivables ROU asset amortization and change in operating lease liabilities ) ) Other non-cash items Changes in operating assets and liabilities, net of effect of acquired businesses: Receivables ) Inventories ) ) Prepaid expenses and other ) Other assets ) ) Accounts payable and accrued liabilities Deferred revenue ) Other long-term liabilities Net cash provided by operating activities Cash flows from investing activities: Purchases of investments ) ) Proceeds from the sale and maturity of investments Purchases of property, plant and equipment ) ) Cash paid in business combinations, net of cash acquired ) ) Net cash used for investing activities ) ) Cash flows from financing activities: Proceeds from revolving credit facility Payments on revolving credit facility ) Proceeds from issuance of debt Payment of term loans ) Payment of debt issuance costs ) Proceeds from issuance of common stock Stock received for payment of employee taxes on vesting of restricted stock ) ) Payments for repurchases of common stock ) ) Net cash provided by (used for) financing activities 
+ ) Effect of exchange rate changes on cash and cash equivalents ) Increase in cash and cash equivalents 
+ Cash and cash equivalents at end of period Supplemental cash flow information: Cash paid for interest Cash paid for income taxes, net 
+
+See notes to condensed consolidated financial statements. 
+
+CADENCE DESIGN SYSTEMS, INC. 
+ NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+ (Unaudited) 
+ 
+ NOTE 1. 
+ However, Cadence believes that the disclosures contained in this Quarterly Report on Form 10-Q comply with the requirements of Section 13(a) of the Securities Exchange Act of 1934, as amended (the Exchange Act ), for a Quarterly Report on Form 10-Q and are adequate to make the information presented not misleading. These condensed consolidated financial statements are meant to be, and should be, read in conjunction with the consolidated financial statements and the notes thereto included in Cadence s Annual Report on Form 10-K for the fiscal year ended December 31, 2023. 
+ The unaudited condensed consolidated financial statements included in this Quarterly Report on Form 10-Q reflect all adjustments (which include only normal, recurring adjustments and those items discussed in these notes) that are, in the opinion of management, necessary to state fairly the results of operations, cash flows and financial position for the periods and dates presented. The results for such periods are not necessarily indicative of the results to be expected for the full fiscal year or other periods. Certain prior period balances have been reclassified to conform to the current period presentation. Management has evaluated subsequent events through the issuance date of the unaudited condensed consolidated financial statements. 
+ Fiscal Year End 
+ Cadence s fiscal year end is December 31, and its fiscal quarters end on March 31, June 30, and September 30. 
+ Use of Estimates 
+ Despite continued uncertainty and disruption in the macroeconomic and geopolitical environment, Cadence is not aware of any specific event or circumstance that would require an update to its estimates or judgments or a revision of the carrying value of its assets or liabilities as of October 29, 2024, the date of issuance of this Quarterly Report on Form 10-Q. These estimates may change, as new events or developments occur and additional information is obtained. Actual results could differ materially from these estimates under different assumptions or conditions. 
+ . 
+ 6 
+
+NOTE 2. 
+ 
+ Digital IC Design and Signoff Functional Verification, including Emulation and Prototyping Hardware Intellectual Property IP System Design and Analysis Total 
+ _____________ 
+ 
+ Cadence generates revenue from contracts with customers and applies judgment in identifying and evaluating any terms and conditions in contracts which may impact revenue recognition. Certain of Cadence s licensing arrangements allow customers the ability to remix among software products. Cadence also has arrangements with customers that include a combination of products, with the actual product selection and number of licensed users to be determined at a later date. For these arrangements, Cadence estimates the allocation of the revenue to product categories based upon the expected usage of products. Revenue by product category fluctuates from period to period based on demand for products and services, and Cadence s available resources to deliver them. No single customer accounted for 10 or more of total revenue during the three and nine months ended September 30, 2024 or September 30, 2023. 
+ Recurring revenue includes revenue recognized over time from Cadence s software arrangements, services, royalties, maintenance on IP licenses and hardware, and operating leases of hardware. Recurring revenue also includes revenue recognized at varying points in time over the term of other arrangements with non-cancelable commitments, whereby the customer commits to a fixed dollar amount over a specified period of time that can be used to purchase from a list of products or services. These arrangements do not meet the definition of a revenue contract until the customer executes a separate selection form to identify the products and services that they are purchasing. Each separate selection form under the arrangement is treated as an individual contract and accounted for based on the respective performance obligations. 
+ The remainder of Cadence s revenue is recognized at a point in time and is characterized as up-front revenue. Up-front revenue is primarily generated by sales of emulation and prototyping hardware, individual IP licenses and certain software licenses. 
+ The percentage of Cadence s recurring and up-front revenue in any single fiscal period is primarily impacted by delivery of hardware and IP products to its customers. 
+ Revenue from arrangements with non-cancelable commitments Recurring revenue Up-front revenue Total 
+ 7 
+
+Deferred revenue 
+ 8 
+
+million and million during the three and nine months ended September 30, 2024, and million and million during the three and nine months ended September 30, 2023, that was included in the deferred revenue balance at the beginning of each respective fiscal year. All other activity in deferred revenue, with the exception of deferred revenue assumed from acquisitions, is due to the timing of invoices in relation to the timing of revenue as described above. 
+ Payment terms and conditions vary by contract type, although terms generally include a requirement of payment within 30 to 60 days. In instances where the timing of revenue recognition differs from the timing of invoicing, Cadence has determined that its contracts generally do not include a significant financing component. The primary purpose of invoicing terms is to provide customers with simplified and predictable ways of purchasing Cadence s products and services, and not to facilitate financing arrangements. 
+ Remaining Performance Obligations 
+ Revenue allocated to remaining performance obligations represents the transaction price allocated to the performance obligations that are unsatisfied, or partially unsatisfied, which includes unearned revenue and amounts that will be invoiced and recognized as revenue in future periods. Cadence has elected to exclude the potential future royalty receipts from the remaining performance obligations. Contracted but unsatisfied performance obligations were approximately billion as of September 30, 2024, which included billion of non-cancelable commitments from customers where actual product selection and quantities of specific products or services are to be determined by customers at a later date. 
+ Cadence estimates its remaining performance obligations at a point in time. Actual amounts and timing of revenue recognition may differ from these estimates largely due to changes in actual installation and delivery dates, as well as contract renewals, modifications and terminations. As of September 30, 2024, Cadence expected to recognize of the contracted but unsatisfied performance obligations, excluding non-cancelable commitments, as revenue over the next months, over the next to months and the remainder thereafter. 
+ Cadence recognized revenue of million and million during the three and nine months ended September 30, 2024, and million and million during the three and nine months ended September 30, 2023, from performance obligations satisfied in previous periods. These amounts represent royalties earned during the period and exclude contracts with nonrefundable prepaid royalties. Nonrefundable prepaid royalties are recognized upon delivery of the IP because Cadence s right to the consideration is not contingent upon customers future shipments. 
+ 
+ NOTE 3. 
+ Unbilled accounts receivable Long-term receivables Total receivables Less allowance for doubtful accounts ) ) Total receivables, net 
+ Cadence s customers are primarily concentrated within the semiconductor and electronics systems industries. As of September 30, 2024 and December 31, 2023, single customer accounted for or more of Cadence s total receivables. 
+ 9 
+
+NOTE 4. 
+ ) ) 2025 Term Loan ) 2027 Notes ) 2029 Notes ) 2034 Notes ) Total outstanding debt ) ) 
+ Senior Notes 
+ In October 2014, Cadence issued million aggregate principal amount of Senior Notes due October 15, 2024 (the 2024 Notes ). As of September 30, 2024 and December 31, 2023, the carrying value of the 2024 Notes was classified as a current liability on Cadence s condensed consolidated balance sheet. As of September 30, 2024, the fair value of the 2024 Notes was approximately million. 
+ Subsequent to the balance sheet date, on October 15, 2024, Cadence settled the outstanding principal of million and accrued interest on its 2024 Notes. 
+ In September 2024, Cadence issued million aggregate principal amount of Senior Notes due September 10, 2027 (the 2027 Notes ). Cadence received net proceeds of million from the issuance of the 2027 Notes, net of a discount of million and issuance costs of million. As of September 30, 2024, the fair value of the 2027 Notes was approximately million. 
+ In September 2024, Cadence issued billion aggregate principal amount of Senior Notes due September 10, 2029 (the 2029 Notes ). Cadence received net proceeds of million from the issuance of the 2029 Notes, net of a discount of million and issuance costs of million. As of September 30, 2024, the fair value of the 2029 Notes was approximately billion. 
+ In September 2024, Cadence issued billion aggregate principal amount of Senior Notes due September 10, 2034 (the 2034 Notes, and together with the 2027 Notes and the 2029 Notes, the New Notes , and together with the 2024 Notes, the Senior Notes ). Cadence received net proceeds of million from the issuance of the 2034 Notes, net of a discount of million and issuance costs of million. As of September 30, 2024, the fair value of the 2034 Notes was approximately billion. 
+ Cadence may redeem the New Notes, in whole or in part, at any time or from time to time, at redemption prices specified in the governing indenture. In addition, Cadence may be required to repurchase New Notes upon occurrence of a change of control triggering event, as set forth in the governing indenture. 
+ The indentures governing Cadence s Senior Notes include customary representations, warranties and restrictive covenants, including, but not limited to, restrictions on Cadence s ability to grant liens on certain assets, enter into certain sale and lease-back transactions, or merge, consolidate or sell assets, and also includes customary events of default. 
+ Both the discount and issuance costs are being amortized to interest expense over the term of Cadence s Senior Notes using the effective interest method. Interest is payable in cash semi-annually. Interest on the 2027 Notes, the 2029 Notes and the 2034 Notes is payable semi-annually in arrears in March and September of each year, beginning March 2025. Cadence s Senior Notes are unsecured and rank equal in right of payment to all of Cadence s existing and future senior indebtedness. As of September 30, 2024, Cadence was in compliance with all covenants associated with the Senior Notes. 
+ Term Loans 
+ In September 2022, Cadence entered into a million three-year senior non-amortizing term loan facility due on September 7, 2025 with a group of lenders led by Bank of America, N.A., as administrative agent (the 2025 Term Loan ). Proceeds from the loan were used to fund Cadence s acquisition of OpenEye Scientific Software, Inc. in fiscal 2022. Debt issuance costs associated with the 2025 Term Loan were not material. 
+ 10 
+
+million two-year senior non-amortizing term loan facility due on May 30, 2026 with a group of lenders led by Bank of America, N.A., as administrative agent (the 2026 Term Loan ). All proceeds from the 2026 Term Loan were used to finance Cadence s acquisition of BETA CAE Systems International AG BETA CAE ). Debt issuance costs associated with the 2026 Term Loan were not material. 
+ In September 2024, Cadence used a portion of the net proceeds from the New Notes to fully prepay the outstanding principal and accrued interest of both the 2025 Term Loan and the 2026 Term Loan. 
+ Revolving Credit Facility 
+ In August 2024, Cadence terminated its existing revolving credit facility, dated June 30, 2021, and amended in September 2022, and entered into a five-year senior unsecured revolving credit facility with a group of lenders led by Bank of America, N.A., as administrative agent (the 2024 Credit Facility ). The 2024 Credit Facility provides for borrowings up to billion, with the right to request increased capacity up to an additional million upon the receipt of lender commitments, for total maximum borrowings of billion. The 2024 Credit Facility expires on . Any outstanding loans drawn under the 2024 Credit Facility are due at maturity on , subject to an option to extend the maturity date. Outstanding borrowings may be repaid at any time prior to maturity. Cadence paid debt issuance costs of million that were recorded to other assets in Cadence s condensed consolidated balance sheet at the inception of the agreement. The debt issuance costs will be amortized to interest expense over the term of the 2024 Credit Facility. As of September 30, 2024, there were no outstanding borrowings under the 2024 Credit Facility. 
+ Interest accrues on borrowings under the 2024 Credit Facility at a rate equal to, at Cadence s option, either (1) secured overnight financing rate SOFR plus a margin between and per annum, determined by reference to the credit rating of Cadence s unsecured debt, plus a SOFR adjustment of or (2) the base rate plus a margin between and per annum, determined by reference to the credit rating of Cadence s unsecured debt. Interest is payable quarterly. A commitment fee ranging from to is assessed on the daily average undrawn portion of revolving commitments. Borrowings bear interest at what is estimated to be current market rates of interest. Accordingly, the carrying value of the 2024 Credit Facility approximates fair value. 
+ The 2024 Credit Facility contains customary negative covenants that, among other things, restrict Cadence s ability to incur additional indebtedness, grant liens and make certain asset dispositions. In addition, the 2024 Credit Facility contains financial covenants that require Cadence to maintain a funded debt to EBITDA ratio not greater than to 1, with a step up to to 1 for one year following an acquisition by Cadence of at least million that results in a pro forma leverage ratio between to 1 and to 1. As of September 30, 2024, Cadence was in compliance with all covenants associated with the 2024 Credit Facility. 
+ 
+ NOTE 5. 
+ million, was billion. The aggregate purchase consideration was comprised of million of cash and non-cash consideration of million shares of Cadence common stock with an aggregate acquisition date fair value of million. The addition of BETA CAE s technologies and talent is intended to accelerate Cadence s Intelligent System Design strategy by expanding its multiphysics system analysis portfolio and enabling entry into the structural analysis space. 
+ In connection with its acquisition of BETA CAE, Cadence paid an additional million to a third-party escrow agent that will be released to certain former BETA CAE shareholders, now employed by Cadence, through the second quarter of fiscal 2026. The release of these funds is subject to continuous service and other conditions and is accounted for over the required service period as post-acquisition compensation expense in Cadence s condensed consolidated income statements. 
+ 11 
+
+Goodwill Acquired intangibles Other long-term assets Total assets acquired Current liabilities Long-term liabilities Total liabilities assumed Total purchase consideration 
+ The recorded goodwill is attributed to intangible assets that do not qualify for separate recognition, including the acquired assembled workforce, and is expected to be deductible for U.S. income tax purposes. 
+ years Agreements and relationships years Tradenames, trademarks and patents years Total acquired intangibles with definite lives years 
+ As of September 30, 2024 , t he allocation of purchase consideration to the acquired assets and assumed liabilities from BETA CAE was preliminary. Cadence will continue to evaluate the estimates and assumptions used to derive the fair value of certain acquired assets and assumed liabilities, primarily related to contracts with customers and income taxes, during the measurement period (up to one year from the acquisition date). The allocation of purchase consideration may change materially as additional information about conditions existing at the acquisition date becomes available. 
+ Acquisition of Invecas, Inc. 
+ On January 8, 2024, Cadence acquired all of the outstanding equity of Invecas, Inc. Invecas ), a provider of design engineering, embedded software and system-level solutions. The aggregate cash consideration for Cadence s acquisition of Invecas, net of cash acquired of million, was million. The acquisition adds a skilled system design engineering team to Cadence, with expertise in providing customers with custom solutions across chip design, product engineering, advanced packaging and embedded software. In connection with its acquisition of Invecas, Cadence paid an additional amount to a third-party escrow agent that will be released to certain former Invecas shareholders, now employed by Cadence, through the first quarter of fiscal 2028. The release of these funds is subject to continuous service and other conditions and is accounted for over the required service period as post-acquisition compensation expense in Cadence s condensed consolidated income statements. 
+ 12 
+
+Goodwill Acquired intangibles Other long-term assets Total assets acquired Current liabilities Long-term liabilities Total liabilities assumed Total purchase consideration 
+ As of September 30, 2024 , t he allocation of purchase consideration to certain assets and liabilities was preliminary. Cadence will continue to evaluate certain estimates and assumptions, primarily related to assumed tax liabilities, during the measurement period (up to one year from the acquisition date). The allocation of purchase consideration may change materially as additional information about conditions existing at the acquisition date becomes available. 
+ The recorded goodwill is attributed to intangible assets that do not qualify for separate recognition, including the acquired assembled workforce, and will not be deductible for tax purposes. 
+ The definite-lived intangible assets acquired with Cadence s acquisition of Invecas include agreements and relationships of million and tradenames of million. These assets will be amortized over a weighted average life of years. 
+ Other Acquisitions 
+ During the first three quarters of fiscal 2024, Cadence completed two other business combinations for aggregate cash consideration of million, net of cash acquired. The total purchase consideration was allocated to assets acquired and liabilities assumed based on their respective estimated fair values on the acquisition dates. Cadence recorded million of definite-lived intangible assets with a weighted average amortization period of years. Cadence also recognized million of goodwill, which is primarily attributed to the assembled workforce of the acquired businesses. The goodwill recognized with these acquisitions is not expected to be deductible for tax purposes. 
+ Pro Forma Financial Information 
+ Cadence has not presented pro forma financial information for its fiscal 2024 acquisitions because the results of operations are not material to Cadence s condensed consolidated financial statements. 
+ Acquisition-Related Transaction Costs 
+ Transaction costs associated with acquisitions, which consist of professional fees and administrative costs, are expensed as incurred and are included in general and administrative expense in Cadence s condensed consolidated income statements. During the three and nine months ended September 30, 2024, transaction costs associated with acquisitions were million and million, respectively. During the three and nine months ended September 30, 2023, transaction costs associated with acquisitions were million and million, respectively. 
+ 
+ NOTE 6. 
+ Goodwill resulting from acquisitions Effect of foreign currency translation Balance as of September 30, 2024 
+ 13 
+
+) Agreements and relationships ) Tradenames, trademarks and patents ) Total acquired intangibles ) 
+ During the nine months ended September 30, 2024, Cadence completed certain projects previously included in in-process technology and transferred 6.8 million to existing technology. 
+ Acquired intangibles as of December 31, 2023 were as follows: 
+ Gross Carrying Amount Accumulated Amortization Acquired Intangibles, Net (In thousands) Existing technology ) Agreements and relationships ) Tradenames, trademarks and patents ) Total acquired intangibles with definite lives ) In-process technology Total acquired intangibles ) 
+ Amortization expense from existing technology and maintenance agreements is included in cost of product and maintenance. 
+ Amortization of acquired intangibles Total amortization of acquired intangibles 
+ 2025 2026 2027 2028 2029 Thereafter Total estimated amortization expense 
+ 14 
+
+NOTE 7. 
+ Cost of services Marketing and sales Research and development General and administrative Total stock-based compensation expense 
+ million as of September 30, 2024, which is expected to be recognized over a weighted average vesting period of years. 
+ 
+ NOTE 8. 
+ million and million shares of Cadence stock on the open market for an aggregate purchase price of million and million, respectively, in accordance with its current authorization from its Board of Directors. As of September 30, 2024, approximately billion of Cadence s share repurchase authorization remained available to repurchase shares of Cadence common stock. 
+ During the three and nine months ended September 30, 2023, Cadence repurchased approximately million and million shares of Cadence common stock on the open market for an aggregate purchase price of million and million, respectively. 
+ In June 2023, Cadence also entered into an accelerated share repurchase ASR agreement with HSBC Bank USA, National Association HSBC to repurchase an aggregate of million of Cadence common stock. The ASR agreement was accounted for as two separate transactions: (1) a repurchase of common stock and (2) an equity-linked contract on Cadence s own stock. In June 2023, Cadence received an initial share delivery of approximately million shares, which represented the number of shares at a market price equal to million. An equity-linked contract for million, representing the remaining shares to be delivered by HSBC under the ASR agreement, was recorded to stockholders equity as of June 30, 2023. In August 2023, the ASR agreement settled and resulted in a delivery of approximately million additional shares to Cadence. In total, Cadence received approximately million shares under the ASR agreement at an average price per share of . The shares received were treated as repurchased common stock for purposes of calculating earnings per share. 
+ Total cost of repurchased shares 
+ 
+ NOTE 9. 
+ 15 
+
+Restructuring 
+ Non-cash changes 
+ ) ) Cash payments ) ) Effect of foreign currency translation Balance as of September 30, 2024 
+ All liabilities for severance and related benefits under the 2024 Restructuring Plan are included in accounts payable and accrued liabilities on Cadence s condensed consolidated balance sheets as of September 30, 2024. Cadence expects to make cash payments to settle these liabilities through fiscal 2025. 
+ 
+ NOTE 10. 
+ Gain (loss) on investments 
+ ) Gain (loss) on securities in Non-Qualified Deferred Compensation NQDC trust 
+ ) Gain (loss) on foreign exchange 
+ ) ) Other expense, net ) ) ) ) Total other income, net 
+ 
+ For additional information relating to Cadence s investment activity, see Note 12 in the notes to condensed consolidated financial statements. 
+ 16 
+
+NOTE 11. 
+ Weighted average common shares used to calculate basic net income per share Stock-based awards Weighted average common shares used to calculate diluted net income per share Net income per share - basic Net income per share - diluted 
+ Options to purchase shares of common stock Non-vested shares of restricted stock Total potential common shares excluded 
+ 
+ NOTE 12. 
+ million and million as of September 30, 2024 and December 31, 2023, respectively. 
+ Non-Marketable Equity Investments 
+ Cadence s investments in non-marketable equity securities generally consist of stock or other instruments of privately held entities and are included in other assets on Cadence s condensed consolidated balance sheets. Cadence holds a interest in a privately held company that is accounted for using the equity method of accounting. The carrying value of this investment was million and million as of September 30, 2024 and December 31, 2023, respectively. 
+ Cadence records its proportionate share of net income from the investee, offset by amortization of basis differences, to other income, net in Cadence s condensed consolidated income statements. For the three and nine months ended September 30, 2024, Cadence recognized losses of million and million, respectively. For the three and nine months ended September 30, 2023, Cadence recognized losses of million and million, respectively. 
+ 17 
+
+million and million as of September 30, 2024 and December 31, 2023, respectively. Gains and losses on these investments were not material to Cadence s condensed consolidated financial statements for the periods presented.) Less: Net gains recognized on equity securities sold 
+ ) ) ) Net gains (losses) recognized on equity securities still held 
+ ) 
+ Investments in Debt Securities 
+ ) Total available-for-sale securities ) 
+ As of December 31, 2023 
+ Amortized Cost Gross Unrealized Gains Gross Unrealized Losses Estimated Fair Value (In thousands) Available-for-sale debt securities 
+ Mortgage-backed and asset-backed securities ) Total available-for-sale securities ) 
+ Gross unrealized gains and losses are recorded as a component of accumulated other comprehensive loss on Cadence's condensed consolidated balance sheets. 
+ Due after 1 year through 5 years Due after 5 years through 10 years Due after 10 years Total 
+ As of September 30, 2024, Cadence did not intend to sell any of its available-for-sale debt securities in an unrealized loss position, and it was more likely than not that Cadence will hold the securities until maturity or a recovery of the cost basis. 
+ 18 
+
+NOTE 13. 
+ There were no transfers between levels of the fair value hierarchy during the nine months ended September 30, 2024. 
+ On a quarterly basis, Cadence measures at fair value certain financial assets and liabilities. 
+ Marketable securities: Marketable equity securities Mortgage-backed and asset-backed securities Securities held in NQDC trust 
+ Foreign currency exchange contracts Total Assets As of September 30, 2024, Cadence did not have any financial liabilities requiring a recurring fair value measurement. 
+ Fair Value Measurements as of December 31, 2023 Total Level 1 Level 2 Level 3 (In thousands) Assets Cash equivalents: Money market funds Marketable securities: Marketable equity securities Mortgage-backed and asset-backed securities Securities held in NQDC trust Foreign currency exchange contracts Total Assets As of December 31, 2023, Cadence did not have any financial liabilities requiring a recurring fair value measurement. 
+ 
+ 19 
+
+million, primarily through its acquisitions of BETA CAE and Invecas. The fair value of the intangible assets acquired was determined using variations of the income approach that utilizes unobservable inputs classified as Level 3 measurements. 
+ For existing technology, the fair value was determined by applying the relief-from-royalty method. This method is based on the application of a royalty rate to forecasted revenue to quantify the benefit of owning the intangible asset rather than paying a royalty for use of the asset. To estimate royalty savings over time, Cadence projected revenue from the acquired existing technology over the estimated remaining life of the technology, including the effect of assumed technological obsolescence, before applying an assumed royalty rate. Cadence assumed technological obsolescence at a rate of annually, before applying an assumed royalty rate of . 
+ For agreements and relationships, the fair value was determined by using the multi-period excess earnings method. This method reflects the present value of the projected cash flows that are expected to be generated from existing customers, less charges representing the contribution of other assets to those cash flows. Projected income from existing customer relationships was determined using customer retention rates between and . The present value of operating cash flows from existing customers was determined using discount rates between and . 
+ 
+ NOTE 14. 
+ Work-in-process 
+ Finished goods Total inventories 
+ 
+ NOTE 15. 
+ Tax Proceedings 
+ In December 2022, Cadence received a tax audit assessment, primarily related to value-added taxes, of approximately million from the Korea taxing authorities for years 2017-2019. Cadence was required to pay these assessed taxes, prior to being allowed to contest or litigate the assessment in administrative and judicial proceedings. The assessment was paid by Cadence in January 2023 and was recorded as a component of other assets in the condensed consolidated balance sheets. During August 2024, the Tax Tribunal cancelled the entire tax audit assessment, and during the fourth quarter of fiscal 2024, Cadence received a refund of the payment previously made to the Korea taxing authorities plus interest. 
+ 20 
+
+NOTE 16.) ) Changes in defined benefit plan liabilities ) ) Unrealized losses on derivatives designated as hedging instruments 
+ ) Unrealized gains on available-for-sale debt securities 
+ Total accumulated other comprehensive loss ) ) 
+ During the third quarter of fiscal 2024, in anticipation of issuing the New Notes, Cadence entered into a series of treasury lock agreements which fixed benchmark U.S. Treasury rates for an aggregate notional amount of million to hedge the impact of changes in the benchmark interest rate on future interest payments. Upon issuance of the New Notes in September 2024, Cadence settled the treasury lock agreements and incurred a loss of million, which will be amortized to interest expense using the effective interest method over the term of the 2034 Notes. 
+ For the three and nine months ended September 30, 2024 and September 30, 2023, there were no significant amounts reclassified from accumulated other comprehensive loss to net income. 
+ 
+ NOTE 17. 
+ 21 
+
+Other Americas Total Americas Asia: China Other Asia Total Asia Europe, Middle East and Africa Japan Total 
+ Other Americas Total Americas Asia: China Other Asia Total Asia Europe, Middle East and Africa Japan Total 
+ 22 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ The following discussion should be read in conjunction with the condensed consolidated financial statements and notes thereto included in this Quarterly Report on Form 10-Q (this Quarterly Report and in conjunction with our Annual Report on Form 10-K for the fiscal year ended December 31, 2023 (our Annual Report . This Quarterly Report contains statements that are not historical in nature, are predictive, or that depend upon or refer to future events or conditions or contain other forward-looking statements. Statements including, but not limited to, statements regarding the extent, timing and mix of future revenues and customer demand; the deployment of our products and services; the impact of the macroeconomic and geopolitical environment, including but not limited to, expanded trade control laws and regulations, the conflicts in and around Ukraine, the Middle East and other areas of the world, volatility in foreign currency exchange rates, inflation and interest rate fluctuations; the impact of government actions; future costs, expenses, tax rates and uses of cash; pending legal, administrative and tax proceedings; restructuring actions and associated benefits; pending acquisitions, the accounting for acquisitions and the integration of acquired businesses; and other statements using words such as anticipates, believes, could, estimates, expects, forecasts, intends, may, plans, projects, should, targets, will and would, and words of similar import and the negatives thereof, constitute forward-looking statements. These statements are predictions based upon our current expectations about future events. Actual results could vary materially as a result of certain factors, including, but not limited to, those expressed in these statements. We refer you to the Results of Operations, Quantitative and Qualitative Disclosures About Market Risk, Liquidity and Capital Resources and "Risk Factors" sections contained in this Quarterly Report, the "Risk Factors" section contained in our Annual Report, and the risks discussed in our other Securities and Exchange Commission SEC filings, which identify important risks and uncertainties that could cause actual results to differ materially from those contained in the forward-looking statements. 
+ We urge you to consider these factors carefully in evaluating the forward-looking statements contained in this Quarterly Report. All subsequent written or oral forward-looking statements attributable to our company or persons acting on our behalf are expressly qualified in their entirety by these cautionary statements. The forward-looking statements included in this Quarterly Report are made only as of the date of this Quarterly Report. We disclaim any obligation to update these forward-looking statements, except as required by law. 
+ Business Overview 
+ Cadence is a leading pioneer in electronic system design software and intellectual property IP ), building upon more than 35 years of computational software expertise. Since our inception, we have been at the forefront of technology innovation, solving highly complex challenges in the semiconductor and electronic systems industries. We are a global company that provides computational software, special-purpose computational hardware, IP and services to multiple vertical sectors including automotive, artificial intelligence AI ), aerospace and defense, high-performance and mobile computing, hyperscalers, wireless communications, industrial internet of things and life sciences. 
+ Our Intelligent System Design TM strategy allows us to deliver essential computational software, hardware and IP that our customers use to turn their design concepts into reality. Our customers include many of the world's most innovative companies that design and build highly sophisticated semiconductor and electronic systems found in products used in everyday life. Our Intelligent System Design strategy allows us to quickly adapt to our customers' dynamic design requirements. Our products and services enable our customers to develop complex and innovative semiconductor and electronic systems, so demand for our technology and expertise is driven by increasing complexity and our customers need to invest in new designs and products that are highly differentiated. Historically, the industry that provided the tools used by integrated circuit IC engineers was referred to as Electronic Design Automation EDA ). Today, our offerings include and extend beyond EDA. 
+ We group our products into categories related to major design activities: 
+ Custom IC Design and Simulation; 
+ Digital IC Design and Signoff; 
+ Functional Verification; 
+ IP; and 
+ System Design and Analysis. 
+ For additional information about our products, see the discussion in Item 1, Business, under the heading Products and Product Categories, in our Annual Report. 
+ Management uses certain performance indicators to manage our business, including revenue, certain elements of operating expenses and cash flow from operations, and we describe these items further below under the headings Results of Operations and Liquidity and Capital Resources. 
+ Recent Acquisitions 
+ Consistent with our Intelligent System Design strategy, during the first quarter of fiscal 2024, we completed our acquisition of Invecas, Inc. Invecas ), a leading provider of design engineering, embedded software and system-level solutions. We believe the addition of a skilled engineering team with vast experience in delivering end-to-end system solutions with deep expertise in advanced nodes, mixed-signal, verification, embedded software, packaging and turnkey custom silicon production will enhance our ability to pursue attractive opportunities in the markets we serve. Revenue and cost of revenue associated with contracts assumed with our acquisition of Invecas is primarily classified as services revenue and cost of services in our condensed consolidated income statements. 
+ 23 
+
+During the second quarter of fiscal 2024, we completed our acquisition of BETA CAE Systems International AG BETA CAE ), a system analysis platform provider of multi-domain, engineering simulation solutions. The acquisition of BETA CAE expands our multiphysics system analysis suite with highly complementary products, enabling us to offer a more comprehensive portfolio to customers in the automotive sector and at companies in the aerospace, industrial and healthcare industries. Revenue associated with contracts assumed with our acquisition of BETA CAE is primarily classified as product and maintenance revenue in our System Design and Analysis product category. Cost of revenue associated with these contracts is primarily classified as cost of product and maintenance in our condensed consolidated income statements. 
+ Macroeconomic and Geopolitical Environment 
+ Because we operate globally, our business is subject to the effects of economic downturns or recessions in the regions in which we do business, volatility in foreign currency exchange rates relative to the U.S. dollar, changing interest rates, expanded trade control laws and regulations, and geopolitical conflicts. 
+ We have been impacted by the continued expansion of trade control laws and regulations, including certain export control restrictions concerning advanced node IC production in China, the inclusion of additional Chinese technology companies on the Bureau of Industry and Security Entity List and regulations governing the sale of certain technologies. Based on our current assessments, we expect the impact of these expanded trade control laws and regulations on our business to be limited. 
+ We also continuously monitor geopolitical conflicts around the world, including the ongoing conflict between Russia and Ukraine and the conflict in the Middle East, and assess their impact on our business. These conflicts have not materially limited our ability to develop or support our products and have not had a material impact on our results of operations, financial condition, liquidity or cash flows. 
+ While our business model provides some resilience against these factors, we will continue to monitor the direct and indirect impacts of these or similar circumstances on our business and financial results. For additional information on the potential impact of other macroeconomic and geopolitical conditions on our business, see the Risk Factors section in our Annual Report. For additional information on the potential impact of foreign currency exchange rates and interest rates on our business, see the Quantitative and Qualitative Disclosures About Market Risk section of this Quarterly Report. 
+ Critical Accounting Estimates 
+ In preparing our condensed consolidated financial statements, we make assumptions, judgments and estimates that can have a significant impact on our revenue, operating income and net income, as well as on the value of certain assets and liabilities on our condensed consolidated balance sheets. We base our assumptions, judgments and estimates on historical experience and various other factors that we believe to be reasonable under the circumstances. Actual results could differ materially from these estimates under different assumptions or conditions. At least quarterly, we evaluate our assumptions, judgments and estimates, and make changes as deemed necessary. 
+ For additional information about our critical accounting estimates, see the discussion in Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations, under the heading Critical Accounting Estimates in our Annual Report. 
+ New Accounting Standards 
+ For additional information about the adoption of new accounting standards, see Note 1 in the notes to condensed consolidated financial statements. 
+ 
+ Results of Operations 
+ Financial results for the three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023, reflect the following: 
+ Growth in revenue from our software, services and IP offerings; 
+ Continued investment in research and development activities and technical sales support, including headcount from acquisitions; 
+ Incremental costs for professional services associated with acquisitions; 
+ Restructuring activities designed to better align our resources with our business strategy; 
+ Increased interest expense from our outstanding indebtedness; and 
+ Gains and losses from our investments in equity securities. 
+ Revenue 
+ We primarily generate revenue from licensing our software and IP, selling or leasing our emulation and prototyping hardware technology, providing maintenance for our software, hardware and IP, providing engineering services and earning royalties generated from the use of our IP. The timing of our revenue is significantly affected by the mix of software, hardware and IP products generating revenue in any given period and whether the revenue is recognized over time or at a point in time, upon completion of delivery. 
+ 24 
+
+Recurring revenue includes revenue recognized over time from our software arrangements, services, royalties, maintenance on IP licenses and hardware, and operating leases of hardware. Recurring revenue also includes revenue recognized at varying points in time over the term of other arrangements with non-cancelable commitments, whereby the customer commits to a fixed dollar amount over a specified period of time that can be used to purchase from a list of products or services. 
+ The remainder of our revenue is recognized at a point in time and is characterized as up-front revenue. Up-front revenue is primarily generated by our sales of emulation and prototyping hardware, individual IP licenses and certain software licenses. The percentage of our recurring and up-front revenue and fluctuations in revenue within our geographies in any single fiscal period are primarily impacted by delivery of hardware and IP products to our customers. 
+ The following table shows the percentage of our revenue that is classified as recurring or up-front for the three and nine months ended September 30, 2024 and September 30, 2023: 
+ Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 Revenue recognized over time 80 83 83 80 Revenue from arrangements with non-cancelable commitments 2 2 3 3 Recurring revenue 82 85 86 83 Up-front revenue 18 15 14 17 Total 100 100 100 100 
+ The percentage of revenue characterized as recurring compared to revenue characterized as up-front may vary between fiscal quarters. On an annual basis, or over the course of twelve consecutive months, the overall mix of revenue has historically been relatively consistent, but we expect revenue characterized as up-front to continue to increase as a percentage of total annual revenue due to growth from arrangements where revenue is recognized at a point in time. The following table shows the percentage of recurring revenue for the twelve-month periods ending concurrently with our five most recent fiscal quarters: 
+ Trailing Twelve Months Ended September 30, 2024 June 30, 2024 March 31, 2024 December 31, 2023 September 30, 2023 Recurring revenue 86 87 87 84 84 Up-front revenue 14 13 13 16 16 Total 100 100 100 100 100 
+ For additional information about the fluctuations in our revenue, see the discussion under the heading Revenue by Period below. 
+ Revenue by Period 
+ The following table shows our revenue for the three months ended September 30, 2024 and September 30, 2023 and the change in revenue between periods: 
+ Three Months Ended Change September 30, 2024 September 30, 2023 Amount Percentage (In millions, except percentages) Product and maintenance 1,100.4 965.8 134.6 14 Services 115.1 57.3 57.8 101 Total revenue 1,215.5 1,023.1 192.4 19 
+ Our revenue in any given period is significantly affected by the mix of software, hardware and IP products generating revenue and whether the revenue is recognized over time or at a point in time, primarily upon completion of delivery. Product and maintenance revenue increased during the three months ended September 30, 2024, as compared to the three months ended September 30, 2023, primarily as a result of growth in revenue from IP, software and hardware product offerings. 
+ Services revenue increased during the three months ended September 30, 2024, as compared to the three months ended September 30, 2023, primarily due to increased revenue from our design service offerings, which were supplemented by our acquisition of Invecas. 
+ 25 
+
+The following table shows our revenue for the nine months ended September 30, 2024 and September 30, 2023 and the change in revenue between periods: 
+ Nine Months Ended Change September 30, 2024 September 30, 2023 Amount Percentage (In millions, except percentages) Product and maintenance 2,974.2 2,852.4 121.8 4 Services 311.1 169.0 142.1 84 Total revenue 3,285.3 3,021.4 263.9 9 
+ Product and maintenance revenue increased during the nine months ended September 30, 2024, as compared to the nine months ended September 30, 2023, primarily due to growth in revenue from our software and IP offerings as a result of existing customers' continued investment in complex designs for their products. 
+ This growth was partially offset by a decrease in revenue from our emulation and prototyping hardware offerings during the nine months ended September 30, 2024, as compared to the nine months ended September 30, 2023. During the first half of fiscal 2023, hardware installations were relatively high in comparison to historical levels due to increased production capacity and our ability to fulfill customer orders that had been subject to longer than normal lead times. As a result, up-front revenue from our emulation and prototyping offerings classified as product and maintenance revenue decreased during the nine months ended September 30, 2024, as compared to the nine months ended September 30, 2023. 
+ Services revenue increased during the nine months ended September 30, 2024, as compared to the nine months ended September 30, 2023, primarily due to increased revenue from our design service offerings, which were supplemented by our acquisition of Invecas. Services revenue may fluctuate from period to period based on the timing of fulfillment of our services and IP performance obligations. 
+ No single customer accounted for 10 or more of total revenue during the three and nine months ended September 30, 2024 or September 30, 2023. 
+ Revenue by Product Category 
+ The following table shows the percentage of revenue contributed by each of our five product categories and services for the past five consecutive quarters: 
+ Three Months Ended September 30, 2024 June 30, 2024 March 31, 2024 December 31, 2023 September 30, 2023 Custom IC Design and Simulation 19 21 22 22 22 Digital IC Design and Signoff 24 27 29 29 28 Functional Verification, including Emulation and Prototyping Hardware 27 25 25 24 26 Core EDA Total 
+ 70 73 76 75 76 IP 14 13 12 13 11 System Design and Analysis 16 14 12 12 13 Total 100 100 100 100 100 
+ Revenue by product category fluctuates from period to period based on demand for our products and services, our available resources and our ability to deliver and support them. Certain of our licensing arrangements allow customers the ability to remix among software products. Additionally, we have arrangements with customers that include a combination of our products, with the actual product selection and number of licensed users to be determined at a later date. For these arrangements, we estimate the allocation of the revenue to product categories based upon the expected usage of our products. The actual usage of our products by these customers may differ and, if that proves to be the case, the revenue allocation in the table above would differ. 
+ 26 
+
+Revenue by Geography 
+ Three Months Ended Change September 30, 2024 September 30, 2023 Amount Percentage (In millions, except percentages) United States 580.5 421.6 158.9 38 Other Americas 24.9 15.8 9.1 58 China 156.7 172.0 (15.3) (9) Other Asia 211.1 197.8 13.3 7 Europe, Middle East and Africa EMEA 
+ 174.6 158.2 16.4 10 Japan 67.7 57.7 10.0 17 Total revenue 1,215.5 1,023.1 192.4 19 
+ 
+ Nine Months Ended Change September 30, 2024 September 30, 2023 Amount Percentage (In millions, except percentages) United States 1,523.2 1,241.5 281.7 23 Other Americas 63.9 47.9 16.0 33 China 401.7 523.7 (122.0) (23) Other Asia 617.6 558.7 58.9 11 EMEA 
+ 496.2 479.3 16.9 4 Japan 182.7 170.3 12.4 7 Total revenue 3,285.3 3,021.4 263.9 9 
+ During the three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023, revenue in the United States increased as the result of growth in revenue from our hardware, IP and software offerings, while revenue growth in Other Asia was primarily driven by growth in revenue from our software and IP offerings. Revenue in China decreased primarily due to a decrease in revenue from our hardware and software offerings. 
+ Revenue by Geography as a Percent of Total Revenue 
+ Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 United States 48 41 46 41 Other Americas 2 2 2 2 China 13 17 12 17 Other Asia 17 19 19 18 EMEA 
+ 14 15 15 16 Japan 6 6 6 6 Total 100 100 100 100 
+ Most of our revenue is transacted in the U.S. dollar. However, certain revenue transactions are denominated in foreign currencies. For an additional description of how changes in foreign exchange rates affect our condensed consolidated financial statements, see the discussion under Item 3, Quantitative and Qualitative Disclosures About Market Risk Foreign Currency Risk. 
+ 27 
+
+Cost of Revenue 
+ Three Months Ended Change September 30, 2024 September 30, 2023 Amount Percentage (In millions, except percentages) Cost of product and maintenance 109.6 85.8 23.8 28 Cost of services 53.5 23.8 29.7 125 
+ Nine Months Ended Change September 30, 2024 September 30, 2023 Amount Percentage (In millions, except percentages) Cost of product and maintenance 279.4 260.3 19.1 7 Cost of services 148.2 70.6 77.6 110 
+ Cost of Product and Maintenance 
+ Cost of product and maintenance includes costs associated with the sale and lease of our emulation and prototyping hardware and licensing of our software and IP products, certain employee salary and benefits and other employee-related costs, cost of our customer support services, amortization of technology-related and maintenance-related acquired intangibles, costs of technical documentation and royalties payable to third-party vendors. Cost of product and maintenance depends primarily on our hardware product sales in any given period, but is also affected by employee salary and benefits and other employee-related costs, reserves for inventory, and the timing and extent to which we acquire intangible assets, license third-party technology or IP, and sell our products that include such acquired or licensed technology or IP. 
+ A summary of cost of product and maintenance is as follows: 
+ Three Months Ended Change September 30, 2024 September 30, 2023 Amount Percentage (In millions, except percentages) Product and maintenance-related costs 92.0 74.8 17.2 23 Amortization of acquired intangibles 17.6 11.0 6.6 60 Total cost of product and maintenance 109.6 85.8 23.8 28 
+ Nine Months Ended Change September 30, 2024 September 30, 2023 Amount Percentage (In millions, except percentages) Product and maintenance-related costs 236.9 228.4 8.5 4 Amortization of acquired intangibles 42.5 31.9 10.6 33 Total cost of product and maintenance 279.4 260.3 19.1 7 
+ The changes in product and maintenance-related costs for the three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023, were due to the following: 
+ Change Three Months Ended Nine Months Ended (In millions) Emulation and prototyping hardware costs 12.8 3.6 Other items 4.4 4.9 Total change in product and maintenance-related costs 17.2 8.5 
+ 28 
+
+Costs associated with our emulation and prototyping hardware products include components, assembly, testing, applicable reserves and overhead. These costs make our cost of emulation and prototyping hardware products higher, as a percentage of revenue, than our cost of software and IP products. Emulation and prototyping hardware costs increased during the three months ended September 30, 2024, as compared to the three months ended September 30, 2023, primarily due to increased installations of emulation and prototyping hardware products. Emulation and prototyping hardware costs increased during the nine months ended September 30, 2024, as compared to the nine months ended September 30, 2023, primarily due to increased charges for excess and obsolete inventory, partially offset by decreased installations of emulation and prototyping hardware products during the first half of fiscal 2024, as compared to the same period during fiscal 2023. 
+ Amortization of acquired intangibles included in cost of product and maintenance may fluctuate from period to period depending on the timing of newly acquired assets relative to assets becoming fully amortized in any given period. 
+ Cost of Services 
+ Cost of services primarily includes employee salary, benefits and other employee-related costs to perform work on revenue-generating projects, costs to maintain the infrastructure necessary to manage a services organization, and direct costs associated with certain design services. Cost of services may fluctuate from period to period based on our utilization of design services engineers on revenue-generating projects rather than internal development projects and the timing of design service projects being completed. Cost of services increased during three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023, primarily due to increased costs associated with our design service offerings and costs associated with the service offerings from our acquisition of Invecas. 
+ Operating Expenses 
+ Our operating expenses include marketing and sales, research and development, and general and administrative expenses. Factors that tend to cause our operating expenses to fluctuate include changes in the number of employees due to hiring and acquisitions, our merit compensation cycle, stock-based compensation, foreign exchange rate movements, acquisition-related costs, and volatility in variable compensation programs that are driven by operating results. 
+ Many of our operating expenses are transacted in various foreign currencies. We recognize lower expenses in periods when the United States dollar strengthens in value against other currencies and we recognize higher expenses when the United States dollar weakens against other currencies. For an additional description of how changes in foreign exchange rates affect our condensed consolidated financial statements, see the discussion in Item 3, Quantitative and Qualitative Disclosures About Market Risk Foreign Currency Risk. 
+ Our operating expenses for the three and nine months ended September 30, 2024 and September 30, 2023 were as follows: 
+ Three Months Ended Change September 30, 2024 September 30, 2023 Amount Percentage (In millions, except percentages) Marketing and sales 189.8 176.2 13.6 8 Research and development 407.4 369.6 37.8 10 General and administrative 71.6 58.6 13.0 22 Total operating expenses 668.8 604.4 64.4 11 
+ Nine Months Ended Change September 30, 2024 September 30, 2023 Amount Percentage (In millions, except percentages) Marketing and sales 557.1 510.0 47.1 9 Research and development 1,157.1 1,074.4 82.7 8 General and administrative 203.7 166.7 37.0 22 Total operating expenses 1,917.9 1,751.1 166.8 10 
+ 29 
+
+Our operating expenses, as a percentage of total revenue, for the three and nine months ended September 30, 2024 and September 30, 2023 were as follows: 
+ Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 Marketing and sales 16 17 17 17 Research and development 33 36 35 35 General and administrative 6 6 6 6 Total operating expenses 55 59 58 58 
+ Marketing and Sales 
+ The increase in marketing and sales expense for the three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023, was due to the following: 
+ Change Three Months Ended Nine Months Ended (In millions) Salary, benefits and other employee-related costs 9.6 32.2 Stock-based compensation 3.6 6.7 Facilities and other infrastructure costs 1.1 5.4 Professional services 
+ 1.6 5.3 Marketing programs 
+ (1.0) (3.3) Other items (1.3) 0.8 Total change in marketing and sales expense 13.6 47.1 
+ Salary, benefits and other employee-related costs and stock-based compensation included in marketing and sales expense increased during the three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023, primarily due to our continued investment in attracting and retaining talent dedicated to technical sales support, including additional headcount from acquisitions. Facilities and other infrastructure costs included in marketing and sales expense increased during the three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023, primarily due to our growing workforce. We expect to continue attracting and retaining talent dedicated to technical sales support through hiring and acquisitions. 
+ Research and Development 
+ The increase in research and development expense for the three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023, was due to the following: Change Three Months Ended Nine Months Ended (In millions) Salary, benefits and other employee-related costs 20.6 36.1 Stock-based compensation 14.8 33.8 Facilities and other infrastructure costs 4.2 12.4 Professional services 
+ 1.9 5.4 Other items (3.7) (5.0) Total change in research and development expense 37.8 82.7 
+ Salary, benefits and other employee-related costs and stock-based compensation included in research and development expense increased during the three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023, primarily due to our continued investment in attracting and retaining talent for research and development activities, including additional headcount from acquisitions. Facilities and other infrastructure costs included in research and development expense increased during the three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023, primarily due to our growing workforce. We expect to continue attracting and retaining talent dedicated to research and development activities through hiring and acquisitions. 
+ 30 
+
+General and Administrative 
+ The increase in general and administrative expense for the three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023, was due to the following: 
+ Change Three Months Ended Nine Months Ended (In millions) Professional services 
+ 3.2 18.6 Salary, benefits and other employee-related costs 7.8 10.0 Foreign service tax 5.0 Other items 2.0 3.4 Total change in general and administrative expense 13.0 37.0 
+ Professional services increased during the three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023, primarily due to increased legal and consulting services associated with acquisition-related activities. Salary, benefits and other employee-related costs and stock-based compensation included in general and administrative expense increased during the three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023, primarily due to additional headcount from acquisitions. Also, during the nine months ended September 30, 2024, as compared to the nine months ended September 30, 2023, we experienced an increase in foreign service tax, primarily because we did not benefit from foreign service tax refunds as we did during the same period in fiscal 2023. 
+ Restructuring 
+ We have initiated restructuring plans in recent years, most recently in August 2024, to better align our resources with our business strategy. Restructuring charges and related benefits are derived from management's estimates during the formulation of the restructuring plans, based on then-currently available information. As a result, our restructuring plans may not achieve the benefits anticipated on the timetable or at the level contemplated. Additional actions, including further restructuring of our operations, may be required in the future. For additional information about our restructuring plans, see Note 9 in the notes to condensed consolidated financial statements. 
+ Operating Margin 
+ Operating margin represents income from operations as a percentage of total revenue. Our operating margin for the three and nine months ended September 30, 2024, and the three and nine months ended September 30, 2023 was as follows: 
+ Three Months Ended Nine Months Ended 
+ September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 Operating margin 29 29 27 30 
+ Operating margin decreased during the nine months ended September 30, 2024, as compared to the nine months ended September 30, 2023, primarily due to the mix of products and services sold during each respective period. In addition, our acquisitions in fiscal 2023 and fiscal 2024 resulted in incremental expenses, including amortization of acquired intangibles, that exceeded incremental revenue during the three and nine months ended September 30, 2024. We expect our operating margin to be impacted by our recent acquisitions because the incremental operating expenses, including amortization of the acquired intangibles, are expected to exceed the incremental revenue for the remainder of fiscal 2024. 
+ 31 
+
+Interest Expense Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 (In millions) Contractual cash interest expense: Senior Notes 
+ 10.0 3.8 17.6 11.4 Term Loans 
+ 12.5 4.6 25.9 13.0 Revolving Credit Facility 
+ 0.1 0.2 0.5 1.9 Amortization of debt discount and debt issuance costs: 
+ Senior Notes 
+ 0.5 0.3 0.9 0.7 Term Loans 
+ 1.1 0.1 1.2 0.2 Revolving Credit Facility 
+ 0.3 0.3 Other 0.1 (0.3) Total interest expense 24.5 9.1 46.1 27.2 
+ Interest expense increased during the three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023, primarily due to the interest expense related to increased debt during fiscal 2024. For additional information relating to our debt arrangements, see Note 4 in the notes to condensed consolidated financial statements. 
+ Income Taxes 
+ The following table presents the provision for income taxes and the effective tax rate for the three and nine months ended September 30, 2024 and September 30, 2023: 
+ Three Months Ended Nine Months Ended September 30, 2024 September 30, 2023 September 30, 2024 September 30, 2023 (In millions, except percentages) Provision for income taxes 95.3 45.6 243.9 202.6 Effective tax rate 28.6 15.2 25.4 22.0 
+ Our provision for income taxes for the three and nine months ended September 30, 2024 was primarily attributable to federal, state and foreign income taxes on our anticipated fiscal 2024 income. We also recognized tax benefits of 12.6 million and 40.8 million related to stock-based compensation that vested or was exercised during the respective periods. The higher effective tax rates during the three and nine months ended September 30, 2024, as compared to the three and nine months ended September 30, 2023 were primarily attributable to a different geographic mix of earnings and lower tax benefits related to stock-based compensation. 
+ In 2021, the Organisation for Economic Co-operation and Development announced Pillar Two Model Rules which call for the taxation of large multinational corporations, such as Cadence, at a global minimum tax rate of 15 . Many non-U.S. tax jurisdictions, including Ireland and Hungary, have either recently enacted legislation to adopt certain components of the Pillar Two Model Rules beginning in fiscal 2024 or announced their plans to enact legislation in future years. The currently enacted Pillar Two Model Rules did not have a material impact to our provision for income taxes for the three and nine months ended September 30, 2024. 
+ Our provision for income taxes for the three and nine months ended September 30, 2023 was primarily attributable to federal, state and foreign income taxes on our then anticipated fiscal 2023 income. We also recognized tax benefits of 21.0 million and 46.8 million related to stock-based compensation that vested or was exercised during the respective periods. 
+ In March 2024, we received a best judgment tax audit assessment of approximately 24.5 million from the Israel Tax Authority ITA for the tax years 2017 and 2018. The best judgment tax audit assessment is primarily related to transfer pricing and withholding taxes. We disagree with the ITA s position and have appealed the tax assessment. 
+ 32 
+
+Our future effective tax rates may also be materially impacted by tax amounts associated with our foreign earnings at rates different from the United States federal statutory rate, research credits, the tax impact of stock-based compensation, accounting for uncertain tax positions, business combinations, closure of statutes of limitations or settlement of tax audits and changes in tax law. A significant amount of our foreign earnings is generated by our subsidiaries organized in Ireland and Hungary. Our future effective tax rates may be adversely affected if our earnings were to be lower in countries where we have lower statutory tax rates. We currently expect that our fiscal 2024 effective tax rate will be approximately 26.7 . We expect that our quarterly effective tax rates will vary from our fiscal 2024 effective tax rate as a result of recognizing the income tax effects of stock-based awards in the quarterly periods that the awards vest or are settled and other items that we cannot anticipate. For additional discussion about how our effective tax rate could be affected by various risks, see Part I, Item 1A, Risk Factors, in our Annual Report. 
+ 
+ Liquidity and Capital Resources As of September 30, 2024 December 31, 2023 Change (In millions) Cash and cash equivalents 2,786.0 1,008.2 1,777.8 Net working capital 2,424.9 385.4 2,039.5 
+ Cash and Cash Equivalents 
+ As of September 30, 2024, our principal sources of liquidity consisted of approximately 2,786.0 million of cash and cash equivalents as compared to 1,008.2 million as of December 31, 2023. 
+ Our primary sources of cash and cash equivalents during the nine months ended September 30, 2024 were proceeds from debt, cash generated from operations, proceeds from the issuance of common stock resulting from stock purchases under our employee stock purchase plan and stock options exercised during the period, and proceeds from the sale of investments. 
+ Our primary uses of cash and cash equivalents during the nine months ended September 30, 2024 were payments related to employee salaries and benefits, operating expenses, payments on debt, cash paid for acquired businesses, payment of employee taxes on vesting of restricted stock, repurchases of our common stock, purchases of inventory, payments for income tax and purchases of property, plant and equipment. 
+ Approximately 26 of our cash and cash equivalents were held by our foreign subsidiaries as of September 30, 2024. Our cash and cash equivalents held by our foreign subsidiaries may vary from period to period due to the timing of collections and repatriation of foreign earnings. We expect that current cash and cash equivalent balances and cash flows that are generated from operations and financing activities will be sufficient to meet the needs of our domestic and international operating activities and other capital and liquidity requirements, including acquisitions, investments and share repurchases, for at least the next 12 months and thereafter for the foreseeable future. 
+ Net Working Capital 
+ Net working capital is comprised of current assets less current liabilities, as shown on our condensed consolidated balance sheets. Our net working capital varies from period to period due to changes in operating assets and liabilities and the timing of investing and financing activities. 
+ Cash Flows from Operating Activities Nine Months Ended September 30, 2024 September 30, 2023 Change (In millions) Cash provided by operating activities 819.2 1,077.1 (257.9) 
+ Cash flows from operating activities include net income, adjusted for certain non-cash items, as well as changes in the balances of certain assets and liabilities. Our cash flows provided by operating activities are significantly influenced by business levels and the payment terms set forth in our customer agreements. The decrease in cash flows from operating activities for the nine months ended September 30, 2024, as compared to the nine months ended September 30, 2023, was primarily due to the timing of cash receipts from our customers and an increase in disbursements for operating assets and liabilities. 
+ 33 
+
+Cash Flows Used for Investing Activities 
+ Nine Months Ended September 30, 2024 September 30, 2023 Change (In millions) Cash used for investing activities (797.1) (313.6) (483.5) 
+ Cash used for investing activities increased during the nine months ended September 30, 2024, as compared to the nine months ended September 30, 2023, primarily due to increases in payments for business combinations and purchases of property, plant and equipment. We expect to continue our investing activities, including purchasing property, plant and equipment, purchasing intangible assets, acquiring other companies and businesses, and making investments. 
+ Cash Flows From Financing Activities Nine Months Ended September 30, 2024 September 30, 2023 Change (In millions) Cash provided by (used for) financing activities 
+ 1,750.4 (666.0) 2,416.4 
+ Cash from financing activities increased during the nine months ended September 30, 2024, as compared to the nine months ended September 30, 2023, primarily due to an increase in net proceeds from debt, increased proceeds from the issuance of common stock resulting from stock purchases under our employee stock purchase plan and stock options exercised during the period, and a decrease in repurchases of common stock. These factors were partially offset by an increase in payments on debt and payments of employee taxes on vesting of restricted stock. 
+ Other Factors Affecting Liquidity and Capital Resources 
+ Senior Notes 
+ In October 2014, we issued a 350.0 million aggregate principal amount of 4.375 Senior Notes due October 15, 2024 (the 2024 Notes ). As of September 30, 2024, the carrying value of the 2024 Notes was classified as a current liability on our condensed consolidated balance sheet, and we were in compliance with all covenants associated with the 2024 Notes. 
+ Subsequent to the balance sheet date, on October 15, 2024, we settled the outstanding principal of 350.0 million and accrued interest on the 2024 Notes. 
+ In September 2024, we issued 2.5 billion aggregate principal amount of senior notes, consisting of 500.0 million aggregate principal amount of 4.200 Senior Notes due 2027 (the 2027 Notes ), 1.0 billion aggregate principal amount of 4.300 Senior Notes due 2029 (the 2029 Notes and 1.0 billion aggregate principal amount of 4.700 Senior Notes due 2034 (the 2034 Notes and together with the 2027 Notes and the 2029 Notes, the New Notes ). Interest on the New Notes is payable semi-annually in arrears in March and September of each year, beginning in March 2025. As of September 30, 2024, we were in compliance with all covenants associated with the New Notes. 
+ We used a portion of the net proceeds of the New Notes issued in September 2024 to fully prepay the outstanding principal and accrued interest of our term loan facility due on September 7, 2025 (the 2025 Term Loan and our term loan facility due on May 20, 2026 (the 2026 Term Loan ), both with groups of lenders led by Bank of America, N.A., as administrative agent. 
+ Revolving Credit Facility 
+ In August 2024, we terminated our existing revolving credit facility, dated June 30, 2021, and amended in September 2022, and entered into a five-year senior unsecured revolving credit facility with a group of lenders led by Bank of America, N.A., as administrative agent (the 2024 Credit Facility ). The 2024 Credit Facility provides for borrowings up to 1.25 billion, with the right to request increased capacity up to an additional 500.0 million upon receipt of lender commitments, for total maximum borrowings of 1.75 billion. The 2024 Credit Facility expires on August 14, 2029. Any outstanding loans drawn under the 2024 Credit Facility are due at maturity on August 14, 2029, subject to an option to extend the maturity date. Outstanding borrowings may be repaid at any time prior to maturity. Interest rates associated with the 2024 Credit Facility are variable, so interest expense is impacted by changes in the interest rates, particularly for periods when there are outstanding borrowings under the revolving credit facility. Interest is payable quarterly. As of September 30, 2024, there were no borrowings outstanding under the 2024 Credit Facility, and we were in compliance with all covenants associated with such credit facility. 
+ For additional information relating to our debt arrangements, see Note 4 in the notes to condensed consolidated financial statements. 
+ 34 
+
+Stock Repurchase Program 
+ We are authorized to repurchase shares of our common stock under a publicly announced program that was most recently increased by our Board of Directors in August 2023. The actual timing and amount of repurchases are subject to business and market conditions, corporate and regulatory requirements, stock price, acquisition opportunities and other factors. Our repurchase authorization does not obligate us to acquire a minimum amount of shares, does not have an expiration date and may be modified, suspended or terminated without prior notice. As of September 30, 2024, approximately 1.0 billion of the share repurchase authorization remained available to repurchase shares of our common stock. See Part II, Item 2, Unregistered Sales of Equity Securities and Use of Proceeds for additional information on share repurchases. 
+ California Legislation 
+ In June 2024, the State of California enacted legislation that, for a three-year period beginning in fiscal 2024, will limit our utilization of California research and development tax credits to 5 million annually. We expect the California tax law change to increase our cash paid for income taxes for fiscal 2024 by approximately 36.4 million. 
+ Other Liquidity Requirements 
+ During the nine months ended September 30, 2024, there were no material changes to our other liquidity requirements as reported in Item 7, Management s Discussion and Analysis of Financial Condition and Results of Operations, in our Annual Report. 
+ 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ Foreign Currency Risk 
+ A material portion of our revenue, expenses and business activities are transacted in the U.S. dollar. In certain foreign countries where we price our products and services in U.S. dollars, a decrease in value of the local currency relative to the U.S. dollar results in an increase in the prices for our products and services compared to those products of our competitors that are priced in local currency. This could result in our prices being uncompetitive in certain markets. 
+ In certain countries where we may invoice customers in the local currency, our revenue benefits from a weaker dollar and is adversely affected by a stronger dollar. The opposite impact occurs in countries where we record expenses in local currencies. In those cases, our costs and expenses benefit from a stronger dollar and are adversely affected by a weaker dollar. The fluctuations in our operating expenses outside the United States resulting from volatility in foreign exchange rates are not generally moderated by corresponding fluctuations in revenue from existing contracts. 
+ We enter into foreign currency forward exchange contracts to protect against currency exchange risks associated with existing assets and liabilities. A foreign currency forward exchange contract acts as a hedge by increasing in value when underlying assets decrease in value or underlying liabilities increase in value due to changes in foreign exchange rates. Conversely, a foreign currency forward exchange contract decreases in value when underlying assets increase in value or underlying liabilities decrease in value due to changes in foreign exchange rates. These forward contracts are not designated as accounting hedges, so the unrealized gains and losses are recognized in other income (expense), net, in advance of the actual foreign currency cash flows with the fair value of these forward contracts being recorded as accrued liabilities or other current assets. 
+ We do not use forward contracts for trading purposes. Our forward contracts generally have maturities of 90 days or less. We enter into foreign currency forward exchange contracts based on estimated future asset and liability exposures, and the effectiveness of our hedging program depends on our ability to estimate these future asset and liability exposures. Recognized gains and losses with respect to our current hedging activities will ultimately depend on how accurately we are able to match the amount of foreign currency forward exchange contracts with actual underlying asset and liability exposures. 
+ The following table provides information about our foreign currency forward exchange contracts as of September 30, 2024. The information is provided in U.S. dollar equivalent amounts. The table presents the notional amounts, at contract exchange rates, and the weighted average contractual foreign currency exchange rates expressed as units of the foreign currency per U.S. dollar, which in some cases may not be the market convention for quoting a particular currency. All of these forward contracts mature before or during November 2024. 
+ 35 
+
+Notional Principal Weighted Average Contract Rate (In millions) Forward Contracts: European Union euro 193.2 0.91 British pound 133.2 0.78 Japanese yen 125.6 144.08 Israeli shekel 65.5 3.68 Swedish krona 57.9 10.23 Chinese renminbi 46.9 7.07 Indian rupee 42.1 84.15 South Korean won 40.8 1,357.23 Canadian dollar 24.9 1.36 Swiss franc 15.0 0.84 Taiwan dollar 8.8 31.70 Singapore dollar 2.5 1.31 Total 756.4 Estimated fair value 7.3 
+ As of December 31, 2023, our foreign currency exchange contracts had an aggregate principal amount of 697.9 million, and an estimated fair value of 9.3 million. 
+ We have performed sensitivity analyses as of September 30, 2024 and December 31, 2023, using a modeling technique that measures the change in the fair values arising from a hypothetical 10 change in the value of the U.S. dollar relative to applicable foreign currency exchange rates, with all other variables held constant. The foreign currency exchange rates we used in performing the sensitivity analysis were based on market rates in effect at each respective date. The sensitivity analyses indicated that a hypothetical 10 decrease in the value of the U.S. dollar would result in a decrease to the fair value of our foreign currency forward exchange contracts of 11.8 million and 18.4 million as of September 30, 2024 and December 31, 2023, respectively, while a hypothetical 10 increase in the value of the U.S. dollar would result in an increase to the fair value of our foreign currency forward exchange contracts of 14.3 million and 20.4 million as of September 30, 2024 and December 31, 2023, respectively. 
+ We actively monitor our foreign currency risks, but our foreign currency hedging activities may not substantially offset the impact of fluctuations in currency exchange rates on our results of operations, cash flows and financial position. 
+ Interest Rate Risk 
+ Our exposure to market risk for changes in interest rates relates primarily to our portfolio of cash, cash equivalents, investments in debt securities and any balances outstanding on our 2024 Credit Facility. We are exposed to interest rate fluctuations in many of the world s leading industrialized countries, but our interest income and expense is most sensitive to fluctuations in the general level of United States interest rates. In this regard, changes in United States interest rates affect the interest earned on our cash and cash equivalents and the costs associated with foreign currency hedges. All highly liquid securities with a maturity of three months or less at the date of purchase are considered to be cash equivalents. The carrying value of our interest-bearing instruments approximated fair value as of September 30, 2024. 
+ Our investments in debt securities had a fair value of approximately 50.6 million and 49.8 million as of September 30, 2024 and December 31, 2023, respectively, that may decline in value if market interest rates rise. As of September 30, 2024 and December 31, 2023, an increase in the market rates of interest of 1 would result in a decrease in the fair values of our marketable debt securities by approximately 1.8 million and 2.6 million, respectively. 
+ Interest rates under our 2024 Credit Facility are variable, so interest expense could be adversely affected by changes in interest rates, particularly for periods when we maintain an outstanding balance. As of September 30, 2024, there were no borrowings outstanding under our 2024 Credit Facility. Our 2025 Term Loan and 2026 Term Loan, which had variable interest rates, were prepaid in full in September 2024. 
+ Interest rates for our 2024 Credit Facility can fluctuate based on changes in market interest rates and in interest rate margins that vary based on the credit ratings of our unsecured debt. Assuming all loans were fully drawn and we were to fully exercise our right to increase borrowing capacity under our 2024 Credit Facility, each quarter point change in interest rates would result in a 4.4 million change in annual interest expense on our indebtedness under our 2024 Credit Facility. For an additional description of the 2024 Credit Facility, see Note 4 in the notes to condensed consolidated financial statements. 
+ 36 
+
+Equity Price Risk 
+ Equity Investments 
+ We have a portfolio of equity investments that includes marketable equity securities and non-marketable investments. Our equity investments are made primarily in connection with our strategic investment program. Under our strategic investment program, from time to time, we make cash investments in companies with technologies that have the potential to be strategically important to us. For an additional description of our portfolio of equity investments, see Note 12 in the notes to condensed consolidated financial statements. 
+ 
+ Item 4. Controls and Procedures 
+ Evaluation of Disclosure Controls and Procedures 
+ As required by Rule 13a-15 of the Securities Exchange Act of 1934, as amended (the Exchange Act ), under the supervision and with the participation of our management, including our Chief Executive Officer CEO and our Chief Financial Officer CFO ), we evaluated the effectiveness of the design and operation of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act) as of September 30, 2024. 
+ Based on their evaluation as of September 30, 2024, our CEO and CFO have concluded that our disclosure controls and procedures were effective as of the end of the period covered by this report to provide reasonable assurance that the information required to be disclosed by us in our reports filed or submitted under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the SEC s rules and forms and is accumulated and communicated to our management, including the CEO and CFO, as appropriate to allow timely decisions regarding required disclosure. 
+ Changes in Internal Control Over Financial Reporting 
+ There were no changes in our internal control over financial reporting during the fiscal quarter ended September 30, 2024 that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ Inherent Limitations on Effectiveness of Controls 
+ Our management, including our CEO and CFO, does not expect that our disclosure controls and procedures or our internal control over financial reporting will prevent or detect all errors and all fraud. Internal control over financial reporting, no matter how well conceived and operated, can provide only reasonable, not absolute, assurance that the objectives of internal control are met. Further, the design of internal control must reflect the fact that there are resource constraints, and the benefits of the control must be considered relative to their costs. While our disclosure controls and procedures and internal control over financial reporting are designed to provide reasonable assurance of their effectiveness, because of the inherent limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud, if any, within Cadence, have been detected. 
+ 
+ 37 
+
+PART II. OTHER INFORMATION 
+ 
+ Item 1. Legal Proceedings 
+ For information regarding pending legal proceedings, related matters and associated risks, see Note 15 in the notes to condensed consolidated financial statements under Part I, Item 1 in this Quarterly Report and the Risk Factors section in our Annual Report. 
+ 
+ Item 1A. Risk Factors 
+ Our operations and financial results are subject to various risks and uncertainties, including those described in the Risk Factors sections in our Annual Report and subsequent Quarterly Reports on Form 10-Q, including this Quarterly Report, that could adversely affect our business, financial condition, results of operations, cash flows, liquidity, revenue, growth, prospects, demand, reputation, and the trading price of our common stock, and make an investment in us speculative or risky. We have updated below five of the risk factors in our Annual Report, including three risk factors that were updated in our Quarterly Report for the fiscal quarter ended June 30, 2024. The risk factors described in our Annual Report and subsequent Quarterly Reports do not include all of the risks that we face, and there may be additional risks or uncertainties that are currently unknown or not believed to be material that occur or become material. 
+ Our debt obligations expose us to risks that could adversely affect our business, operating results or financial condition, and could prevent us from fulfilling our obligations under such indebtedness. 
+ We have significant outstanding indebtedness, as well as the ability to access additional borrowings under our revolving credit facility. Subject to the limits contained in the credit agreement governing our revolving credit facility and the indenture governing the New Notes, we may be able to incur substantial additional debt from time to time to finance working capital, capital expenditures, investments or acquisitions, share repurchases or for other purposes. If we do so, the risks related to our level of debt could intensify. 
+ Specifically, our level of debt could have important consequences, including the following: 
+ making it more difficult for us to satisfy our obligations to service our debt as described above; 
+ limiting our ability to obtain additional financing to fund future working capital, capital expenditures, acquisitions or other general corporate requirements; 
+ requiring a substantial portion of our cash flows (including U.S. cash) to be dedicated to debt service payments instead of other purposes, thereby reducing the amount of cash flows available for working capital, capital expenditures, acquisitions and other general corporate purposes and potentially requiring repatriation of cash from outside the U.S.; 
+ increasing our vulnerability to adverse economic and industry conditions; 
+ exposing us to the risk of increased interest rates as certain of our borrowings are at variable rates of interest; 
+ limiting our flexibility in planning for and reacting to changes in the industry in which we compete; 
+ placing us at a disadvantage compared to other, less leveraged competitors and competitors that have greater access to capital resources; 
+ limiting our interest deductions for U.S. income tax purposes; and 
+ increasing our cost of borrowing. 
+ In addition, if we incur any additional indebtedness that ranks equally with the New Notes, then subject to any collateral arrangements we may enter into, the holders of that debt will be entitled to share ratably in any proceeds distributed in connection with any insolvency, liquidation, reorganization, dissolution or other winding up of our company. 
+ At the option of the holders of our outstanding notes, we may, under certain circumstances, be required to repurchase such notes. 
+ Under the terms of the New Notes, we may be required to repurchase for cash such notes prior to their respective maturity dates in connection with the occurrence of certain significant corporate events. Specifically, we are required to offer to repurchase such notes upon a change of control triggering event (as defined in the indenture related to such notes), such as a change of control accompanied by certain downgrades in the credit ratings of such notes. The repayment obligations under such notes may have the effect of discouraging, delaying or preventing a takeover of our company. If we were required to pay the New Notes prior to their respective maturity dates, it could have a significant negative impact on our cash and liquidity and could impact our ability to invest financial resources in other strategic initiatives. 
+ 38 
+
+The terms of our debt agreements restrict our current and future operations, particularly our ability to respond to changes or to take certain actions. 
+ The agreements governing our revolving credit facility and our New Notes contain a number of restrictive covenants that impose significant operating and financial restrictions on us and may limit our ability to engage in acts that may be in our long-term best interest, including restrictions on our ability to incur liens or additional indebtedness and guarantee indebtedness, enter into transactions with affiliates, alter the businesses we conduct, consolidate, merge or sell all or substantially all of our assets and to enter into sale and leaseback transactions. In addition, the agreement governing our revolving credit facility requires us to maintain a specified financial ratio. Our ability to meet that financial ratio can be affected by events beyond our control, and we may be unable to meet it. 
+ A breach of the covenants or restrictions under the agreements governing our revolving credit facility and New Notes could result in an event of default under the applicable indebtedness. Such a default may allow the creditors to accelerate the related debt and may result in the acceleration of any other debt to which a cross-acceleration or cross-default provision applies. In addition, an event of default under the credit agreement governing our revolving credit facility would permit the lenders under our revolving credit facility to terminate all commitments to extend further credit. In the event our lenders or note holders accelerate the repayment of our borrowings, we may not have sufficient assets to repay that indebtedness. 
+ As a result of these restrictions, we may be limited in how we conduct our business, unable to raise additional debt or equity financing to operate during general economic or business downturns or unable to compete effectively, take advantage of new business opportunities or otherwise grow in accordance with our strategy. In addition, our financial results, our substantial indebtedness and our credit ratings could adversely affect the availability and terms of our financing. 
+ Our variable rate indebtedness subjects us to interest rate risk, which could cause our debt service obligations to increase significantly. 
+ Borrowings under our revolving credit facility are at variable rates of interest and expose us to interest rate risk. When interest rates increase, our debt service obligations increase even though the amount borrowed remains the same, and our net income and cash flows, including cash available for servicing our indebtedness, could correspondingly decrease. We may enter into interest rate swaps that involve the exchange of floating for fixed rate interest payments in order to reduce interest rate volatility. However, we may not maintain interest rate swaps with respect to all of our variable rate indebtedness, and any swaps we enter into may not fully mitigate our interest rate risk. 
+ Our revolving credit facility utilizes, at our option, either (1) secured overnight financing rate ("SOFR") plus a margin between 0.625 and 1.125 per annum, determined by reference to the credit rating of our unsecured debt, plus a SOFR adjustment of 0.10 or (2) the base rate plus a margin between 0.000 and 0.125 per annum, determined by reference to the credit rating of our unsecured debt. The applicable margin within the specified ranges is determined by reference to the credit rating of our unsecured debt. Accordingly, a credit rating downgrade would increase the applicable interest rate. Assuming our revolving credit facility was fully drawn and we were to fully exercise our right to increase borrowing capacity under our revolving credit facility, each quarter point change in the interest rate would result in a 4.4 million change in annual interest expense. 
+ Various factors could increase our future borrowing costs or reduce our access to capital, including a lowering or withdrawal of the ratings assigned to us and our New Notes by credit rating agencies. 
+ We may in the future seek additional financing for a variety of reasons, and our future borrowing costs, terms and access to capital could be affected by factors including the condition of the debt and equity markets, the condition of the economy generally, prevailing interest rates, our level of indebtedness, our credit rating and our business and financial condition. In addition, the New Notes currently have an investment grade credit rating, which could be lowered or withdrawn entirely by a credit rating agency based on adverse changes to circumstances relating to the basis of the credit rating. Consequently, real or anticipated changes in our credit ratings will generally affect the market value of the New Notes. Any future lowering of the credit ratings of the New Notes likely would make it more difficult or more expensive for us to obtain additional debt financing. 
+ 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ We are authorized to repurchase shares of our common stock under a publicly announced program that was most recently increased by our Board of Directors on August 2, 2023. Pursuant to this authorization, we may repurchase shares from time to time through open market repurchases, in privately negotiated transactions or by other means, including accelerated share repurchase transactions or other structured repurchase transactions, block trades or pursuant to trading plans intended to comply with Rule 10b5-1 of the Exchange Act. The actual timing and amount of repurchases are subject to business and market conditions, corporate and regulatory requirements, stock price, acquisition opportunities and other factors. Our repurchase authorization does not obligate us to acquire a minimum amount of shares, does not have an expiration date and may be modified, suspended or terminated without prior notice. 
+ 39 
+
+The following table presents repurchases made under our publicly announced repurchase authorizations and shares surrendered by employees to satisfy income tax withholding obligations during the three months ended September 30, 2024: 
+ Period Total Number 
+ of Shares 
+ Purchased (1) 
+ Average 
+ Price Paid 
+ Per Share (2) 
+ Total Number of 
+ Shares Purchased 
+ as Part of 
+ Publicly Announced Plan or Program (3) 
+ Approximate Dollar 
+ Value of Shares that 
+ May Yet 
+ Be Purchased Under 
+ Publicly Announced 
+ Plan or Program (1) 
+ (In millions) 
+ July 1, 2024 - July 31, 2024 44,114 264.67 38,629 1,117 August 1, 2024 - August 31, 2024 384,228 271.65 273,487 1,043 September 1, 2024 - September 30, 2024 273,270 266.62 250,612 977 Total 701,612 269.25 562,728 
+ ______________________________ 
+ (1) Shares purchased that were not part of our publicly announced repurchase programs represent shares of restricted stock surrendered by employees to satisfy employee income tax withholding obligations due upon vesting, and do not reduce the dollar value that may yet be purchased under our publicly announced repurchase programs. 
+ (2) The weighted average price paid per share of common stock does not include the cost of commissions. 
+ (3) Our publicly announced share repurchase program was originally announced on February 1, 2017 and most recently increased by an additional 1.0 billion on August 2, 2023. 
+ 
+ Item 3. Defaults Upon Senior Securities 
+ None. 
+ 
+ Item 4. Mine Safety Disclosures 
+ Not applicable. 
+ 
+ Item 5. Other Information 
+ Insider Trading Arrangements 
+ or the contracts, instructions or written plans for the purchase or sale of our securities set forth in the table below. 
+ Type of Trading Arrangement Name and Position Action Adoption/ Termination Date Rule 10b5-1 Total Shares of Common Stock to be Sold Expiration Date , 
+ X Up to 
+ 8/15/2025 , 
+
+X 
+ Up to (1) 
+ 2/20/2026 
+ , 
+
+X 
+ Up to 
+ 9/26/2025 
+ , 
+
+X 
+ Up to (2) 
+ 9/12/2025 
+ Contract, instruction or written plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. 
+ Includes up to shares subject to Performance Stock Awards previously granted to Dr. Devgan subject to vesting and release to Dr. Devgan during the period from March 15, 2025 to September 15, 2025 upon the satisfaction of the applicable total shareholder return hurdles and relative total shareholder return threshold. The actual number of shares that will vest in connection with these awards is not yet determinable. In addition, the actual number of shares that will be released to Dr. Devgan in connection with these awards and may be sold under the Rule 10b5-1 trading arrangement will be net of the number of shares withheld to satisfy tax withholding obligations arising from the vesting of such shares. 
+ (2) Includes up to shares subject to Performance Stock Awards previously granted to Mr. Scannell subject to vesting and release to Mr. Scannell on March 15, 2025 upon the satisfaction of the applicable total shareholder return hurdles and relative total shareholder return threshold. The actual number of shares that will vest in connection with these awards is not yet determinable. In addition, the actual number of shares that will be released to Mr. Scannell in connection with these awards and may be sold under the Rule 10b5-1 trading arrangement will be net of the number of shares withheld to satisfy tax withholding obligations arising from the vesting of such shares. 
+ 40 
+
+Item 6. Exhibits Incorporated by Reference Exhibit 
+ Number 
+ Exhibit Title Form File No. Exhibit No. Filing Date Provided Herewith 3.1 
+ The Registrant s Restated Certificate of Incorporation, as filed with the Secretary of State of the State of Delaware on May 3, 2024. 
+ 8-K 
+ 000-15867 
+ 3.1 
+ 5/6/2024 
+ 3.2 
+ The Registrant s Amended and Restated Bylaws, effective as of November 2, 2023. 
+ 8-K 
+ 000-15867 
+ 3.1 
+ 11/3/2023 
+ 10.1 
+ Credit Agreement, dated August 14, 2024, by and among the Registrant, Bank of America, N.A., as a lender and administrative agent, the other lenders and issuing banks party thereto and BofA Securities, Inc., JPMorgan Chase Bank, N.A. and HSBC Bank USA, National Association, as joint lead arrangers and joint bookrunners. 
+ 8-K 000-15867 10.1 8/15/2024 10.2 
+ First Amendment to Loan Agreement, dated August 14, 2024, with respect to that certain Loan Agreement, dated September 7, 2022, by and among the Registrant, Bank of America, N.A. and the other lenders party thereto. 
+ 8-K 000-15867 10.2 8/15/2024 10.3 
+ First Amendment to Loan Agreement, dated August 14, 2024, with respect to that certain Loan Agreement, dated May 30, 2024, by and among the Registrant, Bank of America, N.A. and the other lenders party thereto. 
+ 8-K 000-15867 10.3 8/15/2024 10.4 
+ Base Indenture, dated as of September 10, 2024, by and between the Registrant and U.S. Bank Trust Company, National Association, as trustee . 
+ 8-K 000-15867 4.1 9/10/2024 10.5 
+ First Supplemental Indenture, dated as of September 10, 2024, by and between the Registrant and U.S. Bank Trust Company, National Association, as trustee (including the Form of 4.200 Senior Notes due 2027, the Form of 4.300 Senior Notes due 2029 and the Form of 4.700 Senior Notes due 2034) . 
+ 8-K 000-15867 4.2 9/10/2024 31.1 
+ Certification of the Registrant s Chief Executive Officer, Anirudh Devgan, pursuant to Rule 13a-14 of the Securities Exchange Act of 1934. 
+ X 31.2 
+ Certification of the Registrant s Chief Financial Officer, John M. Wall, pursuant to Rule 13a-14 of the Securities Exchange Act of 1934. 
+ X 32.1 
+ Certification of the Registrant s Chief Executive Officer, Anirudh Devgan, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ X 32.2 
+ Certification of the Registrant s Chief Financial Officer, John M. Wall, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002. 
+ X 
+ 41 
+
+101.INS Inline XBRL Instance Document the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document. 101.SCH Inline XBRL Taxonomy Extension Schema Document. X 101.CAL Inline XBRL Taxonomy Extension Calculation Linkbase Document. X 101.DEF Inline XBRL Definition Linkbase Document. X 101.LAB Inline XBRL Taxonomy Extension Label Linkbase Document. X 101.PRE Inline XBRL Taxonomy Extension Presentation Linkbase Document. X 104 Cover Page Interactive Data File - The cover page from this Quarterly Report on Form 10-Q is formatted in Inline XBRL (included as Exhibit 101). X 
+ ___________________ 
+ Filed herewith. Furnished herewith. 
+
+42 
+
+SIGNATURES 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized. 
+ CADENCE DESIGN SYSTEMS, INC. (Registrant) DATE: October 29, 2024 By: /s/ Anirudh Devgan Anirudh Devgan President and Chief Executive Officer DATE: October 29, 2024 By: /s/ John M. Wall John M. Wall Senior Vice President and Chief Financial Officer 
+ 
+ 43 
+
+<EX-31.1>
+ 2
+ ex311cdns09302024.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO SECTION 302 OF 
+ THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Anirudh Devgan, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Cadence Design Systems, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ By s Anirudh Devgan Anirudh Devgan 
+ President and Chief Executive Officer (Principal Executive Officer) 
+ Date October 29, 2024 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ex312cdns09302024.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO SECTION 302 OF 
+ THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, John M. Wall, certify that 
+ 1. I have reviewed this Quarterly Report on Form 10-Q of Cadence Design Systems, Inc. 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. The registrant s other certifying officer(s) and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+ By s John M. Wall John M. Wall Senior Vice President and Chief Financial Officer (Principal Accounting and Financial Officer) 
+ Date October 29, 2024 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ex321cdns09302024.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO SECTION 906 
+ OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report on Form 10-Q for the fiscal quarter ended September 30, 2024 of Cadence Design Systems, Inc. (the Company as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Anirudh Devgan, President and Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ s Anirudh Devgan Anirudh Devgan President and Chief Executive Officer (Principal Executive Officer) Date October 29, 2024 
+
+A signed original of this written statement required by Section 906 has been provided to Cadence Design Systems, Inc. and will be retained by Cadence and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ ex322cdns09302024.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+ PURSUANT TO 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO SECTION 906 
+ OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report on Form 10-Q for the fiscal quarter ended September 30, 2024 of Cadence Design Systems, Inc. (the Company as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, John M. Wall, Senior Vice President and Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ 1. The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ s John M. Wall John M. Wall Senior Vice President and Chief Financial Officer (Principal Accounting and Financial Officer) Date October 29, 2024 
+
+A signed original of this written statement required by Section 906 has been provided to Cadence Design Systems, Inc. and will be retained by Cadence and furnished to the Securities and Exchange Commission or its staff upon request. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ cdns-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ cdns-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ cdns-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ cdns-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ cdns-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+

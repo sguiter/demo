@@ -1,0 +1,949 @@
+<Header>
+<FileStats>
+    <FileName>20241112_10-Q_edgar_data_1056358_0001056358-24-000081.txt</FileName>
+    <GrossFileSize>6635922</GrossFileSize>
+    <NetFileSize>116526</NetFileSize>
+    <NonText_DocumentType_Chars>1228433</NonText_DocumentType_Chars>
+    <HTML_Chars>2361991</HTML_Chars>
+    <XBRL_Chars>1519221</XBRL_Chars>
+    <XML_Chars>1272907</XML_Chars>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001056358-24-000081.hdr.sgml : 20241112
+<ACCEPTANCE-DATETIME>20241112162827
+ACCESSION NUMBER:		0001056358-24-000081
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		68
+CONFORMED PERIOD OF REPORT:	20240930
+FILED AS OF DATE:		20241112
+DATE AS OF CHANGE:		20241112
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MANNATECH INC
+		CENTRAL INDEX KEY:			0001056358
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEDICINAL CHEMICALS & BOTANICAL PRODUCTS [2833]
+		ORGANIZATION NAME:           	03 Life Sciences
+		IRS NUMBER:				752508900
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24657
+		FILM NUMBER:		241448765
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1410 LAKESIDE PARKWAY
+		STREET 2:		SUITE 200
+		CITY:			FLOWER MOUND
+		STATE:			TX
+		ZIP:			75028
+		BUSINESS PHONE:		9724717400
+
+	MAIL ADDRESS:	
+		STREET 1:		1410 LAKESIDE PARKWAY
+		STREET 2:		SUITE 200
+		CITY:			FLOWER MOUND
+		STATE:			TX
+		ZIP:			75028
+
+</SEC-Header>
+</Header>
+
+ 0001056358-24-000081.txt : 20241112
+
+10-Q
+ 1
+ mtex-20240930.htm
+ 10-Q
+
+mtex-20240930 
+
+UNITED STATES 
+ SECURITIES AND EXCHANGE COMMISSION 
+ Washington, D.C. 20549 
+ 
+ FORM 
+ (Mark One) 
+ QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the quarterly period ended: September 30, 2024 
+ OR 
+ TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 
+ For the transition period from ___________ to ___________. 
+ Commission File No. 
+ 
+ (Exact Name of Registrant as Specified in its Charter) 
+ (State or other Jurisdiction of Incorporation or Organization) (I.R.S. Employer Identification No.) (Address of Principal Executive Offices) (Zip Code) 
+ Registrant s Telephone Number, including Area Code: 
+ Securities registered pursuant to Section 12(b) of the Act: 
+ Title of each class Trading Symbol(s) Name of each exchange on which registered par value 0.0001 per share 
+ Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. x No o 
+ 
+ Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). x No o 
+ 
+ Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See definitions of accelerated filer , large accelerated filer , smaller reporting company and emerging growth company in Rule 12b-2 of the Exchange Act. 
+ Large accelerated filer 
+ Accelerated filer 
+ x Smaller reporting company Emerging Growth Company 
+ 
+ If an emerging growth company, indicated by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. o 
+ 
+ Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). 
+ Yes No x 
+ 
+ As of October 31, 2024, the number of shares outstanding of the registrant s sole class of common stock, par value 0.0001 per share, was 1,884,814. 
+
+MANNATECH, INCORPORATED 
+ TABLE OF CONTENTS 
+ Special Note Regarding Forward-Looking Statements 
+ 1 
+ Part I FINANCIAL INFORMATION Item 1. Financial Statements 
+ 2 
+ Condensed Consolidated Balance Sheets (unaudited) 
+ 2 
+ Condensed Consolidated Statements of Operations (unaudited) 
+ 3 
+ Condensed Consolidated Statements of Comprehensive Loss (unaudited) 
+ 3 
+ Condensed Consolidated Statements of Shareholders Equity (unaudited) 
+ 4 
+ Condensed Consolidated Statements of Cash Flows (unaudited) 
+ 6 
+ Notes to Condensed Consolidated Financial Statements (unaudited) 
+ 8 
+ Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ 23 
+ Company Overview 
+ 23 
+ Results of Operations 
+ 24 
+ Liquidity and Capital Resources 
+ 31 
+ Significant Accounting Policies and Critical Estimates 
+ 33 
+ Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ 35 
+ Item 4. Controls and Procedures 
+ 35 
+ Part II OTHER INFORMATION Item 1. Legal Proceedings 
+ 37 
+ Item 1A. Risk Factors 
+ 37 
+ Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 38 
+ Item 3. Defaults Upon Senior Securities 
+ 38 
+ Item 4. Mine Safety Disclosures 
+ 38 
+ Item 5. Other Information 
+ 38 
+ Item 6. Exhibits 
+ 38 
+ Signatures 
+ 40 
+
+Special Note Regarding Forward-Looking Statements 
+ 
+ Certain disclosures and analyses in this Form 10-Q, including information incorporated by reference, may include forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended (the Securities Act ), Section 21E of the Securities Exchange Act of 1934, as amended (the Exchange Act ), and the Private Securities Litigation Reform Act of 1995 that are subject to various risks and uncertainties. Opinions, forecasts, projections, guidance, or other statements other than statements of historical fact are considered forward-looking statements and reflect only current views about future events and financial performance. Some of these forward-looking statements include statements regarding: 
+ management s plans and objectives for future operations; 
+ existing cash flows being adequate to fund future operational needs; 
+ future plans related to budgets, future capital requirements, market share growth, and anticipated capital projects and obligations; 
+ the realization of net deferred tax assets; 
+ the ability to curtail operating expenditures; 
+ global statutory tax rates remaining unchanged; 
+ the impact of future market changes due to exposure to foreign currency translations; 
+ the possibility of certain policies, procedures, and internal processes minimizing exposure to market risk; 
+ the impact of new accounting pronouncements on financial condition, results of operations, or cash flows; 
+ the outcome of new or existing litigation matters; 
+ the outcome of new or existing regulatory inquiries or investigations; and 
+ other assumptions described in this report underlying such forward-looking statements. 
+ 
+ Although we believe that the expectations included in these forward-looking statements are reasonable, these forward-looking statements are subject to certain events, risks, assumptions, and uncertainties, including those discussed below, the Risk Factors section in Part I, Item 1A of our Form 10-K for the year ended December 31, 2023, and elsewhere in this Form 10-Q and the documents incorporated by reference herein. If one or more of these risks or uncertainties materialize, or if our underlying assumptions prove to be incorrect, actual results and developments could materially differ from those expressed in or implied by such forward-looking statements. For example, any of the following factors could cause actual results to vary materially from our projections: 
+ overall growth or lack of growth in the nutritional supplements industry; 
+ plans for expected future product development; 
+ changes in manufacturing costs; 
+ shifts in the mix of packs and products; 
+ the future impact of any changes to global associate career and compensation plans or incentives or the regulations governing such plans and incentives; 
+ the ability to attract and retain independent associates and preferred customers; 
+ new regulatory changes that may affect operations, products or compensation plans and incentives; 
+ ability of our outside suppliers and manufacturers to supply products in sufficient quantities and comply with 
+ our product safety and quality standards or applicable law; 
+ the competitive nature of our business with respect to products and pricing; 
+ publicity related to our products or network marketing; and 
+ the political, social and economic climate of the countries in which we operate. 
+ 
+ Forward-looking statements generally can be identified by use of phrases or terminology such as may, will, should, could, would, expects, plans, intends, anticipates, believes, estimates, approximates, predicts, projects, hopes, potential, and continues or other similar words or the negative of such terms and other comparable terminology. Similarly, descriptions of Mannatech s objectives, strategies, plans, goals, or targets contained herein are also considered forward-looking statements. Readers are cautioned when considering these forward-looking statements to keep in mind these risks, assumptions, and uncertainties and any other cautionary statements in this report, as all of the forward-looking statements contained herein speak only as of the date of this report. 
+ 
+ Unless stated otherwise, all financial information throughout this report and in the Condensed Consolidated Financial Statements and related Notes include Mannatech, Incorporated and all of its subsidiaries on a consolidated basis and may be referred to herein as Mannatech, the Company, its, we, us, our, or their. 
+ 
+ Our products are not intended to diagnose, cure, treat, or prevent any disease, and any statements about our products contained in this report have not been evaluated by the Food and Drug Administration, also referred to herein as the FDA . 
+ 1 
+
+PART I FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+ 
+ MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED) 
+ (in thousands, except share and per share amounts) 
+ ASSETS September 30, 2024 (unaudited) December 31, 2023 Cash and cash equivalents Restricted cash Accounts receivable, net of allowance of 932 and 1,278 Income tax receivable Inventories, net Prepaid expenses and other current assets Deferred commissions Total current assets Property and equipment, net Operating lease right-of-use assets Other assets Deferred tax assets, net Long-term restricted cash Total assets LIABILITIES AND SHAREHOLDERS EQUITY Commissions and incentives payable Accrued expenses Deferred revenue Accounts payable Current portion of operating lease liabilities Taxes payable Current notes payable Current portion of finance lease liabilities Total current liabilities Long-term notes payable Operating lease liabilities, excluding current portion Other long-term liabilities Finance lease liabilities, excluding current portion Total liabilities Commitments and contingencies Common stock, 0.0001 par value, 99,000,000 shares authorized, 2,742,857 shares issu ed and 1,884,814 s hares outstanding as of September 30, 2024 and 2,742,857 shares issued and 1,860,154 shares outstanding as of December 31, 2023 
+ Additional paid-in capital Accumulated deficit ) ) Accumulated other comprehensive loss ) ) Treasury stock, at average cost, 858,043 s hares as of September 30, 2024 and 882,703 shares as of December 31, 2023 
+ ) ) Total shareholders equity Total liabilities and shareholders equity 
+ 2 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED) 
+ (in thousands, except per share information) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net sales Cost of sales Gross profit Operating expenses: Commissions and incentives Selling and administrative expenses Total operating expenses Income (loss) from operations ) Interest expense, net ) ) ) ) Other (expense) income, net ) (Loss) income before income taxes ) Income tax benefit (expense) ) ) ) Net (loss) income ) ) (Loss) income per common share: Basic ) ) Diluted ) ) Weighted-average common shares outstanding: Basic Diluted 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE LOSS (UNAUDITED) 
+ (in thousands) 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net (loss) income ) ) Foreign currency translations ) ) ) Comprehensive income (loss) ) ) ) 
+ 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+ 3 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS EQUITY (UNAUDITED) 
+ (amounts in thousands, except share data) Common Stock, 0.0001 par value Number of Shares Amount Additional paid-in capital Accumulated deficit Accumulated other comprehensive loss Treasury stock Total shareholders equity Balance at January 1, 2024 ) ) ) Net income Charge related to stock-based compensation Issuance of unrestricted shares ) Foreign currency translations ) ) Balance at March 31, 2024 ) ) ) Net loss ) ) Charge related to stock-based compensation Foreign currency translations ) ) Balance at June 30, 2024 ) ) ) Net loss ) ) Charge related to stock-based compensation Foreign currency translations Balance at September 30, 2024 ) ) ) 
+ 
+ 4 
+
+Common Stock, 0.0001 par value Number of Shares Amount Additional paid-in capital Retained earnings Accumulated other comprehensive loss Treasury stock Total shareholders equity Balance at January 1, 2023 ) ) Net income Payment of cash dividends ) ) Charge related to stock-based compensation Issuance of unrestricted shares ) Stock option exercises ) Foreign currency translations ) ) Balance at March 31, 2023 ) ) Net loss ) ) Payment of cash dividends ) ) Charge related to stock-based compensation Repurchase of common stock ) ) ) Foreign currency translations ) ) Balance at June 30, 2023 ) ) Net income Charge related to stock-based compensation Repurchase of common stock ) ) ) Foreign currency translations ) ) Balance at September 30, 2023 ) ) 
+ 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+ 5 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED) 
+ (in thousands) 
+ Nine Months Ended September 30, 2024 2023 CASH FLOWS FROM OPERATING ACTIVITIES: Net income (loss) ) Adjustments to reconcile net income (loss) to net cash provided by (used in) operating activities: Depreciation and amortization Non-cash operating lease expense Provision for inventory losses Provision for (reversal of) allowance for credit losses ) Loss on retirement of property and equipment Gain on disposal of subsidiary entity ) Unrealized gain from foreign exchange ) Charge related to stock-based compensation Deferred income taxes ) Changes in operating assets and liabilities: Accounts receivable ) Income tax receivable Inventories ) Prepaid expenses and other current assets Deferred commissions Other assets ) Accounts payable ) ) Accrued expenses ) ) Other long-term liabilities ) ) Taxes payable ) ) Commissions and incentives payable ) Deferred revenue ) ) Net cash provided by (used in) operating activities ) CASH FLOWS FROM INVESTING ACTIVITIES: Acquisition of property and equipment ) ) Cash used in investing activities ) ) CASH FLOWS FROM FINANCING ACTIVITIES: Proceeds from stock options exercised Repurchase of common stock ) Payment of cash dividends ) Proceeds from notes payable Repayment of finance lease obligations and other long-term liabilities ) ) Net cash provided by (used in) financing activities ) Effect of currency exchange rate changes on cash and cash equivalents ) ) Net increase (decrease) in cash, cash equivalents, and restricted cash ) Cash, cash equivalents, and restricted cash at the beginning of the period Cash, cash equivalents, and restricted cash at the end of the period 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+ 
+ 6 
+
+Nine Months Ended September 30, 2024 2023 SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION: Income taxes paid Interest paid on finance leases and other financing arrangements NON-CASH INVESTING AND FINANCING ACTIVITIES Assets acquired through other financing arrangements Operating lease right-of-use assets acquired in exchange for new operating lease liabilities Finance lease right-of-use assets acquired in exchange for new finance lease liabilities 
+ 
+ See accompanying notes to unaudited condensed consolidated financial statements. 
+
+7 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 1: 
+ regions: (i) the Americas (the United States, Canada and Mexico); (ii) EMEA (Austria, the Czech Republic, Denmark, Estonia, Finland, Germany, the Republic of Ireland, Namibia, the Netherlands, Norway, South Africa, Spain, Sweden and the United Kingdom); and (iii) Asia/Pacific (Australia, Japan, New Zealand, the Republic of Korea, Singapore, Thailand, Hong Kong, Taiwan and China). During the second quarter of 2024 the Company liquidated its entity in Sweden, Mannatech Sverige AB. 
+ The Company sells its products principally through network marketing distribution channels via its active associates independent associate or associates or distributors and its preferred customers, Active business building associates and preferred customers purchase the Company s products at published wholesale prices. The Company cannot distinguish products sold for personal use from other sales, when sold to associates, because it is not involved with the products after delivery, other than usual and customary product warranties and returns. Only associates are eligible to earn commissions and incentives. We also ship our products to customers in the following countries: Belgium, France, Greece, Italy, Luxembourg, and Poland. The Company operates a non-direct selling business in mainland China. Our subsidiary in China, Meitai Daily Necessity Health Products Co., Ltd. Meitai ), is operating as a traditional retailer under a cross-border e-commerce model in China. Meitai cannot legally conduct a direct selling business in China unless it acquires a direct selling license in China. 
+ The accompanying unaudited condensed consolidated financial statements have been prepared in accordance with accounting principles generally accepted in the United States of America ("GAAP") for interim financial information and with instructions for Form 10-Q and Article 8-03 of Regulation S-X. Accordingly, the Company s condensed consolidated financial statements and footnotes contained herein do not include all of the information and footnotes required by GAAP to be considered complete financial statements . However, in the opinion of the Company s management, the accompanying unaudited condensed consolidated financial statements and footnotes contain all adjustments, including normal recurring adjustments, considered necessary for a fair presentation of the Company s consolidated financial information as of, and for, the periods presented. The Company cautions that its consolidated results of operations for an interim period are not necessarily indicative of its consolidated results of operations to be expected for its fiscal year. The December 31, 2023 consolidated balance sheet was included in the audited consolidated financial statements in the Company s annual report on Form 10-K for the year ended December 31, 2023 and filed with the United States Securities and Exchange Commission (the SEC on March 28, 2024 (the 2023 Annual Report ), which includes all disclosures required by GAAP. Therefore, these unaudited condensed consolidated financial statements should be read in conjunction with the consolidated financial statements of the Company included in the 2023 Annual Report. 
+
+Significant Accounting Policies 
+ Our significant accounting policies are described in the notes to our consolidated financial statements for the year ended December 31, 2023 included in our 2023 Annual Report. There have been no significant changes in our accounting policies or the application thereof during the first, second and third quarter of 2024. 
+
+8 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+million at September 30, 2024 and million at December 31, 2023. The Company includes in its cash and cash equivalents credit card receivables due from its credit card processor, as the cash proceeds from credit card receivables are received within 24 to 72 hours. At September 30, 2024 and December 31, 2023, credit card receivables were million and million, respectively, and cash and cash equivalents held in bank accounts in foreign countries totaled million and million at September 30, 2024 and December 31, 2023, respectively. The Company invests cash in liquid instruments, such as money market funds and interest-bearing deposits. The Company holds cash in high quality financial institutions and does not believe it has an excessive exposure to credit concentration risk. 
+ million and million at September 30, 2024 and December 31, 2023, respectively. In addition, for the three and nine months ended September 30, 2024 and 2023, a concentrated portion of our operating cash flows were earned from operations within the Republic of Korea. An adverse change in economic conditions within the Republic of Korea could negatively affect the Company s results of operations. 
+ 
+ Restricted Cash 
+ million and million, respectively. 
+ Current restricted cash Long-term restricted cash Cash, cash equivalents, and restricted cash 
+
+In accordance with ASU 2016-13, Financial Instruments - Credit Losses (Topic 326): Measurement of Credit Losses on Financial Instruments ("ASU 2016-13"), the Company assesses collectability by reviewing accounts receivable on a collective basis where similar characteristics exist and on an individual basis when the Company identifies specific customers with known disputes or collectability issues. Expected loss estimates are determined utilizing an aging schedule. In determining the amount of the allowance for credit losses, the Company considers historical collectability based on past due status and makes judgments about the creditworthiness of customers based on ongoing credit evaluations. The Company also considers customer-specific information, current market conditions and reasonable and supportable forecasts of future economic conditions to inform adjustments to historical loss data. 
+ 9 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+million and million, respectively. 
+ September 30, 2024 September 30, 2023 Allowance for credit losses at beginning of period Provision in current period ) Accounts charged off against the allowance ) ) Allowance for credit losses at end of period 
+
+Deposits for building leases Manapol Trademark 
+ 
+ The Company accounts for its investment in Korea Mutual Aid Cooperative Consumer at its initial investment amount, in accordance with ASC 321, Investments - Equity Securities ASC 321 ). This guidance offers an alternative to the requirement of carrying equity interests at fair value as per ASC 820, Fair Value Measurement. The measurement alternative is applicable to certain equity interests without readily determinable fair values that fall within the scope of ASC 321 and are otherwise required to be measured at fair value. The application of this measurement alternative is optional and is applied upon the acquisition of an equity interest. See Note 9, Fair Value , for more information. 
+ 
+ Accrued legal and accounting fees Customer deposits and sales returns Other accrued operating expenses Accrued shipping and handling costs Accrued sales and other taxes Accrued travel expenses related to corporate events Accrued inventory purchases Accrued royalties Accrued rent expense 
+
+Accrued lease restoration costs Defined benefit plan obligation 
+ 
+ million at December 31, 2023, respectively. The Company's remaining performance obligations related to associate fees were million at both September 30, 2024 and December 31, 2023. These amounts are included in Deferred revenue on the accompanying Condensed Consolidated Balance Sheets, respectively. 
+ Orders placed by associates or preferred customers constitute our contracts with customers. Product sales placed in the form of an automatic order contain two performance obligations: (a) the sale of the product and (b) the loyalty program. The Company's customer loyalty program conveys a material right to the customer to redeem loyalty points for the purchase of products. For these contracts, the Company accounts for each of these obligations separately as they are each distinct. The transaction price is allocated between the product sale and the loyalty program on a relative standalone selling price basis. Sales placed through a one-time order contain only the first performance obligation noted above the delivery of the product. Payments are made immediately through credit card upon purchase of the products. 
+ The Company provides associates with access to a complimentary three-month package for the Success Tracker and Mannatech+ online business tools with the first payment of an associate fee. The first payment of an associate fee contains three performance obligations: (a) the associate fee, whereby the Company provides an associate with the right to earn commissions, bonuses and incentives for a year, (b) three months of complimentary access to utilize the Success Tracker online tool and (c) three months of complimentary access to utilize the Mannatech+ online business tool. The transaction price is allocated between the three performance obligations on a relative standalone selling price basis and revenue is recognized over the period that access to the tools is active. Associates do not have complimentary access to online business tools after the first contractual period. 
+ With regard to both of the aforementioned contracts, the Company determines the standalone selling prices by using observable inputs which includes the Company s standard published price lists. 
+ 
+ Deferred Revenue 
+ The Company defers certain components of its revenue. Deferred revenue consisted of: (i) sales of products shipped but not received by customers by the end of the respective period (up to the change in shipping terms with customers); (ii) revenue from the loyalty program; (iii) prepaid registration fees from customers planning to attend a future corporate-sponsored event; and (iv) prepaid annual associate fees. To defer product sales that have not been received by customers, the Company estimates order delivery dates using weighted averages of historical delivery data collected from its freight carriers. 
+ The table below presents the changes to deferred revenue balances (in thousands) . 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Total deferred revenue at beginning of the period Amount recognized as revenue during the period ) ) ) ) New deferrals at the end of the period Total deferred revenue at end of the period 
+ 11 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+million. 
+ Three Months Ended September 30, Nine Months Ended September 30, Loyalty program (in thousands) 
+ 2024 2023 2024 2023 Loyalty deferred revenue at beginning of the period Loyalty points forfeited or expired ) ) ) ) Loyalty points used ) ) ) ) Loyalty points vested Loyalty points unvested Loyalty deferred revenue at end of period 
+ 
+ Deferred Commissions 
+ The Company defers commissions on (i) the sales of products shipped but not received by customers by the end of the respective period (up to the change in shipping terms with the customers) and (ii) the loyalty program. Deferred commissions are incremental costs and are charged to expense when the related revenue is recognized. 
+ The table below illustrates the changes to deferred commission balances (in thousands) . 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Deferred commissions at beginning of the period Amount recognized as commissions expense ) ) ) ) New commission deferrals at the end of the period Total deferred commissions at end of the period 
+ 
+ Sales Refunds and Allowances 
+ The Company utilizes the expected value method, as set forth by Accounting Standard Codification ("ASC") Topic 606 Revenue from Contracts with Customers ("ASC 606"), to estimate the sales returns and allowance liability by taking the weighted average of the sales return rates over a rolling six-month period. The Company allocates the total amount recorded within the sales return and allowance liability as a reduction of the overall transaction price for the Company s product sales. The Company deems the sales refund and allowance liability to be a variable consideration. 
+ Historically, sales returns have not materially changed through the years, as the majority of our customers who return their merchandise do so within the first 90 days after the original sale. Sales returns have historically averaged 0.5 or less of our gross sales. 
+ As of each of the periods shown below 
+ Provision in current period Returns charged off against the reserve ) ) Sales reserve at end of period 
+ 12 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+Accounting Pronouncements Issued but Not Yet Effective 
+ In November 2023, the Financial Accounting Standards Board ("FASB") issued ASU 2023-07, Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures, which improves reportable segment disclosure requirements, primarily through enhanced disclosures about significant segment expenses. ASU 2023-07 is effective for annual reporting periods beginning after December 15, 2023 and interim reporting periods beginning after December 15, 2024, with early adoption permitted. The Company is currently evaluating the impact of implementing this guidance but does not expect adoption to have a material impact on its consolidated financial statements. 
+ In December 2023, the FASB issued ASU 2023-09, Income Taxes (Topic 740): Improvements to Income Tax Disclosures, which enhances the transparency and decision usefulness of income tax disclosures. The amendments in ASU 2023-09 are effective for annual periods beginning after December 15, 2024, with early adoption permitted. The Company is currently evaluating the impact of implementing this guidance on its consolidated financial statements. 
+ Other recently issued accounting pronouncements did not or are not believed by management to have a material impact on the Company s present or future financial statements. 
+ 
+ million at each of September 30, 2024 and December 31, 2023. 
+ 
+ Finished goods Total 
+
+NOTE 3: 
+ and , respectively. For the three and nine months ended September 30, 2023, the Company s effective tax rate was and , respectively. For the three and nine months ended September 30, 2024 and 2023, the Company's effective tax rate was determined based on the estimated annual effective income tax rate. The effective tax rate for the three and nine months ended September 30, 2024 and September 30, 2023, was different from the federal statutory rate due to the mix of earnings across jurisdictions and the associated valuation allowances recorded on losses in certain jurisdictions. 
+ 
+ 13 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 4: 
+ million and million as of September 30, 2024 and December 31, 2023, respectively. 
+ The current portion was million at each of September 30, 2024 and December 31, 2023, as a result of insurance financing arrangements. The notes are fully amortizing and payments are made monthly, according to the terms of the agreements which have a weighted average effective interest rate of . 
+ The long-term portion of notes payable relates to three unsecured notes, described below. The long-term portion of notes payable was million as of September 30, 2024. There were no unsecured notes at December 31, 2023. 
+ On April 23, 2024, the Company issued an unsecured note payable to Jade Capital in the amount of million. The note bears interest at 16 per annum and requires quarterly interest payments beginning June 30, 2024. The note is due in full on September 30, 2026. The Company has the right to prepay all or a portion of the Promissory Note at any time without premium or penalty. Tyler Rameson is an independent member of Mannatech's Board of Directors, and is the managing member of Jade Capital. As of September 30, 2024, there was no current portion and the long-term portion of the balance was 2.5 million. 
+ On April 23, 2024, the Company issued an unsecured note payable to J. Stanley Fredrick in the amount of million. The note bears interest at 16 per annum and requires quarterly interest payments beginning June 30, 2024. The note is due in full on September 30, 2026. The Company has the right to prepay all or a portion of the Promissory Note at any time without premium or penalty. Mr. Fredrick is the Chairman of Mannatech's Board of Directors. As of September 30, 2024, there was no current portion and the long-term portion of the balance was 1.0 million. 
+ On April 23, 2024, the Company issued an unsecured note payable to Kevin Robbins in the amount of million. The note bears interest at 16 per annum and requires quarterly interest payments beginning June 30, 2024. The note is due in full on September 30, 2026. The Company has the right to prepay all or a portion of the Promissory Note at any time without premium or penalty. Mr. Robbins is a member of Mannatech's Board of Directors. As of September 30, 2024, there was no current portion and the long-term portion of the balance was 0.1 million. 
+ As of September 30, 2024, the Company's future principal payments on notes payable were as follows (in thousands): 
+ Principal Payments Remaining 2024 2025 2026 Thereafter Total Insurance Financing Notes 124 84 208 Jade Capital Note 2,500 2,500 J.S. Fredrick Note 1,000 1,000 K. Robbins Note 100 100 Total 
+
+NOTE 5: 
+ shares of our common stock that may be issued under the 2017 Plan (subject to adjustments for stock splits, stock dividends or other changes in corporate capitalization). As of September 30, 2024, the Company had a total of shares available for grant under the 2017 Plan, which expires on April 16, 2027. 
+ The 2017 Plan provides for grants of incentive stock options, nonqualified stock options, stock appreciation rights, restricted stock, restricted stock units, performance stock and performance stock units to our employees, board members, and consultants. However, only employees of the Company and its corporate subsidiaries are eligible to receive incentive stock options. The exercise price per share for all stock options will be no less than the market value of a share of common stock on the date of grant. Any incentive stock option granted to an employee owning more than of our common stock will have an exercise price of no less than of our common stock s market value on the grant date. 
+ The majority of stock options vest over two or three years, and generally are granted with a term of ten years, or five years in the case of an incentive option granted to an employee who owns more than of our common stock. 
+ The Company is required to measure and recognize compensation expense related to any outstanding and unvested stock options in its consolidated financial statements using a fair-value based option-pricing model. The Company records stock-based compensation expense related to granting stock options in selling and administrative expenses. The fair value of the stock option award is calculated using the Black-Scholes option-pricing model. The Black-Scholes option-pricing model 
+ 14 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+Assumptions: Annualized dividend yield Risk-free rate of return 4.4 4.5 Common stock price volatility 69.6 70.2 Expected average life of stock options (in years) 4.5 4.5 
+ 
+ The computation of the expected volatility assumption used in the Black-Scholes calculations for new grants is based on historical volatility of the Company s stock. The expected life assumptions are based on the Company s historical employee exercise and forfeiture behavior. 
+ 
+ During the nine months ended September 30, 2024 and 2023, the Company granted and stock options, respectively. The weighted average fair value of stock options granted during the nine months ended September 30, 2024 and 2023 was approximately and per share, respectively. 
+ 
+ Stock Grants 
+ On March 11, 2024, the Company issued a grant of 8,187 restricted stock units of our common stock to our Chief Executive Officer. Under the terms of the stock grant, the grant is available for 18 months and will not vest until Mannatech's stock price averages 15.00 per share (i.e., the volume weighted price) for 60 consecutive days. If the contingency is not met within the 18-month period, the grant will lapse and will not be awarded. 
+ The Company is required to measure and recognize compensation expense related to the grant in its consolidated financial statements using a fair-value based model. The Company has determined the fair value of the grant is million. Accordingly, the company has recognized compensation expense related to the grant of 10 thousand and 23 thousand for the three and nine months ended September 30, 2024, respectively. 
+ Total tax benefit associated with compensation expense Total net compensation expense 
+
+Equity-Based Compensation to Directors 
+ At the discretion of the Board, each director may receive a portion of their fees payable in stock grants in lieu of cash compensation. For the nine months ending September 30, 2024 and 2023, the Company issued a total of and treasury stock to the members of the Board as a part of their compensation, respectively. The stock grants to the Board were vested upon grant and the Company recognized 0.2 million compensation expense for each of the nine months ending September 30, 2024 and 2023. 
+ 15 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 6: 
+ and shares of its outstanding common stock, respectively. 
+ As of September 30, 2024 and December 31, 2023 , the Company had and treasury s hares, respectively. 
+ 
+ Accumulated Other Comprehensive Loss 
+ Accumulated other comprehensive loss displayed in the Condensed Consolidated Statement of Shareholders Equity represents the results of certain shareholders equity changes not reflected in the Condensed Consolidated Statements of Operations, such as foreign currency translation and certain pension and post-retirement benefit obligations.) ) Current-period change (1) 
+ ) ) Balance as of September 30, 2024 ) ) 
+ (1) No material amounts were reclassified from accumulated other comprehensive loss. 
+ 
+ Dividends 
+ per share to holders of our Common Stock in the amount of million. 
+
+NOTE 7: 
+
+16 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 8: 
+ million and million income from the sublease, respectively. For the three and nine months ended September 30, 2023, the Company had earned less than million and million income from the sublease, respectively. 
+ As of September 30, 2024, the Company had net operating lease right-of-use assets of million and net finance lease right-of-use assets of million. At September 30, 2024, our operating lease liabilities were million and our finance lease liabilities were million. 
+ The weighted-average remaining lease term and discount rate related to the Company s operating lease liabilities as of September 30, 2024 were years and , respectively. The weighted-average remaining lease term and discount rate related to the Company s finance lease liabilities as of September 30, 2024 were years and , respectively. The Company uses the discount rates implicit in each lease, or an estimate of the Company's incremental borrowing rate if the rate implicit in a lease cannot be readily determined. 
+ As of September 30, 2024 and December 31, 2023 our right-of-use assets and lease liabilities balances, net of accumulated amortization, were as follows (in thousands) : 
+ Leases Classification September 30, 2024 December 31, 2023 Right-of-use assets Operating leases Operating lease right-of-use assets Finance leases Property and equipment, net Total right-of-use assets Current portion of lease liabilities Operating leases Current portion of operating leases Finance leases Current portion of finance leases Long-term portion of lease liabilities Operating leases Operating lease liabilities Finance leases Finance leases, excluding current portion Total lease liabilities 
+ 
+ 17 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+) 2025 ) 2026 ) 2027 ) 2028 ) Total minimum lease payments ) Imputed interest ) ) Present value of minimum lease payments ) 
+ 
+ 18 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 9: 
+ Interest bearing deposits various banks Total assets Amounts included in Assets: Cash and cash equivalents Restricted cash Long-term restricted cash Total Liabilities Unsecured notes payable Total Liabilities 
+ 
+ 19 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+Interest bearing deposits various banks Total assets Amounts included in Assets: Cash and cash equivalents Restricted cash Long-term restricted cash Total 
+ 20 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 10: 
+ markets. The products are primarily sold through a network marketing distribution channel of approximately active associates and preferred customer positions who we refer to as current associates and preferred customers. The Company's subsidiary in China, Meitai, is currently operating as a traditional retailer under a cross-border e-commerce model. Meitai cannot legally conduct a direct selling business in China unless it acquires a direct selling license in China. The Company's subsidiary, NEMO, operates an affiliate business model under the brand name, Trulu, in the United States. Each of our subsidiaries sells similar products and exhibits similar economic characteristics, such as selling prices, paying commissions and incentives, gross margins and operating characteristics. 
+ Management reviews and analyzes net sales by geographical location and by products and packs on a consolidated basis. The Company currently sells its products in three regions: (i) the Americas (the United States, Canada and Mexico); (ii) Europe/the Middle East/Africa EMEA (Austria, the Czech Republic, Denmark, Estonia, Finland, Germany, the Republic of Ireland, Namibia, the Netherlands, Norway, South Africa, Spain, Sweden and the United Kingdom); and (iii) Asia/Pacific (Australia, Japan, New Zealand, the Republic of Korea, Singapore, Hong Kong, Taiwan and China). It also ships products to customers in the following countries: Belgium, France, Greece, Italy, Luxembourg, and Poland. 
+ Asia/Pacific EMEA Total sales 
+ Pack sales Other Total sales 
+ 
+ Asia/Pacific EMEA Total long-lived assets 
+ Asia/Pacific EMEA Total inventory 
+ 
+ 21 
+
+MANNATECH, INCORPORATED AND SUBSIDIARIES 
+ NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 11: 
+ and per share, respectively. 
+ For the three months ended September 30, 2024, the Company's common stock subject to options were excluded from the diluted EPS calculation as their effect would have been antidilutive. The company reported a net loss for the three months ended September 30, 2024. 
+ For the nine months ended September 30, 2024, there were million weighted-average common shares outstanding used for the basic EPS calculation. For the nine months ended September 30, 2024, shares granted (see Note 5, Stock Based Compensation, for more information). These shares were excluded from the calculation of diluted EPS because the related market condition was not achieved. In addition, shares underlying stock options were excluded from the diluted EPS calculation, as their effect would have been antidilutive. 
+ In determining the potential dilutive effect of outstanding stock options for the three and nine months ended September 30, 2023, the Company used the quarterly and nine-month average common stock close price of and per share, respectively. 
+ For the three months ended September 30, 2023, there were million weighted-average common shares outstanding used for the basic EPS calculation. For the three months ended September 30, 2023, approximately million shares were excluded from the diluted EPS calculation as their effect would have been antidilutive. The company reported a net loss for the nine months ended September 30, 2023. 
+ Calculation of net EPS basic and diluted in thousands, except EPS ): 
+ Three Months Ended September 30, Nine Months Ended September 30, 2024 2023 2024 2023 Net earnings attributable to common stockholders ) ) Weighted average common shares outstanding (for basic calculation) Dilutive effect of outstanding common stock options and RSU s Weighted average common and common equivalent shares outstanding EPS - Basic ) ) EPS - Diluted ) ) 
+ 22 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+ The following discussion is intended to assist in the understanding of our consolidated financial position and results of operations for the three and nine months ended September 30, 2024 as compared to the same period in 2023 and should be read in conjunction with Item 1 Financial Statements in Part I of this quarterly report on Form 10-Q and Item 1A Risk Factors in Part I of our 2023 Annual Report. Unless stated otherwise, all financial information presented below, throughout this report, and in the condensed consolidated financial statements and related notes includes Mannatech and all of our subsidiaries on a consolidated basis. To supplement our financial results presented in accordance with GAAP, we disclose certain adjusted financial measures which we refer to as Constant dollar Constant dollar measures, which are non-GAAP financial measures. Refer to the Non-GAAP Financial Measures section herein for a description of how such Constant dollar measures are determined. 
+ 
+ COMPANY OVERVIEW 
+ The Company is a global wellness solution provider, which was incorporated and began operations in November 1993. We develop and sell innovative, high quality, proprietary nutritional supplements, topical and skin care and anti-aging products, and weight-management products that target optimal health and wellness. We currently sell our products in twenty-five countries which we group into three regions: (i) the Americas (the United States, Canada and Mexico); (ii) Europe/the Middle East/Africa EMEA (Austria, the Czech Republic, Denmark, Estonia, Finland, Germany, the Republic of Ireland, Namibia, the Netherlands, Norway, South Africa, Spain, Sweden and the United Kingdom); and (iii) Asia/Pacific (Australia, Japan, New Zealand, the Republic of Korea, Singapore, Thailand, Hong Kong, Taiwan and China). We also ship our products to customers in the following countries: Belgium, France, Greece, Italy, Luxembourg, and Poland. During the second quarter of 2024 the Company liquidated its entity in Sweden, Mannatech Sverige AB. 
+ We conduct our business as a single operating segment and primarily sell our products through a network of approximately 136,000 active associates and preferred customer positions held by individuals that purchased our products and/or packs or paid associate fees during the last twelve months, who we refer to as current associates and preferred customers . New pack sales and the receipt of new associate fees in connection with new positions in our network are leading indicators for the long-term success of our business. New associate or preferred customer positions are created in our network when our associate fees are paid, or packs and products are purchased for the first time under a new account. We review and analyze net sales by geographical location and by packs and products on a consolidated basis. Each of our subsidiaries sells similar products and exhibits similar economic characteristics, such as selling prices and gross margins. 
+ Because we sell our products principally through network marketing distribution channels, the opportunities and challenges that affect us most are: recruitment of new and retention of current associates and preferred customers that occupy sales or purchasing positions in our network; entry into new markets and growth of existing markets; niche market development; new product introduction; and investment in our infrastructure. Our subsidiary in China, Meitai, is currently operating as a traditional retailer under a cross-border e-commerce model. Meitai cannot legally conduct a direct selling business in China unless it acquires a direct selling license in China. 
+ The Company maintains a corporate website at www.mannatech.com. 
+ Overview of Operating Results 
+ Consolidated net sales for the three months ended September 30, 2024 was 31.7 million, as compared to 32.6 million for the three months ended September 30, 2023, a decrease of 0.9 million, or 2.5 . Consolidated net sales for the nine months ended September 30, 2024 was 88.9 million, as compared to 99.3 million for the nine months ended September 30, 2023, a decrease of 10.4 million, or 10.5 . The decline in revenues was principally due to slowing demand in Asia due to weakened economic conditions, relative to the prior year. 
+ The decrease in revenue during the nine months ended September 30, 2024 was accompanied by a 2.2 decrease in gross profit margins, primarily due to increases in product costs and 0.6 million of inventory markdowns. To mitigate the impacts to profitability, management continued to prioritize the reduction of selling and administrative expenses, which yielded a 4.3 million reduction in payroll costs and 1.5 million reduction in consulting and professional services costs, compared with the nine months ended September 30, 2023. 
+ Net realized and unrealized foreign currency loss for the quarter ended September 30, 2024 was 1.5 million, primarily related to the effects of translation of the Company's balance sheet as the U.S. Dollar strengthened relative to other currencies. The quarter ended September 30, 2023 resulted in a foreign exchange gain of 0.3 million. 
+ Net realized and unrealized foreign currency gains for the nine months ended September 30, 2024 and September 30, 2023 were 0.5 million and 0.8 million, respectively. These were primarily related to the effects of translation gains and losses on the Company's balance sheet as the U.S. Dollar strengthened relative to other currencies. Foreign currency gains also included a one-time gain of 0.2 million during the quarter ended September 30, 2024 attributable to the liquidation of the Company s entity in Sweden. 
+ Net loss was 0.3 million for the three months ended September 30, 2024, or 0.17 per diluted share, as compared to net income of 18,000, or 0.01 per diluted share for the three months ended September 30, 2023. 
+ Net income was 0.2 million for the nine months ended September 30, 2024, or 0.12 per diluted share, as compared to a net loss of 0.5 million , or 0.26 per diluted share for the nine months ended September 30, 2023. 
+ 23 
+
+RESULTS OF OPERATIONS 
+ Three Months Ended September 30, 2024 Compared to Three Months Ended September 30, 2023 
+ The table below summarizes our consolidated operating results in dollars and as a percentage of net sales for the three months ended September 30, 2024 and 2023 (in thousands, except percentages): 
+ 2024 2023 Change from 2023 to 2024 Total dollars of net sales Total dollars of net sales Dollar Percentage Net sales 31,725 100.0 32,553 100.0 (828) (2.5) Cost of sales 8,105 25.5 6,625 20.4 1,480 22.3 Gross profit 23,620 74.5 25,928 79.6 (2,308) (8.9) Operating expenses: Commissions and incentives 12,893 40.6 13,178 40.5 (285) (2.2) Selling and administrative expenses 9,840 31.0 12,578 38.6 (2,738) (21.8) Total operating expenses 22,733 71.7 25,756 79.1 (3,023) (11.7) Income from operations 887 2.8 172 0.5 715 415.7 Interest expense, net (109) (0.3) (17) (0.1) (92) 541.2 Other (expense) income, net (1,495) (4.7) 320 1.0 (1,815) (567.2) (Loss) income before income taxes (717) (2.3) 475 1.5 (1,192) (250.9) Income tax benefit (expense) 389 1.2 (457) (1.4) 846 (185.1) Net (loss) income (328) (1.0) 18 0.1 (346) (1,922.2) 
+ 
+ Nine Months Ended September 30, 2024 Compared to Nine Months Ended September 30, 2023 
+ 
+ The table below summarizes our consolidated operating results in dollars and as a percentage of net sales for the nine months ended September 30, 2024 and 2023 (in thousands, except percentages): 
+ 
+ 2024 2023 Change from 2022 to 2023 Total dollars of net sales Total dollars of net sales Dollar Percentage Net sales 88,858 100.0 99,261 100.0 (10,403) (10.5) Cost of sales 20,763 23.4 21,042 21.2 (279) (1.3) Gross profit 68,095 76.6 78,219 78.8 (10,124) (12.9) Operating expenses: Commissions and incentives 36,237 40.8 40,200 40.5 (3,963) (9.9) Selling and administrative expenses 31,293 35.2 38,088 38.4 (6,795) (17.8) Total operating expenses 67,530 76.0 78,288 78.9 (10,758) (13.7) Income (loss) from operations 565 0.6 (69) (0.1) 634 (918.8) Interest expense, net (196) (0.2) (3) (193) 6,433.3 Other income, net 495 0.6 803 0.8 (308) (38.4) Income before income taxes 864 1.0 731 0.7 133 18.2 Income tax provision (636) (0.7) (1,214) (1.2) 578 (47.6) Net income (loss) 228 0.3 (483) (0.5) 711 (147.2) 
+ 24 
+
+Non-GAAP Financial Measures 
+ To supplement our financial results presented in accordance with GAAP, we disclose operating results that have been adjusted to exclude the impact of changes due to the translation of foreign currencies into U.S. dollars, including changes in: Net Sales, Gross Profit, and Income from Operations. We refer to these adjusted financial measures as Constant dollar items, which are non-GAAP financial measures. We believe these measures provide investors an additional perspective on trends and our operating results. To exclude the impact of changes due to the translation of foreign currencies into U.S. dollars in the current year, we calculate current year results at a constant exchange rate utilizing the prior year s rate. Currency impact is determined as the difference between the actual GAAP results and the recalculated results for the current year at the Constant dollar rates. 
+ For the three and nine months ended September 30, 2024, our net sales decreased 0.4 million and 8.5 million, or 1.2 and 8.6 on a Constant dollar basis, respectively (see reconciliation of Non-GAAP Financial Measures in the tables below); and unfavorable foreign exchange caused a 0.5 million and 1.9 million decrease in GAAP net sales as compared to the same periods in 2023, respectively. 
+ A reconciliation non-GAAP financial measures to GAAP results for the three and nine months ended September 30, 2024 and 2023 is presented as follows (in millions, except percentages) : 
+ Three-month period ended September 30, 2024 September 30, 2023 Constant Change 
+ GAAP Measure: Total Translation Adjustment Non-GAAP Measure: Constant GAAP Measure: Total Dollar Percent Net sales 31.7 0.5 32.2 32.6 (0.4) (1.2) Gross profit 23.6 0.4 24.0 25.9 (1.9) (7.3) Income from operations 0.9 0.1 1.0 0.2 0.8 400.0 
+ Nine-month period ended September 30, 2024 September 30, 2023 Constant Change GAAP Measure: Total Translation Adjustment Non-GAAP Measure: Constant GAAP Measure: Total Dollar Percent Net sales 88.9 1.9 90.8 99.3 (8.5) (8.6) Gross profit 68.1 1.5 69.6 78.2 (8.6) (11.0) Income (loss) from operations 0.6 0.5 1.1 (0.1) 1.2 (1,200.0) 
+ 
+ Net Sales by Region 
+ Operations outside of the Americas accounted for approximately 66.6 of our consolidated net sales in the three months ended September 30, 2024, as compared to 67.2 in the same period last year. Our operations outside of the Americas accounted for approximately 65.8 of our consolidated net sales in the nine months ended September 30, 2024, as compared to 68.0 in the same period last year. 
+ Consolidated net sales by region for the three months ended September 30, 2024 and 2023 were as follows (in millions, except percentages) : 
+ Region Three Months Ended September 30, 2024 Three Months Ended September 30, 2023 Americas 10.6 33.4 10.7 32.8 Asia/Pacific 18.6 58.7 19.6 60.1 EMEA 2.5 7.9 2.3 7.1 Total 31.7 100.0 32.6 100.0 
+ 25 
+
+Consolidated net sales by region for the nine months ended September 30, 2024 and 2023 were as follows (in millions, except percentages) : 
+ Region Nine Months Ended September 30, 2024 Nine Months Ended September 30, 2023 Americas 30.4 34.2 31.8 32.0 Asia/Pacific 51.6 58.0 60.0 60.4 EMEA 6.9 7.8 7.5 7.6 Total 88.9 100.0 99.3 100.0 
+ 
+ For the three months ended September 30, 2024, net sales in the Americas decreased by 0.1 million, or 0.9 , to 10.6 million, as compared to 10.7 million for the same period in 2023. The number of active independent associates and preferred customers decreased by 3.7 , which was partially offset by a 2.9 increase in revenue per active independent associate and preferred customer. Foreign currency had the effect of decreasing revenue by 0.2 million f or the three months ended September 30, 2024 when compared to the same period in 2023. T he currency impact is primarily due to the weakening of the Mexican Peso. 
+ For the nine months ended September 30, 2024, net sales in the Americas decreased by 1.4 million, or 4.4 , to 30.4 million, as compared to 31.8 million for the same period in 2023. R evenue per active independent associate and preferred customer decreased 0.7 , which was partially offset by a 0.5 increase in number of active independent associates and preferred customers. Foreign currency had no effect on revenue in the Americas for the nine months ended September 30, 2024, as compared to the same period in 2023. 
+ For the three months ended September 30, 2024, Asia/Pacific net sales decreased by 1.0 million, or 5.1 , to 18.6 million, as compared to 19.6 million for the same period in 2023 . T he number of active independent associates and preferred customers decreased by 9.2 , which was partially offset by a 4.5 increase in r evenue per active independent associate and preferred custom er. Foreign currency exchange had the effect of decreasing revenue by 0.4 million for the three months ended September 30, 2024, as compared to the same period in 2023. The currency impact is primarily due to the weakening of the Korean Won. 
+ For the nine months ended September 30, 2024, Asia/Pacific net sales decreased by 8.4 million, or 14 , to 51.6 million, as compared to 60.0 million for the same period in 2023 . A challenging economic environment in Korea led to a 5.3 decrease in r evenue per active independent associate and preferred customer , which was partially offset by a 1.5 increase in the number of active independent associates and preferred customers. Foreign currency exchange had the effect of decreasing revenue by 2.0 million for the nine months ended September 30, 2024, as compared to the same period in 2023. The currency impact is primarily due to the weakening of the Korean Won and Japanese Yen. 
+ For the three months ended September 30, 2024, EMEA net sales increased by 0.2 million, or 8.7 , to 2.5 million, as compared to 2.3 million for the same period in 2023. The increase was primarily due to a 16.2 increase in revenue per active independent associate and preferred customer, which was partially offset by a 6.4 decrease in the number of active independent associates and preferred customers. Foreign currency exchange had the effect of in creasing revenue by 0.1 million for the three months ended September 30, 2024 as compared to the same period in 2023. The currency impact is primarily due to the weakening of the South African Rand. 
+ For the nine months ended September 30, 2024, EMEA net sales decreased by 0.6 million, or 8 , to 6.9 million, as compared to 7.5 million for the same period in 2023. The decrease was primarily due to a 10.6 decrease in the number of active independent associates and preferred customers and a 1.7 decrease i n revenue per active independent associate and preferred customer. Foreign currency exchange had a minimal effect on revenue for the three months ended September 30, 2024 as compared to the same period in 2023. 
+ 
+ Sales Mix 
+ Our sales mix for the three and nine months ended September 30, was as follows (in millions, except percentages): 
+ Three-month period ended September 30, 2024 September 30, 2023 Constant Change GAAP Measure: Total Translation Adjustment Non-GAAP Measure: Constant GAAP Measure: Total Dollar Percent Product 30.1 0.4 30.5 31.0 (0.5) (1.6) Pack sales and associate fees 1.3 1.3 1.2 0.1 8.3 Other 0.3 0.1 0.4 0.4 Total 31.7 0.5 32.2 32.6 (0.4) (1.2) 
+ 26 
+
+Nine-month period ended September 30, 2024 September 30, 2023 Constant Change GAAP Measure: Total Translation Adjustment Non-GAAP Measure: Constant GAAP Measure: Total Dollar Percent Product 84.3 1.8 86.1 93.9 (7.8) (8.3) Pack sales and associate fees 3.4 0.1 3.5 4.7 (1.2) (25.5) Other 1.2 1.2 0.7 0.5 71.4 Total 88.9 1.9 90.8 99.3 (8.5) (8.6) 
+ 
+ Product Sales 
+ Our product sales consist primarily of sales made to our independent associates and preferred customers at published wholesale prices. Product sales for the three months ended September 30, 2024 decreased by 0.9 million, or 2.9 , as compared to the same period in 2023. On a Constant dollar basis, product sales for the three months ended September 30, 2024 decreased 0.5 million, or 1.6 , as compared to the same period in 2023. The decrease in product sales for the three months ended September 30, 2024 reflects a 6.4 decrease in the number of orders processed and a decrease in the average order value to 178, as compared to 177 for the same period in 2023. 
+ The Company experienced supply chain issues with some products during 2024, which led to stock outs of certain products and affected the timing of certain key product promotions during the year. Product sales for the nine months ended September 30, 2024 decreased by 9.6 million, or 10.2 , as compared to the same period in 2023. On a Constant dollar basis, product sales for the nine months ended September 30, 2024 declined 7.8 million, or 8.3 , as compared to the same period in 2023. The decrease in product sales for the nine months ended September 30, 2024 reflects a 7.2 decrease in the number of orders processed and a decrease in the average order value to 171, as compared to 178 for the same period in 2023. 
+ 
+ Pack sales, Associate Fees and Recruiting 
+ Recruitment of new independent associates and preferred customers decreased by 28.1 to 16,741 in the third quarter of 2024, as compared with 23,296 in the third quarter of 2023. We attribute the lower number of orders processed in the three months ended September 30, 2024 to a combination of the lower number of new independent associates and preferred customers recruited during the period. 
+ Pack sales and associate fees are closely related to recruiting and retention of business-building associates. The approximate number of new and continuing active independent associates and preferred customers who purchased our packs or products or paid associate fees during the twelve months ended September 30, 2024 and 2023 were as follows: 
+ 2024 2023 New 68,000 50.0 78,000 53.4 Continuing 68,000 50.0 68,000 46.6 Total 136,000 100.0 146,000 100.0 
+ 
+ The Company collects associate fees in lieu of selling packs in certain markets. Associate fees are paid annually by new and continuing associates to the Company, which entitle them to earn commissions, benefits and incentives for that year. The Company collected associate fees in lieu of pack sales within the United States, Canada, South Africa, Austria, the Czech Republic, Denmark, Estonia, Finland, Germany, the Republic of Ireland, the Netherlands, Norway, Spain, Sweden the United Kingdom. Japan, Australia, New Zealand, Singapore, Hong Kong, and Taiwan. 
+ In the Republic of Korea and Mexico, packs may still be purchased by our associates who wish to build a Mannatech business. These packs contain products that are discounted from both the published retail and associate prices. There are several pack options available to our associates. In certain of these markets, pack sales are completed during the final stages of the registration process and can provide new associates with valuable training and promotional materials, as well as products for resale to retail customers, demonstration purposes, and personal consumption. Business-building associates in these markets can also purchase an upgrade pack, which provides the associate with additional promotional materials. The decline in pack sales occurred principally in Korea. 
+ We do not collect associate fees or sell packs in our non-direct selling business in mainland China. 
+
+27 
+
+Other Sales 
+ Other sales consisted of: (i) sales of promotional materials; (ii) monthly fees collected for the Success Tracker and Mannatech+ customized electronic business-building and educational materials, databases and applications; (iii) training and event registration fees; and (iv) a reserve for estimated sales refunds and returns. Promotional materials, training, database applications and business management tools support our independent associates, which in turn helps stimulate product sales. 
+ For the three months ended September 30, 2024 and 2023, other sales were 0.3 million and 0.4 million, respectively. 
+ For the nine months ended September 30, 2024 and 2023, other sales were 1.2 million and 0.7 million, respectively. 
+ 
+ Gross Profit 
+ For the three months ended September 30, 2024, gross profit decreased by 2.3 million, or 8.9 , to 23.6 million, as compared to 25.9 million for the same period in 2023. For the three months ended September 30, 2024, gross profit as a percentage of net sales decreased to 74.5 , as compared to 79.6 for the same period in 2023. The decrease in gross profit in dollar terms is principally due to increased product costs, including inventory markdowns, and increased freight costs. The timing of certain sales promotions also reduced gross profit as a percentage of net sales during the quarter, compared with the same period in 2023. 
+ For the nine months ended September 30, 2024, gross profit decreased by 10.1 million, or 12.9 , to 68.1 million, as compared to 78.2 million for the same period in 2023. The decrease in gross profit in dollar terms is principally due to increased costs related to supply chain challenges, including increased product costs and increased freight costs. For the nine months ended September 30, 2024, gross profit as a percentage of net sales decreased to 76.6 , as compared to 78.8 for the same period in 2023. 
+ 
+ Commissions and Incentives 
+ Commission expense for the three months ended September 30, 2024 decreased by 2.0 , or 0.2 million, to 12.2 million, as compared to 12.4 million for the same period in 2023. Commissions are earned on sales. Commission expense in dollar terms decreased during the three months ended September 30, 2024 primarily due to a decline in our sales. For the three months ended September 30, 2024, commissions as a percentage of net sales remained constant at 38.3 . 
+ Commission expense for the nine months ended September 30, 2024 decreased by 9.2 , or 3.5 million, to 34.5 million, as compared to 38.0 million for the same period in 2023. Commissions are earned on sales. Commission expense in dollar terms decreased during the nine months ended September 30, 2024 primarily due to a decline in our sales. For the nine months ended September 30, 2024, commissions as a percentage of net sales increased to 38.8 from 38.3 for the same period in 2023. 
+ Incentive costs for the three months ended September 30, 2024 and 2023 remained constant at 0.7 million. For the three months ended September 30, 2024, incentives as a percentage of net sales remained constant at 2.3 . 
+ Incentive costs for the nine months ended September 30, 2024 decreased to 1.8 million, as compared to 2.2 million for the same period in 2023 . For the nine months ended September 30, 2024, incentives as a percentage of net sales decreased to 2.0 from 2.2 for the same period in 2023. The decrease was related to travel incentives in the Americas and Asia/Pacific. 
+ 
+ 28 
+
+Selling and Administrative Expenses 
+ Selling and administrative expenses include a combination of both fixed and variable expenses. These expenses consist of compensation and benefits for employees; temporary and contract labor; accounting, legal and consulting fees; compensation to our board of directors; warehouse and fulfillment costs; depreciation and amortization; marketing-related expenses; travel and entertainment expenses; credit card processing fees; costs for software maintenance agreements; insurance; charitable contributions; office lease expense; utilities; bad debt; and other miscellaneous operating expenses. 
+ For the three months ended September 30, 2024, selling and administrative expenses decreased by 2.8 million, or 21.8 , to 9.8 million, as compared to 12.6 million for the same period in 2023. The decrease in selling and administrative expenses was the result of a 0.9 million reduction in payroll costs, a 0.6 million decrease in marketing costs, a 0.6 million decrease to bad debt, a 0.3 million decrease in professional and consulting fees, a 0.2 million decrease in office expenses, 0.1 million decrease in depreciation expense and a 0.1 million decrease in travel and entertainment costs. Selling and administrative expenses, as a percentage of net sales, for the three months ended September 30, 2024 decreased to 31.0 from 38.6 for the same period in 2023. 
+ For the nine months ended September 30, 2024, selling and administrative expenses decreased by 6.8 million, or 17.8 , to 31.3 million, as compared to 38.1 million for the same period in 2023. The decrease in selling and administrative expenses was the result of judicious cost reductions, including a 2.3 million decrease in payroll costs, a 1.7 million decrease in professional and consulting fees, a 0.9 million decrease in marketing costs, a 0.6 million decrease to bad debt, a 0.5 million decrease in costs of office space, a 0.4 million decrease in travel and entertainment costs, a 0.2 million decrease in contract labor costs and a 0.2 million decrease in credit card fees. Selling and administrative expenses, as a percentage of net sales, for the nine months ended September 30, 2024 decreased to 35.2 from 38.4 for the same period in 2023. 
+
+Other Income (Expense), Net 
+ Foreign exchange losses were 1.5 million for the three months ended September 30, 2024. Foreign exchange gains were 0.3 million for the three months ended September 30, 2023. 
+ Foreign exchange gains were 0.5 million and 0.8 million for the nine months ended September 30, 2024 and 2023, respectively. 
+ 
+ Income Tax (Provision) Benefit 
+ Income tax benefit was 0.4 million for the three months ended September 30, 2024 as compared to income tax expense of 0.5 million in the same period last year. 
+ Income tax (provision) or benefit includes current and deferred income taxes for both our domestic and foreign operations. Our statutory income tax rates for key jurisdictions are as follows, for the nine months ended September 30: 
+ Country 2024 2023 China (1) 
+ 25.0 25.0 Hong Kong 16.5 16.5 Japan 34.6 34.6 Republic of Korea 20.9 20.9 United States (2) 
+ 22.2 22.2 
+ (1) For 2024, the Company qualified for a reduced tax rate of 5 in China as a Small Low Profit Enterprise. 
+ (2) Includes blended state effective rate of 1.2 for 2024 and 2023 in addition to U.S. federal statutory rate of 21 . 
+ 
+ Income from our international operations is subject to taxation in the countries in which we operate. Although we may receive foreign income tax credits that would reduce the total amount of income taxes owed in the United States, we may not be able to fully utilize our foreign income tax credits in the United States. 
+ We use the recognition and measurement provisions of the FASB ASC Topic 740, Income Taxes Topic 740 ), to account for income taxes. The provisions of Topic 740 require a company to record a valuation allowance when the more likely than not criterion for realizing net deferred tax assets cannot be met. Furthermore, the weight given to the potential effect of such evidence should be commensurate with the extent to which it can be objectively verified. As a result, we reviewed the operating results, as well as all of the positive and negative evidence related to realization of such deferred tax assets to evaluate the need for a valuation allowance in each tax jurisdiction. 
+ The provision for income taxes is directly related to our profitability and changes in the taxable income across countries of operation. For the three and nine months ended September 30, 2024, the Company s effective tax rate was 83.9 
+ 29 
+
+and 71.1 , respectively. For the three and nine months ended September 30, 2023, the Company s effective tax rate was 43.0 and 166.1 , respectively. 
+ The effective tax rates for the three and nine months ended September 30, 2024 and 2023 was different from the federal statutory rate due primarily to the mix of earnings across jurisdictions and the associated valuation allowances recorded on losses in certain jurisdictions. 
+ 
+ 30 
+
+LIQUIDITY AND CAPITAL RESOURCES 
+ Cash and Cash Equivalents 
+ As of September 30, 2024, our cash and cash equivalents increased by 57.2 , or 4.5 million, to 12.2 million from 7.7 million as of December 31, 2023. The Company is required to restrict cash for: (i) direct selling insurance premiums and credit card sales in the Republic of Korea; (ii) reserves related to credit card sales in the United States and Canada; and (iii) collateral for a building lease in Australia. The current portion of restricted cash balances was 0.9 million at each of September 30, 2024 and December 31, 2023. The long-term portion of restricted cash balances was 0.6 million and 0.7 million at September 30, 2024 and December 31, 2023, respectively. 
+ Our principal use of cash is to pay for operating expenses, including commissions and incentives, capital assets, inventory purchases, and periodic cash dividends. We did not pay a dividend in the current quarter. Business objectives, operations, and expansion of operations are funded through net cash flows from operations rather than incurring long-term debt. 
+ 
+ Working Capital 
+ Working capital represents total current assets less total current liabilities. At September 30, 2024 and December 31, 2023, our working capital was 5.7 million and 1.9 million , respectively. 
+ 
+ Net Cash Flows 
+ Our net consolidated cash flows consisted of the following, for the nine months ended September 30 (in millions) : 
+ Provided by (Used in): 2024 2023 Operating activities 2.5 (1.0) Investing activities (0.4) (0.5) Financing activities 2.9 (1.6) 
+ 
+ Operating Activities 
+ Operating activities provided 2.5 million cash for the nine months ended September 30, 2024 as compared to a use of 1.0 million cash in the same period in 2023. The improvement is due to reduced operating costs and management of inventory carrying balances over the nine months ended September 30, 2024. 
+ 
+ Investing Activities 
+ For the nine months ended September 30, 2024 and 2023, we invested cash of 0.4 million and 0.5 million, respectively, principally for back-office software projects, reported as property and equipment. 
+ 
+ Financing Activities 
+ For the nine months ended September 30, 2024 our financing activities provided cash of 2.9 million. We received 3.6 million from the issuance of notes payable (see Note 4) and we used 0.7 million in the repayment of finance lease obligations. 
+ For the nine months ended September 30, 2023 our financing activities used 1.6 million. For the nine months ended September 30, 2023, we used 0.7 million in payments of dividends to shareholders, 0.7 million in the repayment of finance lease obligations and 0.2 million in the repurchase of common stock. 
+ 
+ 31 
+
+General Liquidity and Cash Flows 
+ 
+ Short Term Liquidity 
+ As of September 30, 2024, our cash and cash equivalents was 12.2 million. We believe our existing liquidity and cash flows from operations are adequate to fund our normal expected future business operations for the next twelve months. 
+ On April 23, 2024, the Company entered into unsecured Loan and Promissory Note agreements with three related parties, who are members of the Company s Board of Directors, and who are current stockholders of the Company, in an aggregate principal amount of 3.6 million. The purpose of the borrowing was to provide funds to the Company for general working capital needs, including payment to vendors, expansion of the Company s non-US operations, technology investment primarily for improving the customer ordering process and software updates to improve visibility of sales associate activity. 
+ We have contractual purchase commitments with certain raw materials suppliers to purchase minimum quantities. At September 30, 2024, we have one supply agreement which was amended on April 18, 2024, that requires the Company to purchase an aggregate of 1.8 million through 2025, with no purchase commitments thereafter. We also maintain other supply agreements and manufacturing agreements to protect our products, regulate product costs, and help ensure quality control standards. These agreements do not require us to purchase any minimum quantities. 
+ We have operating lease liabilities for the property and equipment we use in our business operations. These operating lease liabilities represent our minimum future payment obligations on operating leases, including imputed interest. At September 30, 2024, our operating lease liabilities were 3.3 million, of which 1.5 million is presented as the current portion and 1.8 million is presented as Operating lease liabilities excluding current portion on our Condensed Consolidated Balance Sheets. We also have finance lease liabilities of 1.0 million and lease restoration liabilities of 0.4 million. 
+ As our primary source of liquidity has historically been our cash flows from operations, our liquidity is dependent on our ability to maintain and/or continue to improve revenue as compared to our operational expenses. In this regard, our management has established a 2024 business reorganization plan focusing on revenue growth, margin improvement and cost control and reduction, including a plan to improve margin through a price increase, continued focus on supply chain costs, and certain compensation plan adjustments, as well as to reorganize certain functional operations and reduce our fixed selling and administrative overhead. 
+ However, if our reorganization plans are not successful, or if we experience further or unexpected disruption in our supply chain, and/or potential decreases in consumer demands, our sales and our overall liquidity in the next twelve months could be negatively impacted. If our existing capital resources or cash flows become insufficient to meet current business plans, projections, and existing capital requirements, we may be required to raise additional funds, which may not be available on favorable terms, if at all. 
+ 
+ Long Term Liquidity 
+ We believe our cash flows from operations should be adequate to fund our normal expected future business operations and possible international expansion costs for the long term. As our primary source of liquidity is from our cash flows from operations, this will be dependent on our ability to maintain or improve revenue as compared to operational expenses. 
+ However, if our existing capital resources or cash flows become insufficient to meet anticipated business plans and existing capital requirements, we may be required to raise additional funds, which may not be available on favorable terms, if at all. 
+ Our future access to the capital markets may be adversely impacted if we fail to maintain compliance with the Nasdaq Marketplace Rules for the continued listing of our stock. We continuously monitor our compliance with the Nasdaq continued listing rules. 
+ 
+ 32 
+
+OFF-BALANCE SHEET ARRANGEMENTS 
+ We do not have any special-purpose entity arrangements, nor do we have any off-balance sheet arrangements. 
+
+CRITICAL ACCOUNTING ESTIMATES 
+ Our condensed consolidated financial statements are prepared in accordance with GAAP. The application of GAAP requires us to make estimates and assumptions that affect the reported values of assets and liabilities at the date of our financial statements, the reported amounts of revenues and expenses during the reporting period, and the related disclosures of contingent assets and liabilities. We use estimates throughout our financial statements, which are influenced by management s judgment and uncertainties. Our estimates are based on historical trends, industry standards, and various other assumptions that we believe are applicable and reasonable under the circumstances at the time the condensed consolidated financial statements are prepared. Our Audit Committee reviews our significant accounting policies and critical estimates. We continually evaluate and review our policies related to the portrayal of our consolidated financial position and consolidated results of operations that require the application of significant judgment by our management. We also analyze the need for certain estimates, including the need for such items as allowance for credit losses, inventory reserves, long-lived fixed assets and capitalization of internal-use software development costs, reserve for uncertain income tax positions an d tax valuation allowances, revenue recognition, sales returns, and deferred revenues, accounting for stock-based compensation, and contingencies and litigation. Historically, actual results have not materially deviated from our estimates. However, we caution readers that actual results could differ from our estimates and assumptions applied in the preparation of our condensed consolidated financial statements. If circumstances change relating to the various assumptions or conditions used in our estimates, we could experience an adverse effect on our financial position, results of operations, and cash flows. We have identified the following applicable significant accounting policies and critical estimates as of September 30, 2024. 
+ 
+ Inventory Reserves 
+ Inventory consists of raw materials, finished goods, and promotional materials that are stated at the lower of cost (using standard costs that approximate average costs) or market. We record the amounts charged by the vendors as the costs of inventory. Typically, the net realizable value of our inventory is higher than the aggregate cost. Determination of net realizable value can be complex and, therefore, requires a high degree of judgment. In order for management to make the appropriate determination of net realizable value, the following items are considered: inventory turnover statistics, current selling prices, seasonality factors, consumer demand, regulatory changes, competitive pricing, and performance of similar products. If we determine the carrying value of inventory is in excess of estimated net realizable value, we write down the value of inventory to the estimated net realizable value. 
+ We also review inventory for obsolescence in a similar manner and any inventory identified as obsolete is reserved or written off. Our determination of obsolescence is based on assumptions about the demand for our products, product expiration dates, estimated future sales, and general future plans. We monitor actual sales compared to original projections, and if actual sales are less favorable than those originally projected by us, we record an additional inventory reserve or write-down. Historically, our estimates have been close to our actual reported amounts. However, if our estimates regarding inventory obsolescence are inaccurate or consumer demand for our products changes in an unforeseen manner, we may be exposed to additional material losses or gains in excess of our established estimated inventory reserves. 
+ 
+ Tax Valuation Allowances 
+ As of September 30, 2024, there was nothing recorded in other long-term liabilities on our condensed consolidated balance sheet related to uncertain income tax positions. As required by Topic 740, we use judgments and make estimates and assumptions related to evaluating the probability of uncertain income tax positions. We base our estimates and assumptions on the potential liability related to an assessment of whether the income tax position will more likely than not be sustained in an income tax audit. We are also subject to periodic audits from multiple domestic and foreign tax authorities related to income tax and other forms of taxation. These audits examine our tax positions, timing of income and deductions, and allocation procedures across multiple jurisdictions. Depending on the nature of the tax issue, we could be subject to audit over several years. There are ongoing income tax audits in various international jurisdictions that we believe are not material to our financial statements. 
+ 
+ Revenue Recognition and Deferred Commissions 
+ Our revenue is derived from sales of individual products and associate fees or, in certain geographic markets, starter packs. Substantially all of our product and pack sales are to associates and preferred customers at published wholesale prices. We record revenue net of any sales taxes and record a reserve for expected sales returns based on historical experience. During 
+ 33 
+
+the quarter ended September 30, 2024 the Company changed its shipping terms with customers such that ownership transfers upon delivery to the freight carrier, satisfying the Company's performance obligation. Previously, the Company's shipping terms were FOB destination, so the Company recognized revenue upon delivery of the product to the customer. We recorded the value of orders shipped but not yet delivered to customers as Deferred revenue on our Consolidated Balance Sheet. Corporate-sponsored event revenue is recognized when the event is held. 
+ Orders placed by associates or preferred customers constitute our contracts. Product sales placed in the form of an automatic order contain two performance obligations: (1) the sales of the product and (2) the loyalty program. For these contracts, we account for each of these obligations separately as they are each distinct. The transaction price is allocated between the product sale and the loyalty program on a relative standalone selling price basis. Sales placed through a one-time order contain only the first performance obligation noted above the sale of the product. 
+ We provide associates with access to a complimentary three-month package for the Success Tracker and Mannatech+ online business tools with the first payment of an associate fee. The first payment of an associate fee contains three performance obligations: (1) providing new associates with the eligibility to earn commissions, bonuses and incentives for twelve months, (2) three months of complimentary access to utilize the Success Tracker online tool, and (3) three months of complimentary access to utilize the Mannatech+ online business tool. The transaction price is allocated between the three performance obligations on a relative standalone selling price basis. Associates do not have complimentary access to online business tools after the first contractual period. 
+ With regard to both of the aforementioned contracts, we determine the standalone selling prices by using observable inputs, which include our standard published price lists. 
+ 
+ Product Return Policy 
+ We stand behind our packs and products and believe we offer a reasonable and industry-standard product return policy to all of our customers. We do not resell returned products. Refunds are not processed until proper approval is obtained. All refunds must be processed and returned in the same form of payment that was originally used in the sale. Each country in which we operate has specific product return guidelines. However, we allow our associates and preferred customers to exchange products as long as the products are unopened and in good condition. Our return policies for our retail customers and our associates and preferred customers are as follows: 
+ Retail Customer Product Return Policy. This policy allows a retail customer to return any of our products to the original associate who sold the product and receive a full cash refund from the associate for the first 180 days following the product s purchase if located in the United States and Canada, and for the first 90 days following the product s purchase in other countries where we sell our products. The associate may then return or exchange the product based on the associate product return policy. 
+ Associate and Preferred Customer Product Return Policy. This policy allows the associate or preferred customer to return an order within one year of the purchase date upon terminating his/her account. If an associate or preferred customer returns a product unopened and in good condition, he/she may receive a full refund minus a 10 restocking fee. We may also allow the associate or preferred customer to receive a full satisfaction guarantee refund if they have tried the product and are not satisfied for any reason, excluding promotional materials. This satisfaction guarantee refund applies in the United States and Canada, only for the first 180 days following the product s purchase and applies in other countries where we sell our products for the first 90 days following the product s purchase; however, any commissions earned by an associate will be deducted from the refund. If we discover abuse of the refund policy, we may terminate the associate s or preferred customer s account. 
+ Historically, sales returns estimates have not materially deviated from actual sales returns, as the majority of our customers who return merchandise do so within the first 90 days after the original sale. Based upon our return policies and historical experience, we estimate a sales return reserve for expected sales refunds over a rolling six-month period. If actual results differ from our estimated sales returns reserves due to various factors, the amount of revenue recorded each period could be materially affected. Historically, our sales returns have not materially changed through the years and have averaged 0.5 or less of our gross sales. 
+
+34 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+ We do not engage in trading market risk sensitive instruments and do not purchase investments as hedges or for purposes other than trading that are likely to expose us to certain types of market risk, including interest rate, commodity price, or equity price risk. Although we have investments, we believe there has been no material change in our exposure to interest rate risk. We have not issued any debt instruments, entered into any forward or futures contracts, purchased any options, or entered into any swap agreements. 
+ We are exposed, however, to other market risks, including changes in currency exchange rates as measured against the United States dollar. Because the change in value of the United States dollar measured against foreign currency may affect our consolidated financial results, changes in foreign currency exchange rates could positively or negatively affect our results as expressed in United States dollars. For example, when the United States dollar strengthens against foreign currencies in which our products are sold or weakens against foreign currencies in which we may incur costs, our consolidated net sales or related costs and expenses could be adversely affected. We translate our revenues and expenses in foreign markets using an average rate. 
+ We maintain policies, procedures, and internal processes in an effort to help monitor any significant market risks and we do not use any financial instruments to manage our exposure to such risks. We assess the anticipated foreign currency working capital requirements of our foreign operations and maintain a portion of our cash and cash equivalents denominated in foreign currencies sufficient to satisfy most of these anticipated requirements. 
+ We caution that we cannot predict with any certainty our future exposure to such currency exchange rate fluctuations or the impact, if any, such fluctuations may have on our future business, product pricing, operating expenses, and on our consolidated financial position, results of operations, or cash flows. However, to combat such market risk, we closely monitor our exposure to currency fluctuations. 
+
+35 
+
+Item 4. Controls and Procedures 
+ 
+ Evaluation of Disclosure Controls and Procedures 
+ Our management, with the participation of our Chief Executive Officer (principal executive officer) and our Chief Financial Officer (principal financial officer), have concluded, based on their evaluation as of the end of the period covered by this report, that our disclosure controls and procedures (as defined in Rule 13a-15(e) or Rule 15d-15(e) under the Exchange Act) are effective to ensure that information required to be disclosed by us in reports filed or submitted under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC s rules and forms and include controls and procedures designed to ensure that information required to be disclosed by us in such reports is accumulated and communicated to our management, including our principal executive and financial officers, as appropriate, to allow timely decisions regarding required disclosure. 
+ 
+ Changes in Internal Control over Financial Reporting 
+ During the quarter ended September 30, 2024, there were no changes in our internal control over our financial reporting that we believe materially affected, or are reasonably likely to materially affect, our internal control over financial reporting. 
+ 36 
+
+PART II - OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+ See Note 7, Litigation, of our Notes to Unaudited Condensed Consolidated Financial Statements, which is incorporated herein by reference. 
+
+Item 1A. Risk Factors 
+ In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part I, Item 1A. Risk Factors in our 2023 Annual Report, which could materially affect our business or our consolidated financial position, results of operations, and cash flows. The risks described in our 2023 Annual Report are not the only risks we face. Additional risks and uncertainties not currently known to us or that we currently deem to be insignificant also may become materially adverse or may affect our business in the future or our consolidated financial position, results of operations, or cash flows. 
+
+37 
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+ 
+ None. 
+
+Item 3. Defaults Upon Senior Securities 
+ 
+ None. 
+
+Item 4. Mine Safety Disclosures 
+ 
+ Not Applicable. 
+
+Item 5. Other Information 
+ 
+ Not Applicable. 
+
+Item 6 Exhibits 
+ 
+ See Index to Exhibits immediately following this page. 
+ 38 
+
+INDEX TO EXHIBITS 
+ 
+ Incorporated by Reference Exhibit Number Exhibit Description Form File No. Exhibit (s) Filing Date 3.1 
+ Amended and Restated Articles of Incorporation of Mannatech, Incorporated, dated May 19, 1998. 
+ S-1 333-63133 3.1 September 10, 1998 3.2 
+ Amendment to the Amended and Restated Articles of Incorporation of Mannatech, dated January 13, 2012. 8-K 000-24657 3.1 January 17, 2012 3.3 
+ Fifth Amended and Restated Bylaws of Mannatech, dated August 25, 2014. 8-K 000-24657 3.1 August 27, 2014 4.1 
+ Specimen Certificate representing Mannatech s common stock, par value 0.0001 per share. S-1 333-63133 4.1 October 28, 1998 10.17 
+ Loan Agreement and Promissory Note with Jade Capital, signed April 23, 2024. 8-K 000-24657 10.2 April 23, 2024 10.18 
+ Loan Agreement and Promissory Note with J. Stanley Fredrick, signed April 23, 2024. 8-K 000-24657 10.2 April 23, 2024 10.19 
+ Loan Agreement and Promissory Note with Kevin Robbins, signed April 23, 2024. 8-K 000-24657 10.2 April 23, 2024 31.1 
+ Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, of the Chief Executive Officer of Mannatech. 31.2 
+ Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002, of the Chief Financial Officer of Mannatech. 32.1 
+ Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, of the Chief Executive Officer of Mannatech. 32.2 
+ Certification pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, of the Chief Financial Officer of Mannatech. 101.INS XBRL Instance Document 101.SCH XBRL Taxonomy Extension Schema Document 101.CAL XBRL Taxonomy Extension Calculation Linkbase Document 101.LAB XBRL Taxonomy Extension Label Linkbase Document 101.PRE XBRL Taxonomy Extension Presentation Linkbase Document 101.DEF XBRL Taxonomy Extension Definition Linkbase Document 
+ 
+ Filed herewith. Furnished herewith. 
+ 39 
+
+SIGNATURES 
+ 
+ Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
+ 
+ MANNATECH, INCORPORATED Dated: November 12, 2024 By: /s/ Landen Fredrick Landen Fredrick Chief Executive Officer (principal executive officer) 
+ Dated: November 12, 2024 By: /s/ James Clavijo James Clavijo Chief Financial Officer (principal financial officer) 
+ 
+ 40 
+
+Exhibit 31.1 
+ 
+ CERTIFICATION 
+ PURSUANT TO 17 CFR 240.13a-14 
+ PROMULGATED UNDER 
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Landen Fredrick, certify that: 
+ 
+ 1. I have reviewed this quarterly report on Form 10-Q of Mannatech, Incorporated; 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+ (b) Any fraud, whether or not material, which involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 12, 2024 
+ /s/ Landen Fredrick Landen Fredrick Chief Executive Officer (principal executive officer) 
+ 
+ 41 
+
+Exhibit 31.2 
+ 
+ CERTIFICATION 
+ PURSUANT TO 17 CFR 240.13a-14 
+ PROMULGATED UNDER 
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, James Clavijo, certify that: 
+ 
+ 1. I have reviewed this quarterly report on Form 10-Q of Mannatech, Incorporated; 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report; 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report; 
+ 4. The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have: 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared; 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles; 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting; and 
+ 5. The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions): 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and 
+ (b) Any fraud, whether or not material, which involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date: November 12, 2024 
+ /s/ James Clavijo James Clavijo Chief Financial Officer (principal financial officer) 
+ 
+ 42 
+
+Exhibit 32.1 
+ 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report of Mannatech, Incorporated (the Company on Form 10-Q for the period ending September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Landen Fredrick, Chief Executive Officer of the Company, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+ 
+ 1. The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date: November 12, 2024 
+ /s/ Landen Fredrick Landen Fredrick Chief Executive Officer (principal executive officer) 
+ 
+ A SIGNED ORIGINAL OF THIS WRITTEN STATEMENT REQUIRED BY SECTION 906 HAS BEEN PROVIDED TO MANNATECH, INCORPORATED AND FURNISHED TO THE SECURITIES AND EXCHANGE COMMISSION OR ITS STAFF UPON REQUEST. 
+
+43 
+
+Exhibit 32.2 
+ 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report of Mannatech, Incorporated (the Company on Form 10-Q for the period ending September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, James Clavijo, Chief Financial Officer of the Company, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that: 
+ 
+ 1. The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934; and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date: November 12, 2024 
+ /s/ James Clavijo James Clavijo Chief Financial Officer (principal financial officer) 
+ 
+ A SIGNED ORIGINAL OF THIS WRITTEN STATEMENT REQUIRED BY SECTION 906 HAS BEEN PROVIDED TO MANNATECH, INCORPORATED AND FURNISHED TO THE SECURITIES AND EXCHANGE COMMISSION OR ITS STAFF UPON REQUEST. 
+
+44 
+
+<EX-31.1>
+ 2
+ mtexq3202410-qexh311.htm
+ EX-31.1
+
+Document 
+
+Exhibit 31.1 
+ 
+ CERTIFICATION 
+ PURSUANT TO 17 CFR 240.13a-14 
+ PROMULGATED UNDER 
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, Landen Fredrick, certify that 
+ 
+ 1. I have reviewed this quarterly report on Form 10-Q of Mannatech, Incorporated 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. As the registrant s certifying officer, I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. As the registrant s certifying officer, I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date November 12, 2024 
+ s Landen Fredrick Landen Fredrick Chief Executive Officer (principal executive officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ mtexq3202410-qexh312.htm
+ EX-31.2
+
+Document 
+
+Exhibit 31.2 
+ 
+ CERTIFICATION 
+ PURSUANT TO 17 CFR 240.13a-14 
+ PROMULGATED UNDER 
+ SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ I, James Clavijo, certify that 
+ 
+ 1. I have reviewed this quarterly report on Form 10-Q of Mannatech, Incorporated 
+ 2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report 
+ 3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report 
+ 4. As the registrant s certifying officer, I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have 
+ (a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared 
+ (b) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles 
+ (c) Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation and 
+ (d) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant s internal control over financial reporting and 
+ 5. As the registrant s certifying officer, I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions) 
+ (a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information and 
+ (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting. 
+
+Date November 12, 2024 
+ s James Clavijo James Clavijo Chief Financial Officer (principal financial officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ mtexq3202410-qexh321.htm
+ EX-32.1
+
+Document 
+
+Exhibit 32.1 
+ 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report of Mannatech, Incorporated (the Company on Form 10-Q for the period ending September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, Landen Fredrick, Chief Executive Officer of the Company, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ 1. The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date November 12, 2024 
+ s Landen Fredrick Landen Fredrick Chief Executive Officer (principal executive officer) 
+ 
+ A SIGNED ORIGINAL OF THIS WRITTEN STATEMENT REQUIRED BY SECTION 906 HAS BEEN PROVIDED TO MANNATECH, INCORPORATED AND FURNISHED TO THE SECURITIES AND EXCHANGE COMMISSION OR ITS STAFF UPON REQUEST. 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ mtexq3202410-qexh322.htm
+ EX-32.2
+
+Document 
+
+Exhibit 32.2 
+ 
+ CERTIFICATION PURSUANT TO 
+ 18 U.S.C. SECTION 1350, 
+ AS ADOPTED PURSUANT TO 
+ SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ 
+ In connection with the Quarterly Report of Mannatech, Incorporated (the Company on Form 10-Q for the period ending September 30, 2024 as filed with the Securities and Exchange Commission on the date hereof (the Report ), I, James Clavijo, Chief Financial Officer of the Company, hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that 
+ 
+ 1. The Report fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934 and 
+ 2. The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company. 
+ 
+ Date November 12, 2024 
+ s James Clavijo James Clavijo Chief Financial Officer (principal financial officer) 
+ 
+ A SIGNED ORIGINAL OF THIS WRITTEN STATEMENT REQUIRED BY SECTION 906 HAS BEEN PROVIDED TO MANNATECH, INCORPORATED AND FURNISHED TO THE SECURITIES AND EXCHANGE COMMISSION OR ITS STAFF UPON REQUEST. 
+
+</EX-32.2>
+
+<EX-101.SCH>
+ 6
+ mtex-20240930.xsd
+ XBRL TAXONOMY EXTENSION SCHEMA DOCUMENT
+
+</EX-101.SCH>
+
+<EX-101.CAL>
+ 7
+ mtex-20240930_cal.xml
+ XBRL TAXONOMY EXTENSION CALCULATION LINKBASE DOCUMENT
+
+</EX-101.CAL>
+
+<EX-101.DEF>
+ 8
+ mtex-20240930_def.xml
+ XBRL TAXONOMY EXTENSION DEFINITION LINKBASE DOCUMENT
+
+</EX-101.DEF>
+
+<EX-101.LAB>
+ 9
+ mtex-20240930_lab.xml
+ XBRL TAXONOMY EXTENSION LABEL LINKBASE DOCUMENT
+
+</EX-101.LAB>
+
+<EX-101.PRE>
+ 10
+ mtex-20240930_pre.xml
+ XBRL TAXONOMY EXTENSION PRESENTATION LINKBASE DOCUMENT
+
+</EX-101.PRE>
+
