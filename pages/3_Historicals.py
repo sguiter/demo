@@ -4,6 +4,8 @@ import pandas as pd
 from streamlit_app.helpers.API_helpers import get_financial_statement
 from streamlit_app.helpers.excel_helpers import create_excel_file
 
+st.set_page_config(page_title="Historical Data", page_icon="💵", layout="wide")
+
 def transform_income_statement(df):
     df = df.set_index('date')
     df = df.drop(columns=[

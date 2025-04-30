@@ -1795,6 +1795,7 @@ prompt_toolkit = ">=3.0.41,<3.1.0"
 pygments = ">=2.4.0"
 stack_data = "*"
 traitlets = ">=5.13.0"
+typing_extensions = {version = ">=4.6", markers = "python_version < \"3.12\""}
 
 [package.extras]
 all = ["ipython[doc,matplotlib,test,test-extra]"]
@@ -3477,10 +3478,7 @@ files = [
 [package.dependencies]
 deprecated = ">=1.2.6"
 googleapis-common-protos = ">=1.52,<2.0"
-grpcio = [
-    {version = ">=1.63.2,<2.0.0", markers = "python_version < \"3.13\""},
-    {version = ">=1.66.2,<2.0.0", markers = "python_version >= \"3.13\""},
-]
+grpcio = {version = ">=1.63.2,<2.0.0", markers = "python_version < \"3.13\""}
 opentelemetry-api = ">=1.15,<2.0"
 opentelemetry-exporter-otlp-proto-common = "1.32.1"
 opentelemetry-proto = "1.32.1"
@@ -3756,7 +3754,7 @@ files = [
 ]
 
 [package.dependencies]
-numpy = {version = ">=1.26.0", markers = "python_version >= \"3.12\""}
+numpy = {version = ">=1.23.2", markers = "python_version == \"3.11\""}
 python-dateutil = ">=2.8.2"
 pytz = ">=2020.1"
 tzdata = ">=2022.7"
@@ -5769,7 +5767,6 @@ nvidia-cusparselt-cu12 = {version = "0.6.3", markers = "platform_system == \"Lin
 nvidia-nccl-cu12 = {version = "2.26.2", markers = "platform_system == \"Linux\" and platform_machine == \"x86_64\""}
 nvidia-nvjitlink-cu12 = {version = "12.6.85", markers = "platform_system == \"Linux\" and platform_machine == \"x86_64\""}
 nvidia-nvtx-cu12 = {version = "12.6.77", markers = "platform_system == \"Linux\" and platform_machine == \"x86_64\""}
-setuptools = {version = "*", markers = "python_version >= \"3.12\""}
 sympy = ">=1.13.3"
 triton = {version = "3.3.0", markers = "platform_system == \"Linux\" and platform_machine == \"x86_64\""}
 typing-extensions = ">=4.10.0"
@@ -6558,5 +6555,5 @@ type = ["pytest-mypy"]
 
 [metadata]
 lock-version = "2.0"
-python-versions = ">=3.12,<4.0"
-content-hash = "b51e62a3e2c6f719d383d0648b85e55df1334380e86222ecf6a508f6d74a1a42"
+python-versions = ">=3.11,<3.12"
+content-hash = "2e0f082d1537086c850db5fe22f06859258e8f92192ccf3758a7bbb5a35472d9"

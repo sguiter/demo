@@ -29,7 +29,7 @@ except Exception as e:
     print(f"⚠️ Error checking ChromaDB documents: {e}")
 
 rag_agent = ChromaAgent(llm, vdb)
-rag_kwargs = {"k": 5, "max_distance": 0.65, "show_citations": True}
+rag_kwargs = {"k": 15, "max_distance": 0.95, "show_citations": True}
 
 
 multi_agent = MultiAgent(
@@ -44,10 +44,17 @@ multi_agent = MultiAgent(
 
 def query_race_agent(user_input):
     try:
-        response = multi_agent.qupoery(user_input)
+        response = multi_agent.query(user_input)
+
+        # print(f"RESPONSE: {response}")
 
         agent_used = getattr(multi_agent, "last_agent_name_", "Unknown")
+
+        # print(f"AGENT USED: {agent_used}")
+
         agent_type = type(getattr(multi_agent, "last_agent_", None)).__name__
+
+        # print(f"AGENT TYPE: {agent_type}")
 
         trace = "Trace not available."
 
@@ -55,6 +62,9 @@ def query_race_agent(user_input):
             trace = "\n\n".join(getattr(multi_agent.last_agent_, "docs_", []))
 
         formatted_trace = f"🔎 **Agent Used:** {agent_used}\n\n{trace}"
+
+        # print(f"TRACE: {formatted_trace}")
+
         return response, formatted_trace
 
     except Exception as e:

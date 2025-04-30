@@ -194,7 +194,7 @@ class ChromaAgent(BaseRAGAgent):
                 "🛠️ Try increasing `max_distance` or refining your query."
             )
             print(msg)
-            return None
+            return msg
 
         # Construct system role and context
         system_prompt = (
